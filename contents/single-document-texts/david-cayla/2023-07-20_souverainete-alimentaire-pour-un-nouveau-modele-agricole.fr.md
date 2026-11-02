@@ -1,0 +1,725 @@
+---
+source_url: https://www.youtube.com/watch?v=W0s3j9K-jTA
+video_title: "Souveraineté alimentaire: pour un nouveau modèle agricole"
+generated_at: 2026-09-20T18:49:54.629Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 65
+  input_tokens: 17250
+  cached_input_tokens: 0
+  output_tokens: 16390
+  estimated_cost_usd: 0.012421
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Souveraineté alimentaire: pour un nouveau modèle agricole
+
+Bonjour à tous et merci pour cette invitation par le MODEF Ardèche. Je voulais
+commencer par dire que je suis économiste universitaire à l’Université d’Angers,
+et c’est toujours un peu délicat pour un économiste d’arriver chez les paysans
+et de leur dire quel devrait être le modèle agricole. Je n’ai pas la prétention
+de vous dire ce que doit être ce modèle. Mon objectif, c’est plutôt de discuter,
+de vous donner quelques idées — qui sont aussi le fruit des discussions que nous
+avons eues au congrès du MODEF — et surtout de permettre un débat, une réflexion
+sur le modèle agricole que nous devrions soutenir.
+
+## La souveraineté alimentaire au cœur du modèle agricole
+
+Le modèle actuel pose problème de différents points de vue. L’un des enjeux les
+plus importants de l’agriculture, c’est quand même de nourrir les gens. Et
+nourrir les gens, cela veut dire assurer la souveraineté alimentaire, qu’il faut
+distinguer de la souveraineté agricole au sens strict. Ce qui me semble le plus
+important dans l’agriculture, c’est sa capacité à nourrir. Bien sûr, toute la
+nourriture n’a pas vocation à nourrir les gens : on fait pousser du coton pour
+le textile, et toute une partie de l’agriculture sert de matière première. Mais
+ce qui doit être vraiment spécifique à l’agriculture, c’est aussi sa capacité à
+nourrir, directement ou par le bétail. C’est cette chose-là qu’il faut
+absolument protéger.
+
+Le monde de demain, on ne sait pas trop comment il sera, mais ce qui est vrai,
+c’est qu’il fonctionne aujourd’hui à base de pétrole, de transport et d’échanges
+internationaux. Or l’agriculture française est confrontée à des modèles
+agricoles extérieurs qui n’ont pas du tout les mêmes coûts de production. Quand
+on regarde les conséquences, cela incite les agriculteurs à adopter des modèles
+plus efficaces pour produire moins cher, pour répondre à la concurrence du
+Canada, de la Nouvelle-Zélande ou d’autres pays très loin. Mais cela a pour
+conséquence de réduire les rendements de la terre et de diminuer la souveraineté
+alimentaire de la France.
+
+La souveraineté, c’est aussi une question de surface agricole. Il y a déjà une
+perte de surfaces agricoles en France avec la bétonisation. Certaines parcelles,
+du fait de la concurrence, sont moins rentables et sont abandonnées, ce qui
+favorise l’expansion des forêts. D’autres parcelles sont utilisées pour des
+infrastructures routières ou des lotissements : c’est l’urbanisation. Et
+parfois, on cultive moins bien les terres pour avoir des coûts de production
+compatibles avec ceux de l’étranger. À la fin, on produit moins de nourriture en
+France.
+
+On pourrait dire que ce n’est pas grave puisqu’on peut acheter la nourriture à
+l’étranger. Mais aujourd’hui, on sait qu’on peut avoir du commerce de nourriture
+assez facilement ; demain, ce n’est pas garanti. On l’a vu avec la guerre en
+Ukraine : quand on bloque les ports de la mer Noire, des pays risquent des
+problèmes alimentaires parce qu’ils ne sont pas du tout souverains du point de
+vue alimentaire. Je pense évidemment à des pays comme l’Égypte, ou à d’autres
+pays qui ont très peu de surface agricole et qui sont parfois très peuplés, et
+qui ne peuvent donc pas se nourrir eux-mêmes.
+
+La question de la souveraineté alimentaire devrait donc être au cœur des
+politiques agricoles aujourd’hui, en particulier en France. En France, on a
+complètement les moyens de se nourrir nous-mêmes. On a une densité de population
+finalement assez faible, notamment comparée à d’autres pays comme l’Égypte : si
+on enlève le désert, l’Égypte est très dense. Même en Europe du Nord, les
+Pays-Bas, la Belgique sont des pays très denses, et il faut bien qu’ils
+importent une partie de leur nourriture. En France, on a un peu plus de 100
+habitants au kilomètre carré, beaucoup de surfaces tout à fait cultivables, et
+on devrait être capable non seulement de se nourrir, mais même d’exporter pour
+nourrir les pays qui n’ont pas la possibilité d’être souverains du point de vue
+alimentaire.
+
+Toute la question, c’est : comment fait-on ? Mon sentiment, et je pense qu’il
+est partagé — c’est en tout cas ce dont nous avons discuté lors du congrès du
+MODEF —, c’est que le modèle actuel va plutôt mettre en danger la souveraineté
+alimentaire française, avec des conséquences comme la baisse du nombre
+d’agriculteurs, le vieillissement des agriculteurs, et le fait que le métier
+n’est plus assez attractif parce que beaucoup d’agriculteurs ont du mal à gagner
+leur vie. Cela va entraîner des phénomènes de déproduction, ce qui est
+évidemment très embêtant.
+
+On sait aussi que pour le bétail, une grande partie du fourrage et de
+l’alimentation animale est importée. Là aussi se pose la question de la
+souveraineté alimentaire globale, c’est-à-dire qui intègre à la fois la
+production, mais aussi les matières premières pour produire les intrants, la
+nourriture du bétail, et qui aille jusqu’à la transformation. Si on produit des
+pommes de terre en France, qu’on les exporte en Belgique pour les transformer en
+chips, puis qu’on rachète les chips, cela pose aussi des problèmes de
+souveraineté alimentaire. On devrait avoir une industrie agroalimentaire
+intégrée qui s’appuie essentiellement sur la production locale.
+
+## Réguler les prix agricoles
+
+Comment faire ? L’une des revendications du modèle que je trouve très
+intéressante, et sur laquelle je vais revenir, c’est bien sûr de revenir à des
+prix régulés. Les prix régulés, c’est l’idée que pour l’agriculteur, ce n’est
+pas tout à fait pareil de produire à très bas prix — c’est-à-dire de vendre en
+dessous du coût de production, comme c’est souvent le cas pour le lait — et
+d’être indemnisé par des subventions. Finalement, on a l’impression que ce qu’on
+produit n’a pas de valeur. Or cela a une valeur, et on nous compense par des
+subventions.
+
+Le problème des prix non régulés, c’est qu’ils varient énormément, ce qui
+entraîne une imprévisibilité. Or le métier agricole est un métier du temps long.
+On ne peut pas changer les affectations des terres très facilement. On ne peut
+pas se mettre à faire de la vigne comme ça, même si un voisin le fait en même
+temps : ce ne sont pas les mêmes termes. On ne peut pas changer aussi facilement
+de faire des céréales sur des terrains, et de toute façon, pour la vigne, il
+faut du temps avant qu’elle grandisse et qu’elle produise. Je ne parle même pas
+des éleveurs ou de ceux qui font des fruits, des vergers. Le temps long fait
+qu’on a besoin d’investissement, de projection dans l’avenir, et cela demande de
+la sécurité sur les prix.
+
+Même pour les céréales, qui peuvent être renouvelées chaque année, quand on sème
+au mois d’octobre-novembre, une fois que c’est semé, on ne peut plus enlever ni
+échanger. L’idée des économistes selon laquelle les prix en variant vont
+entraîner un ajustement de l’offre ne marche pas en agriculture. L’idée que la
+variation des prix va susciter une offre qui va s’adapter au marché est absurde
+du point de vue agricole. Ce qu’il faudrait, c’est faire en sorte que les prix
+soient beaucoup plus constants, beaucoup plus régulés, pour que s’il y a des
+ajustements d’offre à faire, cela soit préparé, organisé, et que les
+agriculteurs aient le temps de se retourner. C’est un peu la base des
+revendications du MODEF et d’un modèle agricole qui a déjà existé en France.
+
+Je voudrais maintenant revenir sur deux choses. D’abord, essayer d’expliquer
+comment la régulation des prix agricoles est apparue, pourquoi on s’est mis à
+faire de la régulation des prix. Il faut comprendre que, bizarrement, cela n’a
+pas été pour aider les agriculteurs qu’on a régulé les prix au départ. C’est
+important, parce que le MODEF aurait intérêt, de mon point de vue, à défendre la
+régulation des prix non pas uniquement en disant « il faut défendre le revenu
+des agriculteurs » — bien sûr, c’est une conséquence favorable, et il faut la
+porter pour vos adhérents — mais aussi en étant capable de dire aux citoyens et
+aux politiques que la régulation des prix est un avantage pour la société dans
+son ensemble, et pas uniquement pour les agriculteurs. C’est un message
+important.
+
+Deuxième chose : essayer de proposer un modèle qui aille un peu au-delà de la
+régulation du prix. Comment faire en sorte que cette régulation des prix
+s’intègre dans un système agricole qui puisse à la fois assurer la souveraineté
+alimentaire en France, mais qui ne soit pas incompatible non plus avec la
+souveraineté alimentaire dans d’autres pays ? Parce que, dans l’histoire, on a
+abandonné la régulation des prix agricoles parce que cela menaçait aussi la
+souveraineté alimentaire d’autres pays. Il faut donc concilier des choses qui ne
+sont pas forcément faciles à concilier.
+
+## L’histoire de la régulation aux États-Unis
+
+Il y a deux histoires : l’histoire française et européenne, et l’histoire des
+États-Unis. On oublie parfois que les États-Unis sont un pays libéral, mais dans
+les faits, ils n’ont pas toujours été libéraux. En particulier dans
+l’agriculture, il y a eu des politiques très intéressantes, avant même la
+France, qui visaient à réglementer, à réguler les prix agricoles.
+
+Pour comprendre l’histoire américaine, il faut revenir aux problèmes des
+agriculteurs et, plus largement, de l’économie américaine entre les deux
+guerres. Les États-Unis n’ont pas la même agriculture qu’en Europe : la
+population est beaucoup moins dense, les fermes sont en moyenne plus grandes. Au
+départ, à la fin du XIXe siècle, c’est une agriculture qui ressemble un peu à
+l’agriculture européenne, puisqu’il n’y a pas de mécanisation : ce sont des
+petites surfaces. Puis progressivement apparaît la mécanisation, avec les
+premiers tracteurs dans les années 1910, et cela explose surtout pendant la
+Première Guerre mondiale.
+
+Pourquoi pendant la Première Guerre mondiale ? Parce qu’en Europe, à l’époque,
+environ 40 % de la population active en France est agricole. Quand on envoie les
+armées au front, on dépeuple les campagnes : il n’y a pas assez de main-d’œuvre
+en Europe et en France. Les paysans de l’époque n’ont pas non plus les moyens de
+se mécaniser, surtout que beaucoup d’exploitants ou de fils d’exploitants sont
+partis sur le front. La production alimentaire et agricole diminue donc pendant
+la Première Guerre mondiale en Europe. Les Européens achètent alors des céréales
+aux États-Unis, qui voient leur demande augmenter. Les prix augmentent, et pour
+les agriculteurs américains, cette situation de guerre mondiale est une
+opportunité : il faut produire davantage, produire à moindre coût, profiter des
+prix élevés. Cela lance la dynamique de la mécanisation des campagnes.
+
+Pendant toute la Première Guerre mondiale, les agriculteurs américains
+bénéficient de prix très élevés, ce qui les pousse à investir dans des
+tracteurs, des machines, des moissonneuses, etc. Puis la paix revient. Les
+soldats rentrent dans leurs fermes, se remettent à produire, et les prix
+s’effondrent. On a une surproduction, les prix s’effondrent sur les marchés
+mondiaux, et les agriculteurs américains sont pris à la gorge : ils ont des
+frais supplémentaires liés au fait qu’ils ont souvent acheté du matériel à
+crédit, alors que leurs revenus diminuent. Là s’enclenche un cercle vicieux :
+plus les revenus diminuent, plus les agriculteurs font faillite ; plus ils font
+faillite, plus leurs terres sont rachetées, plus la taille moyenne des
+exploitations augmente. Pour les cultiver correctement, on enchaîne dans la
+mécanisation. Les agriculteurs qui ne se mécanisent pas voient la baisse des
+prix et ne peuvent pas y répondre par une hausse des quantités. Il y a donc un
+cycle de modernisation : l’agriculture passe d’un système quasiment traditionnel
+à un système mécanisé, avec des tailles d’exploitations qui s’accroissent
+beaucoup.
+
+Ce système entraîne une pauvreté importante dans beaucoup de campagnes. Certains
+agriculteurs, les premiers mécanisés, qui achètent les terres des autres, s’en
+sortent, mais globalement l’emploi agricole diminue. Jusque dans les années
+1920, ce n’est pas tellement un souci parce que les villes s’industrialisent et
+récupèrent la main-d’œuvre des campagnes. Du point de vue de la société
+américaine, la disparition de l’emploi agricole n’est pas un problème tant qu’il
+y a des usines dans les villes qui embauchent. Puis vient la crise économique de
+1929, et le chômage apparaît dans les villes. On se retrouve devant une impasse
+: la dynamique de la mécanisation des campagnes ne peut plus être compensée par
+l’emploi dans les villes. C’est à ce moment-là que le gouvernement américain
+commence à se dire qu’il faut réguler quelque chose dans les campagnes, sinon on
+va avoir du chômage dans les villes et dans les campagnes, et ce sera la
+catastrophe sociale, puis politique. Il faut éviter que l’exode rural s’amplifie
+et limiter la dynamique enclenchée par la mécanisation.
+
+Au début, on essaie d’aider les agriculteurs à mieux vendre leurs produits, en
+leur disant : regroupez-vous, on va vous aider à mieux commercialiser, à vendre
+plus cher, etc. C’est un discours qu’on entend encore aujourd’hui. Mais la
+concurrence est trop forte. Finalement, Roosevelt finit par permettre que la
+seule manière d’éviter l’exode rural et de limiter la rapidité du processus,
+c’est de réguler les prix. Pour réguler les prix aux États-Unis, on se pose la
+question : quel est le vrai prix ? Qu’est-ce que vaut un produit ? Comment
+concilier les besoins des agriculteurs, qui veulent des prix élevés, et ceux des
+consommateurs, qui veulent des prix faibles ? La solution, assez amusante et
+maligne, consiste à dire que les vrais prix agricoles ne sont ni les prix très
+élevés de la Première Guerre mondiale, ni les prix très faibles à partir des
+années 1920, mais ceux de la période 1909-1914, juste avant la Première Guerre
+mondiale. On instaure ce qu’on appelle la doctrine de la parité : on fait
+évoluer les prix par rapport aux prix d’avant la Première Guerre mondiale. Cela
+dure très longtemps. Après la Seconde Guerre mondiale, on reprend cette doctrine
+en disant que les vrais prix des produits agricoles sont ceux d’avant la
+mécanisation et la Première Guerre mondiale. La régulation des prix agricoles
+aux États-Unis dure jusqu’aux années 1990.
+
+Du point de vue américain, l’idée de contrôler les prix, c’était finalement de
+contrôler la dynamique de la modernisation pour éviter un effondrement des
+campagnes qui ne serait pas absorbable par l’emploi dans les villes. On voit
+bien, sur ce premier exemple, que quand les campagnes se dépeuplent et que
+l’emploi agricole diminue, tant que c’est absorbé par les villes, cela ne pose
+pas de problème ; quand il y a la crise économique, cela commence à poser
+problème. On a donc commencé à réguler. La régulation des prix, ce n’est pas
+juste soutenir les agriculteurs pour soutenir les agriculteurs : c’est soutenir
+les agriculteurs parce que, derrière, il y a des conséquences sociales liées à
+un contexte de crise.
+
+## L’histoire française et européenne
+
+En Europe, il y a eu des politiques agricoles avant la Seconde Guerre mondiale,
+mais le moment où l’on met en place un système de régulation des prix un peu
+ambitieux, c’est en France à la fin de la Seconde Guerre mondiale. Du point de
+vue du gouvernement français d’après-guerre, l’objectif est de moderniser les
+campagnes. Prenons la situation en 1946 : au Royaume-Uni, 5 % de la population
+active est agricole, ce qui veut dire que les campagnes britanniques sont déjà
+quasiment toutes mécanisées, avec des tracteurs partout. En France, à la même
+époque, on a quasiment aucune mécanisation et 35 % de la population active est
+agricole. C’est considérable. Ce chiffre de 35 % n’est pas extrêmement fiable
+parce que les conjoints — souvent les femmes d’agriculteurs — travaillent aussi
+mais ne sont pas toujours comptabilisés comme emploi agricole, et les enfants
+aussi peuvent travailler sans être forcément comptabilisés. Ces chiffres sont
+tous un peu reconstruits à posteriori. On considère quand même que 35 % de la
+main-d’œuvre active occupée était agricole, ce qui est considérable, surtout par
+rapport aux 5 % britanniques et à environ 15 % aux États-Unis. On a donc déjà un
+phénomène de mécanisation très rapide dans les pays anglo-saxons, mais très lent
+en France, et encore plus en Italie. Même en Allemagne, ils sont très loin de
+ces pourcentages.
+
+L’objectif du gouvernement français est finalement de diminuer la population
+active agricole pour que cette population aille travailler dans les usines. La
+modernisation de l’agriculture est le préalable à la modernisation du pays en
+général : il faut plus de main-d’œuvre dans les usines, donc moins de
+main-d’œuvre dans les campagnes, donc il faut mécaniser. Or le problème auquel
+le gouvernement français est confronté, c’est que les paysans n’ont pas du tout
+envie de s’endetter en achetant des tracteurs. Ils ont des petites
+exploitations, ce ne serait pas rentable, ce n’est pas pertinent même de leur
+point de vue. Et ils savent ce qui s’est passé en Angleterre et aux États-Unis :
+ils connaissent la crise agricole américaine. Ils sont donc très réticents à
+rentrer dans le modèle américain ou anglo-saxon en général, parce qu’ils savent
+que s’ils commencent à mécaniser, les prix des produits agricoles vont
+s’effondrer et qu’à la fin ils n’y gagneront pas. Ils sont aussi attachés au
+modèle familial paysan. L’idée qu’on va devoir rembourser au banquier
+l’essentiel de son revenu ne leur fait pas forcément plaisir, mais la politique
+agricole pousse quand même vers cela.
+
+Comment faire pour pousser vers cela ? Contrairement à ce qu’on pourrait penser,
+le gouvernement français ne s’appuie pas sur la FNSEA à l’époque, parce que la
+FNSEA est alors très anti-progrès, anti-mécanisation ; elle changera à partir de
+la fin des années 1950, mais pas juste après la Seconde Guerre mondiale. Le
+gouvernement réorganise donc les chambres d’agriculture — je crois qu’il les
+crée d’ailleurs, je ne suis plus sûr si c’est bien à ce moment-là — et
+réorganise le Crédit Agricole, parce que c’est cela qui va donner les sous aux
+agriculteurs. Il crée l’INRA. L’idée est d’accompagner les paysans dans la
+modernisation, avec tous les outils : l’outil scientifique, l’INRA ; l’outil
+financier, le Crédit Agricole ; l’outil d’accompagnement, les chambres
+d’agriculture. Mais en face, il y a quand même une réticence. C’est là que le
+gouvernement français commence à dire : dans ce cas-là, on va réguler les prix.
+Avec cette régulation des prix, vous êtes garantis de pouvoir toujours vendre et
+de ne pas faire face à un effondrement des prix comme aux États-Unis ou
+ailleurs. C’est la régulation des prix qui permet aux paysans de s’engager dans
+un processus de mécanisation.
+
+Il faut comprendre que cette régulation des prix est assez perverse. Bien sûr,
+on garantit des prix minimaux, donc c’est sécurisant pour les agriculteurs, mais
+c’est un prix plancher. Ces prix planchers sont prévus pour être réduits chaque
+année en fonction de l’amélioration de la productivité et des rendements
+agricoles. Cela veut dire que si vous n’entrez pas dans le schéma de
+mécanisation, vous êtes perdant : comme les prix vont baisser et que vous savez
+combien ils vont baisser chaque année, vous savez que si vous n’entrez pas dans
+le mécanisme, vous finirez par ne plus pouvoir vendre ni gagner de l’argent à ce
+prix-là. Quand je dis « régulation des prix », je ne dis pas « prix stables » :
+je dis prix prévus pour décroître afin d’accompagner l’amélioration de la
+mécanisation.
+
+Deuxième élément intéressant : avant la généralisation par la PAC, qui commence
+en 1962, la France n’introduit pas des prix garantis partout. Quand on regarde
+quelles productions bénéficient des prix garantis et quelles productions n’en
+bénéficient pas, c’est assez intéressant. Les prix garantis ont commencé avec la
+betterave à sucre, puis les céréales, puis les oléagineux et les produits
+laitiers, le lait. Ce n’était pas les fruits et légumes au début. Quand on
+réfléchit à ce qu’on cherchait à garantir, est-ce que c’étaient vraiment les
+agriculteurs qui étaient protégés ? La betterave à sucre, les céréales, les
+oléagineux, le lait : quel est leur point commun ? Ce sont des intrants dans
+l’industrie agroalimentaire. Ce sont de très grosses structures, c’est vrai, et
+elles ont plus de lobbying, mais ce sont aussi tous des produits qui vont vers
+l’industrie agroalimentaire. Cela signifie que ce qui était garanti, c’étaient
+les prix pour les acheteurs, pour les industriels ; ce n’était pas seulement le
+revenu agricole. Les fruits et légumes, typiquement, sont des produits qu’on
+vend directement aux consommateurs, alors que la betterave à sucre est vendue à
+l’industriel, pareil pour les céréales, les oléagineux, le lait. Le lait est en
+partie vendu aux consommateurs, mais très souvent transformé par des
+transformateurs. C’est assez intéressant de voir que cette régulation des prix
+visait à sécuriser les agriculteurs pour permettre la mécanisation, mais aussi à
+sécuriser les transformateurs, qui ont besoin de prix garantis. Dans les deux
+cas, cette régulation ne répond pas qu’à des objectifs agricoles. Ce n’est pas
+une faveur qu’on fait au paysan : c’est une stratégie, en particulier en France
+et dans l’Union européenne, une stratégie économique globale.
+
+## Surproduction, exportations et abandon de la régulation
+
+Quand on régule les prix, on est confronté assez vite à d’autres problèmes. Le
+premier qui apparaît très vite en France, puis qui sera généralisé à l’Union
+européenne, c’est la surproduction. Quand on garantit des prix, le paysan a
+intérêt à produire le plus possible puisqu’il est sûr de pouvoir vendre sa
+production. Face à cette surproduction, une première méthode est mise en place :
+les normes, la normalisation du produit. Vous le savez : si vous êtes hors
+norme, on ne vous achète pas. Cela permet d’éviter que cela coûte trop cher en
+finances publiques. Ensuite, on se dit qu’on va exporter, ou transformer. Si on
+s’est mis à faire du poulet industriel dans les années 1970-1980, notamment en
+Bretagne, c’était parce que c’était un débouché pour les céréales qu’on
+produisait, qu’on surproduisait. J’avais lu un texte qui disait : finalement, le
+poulet, c’est des céréales transformées. On ne sait pas quoi faire des céréales,
+alors on fait des productions très industrialisées, le poulet. Puis, comme on se
+retrouve avec trop de poulet, on commence à l’exporter hors d’Europe, ce qui
+pose d’autres problèmes.
+
+C’est cela qui va expliquer qu’on abandonne ce système. Les poulets bas de gamme
+qu’on produit notamment en Bretagne en quantité industrielle sont vendus, parce
+que la capacité de consommation de poulet est limitée en Europe, dans les années
+1970 aux pays du Golfe, qui se sont beaucoup enrichis avec la crise pétrolière,
+puis plus tard en Afrique et partout ailleurs. Du point de vue des industriels —
+parce que le poulet en batterie tel qu’il fonctionnait à l’époque, c’est
+vraiment de la grosse industrie —, le principe des prix garantis faisait que si
+je produis mon poulet, je le vends ensuite à l’étranger, mais je le vends moins
+cher que le prix garanti. Dans ce cas, il y avait un système de restitution : on
+compensait. C’était considéré par les pays importateurs comme une forme de
+concurrence déloyale, parce que c’était du poulet subventionné. Ces subventions
+étaient tellement importantes que l’agriculture des pays d’Afrique, en
+particulier, a fini par disparaître, parce que les poulets importés de France
+étaient moins chers que beaucoup de productions locales. Cela a entraîné des
+problèmes très importants dans les années 1980 en Afrique, qui ont conduit à des
+négociations au GATT, puis à l’OMC.
+
+On est arrivé à un accord qui a interdit ce qu’on appelait les subventions à la
+production et qui a organisé le système qu’on connaît aujourd’hui : le
+découplage entre les subventions et la production. Il fallait faire en sorte que
+le système agricole et les politiques agricoles européennes ne subventionnent
+pas la production, parce que cela pouvait déstabiliser les pays importateurs.
+Les paysans, les agriculteurs, continuent de recevoir des subventions, mais pas
+liées au volume de production. Cela est aussi lié au fait qu’il fallait réduire
+la surproduction. Ceux qui ont demandé à changer les politiques agricoles
+européennes, ce sont d’abord et avant tout les pays en voie de développement,
+pour sauvegarder leur agriculture. C’est la réforme de 1992, actée en 1994 avec
+les accords de Marrakech, et aux États-Unis en 1996. En 1992, on lance le truc,
+mais ceux qui ont vécu ces années savent que cela s’est produit au fur et à
+mesure. La dernière régulation supprimée, qui datait de l’ancien système, ce
+sont les quotas laitiers, en 2015. Tout cela prend du temps à se mettre en
+place. C’est normal, on travaille avec de l’humain.
+
+La conséquence, c’est que les agriculteurs sont maintenant subventionnés à
+l’hectare, mais doivent payer leurs productions au prix des cours mondiaux. Il y
+a des circuits nationaux, bien sûr, mais en gros, ils sont en concurrence avec
+les autres agricultures européennes et avec les agricultures du monde entier.
+D’autant plus que, dans les années 1990, 2000 et 2010, on a cessé de développer
+des accords de libre-échange, notamment avec de grandes puissances agricoles. Le
+Mercosur n’est pas encore tout à fait fait, mais la Nouvelle-Zélande, c’est fait
+; le Canada, c’est fait. Cela augmente les quotas d’importation dans ces pays.
+C’est cela qui menace aujourd’hui la souveraineté alimentaire française. Je ne
+suis pas en train de dire qu’on a eu raison de changer de modèle agricole : je
+n’ai pas besoin de juger. J’essaie juste d’expliquer pourquoi on a régulé les
+prix, pourquoi on a dérégulé, et finalement d’expliquer la situation dans
+laquelle on est.
+
+## Quelques éléments à prendre en compte pour penser un modèle agricole
+
+Avant d’arriver aux propositions, je voudrais revenir sur quelques éléments
+qu’il faut absolument prendre en compte lorsqu’on veut penser un modèle
+agricole. Vous connaissez tout cela, mais c’est intéressant de le formaliser, de
+le poser sur la table.
+
+Première chose : l’agriculture n’est pas une activité économique comme les
+autres. La manière dont les économistes analysent l’agriculture est souvent
+biaisée parce qu’ils oublient qu’en agriculture, il n’y a pas deux facteurs de
+production — le capital et le travail — mais trois : il y a aussi la terre. Je
+sais que du point de vue de la comptabilité, la terre fait partie du capital,
+mais c’est une erreur. Le capital, ce sont les moyens de production, ce qui est
+utile pour produire : les machines, les tracteurs, les bâtiments, etc. C’est
+l’actif dans le bilan. Dans le bilan, on met aussi la valeur de la terre, donc
+on traite aujourd’hui la terre comme du capital. Mais il y a une grosse
+différence entre le capital et la terre. Le capital est accumulable, améliorable
+: on peut avoir un tracteur de nouveau modèle, on peut avoir deux ou trois
+tracteurs — même si je ne suis pas sûr que cela serve à grand-chose. En théorie,
+on peut accumuler du capital. La terre, elle, n’est pas accumulable : les
+surfaces arables dans un pays sont limitées. Certes, on peut défricher une forêt
+pour augmenter les surfaces arables, mais cela fait très longtemps qu’on a
+défriché, et à un moment, il n’y a plus de forêt à défricher. Il y a donc une
+spécificité de la terre : elle n’est ni substituable ni accumulable. On dit
+souvent que le capital se substitue au travail : si vous avez un tracteur, c’est
+pour utiliser moins de temps de main-d’œuvre. Le capital a une capacité à se
+substituer en partie au travail, mais la terre n’est pas substituable. Si on n’a
+pas de terre, on ne va pas rajouter des tracteurs pour cultiver plus. Vous le
+savez très bien, mais parfois les économistes ont du mal à comprendre cela.
+
+Deuxième élément : la terre est un bien non homogène. On ne peut pas tout faire
+sur toutes les terres. On ne peut pas dire : là j’ai fait des vignes, maintenant
+je fais un pâturage. C’est aussi un bien non homogène parce que, selon la
+réglementation, elle peut être ou non constructible. Cela fait partie des enjeux
+importants de l’affectation des terres. Ce n’est pas toujours nous qui décidons,
+ce n’est pas les paysans qui décident, mais il y a des enjeux énormes : selon
+qu’elle est constructible ou non, la gestion de la terre est fondamentale en
+politique. Elle implique des décisions collectives d’aménagement du territoire.
+On parle de non-artificialisation nette maintenant ; il y a une loi qui va venir
+et qui est beaucoup discutée, parce que plus on artificialise les terres, moins
+il reste de terre pour l’agriculture. Cela aura des impacts sur notre
+souveraineté alimentaire. La terre est une propriété privée, et en même temps sa
+gestion est publique et politique. Cela crée des questions. On ne tient pas
+compte, dans la valeur de la terre, de l’état dans lequel elle a été mise. Je
+suis d’accord, mais en fait on en tient un peu compte quand même : normalement,
+quand on achète de la terre, on regarde un peu avant. Ceux qui regardent ne sont
+pas un peu bêtes, mais c’est vrai que très souvent, après vingt ans, il y a plus
+de matière organique, ce n’est plus que du substrat, et la valeur de la terre
+n’a pas baissé alors que la valeur productive va baisser.
+
+Troisième élément : la concurrence internationale. Très souvent, les économistes
+raisonnent en termes de concurrence : on produit tous des choses, le plus
+efficace gagne, le plus efficace peut faire baisser les prix, le moins efficace
+n’arrive pas à baisser les prix de production et finit par disparaître ou faire
+autre chose. Ainsi, on aurait un système productif plus compétitif. Cela peut
+marcher dans les produits industriels, parce qu’une usine, on peut la placer où
+on veut : elle sera toujours aussi efficace. Ce n’est pas tout à fait vrai : si
+elle est plus proche des importations, elle sera plus efficace que si elle est
+éloignée. Mais l’agriculture ne marche pas pareil. Comme je l’ai dit, les terres
+ne sont pas homogènes, les climats ne sont pas les mêmes partout. Parfois, la
+concurrence est fondamentalement déloyale. Par exemple, si on fait du blé en
+Ukraine — j’ai été en Ukraine —, il faut voir la qualité des terres. On ne peut
+pas avoir les mêmes rendements uniquement à cause de la qualité de la terre. Il
+y a aussi la densité de population d’un pays et l’eau, qui peuvent changer
+beaucoup, ce qui fait que la valeur de la terre n’est pas du tout la même. En
+France, en Europe en général, la terre agricole vaut cher. En Ukraine, je ne
+connais pas les prix, et puis en ce moment c’est un peu compliqué, mais il est
+clair que vu la densité de population de l’Ukraine, il y a plein de terres dont
+ils ne savent pas quoi faire. Donc l’agriculteur ukrainien paie sa terre
+beaucoup moins cher et est très avantagé par rapport à un autre.
+
+Le problème, c’est que cette dynamique internationale entraîne des pays qui
+veulent subir la concurrence internationale à s’adapter en cherchant à dégrader
+les rendements pour compenser le fait qu’ils sont en concurrence avec des pays
+qui font une agriculture très extensive. Plus l’agriculture est extensive, plus
+elle a besoin de terre. C’est un peu logique. Parfois, quand elle est très
+extensive, elle peut être plus rentable que quand elle est très intensive, parce
+qu’il y a besoin de moins de main-d’œuvre. Par exemple, les moutons sont un peu
+plus autonomes, on va moins bien les garder — la question du loup, c’est vrai,
+on peut aussi l’intégrer : cela demande plus de temps de travail —, mais par
+contre, ils rapportent du cash. Je suis totalement d’accord avec toi : chaque
+système a ses avantages et ses inconvénients, et chacun voit ce qu’il veut. Cela
+coûte un max de granulés, je ne sais pas combien d’années, mais cela coûte en
+temps et en argent. Moi, avec les brebis et la course, je les rentre, c’est pour
+choper des anneaux, je cueille, c’est préhistorique. Le renard mange des
+agneaux, il y a des agneaux qui boitent que je ne verrai pas et qui seront
+bouffés par je ne sais quoi. Mais après, il faut accepter. Le problème, c’est
+que dans un pays comme la France, on a besoin d’augmenter les rendements de la
+terre, et cela veut dire faire le plus intensif a priori si on veut nourrir tout
+le monde. Parce que le facteur limitant dans la capacité à nourrir, c’est
+finalement la terre. Quand on a une surface donnée, si on fait avec la même
+surface plus d’intensif, cela coûtera peut-être moins cher pour l’agriculteur et
+sera plus rentable du point de vue de la production, mais cela ira à l’encontre
+de l’objectif de souveraineté alimentaire. C’est ce que je veux dire : la
+concurrence nous oblige, ou en tout cas nous pousse, il y a une tendance de fond
+à aller vers l’extensification ou l’intensification de l’agriculture qui menace
+la souveraineté alimentaire.
+
+## Vers un modèle à deux secteurs
+
+Maintenant, je voudrais exposer non pas la solution avec un grand S — et je
+pense qu’il faut en discuter — mais des pistes pour garantir à la fois la
+souveraineté alimentaire en France et ne pas nuire à la souveraineté alimentaire
+ailleurs dans le monde. Cela veut dire que ni l’ancien modèle de prix régulés
+avec des restitutions pour les exportateurs, ni le nouveau modèle du prix de
+marché avec la concurrence directe avec d’autres pays qui ont des conditions
+agricoles très différentes des nôtres, ne sont de bons modèles.
+
+Qu’est-ce qu’un bon modèle ? Il faut qu’il parvienne à concilier quatre grands
+objectifs.
+
+1. Garantir la souveraineté alimentaire de la France, puisqu’on essaie quand même de défendre la France.
+2. Garantir des revenus décents pour les agriculteurs et une prévisibilité des prix pour les transformateurs et les distributeurs, parce qu’on a vu que cela fait partie des enjeux. Faire en sorte que les prix ne fluctuent pas arrange un peu tout le monde.
+3. Prendre en compte la question écologique. L’agriculture est prise en sandwich sur cette question : d’une part, elle est la première pénalisée par la dégradation des sols, de la biodiversité, de l’eau, par le changement climatique ; d’autre part, elle produit aussi des dégradations environnementales lorsqu’elle est trop intensive. J’ai parlé de la gestion de l’eau, des méga-bassines, on pourra y revenir. L’agriculture subit les relations environnementales et produit aussi des dégradations. Quand elle est poussée par la concurrence, elle utilise trop de glyphosate. Le glyphosate sert à épargner de la main-d’œuvre. On pourrait tout à fait cultiver sans glyphosate, on l’a fait pendant des millénaires, mais si on interdit les glyphosates, on se retrouve à devoir avoir des coûts de production plus élevés. Comment fait-on sans glyphosate pour concurrencer les Canadiens ou d’autres ? La question écologique est donc très importante.
+4. Maintenir la capacité de la France à exporter. Non pas parce que je pense que l’exportation est un bien en soi pour la France, mais parce qu’il y a des pays qui ne seront jamais souverains du point de vue alimentaire. Si les pays qui peuvent exporter ne le font pas, ils vont juste crever. Notre responsabilité, en tant que puissance agricole qui bénéficie d’un climat plutôt bon et d’une densité de population pas trop élevée, c’est d’exporter. Si on prétend faire en sorte que le modèle qu’on a en France soit généralisé, il va y avoir des pays qui vont mourir de faim. Il faut donc garder la capacité d’exporter sans que ces exportations empêchent la souveraineté alimentaire des autres pays, comme c’était le cas de l’ancienne PAC.
+
+Le problème, c’est que ces objectifs sont un peu en contradiction les uns avec
+les autres. Garantir de bons revenus agricoles voudrait dire revenir à
+l’ancienne PAC, par exemple avec des prix régulés, mais cela pourrait atteindre
+la souveraineté alimentaire d’autres pays. Avec la discussion que nous avons eue
+au congrès, je me suis dit : plutôt que d’avoir des objectifs contradictoires,
+il faudrait être capable non pas d’avoir un seul modèle qui serait mis en place
+pour tout le monde, mais deux modèles qui pourraient coexister dans le même
+environnement français.
+
+Typiquement, quand on parle de souveraineté alimentaire, cela veut dire quoi
+concrètement ? On veut défendre une agriculture vivrière. Aujourd’hui, le
+problème de l’agriculture, c’est que les produits agricoles sont considérés
+comme des marchandises. Ces marchandises sont mises en concurrence, et celui qui
+va vendre le moins cher va récupérer le marché. Je sais qu’il y a des gens
+malins qui arrivent à faire de la qualité, à se distinguer et à gagner leur vie
+comme ça. Mais on sait bien qu’on a aussi besoin d’une nourriture, qu’on ne peut
+pas avoir des prix élevés surtout pour tout. Il va falloir trouver un système
+pour à la fois nourrir l’ensemble de la population et fournir des produits de
+base, peut-être moins bons, de moins bonne qualité, moins bio, etc., mais qui
+trouvent quand même leur public.
+
+Il faut donc pouvoir défendre une agriculture vivrière qui n’a pas pour objectif
+d’exporter mais vraiment de nourrir la population. C’est un premier modèle, et
+ce modèle doit exister dans tous les pays du monde. Tous les pays du monde
+devraient avoir une protection de leur agriculture vivrière pour être le moins
+dépendant possible des importations. On sait que dans certains pays comme
+l’Égypte, ce ne sera pas possible : l’agriculture nationale ne pourra pas
+nourrir les 100 millions d’habitants en Égypte, à cause du peu de terres
+cultivables. En même temps, il faut préserver un modèle exportateur.
+
+On pourrait donc imaginer que l’agriculture en France soit divisée en deux
+modèles : un modèle vivrier, qui vise à répondre aux besoins de la population
+locale, et un modèle d’agriculture exportatrice, ou marchande, qui vise à
+s’échanger sur les marchés mondiaux pour les pays qui n’ont pas de production
+suffisante et qui peuvent acheter ce qu’on produit en France ou dans d’autres
+pays.
+
+Il faut regarder comment distinguer deux modèles différents dans un même pays,
+parce que ce n’est pas simple. Il y a des agriculteurs qui n’ont pas les mêmes
+stratégies, les mêmes objectifs. Par exemple, si on dit au céréalier de la
+Bresse : « Maintenant, vous n’allez plus exporter, vous allez produire
+uniquement pour la population locale », il ne va pas être content. Il y aura une
+réticence. On sait qu’une partie de l’agriculture française est marchande, vend
+à terme, fait un peu de spéculation sur les marchés de Chicago, etc. Ces
+agriculteurs sont au cœur de la modernité des marchés actuels. Leur dire : «
+Maintenant, il faut faire une petite allure paysanne pour vendre localement »,
+cela ne va pas marcher.
+
+Je pense donc qu’il ne faut pas forcément faire en sorte que tous les
+agriculteurs soient dans le même moule. Certains ont envie de garder des petites
+surfaces. On ne va pas revenir sur la mécanisation : on va continuer d’avoir des
+tracteurs, on va continuer à garder la mécanisation. On ne va pas supprimer tous
+les tracteurs, parce que cela reviendrait à devoir retrouver 35 % de population
+active agricole, ce qui n’est pas gagné. L’idée, c’est d’avoir une partie de
+l’agriculture française qui soit vivrière, c’est-à-dire qui ait pour objectif
+principal de nourrir la population. Cette agriculture doit être protégée des
+importations. Je pense que c’est cela le cœur du problème.
+
+Cette agriculture vivrière doit être régulée : les prix doivent être régulés,
+c’est-à-dire que les agriculteurs doivent savoir à combien ils vont vendre leurs
+produits. Cette régulation des prix doit être concertée. Ce n’est pas les
+agriculteurs qui vont décider tout seuls, parce que sinon je les connais : ils
+vont vendre très cher, et cela ne fera pas plaisir à d’autres. Il faut donc une
+concertation avec les distributeurs, les transformateurs, bien sûr les
+consommateurs, les agriculteurs, et le politique. Il faut trouver une manière de
+réguler les prix qui permette de concilier un peu tous les intérêts. Cette
+régulation permet aux agriculteurs de savoir à combien ils vont vendre et donc
+de faire des calculs d’investissement, de production sur le moyen et long terme.
+C’est surtout cela qui est important.
+
+Deuxième caractéristique de cette agriculture vivrière : elle a des débouchés
+garantis. Cela veut dire quoi ? Cela veut dire que tous les transformateurs et
+les distributeurs — parce qu’il ne faut pas penser qu’on va faire du commerce en
+direct ; aujourd’hui, l’essentiel de l’alimentation, ce sont des produits
+transformés, les gens vont faire des courses à Carrefour, dans les grandes
+surfaces, ils ne vont pas aller dans toutes les fermes des environs pour acheter
+différentes choses — achètent en priorité la production du secteur vivrier. Ils
+n’ont le droit d’acheter à l’étranger qu’une fois écoulée toute la production
+nationale. C’est évidemment la réforme la plus importante : le secteur vivrier a
+pour objectif d’alimenter les industriels, les transformateurs et les
+distributeurs, et ceux-ci ne peuvent acheter à l’étranger que s’il manque de
+production nationale ou s’il n’y a pas de production nationale, comme le cacao
+par exemple. On ne va pas produire du cacao en France métropolitaine.
+
+Cela implique aussi une normalisation. Je vous l’ai dit : à la régulation des
+prix, la contrepartie, c’est toujours la normalisation. Il faut que, quand on
+dit « on vous achète votre production à tel prix », il y ait des normes, des
+critères pour que votre production soit achetable ou non. Cette question existe
+déjà, mais elle sera peut-être renforcée. Il y aura peut-être des règles
+environnementales plus strictes, qui seront moins un problème parce que,
+justement, on est protégé de la concurrence internationale. On peut donc
+accepter, en contrepartie de la sécurisation des prix, davantage de
+réglementation environnementale.
+
+Et puis il y a un deuxième secteur : un secteur marchand, un secteur qui vise à
+l’exportation. Il continue d’avoir des régulations environnementales, mais là
+aussi, l’idée n’est pas qu’il y en ait un qui soit régulé et l’autre où on
+pourrait faire tout ce qu’on veut, polluer l’eau comme on veut. Non. Ce sera
+celle qui est imposée par l’Union européenne : on ne va pas faire plus que ce
+que demande l’Union européenne, mais on ne va pas faire moins non plus. Ce
+secteur correspond au secteur actuel, au modèle d’aujourd’hui : prix de marché
+internationaux, concurrence. Cela ne veut pas dire que leur production sera
+forcément exportée ; elle pourra rester dans le pays, mais uniquement lorsque la
+production vivrière arrive à ses débouchés. Par exemple, s’il manque de viande
+de porc et que tous les producteurs inscrits dans le système vivrier ont vendu
+leur porc, les distributeurs qui ont encore besoin de jambon demanderont au
+secteur marchand, national ou étranger, pour compléter la demande.
+
+## Comment dissocier les deux modèles ?
+
+La dernière question, c’est : comment fait-on pour dissocier deux modèles dans
+un seul pays ? C’est la question principale. Mon idée, c’était de s’appuyer sur
+le fait que l’agriculture a trois facteurs de production, dont la terre, qui
+n’est pas extensible, qui n’est pas accumulable. L’idée serait d’affecter les
+terres, bien sûr en concertation avec les agriculteurs. Il ne s’agit pas de
+faire un truc qui vient d’en haut. Certains agriculteurs voudront rester dans le
+secteur marchand, d’autres seront d’accord pour passer dans le secteur vivrier.
+Les terres qu’ils possèdent et cultivent sont affectées au secteur vivrier et
+sont régulées par ces règles-là. D’autres terres, qui appartiennent à des
+agriculteurs qui veulent rester dans le modèle actuel, seraient affectées au
+secteur marchand.
+
+Si on devait mettre en place ce système et arriver à la souveraineté alimentaire
+uniquement par le secteur vivrier, il faudrait sans doute arriver à une
+répartition des terres de type 80/20 : 80 % pour le secteur vivrier, 20 % pour
+le secteur marchand. Je ne pense pas qu’on arrivera spontanément à cette
+répartition si on permet aux agriculteurs de choisir. Il y en a peut-être
+beaucoup qui voudront rester dans le système actuel. Peut-être qu’on aura dans
+le secteur vivrier, au départ, 20 %, 30 %, 50 % ; je n’en ai aucune idée. Mais à
+la limite, ce n’est pas grave, parce que l’avantage de ce secteur vivrier, c’est
+que les débouchés seraient garantis, les prix seraient garantis, les filières de
+production seraient organisées à partir des distributeurs et des
+transformateurs. Et cela n’empêchera pas ces distributeurs et transformateurs,
+s’il manque de matières premières, d’acheter le reste dans le secteur marchand.
+
+Évidemment, toute cette affectation des terres devrait être décidée
+politiquement. Il y a des questions qui restent à soulever et qui ne sont pas
+tranchées, et que le politique devra trancher. Par exemple : qu’est-ce qui
+correspond finalement à quel type de produit agricole vivrier ou non ? Est-ce
+que le vin, par exemple, doit appartenir au secteur vivrier ou au secteur
+marchand ? Honnêtement, je n’ai pas la réponse. Cela doit être une décision
+politique, discutée en concertation. Peut-être que certains types de vin oui,
+d’autres non ; peut-être que tous les vins devraient être considérés comme
+marchands. À la SNCF, on a déjà cette dissociation du secteur marchand et non
+marchand : les TER font partie du secteur non marchand, ils sont subventionnés
+par les régions, et même les Intercités sont subventionnés au niveau national,
+alors que le TGV est une offre marchande. L’idée selon laquelle, dans une
+activité économique, il faut avoir un secteur protégé non marchand et un secteur
+non protégé marchand n’est donc pas une nouveauté absolue.
+
+## Compatibilité avec les règles européennes
+
+Dernier élément, et ensuite je pense qu’il faut qu’on discute : la question de
+la compatibilité avec les règles européennes. Clairement, c’est une vraie
+question. Je ne vais pas dire que c’est tranché, parce que ce modèle, si la
+France l’applique, va entraîner beaucoup de réticences de la part par exemple de
+l’Espagne ou d’autres pays qui exportent beaucoup de fruits et légumes en
+France. Ils vont dire : « Mais attendez, vous êtes en train de faire du
+protectionnisme français, c’est contraire au principe européen. » Et ils
+n’auront pas tort. Comment peut-on faire ?
+
+Évidemment, la solution pourrait être de quitter l’Union européenne. Moi, je ne
+suis pas contre ça, mais ça va être compliqué quand même, il ne faut pas se
+mentir. Ce n’est pas : soit on fait ça, soit on quitte l’Union européenne, soit
+on ne peut rien faire. Mon sentiment, c’est qu’il faudrait que l’Union
+européenne — c’est le marché unique, la libre circulation des marchandises dans
+tous les pays européens depuis sa création, y compris l’agriculture — accepte
+que, si on dit « la souveraineté alimentaire est plus importante, c’est un
+objectif essentiel de notre pays », on puisse avoir une exception culturelle,
+une exception alimentaire. On pourrait dire — et à mon avis, on a des arguments
+pour le faire — que l’agriculture ne relève pas uniquement du secteur marchand.
+On peut décider que certains biens, transformés ou non, relèvent d’un objectif
+de souveraineté alimentaire et doivent donc échapper à la marchandisation. En
+même temps, on dirait aux Européens : « Regardez, on garde, on préserve un
+secteur marchand. On n’exclut pas toute l’agriculture du secteur marchand, mais
+on protège une partie, la partie vivrière de l’agriculture, du secteur marchand.
+»
+
+Par ailleurs, je ne l’ai pas dit, mais ce qui est vivrier ne peut pas aller
+au-delà des besoins alimentaires, par définition. Pourquoi 80/20 et pas 100 % de
+vivrier ? Parce que, si on exploite correctement les terres, on nourrit plus que
+la population française. On ne pourra donc pas garantir aux agriculteurs autant
+de débouchés s’il n’y a pas de consommateurs derrière prêts à acheter cette
+production. Le principe du secteur vivrier, c’est qu’il est par définition
+limité aux besoins alimentaires de la population concernée. Si on produit plus
+que les besoins, cela apparaîtra dans le secteur marchand. On ne dira pas à
+l’Union européenne qu’on sort du marché unique ; on dira simplement que
+l’objectif de souveraineté alimentaire est un objectif non marchand, et que
+toute la production qui ne répond pas à ces besoins alimentaires restera dans le
+secteur marchand. On peut d’ailleurs mettre dans le secteur marchand le colza
+pour les biocarburants, puisqu’il ne répond pas à un objectif de souveraineté
+alimentaire. Si on cultive du chanvre ou du lin pour le textile, cela n’en
+relève pas non plus.
+
+Encore une fois, c’est une manière de faire, un critère ; c’est à discuter. Il
+faut voir comment c’est concrètement possible avec les pratiques agricoles
+actuelles, sachant que tout modèle agricole implique de changer les pratiques
+agricoles de toute façon. Les pratiques agricoles devront s’adapter. Il y a
+plusieurs critères : considérer une partie de l’agriculture comme marchandise,
+une partie de l’agriculture au nom de la souveraineté alimentaire, faire
+respecter cela à l’échelle européenne, continuer d’avoir une partie de
+l’agriculture marchande. Et ces agriculteurs-là ne sont pas des monstres : ils
+ont le droit d’exister. Il y a aussi le fait qu’on a besoin d’exporter. La
+France doit exporter pour les autres pays ; il y a des pays qui ont besoin des
+importations françaises. C’est nécessaire aussi que la France reste dans cette
+capacité d’exportation.

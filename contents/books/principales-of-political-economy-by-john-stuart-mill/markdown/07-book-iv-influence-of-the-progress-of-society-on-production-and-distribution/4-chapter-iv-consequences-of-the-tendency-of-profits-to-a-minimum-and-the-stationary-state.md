@@ -1,0 +1,169 @@
+---
+title: Chapter IV. Consequences Of The Tendency Of Profits To A Minimum, And The Stationary State.
+path: 07-book-iv-influence-of-the-progress-of-society-on-production-and-distribution/4-chapter-iv-consequences-of-the-tendency-of-profits-to-a-minimum-and-the-stationary-state
+ancestors:
+  - Book IV. Influence Of The Progress Of Society On Production And Distribution.
+href: 1129008759595750428_30107-h-9.html.xhtml#pgepubid00224
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter IV. Consequences Of The Tendency Of Profits To A Minimum, And The Stationary State.
+
+## § 1. Abstraction of Capital not necessarily a national loss.
+
+The theory of the effect of accumulation on profits must greatly abate, or rather, altogether destroy, in countries
+where profits are low, the immense importance which used to be attached by political economists to the effects which an
+event or a measure of government might have in adding to or subtracting from the capital of the country. We have now
+seen that the lowness of profits is a proof that the spirit of accumulation is so active, and that the increase of
+capital has proceeded at so rapid a rate, as to outstrip the two counter-agencies, improvements in production and
+increased supply of cheap necessaries from abroad. A sudden abstraction of capital, unless of inordinate amount, \[would
+not\] have any real effect in impoverishing the country. After a few months or years, there would exist in the country
+just as much capital as if none had been taken away. The abstraction, by raising profits and interest, would give a
+fresh stimulus to the accumulative principle, which would speedily fill up the vacuum. Probably, indeed, the only effect
+that would ensue would be that for some time afterward less capital would be exported, and less thrown away in hazardous
+speculation.
+
+In the first place, then, this view of things greatly weakens, in a wealthy and industrious country, the force of the
+economical argument against the expenditure of public money for really valuable, even though industriously unproductive,
+purposes. In poor countries, the capital of the country requires the legislator's sedulous care; he is bound \[pg 512\]
+to be most cautious of encroaching upon it, and should favor to the utmost its accumulation at home, and its
+introduction from abroad. But in rich, populous, and highly cultivated countries, it is not capital which is the
+deficient element, but fertile land; and what the legislator should desire and promote, is not a greater aggregate
+saving, but a greater return to savings, either by improved cultivation, or by access to the produce of more fertile
+lands in other parts of the globe.
+
+The same considerations enable us to throw aside as unworthy of regard one of the common arguments against emigration as
+a means of relief for the laboring-class. Emigration, it is said, can do no good to the laborers, if, in order to defray
+the cost, as much must be taken away from the capital of the country as from its population. If one tenth of the
+laboring people of England were transferred to the colonies, and along with them one tenth of the circulating capital of
+the country, either wages, or profits, or both, would be greatly benefited, by the diminished pressure of capital and
+population upon the fertility of the land. The landlords alone would sustain some loss of income; and even they, only if
+colonization went to the length of actually diminishing capital and population, but not if it merely carried off the
+annual increase.
+
+## § 2. In opulent countries, the extension of machinery not detrimental but beneficial to Laborers.
+
+From the same principles we are now able to arrive at a final conclusion respecting the effects which machinery, and
+generally the sinking of capital for a productive purpose, produce upon the immediate and ultimate interests of the
+laboring-class. The characteristic property of this class of industrial improvements is the conversion of circulating
+capital into fixed: and it was shown in the first book[^303] that, in a country where capital accumulates slowly, the
+introduction of machinery, permanent improvements of land, and the like, might be, for the time, extremely injurious;
+since the capital so employed might be directly taken from the \[pg 513\] wages fund, the subsistence of the people and
+the employment for labor curtailed, and the gross annual produce of the country actually diminished. But in a country of
+great annual savings and low profits no such effects need be apprehended. It merely draws off at one orifice what was
+already flowing out at another; or, if not, the greater vacant space left in the reservoir does but cause a greater
+quantity to flow in. Accordingly, in spite of the mischievous derangements of the money market which have been
+occasioned by the great sums in process of being sunk in railways, I can not agree with those who apprehend any
+mischief, from this source, to the productive resources of the country. Not on the absurd ground (which to any one
+acquainted with the elements of the subject needs no confutation) that railway expenditure is a mere transfer of capital
+from hand to hand, by which nothing is lost or destroyed. This is true of what is spent in the purchase of the land; a
+portion too of what is paid to agents, counsels, engineers, and surveyors, is saved by those who receive it, and becomes
+capital again: but what is laid out in the bona fide construction of the railway itself is lost and gone; when once
+expended, it is incapable of ever being paid in wages or applied to the maintenance of laborers again; as a matter of
+account, the result is, that so much food and clothing and tools have been consumed, and the country has got a railway
+instead.
+
+It already appears, from these considerations, that the conversion of circulating capital into fixed, whether by
+railways, or manufactories, or ships, or machinery, or canals, or mines, or works of drainage and irrigation, is not
+likely, in any rich country, to diminish the gross produce or the amount of employment for labor. There is hardly any
+increase of fixed capital which does not enable the country to contain eventually a larger circulating capital than it
+otherwise could possess and employ within its own limits; for there is hardly any creation of fixed capital which, when
+it proves successful, does not cheapen the articles on which wages are habitually expended.
+
+\[pg 514\]
+
+As regards the effects upon the material condition of the wages-receiving class, since it seems clear that capital
+increases faster than improvements, and probably faster even than population, it follows that in countries where the
+laboring-classes are evidently growing in intelligence, they gain in wages with the progress of society. Such certainly
+seems to be the teaching of Mr. Giffen's late studies (see [Book IV, Chap. III, §
+5](1129008759595750428_30107-h-9.html.xhtml#Book_IV_Chapter_III_Section_5)).
+
+## § 3. Stationary state of wealth and population dreaded by some writers, but not in itself undesirable.
+
+Toward what ultimate point is society tending by its industrial progress? When the progress ceases, in what condition
+are we to expect that it will leave mankind?
+
+It must always have been seen, more or less distinctly, by political economists, that the increase of wealth is not
+boundless; that at the end of what they term the progressive state lies the stationary state, that all progress in
+wealth is but a postponement of this, and that each step in advance is an approach to it. We have now been led to
+recognize that this ultimate goal is at all times near enough to be fully in view; that we are always on the verge of
+it, and that, if we have not reached it long ago, it is because the goal itself flies before us. The richest and most
+prosperous countries would very soon attain the stationary state, if no further improvements were made in the productive
+arts, and if there were a suspension of the overflow of capital from those countries into the uncultivated or
+ill-cultivated regions of the earth. Adam Smith always assumes that the condition of the mass of the people, though it
+may not be positively distressed, must be pinched and stinted in a stationary condition of wealth, and can only be
+satisfactory in a progressive state. The doctrine that, to however distant a time incessant struggling may put off our
+doom, the progress of society must “end in shallows and in miseries,” far from being, as many people still believe, a
+wicked invention of Mr. Malthus, was either expressly or tacitly affirmed by his most distinguished predecessors, and
+can only be successfully combated on his principles.
+
+Even in a progressive state of capital, in old countries, a conscientious or prudential restraint on population is
+indispensable, to prevent the increase of numbers from outstripping \[pg 515\] the increase of capital, and the
+condition of the classes who are at the bottom of society from being deteriorated. Where there is not, in the people, or
+in some very large proportion of them, a resolute resistance to this deterioration—a determination to preserve an
+established standard of comfort—the condition of the poorest class sinks, even in a progressive state, to the lowest
+point which they will consent to endure. The same determination would be equally effectual to keep up their condition in
+the stationary state, and would be quite as likely to exist.
+
+I can not, therefore, regard the stationary state of capital and wealth with the unaffected aversion so generally
+manifested toward it by political economists of the old school. I am inclined to believe that it would be, on the whole,
+a very considerable improvement on our present condition.
+
+It is only in the backward countries of the world that increased production is still an important object; in those most
+advanced, what is economically needed is a better distribution, of which one indispensable means is a stricter restraint
+on population. On the other hand, we may suppose this better distribution of property attained, by the joint effect of
+the prudence and frugality of individuals, and of a system of legislation favoring equality of fortunes, so far as is
+consistent with the just claim of the individual to the fruits, whether great or small, of his or her own industry. We
+may suppose, for instance (according to the suggestion thrown out in a former chapter[^304]), a limitation of the sum
+which any one person may acquire by gift or inheritance, to the amount sufficient to constitute a moderate independence.
+Under this twofold influence, society would exhibit these leading features: a well-paid and affluent body of laborers;
+no enormous fortunes, except what were earned and accumulated during a single lifetime; but a much larger body of
+persons than at present, not only exempt from the coarser toils, but with sufficient \[pg 516\] leisure, both physical
+and mental, from mechanical details, to cultivate freely the graces of life, and afford examples of them to the classes
+less favorably circumstanced for their growth. This condition of society, so greatly preferable to the present, is not
+only perfectly compatible with the stationary state, but, it would seem, more naturally allied with that state than with
+any other.
+
+There is room in the world, no doubt, and even in old countries, for a great increase of population, supposing the arts
+of life to go on improving, and capital to increase. But even if innocuous, I confess I see very little reason for
+desiring it. The density of population necessary to enable mankind to obtain, in the greatest degree, all the advantages
+both of co-operation and of social intercourse, has, in all the most populous countries, been attained. If the earth
+must lose that great portion of its pleasantness which it owes to things that the unlimited increase of wealth and
+population would extirpate from it, for the mere purpose of enabling it to support a larger but not a better or a
+happier population, I sincerely hope, for the sake of posterity, that they will be content to be stationary, long before
+necessity compels them to it.
+
+It is scarcely necessary to remark that a stationary condition of capital and population implies no stationary state of
+human improvement. Even the industrial arts might be as earnestly and as successfully cultivated, with this sole
+difference, that instead of serving no purpose but the increase of wealth, industrial improvements would produce their
+legitimate effect, that of abridging labor. Hitherto it is questionable if all the mechanical inventions yet made have
+lightened the day's toil of any human being. They have enabled a greater population to live the same life of drudgery
+and imprisonment, and an increased number of manufacturers and others to make fortunes. They have increased the comforts
+of the middle classes.
+
+The statement that inventions have not “lightened the day's toil of any human being” has been persistently misquoted
+\[pg 517\] by many persons and has been taken out of its connection. Mr. Mill distinctly holds that the laborer's lot
+could have been improved had there been any limitation of population; that it is the constant growth of population as
+society progresses which destroys the gains afforded to the laboring-classes by improvements. But it is quite certain
+that the material facts of Mr. Mill's statement are no longer true. In the United States wages have risen, with an
+additional gain in lower prices; and Mr. Giffen shows the same progress in England. Moreover, travelers on the Continent
+speak of a similar movement already noticeable there. Mr. Giffen's statement in his comparison[^305] with fifty years
+ago, is as follows:
+
+“While the money wages have increased as we have seen, the hours of labor have diminished. It is difficult to estimate
+what the extent of this diminution has been, but collecting one or two scattered notices I should be inclined to say
+very nearly 20 per cent. There has been at least this reduction in the textile, engineering, and house-building trades.
+The workman gets from 50 to 100 per cent more money for 20 per cent less work; in round figures he has gained from 70 to
+120 per cent in fifty years in money return. It is just possible, of course, that the workman may do as much, or nearly
+as much, in the shorter period as he did in his longer hours. Still, there is the positive gain in his being less time
+at his task, which many of the classes still tugging lengthily day by day at the oar would appreciate.”
+
+\[pg 518\]
+
+* * *
+
+[^303]: [Book I, Chap. V, § 2](1129008759595750428_30107-h-3.html.xhtml#Book_I_Chapter_V_Section_2).
+
+[^304]: [Book II, Chap. I, § 6](1129008759595750428_30107-h-4.html.xhtml#Book_II_Chapter_I_Section_6).
+
+[^305]: “Progress of the Working-Classes in the Last Half-Century” (1884), page 8.

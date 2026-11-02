@@ -1,0 +1,309 @@
+---
+source_url: https://www.youtube.com/watch?v=ZZb4TjvupkI
+video_title: "LE PRINCIPE DE CONDORCET (2/2) Macron a-t-il été mal élu ? - Grain de philo #9"
+generated_at: 2026-09-19T09:26:14.905Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 137.9
+  input_tokens: 5579
+  cached_input_tokens: 5568
+  output_tokens: 5606
+  estimated_cost_usd: 0.001587
+  finish_reason: stop
+---
+
+# LE PRINCIPE DE CONDORCET (2/2) Macron a-t-il été mal élu ? - Grain de philo #9
+
+Pour prendre une décision démocratiquement, il faut s'en remettre au principe de
+majorité. Un cas où ce principe ne souffre aucune ambiguïté est lors d'un duel,
+une élection opposant seulement deux alternatives. Si une alternative est
+préférée par une majorité absolue d'électeurs, alors elle est démocratiquement
+plus légitime que l'autre alternative, et donc elle doit être élue. Le principe
+de Condorcet, dont on a parlé dans l'épisode précédent, n'est en somme qu'une
+conséquence de ce premier principe. Dans une élection, si une alternative
+l'emporte en duel contre n'importe quelle autre, ça signifie qu'elle est plus
+légitime démocratiquement que chacune des autres alternatives, donc c'est **LA**
+plus légitime, et elle doit l'emporter. En un mot, le vainqueur de Condorcet
+doit gagner ! Ça devrait être la norme démocratique par excellence. Or dans nos
+démocraties, nos modes de scrutin tendent tout au contraire à faire perdre le
+vainqueur de Condorcet. En outre nous pourrions être tentés de penser que c'est
+tout à fait normal, et même souhaitable. C'est bizarre, et aujourd'hui on va
+justement discuter de tout ça.
+
+### Pourquoi nos modes de scrutin tendent à empêcher l'élection du vainqueur de Condorcet
+
+Je vais parler surtout du scrutin uninominal à deux tours que nous utilisons
+beaucoup en France, mais par exemple celui à un tour, utilisé dans bien d'autres
+démocraties, pose des problèmes tout à fait similaires. Pour vous expliquer ce
+qu'il se passe, je vais décrire le fonctionnement du scrutin d'une façon un peu
+imagée. Supposez que les électeurs sont répartis sur une plage et que les
+candidats sont des marchands de glace. Chaque électeur veut avoir un marchand de
+glace au plus près, évidemment. Dans nos élections à deux tours seront qualifiés
+au second tour les marchands de glaces ayant fait le plus grand nombre de ventes
+au premier tour. Et le vainqueur de l'élection sera celui qui aura fait le plus
+grand nombre de ventes au second tour.
+
+Pour remporter l'élection, donc, il faut d'abord se qualifier pour le second
+tour, et cela exige surtout de ne pas avoir de concurrent attractif trop proche
+sur la plage. En effet, deux marchands trop proches se partageront les électeurs
+alentours et donc diminueront leurs chances. Pour passer le premier tour, il
+faut s'arranger pour être en gros le seul marchand sur une partie de la plage
+suffisamment large et riche en électeurs. Et c'est à ça que servent les partis
+en somme. Un parti s'efforce d'occuper idéologiquement un large bout de plage,
+et il s'arrange pour désigner un seul marchand de glaces très attractif pour
+toute cette zone. Évidemment, d'autres petits marchands essaieront de leur voler
+des clients, mais les électeurs au premier tour auront tendance à privilégier
+les gros marchands pas trop éloignés d'eux s'ils ont une chance d'arriver au
+second tour et de l'emporter. C'est ce qu'on appelle le **vote utile**.
+
+Aussi, jusqu'aux dernières élections, le scénario était généralement le suivant
+: un gros marchand à gauche, un gros marchand à droite, d'autres petits
+marchands éparpillés un peu partout, trop faibles et trop peu attractifs pour
+atteindre le second tour, et quand tout va bien, le second tour est
+effectivement un affrontement entre les deux gros marchands : gauche contre
+droite. Et tantôt l'un l'emporte, tantôt l'autre. Et tout est dans l'ordre ! Or
+est-ce un **vainqueur de Condorcet** qui l'emporte dans ce genre de scénario ?
+Probablement pas ! S'il y a un vainqueur de Condorcet, ce serait plutôt ce
+marchand de glaces, placé au centre, coincé entre les deux mastodontes. En
+effet, toute la partie gauche de la plage et une partie du centre droit
+préférera acheter ses glaces à lui plutôt qu'au gros marchand de droite, et
+inversement, toute la partie droite de la plage et une partie du centre gauche
+préférera lui acheter ses glaces à lui plutôt qu'au gros marchand de gauche. Il
+bat bien l'un et l'autre en duel, et il bat probablement aussi tous les autres
+petits marchands. Son seul tort, en fait, est de ne pas être assez attractif et
+isolé pour réussir à se hisser au second tour. Mais en fait, les deux
+alternatives entre lesquelles on choisit au second tour, sont des alternatives
+minoritaires par rapport à ce candidat.
+
+Si on arrête de parler de glaces, ça donne quoi ? Substituez au marchand de
+gauche Ségolène Royal ou François Hollande, à celui de droite Nicolas Sarkozy et
+au marchand du centre François Bayrou. Et on a en gros les élections
+présidentielles de 2007 et 2012. En effet, c'est un point souvent souligné, les
+sondages semblaient bien indiquer que Bayrou était le vainqueur de Condorcet de
+ces deux élections. Au lendemain de ces deux scrutins, si un référendum avait
+proposé Bayrou contre le président nouvellement élu, Bayrou l'aurait
+vraisemblablement emporté dans les deux cas. Et aucun autre candidat n'aurait
+été capable de l'emporter contre lui en duel. Ainsi, vainqueur de Condorcet,
+Bayrou méritait de gagner.
+
+### Les critiques du principe de Condorcet
+
+C'est un peu notre président alternatif. Bayrou était quand même pas super super
+populaire... Il avait peut-être 15 % d'électeurs, ça ne fait pas beaucoup pour
+remporter une élection, non ? Cette façon de parler des électeurs comme attachés
+à un seul candidat est, je crois, la source de beaucoup de confusions. J'y
+reviendrai un peu plus loin. Ceci dit, j'admets volontiers qu'il y ait quelque
+chose de bizarre à penser que Bayrou, vainqueur de Condorcet en 2007 et 2012,
+était le vainqueur légitime de ces élections. Notre culture démocratique nous
+incite à penser que le vainqueur légitime d'une élection doit venir plutôt d'un
+grand parti, soit de gauche, soit de droite, capable de faire un gros score
+d'adhésion au premier tour.
+
+L'élection de 2017 s'est déroulée selon un scénario tout à fait différent et
+imprévisible. Le candidat de droit s'est torpillé, ceux de gauche se sont
+entre-dévorés, tout cela a créé un vide suffisant au centre, qui a permis pour
+une fois à un centriste de passer au second tour et l'emporter. Et si l'on en
+croit les sondages, face à n'importe quel autre candidat au second tour, Macron
+l'emportait confortablement. Son positionnement au centre faisait bien de lui un
+vainqueur de Condorcet, tout comme Bayrou dans les élections précédentes. Ainsi,
+pour une fois, il semble que ce soit un vainqueur de Condorcet qui ait remporté
+l'élection.
+
+(David Louapre <3) En fait, j'ai compris, c'est nul ton truc de Condorcet : ça
+veut dire que c'est toujours le centre qui doit gagner ! C'est pas très
+démocratique, ça ! Voilà en effet ce qui motive beaucoup d'opposition au
+principe de Condorcet. Cela favorise les candidats du centre, ou tout au moins
+les candidats modérés, les candidats du consensus au détriment des candidats
+radicaux ou clivants. Et forcément quand on soutient plutôt un candidat radical
+ou clivant, ou tout au moins excentré, l'idée de ce principe est accueillie
+plutôt froidement. Mais nous devrions essayer de faire la part des choses entre
+ce que nous voulons nous personnellement que le résultat soit, et ce que nous
+considérons comme résultat démocratiquement légitime. Que le centre doive
+l'emporter généralement selon le critère de Condorcet, est-ce une objection
+contre le caractère démocratique du résultat ? Après tout, la démocratie invite
+effectivement plutôt au consensus puisqu'une décision prise doit emporter
+l'assentiment d'une majorité. Pour y arriver, il faut bien que l'alternative
+choisie soit perçue comme plutôt... consensuelle et le centre, justement, c'est
+ce qui en général représente le mieux ce consensus.
+
+Oui mais ça veut dire qu'un type comme Mélenchon ne pourrait jamais gagner... et
+je ne suis pas d'accord ! Non, ça veut dire qu'il sera légitime à remporter
+l'élection qu'au moment où lui-même représentera une certaine forme de
+consensus. Quand il sera en gros au centre du jeu politique. Mélenchon devenir
+centriste ? Non mais ça va pas ?! Tu voudrais qu'il renonce à ses idées pour
+être élu ! Mais non pas du tout ! Regarde : il y a deux façons pour un marchand
+de glaces de se retrouver au centre des électeurs. Soit il se déplace
+idéologiquement pour se retrouver de fait au centre, là où sont les électeurs,
+mais il peut aussi, à l'inverse, faire en sorte d'attirer les électeurs à lui,
+de façon à ce que le centre se décale vers lui. N'oubliez pas que la plage est
+vaste, et que l'expression "centre" n'en désigne aucune zone déterminée. C'est
+une notion purement relative aux positions idéologiques des électeurs, et
+celles-ci, heureusement, ne sont pas figées. Si les opinions de "La France
+insoumise" gagnaient du terrain jusqu'à devenir tout à fait consensuelles, si du
+coup les deux grands partis se divisant les élections en France devenaient
+"Lutte ouvrière" à gauche et le PS à droite, Mélenchon apparaîtrait entre les
+deux comme un candidat centriste, modéré, et est-ce que ce ne serait pas ça
+finalement, la victoire de ses idées ? Qu'elles s'imposent si largement qu'elles
+se retrouvent au centre du jeu politique, et non plus à un bord extrême. Donc au
+fond, quand tu milites pour Mélenchon, tu fais tout ce que tu peux pour qu'il
+devienne centriste ! C'est une drôle de façon de voir les choses... Le combat
+politique d'un groupe dont les idées sont aujourd'hui minoritaires et clivantes
+ne devrait pas consister à trouver un moyen de remporter le jeu de l'élection
+demain tout en restant minoritaire et clivant. Leur combat devrait plutôt
+consister à ce que demain beaucoup d'électeurs les rejoignent dans ses idées, de
+façon à ce qu'elles deviennent majoritaires et consensuelles. Et donc légitimes
+à remporter des élections. Adopter un mode de scrutin qui favorise le vainqueur
+de Condorcet, c'est une façon de mettre l'accent sur cette seconde forme de
+combat politique qui me paraît bien plus légitime démocratiquement que la
+première. Quand on sait qu'on représente une part vraiment minoritaire de
+l'électorat, trouver un moyen de remporter quand même l'élection en profitant
+des failles du mode de scrutin, ça me paraît pas trop trop démocratique.
+
+### La question des "électeurs de..." et des degrés d'adhésion
+
+Mais si on enlève le vote utile pour Macron au premier tour, Macron il avait
+peut-être 15 % d'électeurs... C'est pas très démocratique non plus de l'emporter
+! C'est intéressant, on parle souvent des électeurs d'untel, comme si chaque
+électeur était attaché à un et un seul candidat. Et c'est une façon très
+discutable de décrire les électeurs. Vous avez un parfum de glace préféré, par
+exemple la vanille. Mais, est-ce qu'en tant que mangeur de glaces, vous n'êtes
+rien d'autre qu'un mangeur de glaces à la vanille ? Non ! Vous avez des
+préférences diverses pour bien d'autres parfums de glaces. Peut-être que vous
+aimez aussi beaucoup le chocolat même si c'est à moindre degré, et dans ce cas
+vous êtes aussi, à un moindre degré, un mangeur de glaces au chocolat ! Et il en
+va de même de nos préférences politiques.
+
+En somme, il faudrait préciser le sens de l'expression "être électeur de".
+Plutôt qu'une notion absolue, je pense que c'est une notion relative : on est
+toujours électeur d'une alternative contre une autre. Par exemple, si tes
+préférences électorales aux dernières présidentielles étaient en gros :
+Mélenchon, Hamon, Macron, Fillon, Le Pen, alors on peut dire que tu étais un
+électeur de Mélenchon contre tous les autres, mais on peut aussi dire que tu
+étais un électeur de Hamon contre Macron, Fillon et Le Pen, et aussi un électeur
+de Macron contre Fillon et Le Pen, et même un électeur de Fillon contre Le Pen.
+Moi, électeur de Fillon ?! Contre Le Pen, oui ! Si effectivement tu préfères
+quand même Fillon à Le Pen, alors tu es effectivement un peu un électeur de
+Fillon. Ah bon OK mais alors vraiment un peu. Un tout petit peu !
+
+Voilà pourquoi il me paraît peu convaincant de remettre en cause la légitimité
+du vainqueur de Condorcet en faisant valoir qu'il a "peu d'électeurs", et en
+particulier moins d'électeurs que ses concurrents. C'est se focaliser indûment
+sur les premières préférences des électeurs. Or si on regarde l'ensemble de
+leurs préférences, on se rendra compte au contraire que le vainqueur de
+Condorcet a beaucoup d'électeurs, et pour cause, il a même une majorité
+d'électeurs face à n'importe quel autre candidat. J'ajouterais que cette façon
+de considérer les électeurs comme étant les électeurs d'un seul candidat est
+sans doute liée et renforcée par le fait que nos scrutins sont uninominaux. Nous
+ne mettons qu'un seul nom dans le bulletin de vote. Si au contraire nos scrutins
+nous demandaient, ou au moins nous permettaient, de mettre plusieurs noms dans
+chaque bulletin de vote, nous serions sans doute moins enclins à penser les
+électeurs de cette façon... caricaturale, comme s'ils étaient les "hooligans" de
+leur candidat.
+
+Mais après tout, est-ce que c'est pas quand même légitime de donner plus
+d'importance au premier choix ? Au moins c'est un vrai vote d'adhésion ! Tandis
+que le vainqueur de Condorcet en général c'est le candidat du second, troisième
+choix de beaucoup d'électeurs et c'est juste un vote par défaut. Tu dis que
+c'est la préférence de la majorité. Moi j'ai plus l'impression que c'est le
+moins détesté des candidats... pas le préféré ! Note bien que "le moins
+détesté", c'est juste une façon négative de dire "le préféré". Mais ceci dit,
+j'entends l'objection. Tu penses qu'il faut quantifier les degrés d'adhésion et
+qu'une adhésion positive, celle du premier choix, est plus importante que
+l'adhésion par défaut des deuxième, troisième, quatrième choix. Oui voilà
+exactement. Il faudrait donner plus de poids au vote d'adhésion. Donc il
+faudrait que le vote mesure la force, le degré d'adhésion des électeurs pour les
+différentes alternatives pour lesquelles ils votent. Un candidat qui suscite une
+forte adhésion, même minoritaire, pourrait ainsi l'emporter contre un candidat
+mou et tiède qui n'est que le moins détesté par une majorité. Pourquoi pas ? On
+peut y réfléchir.
+
+### Vers un nouveau mode de scrutin ?
+
+Pour mesurer ces degrés d'adhésion, on pourrait recourir à un système de notes.
+Au lieu d'un bulletin de vote, on aurait une sorte de bulletin de notes
+attribuées à chaque candidat. Ainsi, un bulletin de vote permettrait d'exprimer
+à quels candidats on adhère vraiment, et à quels candidats on n'adhère que par
+défaut. Si tu voulais marquer une très forte différence entre ton adhésion
+positive à Mélenchon et ton adhésion par défaut à Hamon et Macron, et bien tu
+pourrais les noter ainsi. Et si vraiment il y avait chez les électeurs une
+volonté de marquer une telle différence entre leur premier choix, leur vote
+d'adhésion, et le reste, leur vote par défaut, les bulletins de vote devraient
+assez souvent ressembler à ça. Maintenant, comment s'en servir pour dégager un
+vainqueur ? Une idée simple serait de faire la somme des points et d'élire le
+candidat ayant la plus grosse somme. Une autre idée serait de regarder la
+médiane, c'est-à-dire en gros la note du milieu, et de choisir le candidat ayant
+la plus haute médiane. Cette méthode de la médiane donne en gros le scrutin
+qu'on appelle **"Le jugement majoritaire"** et il a beaucoup de propriétés
+intéressantes qui sont exposées dans d'excellentes vidéos auxquelles je vous
+renvoie si vous ne les connaissez pas.
+
+Et du coup avec ce scrutin, si les gens vraiment expriment leur adhésion, ça ne
+devrait pas être le centriste mou qui l'emporte. Ça va être vraiment le candidat
+qui aura su susciter la plus forte adhésion, quitte à être radical. En théorie,
+oui, il est possible que le vainqueur de Condorcet perde avec ce mode de
+scrutin. En particulier si les électeurs marquaient toujours une très forte
+différence entre leur premier choix et tous les autres, ça devrait arriver très
+souvent. En particulier si tous les électeurs mettent le score maximal à leur
+candidat préféré, et zéro à tous les autres, on revient en fait à un scrutin
+uninominal à un tour. Mais les expériences menées sur ce type de scrutins avec
+notes tendent à montrer que généralement les électeurs ne notent pas de cette
+façon là, justement. Ils ont plutôt tendance à étaler leurs notes sur toute
+l'échelle, et c'est pourquoi il me paraît erroné de donner tant de poids, tant
+d'importance, à l'idée d'un vote d'adhésion, représenté par le premier choix,
+contre le vote par défaut, représenté par le deuxième, troisième choix. En
+pratique, une majorité d'électeurs, lorsqu'on leur donne l'occasion de
+quantifier cette différence d'adhésion, ne marque pas une différence très
+prononcée. Et c'est pourquoi les modes de scrutin qui tiennent compte du degré
+d'adhésion des électeurs tendent eux aussi en fait à avantager les candidats du
+consensus, les candidats plutôt centristes et modérés, et donc à favoriser le
+vainqueur de Condorcet quand il y en a un, même si sa victoire n'est pas
+garantie.
+
+### Conclusion : l'impression d'une élection "ratée"
+
+Qu'est-ce qu'il reste en fin de compte pour justifier pourquoi un vainqueur de
+Condorcet peut être perçu comme "mal élu" ? Pourquoi, même en admettant que
+Macron l'emportait en duel face à tous ses concurrents, on garde cette
+impression tenace qu'il a un petit peu "volé" l'élection ? Et ceci pas seulement
+parce que ce n'est pas notre candidat préféré. Je pense que ça tient beaucoup à
+nos habitudes politiques, à nos attentes vis-à-vis d'une élection, en
+particulier présidentielle. L'usage du scrutin à deux tours nous a habitué à
+l'affrontement idéologique gauche / droite au second tour. On finit par aimer un
+peu ça, on veut que ce match ait lieu. Or il n'a pas eu lieu, et c'est ce qui
+nous frustre, c'est ce qui nous donne l'impression d'une élection un peu ratée.
+À la place, on a élu un centriste, un candidat tiède qui ne plaît ni ne déplaît
+trop à personne, celui qui normalement n'a rien à faire au second tour, mais
+qui, une fois qu'il y est, ne peut perdre contre personne. Bah oui, c'est le
+vainqueur de Condorcet, c'est la définition même de ne pas pouvoir perdre au
+second tour. En somme si nous avons l'impression que Macron est mal élu, ce
+n'est pas parce qu'il n'est pas la préférence de la majorité, mais tout au
+contraire parce qu'il l'est, et que notre élection présidentielle en deux tours
+n'est pas censée élire la préférence de la majorité. Elle est censée être là
+pour constituer un bon vieux match "gauche contre droite"... qui n'a pas eu
+lieu. Mais à bien y réfléchir, ce stupide scrutin à deux tours est une mauvaise
+habitude à perdre et si nous sommes attachés à la démocratie plus qu'à nos
+mauvaises habitudes, nous devrions vraiment essayer.
+
+Bon mais entre nous, c'est quoi ton mode de scrutin préféré ? Alors même s'il
+n'est pas parfait, le jugement majoritaire me paraît être un excellent compromis
+et si on devait changer le nôtre pour celui-là, je serais vraiment très content.
+Ne serait-ce que pour avoir des résultats électoraux qui ressemblent à ça !
+C'est quand même beaucoup plus joli et beaucoup plus riche en informations !
+Mais le jugement majoritaire n'est pas une méthode de Condorcet. Et ça, ça me
+pose quand même un problème. Et en fait c'est l'idée même de tenir compte non
+plus seulement de l'ordre de préférence, mais des forces d'adhésion, des degrés
+d'adhésion pour les différents candidats qui me paraît très discutable dans la
+mesure où en fait, si on y regarde plus près, elle implique de rejeter carrément
+le principe de majorité. Et du coup, est-ce que c'est vraiment démocratique ?
+Mais ça ferait sujet d'une toute autre vidéo. J'en parlerai peut-être une autre
+fois.
+
+Merci en tous cas d'avoir suivi cette vidéo, et j'espère que ça vous aura fait
+réfléchir. Changer notre mode de scrutin, c'est à la fois démocratiquement
+légitime, voire nécessaire, c'est relativement facile à mettre en œuvre, ça n'a
+rien d'utopique, et c'est potentiellement très transformateur pour la pratique
+de la politique. Est-ce qu'on peut raisonnablement espérer que cette
+rocambolesque élection de 2017 aura été la dernière élection selon ce mode de
+scrutin abracadabrantesque ? Abracadabrantesque ! Et en partageant cette vidéo,
+vous contribuez à cette modeste révolution. Alors n'hésitez pas, diffusez,
+partagez, faites-vous plaisir.

@@ -1,0 +1,190 @@
+---
+title: Chapter V. Of The Value Of Money, As Dependent On Demand And Supply.
+path: 06-book-iii-exchange/05-chapter-v-of-the-value-of-money-as-dependent-on-demand-and-supply
+ancestors:
+  - Book III. Exchange.
+href: 1129008759595750428_30107-h-5.html.xhtml#pgepubid00118
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter V. Of The Value Of Money, As Dependent On Demand And Supply.
+
+## § 1. Value of Money, an ambiguous expression.
+
+The Value of Money is to appearance an expression as precise, as free from possibility of misunderstanding, as any in
+science. The value of a thing is what it will exchange for; the value of money is what money will exchange for, the
+purchasing power of money. If prices are low, money will buy much of other things, and is of high value; if prices are
+high, it will buy little of other things, and is of low value. The value of money is inversely as general prices;
+falling as they rise, and rising as they fall. When one person lends to another, as well as when he pays wages or rent
+to another, what he transfers is not the mere money, but a right to a certain value of the produce of the country, to be
+selected at pleasure; the lender having first bought this right, by giving for it a portion of his capital. What he
+really lends is so much capital; the money is the mere instrument of transfer. But the capital usually passes from the
+lender to the receiver through the means either of money, or of an order to receive money, and at any rate it is in
+money that the capital is computed and estimated. Hence, borrowing capital is universally called borrowing money; the
+loan market is called the money market; those who have their capital disposable for investment on loan are called the
+moneyed class; and the equivalent given for the use of capital, or, in other words, interest, is not only called the
+interest of money, but, by a grosser perversion of terms, the value of money.
+
+## § 2. The Value of Money depends on its quantity.
+
+The value or purchasing power of money depends, \[pg 295\] in the first instance, on demand and supply. But demand and
+supply, in relation to money, present themselves in a somewhat different shape from the demand and supply of other
+things.
+
+The supply of a commodity means the quantity offered for sale. But it is not usual to speak of offering money for sale.
+People are not usually said to buy or sell money. This, however, is merely an accident of language. In point of fact,
+money is bought and sold like other things, whenever other things are bought and sold _for_ money. Whoever sells corn,
+or tallow, or cotton, buys money. Whoever buys bread, or wine, or clothes, sells money to the dealer in those articles.
+The money with which people are offering to buy, is money offered for sale. The supply of money, then, is the quantity
+of it which people are wanting to lay out; that is, all the money they have in their possession, except what they are
+hoarding, or at least keeping by them as a reserve for future contingencies. The supply of money, in short, is all the
+money in _circulation_ at the time.
+
+The demand for money, again, consists of all the goods offered for sale. Every seller of goods is a buyer of money, and
+the goods he brings with him constitute his demand. The demand for money differs from the demand for other things in
+this, that it is limited only by the means of the purchaser.
+
+In this last statement Mr. Mill is misled by his former definition of demand as “quantity demanded.” He has the true
+idea of demand in this case regarding money; but the demand for money does not, as he thinks, differ from the demand for
+other things, inasmuch as, in our corrected view of demand for other things (p.
+[255](1129008759595750428_30107-h-5.html.xhtml#Pg255)), it was found that the demand for other things than money was
+also limited by the means of the purchaser.[^228]
+
+\[pg 296\]
+
+As the whole of the goods in the market compose the demand for money, so the whole of the money constitutes the demand
+for goods. The money and the goods are seeking each other for the purpose of being exchanged. They are reciprocally
+supply and demand to one another. It is indifferent whether, in characterizing the phenomena, we speak of the demand and
+supply of goods, or the supply and the demand of money. They are equivalent expressions.
+
+Supposing the money in the hands of individuals to be increased, the wants and inclinations of the community
+collectively in respect to consumption remaining exactly the same, the increase of demand would reach all things
+equally, and there would be a universal rise of prices. Let us rather suppose, therefore, that to every pound, or
+shilling, or penny in the possession of any one, another pound, shilling, or penny were suddenly added. There would be
+an increased money demand, and consequently an increased money value, or price, for things of all sorts. This increased
+value would do no good to any one; would make no difference, except that of having to reckon \[dollars and cents\] in
+higher numbers. It would be an increase of values only as estimated in money, a thing only wanted to buy other things
+with; and would not enable any one to buy more of them than before. Prices would have risen in a certain ratio, and the
+value of money would have fallen in the same ratio.
+
+It is to be remarked that this ratio would be precisely that in which the quantity of money had been increased. If the
+whole money in circulation was doubled, prices would be doubled. If it was only increased one fourth, prices would rise
+one fourth. There would be one fourth more money, all of which would be used to purchase goods of some description. When
+there had been time for the increased supply of money to reach all markets, or (according to the conventional metaphor)
+to permeate all the channels of circulation, all prices would have risen one fourth. But the general rise of price is
+independent of this diffusing and equalizing process. Even if some prices were raised more, and others less, \[pg 297\]
+the average rise would be one fourth. This is a necessary consequence of the fact that a fourth more money would have
+been given for only the same quantity of goods. _General_ prices, therefore, would in any case be a fourth higher.
+
+So that the value of money, other things being the same, varies inversely as its quantity; every increase of quantity
+lowering the value, and every diminution raising it, in a ratio exactly equivalent. This, it must be observed, is a
+property peculiar to money. We did not find it to be true of commodities generally, that every diminution of supply
+raised the value exactly in proportion to the deficiency, or that every increase lowered it in the precise ratio of the
+excess. Some things are usually affected in a greater ratio than that of the excess or deficiency, others usually in a
+less; because, in ordinary cases of demand, the desire, being for the thing itself, may be stronger or weaker; and the
+amount of what people are willing to expend on it, being in any case a limited quantity, may be affected in very unequal
+degrees by difficulty or facility of attainment. But in the case of money, which is desired as the means of universal
+purchase, the demand consists of everything which people have to sell; and the only limit to what they are willing to
+give, is the limit set by their having nothing more to offer. The whole of the goods being in any case exchanged for the
+whole of the money which comes into the market to be laid out, they will sell for less or more of it, exactly according
+as less or more is brought.
+
+## § 3. —Together with the Rapidity of Circulation.
+
+It might be supposed that there is always in circulation in a country a quantity of money equal in value to the whole of
+the goods then and there on sale. But this would be a complete misapprehension. The money laid out is equal in value to
+the goods it purchases; but the quantity of money laid out is not the same thing with the quantity in circulation. As
+the money passes from hand to hand, the same piece of money is laid out many times before all the things on sale at one
+time are purchased and finally removed from the market; and each pound or dollar must be counted \[pg 298\] for as many
+pounds or dollars as the number of times it changes hands in order to effect this object.
+
+If we assume the quantity of goods on sale, and the number of times those goods are resold, to be fixed quantities, the
+value of money will depend upon its quantity, together with the average number of times that each piece changes hands in
+the process. The whole of the goods sold (counting each resale of the same goods as so much added to the goods) have
+been exchanged for the whole of the money, multiplied by the number of purchases made on the average by each piece.
+Consequently, the amount of goods and of transactions being the same, the value of money is inversely as its quantity
+multiplied by what is called the rapidity of circulation. And the quantity of money in circulation is equal to the money
+value of all the goods sold, divided by the number which expresses the rapidity of circulation.
+
+This may be expressed in mathematical language, where V is the value of money, Q is the quantity in circulation, and R
+the number expressing the rapidity of circulation, as follows:
+
+V = 1 / (Q × R).
+
+The phrase, rapidity of circulation, requires some comment. It must not be understood to mean the number of purchases
+made by each piece of money in a given time. Time is not the thing to be considered. The state of society may be such
+that each piece of money hardly performs more than one purchase in a year; but if this arises from the small number of
+transactions—from the small amount of business done, the want of activity in traffic, or because what traffic there is
+mostly takes place by barter—it constitutes no reason why prices should be lower, or the value of money higher. The
+essential point is, not how often the same money changes hands in a given time, but how often it changes hands in order
+to perform a given amount of traffic. We must compare the number of purchases made by the money in a given time, not
+with the time itself, but with the goods sold in that same time. If each piece of \[pg 299\] money changes hands on an
+average ten times while goods are sold to the value of a million sterling, it is evident that the money required to
+circulate those goods is £100,000. And, conversely, if the money in circulation is £100,000, and each piece changes
+hands, by the purchase of goods, ten times in a month, the sales of goods for money which take place every month must
+amount, on the average, to £1,000,000. \[The essential point to be considered is\] the average number of purchases made
+by each piece in order to affect a given pecuniary amount of transactions.
+
+“There is no doubt that the rapidity of circulation varies very much between one country and another. A thrifty people
+with slight banking facilities, like the French, Swiss, Belgians, and Dutch, hoard coin much more than an improvident
+people like the English, or even a careful people, with a perfect banking system, like the Scotch. Many circumstances,
+too, affect the rapidity of circulation. Railways and rapid steamboats enable coin and bullion to be more swiftly
+remitted than of old; telegraphs prevent its needless removal, and the acceleration of the mails has a like effect.” “So
+different are the commercial habits of different peoples, that there evidently exists no proportion whatever between the
+amount of currency in a country and the aggregate of the exchanges which can be effected by it.”[^229]
+
+## § 4. Explanations and Limitations of this Principle.
+
+The proposition which we have laid down respecting the dependence of general prices upon the quantity of money in
+circulation must be understood as applying only to a state of things in which money—that is, gold or silver—is the
+exclusive instrument of exchange, and actually passes from hand to hand at every purchase, credit in any of its shapes
+being unknown. When credit comes into play as a means of purchasing, distinct from money in hand, we shall hereafter
+find that the connection between prices and the amount of the circulating medium is much less direct and intimate, and
+that such connection as does exist no longer admits of so simple a mode of expression. That an increase of the quantity
+of money raises prices, and a diminution lowers them, is the most elementary proposition in the theory of \[pg 300\]
+currency, and without it we should have no key to any of the others. In any state of things, however, except the simple
+and primitive one which we have supposed, the proposition is only true, other things being the same.
+
+It is habitually assumed that whenever there is a greater amount of money in the country, or in existence, a rise of
+prices must necessarily follow. But this is by no means an inevitable consequence. In no commodity is it the quantity in
+existence, but the quantity offered for sale, that determines the value. Whatever may be the quantity of money in the
+country, only that part of it will affect prices which goes into the market of commodities, and is there actually
+exchanged against goods. Whatever increases the amount of this portion of the money in the country tends to raise
+prices.
+
+This statement needs modification, since the change in the amounts of specie in the bank reserves, particularly of
+England and the United States, determines the amount of credit and purchasing power granted, and so affects prices in
+that way; but prices are affected not by this specie being actually exchanged against goods.
+
+It frequently happens that money to a considerable amount is brought into the country, is there actually invested as
+capital, and again flows out, without having ever once acted upon the markets of commodities, but only upon the market
+of securities, or, as it is commonly though improperly called, the money market.
+
+A foreigner landing in the country with a treasure might very probably prefer to invest his fortune at interest; which
+we shall suppose him to do in the most obvious way by becoming a competitor for a portion of the stock, railway
+debentures, mercantile bills, mortgages, etc., which are at all times in the hands of the public. By doing this he would
+raise the prices of those different securities, or in other words would lower the rate of interest; and since this would
+disturb the relation previously existing between the rate of interest on capital in the country itself and that in \[pg
+301\] foreign countries, it would probably induce some of those who had floating capital seeking employment to send it
+abroad for foreign investment, rather than buy securities at home at the advanced price. As much money might thus go out
+as had previously come in, while the prices of commodities would have shown no trace of its temporary presence. This is
+a case highly deserving of attention; and it is a fact now beginning to be recognized that the passage of the precious
+metals from country to country is determined much more than was formerly supposed by the state of the loan market in
+different countries, and much less by the state of prices.
+
+If there be, at any time, an increase in the number of money transactions, a thing continually liable to happen from
+differences in the activity of speculation, and even in the time of year (since certain kinds of business are transacted
+only at particular seasons), an increase of the currency which is only proportional to this increase of transactions,
+and is of no longer duration, has no tendency to raise prices.
+
+For example, bankers in Eastern cities each year send in the autumn to the West, as the crops are gathered, very large
+sums of money, to settle transactions in the buying and selling of grain, wool, etc., but it again flows back to the
+great centers of business in a short time, in payment of purchases from Eastern merchants.
+
+\[pg 302\]
+
+* * *
+
+[^228]: F. A. Walker defines the demand for money as “the occasion for the use of money in effecting exchanges; in other words, it is the amount of money-work to be done” (“Political Economy,” p. 133); and the supply of money as “the money-force available to do the money-work which the demand for money indicates as required to be done, in the given community, at the given time. The supply of money is measured by ... the amount of money and the rapidity of circulation” (ibid., p. 136).
+
+[^229]: Jevons, “Money and the Mechanism of Exchange,” pp. 336, 339.

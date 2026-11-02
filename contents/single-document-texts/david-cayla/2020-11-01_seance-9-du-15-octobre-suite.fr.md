@@ -1,0 +1,353 @@
+---
+source_url: https://www.youtube.com/watch?v=SNdKszoJn8s
+video_title: Séance 9 du 15 octobre (suite)
+generated_at: 2026-09-20T17:10:39.068Z
+llm:
+  model: deepseek-flash
+  duration_seconds: 25.1
+  input_tokens: 9163
+  cached_input_tokens: 0
+  output_tokens: 6352
+  estimated_cost_usd: 0.005186
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Séance 9 du 15 octobre (suite)
+
+Nous allons reprendre le cours. Le son fonctionne normalement. Rassurez-vous,
+d'autres auditeurs vont venir.
+
+Pour analyser et modéliser le fonctionnement de l'économie, il faut commencer
+par dissocier les différents secteurs de l'économie. C'est un peu arbitraire,
+mais c'est sans doute la manière la plus simple de représenter l'économie. Je
+vais dissocier quatre grands secteurs. L'INSEE a tendance à en distinguer
+davantage, par exemple le secteur financier, mais celui-ci ne nous intéresse pas
+ici. L'INSEE ajoute aussi les administrations privées, c'est-à-dire les
+associations caritatives, mais nous ne les prendrons pas en compte pour
+simplifier. Il nous reste donc quatre secteurs. Nous allons les analyser, voir
+ce qu'ils sont, puis montrer ce dont ils bénéficient en termes de richesse,
+c'est-à-dire les emplois qui prélèvent la richesse, et ce qu'ils produisent
+comme ressource, ce qu'ils contribuent à l'économie.
+
+## Les ménages
+
+Le premier secteur, celui qui nous intéresse le plus, ce sont les ménages.
+Première chose à comprendre : tout le monde est un ménage. La représentation que
+j'ai ici de l'économie n'est pas la même que celle de François Quesnay ou des
+classiques, qui dissocient les propriétaires, les travailleurs et les
+capitalistes. Chez Ricardo, on est capitaliste ou travailleur, pas les deux à la
+fois. Ici, ce n'est pas la même façon de représenter l'économie puisque le
+premier secteur économique, c'est l'ensemble du monde. Les ménages représentent
+des unités de consommation. On dit « ménage » et non « habitants » parce qu'on
+va considérer une famille comme une unité de consommation cohérente. Un couple
+qui vit ensemble et prend ses repas ensemble, c'est un ménage. Un célibataire
+isolé, c'est aussi un ménage. On peut avoir des ménages de différentes tailles,
+mais ce qui est intéressant, c'est qu'un ménage prend ses repas ensemble, vit
+dans le même appartement, la même maison, le même foyer. Il y a une cohérence
+dans le comportement de consommation. On ne va pas dissocier les individus :
+souvent, une personne fait les courses pour tout le monde. On ne va pas
+considérer que les enfants ne consomment pas et que les adultes consomment.
+C'est absurde. On prend le ménage, c'est-à-dire la famille dans son ensemble,
+comme unité de consommation. Si vous habitez dans le même appartement en
+colocation et que vous prenez des repas séparés, on va considérer que vous êtes
+plusieurs ménages. Si vous êtes en colocation mais que vous mangez ensemble, que
+vous consommez ensemble, que vous partez en vacances ensemble, alors on va
+plutôt considérer que vous êtes un ménage. C'est une question économique. Les
+ménages ont une fonction essentielle : consommer. On va les regrouper par
+rapport à leurs habitudes de consommation. Quand ils consomment ensemble, ils
+comptent pour un ménage ; quand ils consomment différemment, chaque individu est
+un ménage.
+
+Les ménages apportent une ressource à l'économie : l'offre de travail. Le
+travail vient des ménages. Il n'y a pas de travail qui apparaît spontanément
+dans l'économie. Tout le travail vient forcément des ménages. C'est la
+ressource.
+
+Ce que les ménages prélèvent sur l'économie, ce sont des emplois : la
+consommation finale, l'investissement, les services publics. Est-ce qu'ils
+prélèvent des salaires ? Non, on ne les met pas ici parce que les salaires,
+c'est de la monnaie. Dans la circulation réelle, tout ce qui est monnaie n'est
+pas présent. Un salaire, c'est de la monnaie. Est-ce qu'ils prélèvent des impôts
+? Oui, bien sûr, mais on ne va pas les représenter ici parce qu'on regarde
+uniquement les flux réels, pas les flux monétaires. Quand je dis « prélèvement
+», je ne présente pas la moitié de la réalité, je présente toute la réalité
+réelle, pas la réalité monétaire. Au début, ça trouble un peu les étudiants :
+comment étudier la richesse sans parler de l'argent ? En fait, au cœur de la
+richesse, ce n'est pas l'argent. La monnaie est un artefact très utile, mais la
+vraie richesse n'est pas la monnaie. Je m'intéresse aux flux réels, et vous
+allez voir que c'est beaucoup plus simple et qu'on va comprendre plein de
+choses.
+
+Donc ce que les ménages prélèvent sur l'économie, c'est la consommation finale
+marchande, les services publics non marchands, les investissements. Les
+investissements des ménages, on l'a vu dans le schéma précédent, c'est le
+logement, l'achat de logement ou l'investissement dans le locatif. Pour chacun,
+on va mettre une notation : CF pour consommation finale. Cela se distingue de la
+consommation intermédiaire, qui est la consommation destinée à produire d'autres
+marchandises. Ici, c'est la destination finale. Les services publics, on note G
+comme government, l'État en anglais. C'est produit par l'État, par
+l'administration publique. Et l'investissement, on note IM pour investissement
+des ménages.
+
+## Les entreprises
+
+Deuxième secteur : les entreprises. Les entreprises, c'est tout ce qui produit
+de la production marchande. La ressource des entreprises, c'est la production
+marchande, notée PE (production des entreprises). La production marchande est
+destinée à être vendue sur le marché. Toutes les entreprises sont caractérisées
+par le fait qu'elles font de la production marchande. Une association qui
+produit un bien vendu sur le marché sera une entreprise. Par exemple, une
+compagnie de théâtre est souvent une association. Elle produit un service, une
+pièce de théâtre. Cette pièce est achetée par une collectivité qui va la
+programmer dans son théâtre municipal. Ce qu'elle a produit est bien une
+production marchande. Le fait que les spectateurs paient un prix faible, voire
+que ce soit gratuit, signifie que le service public de la commune offre une
+pièce de théâtre gratuite. C'est possible. Par exemple, le festival de Trélazé,
+tous les étés, propose des concerts gratuits. Les groupes de musique sont payés
+: ils produisent un service marchand. Dans notre analyse, ils sont considérés
+comme des entreprises. Mais à qui vendent-ils ? Ils ne vendent pas aux gens,
+puisque les gens ne paient pas. Ils vendent à la commune de Trélazé, qui
+elle-même offre ce spectacle gratuitement à ses concitoyens. L'entreprise
+produit un service acheté par la commune, qui produit ensuite un service public
+non marchand. L'entreprise est caractérisée par la production marchande, quel
+que soit son statut : association, compagnie de théâtre, société anonyme du CAC
+40, petite PME, commerçant individuel, médecin. Un médecin libéral est une
+entreprise parce qu'il produit un service marchand. Vous le payez, même si vous
+êtes remboursé par la Sécurité sociale. Vous payez une prestation, c'est son
+revenu. On ne regarde pas le statut. Tout ce qui produit des services marchands
+– coopératives, associations, entreprises – sont des entreprises.
+
+Les entreprises contribuent à l'économie par la production marchande. Elles
+consomment des ressources de l'économie, ce sont les emplois. Elles consomment
+du travail : pour produire, il faut des employés, des salariés. Elles consomment
+aussi une partie des choses qu'elles détruisent dans le processus de production
+: la consommation intermédiaire (matières premières, énergie, biens
+intermédiaires). Elles investissent aussi. Et elles bénéficient des services
+publics : elles sont protégées par la police et la justice, elles bénéficient de
+salariés bien formés par l'excellent système éducatif. Cela pourrait être
+meilleur, mais c'est déjà ça. Donc les entreprises prélèvent de la richesse sur
+l'économie.
+
+## Les administrations publiques
+
+Troisième secteur : les administrations publiques. Elles produisent de la
+production non marchande. Attention : une entreprise publique qui produit une
+production marchande appartient au secteur des entreprises. Donc les entreprises
+publiques sont des entreprises. Quand on parle d'administration publique, on ne
+parle pas que de l'État, mais aussi de toutes les collectivités territoriales.
+Les administrations publiques produisent un service non marchand à l'ensemble de
+l'économie. Ce service non marchand est utilisé par les ménages et par les
+entreprises : le système éducatif, le système de santé, la police, la justice,
+la défense nationale, les routes. Les routes sont financées par les
+collectivités territoriales ou par l'État. Les départementales sont financées
+par les départements, les nationales par l'État, les rues par la commune. On a
+donc un service public gratuit, financé par les administrations publiques selon
+le type de route. Les administrations publiques, c'est l'État, les collectivités
+territoriales, les départements, les communes, les régions, les communautés de
+communes, etc.
+
+Il y a un autre aspect très important : les administrations publiques
+fournissent un service d'assurance public obligatoire, la Sécurité sociale. La
+Sécurité sociale fournit un service d'assurance : assurance retraite, assurance
+santé, allocations familiales, aides au logement (branche famille), accidents du
+travail. La Sécurité sociale a quatre branches : la branche retraite (la plus
+importante en volume), la branche maladie (très importante), la branche famille
+(aides au logement, allocations familiales, allocation de rentrée scolaire), et
+la branche accidents du travail (très importante car elle assure la sécurité
+financière des salariés). Il existe d'autres organismes de protection sociale,
+notamment l'assurance chômage. L'UNEDIC est une administration publique de
+l'État qui finance le chômage. C'est en dehors de la Sécurité sociale
+officiellement, car créé après et pas totalement rattaché. On parle de créer une
+5e branche de la Sécurité sociale : la dépendance. C'est un besoin extrêmement
+important, notamment pour la gestion des personnes âgées dépendantes. Elles sont
+souvent dans des EHPAD, qui posent problème, surtout en période de crise
+sanitaire. Ces EHPAD coûtent très cher. Qui doit prendre en charge ce coût ?
+Aujourd'hui, c'est la personne âgée elle-même, mais si elle a une petite
+retraite, elle n'a pas assez d'argent. Alors la famille aide, les enfants. S'ils
+n'ont pas d'enfants, c'est compliqué. Il faudrait une 5e branche, mais pour cela
+il faudrait cotiser, que tout le monde soit obligé de cotiser pour mettre dans
+une caisse commune afin de financer la dépendance des personnes sans ressources.
+On en parle depuis longtemps, mais comme on ne veut pas augmenter les impôts, on
+ne sait pas comment le financer. Récemment, Emmanuel Macron a dit qu'il fallait
+penser la 5e branche, mais en même temps on ne peut pas augmenter les impôts,
+donc on ne sait pas comment faire. Si on donne un nouveau droit financé par
+l'impôt, je ne vois pas de solution.
+
+Pour conclure sur les administrations publiques : c'est l'État, les
+collectivités territoriales et les organismes de protection sociale, dont la
+Sécurité sociale et l'assurance chômage. Ce sont des producteurs : ils
+produisent une production non marchande. Qu'est-ce qu'ils prélèvent sur
+l'économie ? Quels sont leurs emplois ? Même chose que pour les entreprises :
+ils prélèvent du travail (il faut des travailleurs pour faire tourner les
+administrations), de la consommation intermédiaire (par exemple, ce cours ne
+peut se faire que grâce à l'électricité consommée par l'université), et de
+l'investissement public (noté IG). Par exemple, ce bâtiment est de
+l'investissement, cet ordinateur, ce vidéoprojecteur aussi, car cela correspond
+à la capacité de faire un cours.
+
+## Le reste du monde
+
+J'ai dit qu'il y avait quatre secteurs dans l'économie réelle, et je vous en ai
+présenté trois. Lequel manque ? Le reste du monde, c'est-à-dire tout ce qui est
+à l'extérieur. Une économie fonctionne toujours en rapport avec l'extérieur,
+elle n'est pas fermée complètement. Si je devais analyser l'économie mondiale,
+il n'y aurait pas de reste du monde, car on ne commerce pas avec Mars ou Vénus.
+En général, on s'intéresse très peu à l'économie mondiale ; peu d'économistes
+s'y intéressent. On s'intéresse toujours aux économies nationales. La raison est
+concrète : ce serait très compliqué, car il n'y a pas les mêmes règles partout,
+on ne comptabiliserait pas de la même façon la valeur des choses. Donc ici, on
+s'intéresse plutôt aux économies nationales, notamment à la France. On a besoin
+d'ajouter un secteur institutionnel : le reste du monde, qui représente les
+soldes des opérations réalisées avec des agents qui ne résident pas sur le
+territoire. Pour savoir ce qui est dans le reste du monde, on prend tous les
+agents économiques situés à l'extérieur du territoire. Qu'est-ce que cela
+signifie ? Si vous êtes français et que vous vivez au Sénégal, vous appartenez à
+l'économie sénégalaise. Si vous êtes sénégalais et que vous vivez en France,
+vous appartenez à l'économie française. On regarde la résidence de l'agent, là
+où il vit, et non sa nationalité. Autre exemple : vous êtes français et vous
+partez trois semaines au Sénégal pour les vacances. Vous appartenez à l'économie
+française puisque votre lieu de résidence n'a pas changé. Cela signifie que
+toutes les dépenses que vous faites au Sénégal seront considérées comme des
+exportations du point de vue du Sénégal. Le tourisme est une ressource
+importante pour certains pays. Quand des étrangers sont sur le territoire
+français et dépensent, la France gagne de l'argent et exporte en quelque sorte
+un service touristique. Les étrangers qui sont en transit sur le territoire ne
+sont pas résidents, donc tout ce qu'on leur vend sont des exportations.
+
+Autre exemple : Renault a une usine en Roumanie. Est-ce que cela appartient à
+l'économie française ? Non, à l'économie roumaine. C'est le lieu de résidence de
+l'usine. Inversement, une entreprise américaine qui ouvre une succursale en
+France sera une entreprise française du point de vue économique. On regarde ce
+qui se passe au sein des frontières, sans s'intéresser à la nationalité. La
+nationalité d'une entreprise est très compliquée : son capital peut être détenu
+par plein de gens. Si vous achetez une action Google, vous êtes français. Si
+beaucoup de Français achètent des actions Google et que beaucoup d'Américains
+vendent, Google pourrait devenir français, mais tant que Google produit aux
+États-Unis, elle appartient à l'économie américaine, même si tout son capital
+est détenu par des Français. D'un point de vue économique, c'est le lieu de
+production qui importe. On regarde où elle produit et c'est là qu'on considère
+qu'elle appartient à l'économie.
+
+Le reste du monde représente les soldes. Quelle est la contribution, la
+ressource du reste du monde ? Qu'est-ce que le reste du monde apporte à
+l'économie ? Ce sont les importations. Il y avait un piège : souvent on dit que
+la ressource, ce sont les exportations, mais non, en économie réelle, la
+ressource, ce sont les importations. C'est ce qui rentre dans l'économie.
+Qu'est-ce qu'il prélève ? Les exportations. Bien sûr, les flux monétaires vont
+au sens inverse : les importations, c'est ce qu'on paie, et les exportations, ce
+sont les revenus qu'on a. Mais nous analysons l'économie en termes réels, pas
+monétaires.
+
+## Le schéma de circulation réelle
+
+Maintenant, il nous reste dix minutes. Je vais vous faire un schéma qui
+représente la circulation réelle. Je vous invite à prendre une feuille et à le
+faire en même temps que moi, cela vous aidera à mémoriser et à comprendre.
+Prenez une grande feuille. Vous commencez par mettre les quatre secteurs : un
+schéma avec des flèches. En haut, mettez AP : administrations publiques. À
+droite, les entreprises. À gauche, les ménages. En bas, le reste du monde. On
+est français, le reste du monde on s'en fiche un peu, on le met tout en bas.
+
+Maintenant, regardons ce que chacun des secteurs apporte. Les ménages apportent
+l'offre de travail. Les administrations publiques apportent la production non
+marchande, notée PG. Les entreprises apportent la production marchande, notée
+PE. Le reste du monde apporte les importations. Ce n'est pas obligatoire de
+faire ça à la règle, vous recopierez chez vous plus tard. Plus on le fait, plus
+on mémorise. Ce schéma est très logique. J'aurais pu vous donner une feuille
+blanche et vous laisser un quart d'heure, vous avez toutes les informations. On
+a déjà vu les ressources, les secteurs, tout ce que je viens de vous dire, rien
+de nouveau.
+
+Maintenant, dans la circulation, regardons où vont ces ressources. Où va le
+travail ? Il va vers les entreprises et vers les administrations publiques. Ici,
+le travail (ressource, en rouge) se transforme en emploi (en vert). C'est la
+demande de travail des entreprises, notée LD. Je fais une flèche par-dessus pour
+que ce soit lisible. Forcément, il y a aussi une demande de travail des
+administrations publiques. Rien de compliqué.
+
+Que devient la production non marchande ? Elle va produire G, c'est-à-dire les
+services publics. La production non marchande se transforme en services publics.
+Ces services publics vont vers les entreprises et vers les ménages. Il y a très
+peu de services publics qui vont vers le reste du monde, donc on ne le met pas.
+Parfois, ce sont des opérations militaires, mais c'est surtout pour les Français
+qu'on fait des opérations militaires, pas pour les pays. Bref, nous avons
+maintenant la production marchande des entreprises. Que devient-elle ? Une
+partie est transformée en consommation finale et achetée par les ménages. Cette
+consommation finale va vers les ménages. On pourrait dire que les services
+publics sont aussi une forme de consommation des ménages, une consommation non
+marchande. Vous verrez dans le TD 5 qu'on estime la consommation effective des
+ménages en rajoutant à ce qu'elle achète les services publics. Ici, c'est
+intéressant de distinguer, mais il faut comprendre que la nature des services
+produits n'est pas forcément différente : un cours de fac est un service public,
+le même cours peut être fait par une entreprise privée, dans ce cas ce sera une
+consommation finale, mais c'est la même chose.
+
+L'entreprise produit aussi des biens de consommation qui vont servir à la
+production des producteurs que sont les entreprises et les administrations
+publiques. Donc une partie de la production marchande va être utilisée par les
+administrations et les entreprises. Tiens, d'ailleurs, je ne l'ai pas dit tout à
+l'heure : dans la comptabilité nationale, certains petits commerçants,
+agriculteurs, artisans, professions libérales (comme un médecin) sont considérés
+comme des entreprises parce qu'ils produisent un service marchand. Mais très
+souvent, l'INSEE va considérer que, comme il n'y a pas de dissociation entre le
+compte personnel de la personne en tant que producteur et son compte en tant que
+consommateur, c'est un ménage. Vous verrez dans le TD 5 qu'un petit commerçant
+ou un agriculteur est à la fois entreprise et ménage. Il faut savoir où on le
+met. Ici, on représente un schéma schématique : on va considérer que
+l'agriculteur qui produit est dans les administrations publiques et que
+l'agriculteur qui consomme est dans les ménages. C'est possible ici parce qu'on
+est dans une représentation schématique, mais dans l'INSEE, on ne peut pas les
+mettre dans deux endroits, sinon on les compte deux fois. L'INSEE les met dans
+les ménages. Donc on va avoir une partie des ménages qui produisent de la
+richesse, de la valeur ajoutée : tous les entrepreneurs individuels. Mais ici,
+on extrait cela, on simplifie, on montre le raisonnement brut. Eux, ils montrent
+la réalité des chiffres. Cela veut dire qu'il pourrait y avoir des ménages qui
+produisent dans la manière dont l'INSEE comptabilise les ménages. Il y a des
+producteurs, donc on pourrait avoir une consommation intermédiaire qui irait
+vers les ménages. Mais ici, puisqu'on est dans un schéma simplifié archétypal,
+on considère que tous les producteurs sont dans les entreprises ou dans les
+administrations publiques. Il n'y a pas de ménage producteur. Donc il n'y a pas
+de consommation intermédiaire qui va vers les ménages. Toute la consommation des
+ménages, par définition, est une consommation finale.
+
+La production des entreprises, la production marchande, se transforme aussi en
+investissement. Cet investissement va aller vers les trois autres agents de
+l'économie : vers les entreprises (achat de machines), vers les administrations
+publiques (investissement mobilier), et vers les ménages (investissement
+immobilier résidentiel, puisque les ménages ne sont pas un agent producteur).
+Enfin, une partie de la production marchande va être exportée : elle va vers le
+reste du monde.
+
+Que deviennent les importations ? C'est la production marchande. Elles vont
+devenir – excusez-moi, j'ai oublié – la production marchande va être transformée
+en consommation intermédiaire, en consommation finale, en investissement, en
+exportations. Et parfois, la production marchande ne trouve pas acheteur et est
+stockée : c'est la variation des stocks. La variation des stocks peut aller dans
+deux sens : parfois on vend plus que ce qu'on produit, les stocks diminuent ;
+parfois on produit plus que ce qu'on peut vendre, les stocks augmentent. C'est
+très intéressant pour un conjoncturiste, un économiste spécialisé dans la
+conjoncture, qui cherche à anticiper ce qui se passe. Regarder les variations de
+stock est très intéressant : quand les stocks augmentent, cela signifie que les
+entreprises ont plus produit qu'elles n'ont vendu, donc elles vont devoir
+produire moins, ce qui annonce une phase de récession. À l'inverse, quand les
+stocks diminuent, il va falloir les réalimenter, donc produire plus, ce qui
+indique une phase de croissance. Pour comprendre comment va l'économie dans le
+prochain mois, il est intéressant d'observer la variation des stocks.
+
+Je termine parce que c'est bientôt l'heure. Les importations vont se transformer
+généralement – pas en exportations, pas en stocks – en consommation
+intermédiaire, en consommation finale et en investissement. Nous avons donc ici
+la légende : en vert les emplois, en rouge les ressources. Trois marchés : ici
+le marché du travail, ici le secteur des services publics, et ici le marché des
+biens et des services. On ne met pas la variation de stocks dans le marché des
+biens et services puisque, par définition, ça n'a pas été vendu. Maintenant nous
+avons un titre, une représentation des flux économiques réels. On n'a pas
+représenté les flux monétaires ni financiers, mais on a ici une représentation
+de l'économie qu'il faut apprendre par cœur. C'est schématique, c'est simplifié,
+mais ça montre comment la richesse est produite et circule dans l'économie. Je
+vous ai mis le chapitre 3 sur Moodle. Vous pouvez retrouver ce schéma sur Moodle
+facilement si vous n'avez pas eu le temps de le noter. Je vous dis à la semaine
+prochaine.

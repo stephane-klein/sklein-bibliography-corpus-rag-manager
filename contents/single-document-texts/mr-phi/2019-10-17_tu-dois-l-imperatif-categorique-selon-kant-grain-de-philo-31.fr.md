@@ -1,0 +1,332 @@
+---
+source_url: https://www.youtube.com/watch?v=Hj7JDMlJjJE
+video_title: "TU DOIS ! — l'impératif catégorique selon Kant | Grain de philo #31"
+generated_at: 2026-09-19T09:36:45.196Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 145.7
+  input_tokens: 5781
+  cached_input_tokens: 0
+  output_tokens: 5634
+  estimated_cost_usd: 0.002387
+  finish_reason: stop
+---
+
+# TU DOIS ! — l'impératif catégorique selon Kant | Grain de philo #31
+
+bonjour à tous et tout d'abord, est-ce que vous connaissez Kant ? Ben oui, c'est
+le gros raciste qui déteste la nation. On ne dit pas les mots qui fâchent
+l'algorithme, mais donc oui : gros raciste, puritain. C'est en gros la réponse
+que vous pourriez être tenté de faire si vous ne connaissez Kant qu'à travers
+mes deux dernières vidéos. Et même si ça reste vrai, faut bien le dire, c'est
+évidemment un poil réducteur. Un gros, gros poil même.
+
+Du coup, certains venaient, scandalisés, en commentaire : « Mais pourquoi est-ce
+qu'on étudiait encore ce gros con de Kant aujourd'hui ? » Et je finissais par
+m'en vouloir d'avoir mis dans la tête des gens une idée aussi caricaturale de
+Kant. Un peu comme Aristote, direz-vous bon ? À ceci près que presque tout ce
+que disait Rousseau était faux, Aristote pas. Donc voilà, j'avais envie de faire
+un petit épisode qui fasse un peu plus honneur à la philosophie morale de Kant,
+qui en fait ne se réduit pas à la condamnation de la masturbation, saumure de
+soi-même par la volupté est une motte les mots de la bouche assez dégueulasse.
+
+J'aurais commencé par souligner que le principal héritage philosophique de Kant
+aujourd'hui, ce n'est pas tant sa morale que son épistémologie, sa théorie de la
+connaissance, principalement exposée dans un bon gros pavé intitulé *Critique de
+la raison pure* — 700 pages, il a mis 10 ans, je pense. Et je ne vais pas
+essayer de résumer tout ça ici parce que c'est sérieusement compliqué. Oui, mais
+je voudrais attirer l'attention sur quelque chose qui aura son importance
+ensuite. L'un des points que Kant veut établir dans la *Critique de la raison
+pure*, c'est que Dieu n'est pas un objet de connaissance possible.
+
+## L'Épistémologie de Kant et son rapport à la Morale
+
+Alors ça ne veut pas dire que Dieu n'existe pas. Ça peut toujours être un objet
+de croyance ou de foi, mais pour Kant, il est impossible qu'il soit l'objet
+d'une connaissance. C'est inaccessible à la raison. Et au fond, c'est
+aujourd'hui le genre de truc plutôt bien accepté, même par ceux qui croient en
+Dieu. Et c'est peut-être bien un héritage de Kant. Ça paraît assez banal pour un
+croyant aujourd'hui de dire que c'est avant tout par un acte de foi qu'il croit
+en Dieu : c'est pas rationnel, ça se passe de preuve. Justement, c'est bien
+commode. Mais il faut bien voir qu'à l'époque de Kant, cette conception du
+rapport entre foi et raison allait plutôt à l'encontre de la tradition dominante
+en théologie et en philosophie, où on ne se gênait pas pour donner des preuves,
+des démonstrations sur l'existence de Dieu. En veux-tu, en voilà ! Je veux dire,
+si à 50 ans tu as pas prouvé si Dieu existe ou pas, tu as raté ta vie de
+philosophe, clairement.
+
+Mais pourquoi donc toutes ces preuves sont forcément erronées ? L'idée de Dieu
+est une illusion de la raison, un leurre de la raison. C'est joli, ça. Oui,
+j'avoue, quand il dit pas que des conneries. Ce serait très long d'expliquer
+comment Kant arrive à cette conclusion sur Dieu, et peu importe ici, chouine. Ce
+point est avant tout pour préciser le rapport de Kant à la morale chrétienne. On
+a vu dans cet épisode qu'il est, au fond, pétri d'intuition morale issue de la
+culture religieuse assez rigoriste dans laquelle il a été élevé. On peut par
+exemple facilement lier ça à son rejet de toute sexualité en dehors du mariage,
+tout ça, tout ça.
+
+Mais Kant ne fonde pas pour autant sa philosophie morale sur un Dieu qui nous
+donnerait tout bonnement des commandements à suivre et c'est réglé. Kant veut
+fonder la morale sur la raison. Il cherche un fondement purement rationnel à la
+morale, et dans la mesure où il a établi dans la *Critique de la raison pure*
+que Dieu est inaccessible à la raison, ce fondement rationnel, et bien, ça ne
+pourra pas être Dieu. Va falloir trouver autre chose.
+
+## Pourquoi une Morale Purement Rationale ?
+
+Mais avant, ça veut dire quoi, fonder la morale de façon purement rationnelle ?
+Eh bien, comparons ça à l'utilitarisme, qui lui n'est pas purement rationnel. En
+effet, les utilitaristes, au départ de leurs théories, doivent accepter que le
+bonheur est moralement souhaitable. Ayez, donc, moralement souhaitable de
+maximiser le bonheur général : ce sera l'objectif de la morale utilitariste. Une
+fois posé cet objectif, tout le reste suit de façon purement rationnelle, comme
+un moyen en vue de réaliser cet objectif. Mais il faut bien, au départ, le
+poser. Et ça ne pourra pas se faire de façon purement rationnelle : cela
+supposera toujours une sorte d'action morale injustifiée.
+
+Et cette remarque vaut de façon plus générale pour toutes les morales dites «
+conséquentialistes », qui reviennent, comme on l'a vu dans cet épisode, à
+assigner un objectif à la morale. On pourra toujours leur objecter : pourquoi
+viser cet objectif plutôt qu'un autre ? Pourquoi maximiser le bonheur général,
+par exemple ? Qu'est-ce qui le justifie rationnellement ? Ça restera toujours
+une question embarrassante aux yeux de Kant. Les prescriptions que formulent les
+utilitaristes ou les conséquentialistes en général, ce sont des impératifs
+hypothétiques. Ils disent ce qu'on doit faire pour atteindre un certain
+objectif. Par exemple, pour un utilitariste, maximiser le bonheur général.
+Enfin, c'est pas une prescription morale, une prescription technique : tu veux
+maximiser une mesure du bonheur, et l'impératif utilitariste dit quelle est la
+solution optimale pour ça. Donc, si c'est un objectif, alors tu dois faire X.
+Mais si tu avais un autre objectif Y, tu devrais faire autre chose.
+
+Ces impératifs hypothétiques expriment donc toujours le flanc à cette question
+de savoir : mais pourquoi cet objectif et pas n'importe quel autre ? De tel
+impératifs hypothétiques n'expriment pas un devoir absolu. Ça ne dit pas ce que
+tu dois faire *tout court*. Or, pourquoi ce serait justement une loi morale, une
+loi dont la forme serait : tu dois, tu le dois, c'est tout, pas en vue de
+quelque chose, tu le dois ? Ce qu'il appelle donc un impératif catégorique, et
+non hypothétique. Et cette loi, si l'on suit Kant, nous pourrions l'étayer de
+façon purement rationnelle. Quand je reconnais que Kant a bouté à la chevrotine
+de younsi, c'est comme ça.
+
+Vous savez peut-être qu'une grande distinction en philosophie morale est celle
+qui sépare le conséquentialisme du déontologisme. Les conséquentialistes sont en
+gros ceux qui considèrent que la valeur morale d'une action a avoir avec
+certains aspects de ses conséquences. Et évidemment, il y a plein de sortes de
+conséquences et de aspects dont on tient compte. Pour le déontologue, au
+contraire, et on va voir que Kant en est la figure du déontologisme par
+excellence, la valeur morale d'une action serait davantage liée au respect de
+principes, de règles, d'une loi morale, indépendamment de la question des
+conséquences.
+
+Pour justifier une morale déontologique, il semblerait donc qu'il faille
+justifier pourquoi il serait moral de suivre ses principes, cette loi morale. Et
+ici, je voudrais mettre en garde contre une confusion qui est assez fréquente.
+Si vous faites valoir que respecter un certain ensemble de règles aura des
+conséquences bénéfiques en vue d'un certain objectif qui vous semble moralement
+souhaitable, alors vous retombez en fait dans un argument conséquentialiste.
+C'est ce qu'on appelle aujourd'hui le conséquentialisme de la règle
+(utilitarisme de la règle), pour le distinguer du conséquentialisme
+(utilitarisme de l'acte).
+
+Si par exemple vous défendez que les médecins devraient toujours suivre la règle
+de ne pas mentir à leurs patients, en faisant valoir que si les médecins se
+permettaient parfois de mentir comme ça, pour le bien des patients, ça aurait
+pour conséquence que les patients ne feraient plus autant confiance aux
+médecins, ce qui aurait de très mauvaises conséquences sur la santé publique
+puisque les patients, en fin de compte, seraient moins bien pris en charge. Eh
+bien, ça c'est typiquement un raisonnement qui ne relève pas vraiment d'une
+morale déontologique, même si ça y ressemble. C'est plutôt du conséquentialisme
+de la règle, et c'est bien différent. On dit en somme que la règle est bonne à
+suivre dans la mesure où les conséquences de son application sont moralement
+souhaitables étant donné l'objectif conséquentialiste qu'on s'est fixés. Ce
+genre d'approche est souvent vue comme un moyen de concilier les bons côtés des
+deux types de morale, conséquentialiste et déontologiste. Mais il est important
+de bien distinguer ce conséquentialisme de la règle de la morale déontologique
+proprement dite.
+
+## L'Impératif Catégorique
+
+La morale de Kant n'est pas un conséquentialisme de la règle. C'est bien une
+morale purement déontologique. Mieux que cela, ce serait *la* morale
+déontologique, la seule possible, la pure morale du devoir. Ça fait tellement
+envie ! L'idée fondatrice d'une telle morale donc, c'est que bien agir, c'est
+agir non pas motivé par l'avis intéressé de telles conséquences, mais seulement
+par devoir, c'est-à-dire par pur respect de la loi morale.
+
+Mais d'où sort donc cette fameuse loi morale ? Quel est son contenu ? Quels sont
+ses ressorts ? Et qu'est-ce qui justifie rationnellement de la respecter ? Eh
+bien, le tour de force de la pensée de Kant est d'arriver à répondre à toutes
+ces questions à partir seulement d'une analyse conceptuelle de ce que signifie
+agir par devoir. En somme, c'est comme si l'analyse purement formelle de ce
+concept suffisait à justifier la loi morale.
+
+Ok, j'ai du mal à voir ce que ça veut dire, mais j'imagine que tu vas nous
+éclairer. Je vais faire de mon mieux, et je ne cache pas que Kant n'est pas le
+plus clair des auteurs. Je ne garantis donc pas que ma lecture soit correcte,
+mais ne partons pas dans une guerre d'interprétation. Voilà ce que je comprends
+de la démarche de Kant : vous en ferez ce que vous voudrez. La loi morale que
+cherche Kant, on l'a vu, elle doit avoir la forme non pas d'un impératif
+hypothétique, mais catégorique, c'est-à-dire un « tu dois » absolu. Ce serait
+donc un principe que tout le monde, ou plus exactement tout être raisonnable,
+pour utiliser le vocabulaire de Kant, en toutes circonstances, aurait
+l'obligation morale de suivre. Et donc, agir par devoir seulement, c'est-à-dire
+par respect envers cette loi morale, cela reviendrait à dire que l'on agit par
+respect envers un principe dont on reconnaît que tout être raisonnable devrait
+le respecter aussi.
+
+Ouais, jusque-là ça va. Ainsi dire que j'agis par devoir cela implique que je
+veuille que tout être raisonnable respecte la même loi que je suis moi en
+agissant ainsi. Autrement dit, je voudrais que tout être raisonnable se conforme
+à la même règle de conduite à laquelle je me conforme. Et en renversant le truc,
+on arrive à cette idée que j'ai agi d'une façon contraire aux devoirs quand je
+ne peux pas vouloir que ma propre règle de conduite soit une règle de conduite
+que tous les êtres raisonnables suivront aussi.
+
+En bas, c'est la règle d'or, hong-roland : ne fais pas à autrui ce que tu ne
+voudrais pas qu'on fasse. Alors on peut dire qu'il y a un lien en effet, même si
+c'est plus large et plus complexe qu'un simple principe de réciprocité. Mais il
+y a surtout une différence dans la façon dont le principe de Kant est justifié.
+Ce n'est pas juste une idée morale qu'on pose là comme ça et qu'on accepte parce
+que c'est plutôt sympathique, cette idée d'être gentil avec mon prochain pour
+que mon prochain soit gentil avec moi en retour. Kant est bien plus solide que
+ça. Il montre, en tout cas il essaie de montrer, que ce principe de pouvoir
+vouloir universaliser ma propre règle de conduite est une nécessité
+conceptuelle, contenue dans la notion même de devoir moral, et que ce principe
+est donc fondé rationnellement, un peu de la même façon qu'un principe logique.
+Ce serait une sorte de tautologie pratique, si j'ose m'exprimer ainsi, avec deux
+autos. Logis. La formule exacte de Kant est : « Agis uniquement d'après la
+maxime qui fait que tu peux vouloir en même temps qu'elle devienne une loi
+universelle. » Ceci exprime, selon Kant, l'impératif catégorique, la source de
+toute moralité. La loi morale serait toute entière exprimée dans ce principe.
+
+Et on arrive à ce principe par rien d'autre qu'une analyse conceptuelle purement
+formelle et a priori de la notion de devoir, de ce que signifie agir par devoir.
+Ouais bon, pourquoi pas. Un bon, on va pas aller bien loin avec ça. Ça reste
+super formel et abstrait. Mais est-ce que c'est pas juste une façon super
+compliquée de faire le reproche : « Si tout le monde faisait comme toi, on y
+arriverait » ? Il y a un peu de ça certes. On résume souvent Kant un peu
+grossièrement en disant qu'il faut faire passer à nos actions un test
+d'universalisation : il faudrait que je me demande ce qui se passerait si tout
+le monde faisait la même action que moi. Et donc, gérer de façon immorale quand
+je ne veux pas que tout le monde fasse comme moi. Par exemple, si je vais
+pique-niquer dans la nature et que je laisse traîner mes détritus derrière moi,
+tu me dira à juste titre : « Et si tout le monde faisait comme toi, espèce de
+connard ? »
+
+## Universalisation et Contradiction
+
+Mais l'idée derrière ce reproche n'est pas si ancienne que ça. Kant, en fin de
+compte, je pense qu'on a surtout dans l'idée de se représenter les conséquences
+négatives qu'il y aurait à ce que tout le monde fasse comme moi. Et ce
+raisonnement, à nouveau, nous pousse plutôt du côté du conséquentialisme de la
+règle dont on a déjà parlé. Le test d'universalisation, dans sa version
+intuitive disons, porterait plutôt sur les conséquences de cette
+universalisation et déterminer si ces conséquences sont moralement souhaitables.
+Nous ranx des ré à ce problème général du conséquentialiste de justifier
+rationnellement l'objectif qu'on prend pour moralement souhaitable.
+
+Et ce n'est donc pas ça le véritable raisonnement de Kant. Ce n'est pas un
+raisonnement sur les conséquences de l'universalisation de la maxime de
+l'action. Ça reste une approximation assez juste de dire que, pour Kant, j'agis
+de façon immorale quand je ne peux pas vouloir que tout le monde agisse en
+suivant la même règle de conduite que moi. Mais l'idée derrière cette
+impossibilité de vouloir est particulièrement forte. L'idée c'est qu'il y aurait
+une contradiction, une impossibilité conceptuelle dans l'universalisation de la
+règle de conduite. C'est en ce sens qu'on ne pourrait pas là vouloir cette
+universalisation, parce que ce serait tout bonnement inintelligible, incohérent,
+contradictoire.
+
+Mais c'est vraiment stupide ! Si je peux faire une action moi, y'a aucune raison
+que je puisse pas imaginer que tout le monde en fasse autant. Eh bien, Kant, en
+fait, considère par exemple le vol. Le vol est une action qui suppose un régime
+de propriété. En effet, d'une part, parce qu'il n'y a de vol que s'il y a
+quelque chose qui soit la propriété d'autrui pour qu'on puisse le voler, et
+ensuite parce que le voleur souhaite conserver la propriété de ce qu'il a volé,
+c'est une appropriation. Or, si le vol était une règle de conduite universelle,
+et bien, le concept même de propriété n'aurait plus de sens. Et donc, le concept
+même de vol non plus. L'universalisation de la maxime aboutit ainsi à une
+contradiction.
+
+Autre exemple, avec tout ce qui relève de l'abus de confiance : comme faire une
+fausse promesse, mentir, tricher. L'abus de confiance, de façon évidente,
+suppose un régime de confiance. On ne peut en abuser que dans la mesure où on
+tend en règle générale à accorder cette confiance. Or, si un certain type d'abus
+de confiance était une règle de conduite que tout le monde suit, alors il n'y
+aurait plus, sur ce point, de confiance que l'on accorderait à qui que ce soit.
+Et donc l'abus de confiance, une m2, deviendrait impossible. Ça n'aurait juste
+pas de sens.
+
+Dans les deux cas, on voit que le vol ou l'abus de confiance est une action qui
+n'a de sens que dans la mesure où elle fait exception. On ne peut faire ces
+actions qui enfreignent le régime de propriété et de confiance qu'en voulant en
+même temps que ces régimes de propriété et de confiance soient maintenus, de
+sorte qu'on en profite pour soi au détriment des autres. Autrement dit encore,
+ce sont des actions qui ne sont possibles, et même qui n'ont de sens, qu'en tant
+qu'elles enfreignent une règle qui par ailleurs continue de s'imposer
+généralement. Et c'est en ça que c'est immoral d'un point de vue déontologique.
+Et vous voyez que c'est un raisonnement qui ne porte pas sur les conséquences de
+l'action. À nouveau, c'est un raisonnement purement conceptuel. On est bien dans
+le déontologisme de la plus pure espèce.
+
+Ouais, j'avoue que ça a l'air de se tenir sur ces exemples. Mais du coup, j'ai
+quand même du mal à comprendre pourquoi on aurait une condamnation de la
+masturbation, la saoudure de soi-même par la volupté, au rang des pires
+manquements à la moralité. Mais pourquoi en fait ? Kant, c'est pas
+universalisable comme action ? Oui, bah écoute, ça dépend aussi si tu fais
+vraiment que ça. Mais souvent, le problème, c'est de savoir quelles règles de
+conduite exactement il s'agit d'universaliser. Et c'est une limite de cette
+approche kantienne à laquelle on se heurte assez vite. Sorti des quelques
+exemples très généraux comme ceux qui viennent de prêter sur le vol et le
+mensonge, c'est compliqué de dériver des prescriptions vraiment précises de
+l'impératif catégorique de Kant.
+
+Notamment, donne, parce que cette notion de « règles de conduite » dont je parle
+depuis tout à l'heure, qui correspond en fait à la notion de « maxime de
+l'action » chez Kant, mais c'est pas très clair, je préfère dire « règles de
+conduite », c'est une notion centrale puisque c'est ça qu'on doit pouvoir
+vouloir universaliser pour que l'action soit morale. Mais c'est aussi
+extrêmement flou et difficile à déterminer dans un cas concret. La maxime de
+l'action de celui qui abuse de la confiance d'un SS en lui mentant pour protéger
+les juifs qui l'achetent chez lui, est-elle universalisable ? Bah oui, j'espère
+bien ! Sauf que selon Kant, non, nous avons le devoir de ne pas abuser de la
+confiance d'autrui, fût-ce celle d'un nazi.
+
+C'est à l'autre juste. Au moment où je commençais à trouver Kant sympathique !
+Eh bien oui, qu'est-ce que tu veux, une personne n'est pas parfaite. J'ai
+l'impression qu'avec Kant, tant qu'on reste dans les hauteurs de la pensée, dans
+les idées générales et abstraites, ça va. Mais dès qu'on descend vers un cas
+particulier, ça devient horrible. Ouais, c'est vrai qu'il y a un peu de ça.
+
+## Conclusion : Une Construction Audacieuse
+
+Mais bon, j'espère avoir quand même montré qu'il y a des choses intéressantes
+dans la philosophie morale de Kant. Dans son rejet d'une morale fondée sur Dieu
+pour au contraire la fondée sur la raison seulement. Et puis la façon dont il
+dégage la formulation de l'impératif catégorique à partir d'une analyse purement
+formelle de ce que signifie agir par devoir. Et puis la façon dont il s'est fait
+ressentir en divers prescriptions morales en constatant l'incohérence de
+l'universalisation de la maxime d'une action.
+
+Qu'on soit d'accord ou non, ça reste une construction théorique vraiment
+impressionnante, remarquable, audacieuse au moins dans sa façon de construire
+une morale de façon purement rationnelle et a priori. Donc, non, ce n'est pas
+pour rien que Kant est considéré encore aujourd'hui comme une référence majeure
+en philosophie morale. Comme dans beaucoup de théories audacieuses, on peut y
+trouver beaucoup de points à critiquer. Il est facile de s'en moquer, mais tout
+de même, ça se pose là.
+
+Et après deux épisodes de Kant bashing, ça méritait d'être dit. Par contre,
+Aristote, on est d'accord, ça reste un gros con. Ouais, bah il faudrait que j'en
+fasse un épisode un jour, ça aussi. Merci d'avoir regardé cet épisode. J'espère
+que vous appréciez un peu plus ce bon vieux Kant. Maintenant, si ça vous a plu,
+n'hésitez pas à le manifester, ça fait toujours plaisir. Et vous pouvez soutenir
+la chaîne sur Tipeee ou YouTube, qui constitue sa principale source de
+financement. Sans tous les typeurs dont vous voyez là défiler les glorieux noms,
+toutes ces vidéos n'existeraient pas. Je n'aurais pas pu continuer si longtemps
+à les produire. Et je leur adresse donc un grand, un très, très grand merci.
+
+On se retrouve très vite pour une nouvelle vidéo que j'ai particulièrement hâte
+de vous montrer et un petit peu peur aussi. Vous verrez pourquoi, le sujet est
+assez sensible. En attendant, portez-vous bien et soyez sympas avec les
+consciences : ne faites pas aux consciences ce que vous ne voudriez pas qu'aux
+consciences vous fassiez.

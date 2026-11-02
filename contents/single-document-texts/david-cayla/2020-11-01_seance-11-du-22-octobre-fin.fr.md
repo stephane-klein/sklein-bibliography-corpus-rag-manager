@@ -1,0 +1,656 @@
+---
+source_url: https://www.youtube.com/watch?v=Ca9DmkJBPVo
+video_title: Séance 11 du 22 octobre (fin)
+generated_at: 2026-09-20T17:49:17.156Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 82.2
+  input_tokens: 12152
+  cached_input_tokens: 11904
+  output_tokens: 23623
+  estimated_cost_usd: 0.014247
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Séance 11 du 22 octobre (fin)
+
+## Organisation du cours et rediffusions
+
+Donc on va le voir. En fait, moi j’ai vu que ça ne marchait pas parce qu’il n’y
+avait personne qui se connectait. On va voir si bien, le temps qu’on s’assoit.
+On a refait, ah voilà, donc on a des auditeurs cette fois-ci, ça va marcher.
+C’est sympa parce que je me dis : moi, si j’avais attendu une heure, j’aurais
+fait autre chose. Alors je le dis pour les auditeurs qui viennent ici, qui se
+connectent : on va changer de chapitre. Donc en plus, ce n’est pas grave si vous
+n’avez pas pu voir la fin du chapitre 3, parce qu’on vient de terminer le
+chapitre 3. Le cours sera enregistré et il sera à nouveau disponible, donc vous
+pouvez le voir, et il est tout à fait possible de regarder le chapitre 4 avant
+de regarder le chapitre 3.
+
+Ça fait plaisir, hein, de voir des gens qui se connectent, moi ça me fait
+plaisir. Donc voilà, c’est les vacances, tout le monde est fatigué, et
+l’ordinateur aussi, manifestement. Vous, ça va. Bon, alors vous allez tout
+réviser, hein. Alors je l’ai dit hier, je remettrai toutes les vidéos depuis le
+début disponibles sur l’espace Moodle. Normalement je ne suis pas censé faire
+ça, mais je le fais parce qu’il y a beaucoup d’étudiants qui sont arrivés en
+retard pour plein de raisons, souvent tout à fait légitimes, et donc ils sont
+inscrits, etc. Donc ces étudiants, vu que les cours ont été enregistrés, bah ils
+vont pouvoir regarder les cours. C’est la raison pour laquelle je laisse, je
+vais remettre à disposition les cours enregistrés.
+
+Je vous avais dit aussi hier que j’avais cherché, que je voulais chercher, je ne
+sais pas si je l’ai dit, si j’ai dit que je voulais chercher à enregistrer les
+TD que je faisais de 2 h, parce que malheureusement, comme vous avez compris, on
+va passer sur les TD d’une heure pour diviser par deux les classes de TD, ce qui
+va être problématique, hein, parce qu’il y a beaucoup de choses à dire souvent
+dans les TD, donc on va devoir réduire. Moi je pensais réussir à garder quelques
+TD de 2 h, dans lesquels du coup je remettrais à disposition sur Moodle. J’ai
+enregistré tout à l’heure un TD de 2 h pour voir, pour essayer, et ce n’est pas
+bon du tout. D’abord on n’arrive pas à lire ce qu’il y a sur le tableau, ensuite
+ça marche forcément moins bien. En plus, oui, c’est ça, on n’entend pas bien,
+très mal, malgré le fait que j’ai mis un micro spécial. Donc j’abandonne l’idée,
+je ne mettrai pas de TD de 2 h. De toute façon, je pense que vous allez avoir
+que d’une heure, mais les profs vont faire en sorte d’adapter le contenu à cette
+heure-là. Ce n’est pas très grave, hein. Le TD, ce qui compte surtout, c’est que
+vous fassiez vos TD. C’est le travail que vous faites chez vous en termes de
+préparation qui est le moment où vous apprenez le plus. Les corrections faites
+par le chargé de TD, bien sûr qu’il y a des choses en plus, mais le vrai contenu
+du cours, il est quand même ce qu’on voit en cours. Donc c’est surtout ce que
+vous faites chez vous, ce que vous travaillez quand vous faites les TD.
+
+Là je vais vérifier que tout ça fonctionne bien. Encore voilà, il n’y a pas de
+vidéo, mais il y a de l’audio, et ils sont 12, c’est magnifique. Il en restait
+60. Ça, c’est compréhensible, je pense que beaucoup se sont dit : ça ne marche
+pas, il faut que j’arrête. Donc ça marchera. Je le dis pour ceux qui viennent
+d’arriver : ça va remarcher. Vous aurez la fin du chapitre 3 dans une vidéo qui
+sera mise sur Moodle très rapidement, en tout cas pendant les vacances, avant
+les vacances.
+
+## Questions sur le chapitre 3
+
+Alors, question sur le chapitre 3. Ben comme d’habitude : les définitions,
+différentes formes de richesse selon méthode de production, différents usages de
+la richesse. Voilà, tout ça, c’est des questions souvent de définition. Oui,
+comment elles sont sur diaporama ? Ah, ce n’est pas sur le diaporama de l’espace
+Moodle. Je le mettrai sur le diaporama Moodle, voilà, rassurez-vous. Je mettrai
+tout. J’ai dû oublier de… j’ai dû supprimer ça, mais ce n’est pas grave.
+
+Voyez par exemple une chose qui n’est pas dans le diaporama mais qui est
+question : pourquoi, en pourcentage du PIB, la dépense publique est-elle plus
+importante que la richesse publique ? Euh oui, la dépense publique est plus
+importante que la richesse publique. Qu’est-ce qu’on a aussi ? Donc ce n’est pas
+la même chose, hein. C’est ça, voilà, c’est ça en 2017. Alors là je prendrai
+peut-être en 2018, il faut que je change ça. Les dépenses publiques
+représentaient ça. Pourquoi l’écart entre les dépenses publiques et les recettes
+publiques ? Qu’est-ce que ça exprime ? Qu’est-ce qui caractérise l’économie
+américaine ? Qu’est-ce qui caractérise l’économie chinoise ? Qu’est-ce qui
+caractérise l’économie française ? Donner des indicateurs clés. Voilà, donc ça
+demande quand même d’apprendre un peu aussi ces chiffres-là.
+
+Indicateurs clés, c’est par exemple le montant du PIB par habitant, la part de
+la richesse, enfin de la richesse publique, par exemple les 24,3 %. Enfin après,
+vous n’êtes pas obligé de me le dire très précisément. Si vous me dites par
+exemple : la part de la richesse publique, c’est un peu moins d’un quart du PIB,
+ça me va tout à fait. Ce que je veux, c’est que vous ayez les grands ordres de
+grandeur. Que la part des dépenses publiques, c’est un peu plus de la moitié du
+PIB, ça représente un peu plus de la moitié du PIB, ça me va aussi. D’accord.
+Donc je veux globalement que vous connaissiez un peu les chiffres de l’économie
+française, que vous soyez capable… ça fait partie de la culture générale d’un
+économiste de savoir se repérer dans les ordres de grandeur. Si vous dites : le
+PIB français, c’est un peu plus de 2 000 milliards d’euros, ça me va aussi.
+C’est 2 300, c’est peut-être plus de 2 000 milliards, ça va. Mais si vous dites
+: le PIB français, c’est 20 000 milliards d’euros, c’est faux. Il faut juste
+avoir une idée des ordres de grandeur. Comme c’est des milliards d’euros, c’est
+un peu abstrait, c’est important que vous maîtrisiez un peu tout ça.
+
+Les principes [du produit], indicateur de richesse, on a vu, c’est une question
+basique. Les comparaisons internationales entre des pays, souvenez-vous, c’est
+la question du taux de change. Ça aussi on en a parlé, c’est important. Voilà.
+
+## Chapitre 4 : la consommation des ménages
+
+Alors, chapitre 4 : la consommation des ménages. Pourquoi on étudie la
+consommation des ménages ? Bien parce que c’est important, c’est important pour
+le PIB, parce qu’on a vu pour le cas de la France que la consommation des
+ménages, c’est la moitié du PIB, donc c’est plus de la moitié de la croissance,
+hein, puisque la croissance c’est la croissance du PIB. Si les dépenses de
+consommation des ménages, c’est 51,3 %, je ne sais plus, plus de 50 %, ça veut
+dire que c’est important dans la croissance. C’est encore plus important aux
+États-Unis, où c’est 68 %. Donc c’est important de comprendre la manière dont
+les ménages consomment, parce que ça va avoir un impact très clair sur la
+croissance et sur l’activité économique, et donc sur l’emploi et sur le niveau
+de [activité].
+
+## La demande globale
+
+Alors ben reprenons ici une réflexion : qu’est-ce que la demande globale ? La
+demande globale, on peut la reprendre à partir de l’équation du PIB. Alors
+souvenez-vous, l’équation, on l’a faite tout à l’heure, je vous ai fait réécrire
+: Y + M = CF + I + G + Delta S, mais Delta S on peut le supprimer, plus X. Et
+donc ça veut dire qu’on peut réécrire cette équation : Y toujours, que Y = CF +
+I + G + X − M. Mais en fait tout ça, ce qu’on appelle Y, c’est la production
+globale, c’est l’offre globale, c’est égal aussi à l’offre globale. Ça veut dire
+que globalement ce qu’on est capable d’acheter collectivement, c’est
+concrètement ce qu’on est capable de produire, c’est ça que ça veut dire. Et la
+demande globale, elle représente l’ensemble de la demande adressée aux
+entreprises, enfin aux producteurs en général. C’est les entreprises, mais ça
+peut être aussi des administrations. Et donc elle détermine l’emploi.
+
+Pour essayer de comprendre ce que ça signifie, il faut penser qu’un producteur
+ne va produire que si en face il trouve un débouché. Ce débouché, il peut être
+de différentes façons, il peut être lié à différentes composantes. Le débouché
+d’une grande partie des entreprises et des producteurs, c’est les ménages, et on
+va le retrouver ici dans l’équation : consommation finale, les dépenses de
+consommation finale des ménages. Mais une partie des débouchés des entreprises,
+c’est aussi l’investissement, puisqu’il y a bien des entreprises qui produisent
+des biens d’investissement. Quand l’État refait des routes, c’est une dépense
+d’investissement public, mais qui refait les routes, c’est une entreprise
+privée. Et donc ici on a bien une composante de la demande adressée aux
+entreprises. La demande de service public détermine aussi le niveau de
+production de services publics. Et même si c’est fait par l’État, il faudra bien
+recruter des gens pour les faire.
+
+Et puis il y a aussi une autre demande qui n’est pas une demande intérieure mais
+qui appartient à la demande globale, c’est le solde commercial, ce que
+globalement on demande à l’étranger. Alors je dis solde commercial parce que
+évidemment on peut dire que les exportations sont de la demande, mais d’un autre
+côté les importations réduisent le total de la demande à laquelle les
+producteurs français peuvent répondre. Donc c’est pour ça qu’on regarde le
+solde.
+
+Alors là aussi je reprends des choses qu’on a déjà vues. G, c’est la production
+de service public, elle représente aussi de la consommation finale, mais c’est
+la consommation finale des administrations publiques. Alors pourquoi on dit
+consommation finale des administrations publiques ? Parce que même si c’est à la
+destination des ménages, elle est financée par les administrations publiques.
+D’accord. Donc du coup on l’appelle dans la comptabilité de l’INSEE : on va
+estimer que les services publics qui sont à destination des ménages, comme ils
+sont payés par les administrations publiques, se retrouvent dans le compte des
+administrations publiques sous forme de consommation finale. Alors notez bien
+ça, parce que vous allez voir dans… vous pouvez déjà regarder dans le fascicule
+de TD, le TD5, vous avez le compte des administrations publiques dans lequel
+vous pouvez vérifier qu’il y a une consommation finale des administrations
+publiques. Mais ce n’est pas ici la consommation finale au sens de ce qu’elle
+reçoit, ce qu’elle consomme, c’est plutôt ce qu’elle produit et qu’elle
+distribue. Mais c’est dans le compte des publiques parce que c’est elle qui
+paye, puisque c’est quasiment gratuit pour les ménages. Les frais d’inscription,
+certes je ne dis pas que ce n’est rien, mais c’est quasiment gratuit par rapport
+au coût total des études.
+
+Bon, administration publique, je ne vais pas redire ce que c’est, on les a déjà
+définies. Voilà, on appelle ça aussi les services publics. OK. Donc là aussi
+j’emploie parfois des termes différents pour parler de la même chose, mais il ne
+faut pas que ça vous trouble. Il faut que vous ayez l’habitude d’employer des
+termes comme I, investissement, ou formation de capital fixe : c’est pareil,
+c’est la même chose. Service public et consommation finale des administrations
+publiques, c’est la même chose. OK.
+
+Évidemment, les hommes politiques, responsables politiques, quand ils vous
+parlent, ils vous parlent plus de service public que de consommation finale des
+administrations publiques. On est d’accord que les gens comprennent mieux le
+terme service public que consommation finale des administrations publiques. Mais
+si on dit ça comme ça, c’est parce que ça a un sens. Chaque mot a du sens. Qui
+produit les services ? Ce n’est pas l’État, c’est l’ensemble des administrations
+publiques, notamment les collectivités territoriales, etc. Qu’est-ce que c’est
+fondamentalement ? Bah c’est la consommation finale au même titre qu’acheter une
+voiture, c’est la consommation finale, ou aller manger au restaurant. La
+différence, c’est que ce ne sont pas les mêmes personnes qui payent. Donc c’est
+la raison pour laquelle on utilise ces termes, ce n’est pas juste pour embêter
+les gens. C’est parce qu’il faut comprendre ce qu’il y a derrière. En fait, le
+mot service public, il y a des réalités très concrètes, qui est un financement
+d’un bien de consommation par l’État, en fait d’un service, un bien de
+consommation par l’État.
+
+La demande globale détermine la production de richesse. Donc ça, c’est plus ou
+moins ce que j’ai dit, c’est-à-dire on va produire des richesses, les
+producteurs vont produire pour répondre à une demande, et donc ça va déterminer
+le niveau d’emploi. C’est là que ça va devenir intéressant : on va vite
+comprendre que pour résoudre le problème du chômage, bah il faut créer des
+emplois. Pour créer des emplois, il faut produire. Et pour produire, il faut
+qu’on ait en face une demande globale. C’est la raison pour laquelle l’offre
+globale est égale à la demande globale, et l’offre globale c’est le grand Y,
+c’est la production de richesse. Et donc c’est pour ça que DG = Y = OG, etc.
+Alors là aussi vous retrouverez dans le TD, je ne sais plus combien, on fait des
+exercices par rapport à ça.
+
+Alors, qui produit la demande globale ? Et bien tous les secteurs
+institutionnels qu’on a vus. Les ménages, ils vont produire la… ils vont générer
+la demande en termes de dépenses de consommation premièrement, donc CF. Mais ils
+vont aussi générer la demande globale à partir de leurs dépenses
+d’investissement. L’investissement des ménages, c’est la construction
+immobilière. Alors je dis construction parce que si un ménage achète un
+appartement à un autre ménage, il n’y a pas de production de richesse derrière,
+il y a juste un transfert de richesse. Donc quand vous achetez un immeuble, vous
+ne changez rien au stock d’immeubles dans l’économie. C’est lorsque vous faites
+construire une nouvelle maison, un nouvel immeuble, que là vous vous
+investissez. Donc du point de vue macroéconomique, l’investissement des ménages,
+c’est toujours la construction de nouveaux logements ou éventuellement
+l’amélioration, l’agrandissement d’un logement. Ça on va dire que c’est de
+l’investissement des ménages. Et lorsque vous achetez un immeuble, un logement
+déjà construit, il n’y a pas de surcroît de production par définition, il y a un
+transfert de propriété d’un logement. Donc I, ce n’est pas l’achat de logement
+des ménages, c’est la construction de nouveaux logements financés par les
+ménages ou l’agrandissement de nouveaux logements financés par les ménages.
+
+L’investissement des entreprises, c’est les bâtiments, pareil, la construction
+de nouveaux bâtiments évidemment. C’est aussi les machines, l’achat de machines,
+et dans les machines on a par exemple l’achat de voiture. Quand une entreprise
+achète une voiture, ce n’est pas considéré comme de la consommation mais comme
+de l’investissement, parce que c’est un bien productif qui va durer dans le
+temps. Ça aussi je vous l’ai déjà dit. Je donne l’exemple que si jamais vous
+voulez faire un produit, vous voulez filmer Fast and Furious 50, et bien vos
+voitures, ça sera des biens de consommation intermédiaires, elles vont assez
+vite être consommées dans le processus de production du film. Mais si vous êtes
+une entreprise de taxis, c’est des biens d’investissement. Donc là aussi
+l’investissement ou la consommation intermédiaire, ça dépend de la durée de vie
+des produits. Vous achetez [un] élément qui détermine la demande globale.
+
+Les administrations publiques, G, c’est-à-dire la dépense de… les dépenses de
+services publics en termes de production de service public, et G, et la dépense
+d’investissement des administrations publiques. Alors on trouve du coup la
+relation suivante : demande globale égale offre globale égale PIB grand Y. Et
+tout cela détermine donc la demande de travail de l’ensemble de l’économie,
+c’est-à-dire des administrations et des entreprises.
+
+## Le plan de relance
+
+Tiens, du coup je vais répondre à une question qu’un étudiant m’a posée à la
+pause et à laquelle je n’ai pas pu répondre. Cet étudiant m’a demandé : est-ce
+que ce plan de relance tel qu’il est annoncé par le gouvernement de 100
+milliards, 50 milliards en 2 ans… Hier je disais qu’il était caduc parce
+qu’effectivement, vu la reprise de la seconde [vague], tout ça est caduc, tout
+ça va être remis en cause bientôt. Cependant on peut quand même l’étudier,
+étudier sa philosophie. Et l’étudiant me posait la question : est-ce que c’est
+une politique de l’offre ou de la demande ? Et c’est vrai, quand vous écoutez ce
+que disent les spécialistes des plans de relance, ils disent souvent qu’on peut
+relancer par l’offre ou relancer par la demande. Sous-entendu, on peut.
+
+Alors qu’est-ce que ça veut dire relancer par l’offre ? Dans la manière dont les
+journalistes en parlent, ils disent en fait que ça veut dire aider les
+entreprises à produire. Et donc ils disent par exemple que le fait que sur ces
+50 milliards par an il y ait 15 milliards de baisse d’impôts sur les sociétés,
+ça veut dire qu’on va donner de l’argent aux entreprises. Et donner de l’argent
+aux entreprises, bah c’est relancer l’offre. Et puis il y en a d’autres qui
+disent : non, si on veut relancer l’activité économique, il faut relancer la
+demande, c’est-à-dire il faut que les ménages consomment davantage, il faut
+donner des allocations aux ménages.
+
+Alors moi j’ai tendance à dire que je suis un peu sceptique pour les deux, sur
+les deux manières d’analyser les choses. D’abord parce que certes, si on donne
+de l’argent aux ménages, on voit bien ici que ça a un effet sur la demande et
+donc sur l’offre. La consommation finale des ménages, c’est bien la majorité de
+la demande globale, c’est 51,8 % du PIB, donc c’est la majorité. De la même
+façon, je peux dire que si on agit que sur l’offre, on ne créera sans doute pas
+d’emploi. Pourquoi ? Parce qu’on baisse les impôts des entreprises, mais est-ce
+que les entreprises vont plus produire parce qu’on a baissé les impôts ?
+Franchement, il n’y a aucune raison qu’elles produisent davantage si en face il
+n’y a pas des gens qui achètent leur produit. Et donc l’idée qu’on va relancer
+l’emploi par une politique de l’offre, ça me paraît tout à fait faux.
+
+Néanmoins, donner des allocations aux gens en espérant qu’ils augmentent la
+consommation finale, c’est aussi risqué. Si vous donnez de l’argent aux ménages
+mais qu’ils sont en situation de stress tel qu’ils n’ont pas envie de dépenser
+davantage, vous n’aurez pas non plus davantage de revenus, enfin de recettes, et
+donc de production de la part des entreprises. Vous n’avez pas davantage de
+demande, donc les entreprises ne vont pas davantage produire. Donc j’ai envie de
+dire que si on veut vraiment aider l’emploi, plutôt que donner de l’argent aux
+gens, il vaut mieux acheter directement aux entreprises.
+
+Si l’État voulait vraiment faire un plan de relance, je pense que… alors en fait
+il ne prévoit pas tellement justement de [donner aux] gens, donc il y a vraiment
+un manque ici. C’est d’augmenter les salaires des fonctionnaires, d’augmenter le
+RSA, d’augmenter les allocations chômage, d’augmenter éventuellement les
+retraites. Tout ça, il n’y en a pas beaucoup. Mais par contre, ce que je trouve
+qui manque le plus, c’est par exemple qu’il finance les rénovations des
+bâtiments, par exemple la rénovation de bâtiments publics. Bâtiments publics, ça
+lui appartient. Il y en a certains qui sont très énergivores. Si l’État décide
+de consacrer 10 milliards d’euros par an ou 15 milliards ou 20 milliards, il y a
+un montant important qu’on peut consacrer à rénover les bâtiments. S’il dit :
+voilà, je mets 15 milliards par an pour rénover les bâtiments publics et faire
+en sorte qu’ils soient un peu mieux, d’abord que les systèmes de ventilation
+marchent un peu mieux, parce qu’on voit que ça peut être utile en cas de covid,
+ensuite, une fois qu’on a refait le système de ventilation, on peut peut-être
+isoler davantage pour éviter les passoires thermiques. Tout ça fera un gain d’un
+côté parce qu’on aura moins de facture énergétique, et en plus ça donnera
+directement de l’emploi aux entreprises qui rénovent les bâtiments. Et ça, pour
+moi, c’est un vrai plan de relance. C’est que le [vrai] de relance, c’est
+l’argent de l’État qui va financer une richesse réelle.
+
+Si on donne de l’argent aux ménages mais que ces ménages, parce qu’ils sont
+stressés, ne dépensent pas cet argent, ça ne va pas se traduire par une offre
+des entreprises, et donc ça ne va pas se traduire par une [hausse] de l’emploi.
+Et si on offre des baisses d’impôts aux entreprises, j’ai envie de dire encore
+pire, parce que là pour le coup il y aura peut-être aucune demande
+supplémentaire adressée aux entreprises. Et qu’est-ce qu’elles vont faire avec
+cet argent ? Soit elles vont le distribuer à leurs actionnaires, soit elles vont
+le mettre en réserve, mais il n’y a pas beaucoup de raisons… soit elles peuvent
+faire un investissement productivité, elles vont licencier des gens avec
+l’argent qu’on leur a donné pour avoir des machines plus efficaces. Hein, se
+rénover, très bien pour les entreprises, mais pas bien pour l’emploi. Donc
+l’idée selon laquelle on va favoriser l’offre en baissant les impôts, ça me
+paraît être une idée qui en fait ne fonctionne pas. D’ailleurs c’est un peu la
+critique que la plupart des économistes adressent au plan de relance : c’est
+qu’il y a très peu de chance pour qu’il crée des emplois. Mais comme je vous
+l’ai dit, ce plan est déjà caduc. On aura un nouveau plan de relance au
+printemps, vous verrez, ou après la 3e ou 4e vague, je ne sais pas, je ne sais
+pas combien de temps ça a duré cette histoire. Il faut mieux en rire qu’en
+pleurer, hein. Mais ce qui est sûr, c’est que l’économie française de 2021,
+personne ne sait comment elle sera. Donc ça, c’est… ils font des plans de
+relance, ils font des prévisions économiques, mais tout ça s’effondre, voilà, en
+quelques semaines à cause d’un petit virus.
+
+## Importance de la consommation des ménages
+
+Alors non, je termine avant de passer à la section 2. Les ménages, c’est la
+consommation des ménages, c’est donc quelque chose d’important qu’il faut
+étudier. C’est donc quelque chose de primordial qu’il faut comprendre pour
+comprendre quel va être l’emploi, la demande globale et donc l’offre globale des
+entreprises et des administrations publiques. Et ça, c’est important parce que
+justement le comportement des ménages n’est pas constant.
+
+Tout à l’heure je vous disais : si on donne de l’argent aux ménages mais que les
+ménages ne consomment pas parce qu’ils sont trop stressés, qu’ils ont trop peur
+de perdre leur boulot, cet argent, c’est comme verser de l’eau dans le sable, il
+va disparaître immédiatement. Qu’est-ce qui fait qu’un ménage consomme ?
+Qu’est-ce qui fait que, et quand il consomme, qu’est-ce qu’il consomme ? Et s’il
+va consommer des produits importés, là aussi ça n’aidera pas beaucoup l’économie
+française. Est-ce qu’il va consommer des produits faits sur place ? Enfin, il y
+a tout un ensemble de questions qui sont absolument nécessaires à comprendre,
+auxquelles il faut répondre pour être capable de savoir si le comportement des
+ménages va avoir un effet positif ou négatif sur l’économie. Et donc c’est ce
+que je voudrais maintenant voir dans ce chapitre avec vous : essayer de
+comprendre les tenants et les aboutissants de la consommation des ménages.
+
+Sachant que premièrement, les ménages peuvent épargner ou consommer. C’est une
+question : est-ce qu’ils épargnent beaucoup, est-ce qu’ils consomment beaucoup,
+quels sont les choix qu’ils font ? Là ça va dépendre d’un pays à l’autre, et
+vraiment aussi évidemment d’une situation à l’autre. Est-ce qu’on est en période
+de croissance ou de récession ? Et puis ensuite, quand ils dépensent, qu’est-ce
+qu’ils dépensent ? Est-ce qu’ils achètent des produits fabriqués à l’étranger,
+est-ce qu’ils achètent plutôt des services, est-ce qu’ils achètent des biens
+durables ou des biens non durables ? Quel est le… la manière de consommer, la
+part de l’alimentaire, la part du logement, la part de plein de choses. Ça,
+c’est des questions qui sont extrêmement intéressantes et qui déterminent aussi
+beaucoup d’analyses aujourd’hui sur le comportement des ménages en tant que
+consommateurs. Et c’est important de l’étudier parce que encore une fois c’est
+plus de la moitié du PIB, donc ça permet de comprendre beaucoup de choses.
+
+## Composition et variation de la demande des ménages
+
+Alors justement : composition et variation de la demande des ménages. De quoi la
+demande des ménages est composée et comment elle varie. Alors si on veut… alors
+j’ai une question : je ne trouve pas diap du chapitre 4 sur Moodle. Oui, c’est
+normal, c’est normal. Le diaporama du chapitre 4, je ne l’ai pas encore mis, je
+le fais très vite, mais vous l’avez là normalement sous votre vidéo, donc vous
+l’aurez bientôt.
+
+Donc composition, variation de la demande des ménages. Alors la consommation des
+ménages, elle va être composée de trois choses. D’abord, on ne va pas parler ici
+de la consommation des ménages, on va comparer… on va parler ici de la
+consommation effective des ménages. La consommation effective des ménages,
+souvenez-vous, je l’ai définie tout à l’heure : c’est les dépenses de
+consommation des ménages plus les services financés par les administrations
+publiques et les administrations privées. Ce qui fait qu’on a ici ces trois
+agrégats.
+
+Alors les dépenses de consommation des ménages : 1 219,8 milliards d’euros en
+2018. Les dépenses de consommation individualisables des administrations
+publiques : elles représentent donc les prestations en nature que les
+administrations publiques dispensent à la population. Voire TD5, je me suis
+trompé, mais c’est pour ça que je ne l’ai pas encore mis sur Moodle, il faut que
+je change trois petits trucs. Donc c’est le TD5 qui va montrer la dépense de
+consommation individualisable des administrations publiques.
+
+Et puis enfin la troisième composante, c’est la dépense de consommation
+individualisable des… alors ISB LSM, non, j’y arrive très vite, très facilement,
+j’ai mis du temps : ISB LSM, facile, institutions sans but lucratif au service
+des ménages. ISB LSM, marquez-le comme ça, vous saurez : institutions sans but
+lucratif au service des ménages. Ce sont les associations caritatives. C’est
+marqué dessus, [c’est] plus c’est ici marqué 48,7 milliards d’euros. Alors ces
+institutions sans but lucratif au service des ménages, bah ce sont voilà les
+associations caritatives qui vont financer des biens de consommation pour les
+ménages les plus pauvres. Voilà : alimentaire, vacances, logements, il y a plein
+de choses, hein, qui sont financées par ce genre d’association.
+
+Et donc ça, c’est la consommation effective des ménages. Ça veut dire que ça,
+c’est la dépense de consommation, ce que les ménages achètent en termes de
+service marchand, et on a ici ce que les ménages bénéficient mais qu’ils n’ont
+pas payé eux-mêmes, soit ça a été payé par l’État et services publics, soit ça a
+été payé par des associations caritatives. OK, c’est clair. Vous voyez que ce ne
+sont pas les mêmes ordres de grandeur, hein : ça, c’est tout petit, ça, c’est
+très gros. Dans une économie très socialisante, on pourrait avoir bien plus de
+services publics, hein, bien moins de consommation finale des ménages, de
+dépenses de consommation finale des ménages. Bah voilà, les dépenses de
+consommation finale représentent la très grande majorité de la consommation
+effective des ménages et la majorité de la demande globale. J’ai déjà dit tout à
+l’heure : 51,8 % du PIB. Ça, ce n’est pas ça. C’est des définitions simples,
+hein, il faut apprendre, parce que c’est vraiment les bases du raisonnement
+économique. On a besoin, vous avez besoin de connaître les termes, vous avez
+besoin de savoir ce qu’ils recouvrent. Voilà, il faut… c’est un peu fastidieux,
+hein, c’est un peu comme faire de la médecine, sauf qu’en médecine vous avez des
+centaines d’oses à prendre et je ne sais pas combien d’organes, alors qu’ici ça
+reste aux alentours de 10, 20, 30 éventuellement concepts, ce n’est pas très
+très compliqué.
+
+Oui, je n’ai pas compris la question. La question, c’est : ce n’est pas les
+mêmes qui offrent. Les dépenses de consommation individualisables des
+administrations publiques, c’est ce que l’État et les collectivités
+territoriales, qui sont des institutions publiques, vont offrir comme service
+aux ménages. Ici, les dépenses de consommation individualisables des
+institutions sans but lucratif au service des ménages, c’est ce que des
+organisations privées vont produire au service des ménages. Donc la différence
+entre le 2 et le 3, c’est qu’ici c’est des associations privées, et ici c’est
+des collectivités territoriales ou l’État ou les organismes de protection
+sociale, c’est les administrations publiques.
+
+## Biens durables, non durables et semi-durables
+
+Bon alors, comment les ménages dépensent leur argent. Alors une chose qui est
+assez intéressante à comprendre, c’est de distinguer la consommation des ménages
+en fonction de la durabilité des biens. Il y a des biens qui sont durables et
+des biens qui sont non durables. Et ça, c’est intéressant parce que les biens
+non durables, très souvent, c’est des biens dont… alors pas toujours, mais
+parfois c’est des biens qu’on est obligé de racheter régulièrement. Typiquement
+les produits alimentaires : tous les jours, enfin tous les jours régulièrement,
+il faut acheter des produits alimentaires parce qu’ils sont consommés assez
+vite. C’est quelque part un peu une dépense contrainte.
+
+Et puis on a des biens non durables… des biens durables par… ça, c’est non
+durable. Et on a ce que j’ai… les biens non durables sont les produits
+alimentaires, je ne sais pas si j’ai dit ça. Et les biens durables sont les
+biens qui ont une durée de vie longue et qui sont des achats dont en général on
+va pouvoir reporter la dépense. Typiquement, vous n’achetez pas… quand vous
+achetez une voiture, qui est le cas typique d’un bien durable, hein, qui va vous
+durer plusieurs années a priori, qui peut vous durer 10 ans, enfin on a des
+voitures qui durent quand même un certain temps. Pareil pour un réfrigérateur,
+pareil pour une machine à laver, pour un téléviseur, etc. C’est des biens qui
+vont durer un certain temps. C’est bien, donc durables, généralement c’est des
+biens qui sont plus onéreux, et pour lesquels on va parfois faire un crédit à la
+consommation pour le financer parce qu’on n’a pas l’argent, et parfois on va
+aussi attendre avant d’acheter. On va avoir une voiture un peu vieille, on veut
+la changer mais on ne va peut-être pas le faire immédiatement, on va attendre
+d’avoir de l’argent. Ça veut dire que les biens durables, contrairement à la
+nourriture, on peut en reporter l’achat. Donc là on a, contrairement à la
+nourriture, donc un bien non durable qui est en quelque sorte une dépense
+contrainte. Chaque mois il faut acheter la nourriture, chaque mois on ne va pas
+acheter un téléviseur ou une voiture. Donc là il y a une marge, on va dire une
+marge de réflexion, de… comment dire, d’arbitrage. On va choisir, on va faire un
+choix : est-ce que j’achète ma nouvelle télé aujourd’hui, est-ce que je l’achète
+le mois prochain, est-ce que je l’achète dans 6 mois. Tout ça va dépendre en
+fait un peu de la conjoncture.
+
+Et donc ce que je veux dire par là, c’est qu’en période de forte… comment dire,
+de confiance, si les ménages ont confiance dans l’économie, ils vont avoir
+tendance à acheter davantage de biens durables parce qu’ils vont se dire : bah
+tiens, c’est le moment. En période de crainte sur l’avenir économique, par
+exemple sur le revenu futur, sur leur emploi, là… la boîte va mal, si ça se
+trouve je vais être licencié, ils vont se dire : bah c’est pas le moment
+d’acheter une voiture. Donc ils vont tendre à reporter l’achat de ces biens.
+Alors du coup c’est intéressant de regarder dans le détail ce que les ménages
+achètent tous les mois pour essayer de repérer les changements de comportement
+qui illustrent en fait des changements de représentation.
+
+Très souvent on fait des questionnaires aux ménages, on leur demande : est-ce
+que vous avez confiance ou pas dans l’avenir de l’économie, est-ce que vous avez
+confiance dans le fait que vous allez garder votre emploi d’ici 1 an, est-ce que
+vous avez confiance dans vos revenus futurs. Mais les ménages, ils peuvent
+répondre, ils peuvent ne pas répondre, ils peuvent répondre juste, ils peuvent
+répondre faux, enfin voilà, ça reste un questionnaire quoi. Mais par contre, si
+on veut avoir un indicateur fiable du moral des ménages, ce qui peut être
+intéressant c’est de regarder la consommation de biens durables, de mobilier, de
+voiture. Et ce qu’on constate, c’est que très souvent en période de forte
+récession, quand on voit partout à la télé krach boursier, effondrement de… les
+[??] coronavirus, truc machin, bah les gens ils se disent : ou là, c’est pas le
+moment d’acheter une voiture. Et on les comprend. Ce qui veut dire que par
+exemple en la crise 2008-2009, il y a un effondrement des ventes de voitures
+partout dans le monde. De la même façon, là je n’ai pas vraiment regardé les
+chiffres mais je suis quasiment certain qu’en 2020 les chiffres de vente de
+voitures ne vont pas être très très bons dans le monde entier, parce que c’est
+des achats qu’on peut reporter et qu’on va reporter si on a un peu peur que
+l’économie ne fonctionne pas bien.
+
+Donc ça, c’est déjà intéressant de regarder les biens durables pour essayer
+d’avoir un indicateur de la situation du moral des ménages. Et ça permet aussi
+de comprendre qu’en période de récession il y a des effets cumulatifs,
+c’est-à-dire que non seulement il y a une récession, il y a les effets
+psychologiques de la récession qui vont approfondir la récession, c’est-à-dire
+que les gens vont arrêter d’acheter des biens durables et ça va porter un grave
+préjudice aux producteurs de biens durables.
+
+On a aussi ce qu’on appelle les biens semi-durables. Alors typiquement les biens
+semi-durables, c’est les vêtements. Ça dure un peu, ça dépend, parfois on
+rachète des chaussures tous les ans, parfois on achète… enfin ça dépend de ce
+qu’on achète. Donc les biens semi-durables, c’est des biens qui peuvent durer
+plus d’un an mais rarement 10 ans.
+
+Alors si je prends les types de consommation de 2016 des ménages, voici comment
+les choses se répartissent. Là je prends la consommation effective des ménages,
+c’est-à-dire la dépense de consommation. Hein, alors en 2018 elle était 200 et
+quelques milliards, en 2016 sans doute un peu moins mais pas beaucoup moins. Bah
+voilà, on avait service… ah oui, donc on a différentes choses. Et donc là je
+mélange ici les dépenses de consommation des ménages avec les services non
+marchands qui sont reversés au ménage mais qui ne sont pas achetés par les
+ménages. C’est ainsi que j’arrive à 1 576,5. En pourcentage, combien ça fait ?
+Alors on voit que les biens durables, importants bon voilà, qu’est-ce que c’est
+? Bah c’est l’automobile, mais c’est voilà la machine à laver, etc. Ça
+représente un total de consommation de 103,1 milliards, ce qui fait 6,5 % de la
+consommation effective des ménages. L’automobile, c’est presque 4 %. Donc là
+aussi on est en 2016. Alors ça varie beaucoup, l’automobile, pour la raison que
+j’ai dite, hein : parfois vous avez un effondrement des ventes automobiles
+pendant une année, qui est lié au fait que personne n’a envie d’acheter des
+voitures parce que la situation est trop grave. Voilà, on n’a pas tellement
+envie d’acheter des voitures. Ça, c’est un vrai problème, c’est pour ça qu’il y
+a beaucoup de pub pour les voitures. Vous, j’ai remarqué qu’il y a beaucoup de
+pubs pour les voitures. Pourquoi ? Parce que c’est typiquement un truc très
+psychologique d’acheter une voiture. On peut l’acheter maintenant, on peut
+l’acheter dans 6 mois. Euh voilà, enfin c’est… voilà, c’est très psychologique,
+donc il faut rassurer les gens, donc il faut leur donner envie d’acheter des
+voitures, donc on fait plein de pubs pour qu’ils achètent plein de voitures.
+
+Les biens semi-durables, bah c’est un peu moins important en valeur que les
+biens durables, hein : 5,8 % pour 6,5. Et puis ensuite on a les biens non
+durables. Ça, c’est des biens, d’accord, ce n’est pas des services, non
+durables, essentiellement c’est les produits alimentaires, c’est ça, mais ça
+peut être aussi les produits d’entretien ménager, ça peut être plein de trucs en
+fait qui ne sont pas durables. Et puis on a les services. Alors dans les
+services il y a le restaurant, le coiffeur, enfin évidemment plein de choses,
+mais il y a aussi… ça, c’est les services marchands, mais il y a aussi tous les
+services non marchands que j’intègre ici, hein, et qui correspondent à une part
+importante quand même. Bah G, hein, c’est un peu moins de 24 %, enfin un peu
+moins de 25 % du PIB, hein. Donc ça correspond… alors attention, c’est moins que
+j’ai parce que dans [??] il y a aussi les services collectifs. Ici c’est les
+services individualisables. Hein, c’est vraiment les prestations en nature que
+l’État verse à des individus bien identifiés. Typiquement le système judiciaire,
+la police, tout ça, ce n’est pas un service non marchand qui vise à augmenter la
+consommation des ménages. Par contre la santé, l’éducation, un peu de logement,
+voire le sport, les bibliothèques gratuites municipales, tout ça, c’est les
+piscines municipales, tout ça c’est des services non marchands au service des
+ménages et qui vont être intégrés ici.
+
+Alors j’aurais pu terminer hier, peut-être faire retrouver le… là aussi parce
+que je ne l’ai pas encore mis sur Moodle parce que je voulais le revoir un peu.
+Peut-être distinguer le service marchand du service non marchand, comme ça ça
+permettra d’avoir une vision plus complète encore de la consommation des
+ménages.
+
+## Propension à consommer et épargne
+
+Alors du coup, les ménages peuvent décider d’acheter ou non, ils peuvent décider
+ou non de reporter leurs achats de produits de consommation, ils peuvent décider
+ou non d’aller au restaurant aujourd’hui ou de ne pas y aller, ils peuvent
+décider d’acheter une voiture ou un frigo ou pas, et ils peuvent décider
+d’épargner ou non. Donc la première chose à laquelle il faut s’intéresser pour
+le rapport au ménage, c’est justement leur propension, ce qu’on appelle la
+propension à consommer, c’est-à-dire leur envie en quelque sorte de consommer.
+
+Alors bien sûr, chaque ménage a une propension à consommer différente. Souvent,
+quand on est jeune comme vous, qu’on n’a pas beaucoup d’argent, on a tendance à
+tout consommer, on ne fait pas beaucoup d’épargne, on a une petite épargne mais
+on essaie de… on ne peut pas trop en faire d’épargne, donc finalement on va
+consommer l’essentiel des revenus. Quand on commence à être un peu plus âgé
+comme moi par exemple, là on épargne davantage. Donc ça va dépendre de la
+situation financière qu’on a, de ses besoins aussi bien sûr. Voilà, mais
+globalement on va pouvoir faire la moyenne de tous les comportements de
+consommation des ménages et calculer la propension moyenne à consommer.
+
+Cette propension moyenne à consommer, mais en fait c’est assez facile à trouver
+: elle représente la part de la consommation finale des ménages sur le revenu
+disponible brut des ménages. Revenu disponible brut des ménages, on l’a vu à la
+fin du chapitre 3. Désolé, ceux qui sont en ligne, vous ne l’avez pas vu mais
+vous le reverrez. C’est voilà, c’est l’ensemble des revenus dont disposent les
+ménages. Et donc si on trouve une propension moyenne à consommer de 0,7, ça veut
+dire que les ménages en moyenne consomment 70 % de leur revenu, donc ils
+épargnent 30 % de leur revenu.
+
+Tout à l’heure je vous disais aussi que les ménages qui décident de ne pas
+consommer, par définition, qu’est-ce qu’ils font ? Ils épargnent. Il n’y a pas
+beaucoup d’autres choix. Tout l’argent qu’on n’a pas consommé, c’est l’argent
+qu’on met en réserve, et donc ça s’appelle de l’épargne. Alors cette épargne, ça
+peut être donc de l’argent qu’on laisse sur son compte bancaire, ça c’est ce
+qu’on appelle de l’épargne en liquidité, c’est-à-dire c’est l’argent qui est
+immédiatement disponible, on peut le dépenser à tout moment. L’épargne, ça peut
+être aussi de l’épargne financière. Je crois que c’est marqué ici, non, ce n’est
+pas marqué ici, c’est marqué plus tard ailleurs dans le cours. Ce n’est pas… je
+vous le dis quand même : l’épargne financière, donc ça veut dire par exemple un
+livret A, parce que ça rapporte un peu d’argent, c’est presque comme de la
+liquidité. Après on a de l’assurance vie, on a des fonds en action, où là on a
+vraiment une véritable épargne financière. On le verra aussi quand on parlera de
+la circulation financière, on appelle ça aussi des OPCVM, mais je ne veux pas
+trop… comment on appelle ça, j’ai oublié, j’oublie tout en ce moment, je suis
+fatigué. Bref, donc je ne veux pas trop dévoiler ce que je verrai, on verra plus
+tard.
+
+Et puis c’est surtout ça dont je voulais parler en fait : quand on achète son
+logement et qu’on rembourse son prêt immobilier, on va aussi considérer que
+c’est de l’épargne, c’est ce qu’on appelle de l’épargne en logement. Alors
+pourquoi on a dit que c’est de l’épargne ? Pour plein de raisons. D’abord pour
+des raisons de comptabilité nationale : comme on a dit que le logement c’est un
+investissement, il faut qu’il y ait une épargne derrière pour que I égale S,
+donc c’est une raison de comptabilité nationale. Mais c’est aussi parce que si
+on y réfléchit 2 minutes, quand vous remboursez votre crédit immobilier pour je
+ne sais pas 600 € par mois, en fait ça veut dire que chaque mois votre
+patrimoine augmente de 600 € parce que vous remboursez votre crédit immobilier.
+Donc quelque part vous êtes de moins en moins endetté et on peut dire que votre
+logement vous appartient de plus en plus. Et donc il s’agit bien d’une forme
+d’épargne. Rembourser un crédit immobilier, c’est bien une forme d’épargne
+aussi. Et donc on appelle cela l’épargne en logement.
+
+Et très souvent les ménages français mettent peu d’argent en bourse, il y a peu
+d’épargne financière réelle, en tout cas sous forme d’action. L’essentiel de
+l’épargne des ménages, c’est le remboursement des crédits immobiliers. Et donc
+ça explique en grande partie pourquoi les ménages français ont du mal à avoir
+une propension à consommer qui soit supérieure à 0,8. Enfin 0,8, pardon,
+c’est-à-dire à 80 %. Enfin 85, je crois, c’est 85. Je vais vous montrer ici.
+Voilà, la propension moyenne à consommer sur le long terme, c’est 0,85 à peu
+près en France.
+
+Mais je vais peut-être ne pas trop tarder à arrêter ce cours parce que je
+préfère voir ce tableau et la propension marginale à consommer à la rentrée
+après les vacances. Il est moins 5, on va bien prendre 5 minutes de pause. Vous
+avez peut-être cours après, je préfère vous arrêter maintenant. Donc bonnes
+vacances et révisez bien tous les cours, ça peut être l’occasion de bien
+réviser.

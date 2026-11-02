@@ -1,0 +1,358 @@
+---
+source_url: https://www.youtube.com/watch?v=y2l8lxi-9aY
+video_title: "ENCORE PLUS UTILITARISTE ? | Argument frappant #6 (Ep.2)"
+generated_at: 2026-09-19T09:34:19.519Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 163.2
+  input_tokens: 6369
+  cached_input_tokens: 6336
+  output_tokens: 6108
+  estimated_cost_usd: 0.001733
+  finish_reason: stop
+---
+
+# ENCORE PLUS UTILITARISTE ? | Argument frappant #6 (Ep.2)
+
+## Nouvelles variantes et recalibrage des expériences de pensée
+
+Aujourd'hui, on repart sur Mars pour discuter des expériences de pensée
+auxquelles j'ai soumis le pauvre Lys, et auxquels je vous ai soumis du même
+coup. Et le moins qu'on puisse dire, c'est que vous êtes bien plus utilitaristes
+que ce à quoi je m'attendais. D'après les résultats du questionnaire sur mon
+blog, vous êtes deux tiers à être aussi utilitaristes que Lys, qui n'avait donc
+aucune raison de se sentir seul, et vous êtes même plus de 26 % à rester
+utilitaristes jusqu'au bout. Je rappelle tout de même qu'à la septième et
+dernière variante, il s'agissait de prendre les organes naturels du patient zéro
+et de les utiliser pour sauver les patients 1 à 5. C'est un peu sale, mais
+après, ça résulte en un contre un.
+
+Dans cette vidéo, on verra si on peut aller un peu plus loin. Oui, je vais
+introduire quelques variantes supplémentaires. Et non, ce ne seront pas des
+variantes du type « le patient zéro c'est ma mère ou ma fille ou moi-même », et
+ce ne sera pas non plus des variantes du type « un jeune contre cinq vieux » ou
+« un chirurgien surdoué contre cinq surfeurs débiles ». Ça mérite que je
+m'arrête deux minutes, parce que des suggestions de cette sorte, j'en ai eues —
+mais alors vraiment beaucoup, beaucoup en commentaire. Donc je vous préviens
+tout de suite : ce sera dans une autre vidéo que je regarderai et discuterai de
+vos réponses. Et c'est bien possible qu'on le fasse, en fait, avec Lys, dans le
+podcast Axiome, dans le prochain épisode. Comme ça, vous aurez une autre
+réaction.
+
+Notez aussi que normalement vous avez maintenant accès aux réponses et aux
+résultats du premier questionnaire sur mon blog, pour peu que vous l'ayez rempli
+évidemment. Dans cette vidéo, je vais surtout essayer de recadrer la façon dont
+il faut interpréter ces expériences de pensée lorsqu'on les passe, pour que ce
+soit philosophiquement intéressant. Je vais aussi améliorer ces expériences de
+pensée en ajoutant des précisions, puis évidemment en ajoutant des questions
+subsidiaires et variantes supplémentaires savoureuses. Il y a donc une nouvelle
+version du questionnaire sur mon blog, que je vous invite à passer à l'issue de
+cette vidéo.
+
+## Le but des expériences de pensée
+
+Mais d'abord, il est important de comprendre le but que l'on poursuit à travers
+ces expériences de pensée. L'idée, c'est de vous amener à éprouver la tension
+entre deux systèmes moraux qui cohabitent en vous : le système utilitariste — ou
+plus généralement conséquentialiste, où l'on juge des actions bonnes ou
+mauvaises en fonction des conséquences seulement — et un système plutôt
+déontologique, dans lequel on invoque des principes moraux qu'il ne faut
+absolument pas enfreindre, peu importe les conséquences. C'était ce type
+d'affrontement entre systèmes moraux qui m'intéressait, l'idée étant de vous
+présenter des situations où, si vous choisissez de sauver le patient zéro, ça ne
+peut être que pour des raisons déontologiques. Ça doit vraiment être le signe du
+fait que vous cessez de juger la situation en utilitariste.
+
+Or, dans une variante, vous seriez informé que le patient zéro c'est Mère
+Teresa, tandis que les patients 1 à 5 ce sont des nazis tueurs d'enfants. C'est
+subtil : si je préfère sauver le patient zéro Mère Teresa, cela signifie-t-il
+que je ne suis pas utilitariste, puisque j'ai préféré sauver une seule personne
+au lieu de cinq ? Bah non, c'est au contraire précisément parce que je suis
+utilitariste et que les informations dont je dispose là me font attendre de
+meilleures conséquences du fait de sauver ce patient-là plutôt que les autres.
+Je ne vois pas bien ce qu'on pourrait attendre de bon d'un nazi tueur d'enfants,
+surtout s'il pratique son hobby régulièrement. Avoir des informations sur les
+patients, sur leur âge, leur profession, leur caractère, leur projet — enfin
+tout ce que vous voulez — tout ce que ça fait, c'est que ça rend le calcul des
+conséquences des actions beaucoup plus complexe. Et ça permet du coup de
+construire des scénarios dans lesquels il n'est pas clair que les conséquences
+attendues de la mort des patients 1 à 5 ne soient pas meilleures que les
+conséquences attendues de la mort du patient zéro — ce qui, en effet, crée un
+dilemme.
+
+## Un dilemme interne à l'utilitarisme
+
+Mais un dilemme n'est pas forcément intéressant. Là, j'attire votre attention
+sur le fait que ce dilemme n'est pas un dilemme qui oppose l'utilitarisme à une
+autre théorie morale. C'est un dilemme interne à l'utilitarisme. On pourrait
+appeler ça un dilemme du calcul des conséquences. Et ce genre de dilemme ne
+m'intéresse pas ici, puisqu'il n'indique rien quant au rejet de l'utilitarisme ;
+ça semble même plutôt présupposer l'acceptation d'un cadre de pensée
+utilitariste.
+
+C'est justement pour éviter ce genre de dilemme sur le calcul des conséquences
+que je vous donne toujours si peu d'informations sur les six patients. Avoir
+ainsi si peu d'informations rend le calcul des conséquences beaucoup plus simple
+et clair. Alors, certains utilitaristes auraient le devoir de se renseigner
+davantage si c'était possible, mais si c'est vraiment les seules informations
+dont il dispose, alors il a tout à fait raison de croire que les conséquences
+attendues de sauver cinq personnes sont meilleures que les conséquences
+attendues d'en sauver seulement une seule. L'utilitarisme demande seulement de
+faire au mieux étant donné les informations dont on dispose.
+
+Évidemment, quand vous commencez à extrapoler sur la population de la colonie
+martienne ou sur le fonctionnement du système de santé, sur les accidents qui
+ont mené les patients à l'hôpital, vous perturbez votre jugement en y mélangeant
+plein de choses différentes. Alors qu'au contraire, on essaie d'isoler ce qui
+motive nos jugements moraux. Donc, essayez de ne pas surinterpréter les choses,
+de telle façon à ce que les conséquences soient les plus simples possibles. En
+particulier, dites-vous que les six patients ils sont relativement négligeables
+dans la population de la colonie martienne, par exemple. Donc les conséquences
+sur le reste de la population sont à peu près les mêmes quelle que soit la
+situation. Voilà, comme ça, on simplifie les choses, c'est très bien.
+
+## Les variantes impliquant personnellement le décideur
+
+Qu'en est-il des variantes à base de « le patient zéro, c'est ta fille, c'est ta
+femme, c'est ma mère, c'est toi-même » ? L'idée de ce genre de variantes, c'est
+de vous impliquer personnellement dans la décision et de faire en sorte que
+faire le choix utilitariste vous coûte personnellement beaucoup.
+
+Et de fait — pour répondre à vos questions — si c'est un proche ou si c'est
+moi-même le patient zéro, je pense que je laisserais mourir les patients 1 à 5
+dans à peu près tous les cas. Oui, je suis un peu une ordure, qu'est-ce que vous
+voulez. Mais le fait que, si je suis impliqué personnellement, je ne fasse pas
+le fou — est-il déontologiste ? Trahit-il le fait que je ne suis pas
+utilitariste ? Non, ça montre simplement que je ne suis pas prêt à agir en
+utilitariste lorsque l'accès utilitariste nous coûte ma vie ou celle d'un
+proche. Mais ça ne m'empêche pas forcément d'être utilitariste au sens de porter
+un jugement utilitariste sur ce qui est bien ou mal dans cette situation. Et
+c'est pour ça que j'avoue que je suis, quelque part, un peu une ordure de
+refuser de me sacrifier ou de sacrifier mon proche pour sauver cinq autres
+personnes. En disant cela, je continue bien de juger mon action en utilitariste.
+
+Dans le premier Spider-Man de Sam Raimi, il y a une scène qui est presque un
+cliché, où le super-vilain de service met Spider-Man face à un choix terrible :
+il lâche simultanément, d'un côté, Mary Jane, la copine de Spider-Man, et de
+l'autre, un bus rempli d'enfants que Spider-Man ne connaît pas. Qui sauver ?
+C'est un dilemme, mon dieu, ça se lit dans ses yeux. Et c'est souvent l'idée que
+vous vous faites des dilemmes, j'ai l'impression. Or, en fait, ce n'est pas un
+dilemma qui porte sur le jugement moral du tout. Spider-Man, à cet instant, ne
+se pose aucune question sur ce qui est bien ou mal. Il sait parfaitement qu'il
+est meilleur de sauver plutôt un bus rempli d'enfants que juste sa copine, si
+jolie qu'elle soit. Le dilemme ici ne porte donc pas sur deux théories morales —
+l'une qui dirait de sauver les enfants et l'autre qui dirait de ne pas le faire.
+Le dilemme porte seulement sur la difficulté, sur le coût que représente, à cet
+instant, la bonne action — à savoir sauver les enfants et, ce faisant, laisser
+mourir Mary Jane. Soit dit en passant, comme dans toutes les scènes de genre,
+Spider-Man trouve le moyen de sauver à la fois sa copine et les enfants, ce qui,
+évidemment, est la meilleure solution — et ce qui démontre, une fois de plus, à
+quel point les super-vilains sont des concepteurs d'expériences morales
+absolument incompétents.
+
+On peut tout à fait reconnaître une exigence morale tout en avouant, un peu
+honteux, ne pas toujours être à sa hauteur. Et c'est particulièrement vrai de
+l'utilitarisme, qui est une pensée morale extraordinairement exigeante. Songez
+un peu à tout ce que vous pourriez faire de mieux que regarder cette vidéo pour
+augmenter le bonheur général. Se dire « rester là, c'est pas grave »…
+
+## Pourquoi les scénarios personnels n'isolent pas bien la rupture utilitariste
+
+Pour en revenir à mes expériences de pensée, j'espère que vous comprenez
+maintenant pourquoi ce genre de variante — où le patient zéro c'est moi ou c'est
+un de mes proches — ça n'apporte pas vraiment d'informations quant à savoir
+quand vous cessez d'être, c'est-à-dire de juger en utilitariste. Nous savons
+fort bien que l'implication personnelle peut nous pousser à faire des actions
+que nous considérons même comme immorales, voire à rationaliser notre choix
+immorale en nous faisant passer pour morale, parce que voilà, c'est plus
+confortable. « Oui, j'ai sauvé Mary Jane et pas les enfants, mais c'est parce
+que Mary Jane, c'est une rousse — et une rousse sauve à peu près cinquante
+enfants dans le calcul utilitariste, donc j'ai bien agi, je suis parfaitement
+aux objectifs. »
+
+Voilà pourquoi je trouve préférable de présenter des situations dans lesquelles
+vous êtes le moins possible impliqué personnellement. Si les deux options entre
+lesquelles je vous fais choix vous coûtent aussi peu l'une que l'autre sur le
+plan personnel, et si cependant vous renoncez à l'option utilitariste, alors là
+il semblerait bien que, si vous le faites, c'est pour des raisons purement
+morales — parce que vous privilégiez un autre système moral que l'utilitarisme
+dans cette situation.
+
+En résumé, les scénarios sont pensés de telle façon que si, pour l'un d'entre
+eux, vous faites le choix de sauver le patient zéro, ça ne peut être que parce
+que vous cessez réellement de juger la situation en utilitariste. Vous
+considérez donc qu'il y a des principes moraux qui s'appliquent à l'action
+elle-même et qui sont plus importants que l'optimisation des conséquences. Vous
+adoptez finalement une vision déontologique.
+
+## La question de la confiance dans les hôpitaux
+
+D'après ce que j'ai pu lire dans les commentaires, beaucoup de ceux qui sauvent
+le patient zéro à partir des scénarios 6 et 7 objecteront que, dans ces
+scénarios, si on sauve les patients 1 à 5 en sacrifiant le patient zéro, ça
+pourrait nuire, en fin de compte, au plus grand nombre, dans la mesure où plus
+personne n'aurait confiance dans les hôpitaux — en tout cas, les gens se
+mettraient à craindre de se faire voler leurs organes, etc., etc.
+
+Alors, c'est une extrapolation qui est plutôt légitime, mais vous allez voir, on
+peut tout à fait réinterpréter le scénario de telle façon à l'écarter. Et c'est
+important de le faire parce que, encore une fois, ce que je veux savoir, c'est
+si vous cessez d'être utilitaristes. D'ailleurs, demandez-vous si vous avez
+justifié votre changement d'avis avec ce type de raisonnement utilitariste.
+Est-ce que c'est vraiment ce raisonnement qui a motivé votre changement d'avis,
+au sens où il serait peut-être plus honnête de dire quelque chose comme : « Vous
+êtes face à ce scénario, et là, c'est chaud, c'est chaud moralement. Non, là, je
+veux plus. » Et ensuite vous cherchez une raison pour justifier pourquoi là vous
+voulez pas aller plus loin — et donc vous rationalisez en présentant cette
+justification utilitariste, un peu extrapolée tout de même.
+
+Quoi qu'il en soit, je vais maintenant vous empêcher de faire cette
+extrapolation en précisant trois choses sur la situation. Ajoutons la précision
+suivante, pour tous les scénarios : ces situations de pénurie de machines ou
+d'organes artificiels sont extraordinairement rares. En temps normal, l'hôpital
+ne rencontre jamais de problèmes de genre ; il y a toujours une multitude de
+machines ou d'organes artificiels disponibles. C'est seulement par le plus grand
+des hasards que, hier, tous les organes artificiels et toutes les machines ont
+été endommagées, et vous ne recevrez des machines de remplacement que demain.
+Mais c'est vraiment exceptionnel. Vous êtes le seul à le savoir, et la décision
+que vous allez prendre restera elle aussi secrète. Et celle-ci, n'en doutez pas,
+considérez ça vraiment comme absolument certain : il n'y a aucune raison de
+penser que choisir de sacrifier le patient zéro pour sauver les cinq autres
+affectera le moins du monde la confiance que les gens ont dans les hôpitaux, ni
+que ça leur fera craindre qu'on leur vole leurs organes pour sauver des gens.
+Partez vraiment du principe que ça n'aura aucune, aucune influence de cette
+sorte.
+
+Du coup, cela change-t-il vos réponses pour les scénarios 6 et 7 ? Et surtout,
+cela change-t-il vos justifications ? Si vous ne pouvez plus présenter de
+justification utilitariste, est-ce qu'il va rester — est-ce que ça va être la
+référence à certains principes moraux que vous placez au-dessus de l'action ? Il
+vient un moment où vous placez des principes au-dessus de l'exigence
+utilitariste, et tout le jeu de cette série d'expériences de pensée, c'est de
+mieux cerner ce moment où l'on devient déontologue — ou de ne pas le trouver.
+Certains sont restés utilitaristes jusqu'au bout. Ceci dit, même Lys a fini par
+reconnaître un peu de déontologisme — à moins qu'il n'ait menti par
+utilitarisme, considérant qu'il contribuerait davantage au bonheur général en
+passant pour au moins un peu déontologue. Peut-être peut-on croire un
+utilitariste quand ils nous disent qu'ils veulent entendre ?
+
+## Les nouveaux scénarios au-delà du scénario 7
+
+Revenons-en aux résultats. Le pourcentage d'utilitarisme diminue assez
+faiblement jusqu'au scénario 5, et c'est surtout entre le 5 et le 6 qu'il chute
+considérablement. Il reste à la fin tout de même 26 % d'utilitarisme. Tout ça me
+donne très envie d'améliorer ces expériences de pensée : d'une part, en ajoutant
+des variantes entre 5 et 6, histoire que le glissement soit plus progressif, et
+d'autre part, évidemment, en ajoutant des variantes après, histoire de pousser
+l'utilitarisme encore plus loin. Notez que ce côté progressif, c'est parce que
+j'aime bien l'idée de pousser progressivement votre utilitarisme aussi loin que
+possible, jusqu'à vous faire accepter des trucs que vous auriez considérés à la
+première vue comme horribles. Je sais pas vous, moi, ça m'amuse. Ceci dit, on
+pourrait aussi présenter le questionnaire à l'envers, en partant des variantes
+les plus hardcore — a priori, peu de gens seraient utilitaristes — et en
+remontant progressivement jusqu'au scénario de base, où à peu près tout le monde
+l'est. Sans doute les résultats, dans ce cas, seraient assez différents.
+
+Je ne vais pas vous présenter ici les scénarios intermédiaires entre 5 et 6. Je
+vous laisserai découvrir ça dans le questionnaire sur mon blog. Par contre, je
+ne résiste pas à la tentation de vous présenter les scénarios qui vont au-delà
+du scénario 7. Vous allez voir, c'est réjouissant.
+
+Rappelons le scénario 7. Dans ce scénario, le patient zéro qui se trouve à
+l'hôpital est inconscient au moment où les patients 1 à 5 arrivent. Il se trouve
+être aussi — et c'est très rare — un donneur universel, c'est-à-dire que ses
+organes naturels, ses organes d'origine, sont aussi faciles à transplanter que
+les organes artificiels qu'on a utilisés dans les scénarios précédents. On
+pourrait donc profiter qu'il soit là pour lui prendre ses organes et s'en servir
+pour sauver les patients 1 à 5, sachant qu'on pourra tout à fait expliquer la
+mort du patient zéro comme une suite de l'accident, en fait sans gravité, qui
+l'a amené aujourd'hui à l'hôpital. À cette question, vous êtes plus d'un quart
+dans le questionnaire, et vous êtes vraiment très, très nombreux dans les
+commentaires YouTube à répondre : « Oui, pas de problème, allez, on prend les
+organes du patient zéro et on les met dans les corps des patients 1 à 5. » Et à
+la question des regrets que je posais dans le questionnaire, il y en a qui ont
+répondu « non, lol ». Il y en a aussi qui, en se rendant compte que c'est pas
+évident de le faire, ça rassure quand même.
+
+Maintenant, comment pousser les choses plus loin ? Disons que les patients 1 à 5
+arrivent dans l'hôpital, et cette fois, pas d'organes artificiels, et pas non
+plus de patient zéro donneur universel. Mince alors. Mais vous avez les fichiers
+de l'hôpital qui recense la population de la colonie, et vous savez ainsi qu'il
+y a un donneur universel qui habite dans le coin. Cette personne a donc dans son
+corps les seuls organes qui, à cet instant, peuvent encore sauver les patients 1
+à 5. Vous pouvez donner l'ordre que l'un de vos robots aille chez cette personne
+la blinder. Vous pourriez bien sûr demander son consentement, mais évidemment,
+il vous répondra qu'il n'est pas d'accord. Et sur ce, vous le faites ramener à
+l'hôpital, où vous utiliserez ses organes pour sauver les patients 1 à 5. Et
+encore une fois, c'est important : partez du principe que vous êtes absolument
+certain que cette action restera secrète. On trouvera une explication
+parfaitement satisfaisante pour expliquer la disparition de cet individu, vous
+inquiétez pas. Et la situation de pénurie d'organes artificiels étant vraiment
+exceptionnelle, une telle ne devrait pas du tout avoir à se reproduire. Vous
+avez toutes les raisons de penser que votre action ne changera en rien la
+confiance que les gens ont vis-à-vis de l'hôpital. Donc, vraiment, efforcez-vous
+d'admettre que les conséquences, dans ce scénario, restent exactement les mêmes
+du point de vue utilitariste. Par contre, l'action en elle-même est radicalement
+différente : c'est un meurtre, là. Je crois qu'on peut le dire : un meurtre
+médical, un meurtre pour la bonne cause, mais un meurtre. Alors, toujours
+utilitariste ?
+
+## Les fermes à organes
+
+Et peut-on aller encore plus loin dans cette instrumentalisation du patient zéro
+? Jusqu'ici, on a supposé que cet individu donneur universel était né par hasard
+avec cette caractéristique et qu'il avait pu mener sa vie comme bon lui
+semblait, jusqu'au jour où. Mais imaginez que l'unique raison pour laquelle cet
+individu est né, c'était précisément cela : faire office de banque d'organes,
+etc. En outre, pour qu'il puisse servir ainsi de banque d'organes, il fallait le
+priver de toute liberté, presque de toute vie.
+
+Autrement dit, imaginez la situation suivante : vous pouvez faire naître dans
+votre hôpital un individu qui sera donneur universel, mais pour que ça marche,
+il est absolument nécessaire que cet individu reste toute sa vie allongé dans un
+lit, dans un état complètement apathique. On le nourrit par intraveineuse, un
+mélange de drogues le maintient ainsi dans un état de conscience neutre, sans
+plaisir ni peine, et ce durant toute sa vie, jusqu'au jour où l'on aura besoin
+de ses organes pour sauver des patients. En gros, le type n'est vraiment là que
+pour servir de frigo à organes. Seriez-vous prêt à mettre en place cette
+directive dans votre hôpital, sachant que ça restera tout à fait secret et que,
+sur le long terme, ça permet de sauver cinq vies en moyenne ? Bon, bah ça reste
+du cinq contre un. D'un point de vue utilitariste, je ne doute pas que ça puisse
+se défendre, mais tout de même.
+
+Et en plus, on va aller les choses encore un peu plus loin. Imaginez que tous
+les organes artificiels dont je vous ai parlé jusqu'ici ont été, en fait,
+obtenus de cette façon — ils ne sont pas si artificiels que ça. Il y a ainsi des
+fermes à organes, où on élève ainsi des êtres humains allongés, apathiques. Des
+êtres humains normaux, capables de mener des vies normales, mais qu'on maintient
+ainsi, par un mélange de drogues, dans un état neutre, sans plaisir ni peine.
+C'est absolument nécessaire, sinon les organes s'aminissent. Mais c'est comme
+ça. Et donc, on les maintient ainsi jusqu'à l'âge où les organes sont arrivés à
+maturité, et à ce moment, eh bien, on les récolte et on envoie tout ça à
+l'hôpital central de Mars, où ses organes artificiels pourront servir à sauver
+des vies humaines. Et il y a un bon ratio, parce qu'avec une vie de frigo à
+organes comme ça, dans les fermes à organes, on sauve en moyenne cinq vies
+humaines normales. Donc voilà, globalement, on reste sur du cinq contre un.
+Alors, les utilitaristes, est-ce que ça vous va comme système de santé ? Il
+reste encore 25 % d'utilitarismes branchés, pas quoi.
+
+## Conclusion
+
+Merci d'avoir regardé cette vidéo. J'arrête de vous torturer avec ces
+expériences de pensée pour aujourd'hui, car je vois que ce genre de truc vous
+plaît. Donc il y aura très certainement un autre épisode un de ces jours
+prochains. J'ai pas réussi à choisir en dix ans. Pour répondre au questionnaire
+amélioré, direction mon blog, et je vous invite vraiment à le faire — d'autant
+plus que pour consulter les résultats de ce questionnaire, eh bien, il faut y
+répondre. Dans le prochain épisode d'Axiome avec Lys, on va reparler de tout ça,
+c'est certain. On verra ce que Lys pense de mes nouvelles variantes entre 5 et
+6, et est-ce que je vais réussir à pousser son utilitarisme un peu plus loin.
+
+N'hésitez pas à embêter tous vos amis avec ces expériences de pensée, c'est fait
+pour ça. Pourquoi pas mettre un petit pouce bleu aussi, ça ne prend les organes
+de personne, je vous assure. Vous pouvez aussi me soutenir sur Tipeee, ça me
+permet d'envisager avec un peu moins d'inquiétude les fins de mois. Un très
+grand merci aux Tipeurs d'ailleurs, et je rappelle qu'en contrepartie de leur
+générosité, ils peuvent participer au vote pour le sujet d'octobre. Voilà,
+portez-vous bien, et je vous souhaite de ne pas vous faire voler vos organes par
+des utilitaristes en vadrouille.

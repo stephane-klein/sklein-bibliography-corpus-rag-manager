@@ -1,0 +1,1197 @@
+---
+source_url: https://www.youtube.com/watch?v=zHNdmtUbVA4
+video_title: La pensée économique face aux défis contemporains
+generated_at: 2026-09-20T18:48:49.573Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 157.2
+  input_tokens: 27674
+  cached_input_tokens: 0
+  output_tokens: 48335
+  estimated_cost_usd: 0.033152
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# La pensée économique face aux défis contemporains
+
+Bonjour à tous et à toutes. Merci pour cette introduction.
+
+Effectivement, je peux parler très brièvement avant d’intervenir sur le sujet de
+la conférence du collectif des économistes atterrés, un collectif qui s’est
+constitué en 2011 en réaction au retour des politiques de rigueur et
+d’austérité, qui avait donné lieu à une deuxième récession après celle de 2008.
+Nous étions atterrés par la non-prise en compte de l’effondrement du système
+financier de 2007-2008 et par le fait que, après nous avoir promis qu’on allait
+tout changer — souvenez-vous de Sarkozy qui disait que les paradis fiscaux,
+c’était terminé, on parlait de faire un nouveau Bretton Woods, etc. —, il ne
+s’est finalement pas passé grand-chose. C’est vrai que ce constat de
+non-changement peut être paradoxal avec le thème de cet ouvrage et de la
+conférence, qui est de dire que le néolibéralisme est sans doute beaucoup plus
+fragile qu’on le croit et que, dans la pratique — pas forcément dans les idées,
+mais dans la pratique —, il est déjà obsolète. Je vais expliquer pourquoi je
+fais ce diagnostic.
+
+Pour cela, je vais faire plusieurs choses. Je vais redéfinir le néolibéralisme,
+à travers une introduction sur l’histoire des idées : comment on en est venu à
+organiser la société et l’économie à partir de cette doctrine néolibérale. Puis
+j’expliquerai pourquoi la crise de 2008 a véritablement mis fin à certaines
+pratiques, sans que ces changements de pratique aient forcément été pensés.
+Ensuite, je reviendrai sur le thème de la conférence : comment cette pensée
+économique fait face aujourd’hui à des défis, trois grands défis. Le premier,
+l’ordre social — ou la justice sociale —, la réponse aux attentes sociales des
+gens, qui n’est évidemment pas achevée aujourd’hui. Le deuxième défi, la
+question de la souveraineté alimentaire et industrielle : comment fait-on
+aujourd’hui pour se nourrir, pour produire les respirateurs en période de
+pandémie, etc. ? Et le troisième défi, le plus important, c’est pour ça que je
+voulais le mettre en dernier, c’est la question écologique et la raréfaction des
+ressources naturelles. Je montrerai pourquoi ces défis ne peuvent plus du tout
+être pris en compte dans le cadre du néolibéralisme et donc pourquoi, de fait,
+on va être amené à changer de politique. Mais attention : changer de politique,
+changer de doctrine, ça ne veut pas forcément dire changer pour le mieux. On
+pourrait avoir des régimes beaucoup plus autoritaires, donc plus néolibéraux,
+mais qui pourraient aller vers des choses bien plus graves ; nous en discuterons
+à la fin de la conférence. Je ne vous annonce donc pas forcément une bonne
+nouvelle. Mon objectif n’est pas d’annoncer des bonnes nouvelles, mais plutôt de
+vous montrer une réflexion, de vous faire partager une réflexion sur l’état
+actuel du monde, sans y mettre beaucoup d’affect : ni dire que c’est très bien
+ou que c’est mal, mais juste essayer de décrire la situation pour la comprendre.
+
+## Le choix économique individuel
+
+La première chose que je voulais aborder est une question un peu conceptuelle,
+un peu philosophique : réfléchir sur ce qu’est un choix économique, parce que
+nous faisons tous des choix économiques. Nous les faisons dans deux cadres. Le
+premier est un cadre individuel. Chacun d’entre nous fait des choix, parfois
+structurants, parfois ponctuels : acheter telle ou telle chose, revendre sur
+Leboncoin telle ou telle chose, décider du métier qu’on veut faire, produire.
+Ces choix sont des choix économiques, produits de notre propre volonté, parce
+qu’on choisit d’acheter ceci ou cela. On le fait en fonction de nos préférences
+et, bien sûr, dans un contexte qui fait que nos choix sont quand même contraints
+: si on choisit telle ou telle chose, c’est aussi pour une question de prix,
+parce que ça nous plaît, mais aussi parce qu’on a les moyens de l’acheter. Ces
+choix individuels — acheter, vendre, produire —, on les fait souverainement, si
+je puis dire. On les fait sans forcément avoir de compte à rendre à quelqu’un.
+On les fait par plaisir. On a le sentiment de les faire librement. Mais bien
+sûr, cette liberté des choix économiques, comme je l’ai dit, se fait dans un
+certain contexte qui est en fait une contrainte, et donc cette liberté est en
+partie factice.
+
+Pourquoi est-elle factice ? Pourquoi ne sommes-nous pas totalement libres dans
+les choix économiques, même si nous en avons l’impression ? Parce qu’elle est
+insérée dans tout un ensemble de contraintes et d’incitations. La première
+contrainte, j’en ai parlé, c’est le prix. Mais le prix, ce n’est pas nous qui le
+choisissons. Nous décidons d’acheter quelque chose, d’aller au restaurant,
+d’aller dans tel ou tel restaurant ; il faut qu’on en paye le prix. Et ce prix,
+ce n’est pas nous qui l’avons choisi, c’est plus ou moins le restaurant. Mais
+même le restaurateur est contraint par sa demande. S’il fait payer son repas 500
+€, il risque — sauf s’il fait une prestation extrêmement chère — de ne plus
+avoir de clients. Chacun agit donc entre guillemets librement, mais dans une
+liberté qui est en fait très encadrée. Même quand on veut produire, il y a des
+règles à respecter. On est encadré, on doit suivre des normes. Si on est
+restaurateur, on a des règles d’hygiène à respecter, tout un ensemble de règles,
+le Code du travail à respecter quand on embauche quelqu’un. Toute cette
+production elle-même se fait dans un certain contexte, et heureusement
+d’ailleurs dans un cadre politique. Et même quand on achète, on est sous
+influence : sous l’influence de la publicité, sous l’influence des phénomènes
+mimétiques, puisque la mode, c’est ça : on va voir des gens avoir tel ou tel
+comportement ou tels ou tels achats et on va vouloir acheter les mêmes choses.
+Parfois même on est mû par une logique d’ostentation : regardez mon smartphone
+dernière génération, mon iPhone. Je l’achète quelque part, mais aussi pour le
+montrer aux autres. C’est aussi une logique d’ostentation, ce qui fait que même
+si on a l’impression d’être libre, on est conditionné en quelque sorte par tel
+ou tel achat. C’est la première question, le choix individuel. Il se fait a
+priori souverainement, on ne rend compte à personne, et en même temps il est
+enserré dans tout un ensemble d’institutions, de contraintes. Et la première des
+contraintes étant bien sûr le prix.
+
+## Le choix collectif
+
+Maintenant, je voudrais parler d’un autre choix, tout aussi important, voire
+sans doute plus important que le premier, et qui va être au cœur du
+néolibéralisme : le choix collectif. Qu’est-ce qu’un choix collectif ? C’est
+bien un individu qui choisit, mais cette fois-ci, au lieu de choisir en son nom
+propre, il choisit en tant que responsable au nom d’un collectif. Par exemple,
+un responsable politique — madame Sophie Camar est dans la salle — doit faire
+des choix politiques, mais il les fait en rendant des comptes auprès de ses
+citoyens, de ses électeurs. De la même façon, un dirigeant d’entreprise doit
+rendre des comptes auprès de ses actionnaires, et un responsable d’association —
+l’association Coude à coude, par exemple — doit lui aussi rendre des comptes
+quand il fait un choix, quand il invite monsieur qui est là à une conférence :
+il le fait dans un cadre où il faut qu’il rende compte à ses adhérents. Si on
+réfléchit maintenant aux questions économiques, quand on fait un choix
+politique, industriel, en tant que chef d’entreprise, pour les autres, on fait
+un choix pour les autres et on est obligé de le justifier, et de le justifier de
+manière rationnelle, en essayant de démontrer que le choix qu’on a fait répond…
+Même si l’objectif du choix n’est pas forcément économique au sens strict — on
+peut faire un choix de conviction, un choix politique ne relève pas uniquement
+d’une logique économique —, il doit répondre à une logique économique. Je vous
+donne un exemple. Vous avez un maire qui veut réaménager une voirie. Bien sûr,
+le but de réaménager la voirie, c’est que les citoyens le demandent : il y a des
+trous, il faut réaménager. Mais après, il est censé leur rendre des comptes en
+organisant un appel d’offre ; des entreprises vont se proposer pour rénover la
+voirie, et il va faire un choix. Si le maire fait un choix qui conduit à
+privilégier le prestataire le plus coûteux, ses électeurs pourront revenir vers
+lui en disant : « Mais pourquoi avez-vous pris ce prestataire, qui est deux fois
+plus cher que l’autre ? » On soupçonnera — et on aura sans doute raison — des
+systèmes de corruption. Le maire aura fait un choix qui ne sera pas considéré
+comme légitime parce qu’il n’aura pas pris l’option la moins coûteuse pour les
+contribuables.
+
+Comment fait-on alors pour faire un choix ? On est obligé de regarder les prix
+qui nous sont imposés par le marché, puis d’organiser une forme de calcul
+coût-avantage. Par exemple, faut-il rénover la voirie ? Ça dépend combien ça
+coûte. Ensuite, si on décide de le faire quand même, on va faire un appel
+d’offre public, mettre en concurrence les prestataires, et finir par choisir le
+prestataire a priori le moins coûteux. On comprend bien que tous ces choix faits
+par des responsables, tous ces choix collectifs, supposent donc forcément un
+calcul coût-avantage. Mais ce calcul coût-avantage ne peut être fait que si on
+connaît les prix. Et ces prix, d’où viennent-ils ? Ils viennent forcément du
+marché. Tout à l’heure, j’ai parlé de l’appel d’offre : il y a une concurrence.
+Des entreprises répondent à l’appel d’offre et se font concurrence. C’est
+typiquement ce qu’on appelle un marché. D’ailleurs, on appelle ça un marché
+public. Donc, dans le cadre de ces choix politiques au sens large, de ces choix
+décisionnels, de ces choix collectifs, on a toujours aussi une contrainte
+extérieure. Y compris les entreprises ont une contrainte, parce qu’elles ont la
+contrainte de la demande. C’est parce qu’on a cette contrainte de prix qui n’est
+pas décidée par nous-mêmes qu’on peut faire un calcul objectif. Pour essayer de
+le comprendre, imaginons ce qui se passerait si le responsable politique — je ne
+sais pas, le chef d’État par exemple — pouvait en même temps décider d’un choix
+et décider d’un prix, ou des prix de l’économie. Vous voyez bien que dans ce
+cas-là, si vous décidez du choix et des prix, vous pourrez prendre n’importe
+quelle décision et la justifier avec un calcul économique en disant : «
+Regardez, si je décide que les prix des choses sont cela, n’importe quel choix
+que j’ai envie de faire, je vais réussir à démontrer qu’il est légitime. » En
+fin de compte, ça veut dire que je peux faire ce que je veux. Et donc je ne
+rends plus de compte à personne, parce que pour rendre compte à des gens, encore
+faut-il que les éléments qu’on est obligé de prendre en considération pour son
+choix ne soient pas nous-mêmes qui les décidons. Vous comprenez qu’un État qui
+déciderait des prix et des grands choix économiques serait des deux côtés en
+quelque sorte de la décision, et donc il pourrait faire absolument n’importe
+quoi et toujours dire : « Regardez, j’ai raison », puisque finalement le calcul
+coût-avantage, c’est toujours une comparaison d’un coût et d’un avantage,
+c’est-à-dire d’un objectif. Et si on décide des prix, on décide de tout.
+
+Ça paraît un peu abstrait, mais c’est cette question précise qui est au
+fondement de la pensée néolibérale.
+
+## Le débat sur le calcul économique en régime socialiste
+
+Pour essayer de le comprendre, je vais faire un peu d’histoire de la pensée.
+Très simplement, je vais revenir à ce qui s’est passé en 1917 : la révolution
+russe et la révolution bolchevique, avec la prise de pouvoir des bolcheviques et
+la nationalisation de l’ensemble de l’économie et des moyens de production.
+Cette nationalisation des moyens de production signifie que le gouvernement,
+l’État, possède tous les moyens de production, donc possède les entreprises, et
+peut produire ce qu’il souhaite. Il peut donner des ordres directement aux
+entreprises pour produire ce qu’il veut. Est-ce que dans cette configuration le
+marché disparaît ? La réponse est non, pas complètement. Pourquoi ? Parce que
+l’État ne contrôle pas toute l’économie. Il contrôle l’offre, c’est-à-dire le
+système productif, mais il ne contrôle pas ce que les gens veulent acheter.
+Imaginez un État soviétique — tel qu’il s’est construit avec le temps, il
+n’était pas comme ça en 1917 — : on a des magasins d’État, et ces magasins
+d’État s’approvisionnent auprès d’entreprises d’État qui produisent des biens de
+consommation. Le planificateur a décidé de produire tel ou tel objet, par
+exemple des verres, de différentes sortes, et voilà qu’il a produit beaucoup de
+verres alors que les gens veulent des assiettes. Il va se retrouver avec plein
+de stocks de verres que les gens ne voudront pas acheter, parce que même l’État
+soviétique, même tout État totalitaire qu’il est, ne peut pas obliger les gens à
+acheter ce qu’il produit. Il y a donc bien une contrainte pour l’État : la
+contrainte des besoins des consommateurs. Et si les consommateurs ne veulent pas
+acheter ce que les magasins d’État ont à vendre, le magasin d’État va être
+obligé de baisser son prix pour susciter quand même les achats et éviter
+l’effondrement des stocks. Donc l’État soviétique, qui contrôle l’ensemble de la
+production, ne peut pas faire tout ce qu’il veut. Il est obligé quelque part de
+tenir compte des besoins de sa population. Il va donc y avoir une forme de
+marché, mais un marché que l’on peut dire hémiplégique : un marché qui
+fonctionne du côté de la demande, mais qui dysfonctionne de l’autre côté, du
+côté de l’offre.
+
+Qu’est-ce que ça veut dire ? Si on veut produire, je garde mon exemple, des
+verres, il faut savoir combien nous coûte le verre. Combien nous coûte la
+matière première ? Combien nous coûtent les machines ? Combien nous coûte
+l’énergie pour faire fonctionner les machines ? Combien nous coûte la
+main-d’œuvre ? Là, on va avoir un souci, parce qu’il n’y a plus d’autre système
+économique. Je veux dire par là que les ressources naturelles sont produites,
+l’énergie est produite par une entreprise d’État, les ressources naturelles sont
+produites par une entreprise d’État. C’est l’État qui vend à l’État en quelque
+sorte. Tout ça est totalement endogène. Ce qui veut dire qu’une partie du marché
+disparaît : le marché des biens de production, c’est-à-dire le marché qui
+produit les machines, le marché qui produit les matières premières, etc. Le
+système soviétique est donc un système qui peut être confronté à une demande
+extérieure à lui-même, mais qui, pour ce qui est de produire, est entièrement
+confronté à lui-même. C’est-à-dire que c’est l’État qui produit pour l’État.
+
+Cette situation a fait dire à un économiste très célèbre qui a étudié le système
+soviétique, qui était absolument antisoviétique et antisocialiste, Ludwig von
+Mises, économiste autrichien, qu’en 1920 il publie un article dans lequel il
+explique que selon lui, il est impossible de faire un véritable calcul
+économique en régime socialiste. Puisqu’en régime socialiste, dit-il, l’ensemble
+des moyens de production étant possédés par l’État, il n’y a plus de marché des
+biens de production, et donc on ne peut plus connaître les véritables coûts de
+production, puisque, comme je l’ai dit, on arrive à une situation où l’État
+décide du coût de production en quelque sorte. Il décide du prix auquel se
+vendent les entreprises d’État, les sociétés d’État qui produisent des matières
+premières, des machines, puis il décide du prix de ces machines, et du coup il
+va décider du coût de production. S’il n’arrive pas à calculer ses coûts, il ne
+va pas pouvoir faire cet arbitrage coût-avantage. Il ne va donc pas pouvoir
+avoir cette rationalité économique qui est nécessaire pour tous les choix
+collectifs. Mises conclut que le socialisme ne peut pas prétendre à la
+rationalité économique parce que, s’il est capable de vérifier que ce qu’il
+produit répond ou non à des besoins de la population — parce que la population
+va plus ou moins acheter ce qu’il produit —, il est en revanche incapable de
+savoir quel est le coût de production de ce qu’il produit, le coût réel, parce
+que le coût est le produit d’un système productif complètement enchevêtré
+d’entreprises d’État.
+
+Les gens qui soutenaient le système socialiste ont répondu à Mises en disant : «
+Ce n’est pas complètement vrai, parce qu’on pourrait concevoir qu’un État simule
+des marchés, essaie de calculer combien coûte chaque chose qu’il produit en
+essayant de simuler une forme de marché pur et parfait, où on aurait des offres
+et des demandes. Ainsi, grâce à cela, on pourrait calculer mathématiquement
+combien coûteraient les choses qu’on produit. » Remarquons que cette réponse à
+Mises est assez intéressante et en même temps un peu bizarre, parce que le
+socialisme avait vocation, au départ, à ne plus laisser les décisions dans le
+marché, c’est-à-dire à ce que ce soit la politique et non le marché qui décide
+des choses. Mises dit : « S’il n’y a plus de marché, alors on ne sait plus ce
+que valent les choses. » Les socialistes disent : « On va simuler un marché. »
+Ce qui va finir par entraîner le fait que les chefs d’État, le politique,
+n’auront plus la main sur le calcul, parce que les prix reviendront à des prix
+de marché. La réponse qu’ils faisaient, c’est : « Oui, mais ça sera des vrais
+marchés, des marchés purs, des marchés non manipulés par les capitalistes. »
+Donc ils auront des prix bien plus pertinents que dans le système capitaliste,
+dans lequel la concurrence n’est jamais parfaite, dans lequel les relations de
+pouvoir sont totalement biaisées, et où finalement ce n’est jamais le vrai
+marché qui décide des prix, mais les grands capitalistes. En quelque sorte, pour
+comprendre les coûts, comme on n’a plus de marché, organisons une simulation de
+marché avec des mathématiques, avec des économistes qui soient des
+mathématiciens, qui récupèrent l’information sur le terrain, qui essaient de
+calculer les coûts réels des choses. Ainsi, le système socialiste marchera, et
+marchera mieux que le système capitaliste, puisque les marchés ne sont jamais en
+concurrence parfaite et que le modèle théorique n’est jamais réellement appliqué
+dans une économie capitaliste.
+
+Là-dessus, il y a un disciple de Mises, Friedrich Hayek, que vous connaissez
+peut-être, mort en 1992, qui a répondu aux réponses en disant que le
+planificateur ne peut pas simuler de marché. Il ne peut pas simuler de marché
+parce qu’il n’a pas accès à l’information réelle. Pourquoi ? Parce que, pour
+Hayek, les agents économiques ont tous une information de la réalité économique,
+mais ils l’ont tous dans leur tête de manière individuelle. Si on essaie de
+comprendre ce qu’est l’information économique, il faut considérer deux formes
+d’information différentes : l’information sous forme de données statistiques, ça
+c’est ce qu’a l’État, et puis des informations beaucoup plus subjectives, des
+connaissances qui sont dans le cerveau des gens, de vous, de moi, et qui sont
+utilisées pour les actes, les choix individuels. Je reviens donc sur le choix
+individuel. À chaque fois que vous faites un choix — ce que vous allez acheter,
+ce que vous allez vendre, ce que vous allez produire —, vous le faites avec vos
+bonnes raisons à vous. Et en fait, nous dit Hayek, c’est parce que les gens font
+des choix individuels qu’ils vont contribuer à réorienter le marché. Si tout le
+monde commence à acheter telle ou telle chose, cette chose va avoir plus de
+valeur, ça va faire augmenter le prix et ça va stimuler une offre. Ce que dit
+Hayek, c’est que le marché est un moment où chacun révèle ses préférences,
+chacun révèle ses connaissances, chacun révèle une partie de son information, et
+le prix de marché va s’ajuster en fonction des comportements d’achat et de
+vente, et va de fait intégrer l’information dispersée dans l’ensemble de la
+population.
+
+Je ne sais pas si vous voyez bien ce que Hayek veut expliquer, mais il dit en
+fait : si vous êtes un État en haut et que vous voulez vous appuyer sur des
+statistiques pour construire et simuler un marché, il va vous échapper tout un
+ensemble d’informations, de connaissances qui sont dans le cerveau des gens et
+qu’on ne retrouve pas dans les statistiques. Or cette information, cette
+connaissance, va se retrouver dans le marché réel, pas le marché simulé, parce
+que chacun va utiliser ses connaissances, son information, pour acheter et
+vendre, et par ce biais agir sur les prix. Pour Hayek, le prix de marché,
+lorsqu’on a un vrai marché, pas un marché simulé, va en quelque sorte agréger
+toutes les connaissances et toutes les informations disponibles dans les
+sociétés. Les décisions du planificateur, s’il n’a pas accès à un marché réel,
+ne peuvent donc pas être efficaces, parce qu’il va être à moitié aveugle, il ne
+va pas voir tout un ensemble de réalités, et donc le prix qu’il va construire à
+partir de sa simulation sera un mauvais prix. Le système soviétique, nous dit
+Hayek, ne fonctionnera pas.
+
+En fait, le débat sur le calcul économique en régime socialiste s’arrête là, sur
+la victoire, j’ai envie de dire, des Autrichiens, de Mises et de Hayek, et la
+défaite des socialistes. Ce débat s’arrête en 1945 à peu près, avec le dernier
+article de Hayek, qui dit un peu ce que je suis en train de vous dire.
+Paradoxalement, cette idée — la conclusion du débat — c’est de dire : sans vrai
+marché, on ne peut pas être efficace, on ne peut pas faire de choix collectif
+parce qu’on n’a pas l’information, et donc le système économique ne peut pas
+être efficace. Et là, il y a un paradoxe : après la Seconde Guerre mondiale, en
+1945, si on avait des gouvernements très au fait des théories économiques, ils
+auraient été néolibéraux, ils auraient suivi en quelque sorte et auraient
+organisé la société autour des marchés. Mais en 1945, on doit organiser la
+reconstruction. On sort de l’économie de guerre, et l’économie de guerre était
+une économie entièrement contrôlée par l’État, où il n’y avait plus de prix
+libres, où aux États-Unis plus de 90 % des prix étaient contrôlés par l’État,
+par le bureau de contrôle des prix. Il y avait un bureau de contrôle des prix
+pendant toute la Seconde Guerre mondiale aux États-Unis, qui décidait des prix.
+Donc pendant les années 1945-1970, il n’y a pas eu de mise en place de la pensée
+néolibérale. Cette pensée néolibérale est la conséquence de ce débat, et elle va
+se formaliser, mais au départ dans des réseaux d’intellectuels, et attendre 1970
+pour vraiment émerger.
+
+## La formalisation du néolibéralisme
+
+Tout d’abord, à quel moment est-elle vraiment formalisée ? Je vous ai juste
+parlé d’un débat, mais la question du néolibéralisme va aller bien au-delà. Elle
+est formalisée pour la première fois en 1938 dans un colloque, le colloque
+Lippmann, en l’honneur de Walter Lippmann. Lippmann est un journaliste américain
+qui a écrit un livre lui-même très fortement inspiré des idées de Hayek et de
+Mises. Pour Walter Lippmann, Mises et Hayek ont démontré l’impossibilité du
+socialisme. Il va leur rendre hommage — en page 2 du livre, dans les
+remerciements plus précisément, il remercie Hayek et Mises —, mais bizarrement
+il va aussi remercier Keynes, parce que Keynes, du point de vue de Lippmann, est
+aussi quelqu’un qui a démontré que le libre marché sans aucune régulation ne
+fonctionne pas. Ce que Lippmann essaie de faire dans son livre, publié en 1937
+et traduit en français en 1938, c’est de trouver une troisième voie : ni le
+capitalisme totalement dérégulé, ni le socialisme, puisque Mises et Hayek ont
+démontré que ça ne fonctionnait pas. Pour lui, l’une des troisièmes voies, c’est
+sans doute ce que dit Keynes. Je sais que c’est bizarre parce que Keynes va
+beaucoup s’opposer aux néolibéraux, et les néolibéraux vont beaucoup s’opposer à
+Keynes, mais chez Lippmann, c’est bien ça qu’il a en tête quand il écrit son
+livre. Lippmann n’est donc pas vraiment l’inventeur du néolibéralisme. Il
+synthétise les grandes idées de son temps, puisque le débat sur le socialisme
+est dans sa phase finissante, mais il existe à ce moment-là. Le livre de Keynes
+a été publié deux ans plus tôt. Cette réunion des penseurs libéraux a aussi un
+aspect fondateur : elle va se perpétuer après la Seconde Guerre mondiale sous
+une autre forme, la forme de la Société du Mont-Pèlerin, que vous connaissez
+peut-être, constituée en 1947, et qui va durer. Après la Seconde Guerre
+mondiale, le colloque Lippmann n’a pas pu donner suite, mais Hayek, qui était
+présent à la première réunion de 1938, va s’en inspirer pour fonder ensuite,
+avec d’autres, la Société du Mont-Pèlerin. Leur objectif est de défendre le
+libéralisme et de le faire en réunissant des intellectuels d’obédiences
+différentes : pas au niveau de leurs idées, mais au niveau de leurs origines
+disciplinaires. On va avoir bien sûr des économistes, des philosophes, et puis
+d’autres disciplines.
+
+Cette pensée néolibérale, qu’est-elle exactement ? J’ai dit au départ que chez
+Lippmann, il y avait l’idée de faire une pensée néolibérale proche de celle de
+Keynes. Mais à mon avis, il n’a pas bien compris Keynes. Ce qui va advenir dans
+la Société du Mont-Pèlerin et chez ses penseurs néolibéraux, c’est quelque chose
+de très différent et de très critique vis-à-vis de la pensée keynésienne.
+
+Le cœur du néolibéralisme, et pourquoi il est néo, pourquoi il se distingue du
+libéralisme classique, c’est qu’il va avoir une vision du marché très différente
+de celle des économistes du XIXe siècle. Pour les économistes du XIXe siècle,
+pour quelqu’un comme Adam Smith par exemple, le marché est un lieu d’échange. Sa
+fonction, c’est de permettre aux individus d’échanger le mieux possible. Le
+marché conçu par les libéraux classiques est un endroit où on échange. Le marché
+conçu par les néolibéraux est totalement autre chose. Vous l’avez compris,
+l’objectif du marché pour un néolibéral, c’est de déterminer la valeur des
+choses, c’est de créer des prix. Parce que c’est ça la question fondamentale qui
+anime les néolibéraux : comment fait-on pour faire des choix collectifs ? Il
+faut des prix. Les prix doivent être objectifs, ils ne doivent pas être décidés
+par moi et en même temps je prends la décision. Il faut donc un marché qui va
+déterminer des prix pour que les décisions soient légitimes. Le rôle premier du
+marché pour les néolibéraux, à l’inverse des libéraux, n’est pas tant
+d’organiser des échanges que de déterminer des prix. On le verra d’ailleurs plus
+tard quand on verra sa mise en œuvre.
+
+La deuxième différence fondamentale entre les libéraux et les néolibéraux, c’est
+que le marché, pour les néolibéraux, n’est pas une institution naturelle. Adam
+Smith disait que ce qui est au cœur de l’être humain, de l’individu, c’est sa
+propension à échanger. Il disait : « On n’a jamais vu un chien échanger un os.
+Les animaux ne font pas d’échange. Ce qui est le propre de l’homme, c’est
+justement d’échanger », avec derrière la notion de propriété. Pour Adam Smith,
+le propre de l’homme était vraiment l’échange. Le marché est le prolongement de
+l’échange. Pour Smith, il était normal que les marchés apparaissent dans une
+société humaine, et donc il n’y avait pas tellement de questions à se poser à ce
+niveau-là. Le marché était l’incarnation de l’être humain en société. C’était
+anthropologique. En fait, on sait aujourd’hui que ce n’est pas le cas du tout.
+Au début du XXe siècle, quand les néolibéraux se réunissent, ils comprennent que
+la vision de Smith était trop naïve et qu’en réalité les marchés n’existent que
+dans un contexte social et politique très particulier. Le marché peut
+disparaître, et donc il a besoin d’un État, il a besoin d’institutions. Si le
+marché n’est pas une institution naturelle, il faut l’organiser. Ce qui va être
+spécifique des néolibéraux, c’est qu’ils vont penser que l’État est nécessaire
+au marché. L’État doit l’organiser et doit créer et soutenir les institutions
+qui vont le faire fonctionner correctement. D’ailleurs, la métaphore que les
+néolibéraux adorent utiliser, c’est la métaphore du code de la route. Ils disent
+: voilà, il y a trois systèmes. Le système libéral classique, le laisser-faire,
+auquel ils s’opposent, c’est : je laisse tout le monde utiliser sa voiture comme
+il veut ; bien sûr ce sera le chaos, il y aura des accidents, la route sera très
+dangereuse. Le système socialiste, c’est : je vais dire à chacun à quelle heure
+il doit sortir, utiliser la voiture, quelle route il doit prendre ; là, ça
+atteindra aux libertés fondamentales des gens de se déplacer. Donc ils disent :
+le laisser-faire en matière routière ne peut pas fonctionner, c’est l’anarchie,
+le chaos. Le socialisme en matière de circulation routière, ce serait l’absence
+de liberté. Donc le néolibéralisme, c’est quoi ? C’est le code de la route. Je
+ne dis pas aux gens à quelle heure ils doivent prendre leur voiture ni quel
+itinéraire ils doivent emprunter, mais par contre je mets des feux rouges. Ça
+veut dire aussi que l’État fait un certain nombre de règles : la priorité à
+droite, on roule à droite, etc. Et puis je crée aussi des infrastructures pour
+que les gens puissent se déplacer correctement. Je mets des feux rouges, des
+ronds-points, des places de stationnement. J’interdis, je mets des policiers
+pour surveiller. La vision de l’État des néolibéraux, c’est une vision de l’État
+arbitre, de l’État qui va créer un code et le faire respecter. Cette idée, c’est
+que justement le marché n’est pas quelque chose de naturel. Il a besoin
+d’institutions, d’un cadre, et c’est à l’État de créer ce cadre pour que le
+marché fonctionne. Donc les néolibéraux s’opposent au laisser-faire. Ce qui est
+intéressant, c’est que quand on lit Hayek, il le dit plusieurs fois : les gens
+qui proposaient le laisser-faire ne comprenaient rien au problème. Le
+laisser-faire n’est pas une réponse suffisante. Il faut organiser les choses. On
+va retrouver d’autres économistes comme les ordolibéraux, qui vont être en fait
+des néolibéraux parce qu’ils vont dire exactement la même chose. Tout ce petit
+monde va toujours dire pareil. Friedman va expliquer que le rôle de l’État est
+central. L’un des éléments très importants, c’est par exemple de réguler la
+concurrence, d’avoir des autorités de régulation de la concurrence. Parce que si
+on n’a pas ça, la concurrence peut disparaître. Le problème, c’est que si la
+concurrence disparaît, il n’y a plus de prix de marché. Les prix sont décidés
+par l’entreprise en concurrence, enfin l’entreprise en monopole. L’entreprise
+monopolistique va décider de son prix. Donc il n’y a plus de prix de marché,
+plus de calcul économique, plus d’objectivité dans le prix.
+
+Le néolibéralisme est donc une doctrine, un système de représentation cohérent
+qui doit permettre aux gens de faire des choix et notamment à l’État de mettre
+en place des politiques publiques. La doctrine, ce n’est pas la théorie. La
+doctrine a une vision applicative. Elle cherche à coordonner l’action. La
+théorie cherche juste à comprendre les choses. Le principe du néolibéralisme
+ici, c’est juste de trouver une manière qui permet aux individus et aux
+responsables politiques de faire des choix cohérents dans le temps et efficaces.
+Pour résumer la doctrine néolibérale : on a besoin de marchés libres pour
+déterminer la valeur des choses. Sans cela, on ne peut pas faire de calculs
+économiques. Et donc on a besoin de l’État pour organiser le marché de manière à
+ce que le marché détermine bien de bons prix. L’État qui organise le marché,
+c’est comme le code de la route, mais encore plus complexe, parce qu’on ne doit
+pas juste décider des règles, on doit les faire respecter. On doit imposer des
+institutions comme les autorités de la concurrence. On doit faire respecter le
+droit de propriété, etc. S’il n’y a pas d’État, il n’y aura pas de marché. C’est
+la philosophie de base des néolibéraux.
+
+Cette philosophie est créée dès 1938 et elle n’est pas mise en œuvre. Elle sera
+mise en œuvre à partir des années 1970. Pourquoi n’est-elle pas mise en œuvre
+pendant les Trente Glorieuses ? Parce que le système a l’air de bien fonctionner
+comme ça. Après la Seconde Guerre mondiale, on avait une économie quasiment
+totalement administrée. On devait financer et organiser la reconstruction. On se
+dit : on ne va pas laisser le marché faire ça. On va l’organiser nous-mêmes.
+Parce qu’il y a de toute façon le système soviétique qui a un concurrent fort et
+qui a l’air de bien fonctionner. Donc on se dit : finalement, ce que disent les
+néolibéraux, ce n’est pas vrai. L’Union soviétique ne s’est pas effondrée. Il
+faut comprendre que Mises, quand il écrit en 1920 sa critique du socialisme,
+pense sincèrement que le système socialiste soviétique va s’effondrer très vite.
+Or non seulement il a réussi à vaincre l’Allemagne nazie, mais ensuite il arrive
+à organiser la reconstruction, et finalement il n’apparaît pas si faible que ça.
+Il commencera à apparaître beaucoup plus faible dans les années 1980, mais on
+est encore dans les années 1950 et 1960.
+
+En fait, ce qui va faire émerger le néolibéralisme… D’abord, excusez-moi, je
+dois dire un truc avant : dans la théorie, le néolibéralisme continue d’exister.
+Il faut distinguer la pratique des gouvernements, qui n’est pas du tout
+néolibérale, et la pensée des économistes. En 1970, tous les économistes
+mainstream, j’ai envie de dire, sont complètement persuadés que dans la théorie
+ça fonctionne et que Mises et Hayek ont gagné le match, si je puis dire, et donc
+qu’on a besoin de marché pour déterminer des prix. À tel point qu’en 1970, un
+économiste prix Nobel, Eugene Fama, écrit un article dans lequel il va définir
+l’efficience — donc l’efficacité — d’un marché financier comme un marché dans
+lequel les prix de marché reflètent parfaitement l’ensemble de l’information
+disponible. Vous voyez : quand un futur prix Nobel écrit l’article de référence
+qui va le faire connaître et définit l’efficience des marchés financiers comme
+étant des marchés dans lesquels les prix reflètent l’ensemble de l’information
+disponible, on est complètement dans Hayek. La pensée économique évolue en
+parallèle et continue de dire, au cœur de sa pensée, que les marchés servent à
+déterminer des prix efficaces pour coordonner les agents.
+
+Mais ils n’arrivent pas à convaincre les politiques. Ils vont convaincre les
+politiques à partir de 1971, avec l’effondrement du système de Bretton Woods. Le
+système de Bretton Woods, c’est un système financier international qui était
+fondé justement sur un contrôle des parités des monnaies. Un contrôle des
+parités des monnaies veut dire que le dollar avait une certaine valeur en or, et
+puis le franc avait une certaine valeur en dollar. Donc les changes, les taux de
+change des monnaies, étaient dits fixes. C’est très important parce que ça veut
+dire que le prix le plus important, le prix de la monnaie, était décidé
+politiquement. Ce n’étaient pas les marchés qui déterminaient les valeurs des
+monnaies, c’était le FMI, le Fonds monétaire international, dans lequel les gens
+se réunissaient ; quand on voulait dévaluer sa monnaie de plus de 10 %, il
+fallait un accord des autres membres du FMI. C’était très encadré. Cet
+encadrement des taux de change les uns par rapport aux autres avait aussi des
+encadrements des systèmes financiers internationaux, puisque chaque pays avait
+son système financier national, et quand on voulait faire circuler de l’argent à
+l’international, sortir de l’argent ou faire rentrer de l’argent, il y avait un
+contrôle des changes. Les flux financiers, les flux de capitaux, étaient
+contrôlés par le politique. Il n’y avait pas de marché mondial des capitaux
+jusque 1971. L’effondrement de Bretton Woods — je ne vais pas revenir sur ses
+causes, ce serait trop long — va entraîner un changement radical de politique
+économique en matière de marchés financiers. Ça va entraîner premièrement la
+libéralisation financière. On va revenir en arrière sur le contrôle des changes
+; les taux de change des monnaies entre eux vont être libéralisés. On va sortir
+des changes fixes pour rentrer dans des changes flexibles ou quasiment. On va
+permettre aux capitaux de circuler librement d’un pays à l’autre. On va créer
+finalement une mondialisation financière, et puis on va créer aussi une
+mondialisation marchande. Ça va commencer dès les années 1970, mais ça va
+surtout émerger avec la création de l’OMC en 1995. Ça va aller lentement au
+départ, puis ça va s’accélérer dans les années 1980-1990. Il va y avoir la mise
+en place de nouvelles institutions partout dans le monde, dans le monde en voie
+de développement avec les injonctions du Fonds monétaire international et de la
+Banque mondiale ; dans les pays développés, notamment avec l’apparition,
+l’émergence de Thatcher en Angleterre et de Reagan aux États-Unis, et puis avec
+l’Union européenne, notamment après la signature de l’Acte unique en 1986. Donc
+dans les années 1970, 1980, 1990, ça va encore se prolonger dans les années 2000
+en réalité, mais l’essentiel va être accompli au début des années 2000. On va
+mettre en place des institutions néolibérales.
+
+Des institutions néolibérales, ça veut dire quoi ? Libéralisation des marchés.
+Arrêter d’encadrer trop fortement les marchés financiers, mais pas que, plein de
+marchés. Création d’un système de marché fondé sur la logique du prix de marché
+en concurrence, donc création des autorités de régulation de la concurrence. Et
+puis mondialisation, ouverture des frontières, parce que plus les marchés sont
+étendus, plus ils sont efficaces du point de vue de leur capacité à créer des
+prix. Donc on est passé de systèmes où beaucoup de prix étaient régulés par
+l’État vers un système où l’essentiel des prix sera maintenant régulé par les
+marchés, sous la supervision des États. Mais l’État change de rôle. Ce n’est
+plus un État producteur, ce n’est plus un État qui va déterminer les prix, qui
+va déterminer les valeurs des monnaies, les taux d’intérêt, etc. Maintenant, par
+exemple, le taux d’intérêt sera déterminé par une banque centrale indépendante.
+Trois exemples : la disparition des changes fixes, donc maintenant les valeurs
+des monnaies sont décidées par les marchés ; la suppression du financement des
+déficits publics par les banques centrales, ça commence dans les années 1970,
+donc c’est les marchés financiers qui déterminent le coût de l’argent pour
+l’État ; et puis un autre exemple qu’on a vu récemment, dont on a vu récemment
+les conséquences, la libéralisation des services publics, du ferroviaire, de
+l’aviation, etc. Avant, comme c’était une entreprise publique en monopole qui
+décidait des prix des trains, c’était l’État qui décidait des prix des trains.
+Maintenant, c’est le marché, c’est de fait un service marchand. Le dernier
+exemple que je voulais prendre, parce qu’il est assez symptomatique, c’est la
+libéralisation et la mise en concurrence dans l’électricité. L’électricité est
+très importante parce que c’est vraiment un bien de production. L’électricité,
+bien sûr, c’est un bien de consommation : nous, on achète l’électricité, mais
+c’est surtout les entreprises qui payent leur électricité. Quand l’État
+contrôlait le prix de l’électricité, il contrôlait les coûts des entreprises.
+Maintenant c’est interdit. Maintenant l’État n’a plus prise sur le prix de
+l’électricité. C’est pour ça qu’on a fait le chèque énergie, parce qu’on ne
+savait plus contrôler le prix de l’électricité dans le marché européen de
+l’électricité. C’est typiquement une institution néolibérale. Elle a été mise en
+œuvre dans les années 2000 parce qu’il y a eu beaucoup de réticences pour
+libéraliser le marché de l’électricité. Les marchés de la téléphonie, ça s’est
+fait très tôt ; l’aviation encore plus tôt ; et puis les derniers, les plus
+difficiles, c’est le ferroviaire et l’électricité, mais on a fini par s’y
+mettre.
+
+Je suis en train de vous raconter comment, à partir de cette… Je résume un peu
+parce que je sais que c’est un peu dense. Souvenez-vous : on commence par dire
+que la question, c’est quel est le choix ? Comment fait-on des choix collectifs
+? Il faut des prix de marché. Si on n’a pas de prix de marché, on ne peut pas
+faire des choix et des calculs pertinents. Donc on décide, on pense ça, on
+conçoit l’État comme un régulateur du marché et les marchés comme des
+processeurs de prix. Puis vient la Seconde Guerre mondiale et les Trente
+Glorieuses. On met cette théorie de côté jusqu’à ce qu’il y ait la crise de
+Bretton Woods, et puis la crise pétrolière, on pourrait rajouter ça. Donc les
+néolibéraux sortent du bois et disent : « Regardez, la solution à tout, c’est
+d’organiser un État qui soit moins producteur, qui contrôle moins les prix et
+qui laisse les marchés décider des prix. » C’est la création des institutions
+néolibérales. En 2000, on peut dire, à la fin de l’ère Clinton, voilà, on a
+enfin créé le monde que voulait Hayek, et Hayek en particulier : un monde
+néolibéral fondé sur la concurrence, dans lequel les États deviennent assez
+impuissants à agir vraiment sur les prix et donc sont obligés de faire des
+chèques énergie. Ce système va durer huit ans parce qu’en 2008 il va s’écrouler.
+
+## La crise de 2008 et la fin du néolibéralisme
+
+Pourquoi s’écroule-t-il en 2008 ? C’est important, parce qu’en fait les gens
+n’en ont pas conscience. Il y a eu la crise de 2007-2008. La crise de 2007-2008
+relève de quoi ? Bien sûr, on a spéculé, on a titrisé, tout le monde — enfin
+ceux qui s’intéressent un peu à la crise des subprimes — sait qu’on a prêté à
+n’importe qui, qu’il y a eu des malversations. Mais en fait, ce qui s’est passé,
+et comment on a résolu cette crise… Là aussi, je ne vais pas y revenir parce que
+sinon on en a pour une heure, et je suis déjà un peu lent. Je regarde l’heure
+quand même. Bon, ça va, rassurez-vous, on va y arriver. Mais il s’est passé un
+truc assez intéressant du point de vue de la théorie économique : il y a eu une
+crise de confiance majeure sur des titres adossés, des titres financiers adossés
+au marché immobilier américain. En gros, il y a une crise immobilière aux
+États-Unis. Mais cette crise immobilière a eu des conséquences sur des titres
+financiers que les banques américaines avaient vendus partout dans le monde. Des
+titres, donc des actifs financiers, des obligations parfois, que beaucoup de
+gens avaient rachetés. Pas vous et moi, mais vos banquiers, vos assureurs, voire
+des municipalités, avaient acheté ces titres financiers. Tout d’un coup, on
+s’aperçoit qu’il y a cette crise immobilière et ça crée une perte de confiance à
+l’égard de ces titres. Il faut comprendre qu’il n’y avait pas que quelques
+titres qui avaient été vendus comme ça. Il y avait des centaines de millions de
+titres avec des valeurs parfois élevées. On avait pour l’équivalent de centaines
+de milliards de dollars de titres financiers adossés au marché immobilier
+américain, qui existaient maintenant dans le monde entier. Quand les gens se
+sont aperçus que ces titres étaient risqués alors qu’ils pensaient qu’ils
+n’avaient aucun risque, il y a eu un effondrement de la confiance. Et quand il y
+a en général un effondrement de la confiance, il y a une conséquence : les gens
+arrêtent d’acheter. Les titres subprimes, mais plus largement tous les titres
+financiers adossés au marché immobilier américain, n’ont plus trouvé aucun
+acheteur. Plus personne ne voulait les acheter. Ça ne veut pas dire qu’ils
+n’avaient aucune valeur, mais les gens n’étaient pas prêts à prendre des
+risques. C’était l’incertitude. Vous voyez le problème : si plus personne
+n’achète quelque chose, il n’y a plus de transaction. S’il n’y a plus de
+transaction, il n’y a plus de prix de transaction. Et donc s’il n’y a plus de
+prix de transaction, il n’y a plus de prix.
+
+Je ne sais pas si vous vous souvenez, pour les plus anciens d’entre vous, la
+crise des subprimes a commencé à être évoquée en France, enfin dans les grands
+médias, en août 2007, avec la suspension par la BNP de trois fonds
+d’investissement. On dit : « La BNP suspend. » Qu’est-ce que ça veut dire,
+suspendre ? Ça veut dire que les personnes qui avaient souscrit à ces fonds ne
+pouvaient plus retirer leur argent. Si vous êtes un peu curieux — je l’ai repris
+dans le livre —, vous retrouverez sur le site de la BNP le communiqué de presse
+qui a été fait par la BNP. Si vous voulez, je pourrais vous le lire parce que je
+l’ai là-dedans, mais là je ne l’ai pas de mémoire. En gros, ce que dit la BNP à
+ses souscripteurs, donc à ses clients, c’est : en raison de l’illiquidité du
+marché, nous ne pouvons plus évaluer la valeur de ces fonds et donc nous sommes
+obligés de les suspendre. L’illiquidité du marché, c’est un mot technique qui
+veut dire : on ne peut plus rien vendre, il n’y a plus d’acheteurs. Donc c’est
+bien liquide, ça se fige. La liquidité, ça fiche… enfin, quand c’est figé,
+liquide. Bon, ça se fige, il n’y a plus personne qui veut acheter ces titres.
+Donc je ne peux plus savoir combien ça vaut. C’est ça qu’elle dit : on ne peut
+plus calculer la valeur des parts que vous avez souscrites parce qu’il n’y a
+plus de prix de marché. Ça ne veut pas dire que ça n’a plus aucune valeur, mais
+comme il n’y a plus de marché, il n’y a plus de prix. Et ça, les néolibéraux n’y
+ont jamais pensé. Ils n’ont jamais pensé que si on dit que les marchés doivent
+créer des prix, alors quand le marché disparaît, il y a des trucs qui n’ont plus
+de prix. Ça pose un vrai problème. Ça a été une énorme crise.
+
+Pourquoi était-ce une énorme crise ? Parce que, comme je l’ai dit, il y avait
+des centaines de milliards d’actifs adossés au marché immobilier, et les banques
+sont obligées d’avoir des comptes, et elles sont obligées de marquer dans les
+comptes non pas la valeur d’achat de ce qu’elles possèdent. Vous comprenez :
+vous avez une maison — je vois certains d’entre vous, on s’en doute, ont des
+maisons, des appartements —, combien vaut votre maison ? Elle ne vaut pas ce que
+vous avez acheté, pas le prix que vous avez payé, elle vaut le prix du marché.
+Il y a plein de gens — je suis sûr que vous avez parfois fait venir des agences
+immobilières pour évaluer votre maison, même si vous ne vouliez pas vendre,
+parce que ça rassure. Moi je l’ai fait. On se dit : tiens, j’ai acheté cette
+maison combien ? Elle m’a coûté 180 000 €. Là, je fais venir… ils mettent plein
+de prospectus, évaluation gratuite et tout. Au bout d’un moment j’en ai marre.
+Je me dis : faisons venir un agent immobilier pour voir combien vaut ma maison.
+Puis s’il me dit : votre maison vaut 220 000 €, ben je me dis : chouette, j’ai
+gagné 40 000 €. Ne montez pas, on est tous un peu comme ça. On sait que la
+maison qu’on a vaut non pas le prix qu’on l’a achetée, mais le prix réel qu’elle
+vaut, le prix auquel on pourrait la vendre si on avait envie de la vendre. Comme
+on l’aime bien, on ne la vend pas, on aime bien savoir quand même. Bref.
+
+Dans les comptes des entreprises, c’est pareil. Quand on veut évaluer les titres
+qu’on a achetés, les titres adossés au marché immobilier, on est obligé de
+savoir combien ça vaut. Si on l’a acheté, je ne sais pas, on a mis 100 millions
+d’euros dans ces titres, mais qu’il n’y a plus de prix de marché, alors combien
+ça vaut ? En fait, on ne peut pas marquer zéro sur les comptes, parce que si on
+marque zéro, on est en faillite, parce qu’on fait des pertes énormes. Si c’est
+100 millions d’euros pour une grande banque, ça va. Si vous perdez 50 milliards,
+ça ne va plus du tout. Le problème, c’est qu’à cause de la disparition du prix
+des titres adossés au marché immobilier américain, tout un ensemble de banques
+étaient sur le point de faire faillite. Bien sûr, elles mettaient zéro sur leur
+compte, mais ça n’avait pas du tout envie de le faire, parce que ce n’est pas
+parce que maintenant il n’y a plus de marché que peut-être dans un mois il y
+aura un marché. Mais en fait, ce qui s’est passé, c’est que le marché s’est
+quand même effondré. On ne pouvait plus vendre ces titres, et donc la situation
+a duré comme ça quasiment un an, un peu plus d’un an, jusqu’à la faillite de
+Lehman Brothers. Quand, en septembre 2008, la grande banque d’affaires
+américaine s’effondre, là tout le monde a peur. Tout le monde se dit : « Mais en
+fait, si ça se trouve, il y a des risques qui s’ajoutent au risque. »
+C’est-à-dire que non seulement les titres que j’ai, peut-être que je ne sais pas
+combien ils valent, peut-être qu’ils ne valent plus rien, mais en plus j’ai
+prêté à mon broyeur qui s’effondre. Donc il va falloir que j’ajoute ces pertes
+aux pertes. Là, on arrive à une crainte énorme dans le système financier
+américain, qui est la crainte de la faillite systémique, c’est-à-dire que les
+banques fassent faillite les unes après les autres. Bien sûr, c’était très
+mauvais pour le climat des affaires, c’est très mauvais pour l’économie
+américaine, et donc il fallait empêcher un effondrement de tout le système
+bancaire.
+
+Il faut savoir, pour la petite histoire, que si tout le système bancaire
+s’effondre, vous perdez tous vos économies, parce que vous êtes tous créanciers
+de vos banques. Je vous rappelle : vous croyez que c’est la banque qui vous a
+prêté, mais en fait non, vous aussi vous prêtez à la banque. Le compte bancaire,
+c’est un solde en votre faveur qui est marqué. Ça veut dire que vous avez prêté
+à la banque. Si la banque fait faillite, vous ne récupérez pas votre argent.
+Donc si le système bancaire américain s’effondre, vous voyez qu’on est un peu
+dans la merde. On ne sait pas trop quoi faire. Qu’est-ce qu’il fallait faire ?
+Qu’est-ce qu’on a fait ? On a fait la seule chose qui était à faire : on a
+recréé des prix. Comment fait-on pour recréer des prix ? On rachète les titres
+que plus personne ne veut. Le plan Paulson de 700 milliards de dollars, mis en
+place juste après la faillite de Lehman Brothers, est un plan de rachat des
+actifs des banques, ce qui permet de leur redonner des prix, ce qui permet du
+coup d’inscrire quelque chose qui ne soit pas zéro dans le bilan des banques, ce
+qui permet de faire en sorte que les banques ne fassent plus faillite. L’État
+américain commençait à racheter plein de titres. Après, les gens se sont dit : «
+Mais attendez, vous êtes en train de racheter des titres sans valeur, c’est un
+scandale, vous sauvez les banques. » Ce n’est pas faux. De notre côté, on veut
+sauver les banques pour sauver les économies des gens aussi. Donc changement de
+stratégie : l’État américain ne va plus racheter des titres financiers adossés
+aux marchés immobiliers, mais il va juste racheter des parts de banques,
+racheter des parts sociales en quelque sorte, pour renflouer les banques
+autrement. Mais du coup se pose le même problème : combien ça vaut, les parts
+sociales ? Et surtout, maintenant, s’il n’y a plus personne pour acheter des
+titres immobiliers risqués, on se retrouve devant le même problème. C’est là
+qu’en novembre 2008, une autre idée géniale : puisque c’est compliqué que l’État
+rachète des titres financiers, on demande à la banque centrale américaine de le
+faire. La banque centrale américaine a commencé à racheter les titres à la place
+de l’État. Du coup, même problème, mais au contraire, parce que ça ne coûte rien
+au contribuable. La banque centrale peut émettre de l’argent tant qu’elle veut.
+Elle a racheté les titres financiers qui étaient risqués, les titres adossés au
+crédit immobilier. En les rachetant, elle leur donne un prix. Du coup, tout le
+monde est rassuré. Tout le monde sait que ces titres, il peut les revendre au
+prix négocié à la banque centrale. Le système réémerge. Vous voyez que là, on a
+fait un truc complètement contradictoire avec la théorie néolibérale : on a
+recréé des prix.
+
+Ça a bien marché. Ça a tellement bien marché que la banque centrale a continué
+d’acheter des actifs financiers sur les marchés, parce qu’après la gestion de la
+crise aiguë financière, il y avait un autre problème : la faillite de General
+Motors, la relance de l’économie américaine, parce que tous ces mois de crise
+bancaire ont entraîné un effondrement de l’activité économique. Là, Barack
+Obama, en novembre 2008, est élu et veut relancer la machine économique, et donc
+il a besoin d’emprunter beaucoup d’argent. Mais si l’État emprunte beaucoup
+d’argent — souvenez-vous —, c’est les marchés financiers qui déterminent le prix
+de l’argent pour l’État. C’est ça, l’une des institutions néolibérales qu’on a
+mises en place. Comme les gens n’avaient plus tellement confiance dans l’État
+américain, comme General Motors était en faillite, Obama allait devoir payer
+très cher pour emprunter et sauver General Motors. Mais maintenant, comment
+sait-on ce qu’il faut faire ? La banque centrale arrive. Qu’est-ce qu’elle a
+fait ? Elle est intervenue sur le marché financier pour faire baisser les taux
+d’intérêt, et ça a super bien marché. C’est ce qu’on appelle le quantitative
+easing, l’assouplissement quantitatif. La banque centrale américaine a commencé
+à manipuler les prix des actifs financiers et notamment des obligations d’État
+pour faire baisser le taux d’intérêt auquel l’État américain emprunte. Voilà. Je
+peux donc expliquer que finalement le néolibéralisme n’existe plus à ce
+moment-là. Mais continuons.
+
+Ça marche tellement bien pour les États-Unis que la Banque d’Angleterre fait
+exactement la même chose. Elle décide de faire un plan de relance, et pour ce
+plan de relance, elle décide de demander à sa banque centrale. Alors elle ne
+demande pas officiellement, parce que la banque centrale est indépendante, mais
+de fait elle le fait. Elle accompagne la reprise et l’emprunt du gouvernement
+britannique par le rachat massif d’obligations d’État. Si vous voulez, je peux
+vous expliquer comment ça fonctionne, mais en gros le quantitative easing fait
+baisser les taux d’intérêt et permet à l’État britannique de se financer. Puis
+l’Union européenne, la Banque centrale européenne, résiste à l’époque, elle est
+encore dirigée par Jean-Claude Trichet, puis ensuite c’est Mario Draghi qui
+arrive. Il n’y a pas d’unanimité là-bas, parce que le néolibéralisme est quand
+même très ancré dans l’idéologie de la Banque centrale européenne. Donc il n’est
+pas question de manipuler les cours et d’intervenir. Et puis, jusqu’à ce que,
+dès 2012, il y ait la crise de l’euro. Là, la Banque centrale européenne se rend
+compte que la crise de l’euro, c’est quoi ? Des taux d’intérêt trop élevés pour
+les pays d’Europe du Sud, qui créent un système où ils sont quasiment en
+faillite. Du coup, si vous voulez faire baisser les taux d’intérêt, il faut
+manipuler les cours. Donc hop, quantitative easing à partir de 2015, et là on a
+résolu le problème. En fait, la Banque centrale européenne a elle aussi fait ce
+que toutes les autres banques centrales avant elle ont fait : elle a commencé à
+manipuler les cours en intervenant sur les marchés financiers pour faire baisser
+les taux d’intérêt, pour sauver la Grèce, l’Italie, etc.
+
+Le paradoxe de cette… Je continue. Pour moi, c’est la fin du néolibéralisme.
+Pourquoi ? En tout cas, c’est le début de la fin. Parce que les marchés
+financiers, c’est vraiment au cœur de la pensée des néolibéraux. S’il y a bien
+un truc qui doit être organisé par les marchés, c’est bien les marchés
+financiers. La finance. S’il y a un truc que l’État, dans la logique
+néolibérale, ne doit pas manipuler, c’est bien la monnaie. Et donc la banque
+centrale doit agir pour limiter l’inflation. Or là, on voit bien qu’elle n’a pas
+du tout agi pour limiter l’inflation. Elle a agi pour permettre au gouvernement
+d’emprunter à bas coût. On a donc complètement changé de logique dans les
+banques centrales.
+
+Mais ensuite il y a eu d’autres choses. Il y a eu le Covid en 2020, et là
+manipulation puissance dix : on a doublé les interventions des banques centrales
+pour permettre aux États de continuer d’emprunter à pas cher. Ensuite il y a eu
+la guerre en Ukraine, et là qu’est-ce qu’on a fait ? On s’est mis à contrôler le
+prix du gaz et du pétrole. Il y a eu des accords européens pour dire : « On
+n’achètera pas le pétrole russe plus de 60 dollars le baril. » On a essayé
+d’organiser un approvisionnement sécurisé du gaz en limitant les prix du gaz. On
+s’est mis à dire : « Tiens, ça serait pas mal que maintenant on organise une
+forme de souveraineté dans tous les composants électroniques », parce que la
+Chine était en Covid, en confinement, on n’avait plus de composants
+électroniques pour notre industrie automobile. « Ça serait bien qu’on puisse
+avoir un Airbus des batteries. » On a affaibli la politique de la concurrence.
+On a accordé des aides d’État dans ce qu’on appelait les industries
+stratégiques. En fait, on est déjà en train de sortir complètement de l’idée
+selon laquelle c’est les marchés qui doivent organiser l’économie.
+
+Le paradoxe de tout ça, c’est que dans les faits, les banques centrales ne
+laissent plus les marchés décider des taux d’intérêt. Les gouvernements
+commencent à se dire qu’il faut contrôler des prix. On est en train de penser à
+réformer le marché de l’électricité. On est en train de contrôler les prix du
+gaz et du pétrole. Donc on est en train de revenir à un État qui contrôle les
+prix en pratique. Mais en théorie, on n’a pas changé. En théorie, on a quand
+même Bruno Le Maire et Emmanuel Macron qui disent : « Attention, si on dépense
+trop, les marchés financiers vont nous sanctionner. » Parce qu’ils n’ont
+toujours pas compris que les marchés financiers ont été rendus impuissants par
+la banque centrale. Alors certes, la banque centrale est indépendante, et
+certes, elle pourrait dire un jour : « Finalement, j’arrête de vous soutenir
+parce que vous n’avez pas réformé les retraites. » C’est possible. D’ailleurs,
+c’est ce qui s’est passé : la banque centrale est intervenue pour faire plier le
+gouvernement grec en 2015. Donc la banque centrale n’est pas forcément contrôlée
+par le politique, mais on est dans une forme d’incertitude. En fait, qu’est-ce
+qu’une bonne politique économique ? On ne sait plus. En tout cas, ce qui est
+certain, c’est qu’on ne peut plus faire complètement confiance au marché pour
+décider des prix. C’est ça la grande nouveauté depuis 2008.
+
+## Les défis contemporains
+
+Je conclus, et vous aurez des questions après. Je conclus en vous parlant du
+sujet de la conférence, c’est-à-dire que maintenant on a des défis à remonter.
+La politique économique doit essayer de répondre aux défis contemporains. Quels
+sont ces défis contemporains ? Je les ai listés tout à l’heure en introduction.
+D’abord la question de préserver l’ordre social. Je n’aime pas trop cette
+expression parce qu’on a l’impression qu’il faut un État policier qui va
+maintenir l’ordre. Ce n’est pas ça que je veux dire. Je veux dire qu’il y a une
+crise sociale aujourd’hui, une crise de légitimité de l’État. Elle est
+fondamentale. Dans mon livre précédent, qui s’intitule Populisme et
+néolibéralisme, j’ai essayé de démontrer que les contestations sociales qu’on
+voit apparaître sous la forme de populisme, c’est-à-dire de mouvements de
+contestation de la légitimité de l’État, étaient la conséquence du sentiment
+qu’ont les gens que, quel que soit leur vote, rien ne change, et que du coup ils
+se révoltent contre le système parce qu’ils ont l’impression qu’il est devenu
+impuissant à répondre à leurs attentes. Je pense que vous le mesurez bien. On
+vote Sarkozy, on vote Hollande, on vote Macron, mais en fait rien ne change.
+
+Pourquoi ? D’où vient cette impuissance de l’État ? Ma réflexion — c’était dans
+le livre précédent, mais vous comprenez bien qu’elle est la même que celle que
+je vous ai dite — : si on dit que tous les choix politiques doivent émaner des
+prix de marché sous un calcul coût-avantage, en fait on n’a plus beaucoup le
+choix quand on est responsable politique. Si on ne peut plus agir sur quoi que
+ce soit dans l’économie, on ne peut plus agir sur quoi que ce soit dans le
+politique, j’ai envie de dire. Alors bien sûr, on peut faire le mariage pour
+tous, des trucs comme ça. On peut faire cela, et ce n’est pas rien. On peut
+faire plein de choses, mais pas ce qui touche au système économique. Donc ça
+veut dire que l’État ne répond pas aux attentes économiques des gens. Il peut
+répondre à d’autres attentes, mais pas à celles-ci. Or celles-ci sont
+importantes pour les gens. On le voit de manière caricaturale avec cette crise
+de l’électricité. On nous dit : « Ah bah non, on ne peut rien faire. » Vous
+savez que le coût de production de l’électricité en France, c’est 60 € le MWh.
+C’est le coût de production. Ça coûte ça de produire de l’électricité, d’après
+les calculs qu’on a faits, qu’EDF et d’autres producteurs ont faits. Et on a
+quand même eu Bruno Le Maire dire au boulanger, aux PME et aux TPE : «
+Rassurez-vous, je vais plafonner le prix de l’électricité à 250 € le MWh »,
+alors que ça coûte 60 € de produire, alors qu’on est monté jusqu’à 500 000 € le
+MWh. Vous voyez, c’est un délire complet. L’État nous dit : « Je vous fais une
+fleur en limitant à 250 ce qui coûte 60 à produire. » On arrive à un système
+néolibéral complètement absurde. Évidemment, Bruno Le Maire passe pour un
+guignol pour les gens qui connaissent un peu le dossier. Comment peut-on avoir
+confiance dans un État comme ça ?
+
+Ce que je veux dire par là, c’est que la fin du néolibéralisme est obligatoire
+si on veut que l’État redevienne légitime et que les gens continuent de voter.
+La crise sociale actuelle que nous vivons, la crise de légitimité de l’État, est
+complètement la conséquence du fait que l’État a abandonné tous ses leviers
+d’action en les confiant au marché, en devenant l’arbitre neutre. Mais un État
+ne peut pas être un arbitre neutre. Vous voyez bien le problème : il est au
+service de sa population à la base. L’objectif n’est pas que l’État soit neutre
+et qu’il interfère le moins possible avec le marché. L’objectif, c’est que les
+besoins des gens soient satisfaits. Or on a bien l’impression — et regardez
+tout, quand vous écoutez Bruno Le Maire, vous avez compris que on s’amuse, on
+dit « Bruno demande », oui, il demande aux entreprises, il demande ceci, il
+aimerait bien que… En fait, il démontre par ne serait-ce que ses discours qu’il
+est impuissant, puisqu’il demande. Moi aussi je demande. Mais lui, il a une
+fonction. Il ne devrait pas juste arbitrer avec des calculs coût-avantage, il
+devrait être capable de s’imposer, d’imposer l’État comme un élément du système
+économique et un élément déterminant. Pas juste un observateur qui calcule les
+points, en quelque sorte. Pas juste un arbitre, mais un acteur. Et ça, c’est
+contraire à l’idéologie néolibérale.
+
+Vous voyez, c’est paradoxal parce que le néolibéralisme vise à l’efficacité, il
+vise à démontrer que l’État doit juste venir en soutien d’une démarche
+rationnelle, et en même temps les conclusions de tout ce qui l’amène, c’est des
+systèmes où finalement on ne peut plus rien faire et on a l’impression qu’on
+n’arrive plus à répondre aux attentes des gens. C’est-à-dire qu’on n’arrive plus
+même à l’efficacité qu’on cherchait à la base. C’est ça, le paradoxe du
+néolibéralisme : sur le papier ça marche très bien, et dans la réalité ça ne
+marche jamais. Du coup on a des intellectuels qui continuent de croire en ça
+parce qu’ils étudient le papier, et puis on a des hommes politiques chargés de
+le mettre en œuvre, qui ont été biberonnés par ces théories et qui se retrouvent
+confrontés à l’impuissance. Ils sont donc obligés d’inventer des stratagèmes
+très compliqués pour faire fonctionner quand même le truc, avec des chèques
+énergie par exemple. Il faut comprendre que le chèque énergie est complètement
+dans la doctrine néolibérale, parce que dans la doctrine néolibérale, si les
+résultats du marché ne sont pas bons, il faut faire des compensations. Bien sûr,
+je ne suis pas rentré trop dans le détail, mais l’idée de compenser par des
+chèques, même Friedman et Hayek l’ont théorisée : le résultat d’un marché qui
+certes est efficace mais qui crée beaucoup d’insatisfaction ou trop d’injustice,
+c’est au cœur de la pensée néolibérale. Mais vous voyez, si ici on dit : «
+Allons vers l’efficacité, puis compensons les injustices », en fait les gens ne
+sont pas contents parce qu’ils voudraient que le système soit juste à la base.
+Qu’on n’ait pas besoin de compenser ou de faire l’aumône. Bref. Donc la question
+de la crise sociale nécessite un changement radical de conception du rôle de
+l’État dans l’économie, et donc de sortir du néolibéralisme.
+
+## Souveraineté industrielle et alimentaire
+
+Deuxième élément : la souveraineté industrielle et alimentaire. Parmi les
+grandes transformations du néolibéralisme en Europe, il y a eu la transformation
+de la politique agricole commune. Là aussi, les plus anciens d’entre vous le
+savent peut-être : la politique agricole commune jusqu’aux années 1990 était la
+politique des prix garantis. On garantissait aux agriculteurs de pouvoir vendre
+leur production à un prix. S’ils arrivaient à vendre plus cher, tant mieux pour
+eux. Mais s’ils avaient une surproduction qu’ils n’arrivaient pas à vendre,
+l’État rachetait la production agricole au prix garanti. C’était un truc super.
+Alors, ce n’était pas du néolibéralisme, on est d’accord, puisque les prix
+garantis, ce n’est pas les prix de marché, c’est l’inverse. Ça a permis pendant
+toutes les années 1950 de moderniser considérablement l’agriculture française et
+européenne. Ça a été une politique qui a eu un énorme succès pour faire que la
+France, qui n’était pas souveraine d’un point de vue alimentaire au sortir de la
+guerre, est devenue très vite souveraine et même exportatrice de produits
+alimentaires. Puis dans les années 1990, on a changé le système. On est passé au
+système des prix d’intervention. Ça veut dire que maintenant on laisse les prix
+de marché. Les agriculteurs vendent au prix de marché. Puis quand ça devient
+vraiment trop faible, alors là OK, on intervient sur les marchés pour les
+manipuler, mais on essaie de le faire le moins possible. Et on dit aux
+agriculteurs : maintenant on va vous donner des aides découplées de votre
+production. C’est ce qu’on appelle le découplage. C’est-à-dire qu’on va vous
+donner des aides en fonction de la superficie de votre ferme, de votre
+exploitation, et vous vendrez au prix de marché. La conséquence, c’est un
+effondrement de la production agricole française, parce qu’on est en concurrence
+avec des pays qui ont des systèmes productifs agricoles très très différents du
+nôtre, qui arrivent à vendre beaucoup moins cher. On voit à la fois une baisse
+de rendement, la production agricole qui n’est pas que liée à la destruction de
+la terre avec les phytosanitaires. Bien sûr, c’est en partie lié, mais ce n’est
+pas que ça, parce que d’autres pays comme le Canada ont des rendements qui
+augmentent. Non, le problème, c’est que pour faire face à une concurrence de
+plus en plus dure, les agriculteurs français sont obligés de baisser leurs coûts
+de production. En baissant leurs coûts, ils cultivent moins bien leur terre et
+du coup ils ont des rendements par hectare qui diminuent en France. Ça menace la
+souveraineté alimentaire parce que si on enlève la balance du vin — si on enlève
+le vin, en fait, qui n’est pas vraiment un aliment entre nous —, la valeur des
+exportations est inférieure à la valeur des importations des produits agricoles.
+Donc ça veut dire que la France a perdu sa souveraineté alimentaire dès
+aujourd’hui, et ça ne va pas en s’améliorant. C’est très important parce que le
+jour où on a une crise de transport, une crise du pétrole, on risque de ne plus
+pouvoir manger. Sachez que les trois quarts des céréales, de la destination de
+la nourriture du bétail, du fourrage, sont importés. Ça veut dire que si on
+arrête les importations de fourrages animaux, le soja et autres, les trois
+quarts du cheptel français disparaissent parce qu’il ne peut plus manger. Ces
+choses-là sont extrêmement importantes, et on voit avec la crise du Covid et
+encore avec la guerre en Ukraine que notre système mondialisé est fragile, que
+si on n’a pas des composants ou la nourriture qui importe en France, on peut ne
+pas avoir de quoi s’alimenter. Pour moi, la souveraineté alimentaire est un
+grand défi des 10, 20, 30 prochaines années, et ça va être un grand défi pour la
+France aussi. On voit aussi disparaître tout un ensemble de terres cultivables
+qui se transforment en forêt. Alors, c’est très bien pour l’environnement, mais
+c’est pourquoi les exploitations disparaissent. Elles disparaissent parce
+qu’elles ne sont pas assez rentables. Elles ne sont pas assez rentables parce
+qu’elles sont confrontées à des exploitations beaucoup plus rentables d’autres
+pays, qui ont des terres beaucoup plus efficaces ou qui ont des systèmes
+d’exploitation très différents.
+
+La même chose vaut pour l’industrie. La souveraineté industrielle, c’est aussi
+être capable de produire sur place les éléments fondamentaux de notre industrie.
+Or, on l’a vu, quand on n’a plus d’industrie électronique, on ne peut plus
+produire de voiture. Il y a eu tout un moment où les chaînes de montage étaient
+arrêtées en France et en Europe parce que les composants made in China ou Taiwan
+n’arrivaient plus sur le territoire européen. Là aussi, prise de conscience, et
+prise de conscience que cela nécessite peut-être des droits de douane, peut-être
+des politiques volontaristes, peut-être un contrôle des prix, et donc une
+réintervention de l’État dans l’économie. Là aussi, ça veut dire qu’il faut
+sortir du néolibéralisme.
+
+## Le défi environnemental
+
+Et puis bien sûr, le troisième défi, j’y arrive, c’est le défi environnemental.
+Il y a quand même un paradoxe dans cette histoire que tout doit être organisé
+selon des prix de marché, parce que le prix de marché suppose quand même que
+l’objet dont il est question soit produit. C’est-à-dire que s’il y a une
+augmentation du prix, on puisse augmenter la production. Or les ressources
+naturelles ne sont pas produites, elles sont extraites. Il y a une quantité
+limitée de cuivre dans les mines. Il y a une quantité limitée sur terre de
+lithium. Il y a une quantité limitée de pétrole. On ne produit pas le pétrole,
+on l’extrait de la terre. Ça veut dire que le modèle économique sur lequel tout
+repose est un modèle qui est faux pour les ressources naturelles. On fait comme
+si extraire une ressource naturelle, c’était pareil que la produire. Mais ce
+n’est pas du tout pareil, parce que quand on extrait, on diminue le capital, on
+diminue le stock. Donc un jour, on arrive à quelque chose qui n’est pas
+soutenable. C’est-à-dire qu’au bout d’un moment, quand le stock est épuisé,
+quand la mine est épuisée, on ne peut plus produire. On a beau mettre tout
+l’argent qu’on veut, on ne pourra plus produire du cuivre d’une mine épuisée.
+Mine de cuivre, bien sûr, ou mine de fer, c’est normal. Bref, les ressources
+naturelles ne devraient pas être organisées, coordonnées à partir du coût
+d’extraction uniquement, parce qu’en fait aujourd’hui le prix du pétrole est le
+produit de l’offre et de la demande, mais d’une offre qui n’intègre que le coût
+d’extraction, parce qu’il n’y a pas de coût de production. Le problème, c’est
+que du coup elle n’intègre pas le fait que les champs pétrolifères s’épuisent.
+
+L’autre problème, bien sûr, c’est la question climatique. Comment a-t-on fait ?
+Qu’est-ce qu’on dit, les économistes, pour résoudre le problème climatique ? Ils
+ont dit : faisons confiance au marché. Il y a un petit texte signé par des
+centaines d’économistes, tous prix Nobel, publié en 1997. Enfin, tous les prix
+Nobel, et plein d’autres, je crois des milliers d’économistes dans le monde, qui
+ont un jour publié une tribune pour dire : on ne pourra pas résoudre — en 1997,
+donc en plein néolibéralisme, bien sûr — on ne pourra pas répondre au changement
+climatique sans s’appuyer sur les marchés. Leur théorie a été prise au mot par
+des politiques qui, notamment en Europe, ont créé en 2005 le marché des droits
+d’émission. Vous comprenez bien que du point de vue néolibéral, il y a un
+problème avec le climat, parce que la valeur du climat n’est pas intégrée dans
+le marché. C’est ce qu’on appelle une externalité. En gros, ce qui fait que vous
+allez prendre un taxi et que vous allez brûler du pétrole, c’est que vous avez
+une offre, un coût, c’est-à-dire le prix de l’essence, et puis vous avez une
+demande : combien les gens sont prêts à payer pour une course. Et vous allez
+prendre le taxi. Mais ce que vous n’intégrez pas dans votre coût, c’est le coût
+climatique, le fait que vous avez brûlé du pétrole, donc émis du CO2. Donc il
+faudrait, nous disent les économistes, intégrer dans le prix de la course de
+taxi le coût du climat. Le problème, c’est : combien ? C’est ce qu’on appelle un
+peu le principe pollueur-payeur, ou simplement le coût du carbone. Le coût du
+carbone, ça vaut combien ? Combien ça vaut d’émettre un kilo de CO2 dans
+l’atmosphère en brûlant du pétrole ? En fait, là on se retrouve dans un nouveau
+problème, le problème du néolibéralisme. Parce que là, le coût de l’émission de
+CO2, d’après la théorie néolibérale, doit venir du marché. Qu’est-ce que ça veut
+dire ? La planète ne peut pas être dans un marché. Là, du coup, il y a un bug
+dans la doctrine. Il faut qu’on puisse calculer le coût du carbone, le coût du
+CO2, mais il n’y a pas de marché pour nous dire combien vaut une tonne de CO2
+émise. Du coup, qu’est-ce qu’on a fait en 2005 ? On a créé un marché carbone.
+Exactement. On a créé un marché des droits d’émission. On a dit aux entreprises
+: voilà, on va vous allouer des droits d’émission de tonnes de CO2. Pas toutes
+les entreprises, celles qui émettent beaucoup de CO2 — pas le taxi justement,
+mais il n’est pas question de ça dans ce système. Donc on a dit : voilà, on va
+vous en émettre, et puis vous pourrez échanger en fonction de l’offre et de la
+demande les quotas d’émission que vous n’avez pas utilisés, et si vous avez
+besoin d’utiliser plus de quotas que ceux qui ont été alloués, vous devez les
+racheter sur le marché. On s’est dit : voilà, hop, on a résolu le problème, on a
+un prix du carbone décidé par un marché selon les principes de l’offre et de la
+demande.
+
+Je ne sais pas si vous comprenez à quel point ce truc est horrible du point de
+vue conceptuel, parce qu’en fait on fait semblant d’avoir un prix — enfin on a
+un prix — mais on fait semblant que ce prix veut dire quelque chose, alors qu’il
+ne veut absolument rien dire. Pourquoi a-t-on fait ce système ? Pour ne pas que
+les entreprises payent trop cher, parce que quelle est la valeur du changement
+climatique ? Elle est incommensurable. On ne peut pas calculer. Ça n’a aucun
+sens de vouloir calculer la valeur d’une tonne de CO2 émise. Alors, il y a des
+gens qui se sont amusés à faire ça. Le rapport Stern, en 2006, Nicolas Stern,
+publié en novembre 2006, a essayé d’évaluer le coût du réchauffement climatique.
+Mais c’est absurde. Alors, il est arrivé à des sommes monumentales. Mais bien
+sûr, c’est absurde de vouloir calculer ça, parce qu’en fait on voit la
+disparition d’un écosystème. Combien vaut un écosystème ? On va lui mettre un
+prix, on va dire : voilà, regardez, l’écosystème disparaît, hop, on perd tant.
+Mais en fait, l’écosystème a disparu complètement, ou l’espèce a disparu
+totalement. On ne va pas la remplacer par de l’argent. L’idée de calculer le
+coût du réchauffement climatique est une vue de l’esprit. Quand une espèce
+disparaît, elle disparaît à jamais. On ne pourra pas la reconstruire avec de
+l’argent. On met sur le même plan des choses qui n’ont rien à voir les unes avec
+les autres. Mais pire que ça, le marché du carbone n’a rien à voir avec cette
+évaluation quantitative des coûts, qui par ailleurs est très contestable. Ça
+veut dire que la vraie valeur de l’atome de CO2 ne peut pas être donnée par la
+manière dont les industriels s’échangent des quotas carbone. Elle devrait être
+considérée comme les conséquences du changement climatique, mais on ne peut pas
+les calculer. C’est un peu le serpent qui se mord la queue : on essaie de créer
+un marché à partir de choses qu’on ne peut pas évaluer, pour répondre à des
+choses qu’on ne peut pas évaluer, en laissant les capitalistes décider entre eux
+de combien ils vont s’échanger la tonne de carbone. Évidemment, la tonne de
+carbone est très très peu chère, et du coup le seul effet réel, c’est qu’on
+s’est mis à délocaliser en Chine, puisqu’il n’y a pas de marché du carbone en
+Chine. Voilà l’effet réel.
+
+Maintenant on veut instaurer une taxe carbone aux frontières, mais la valeur de
+la taxe carbone va reposer sur rien. Ça va être un consensus politique. L’idée
+d’intégrer le coût écologique dans le prix n’a juste aucun sens. Ce n’est pas
+parce que vous allez augmenter le prix, même le doubler, même le tripler, que
+vous allez résoudre le problème. Alors bien sûr, ça aura des effets incitatifs :
+les gens vont moins consommer de carburant si le carburant coûte plus cher. Mais
+allons plus loin. Le problème du néolibéralisme, c’est qu’il faut un prix pour
+chaque chose. Un prix qui permet de calculer la valeur. La valeur, c’est
+objectif. C’est-à-dire que c’est la même valeur pour tous. Le prix de l’essence.
+Imaginons que le prix du pétrole aujourd’hui, je ne sais pas, 80 dollars,
+mettons qu’on soit ambitieux, qu’on dise : non, le pétrole, c’est un coût
+climatique exorbitant. Maintenant, ce n’est pas 80 dollars le baril, c’est 1000
+dollars le baril. Soyons fous. Non, mais imaginons. Donc vous multipliez par 10
+le prix de l’essence. Tenez, l’essence est à 2 €, et à 20 € le litre. Là, vous
+allez sentir la politique écologique. Bon. Vous ne pourrez plus prendre votre
+voiture pour aller au travail. L’infirmière qui va voir les gens et qui n’a pas
+le choix que d’utiliser sa voiture pour aller faire du soin à domicile — je vous
+garantis que si c’est 20 € le litre, elle arrête de faire ça. Les gens meurent,
+du coup. Enfin, je veux dire, c’est ça les conséquences. Est-ce qu’Elon Musk va
+arrêter le tourisme spatial ? En fait, le coût de l’essence n’est pas si cher
+par rapport à tout le reste. Il trouvera toujours des gens pour brûler de
+l’essence pour aller emmener des touristes dans l’espace. Vous multipliez par 10
+le prix du pétrole, vous créez plus d’injustice et vous ne résolvez pas le
+problème. Parce que la question qui devrait être posée, c’est : le pétrole qui
+nous reste. Alors, on pourrait dire : on arrête de le brûler complètement. Mais
+là on va avoir un problème, parce que l’infirmière ne pourra pas aller soigner
+les gens. Même l’isolement des bâtiments, qui est absolument nécessaire, ça
+demande des machines qui consomment du pétrole pour isoler les bâtiments. Il ne
+faut pas croire qu’on va isoler des bâtiments sans pétrole. Donc il y a une
+partie du pétrole qu’on est de toute façon obligé d’utiliser aujourd’hui dans
+l’état de la société actuelle. Par contre, ce qui serait bien, c’est que ce
+pétrole soit utilisé intelligemment, pas par celui qui a l’argent et qui peut en
+faire ce qu’il veut.
+
+Le problème du système néolibéral, c’est qu’on dit : un litre de pétrole vaut
+tant, et vaut autant pour tout le monde. Quels que soient les usages, vous êtes
+libre de le consommer ou pas. Quels que soient les usagers, que vous soyez très
+riche ou très pauvre, le prix du pétrole coûtera pareil pour vous. Or, cette
+idée selon laquelle le prix du pétrole doit être le même pour tout le monde, le
+même quel que soit l’usage, si on réfléchit deux minutes, est complètement
+contradictoire avec le principe de planification écologique. C’est-à-dire se
+dire : voilà, pour éviter un réchauffement de +4 °C — parce que +5, +1,5, on y
+est déjà, on y était en juin, +1,5 à l’échelle mondiale — donc maintenant
+l’enjeu n’est pas de limiter à +1,5, c’est de limiter le plus possible.
+C’est-à-dire ne pas aller jusqu’à +4 °C. Alors on y va, on y va à fond quand
+même. Bon, bref. Donc il faut dire : si on veut limiter la hausse des
+températures à +2 °C par exemple, combien peut-on brûler de charbon, de pétrole
+encore ? Et si on voit qu’on a un stock limité, alors où faut-il l’affecter ? À
+quels usages ? À quels usagers ? Il va falloir drastiquement décider qui a le
+droit de consommer le pétrole et qui n’a pas le droit. Et ça, ça ne peut pas
+être décidé par le marché. Ça doit être planifié, organisé selon des critères
+hors marché. On ne va pas juste faire un prix du carbone en disant : « Regardez,
+ça va se réguler tout seul. » Ça ne marchera pas. Ça va juste empêcher
+l’infirmière de faire sa tournée, tuer des gens de fait, et laisser Elon Musk
+envoyer des gens dans l’espace, ou alors un autre milliardaire envoyer des gens
+dans le Titanic. Bon, bref, ça, c’est le passé, mais je ne vais pas rentrer
+là-dedans, ce n’est pas très bien vu. Mais en gros, vous comprenez bien que
+l’usage des ressources limitées de la Terre aujourd’hui est à la disposition de
+tout le monde pour faire tout et n’importe quoi. C’est ça le principe du marché.
+Je disais tout à l’heure qu’on peut être libre d’acheter ce qu’on veut tant
+qu’on a les moyens. Ça, c’est la consommation individuelle. Mais si on veut
+organiser correctement le système, il va falloir qu’on fasse beaucoup plus que
+ça. Il va falloir qu’on alloue quantitativement peut-être les ressources à tel
+ou tel projet plutôt qu’à tel ou tel autre. Et ce n’est pas parce que quelqu’un
+a plus d’argent qu’il a le droit de plus consommer. Et donc ça, c’est une
+réflexion qui relève de quoi ? De l’économie de guerre, de ce qui s’est passé
+aux États-Unis où 90 % des prix étaient contrôlés. Ça relève d’un changement
+complet de paradigme, de revenir en quelque sorte au paradigme d’avant, de
+l’économie de guerre, de limitation des ressources disponibles.
+
+## Conclusion
+
+Je conclus. Le marché ne doit pas disparaître, mais ça doit être un lieu
+d’échange, pas un lieu de détermination de la valeur. Parce que déterminer la
+valeur, c’est déterminer les choix politiques. Et les choix politiques ne
+peuvent pas être décidés par les agents qui achètent et qui vendent. Moi, quand
+j’achète quelque chose, je ne vote pas. J’achète pour mon propre plaisir. Je ne
+fais pas ça parce que j’exprime une opinion politique. Or aujourd’hui, on a
+tendance à nous dire que tout ce que vous faites sur le marché, c’est une
+opinion politique. En quelque sorte ça va soutenir… Non, il faut arrêter avec le
+consommateur citoyen. Non, la politique, c’est l’État qui la détermine. Il m’a
+donné le droit d’acheter telle chose, alors j’ai le droit de l’acheter. Ça aussi
+c’est important. Dire « arrêtez de consommer bio », etc., c’est très bien. Mais
+en fait, si on nous autorise à acheter du conventionnel, pourquoi devrait-on
+tous se sentir coupables, ou même de prendre l’avion ? De prendre l’avion. Donc
+c’est à l’État de prendre ses responsabilités et de dire : voilà, si vous n’avez
+pas le droit de prendre l’avion, pas le droit de consommer une agriculture
+chimique et mauvaise pour la planète, alors c’est l’État qui le fait. Ce n’est
+pas au consommateur de se substituer au rôle de l’État. Le politique a sa
+légitimité, et il ne veut pas juste être quelqu’un qui fait l’arbitrage des
+coûts et des avantages en s’appuyant sur ce que nous dit le marché. En fait,
+l’homme politique, ce n’est pas un algorithme qui prend les éléments des prix et
+puis automatiquement crée une décision.
+
+Plus fondamentalement, et je terminerai par ça, il y a chez Alain Supiot, dans
+La gouvernance par les nombres, une métaphore que je trouve très intéressante.
+C’est un juriste. Il dit : voilà, le néolibéralisme actuel, c’est une vision
+d’une société plate. Une société plate, c’est une société où tout se vaut, tout
+s’échange, y compris la loi. On peut faire du law shopping, comme on dit. On
+peut décider d’aller respecter les règles qu’on veut dans le pays qu’on veut en
+allant investir dans ce pays. Cette société plate, cette société néolibérale où
+tout se vaut, où tout s’échange, il y oppose une société qu’il appelle
+hétéronome, on pourrait dire hiérarchisée à différents plans. Le plan du marché
+et le plan du politique ne sont pas les mêmes plans. Et en fait, si on réfléchit
+à ça, on devrait comprendre que l’économie, ce n’est pas juste calculer les
+coûts, les avantages et prendre la décision la moins coûteuse. C’est se mettre
+au service d’un objectif qui n’est pas un objectif économique. C’est-à-dire
+qu’en fait l’économie devrait rendre possible ce que le politique a décidé, et
+non pas décider à la place du politique. Il n’y a donc pas un calcul à faire, il
+y a des calculs. Je veux dire par là que si on décide que d’autres objectifs,
+c’est de limiter le réchauffement climatique en arrêtant de brûler du
+combustible fossile, alors l’économie devrait dire comment il faut faire pour
+arriver à ça, plutôt que de penser que tous ces calculs ou toutes ces décisions
+doivent être délégués au marché et que le résultat politique est juste là pour
+faire l’arbitre du marché. Vous comprenez bien que l’arbitre du marché n’aura
+jamais les outils nécessaires pour organiser la lutte contre le réchauffement
+climatique. Donc il faut sortir de cette vision plate, cette vision où tout se
+vaut, et redonner la légitimité aux politiques en considérant que les décisions
+politiques sont supérieures aux décisions du marché. Et ça sera encore mieux si
+elles pouvaient être décidées démocratiquement plutôt qu’autoritairement.
+
+Voilà, j’en ai fini. (Applaudissements.)

@@ -1,0 +1,254 @@
+---
+source_url: https://www.youtube.com/watch?v=HPWQufM2sAg
+video_title: "IDENTITÉ PERSONNELLE (2/2) - Montez-vous dans le téléporteur ? - Grain de philo #7"
+generated_at: 2026-09-19T09:24:58.098Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 122.4
+  input_tokens: 4422
+  cached_input_tokens: 4416
+  output_tokens: 4707
+  estimated_cost_usd: 0.001331
+  finish_reason: stop
+---
+
+# IDENTITÉ PERSONNELLE (2/2) - Montez-vous dans le téléporteur ? - Grain de philo #7
+
+## Identité personnelle (2/2) - Montez-vous dans le téléporteur ?
+
+Il y a une semaine, Monsieur Phi sortait une vidéo sur l'identité personnelle,
+et j'ai la naïveté de croire que la personne qui a fait cela, c'est moi. Mais
+qu'est-ce qui me justifie à soutenir une chose si extraordinaire ? Aujourd'hui
+donc, on continue sur l'identité personnelle et on va y mettre un tel bazar qu'à
+la fin on se demandera si la meilleure solution n'est pas encore de tout jeter à
+la poubelle. Après tout, est-ce qu'on a vraiment besoin de croire en un moi qui
+dure à travers le temps ?
+
+Appelons A la personne qui a enregistré la vidéo il y a une semaine. Croire en
+mon identité personnelle, c'est donc soutenir que je suis la même personne que
+A. Jusque-là, c'est facile.
+
+Supposons que A, juste après avoir enregistré la vidéo, s'est téléporté sur Mars
+grâce au système de téléportation dont le fonctionnement a été expliqué la
+dernière fois. Car oui, je tourne cet épisode sur Mars, mais j'ai le même décor.
+Ces expériences de pensée sur la téléportation sont utiles pour montrer que la
+continuité du corps n'est pas nécessaire à l'identité personnelle. En effet, il
+n'y a pas de continuité corporelle entre A et moi. Et pourtant, je considère que
+je suis la même personne que A, tout simplement parce que j'ai sa mémoire. Je
+reconnais toutes ces actions comme étant mes propres actions. La conscience que
+j'ai d'actes passés fait de moi la même personne qui a accompli ces actes. On a
+vu que cette thèse a été défendue par le philosophe anglais John Locke.
+
+Et il est vrai que ce genre d'expérience de pensée semble bien montrer que ce
+critère de la mémoire et de la conscience est suffisant pour déterminer
+l'identité personnelle, au détriment du critère de la continuité du corps. Mais
+on va voir que les choses sont beaucoup plus compliquées que ça. Et avant tout,
+il faut que je vous révèle un terrible secret à propos de la téléportation.
+
+J'ai souvent pris le téléporteur et, à chaque fois, voici ce dont je me souviens
+: je rentre dans la capsule de départ, je vois un grand flash, et immédiatement
+après le flash, je suis dans la capsule d'arrivée, par exemple sur Mars. Le
+flash correspond donc au moment où mon corps est analysé, puisque c'est à partir
+de ce moment-là que mon corps est reconstitué sur Mars. Quant à ce qui se passe
+sur Terre, je ne me souviens évidemment de rien après le flash.
+
+Or, voici ce qui se passe dans la capsule de départ : « Ah ! ça n'a pas dû
+marcher là parce que j'ai vu le flash et je suis toujours sur Terre, donc vous
+avez dû... buguer. » L'employé me répond : « Non, non, tout va bien, votre copie
+est bien arrivée sur Mars, aucun problème. » Je proteste : « Comment ça ma copie
+? J'ai pas demandé de copie ! C'est moi : je veux aller sur Mars, moi ! » Il
+réplique : « Bah si vous voulez aller sur Mars, faut prendre un vaisseau ! » Je
+m'obstine : « Écoutez, j'ai pris le téléporteur des dizaines de fois, je sais
+comment ça se passe. Normalement je devrais être sur Mars là. C'est votre
+téléporteur qui ne marche pas ! C'est la première fois que ça m'arrive... » Mais
+il insiste : « Mais c'est toujours comme ça que ça se passe, je vous assure. En
+gros, ce qu'on fait, nous, c'est qu'on vous enregistre à un moment donné, c'est
+un peu comme une photo. Puis on envoie toutes les infos sur Mars. Et puis là-bas
+ils vont créer une copie de vous à partir de ces infos. Et puis c'est tout. Ça
+n'a jamais été autre chose. » Je comprends enfin : « Ah d'accord. Après, comme
+il y a des régulations sur la création de copies, parce qu'on ne veut pas que
+les gens se multiplient, tout ça... Du coup, on nous demande de détruire
+l'original une fois que la copie est envoyée. » L'employé confirme : «
+L'original, euh...? Ouais, c'est ça. Et c'est pour ça que je suis là. » Je
+réalise : « Ah oui, c'est pas du tout comme dans Star Trek en fait. Je pensais
+qu'on disparaissait dans le flash, quelque chose comme ça. » Il répond : «
+Ouais, on pourrait le faire mais ça changerait pas grand chose honnêtement.
+C'est comme si je vous mettais une balle dans la nuque juste après le flash sans
+rien vous expliquer. Je trouve ça pas très sympa. Parce que dans ce métier,
+j'aime bien le contact humain. » Je conclus : « Oui bon... Et vraiment y'a pas
+moyen que je... Bon allez, c'est pas tout, parce que j'ai du boulot. Alors comme
+vous êtes philosophe, je me suis dit qu'on allait le faire à la ciguë. »
+
+À votre avis, si j'apprenais que ça se passe comme ça la téléportation, est-ce
+que j'aurai envie de prendre le téléporteur pour rentrer chez moi ? Non ! J'ai
+pas envie de mourir. Pour moi, ce qui va se passer c'est que je vais monter dans
+le téléporteur, et je vais me faire tuer. Soit immédiatement au moment du flash,
+soit un peu plus tard par un employé qui aime le contact humain. Mais ça change
+pas grand chose en fin de compte : je vais mourir. Et je veux bien que ce soit
+une consolation de savoir qu'une copie de moi va être créée ailleurs avec mes
+souvenirs, mais j'ai vraiment du mal à m'identifier avec cette copie en fait.
+Quand je me projette dans le futur, je m'identifie à la personne qui va mourir
+dans la capsule d'entrée du téléporteur, pas à la copie qui va sortir de la
+capsule d'arrivée.
+
+Mais à l'inverse, quand je me tourne vers le passé, j'ai dans ma mémoire plein
+de voyages que j'ai déjà faits grâce à ce système de téléportation. Et je me
+considère moi-même comme la personne qui a fait tous ces voyages. Quand je dis
+que j'ai déjà pris plein de fois le téléporteur et que ça a toujours marché
+jusque-là, c'est vrai, ou en tout cas c'est cohérent par rapport à mes
+souvenirs. Savoir qu'on a tué l'original après la téléportation, ça ne change
+rien au fait que je me considère comme la même personne qu'il y a une semaine
+avant la téléportation sur Mars. Les actions passées de Monsieur Phi avant la
+téléportation, je les reconnais toujours comme étant les miennes.
+
+Tout ça pose un problème très intéressant. Et pour bien le poser, commençons par
+présenter la situation d'une façon tout à fait neutre, sans parler du tout de
+"personnes". Ce qu'on a d'abord, c'est un organisme qui entre dans le
+téléporteur sur Terre ; à l'instant t du flash, la constitution matérielle de
+l'individu est complètement analysée et toutes les informations sont envoyées
+sur Mars. Toujours sur Terre, après cet instant t, l'organisme continue
+d'exister un petit moment avant d'être détruit par un employé dont c'est le
+travail (ça pourrait être une autre méthode mais l'important n'est pas là).
+Parallèlement, un peu après t sur Mars, un nouvel organisme est fabriqué dont la
+constitution matérielle est exactement la même que celle de l'organisme analysé
+au temps t sur la Terre. Et c'est là tout ce qu'il se passe.
+
+Maintenant, on va se demander comment décrire ces choses en terme de
+"personnes". Admettons que le corps jusqu'à l'instant t est le corps d'une
+personne A. Et admettons que ce même corps après l'instant t est le corps d'une
+personne B. (Et notez bien que c'est pas parce que j'utilise deux lettres
+différentes que j'exclus que ces deux personnes puissent être identiques. Tout
+au contraire, on a d'excellentes raisons de penser que A et B sont la même
+personne. En effet, entre B et A il y a à la fois continuité corporelle et
+mémoire commune. Ça fait deux bonnes raisons de penser qu'ils sont identiques.)
+En outre, on a vu que si je suis A et si je sais ce qu'on réserve à B, eh bien
+sans doute je ne voudrais pas monter dans le téléporteur. Ça montre que, à la
+place de A, je me soucie de B comme de mon moi futur. À la place de A, donc, je
+me considère bien comme identique à B.
+
+Enfin, appelons C la personne dont le corps est l'organisme qui sort du
+téléporteur sur Mars. De toute évidence, C et B ne sont pas la même personne. En
+effet, il n'y a entre eux ni continuité corporelle ni communauté de mémoire. C
+n'a pas conscience de ce qui arrive à B, ni réciproquement. Par contre, C est-il
+la même personne que A ? Il faut noter que C partage tous les souvenirs de A. Il
+reconnaît toutes ses actions comme étant les siennes. Et d'après Locke (et nous
+étions d'accord avec lui jusque-là), cela suffit pour justifier que C est la
+même personne que A, en dépit de l'absence de continuité corporelle.
+
+Et là apparaît une première chose très troublante sur l'identité personnelle.
+Normalement, on s'attend à ce que l'identité soit une relation euclidienne,
+c'est-à-dire que si deux choses sont identiques à une même troisième, alors ces
+deux choses sont identiques entre elles. Or ici, ce n'est pas le cas : C est la
+même personne que A, B est la même personne que A, et pourtant C et B sont bien
+deux personnes distinctes. Voilà qui est déjà embêtant, mais le pire est à
+venir.
+
+Posons-nous une dernière question : A est-il identique à C ? Autrement dit, la
+personne qui rentre dans le téléporteur, à supposer qu'elle sache tout ce qui va
+s'y passer, peut-elle se reconnaître, peut-elle s'identifier à la personne qui
+va sortir du téléporteur à l'autre bout ? Eh bien, on a déjà vu que non. Si je
+suis A, lorsque je monte dans le téléporteur, je m'identifie à la personne qui
+va être tuée dedans, c'est-à-dire à B. De mon point de vue, à cet instant, la
+personne C, c'est juste une copie qu'on va faire de moi, mais ce n'est pas moi.
+Et certes, je peux savoir à l'avance que C va s'identifier rétrospectivement à
+moi puisqu'il aura tous mes souvenirs. Il n'empêche qu'à l'instant présent, moi
+A, je ne m'identifie pas à C. Je ne me considère pas comme la même personne que
+C. Et ce point-là est le plus troublant sur l'identité personnelle. Normalement,
+une relation d'identité ou même une relation de ressemblance, c'est une relation
+au moins symétrique, c'est-à-dire que si x est identique à y, de façon évidente
+y est identique à x. Et là, pour l'identité personnelle, ce n'est pas le cas. C
+est la même personne que A ; mais A n'est pas la même personne que C. La notion
+d'identité personnelle, pour cette raison, est extrêmement étrange.
+
+Pourquoi se comporte-t-elle ainsi, la vilaine ? On l'a dit : l'identité
+personnelle sert avant tout à penser l'identité à travers le temps. Le moi est
+censé durer dans le temps. Or la façon dont on comprend l'identité personnelle
+est très différente selon que l'on regarde vers le passé ou vers le futur. En
+gros, lorsqu'on regarde vers le passé, il semble acceptable de prendre le
+critère de Locke, la mémoire. Rétrospectivement, je suis la personne qui a fait
+toutes les actions dont je me souviens. Soit. Voilà pourquoi C se reconnaît
+comme identique à A.
+
+Mais l'identité personnelle concerne aussi notre façon de nous projeter dans le
+futur ; or comment appliquer ce critère dans le futur ? Il est évident que je ne
+peux pas me souvenir des actions d'un moi futur. Ce critère, la mémoire, est
+clairement un critère qui ne peut fonctionner que dans un sens, vers le passé.
+Quels critères d'identité utilisons-nous lorsque nous regardons plutôt vers le
+futur ? Eh bien, il y a de bonnes raisons de penser que là, c'est plutôt le
+critère de la continuité corporelle qui va nous tenir à cœur. Ça expliquerait
+pourquoi A s'identifie plus tôt à B qu'à C. Il y a effectivement continuité
+corporelle entre A et B et non entre A et C.
+
+Et pour mieux justifier que c'est bien la continuité corporelle qui compte avant
+tout lorsqu'on se projette dans le futur, on peut forcer les choses en
+considérant le scénario suivant. Supposez qu'au moment t du flash, toute la
+mémoire de l'organisme soit immédiatement effacée. Il ne sait plus qui il est,
+il a tout oublié, sa mémoire est redevenue, pour ainsi dire, vierge. Donc, dans
+ce scénario, B n'est plus la même personne que A. En effet, B ne peut plus
+reconnaître les actions de A comme étant les siennes, il a tout oublié.
+Maintenant, connaissant toutes ces conditions, si j'étais A, est-ce que
+j'accepterais de monter dans le téléporteur ? Non ! Et encore plus non ! Car je
+m'identifie toujours à B. Et le fait que B ne puisse pas s'identifier à moi
+rétrospectivement ne change rien au fait que moi, je m'identifie à lui
+maintenant.
+
+Tout cela nous montre que l'identité personnelle semble reposer sur différents
+critères selon qu'on l'applique rétrospectivement au passé ou anticipativement
+au futur, et c'est ça qui fait que la relation d'identité personnelle peut ne
+pas être symétrique. Si, moi présent, j'identifie un moi passé à partir du
+critère de la mémoire, il n'est pas garanti que ce moi passé, quand il était
+présent, m'aurait reconnu comme étant son moi futur, puisque, anticipant le
+futur, il utilise alors un autre critère d'identité : le critère de la
+continuité corporelle. Bref, si vous n'avez pas tout compris à cette phrase,
+c'est pas si grave.
+
+En tout cas, vous voyez à quel point c'est le bordel. L'identité personnelle est
+censée nous donner l'idée d'une stabilité du moi à travers le temps. Or, si les
+critères de l'identité d'une personne ne sont pas les mêmes selon qu'on regarde
+le passé ou le futur de la personne, cela fait que les critères de l'identité de
+la personne ne sont pas stables à travers le temps. On peut tout savoir sur A et
+C, mais on ne peut pas savoir si A et C sont, absolument parlant, la même
+personne. Du point de vue de A, plutôt non ; du point de vue de C, plutôt oui,
+mais il n'y a pas de réponse absolue. C'est extrêmement insatisfaisant et me
+donne envie de me taper la tête contre un mur.
+
+On pourrait continuer longtemps à exposer toutes sortes de scénarios à base de
+téléportation, de mémoires qui se baladent, de scission et de fusion
+d'individus, etc., etc. Dr Jekyll et Mr Hyde sont-ils deux personnes dans un
+même corps ? Et si on mélange mes souvenirs à ceux de Spock et on met tout ça
+dans la tête du monstre vert... Et l'idée à laquelle on finit par se rendre,
+c'est qu'il n'y a vraiment aucun moyen satisfaisant de définir l'identité
+personnelle. Ce moi qu'on suppose durer à travers le temps ne peut pas être
+autre chose qu'une construction plus ou moins bancale et arbitraire, et qui ne
+correspond pas à un aspect fondamental de la réalité. L'idée d'un moi qui a
+existé par le passé et continuera d'exister dans le futur ne serait qu'une
+impression (oserais-je dire une illusion ?) créée par le jeu de la mémoire et de
+l'anticipation. Somme toute, ne serait-il pas plus raisonnable de renoncer tout
+à fait à cette chimère ? Ô vertige de penser qu'il n'y a tout simplement pas de
+moi. Thèse curieuse et sur laquelle David Hume aussi bien que le Bouddha sont
+tombés d'accord. Et lorsque David Hume et le Bouddha tombent d'accord sur
+quelque chose, je pense que ça mérite examen. Mais ce sera pour une autre fois.
+
+Bah vu que le téléporteur tue ses usagers, on peut dire que Spock s'est fait
+tuer un bon millier de fois et j'y suis pour rien. Et franchement, essayez de
+regarder Star Trek en vous disant qu'à chaque fois qu'un type prend le
+téléporteur, en fait il meurt. Ça rend les choses à la fois drôles et tragiques.
+Je conclurai donc tout cela dans un prochain "Grain de philo" consacré, en toute
+simplicité, à l'inexistence du moi.
+
+Quelques mots rapides sur des sources. Concernant la réflexion sur les moi
+futurs, je me suis inspiré d'un article classique de Bernard Williams qui
+présente toute une gamme d'expériences de pensée, bien comme je les aime. Par
+ailleurs, la référence aux téléporteurs quand on parle d'identité personnelle,
+c'est devenu classique et presque incontournable grâce au philosophe Derek
+Parfit qui a développé cet exemple et beaucoup d'autres dans son livre de 1984
+*Reasons and Persons*. J'en reparlerai certainement avec plus de détails dans la
+vidéo sur l'inexistence du moi, mais je tenais déjà à le signaler, d'autant plus
+qu'une bien triste nouvelle nous est arrivée récemment : Derek Parfit est mort
+au tout début de cette année, le 1er janvier 2017.
+
+J'espère que la vidéo vous a plu, que vous la commenterez, la partagerez, etc.
+Si vous êtes en proie à un vertige métaphysique en constatant la vacuité de
+votre identité, c'est très bien. Sinon, c'est pas grave. En tout cas, mes moi
+futurs et vos moi futurs se retrouveront très bientôt pour de nouvelles
+aventures. Ciao !

@@ -1,0 +1,660 @@
+---
+source_url: https://www.youtube.com/watch?v=iE08wLRGPcQ
+video_title: Milliardaire et stoïcien | Sénèque
+generated_at: 2026-09-19T09:49:52.450Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 351.1
+  input_tokens: 14693
+  cached_input_tokens: 0
+  output_tokens: 13861
+  estimated_cost_usd: 0.005938
+  finish_reason: stop
+---
+
+# Milliardaire et stoïcien | Sénèque
+
+Bonsoir, Sénèque. Bonsoir, bonsoir. Nous vous recevons pour une chaîne web qui
+s'appelle PhilosopherView. Nous sommes en direct du 1er siècle, est-ce que vous
+pouvez vous présenter succinctement ? Eh bien, je suis Lucius Annaeus Seneca.
+Homme de lettres, homme d'État, et citoyen du monde. « Citoyen du monde », c'est
+de Diogène de Sinope, ça. « Les bonnes pensées appartiennent à tous ». Et ça
+c'est de moi.
+
+Homme de lettres, homme d'État, mais aussi philosophe ? Oh… j'y aspire, avec
+humilité. J'ai certes composé dans mon loisir quelques ouvrages traitant de la
+sagesse et de la vertu… Vous y prônez notamment le détachement vis-à-vis des
+biens extérieurs. Par exemple à votre ami Lucilius vous écrivez : « Pour combien
+d'hommes les richesses furent un obstacle à la philosophie ! Qui veut cultiver
+librement son âme… doit être pauvre ou vivre comme tel », oui… Je vois que vous
+êtes bien renseigné. Bien sûr, je ne prétends pas être toujours à la hauteur de
+mes propres préceptes… Et d'ailleurs n'est-ce pas le lot de tous les philosophes
+? C'est-à-dire que tous les philosophes n'ont pas, comme vous, amassé une
+fortune estimée à trois cent millions de sesterces… Trois cent… Non mais d'où
+vous sortez ce chiffre ? C'est très exagéré… je refuse… On pourra couper ça au
+montage ? Ah oui, on est en direct ? Oui bah, on en parlera une autre fois,
+c'est pas...
+
+## Introduction
+
+Bonjour à toutes et à tous. Aujourd'hui, direction la Rome antique et on va
+parler sagesse et pognon, puisque nous serons en compagnie du philosophe le plus
+riche de l'histoire : Sénèque. Car oui, si on se souvient maintenant de Sénèque
+surtout en tant que vénérable philosophe (le genre qui a droit à des citations
+inspirantes à poster sur LinkedIn), par contre pour ses contemporains,
+c'est-à-dire pour un citoyen romain du 1er siècle, Lucius Annaeus Seneca est
+avant tout connu comme un politicien douteux qui s'en est mis plein les poches
+sous le règne de Néron pendant que… Houlà, déjà je vous arrête tout de suite.
+L'histoire des trois cent millions de sesterces, c'est de la diffamation. Donc
+on va en reparler. Très bien. Et ensuite, c'est une pure calomnie lancée contre
+moi par le sénateur Publius Suillius Rufus qui cherche à me discréditer… Et
+c'est pas nouveau tout le monde le sait, ça. Effectivement ce sénateur vous a
+accusé d'avoir acquis, grâce à la faveur de l'empereur Néron dont vous étiez
+très proche… vous étiez son précepteur, c'est bien ça ? Oui, en effet… Le
+sénateur Suillius vous accuse donc d'avoir acquis grâce à cette amitié une
+énorme fortune estimée (c'est le chiffre qu'il donne) à trois cents millions de
+sesterces… C'est faux. … grâce à des dons directs de l'empereur mais aussi en
+accordant des prêts aux intérêts très élevés à travers toute l'Italie et ses
+provinces. Pas si élevés, déjà… Et donc, qu'est-ce que vous répondez à ces
+accusations ? Eh bien, voyez ce qui est arrivé à mon accusateur. Poursuivi pour
+corruption et détournement de fonds, la moitié de ses biens a été confisquée et
+il a été envoyé en exil. Oui, enfin, c'est vous qui avez intenté ces poursuites
+contre lui après qu'il a sorti ces affaires, donc c'est peut-être surtout un
+moyen de faire taire… Quelle indignité... Excusez-moi mais je pensais que
+j'étais venu ici pour parler de philosophie. Est-ce qu'on peut prendre un peu de
+hauteur sur tout ça, s'il vous plaît. Bien sûr, on va y venir, mais quand même
+ça me paraissait important pour nos spectateurs. Important ? Mais oui, parlons
+de ce qui est important. Et qu'est-ce qui est vraiment important ? Est-ce
+l'argent, les honneurs, la considération sociale, la faveur des puissants, les
+villas ou les esclaves, par exemple, que je possède à Rome ou outremer ? Non,
+non. Tout cela est extérieur, et donc indifférent aux yeux du sage. Seul importe
+ce qui est en nous et dépend de nous, à savoir la vertu. La vie heureuse est la
+vie vertueuse, c'est-à-dire conforme à la nature. Voilà toute la philosophie
+résumée en une seule phrase.
+
+## Le Stoïcisme et ses figures
+
+Alors c'est amusant parce que Diogène de Sinope que j'ai reçu récemment disait
+presque mot pour mot la même chose… sauf que lui il a pas exactement le même
+genre de train de vie que vous. Mais c'est tout à fait normal. Je me sens
+extrêmement proche des cyniques comme Diogène. Nous sommes quasiment les mêmes,
+au fond. Ah bon ? Donc vous aussi vous vous… évertuez en public ? Non non. On a
+mis de côté ces exubérances. Mais sur le fond, le fond philosophique, nous
+sommes les héritiers directs des cyniques, oui. Quand vous dites « nous »… Je
+veux dire nous autres les véritables philosophes : les stoïciens, bien sûr. Ça
+me paraissait évident, ça.
+
+Sénèque est donc un représentant du stoïcisme, l'école stoïcienne, et
+spécifiquement de ce qu'on appelle le stoïcisme impérial, c'est-à-dire celui qui
+est enseigné et pratiqué dans l'Empire Romain. En dehors de Sénèque au premier
+siècle, il y a deux grandes figures du stoïcisme impérial qui ont vécu un peu
+plus tard, au deuxième siècle : d'une part Marc-Aurèle qui n'est rien d'autre
+que l'empereur de Rome. Et d'autre part, Épictète, qui était fils d'esclave et
+lui-même esclave affranchi. Donc c'est quand même frappant, pour représenter le
+stoïcisme, on a vraiment les deux extrémités de la société romaine : l'esclave
+et l'empereur. Et l'esclave est plutôt supérieur à l'empereur sur le plan
+philosophique. En effet, Épictète c'est vraiment LE sage stoïcien par
+excellence. C'est même un peu énervant à quel point il est stoïquement parfait.
+Mais qu'est-ce donc que le stoïcisme ? me direz-vous. Excellente question, vous
+faites bien de me la poser. Eh bien le stoïcisme c'est une école philosophique
+qui est née ailleurs et bien avant cela, et comme la plupart des trucs qui
+pèsent dans le game philosophique durant l'Antiquité, ça nous vient tout droit
+d'Athènes au IVe siècle avant notre ère. C'est assez merveilleux à quel point ce
+siècle et cette cité c'est l'âge d'or de la philosophie antique en Occident.
+Imaginez un peu : Socrate est mort -399, Platon fonde l'Académie en -387,
+Antisthène fonde l'école cynique à la même époque et est rejoint par Diogène
+vers -370, Aristote rejoint l'Académie en -367, la quitte vingt ans plus tard
+puis fonde le lycée en -335. Je me rends compte au montage que j'aurais pu
+parler ici aussi du scepticisme dont le fondateur Pyrrhon d'Élis commence à être
+actif dans cette fin de IVe siècle. Épicure ouvre son jardin en -306, et enfin
+en -301 c'est l'école stoïcienne qui est fondée par Zénon de Kition. Je trouve
+ça quand même pas mal pour un seul siècle et une seule cité. Celui qui deviendra
+le fondateur du stoïcisme, donc, Zénon de Kition, c'est au départ un jeune homme
+de Phénicie qui échoue un peu par hasard à Athènes vers la fin du IVe s. (Et
+quand je dis qu'il y échoue c'est littéralement : c'est suite à un naufrage
+qu'il se retrouve là.) À Athènes, il commence par suivre les enseignements d'un
+cynique, Cratès de Thèbes. Et si ce nom de Cratès vous dit quelque chose, c'est
+probablement que vous êtes un fidèle du podcast Parrhèsia. (Et si vous avez pas
+la ref, allez voir l'épisode sur Diogène, ça peut pas faire de mal.)
+
+Salut les cyniques, bienvenue dans Parrhésia, le podcast qui dit les termes. Je
+suis votre hôte Cratès de Thèbes, et aujourd'hui j'ai le plaisir de recevoir un
+de mes anciens élèves, le p'tit phénicien comme je l'appelais à l'époque, qui
+fait beaucoup parler de lui en ce moment sur l'agora : le fameux Zénon.
+Salutations, Cratès. Et merci pour l'invitation. Alors déjà je précise bien pour
+nos auditeurs : tu es Zénon de Kition. Oui, oui, de Kition. Parce que quand j'ai
+dit que j'allais recevoir Zénon cette semaine il y a beaucoup de gens qui m'ont
+dit « Bah oui, Zénon, je le connais, c'est le mec des paradoxes, Achille et la
+Tortue... » Non alors ça c'est Zénon d'Élée. Rien à voir. On nous confond très
+souvent. Si j'étais moins philosophe ça commencerait à me les briser un peu.
+C'est quand même pas le jugement d'autrui qui va te troubler si tu es cynique.
+Parce que, rassure-moi, tu restes bien un vrai cynique au fond ? Je reste fidèle
+aux fondamentaux cyniques, bien sûr, c'est-à-dire que la seule chose qui importe
+c'est la vertu, c'est l'unique condition d'une vie bonne. Et la vertu, c'est de
+vivre en harmonie avec la nature, avec le cosmos. Bon bah voilà, t'es un
+cynique, ça va. Pour autant, j'ai fondé une nouvelle école philosophique qui, je
+pense, se distingue assez nettement du cynisme… Ouais donc ça c'est ta grosse
+actu en ce moment : tu viens de fonder une école, qui se réunit en ce moment
+même au niveau de la Stoa Poikilè, c'est-à-dire le portique peint. Oui, à
+Athènes. À Athènes évidemment, vu que c'est à Athènes que tout se passe, on va
+pas se mentir. Donc on nous appelle du coup l'école du Portique, de la Stoa, ou
+école stoïcienne éventuellement. Et j'ai cru comprendre que t'étais passé par
+d'autres maîtres après moi pour en arriver là. Effectivement, j'ai suivi, entre
+autres, les cours de Xénocrate pendant près de dix ans. Attends, quoi ?
+Xénocrate le nouveau directeur de l'Académie là, un matheux, un Platonicien ! Ah
+ouais, t'as changé. Et surtout, j'ai beaucoup fréquenté l'école mégarique :
+Stilpon, Diodore, mon grand ami Philon. Attends, les mégariques ? C'est qui
+ceux-là déjà ? Je m'y perds, il y a trop d'écoles à Athènes en ce moment…
+
+L'école de Mégare, c'est encore une autre école philosophique très active à
+Athènes au IVe siècle avant notre ère, mais qui a disparu assez tôt, ce qui fait
+que son nom ne nous dit plus grand chose maintenant. C'était une école fondée
+par un certain Euclide de Mégare (qui n'a rien à voir avec le Euclide des
+Éléments d'Euclide, ils commencent à faire chier les Grecs à avoir tous les
+mêmes noms). Et cela se réclamait directement de l'héritage de Socrate, ce qui
+est tout sauf original franchement, c'est le cas de la plupart des écoles de
+cette période. T'as pas envie d'être un peu original ? Mais pour les mégariques
+c'était surtout le côté dialecticien de Socrate qu'ils ont retenu : donc le
+débat, le raisonnement, la logique. C'est un peu une école de logicien, si vous
+voulez. Et c'est probablement cet aspect qui a attiré Zénon de Kition. Il était
+notamment très proche de Philon de Mégare et on sait aussi qu'il a suivi les
+enseignements de Diodore Cronos, deux noms qui vous disent probablement rien
+mais ce sont deux très grands logiciens de l'Antiquité. Diodore Cronos est
+notamment à l'origine d'un argument hyper célèbre à l'époque, tellement célèbre
+en fait qu'on l'appelait le maître-argument ou argument dominateur, parce qu'il
+dominait les conversations, tout le monde en parlait, pour essayer de le réfuter
+surtout, car cet argument avait pour conclusion dérangeante que le futur est
+nécessaire : tout ce qui arrive et arrivera devait arriver et ne pouvait pas
+arriver autrement. Donc c'est une forme de déterminisme absolu. On parle même de
+nécessitarisme dans ce cas. Et ça, c'est une position qu'on va retrouver chez
+Zénon et qui sera centrale dans la vision stoïcienne du monde. Pour eux, le
+cosmos, c'est-à-dire l'ordre du monde, c'est un ordre nécessaire, où tout ce qui
+arrive doit arriver. Et mieux encore : c'est un ordre cyclique. Pour les
+stoïciens, au bout d'un certain temps, l'univers tout entier est détruit dans un
+grand feu régénérateur, c'est ce qu'ils appellent l'ekpyrosis, après quoi tout
+recommence à l'identique, encore et encore. L'ordre cosmique dans sa totalité se
+répète nécessairement, pour l'éternité. D'accord sur le déterminisme : tout ce
+qui arrive doit arriver nécessairement, ça reste central pour le stoïcisme. Par
+contre cette théorie de l'ekpyrosis, la destruction et régénération du monde,
+c'était certes à la mode chez les premiers stoïciens grecs, chez Zénon et
+Chrysippe, mais pour nous autres stoïciens modernes de l'Empire Romain, c'est un
+peu dépassé, j'avoue on a mis ça de côté. Ah tiens je pensais que vous seriez
+fidèle à leur pensée. Ce sont quand même les vrais stoïciens, les pères
+fondateurs… Mais nous en serions de bien mauvais disciples si nous nous
+contentions de les répéter. Honte à celui qui n'a pour sagesse que de remémorer
+celle d'autrui ! Vous diriez que le stoïcisme a beaucoup changé depuis ses
+débuts, donc ? Comment vous décririez cette évolution ? Disons que j'ai
+l'impression que, ce qui nous distingue surtout aujourd'hui, nous autres
+stoïciens romains, c'est que nous sommes revenus à l'essentiel : la dimension
+pratique, éthique, comment bien mener sa vie. Certes, il y a toujours en
+arrière-plan des réflexions plus théoriques sur la nature, le destin, la
+providence et la divinité, mais ça occupe bien moins de place que chez les
+premiers stoïciens. Mais ouais, qu'est-ce qu'on s'en balec de savoir si le
+cosmos est cyclique, déterministe. L'important, c'est la vertu. Point. Mais la
+vertu, faut-il te le rappeler, c'est la conformité à la nature. Et donc, pour
+mener une vie vertueuse, c'est-à-dire en harmonie avec l'ordre naturel, encore
+faut-il concevoir correctement cet ordre, concevoir correctement le cosmos. Et
+pour ça, la logique, la réflexion, l'étude systématique de la nature... Boring.
+
+Donc si Zénon au départ reste assez proche des cyniques en ceci qu'il reconnaît
+que la vertu est l'unique condition de la vie heureuse (plus exactement de
+l'eudaimonia - mais je reviens pas là-dessus parce que j'ai beaucoup développé
+ces notions de vertu et d'eudaimonia dans la vidéo sur Diogène, donc encore une
+fois allez la voir si nécessaire), il s'en distingue en ceci qu'il accorde
+beaucoup plus d'importance au fait d'apporter un sous-bassement théorique et
+rationnel à cette exigence éthique. Pour agir vertueusement, il faut commencer
+par savoir ce qui est vertueux, c'est-à-dire conforme à la nature. Et, pour
+cette raison, développer un savoir théorique sur la nature devient un préalable
+indispensable à l'éthique. Voilà pourquoi les stoïciens découpait
+traditionnellement l'étude de la philosophie en trois parties : d'abord la
+logique (où il s'agit d'établir une méthode), ensuite la physique (où il s'agit
+d'étudier la nature au moyen de cette méthode), et enfin seulement l'éthique (où
+il s'agit de vivre en harmonie avec la nature telle qu'on a pu ainsi l'étudier).
+Et si cette dernière partie pratique reste la finalité de l'enseignement, de
+fait les deux premières parties, la logique et la physique, c'est ce qui
+occupait le plus de place dans les textes stoïciens de l'époque. Et notez qu'on
+retrouve bien ces deux dimensions dans le parcours intellectuel de Zénon : on a
+vu qu'il a d'abord suivi le cynique Cratès, mais il s'est aussi tourné vers des
+philosophes plus théoriques, en particulier les logiciens de l'école de Mégare,
+avant de fonder sa propre école à la Stoa, le stoïcisme. En somme, les stoïciens
+grecs sont des sortes de cyniques modérés avec un penchant beaucoup plus
+intellectuel et rationnel.
+
+## La pratique stoïcienne et le rapport au destin
+
+Pour ma part, j'ai la plus profonde vénération pour Démétrius le cynique. C'est
+même un ami à vrai dire, et c'est surtout pour moi une grande source
+d'inspiration. Je ne manque pas une occasion de parler de lui. C'est un
+véritable sage, même s'il se défend de l'être ! Il vit dans un dénuement qui
+dépasse même celui de Diogène. Et malheur à celui qui voudrait l'en tirer !
+Quand l'empereur Caligula lui propose deux cent mille sesterces (ce qui n'est
+pas grand chose entre nous), il les refusa en lui disant : « Et pourquoi tu me
+donnes pas ton empire ? » Sacré Démétrius ! Je l'adore ! Mais si vous l'admirez
+tant pourquoi vous l'imitez si peu ? Il me semble pas que vous ayez refusé
+beaucoup de cadeaux de Néron, vous… C'est que je suis stoïcien, moi, pas
+cynique. C'est différent, on est plus raisonnable en un sens, même si le modèle
+cynique reste très inspirant. Et puis n'allez pas croire que ma vie a toujours
+été facile. Je m'en suis pas trop mal tiré en politique jusque là, mais j'ai dû
+souffrir aussi bien des revers de fortune. J'ai été disgracié et exilé en Corse,
+en Corse ! pendant des années (et vous savez ce que c'est la Corse...) Et puis
+j'ai été rappelé à Rome pour servir de précepteur au futur empereur, Néron, et
+je suis resté son ami et conseiller après son accession au trône. Le début de
+son règne était prometteur, on l'a tous vu. Et ensuite, bon... c'était plus
+compliqué. Mais parlons d'autres choses, c'est pas le sujet.
+
+J'aimerais revenir sur votre rapport aux cyniques. Si vous êtes d'accord avec
+eux sur le fait que la seule chose qui importe est la vertu, c'est-à-dire de
+vivre en accord avec la nature, pourquoi vous n'en tirez pas du tout les mêmes
+conclusions qu'eux ? Pourquoi vous ne rejetez pas toute convention sociale comme
+contre-nature, par exemple. C'est que pour nous, stoïciens, l'ordre naturel
+embrasse absolument toute chose, la cité des hommes comme la ruche des abeilles
+: l'une n'est pas plus contre-nature que l'autre. La contemplation rationnelle
+du monde nous permet de le saisir comme un tout harmonieux réglé par ce que nous
+appelons le destin, la providence, ou même Dieu. Voilà pourquoi, pour nous,
+vivre vertueusement, c'est adhérer à ce destin plutôt que d'y résister, c'est
+régler nos désirs sur ce qu'offre la providence plutôt qu'attendre de la
+providence qu'elle satisfasse nos désirs. En somme, c'est accepter que les
+choses arrivent précisément comme elles arrivent. Et donc s'il arrive que tu
+naisses dans une certaine cité, que tu hérites d'un certain rang, ou qu'on te
+confie une certaine charge dans l'État, eh bien prends ce que le destin t'a
+donné, joue le rôle que la providence a voulu que tu joues dans le théâtre
+universel. Telle est notre sagesse. Mais attendez, vous croyez vraiment en une
+providence ? Genre un Dieu tout-puissant qui veille sur l'histoire humaine, qui
+récompense, qui punit… Tout-puissant ? C'est quoi ce concept absurde ? Et des
+récompenses ? Non, non il n'est pas question d'un Dieu qui interviendrait de
+l'extérieur pour corriger le cours du monde, c'est ridicule. Comme si le monde
+avait besoin d'une béquille pour marcher. Donc vous croyez pas en Dieu. Ah mais
+si. Ça occupe même une place très importante. Mais ce que nous, stoïciens,
+appelons Dieu ou divin, c'est… le monde, tout simplement, c'est la totalité du
+monde comme un seul être vivant. « Dieu ou la nature », quoi. « Deus sive natura
+», oui, je crois bien avoir écrit quelque chose dans ce goût-là quelque part. Et
+donc là, on est en Dieu en fait ? Il est en nous et en toute chose. Comme une
+force qui nous entoure et nous pénètre, et lie l'univers en un tout unique. La
+Force ? Oui, la Force... qui nous entoure et nous pénètre et qui maintient la
+galaxie en un tout unique.
+
+En effet, les stoïciens sont assez mystiques. Aussi bien chez les Grecs que dans
+le stoïcisme impérial, on parle très souvent et très volontiers de Dieu ou de la
+divinité. Mais vous l'aurez compris, ça n'a rien à voir avec le Dieu des
+monothéismes, ni même avec les Dieux des polythéismes. Et c'est pas non plus un
+athéisme qui ne dit pas son nom. Non là on a très clairement affaire à ce qu'on
+peut appeler un panthéisme (du mot grec pan qui signifie tout), c'est-à-dire que
+les stoïciens identifient la totalité du monde à Dieu, comme un seul être
+vivant, bienveillant et rationnel. Les stoïciens grecs identifiaient aussi ce
+Dieu au Logos, terme qui signifie à la fois discours et raison (et qui a donné
+le mot logique par exemple). Donc l'aspect divin du monde réside avant tout dans
+le fait qu'il suit une organisation rationnelle, des lois intelligibles, que les
+choses arrivent pour une bonne raison au lieu de n'être qu'un chaos aléatoire.
+Que le monde soit perçu comme un truc fondamentalement organisé plutôt que
+chaotique c'est assez commun et central dans la pensée grecque en général (en
+témoigne le fait que cosmos en grec signifie à la fois monde et ordre), mais les
+stoïciens sont vraiment ceux qui ont poussé cette idée à son paroxysme. Et cela
+tient notamment au fait qu'ils adhèrent à un déterminisme absolu : ce destin
+rationnel qui règle la marche du monde doit donc régler absolument tout, depuis
+la marche des étoiles jusqu'au mouvement du moindre grain de poussière. Et nous,
+êtres humains, au milieu de ça, n'y échappons pas. Dès lors, on pourrait se
+demander : quelle place pour la liberté là-dedans ? Mais justement : on est
+jamais aussi libre qu'en obéissant au destin. En effet, quand sommes-nous privés
+de liberté ? Qu'est-ce qui nous rend esclave ? Bah justement, des esclaves, vous
+en avez des dizaines, on pourrait leur poser la question. A priori, ce qui les
+rend esclaves, c'est que vous les possédez et vous les forcez à travailler.
+Allons… Je parle évidemment d'esclavage en un sens plus général, plus
+philosophique. L'esclave, donc, c'est celui dont la volonté est impuissante,
+celui dont les désirs sont contrariés par l'ordre du monde, celui qui exige ce
+que la providence lui refuse. Aussi, la liberté et l'esclavage n'ont rien à voir
+avec les richesses ou la situation sociale. L'homme le plus riche, s'il désire
+plus de richesse qu'il n'en peut avoir, c'est un esclave, j'ai pas peur de le
+dire, c'est un esclave, contrarié dans ses désirs. Oui enfin bon il me paraîtra
+quand même moins esclave que l'esclave bien réel qui se casse le dos pour
+cultiver vos champs… Et pourtant, si celui qui cultive mon champ avait la
+sagesse de n'aspirer à rien d'autre qu'à sa condition, à cultiver mon champ, ne
+serait-il pas libre ? Je suis pas sûr de voir en quel sens… Au sens où, ne
+désirant rien d'autre, tous ses désirs sont satisfaits. Il fait ce qu'il veut,
+puisqu'il veut ce qu'il fait. Le destin ne le contraint pas, il y adhère. Il
+connaît ainsi la véritable liberté, la liberté intérieure, la liberté du sage.
+Donc il est libre dans sa tête. Super. Mais il a quand même des fers au pied,
+votre esclave. Sommes-nous mieux loti ? Le destin nous enchaîne tous, que les
+fers soient visibles ou non, et il n'y a qu'une façon de s'en libérer : en
+réglant nos désirs sur ce qu'il nous réserve. C'est à ça que tend toute la
+philosophie stoïcienne. Et voilà pourquoi je dis que l'obéissance au destin, ou,
+ce qui revient au même, l'obéissance à la philosophie, c'est la liberté. This is
+freedom.
+
+Adhérer à la nécessité, régler ses désirs sur l'ordre du monde, c'est LE thème
+stoïcien par excellence. L'idée sera très bien résumée dans cette formule du
+Manuel d'Épictète (c'est un texte très court qui est une sorte de synthèse
+pratique du stoïcisme impérial) : « Ne demande pas que ce qui arrive arrive
+comme tu le veux, mais veux ce qui arrive comme cela arrive, et tu seras
+heureux. J'ai pas raison la team ? » Bon ça ça a été coupé dans les éditions du
+manuel mais en vrai il disait souvent ça Épictète. Et ça peut sembler un peu
+bébête à première vue. « Le secret du bonheur ? C'est de vouloir les choses
+comme elles sont. » Mais en fait si on suit cette idée jusqu'au bout, si on la
+prend au sérieux, on arrive à une position extraordinairement radicale et
+presque inhumaine. Parce que parfois, les « choses comme elles sont » c'est, par
+exemple, la mort de nos proches, et du coup cette petite recette mignonne du
+bonheur à la stoïcienne, elle nous demande ceci : vouloir la mort de nos
+proches. Littéralement. Dans la mesure où ils meurent, mais quand même. Et en
+disant, cela, je suis pas en train de tordre le texte pour en tirer une
+conséquence que les stoïciens n’avaient pas envisagée : l’exigence
+d’impassibilité face à la mort de sa femme ou de ses enfants, c'est un thème qui
+revient très souvent dans le stoïcisme en général, et chez Épictète en
+particulier. C'est presque l'exercice de stoïcisme par excellence. Par exemple
+dans ces passages du Manuel d'Épictète, toujours : « Ne dis jamais de rien : “Je
+l’ai perdu” mais : “Je l’ai rendu.” Ton enfant est mort ? Il a été rendu. Ta
+femme est morte ? Elle a été rendue. » « Si tu veux que tes enfants, ta femme,
+tes amis soient toujours en vie, tu es insensé : car tu veux que ce qui ne
+dépend pas de toi dépende de toi, et que ce qui t’est étranger soit tien. » Le
+philosophe Stilpon avait perdu ses enfants, sa femme, tous ses biens, dans la
+prise de sa ville natale. Le général victorieux a demandé au philosophe : «
+Qu'as-tu perdu ? » Et qu'est-ce que le philosophe a répondu ? « Rien. J'ai tous
+mes biens avec moi. » Non mais soyons sérieux deux secondes : sauf un
+psychopathe, personne ne peut réagir comme ça. Être ému de la mort de ses
+proches, c'est juste humain, on n'y peut rien. Mais pourquoi crois-tu que la
+mort de tes proches devrait te troubler ? Est-ce un mal en soi ? Bah oui,
+plutôt. Non... Tu JUGES que c'est un mal. Mais ce qui te trouble, ce n'est pas
+la mort elle-même, c'est ce jugement que tu portes sur elle. Or, ce jugement est
+erroné. Représente-toi correctement l'ordre harmonieux de la nature et tu verras
+que la mort en est un élément. La mort est un élément naturel de la vie. Au lieu
+de te représenter naïvement la mort comme un mal et de la redouter à cause de
+cela, représente-toi correctement la mort comme n'étant ni un mal ni un bien, et
+tu ne la redouteras plus, ni pour toi ni pour les autres. Quand bien même…
+changer ses représentations… c'est pas si simple de changer ses représentations.
+Pourtant, s'il y a bien une chose qui ne dépende que de toi, c'est tout ce qui
+est en ton esprit : tes pensées, tes représentations, et donc les désirs et les
+craintes qui en naissent. Si tu t'affliges un jour d'avoir perdu tes biens ou
+tes proches, ce sera à toi-même et non au destin qu'il faudra t'en prendre, car
+le destin ne pouvait suivre un autre cours tandis qu'il ne dépendait que de toi
+de ne pas te représenter cette perte comme un mal, et ainsi de ne pas la
+craindre et de ne pas en être affligé. Je trouve ça assez hardcore quand même.
+Il faut s'y entraîner comme on entraîne son corps. Répète-toi chaque jour que
+rien ne t'appartient en dehors de ton âme. Exerce ta volonté à renoncer à tout
+ce que tu crains de perdre un jour. Exerce ta volonté à renoncer à tout ce que
+tu redoutes de perdre un jour.
+
+Alors déjà, oui, les Jedis sont totalement des stoïciens. C'est pas spécialement
+important mais ça m'aurait démangé de pas le dire. Ensuite, le raisonnement que
+vient d'esquisser Sénèque mérite qu'on s'y attarde parce qu'il est
+particulièrement important dans le stoïcisme. On pourrait le schématiser comme
+ça : Prémisse 1 : Nos désirs et nos craintes sont entièrement causés par nos
+représentations. Prémisse 2 : Nous pouvons contrôler nos représentations.
+Conclusion : Nous pouvons contrôler nos désirs et nos craintes. C'est très
+important ce raisonnement parce que, comme on l'a vu, l'idéal de l'éthique
+stoïcienne c'est de régler nos désirs sur l'ordre du monde. Or une objection
+qu'on pourrait faire à ça c'est que, malheureusement, on n'a pas vraiment de
+contrôle sur nos désirs et nos craintes. Typiquement, Anakin est très attaché à
+sa mère et plus encore à Natalie Portman, c'est comme ça, il y peut rien, c'est
+les hormones; et cet attachement suscite chez lui le désir qu'elle reste vivante
+et la crainte qu'elle meurt. Et malheureusement l'ordre du monde va le
+contrarier sur ce point, et Anakin n'aime vraiment pas être contrarié, le
+pauvre. Mais donc ce petit raisonnement stoïcien justifierait pourquoi en fait,
+si, il ne dépendait bien que de lui de régler ses désirs sur l'ordre du monde,
+même dans un cas tel que la perte d'un proche : parce que nos désirs naissent de
+nos représentations et que nos représentations ne dépendent que de nous.
+(T'avais qu'à te représenter Natalie Portman autrement, espèce de petit
+vicelard. Ça m'étonne pas que tu finisses du côté obscur, tiens.) Qu'est-ce que
+j'ai fait...
+
+A quel point ce raisonnement stoïcien tient-il la route ? Eh bien, d'abord,
+notons qu'il semble valide, c'est-à-dire que les prémisses amènent bien
+logiquement à la conclusion. Mais doit-on tenir les prémisses pour vraies ? La
+prémisse 1 (désirs et craintes causés par nos représentations) ça semble plutôt
+crédible et c'est l'un des thèmes favoris des stoïciens. Par exemple chez
+Épictète : « Ce qui tourmente les hommes, ce n'est pas la réalité mais les
+jugements qu'ils portent sur elle. Ainsi, la mort n'a rien de redoutable. Ce qui
+est redoutable, c'est l'opinion que la mort est redoutable. » En somme, quand je
+désire X ou que je crains Y, c'est en vertu de la représentation que je m'en
+fais : c'est parce que je me représente X comme un bien et Y comme un mal.
+Pourquoi pas. C'est le genre de truc qu'on retrouvera chez Spinoza d'ailleurs,
+qui a largement pioché chez les stoïciens. Et pourquoi pas, ça paraît assez
+solide comme prémisse. La prémisse 2 est… plus subtile. On trouve effectivement
+chez les stoïciens l'idée que ce qui ne dépend que de nous ce sont nos pensées.
+C'est même dans la première phrase du manuel d'Épictète. Cette première phrase
+pose la distinction fondamentale pour le stoïcisme entre ce qui dépend de nous
+et ce qui n'en dépend pas. Et qu'est-ce qui dépend de nous ? C'est d'abord le
+jugement, c'est-à-dire la représentation, l'opinion qu'on porte sur les choses.
+Et par conséquent ensuite, le désir et l'aversion dépendent de nous aussi,
+puisqu'ils naissent du jugement. Mais est-ce que ça signifie que le sage
+stoïcien est libre de former arbitrairement n'importe quelle représentation,
+même une représentation erronée si ça l'arrange. Parce que après tout, se mentir
+à soi-même peut être un moyen efficace de contrôler ses désirs, comme le renard
+de la fable qui désire manger les raisins, mais qui, ne pouvant pas les
+atteindre, se convainc finalement que les raisins sont « trop verts et bons pour
+les goujats ». En cela n'est-il pas un bon stoïcien qui a modifié ses
+représentations pour corriger son désir vain de raisin inaccessible ? Eh bien,
+non, pas du tout. L'idée du stoïcisme c'est plutôt que c'est en se faisant une
+représentation CORRECTE des choses que l'on règlera ses désirs sur l'ordre du
+monde. Il n'est pas question de se mentir à soi-même mais au contraire de poser
+un regard lucide et détaché. C'est très apparent par exemple dans ce passage des
+Pensées pour moi-même de l'empereur Marc-Aurèle : « De même que l’on peut se
+faire une représentation de ce que sont les mets et les autres aliments de ce
+genre, en se disant : ceci est le cadavre d’un poisson; cela, le cadavre d’un
+oiseau ou d’un porc; (...) de l’accouplement, qu’il est le frottement d’un boyau
+et l’émission, dans un spasme, d’un peu de morve. (...) Toutes les fois que les
+choses te semblent trop dignes de confiance, mets-les à nu, rends-toi compte de
+leur peu de valeur et dépouille-les de cette fiction qui les rend vénérables. »
+« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce
+qu’il est, en commençant par les choses les plus petites. Si tu aimes un vase
+d’argile, dis-toi : — C’est un vase que j’aime — ; et, s’il se brise, tu n’en
+seras pas troublé. Si tu embrasses ton enfant ou ta femme, dis-toi: — C’est un
+être humain que j’embrasse — ; et, s’il meurt, tu n’en seras pas autrement
+troublé. » Donc peut-être qu'un stoïcien recommanderait plutôt au renard de se
+représenter le raisin tel qu'il est, c'est-à-dire un ovaire de plante charnu et
+gélatineux, un bien extérieur, périssable, qui ne dépend pas de lui, et dont sa
+vertu ne dépend pas.
+
+## La richesse et les indifférents préférables
+
+Car ce n'est point d'avoir peu, c'est de désirer plus, qu’on est pauvre. Je dis
+qu’Alexandre le Grand lui-même était pauvre, lui qui désirait toujours quand il
+avait tout. Tandis que je n’estime point pauvre l’homme qui, si peu qu’il lui
+reste, a la sagesse de s’en satisfaire. Qui s’accommode de sa pauvreté est
+riche. Ouais ouais d'accord. J'entends bien, mais (je suis désolé de revenir
+là-dessus) je peux pas m'empêcher de trouver assez cocasse de recevoir des
+leçons de pauvreté de la part de l'homme le plus riche de Rome. Et allez, ça
+recommence… Parce que bon, trois cent millions de sesterces ou non, on va pas se
+mentir : vous êtes à l'aise financièrement. Vous avez de l'or à plus savoir
+qu'en faire, des esclaves, des villas, des possessions outremers jusqu'en Égypte
+! Ajoute à ces blâmes que je bois du vin plus vieux que moi dans une vaisselle
+trop précieuse, que mes domaines sont mieux cultivés que ne l'exige la nature,
+et que j'ai trop d'esclaves pour me souvenir du nom de chacun. J'en conviens. Je
+me fais les mêmes reproches et bien davantage. Et alors ? Et alors on se demande
+pourquoi vous vous permettez de donner des grandes leçons stoïciennes sur la
+vertu et l'importance de se satisfaire de ce qu'on a ! Je ne suis pas sage,
+certes, et ne le serai sans doute jamais. Mais pourquoi me reprocher de mettre
+plus de sagesse dans mes écrits que dans mes actes ? Je ne prétends pas y parler
+de moi et de comment je vis, mais de la vertu et de comment *il faut* vivre. Et,
+lorsque j’invective les vices, c’est en premier lieu aux miens que je m’adresse.
+Quand je le pourrai, je vivrai comme il le faut. Si c'est vos sesterces qui vous
+empêchent de vivre comme il faut, il y a un moyen assez simple de vous libérer
+de ces trois cent millions de soucis… C'est pas aussi simple… Et au demeurant,
+un stoïcien n'a pas à s'estimer indigne des dons de la fortune. La richesse a
+beau lui être indifférente, il peut la préférer à la pauvreté. Donc la richesse
+est indifférente, mais quand même à préférer… Exactement.
+
+Alors ça peut sembler étrange cette idée ou à la limite du foutage de gueule :
+être indifférent à la richesse tout en la préférant à la pauvreté. Mais je
+l'invente pas, c'est vraiment un point très classique de la doctrine stoïcienne,
+on appelle ça les indifférents préférables, et c'est assez important pour saisir
+l'évolution du cynisme vers le stoïcisme. Comment, d'un punk à chien répondant «
+Ôte-toi de mon soleil » à Alexandre le Grand, on est passé à un milliardaire en
+toge qui reçoit sans sourciller les nombreux cadeaux de l'empereur Néron.
+Pourtant il est censé y avoir une filiation directe entre les deux écoles de
+pensée. On l'a vu : Sénèque, en tant que stoïcien se sent sincèrement proche des
+cyniques et s'y réfère très souvent. Le truc c'est que, pour les cyniques, tous
+les biens extérieurs que sont les richesses, les honneurs, etc., sont perçus
+comme des distractions et donc des obstacles à la vertu qu'il faut rejeter
+complètement, activement, d'où le mode de vie marginal des cyniques. Et certes
+les stoïciens sont d'accord sur le fait qu'il ne faut pas s'attacher à ces biens
+extérieurs, qu'il ne faut pas désirer être riche, honoré, en bonne santé, etc.,
+car tout cela ne dépend pas de nous et ne contribue pas à une vie vertueuse ;
+seulement, la subtilité des stoïciens, c'est que eux ne disent pas que ces
+choses sont à fuir, à rejeter : ils disent seulement qu'il faut y être
+indifférent. Les posséder, tant qu'on leur reste indifférent, tant qu'on ne s'y
+attache pas, ce n'est donc pas en soi un mal ni un bien, pas plus que de ne pas
+les posséder. En somme, là où être cynique exige de s'écarter activement de ces
+biens extérieurs, être stoïcien exige seulement de ne pas les chercher, de ne
+pas s'en soucier, de les traiter en choses indifférentes. Et parmi ces choses
+indifférentes, les stoïciens reconnaissaient que, toutes choses égales par
+ailleurs, certaines sont tout de même préférables à d’autres. Par exemple la
+richesse et la pauvreté sont indifférentes, mais la première est préférable à la
+seconde. De même pour la santé, préférable à la maladie, etc. Mais c'est
+préférable dans l’indifférence : le sage ne désire en fait ni la richesse ni la
+santé, il sait que ces choses-là ne dépendent pas de lui, sont extérieures, ne
+touchent pas à sa vertu, mais bon, quand même, toutes choses égales par
+ailleurs, mieux vaut la thune et ne pas être malade. Ce sont des indifférents,
+mais des indifférents préférables. Bon ça reste bizarre on est d'accord, mais
+c'est du stoïcisme pur jus.
+
+Le sage, quand il pourrait cheminer à pied, aimera cependant mieux monter sur un
+char; de même, s’il peut être riche, il acceptera la richesse ; il ne souffrira
+qu’elle pèse ni à personne, ni à lui-même. Non mais ça me pèserait pas
+spécialement vos sesterces, hein, si vous voulez vous en délestez… Je vois bien
+que tu es de ceux qui y attaches trop d'importance : tu crois que les richesses
+t'appartiennent mais tu appartiens aux richesses. Le sage, lui, les méprise et
+peut les posséder sans inquiétude. (Et ça lui permet au passage de payer pour
+l'entretien de sa villa, c'est pratique.) Mais que la fortune lui vienne ou se
+retire, le sage ne s'en aperçoit pas. Les richesses ne touchent pas son âme
+quand elles emplissent son coffre. Ah c'est très joli… Je sais pas si ça a du
+sens mais c'est très joli. Renonce donc à interdire l’argent aux philosophes.
+Nul n’a condamné la sagesse à la pauvreté.
+
+Sénèque a écrit quasiment un traité entier pour expliquer pourquoi il a bien le
+droit d'être pété de thunes tout en étant stoïcien. C'est le traité qui
+s'intitule La vie heureuse, et à peu près tout ce qu'il vient de nous dire
+depuis cinq minutes en est tiré directement. (D'ailleurs de façon générale, une
+large partie de ce qu'il dit depuis le début est tiré presque tel quel de ses
+écrits. Oui c'était l'avantage avec Sénèque, j'avais vraiment beaucoup de
+matière.) Et oui, quand il s'y met, c'est une machine à citation inspirante
+Sénèque, je pense qu'il aurait fait les meilleurs TedTalk de l'Antiquité, si les
+Anciens avaient connu ça. « Pour arriver aux richesses, le mépris des richesses
+est la voie la plus courte. » « La pauvreté n’est un mal que pour qui se révolte
+contre elle. » On va le mettre dans ma formation ça.
+
+Un stoïcien comme Épictète, qui a connu l'esclavage et vivra modestement durant
+toute sa vie aura souvent des mots durs envers ces stoïciens de papier, qui
+dissertent brillamment sur la vertu et la pauvreté sans la mettre le moins du
+monde en pratique : « Ne te dis jamais philosophe, et ne bavarde point sur les
+théories philosophiques devant le vulgaire; mais fais ce qui découle de ces
+théories : de même, dans un festin, ne dis pas comment il faut manger, mais
+mange comme il faut. » Sympa aussi comme punchline. Épictète représente beaucoup
+mieux l'idéal du sage stoïcien, à la fois dans ses écrits et dans sa vie. Ceci
+dit on a eu tendance parfois à en rajouter pas mal sur son compte. Par exemple,
+il y a une légende selon laquelle, quand Épictète était encore esclave, son
+maître aurait éprouvé son stoïcisme de facon assez radicale : en appuyant très
+fort sur sa jambe pour la briser. Épictète aurait seulement signalé très
+calmement : « Attention, ça va casser ma jambe ». Puis, quand ladite jambe s'est
+cassée, toujours impassible : « Tu vois, je te l'avais dit. Maintenant elle est
+cassée ». Quand on parle de rester « stoïque » face à la douleur, ça vient
+probablement de ce genre d'histoire. Mais cet épisode a clairement été inventé
+plusieurs siècles après la vie d'Épictète. Le seul élément de vérité, c'est
+qu'il boitait, en effet, mais on a aucune raison de penser que son maître lui a
+cassé la jambe, et globalement, tout ce thème de l'indifférence absolue du sage
+stoïcien face à la douleur, c'est une idéalisation assez absurde. N'exagérons
+pas : ça donne pas des superpouvoirs, d'être stoïcien. Quoi qu’il en soit, le
+sage aura toujours un moyen très simple de se libérer de la souffrance si
+celle-ci est insupportable. La mort. Se donner lui-même la mort. Alors… faudrait
+peut-être un trigger warning : on va parler de suicide, ça peut choquer…
+Qu'est-ce qui pourrait choquer ? Quoi de plus exemplaire que le sage qui, dans
+un acte de liberté ultime, se donne lui-même la mort ? Et quoi de plus facile
+aussi ? On voit en cela combien la providence est bienveillante : pour un seul
+moyen d’entrer dans la vie, il y en a mille d’en sortir. Oui enfin on va pas non
+plus l'encourager hein... Voilà pourquoi nul n’est malheureux que par sa faute :
+vous plaît-il de vivre ? Vivez. Vivez ! Et sinon, vous êtes libres de retourner
+d'où vous êtes venus… Pourquoi vous plaindre de la vie, puisque la vie ne vous
+retient pas ? C'est dingue, vous les philosophes vous avez jamais peur de la
+mort, c'est jamais un problème. Loin que la mort soit à craindre, nous lui
+devons de ne plus craindre rien. Elle n’est que la fin de toute sensation, la
+décomposition naturelle du corps en ses éléments qui retournent se mêler au
+reste de l’univers.
+
+## La mort de Sénèque
+
+Il y a un téléphone qui a sonné, il faudrait le… Ah c'est moi, c'est moi. Ah bah
+c'est Néron en plus. Néron, l'empereur ? Vous... Ah ouais l'empereur, ouais.
+L'empereur... Il y a un problème ? Bah euh... Il m'ordonne de me suicider.
+Voilà. C'est marrant, juste au moment où on parlait de... on parlait de ça.
+C'est comme si tout était lié, quoi. Il y a un destin ou quoi ? Vraiment
+c'est... C'est drôle. Ok. Bon. Vous, vous avez... C'est bon, c'est fini
+l'interview ? Bah on aurait pu continuer un peu éventuellement si... Ouais. Je
+pense qu'il va pas apprécier. Bon, déjà je vais lui répondre. Euh... Ok, pour
+18h, ce qui me semble être une bonne heure pour se suicider j'imagine. Donc ok.
+En plus là, postérité. Là c'est sûr. Suicide du stoïcien, c'est... cadeau ! On
+prend. Ok, bien sûr. Pas de souci. Je le ferai avec ma femme. Voilà. Suicide.
+Voilà. Ouais.
+
+Eh oui, les choses ont tourné au vinaigre entre l'empereur Néron et son ancien
+précepteur Sénèque. Faut dire que la politique romaine à cette époque-là, c'est
+sanglant… C'est sanglant et bordélique. Game of Thrones c'est tout mignon à
+côté. Quand Néron a accédé au trône, Sénèque est passé du statut de précepteur à
+celui de conseiller et ami. Et si les débuts du règne ont été plutôt
+prometteurs, après quelques années, force a été de constater que, non, Néron
+n'est pas devenu un stoïcien accompli et qu'il commençait à sérieusement mal
+tourner, genre à assassiner beaucoup trop de membres de sa famille et de son
+entourage. (Un ou deux, ça va, mais au bout d'un moment ça gâche vraiment
+l'ambiance et surtout ça témoigne d'une certaine faiblesse de caractère.) Du
+coup, Sénèque a commencé à essayer de prendre ses distances, en particulier
+après que Néron a fait assassiner Agrippine, sa propre mère (qui avait pas les
+mains toutes propres non plus, d'accord, mais quand même, c'est pas joli joli
+pour sa maman). Et comme Sénèque était le meilleur pote de Néron à ce moment, il
+s'est retrouvé à cautionner et participer indirectement à cet assassinat, ce qui
+a pas mal terni l'image du philosophe. C'était bien la peine de dédier à Néron
+un traité sur la clémence… Il a pas dû tout comprendre. Mais Néron n'a pas
+accepté que Sénèque prenne sa retraite et renonce par là à son statut d'« ami du
+prince », ce qui aurait ressemblé à un désaveu public. Donc Sénèque est resté
+officiellement dans l'entourage de l'empereur, même si en pratique il vivait
+retiré des affaires et que Néron de son côté était de plus en plus hostile à son
+ancien précepteur… Parce qu'en fait, apparemment, mon nom s'est retrouvé mêlé à
+une histoire de conspiration contre lui, la conjuration de Pison. Moi j'ai rien
+à voir avec ça mais peu importe : Néron en profite pour se débarrasser de moi.
+J'imagine que vous auriez aimé avoir une meilleure influence sur Néron. On a vu
+mieux comme ancien élève, c'est une grosse déception, non ? Pour être déçu, il
+faut avoir espéré. Vous n'espériez pas mieux de Néron ? Non, en tant que
+stoïcien, je ne dois avoir ni espoir ni crainte. Je sais que les actions de
+Néron ne dépendent pas de moi. Pourquoi avoir été son précepteur et son
+conseiller dans ce cas ? J'ai l'impression que le côté fataliste du stoïcisme ça
+devrait décourager de la politique, non ? Non, pas du tout : c'est pas parce que
+tout ce qui arrive arrive nécessairement qu'il faut renoncer à agir en
+politique. Les stoïciens ont toujours encouragé à s'y engager si l'occasion s'en
+présente. Seulement il faut s'y engager, non pour réussir, mais pour agir en vue
+de ce qui est juste. Il se trouve que la providence m'a placé sur le théâtre de
+la politique à Rome sous les règnes de Caligula et Néron. J'avais un rôle à y
+jouer, je l'ai joué du mieux que j'ai pu. Voilà tout. Et donc ça se termine là,
+avec ce message de Néron… Il ne dépendait pas de moi que cela finisse autrement.
+Et au demeurant, Néron fait les choses poliment : message what's app, c'est une
+invitation au suicide. C'est presque cordial. Et c'est le genre d'invitation
+qu'on peut refuser ou... Quand le destin nous indique qu'il est temps de sortir
+de scène, il ne convient pas de traîner les pieds. On m'a assez reproché de ne
+pas vivre en parfait stoïcien, vous l'avez fait pendant toute l'interview, je
+m'efforcerai au moins de mourir comme tel. Comme j'ai pu l'écrire un jour : «
+bien mourir c'est nous soustraire au danger de mal vivre ». C'est quand même
+dommage. Vous auriez pu écrire encore tellement de choses. On vit jamais assez
+longtemps, au fond, vous trouvez pas ? « À vivre assez, les ans ni les jours n’y
+font rien; ce qui fait tout ici, c’est l’âme. J’ai vécu autant qu’il me fallait
+: j’attends la mort rassasié de jours. » Voilà encore autre chose que j'écrivais
+à mon ami Lucilius, il y a bien des années. Merci pour cette interview. Vous
+voulez peut-être qu'on vous appelle un taxi ? Oh, non non, c'est gentil c'est
+pas la peine. Non, je vais juste rentrer chez moi et m'ouvrir les veines dans
+mon bain, j'imagine. Peut-être que je vais essayer la ciguë, l'occasion ou
+jamais, je sais pas quel goût ça a, un peu curieux... Si j'ai le temps
+j'écrirai, vous verrez ça, peut-être. Faut voir avec mon éditeur. Allez. Bon
+bah, bonne fin de journée. Merci, merci beaucoup. C'était super. Merci l'équipe.
+Merci. Génial. J'ai apprécié.
+
+D'après le récit qu'en donne Tacite, le suicide de Sénèque a été assez long et
+laborieux. Avec un coup de ciguë au passage. Petit plaisir de philosophe, ça se
+refuse pas. Ainsi finit Sénèque, qui aura au moins réussi sa mort. À peu près.
+Et notez qu'on peut pas en dire autant de tous les stoïciens. Prenez le grand
+Chrysippe qu'on considère souvent comme l'égal de Zénon et le deuxième fondateur
+du stoïcisme, un véritable modèle de sagesse stoïcienne durant toute sa longue
+vie. Eh bien voilà comment sa mort a été rapportée : « Quelques-uns disent que
+Chrysippe mourut pour avoir éclaté de rire en regardant un âne manger des
+figues. Il dit en effet à la vieille à qui l’âne appartenait : «Donne donc aussi
+un peu de vin à ton âne.» Et il s’en amusa tant qu’il en mourut. » Donc, le
+deuxième fondateur du stoïcisme est mort de rire. Et de rire à sa propre blague.
+Est-ce qu'il y a une leçon philosophique à tirer de ça ? (Je comprends même pas
+la blague en plus. L'humour stoïcien ça me dépasse.)
+
+J'espère que cette vidéo vous aura plu. N'hésitez pas à vous abonner. Et d'ici
+là : love, peace, ciao. Arrivederci, comme on ne disait pas dans l'empire
+romain. On disait quoi ? Comment on dit au revoir en latin ? Arriverdercius.
+Tchuss. Peut-être qu'on disait « Tchuss » en fait, tout simplement.

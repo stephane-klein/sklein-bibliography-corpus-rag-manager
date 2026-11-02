@@ -1,0 +1,858 @@
+---
+source_url: https://www.youtube.com/watch?v=Yaw6r72MBus
+video_title: Le néolibéralisme est-il compatible avec la transition écologiste?
+generated_at: 2026-09-20T18:32:31.399Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 111.4
+  input_tokens: 18409
+  cached_input_tokens: 0
+  output_tokens: 33575
+  estimated_cost_usd: 0.022906
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Le néolibéralisme est-il compatible avec la transition écologiste?
+
+Bonsoir à toutes et à tous, et merci d’être venus nombreux à cette conférence
+organisée par l’Université populaire Albert Jacquard.
+
+Je voulais faire une conférence sur deux thèmes importants. Un thème que je
+connais bien pour l’avoir beaucoup travaillé : le néolibéralisme. C’est
+d’ailleurs la raison pour laquelle je fais souvent des conférences ici : j’ai
+aussi des livres à vendre. J’ai oublié de les porter ici, mais il se trouve que
+j’écris un certain nombre d’ouvrages. Mes deux derniers sont vraiment dédiés à
+la question du néolibéralisme : en 2020, *Populisme et néolibéralisme*, et en
+2022, en octobre dernier, *Déclin échu du néolibéralisme*. Je prends donc le
+néolibéralisme et je vais l’envisager non pas comme un synonyme
+d’ultralibéralisme, ou comme quelque chose qu’il faudrait combattre. Dans la
+question du néolibéralisme, je ne mets pas d’affect, je ne mets pas… ce n’est
+pas pour moi un mot péjoratif ; ça peut l’être dans les discours militants, mais
+ce qui m’intéresse, c’est le concept scientifique qu’il y a derrière. C’est ce
+que je vais essayer de vous expliquer. Puis la deuxième chose dont je vais
+parler, bien sûr, c’est la transition écologique. C’est un sujet que beaucoup de
+gens connaissent, qui est au cœur de l’actualité, beaucoup plus encore que le
+néolibéralisme. Je ne vais sans doute pas dire grand-chose de nouveau sur la
+transition écologique ; je vais seulement rappeler certaines bases. La chose
+nouvelle que je vais essayer de faire, c’est de parler de la transition
+écologique à l’aune de ce que personnellement j’ai appris et compris du
+néolibéralisme à travers mes recherches. Je pense que vous allez voir que
+normalement vous allez apprendre des choses, puisque l’objectif est de montrer
+pourquoi, en quelque sorte, nous n’arrivons pas à organiser la transition
+écologique. C’est un peu la question sous-jacente de cette conférence.
+
+## Qu’est-ce que la transition écologique ?
+
+La première chose qu’il faut dire, c’est : qu’est-ce que la transition
+écologique ? Qu’est-ce que ça signifie ? Qu’est-ce qu’on veut dire quand on
+parle de transition écologique ? D’abord, il faut distinguer transition
+écologique et transition énergétique.
+
+Quand on parle de transition énergétique, on parle de réduire nos émissions de
+gaz à effet de serre, de quitter les énergies carbonées, essentiellement le
+pétrole, le charbon, le gaz, etc., pour arriver vers un modèle énergétique
+plutôt fondé sur les énergies renouvelables. Il y a aussi la question du
+nucléaire, sur laquelle je ne reviendrai pas, qui pour certains fait partie des
+transitions énergétiques et pour d’autres non. Mais ce n’est pas la question
+ici. La question, c’est qu’aujourd’hui l’essentiel de l’énergie que nous
+consommons est une énergie carbonée. Il ne faut pas voir uniquement
+l’électricité : il faut aussi prendre en compte les transports, l’industrie,
+etc. Aujourd’hui, l’acier se fait à partir du charbon, encore aujourd’hui en
+Europe ; il faut donc aussi du charbon pour faire de l’acier. Tout ce qu’on
+consomme qui a de l’acier a donc émis des gaz à effet de serre.
+
+Mais la transition écologique, pour moi, va plus loin que la transition
+énergétique, puisqu’elle intègre aussi les questions environnementales plus
+globales : par exemple la sauvegarde des écosystèmes, la pollution. Et puis il y
+a une autre question qui pour moi fait partie de la transition écologique :
+derrière la transition écologique, il y a l’idée d’avoir un système productif
+qui soit soutenable. Se pose donc la question de la raréfaction de nos
+ressources naturelles, et bien sûr des ressources minières et autres, notamment
+tout ce qui n’est pas renouvelable. Il est évident que quand on aura récupéré
+tout le cuivre qu’on pourra récupérer, on n’aura plus de nouveau cuivre à
+récupérer. Se pose donc tout un ensemble de questions : sortir d’un certain
+modèle productif fondé sur une logique extractiviste, c’est-à-dire une logique
+dans laquelle on extrait de l’environnement les ressources dont on a besoin,
+qu’elles soient renouvelables ou non. C’est ça la différence : il y a des
+ressources renouvelables qu’on peut évidemment continuer d’extraire — je pense
+par exemple à l’énergie solaire, à l’éolien, ou même au bois, à l’agriculture ;
+tout ça produit des choses renouvelables. Mais malheureusement, dans la logique
+actuelle de notre système productif, on utilise aussi des ressources non
+renouvelables. Non renouvelables veut dire parfois dont la quantité est limitée,
+et donc on continue d’extraire de l’environnement des ressources dont on sait
+qu’elles ne vont pas réapparaître.
+
+Ce modèle, par définition, si on récupère des ressources non renouvelables pour
+notre système économique qui fonctionne comme un flux, nourrit un flux par
+l’appauvrissement d’un stock ; il arrivera forcément un moment où le stock étant
+épuisé, le flux s’arrête. Quand le flux s’arrête, cela veut simplement dire que
+notre activité économique s’arrête. C’est ça que ça veut dire. Non seulement ce
+système n’est pas soutenable, mais en plus il y a un deuxième effet dans le
+modèle extractiviste : il engendre en général de la pollution, des déchets. Et
+ces déchets, on ne sait pas comment les traiter ; on les traite très mal,
+c’est-à-dire qu’on les envoie dans l’environnement. D’où la pollution des
+océans, d’où la disparition de certains écosystèmes. Cela veut dire qu’en fait
+notre activité économique prélève des ressources précieuses dans l’environnement
+et jette des ressources inutiles, nuisibles, dans ce même environnement. Il est
+clair que ce système, ce mécanisme extractiviste, cette logique extractiviste
+n’est pas durable. Elle n’est pas durable peut-être à l’échelle de quelques
+décennies, quelques années ou quelques siècles, mais dans tous les cas de
+figure, cela veut dire que nous sommes en train de détruire notre avenir pour
+vivre notre présent, en quelque sorte. Et même si l’avenir peut apparaître
+lointain pour certains d’entre nous, il y a des ressources dont on sait —
+notamment le pétrole — qu’elles sont aujourd’hui absolument indispensables. La
+plupart d’entre vous sont venus en voiture, ont donc utilisé du pétrole pour
+venir. Clairement, tout le monde n’est pas tout à fait d’accord pour savoir si
+on a vraiment passé le pic pétrolier, mais ce qui est clair, c’est qu’on est
+plus ou moins dedans. C’est-à-dire que dans les vingt ou trente prochaines
+années, dans trente ans, on extraira moins de pétrole qu’aujourd’hui. Cela veut
+dire qu’il va falloir se limiter, alors même que la population mondiale va
+augmenter et que les besoins de tout un ensemble de sociétés en voiture, en
+carburant, vont augmenter. On va donc se retrouver, pour le pétrole par exemple
+— mais ce n’est qu’un exemple — avec une sérieuse limite dans notre système
+productif.
+
+Si on n’a pas de transport, si on n’a pas de pétrole, on n’a pas de transport.
+Si on n’a pas de transport, on n’a pas de commerce. Si on n’a pas de commerce,
+tout un ensemble de choses qu’on ne peut pas faire, notamment produire plein de
+choses. Par exemple, notre alimentation animale aujourd’hui en France, à 80 %,
+vient d’importations de céréales étrangères, de soja ou de céréales étrangères.
+On a tout un cheptel de bovins, de volailles, d’ovins, etc., mais beaucoup sont
+nourris — il y a bien sûr des productions locales, mais une grande partie de la
+production animale céréalière est importée, notamment d’Amérique du Sud. Donc ce
+système n’est pas soutenable.
+
+Et donc logiquement — et là encore, ce n’est même pas un discours militant que
+je suis en train de vous tenir, c’est juste un discours logique — logiquement,
+il faut en changer. Comment peut-on en changer ? Il faut passer d’une logique
+extractiviste à une logique d’économie circulaire. Cela ne suffira pas, mais
+c’est la première chose : il faut penser circularité. Qu’est-ce que cela veut
+dire, penser circularité ? Cela veut dire que nos ressources, il faut les
+réutiliser. Une fois qu’on a produit quelque chose avec nos ressources et que
+ces produits ensuite on les a jetés, on va créer des déchets ; il faut être
+capable — il faudrait être capable, et ce n’est pas si compliqué que ça en
+réalité — de récupérer nos déchets, de les recycler et de les réutiliser. On le
+fait en partie, mais dans des proportions qui sont très en deçà de ce qu’il
+faudrait faire, notamment pour tout un ensemble de choses. Puis il y a des
+choses qu’on ne peut pas réutiliser. Le pétrole, on le brûle, et là forcément,
+par définition, on ne peut pas récupérer ensuite les atomes. On pourrait
+théoriquement récupérer le carbone de l’air et ensuite, avec de l’énergie,
+reconstruire un carburant de synthèse, mais ce serait très, très coûteux et a
+priori pas faisable, parce qu’il faudrait beaucoup d’énergie également.
+
+Donc la première chose, c’est essayer dans la mesure du possible de rentrer dans
+une logique d’économie circulaire. Parfois, quand on dit ça, on dit : « Oui,
+mais tout n’est pas recyclable. » C’est vrai, tout n’est pas recyclable, et cela
+veut dire qu’il faut rajouter d’autres choses. Mais quand même, on pourrait
+recycler bien plus ce qu’on fait. Par ailleurs, des systèmes circulaires, ça
+existe : complètement circulaires ou quasiment complètement circulaires, ça
+existe. Je le dis toujours parce que les gens sont très étonnés : qu’est-ce que
+c’est qu’un écosystème ? Qu’est-ce que c’est que la biosphère ? La biosphère,
+c’est un mécanisme qui fonctionne quasiment exclusivement en économie
+circulaire. Que fait la biosphère ? On a des déchets organiques qui en général
+nourrissent les plantes, qui nourrissent les animaux, puis il y a toute la
+chaîne alimentaire derrière, et puis à la fin des déchets organiques qui
+eux-mêmes sont réutilisés ensuite par les plantes. Ce mécanisme ne peut
+fonctionner — tous ceux qui ont fait un peu de biologie le savent — que s’il y a
+un apport d’énergie. Parce que bien sûr, les lois de la thermodynamique font
+qu’on ne peut pas recycler à l’infini, puisqu’il y a toujours une perte
+énergétique à la fin qu’on ne peut pas récupérer. Et d’ailleurs, c’est ce qui se
+passe : les écosystèmes, et la biosphère en général, prélèvent de l’énergie
+solaire, et c’est ainsi que depuis des centaines de millions d’années elle se
+perpétue. Il y a de la pollution, bien sûr, mais cette pollution est toujours
+exploitée. Les écosystèmes polluent quelque part puisqu’ils dénaturent
+l’environnement, mais en dénaturant l’environnement, ils donnent des nutriments
+pour d’autres plantes, pour d’autres micro-organismes, etc., qui vont eux-mêmes
+participer de la chaîne circulaire de la biosphère. Donc je dis ça parce que
+l’économie circulaire est possible, au sens où la nature le fait depuis des
+centaines de millions d’années. Ce système que fait la nature, on devrait
+pouvoir s’en inspirer.
+
+Évidemment, pourquoi n’y arrive-t-on pas ? On arrive à refaire plein de choses
+que la nature fait, mais pas ça. On n’y arrive pas pour deux raisons. D’abord
+parce que techniquement, on ne sait pas forcément comment recycler tous nos
+déchets. Par exemple nos plastiques, on ne sait pas trop comment les recycler ;
+la plupart finissent dans la mer, dans l’océan. Mais aussi parce qu’en fait on
+ne cherche pas vraiment à le faire. Et c’est ça que je vais essayer d’expliquer
+: ce n’est pas juste qu’on ne peut pas techniquement le faire, c’est qu’on n’a
+pas vraiment envie de le faire parce que ça coûte cher. Parce que dans le modèle
+extractiviste, si ce modèle fonctionne, c’est parce que ça coûte beaucoup moins
+cher de récupérer de nouvelles ressources dans l’environnement plutôt que de
+recycler nos déchets, qui parfois sont toxiques, parfois sont mélangés avec
+plein de choses. Finalement, la logique économique telle qu’elle fonctionne
+aujourd’hui est une logique qui pousse au modèle extractiviste et qui ne permet
+pas d’aller vers le modèle circulaire.
+
+L’économie circulaire, c’est donc quelque chose d’important. Ce n’est pas
+forcément la seule chose qu’il faut viser. Il faut aussi viser à limiter nos
+impacts environnementaux. Si on a le choix entre deux technologies, l’une qui va
+beaucoup polluer, l’autre qui va moins polluer, il faut prendre celle qui va
+moins polluer. Il ne faut pas se dire que parce qu’on va toujours réussir à
+recycler les déchets, on peut se désintéresser de la quantité de pollution qu’on
+émet. Et puis il y a aussi le fait qu’il faut pouvoir réparer les écosystèmes
+endommagés. C’est une chose dont on prend conscience aujourd’hui. D’ailleurs, on
+a réussi parfois à réparer des écosystèmes très endommagés — parfois pas
+complètement, mais parfois partiellement tout de même. Et puis le dernier
+élément dont je voulais parler, c’est que la transition écologique nécessite une
+moindre consommation d’énergie, et on ne va pas y couper, les enfants. L’énergie
+qu’on consomme aujourd’hui est en grande partie, en partie majoritaire, fondée
+sur le pétrole, le charbon, le gaz, les énergies fossiles. Ces énergies
+fossiles, premièrement, ne sont pas renouvelables. Donc forcément, au bout d’un
+moment, on devra s’en passer. Deuxièmement — et c’est ça le vrai problème
+aujourd’hui — ce n’est même pas qu’on n’en a pas assez, c’est aussi que ça crée
+des gaz à effet de serre qui dénaturent le climat. Il faut donc qu’on arrête de
+consommer ces énergies fossiles. Et on sait qu’on n’a pas la technologie pour
+s’en passer. Ce qui serait possible à très long terme, c’est la fusion nucléaire
+; on va dire que c’est le graal de l’énergie. Ça nous coûte… enfin, c’est
+l’énergie du soleil en vérité. Ça ne pollue pas et ça a un potentiel quasiment
+infini de production d’énergie. Mais le problème, c’est que technologiquement on
+n’y est pas, et si on doit attendre que ça fonctionne, il faudrait attendre au
+moins cinquante ans minimum. Dans cinquante ans, on sera en 2070-2073. Et à ce
+moment-là, si on n’a pas arrêté de consommer du charbon, du pétrole, etc., on
+sera à +4 °C, +5 °C, et donc ça va devenir invivable. Donc clairement, à court
+terme, à court et moyen terme, la seule solution qu’on peut avoir, c’est de
+limiter notre consommation d’énergie, parce qu’on n’a pas d’énergie alternative
+réelle aux énergies fossiles. Il va donc falloir qu’on utilise moins d’énergie
+globalement. Même le nucléaire — on va dire la fission — ne pourra jamais, parce
+qu’on n’a pas suffisamment d’uranium partout pour remplacer. On peut peut-être
+en partie remplacer dans l’électricité, mais on ne peut pas, et puis il faudrait
+déjà avoir des centrales nucléaires partout dans le monde, y compris dans des
+pays qui ne sont pas forcément stables, ce qui n’est pas forcément une bonne
+idée. Mais au-delà de ça, au-delà des questions géopolitiques et techniques,
+etc., il n’y aura pas assez d’uranium dans le monde entier pour faire
+fonctionner des centrales comme on a en France. Donc le nucléaire pourrait
+éventuellement être considéré comme une solution pour la France en tant que
+telle, mais pas pour le monde entier ; ça ne peut pas marcher. Donc cela veut
+dire qu’il va falloir avoir moins d’énergie. Voilà, c’est la transition : c’est
+moins d’énergie. C’est à peu près évident.
+
+Donc si je reprends les solutions telles qu’on les connaît aujourd’hui, en tout
+cas : favoriser l’économie circulaire et le recyclage, limiter nos impacts
+environnementaux, réparer les écosystèmes endommagés, et puis économiser
+l’énergie. Quelque part, on peut dire que nous savons ce qu’il faut faire
+rationnellement. Nous savons ce qu’il faut faire. Nous savons vers quoi il faut
+tendre. Mais quelque part, ce n’est pas dans ce mécanisme de transition
+écologique que nous allons.
+
+Il y a plein de façons de le dire. On voit bien que les écosystèmes ne sont pas
+réparés. On voit bien que la consommation d’énergie dans le monde augmente. On
+voit bien que les émissions de gaz à effet de serre globalement augmentent. Il
+faut comprendre qu’il ne faut pas juste diminuer nos émissions de gaz à effet de
+serre, il faut arrêter. C’est l’objectif. Donc là, on accélère la destruction de
+l’environnement aujourd’hui. On n’est pas en train de changer, on n’est même pas
+en train de stabiliser. On continue d’accélérer dans la destruction de
+l’environnement. C’est la logique actuelle. Ce n’est pas vrai complètement dans
+tous les pays. Par exemple, on voit qu’en France, on a moins d’émissions de CO2
+maintenant qu’en 1990, et même quand on prend en compte les importations, il y a
+un léger découplage dans certains pays développés. Mais le fait qu’on ait réduit
+nos émissions de gaz à effet de serre ne veut pas dire qu’on est soutenable. On
+est très, très loin de la soutenabilité aujourd’hui, y compris dans un pays
+comme la France. Et quand on regarde les pays en voie de développement, bien
+sûr, c’est l’inverse, parce que parfois il n’y a même pas d’État, il n’y a pas
+assez d’argent, il n’y a pas assez de volonté politique, il n’y a pas assez de
+technologie pour réussir à engager un processus de transition écologique. Donc
+globalement, même si dans certains pays on peut voir qu’il y a une conscience et
+un mini changement de direction, à l’échelle du monde entier, il n’y a aucun
+changement de direction. On continue d’accélérer dans la destruction de
+l’environnement.
+
+## Pourquoi ne faisons-nous pas ce que nous savons devoir faire ?
+
+Il y a deux manières de répondre à ce constat. Ce constat est double : un, on
+sait ce qu’il faut faire ; deux, on ne le fait pas. Donc la question est :
+pourquoi ? Il y a deux réponses à ça. La première réponse, c’est celle qui est
+souvent la plus évidente, mais celle dont je vais immédiatement évacuer, je vous
+préviens tout de suite, parce que moi elle ne m’intéresse pas : si c’est ça,
+alors il n’y a rien à faire. La première réponse, c’est de dire : c’est à cause
+des lobbys, du capitalisme, des gouvernements, des riches, des riches
+industriels qui n’ont pas intérêt à la transition écologique. Donc forcément, on
+ne peut pas, nous petits citoyens, changer les choses, parce qu’en face de nous
+les gens sont trop puissants et ils n’ont pas intérêt à changer le système. Je
+ne dis pas que cette réponse est fausse. Je dis simplement qu’elle nous condamne
+à l’impuissance, parce qu’à part faire la révolution — et comme on n’a pas les
+rapports de force pour nous, on sera tous morts avant, et on n’aura rien changé.
+Par ailleurs, il y a quand même un petit paradoxe dans cette réponse : au bout
+d’un moment, les riches aussi vivent sur la planète. Je pense que pour le coup,
+la question écologique devrait être une question consensuelle, globalement,
+parce que l’argent ne se mange pas et que quand on commence à avoir des
+canicules, ça fait peur à tout le monde. Ça ne fait pas peur qu’aux pauvres, ça
+fait aussi peur aux riches.
+
+Ma réponse, c’est donc que ce n’est pas un problème individuel, ce n’est pas un
+problème de personnes malfaisantes. D’une part parce que je pense que si on
+pense que c’est un problème de personnes malfaisantes, malheureusement on ne
+peut rien faire. On ne peut pas changer les gens. On ne peut pas compter sur la
+bonté des gens ou sur leur conscience morale pour changer les choses. Il faut
+donc qu’on trouve un autre aspect du problème, et c’est celui-ci dont je vais
+parler : un problème de système. Il y a un problème dans notre système qui fait
+que, en quelque sorte, on va vers l’accélération de la destruction de
+l’environnement spontanément, et pas vers la transition écologique.
+
+Je peux poser les choses différemment. Dans toute société, il y a des gens
+malfaisants, des gens qui aiment le pouvoir, la richesse, puis des gens qui ont
+une conscience collective. Dans toutes les sociétés, l’homme est comme ça. Mais
+il y a des sociétés dans lesquelles les gens malfaisants ne peuvent pas agir et
+les gens qui ont une conscience collective parviennent à gagner. Et puis il y a
+des sociétés dans lesquelles c’est l’inverse. Ce qu’on constate aujourd’hui,
+c’est que de fait, ceux qui ont de bonnes volontés, qui veulent essayer d’aller
+vers la transition écologique, n’ont pas les armes pour se faire entendre et
+pour changer les choses. Donc la question est : pourquoi ? Pourquoi finalement ?
+Vous voyez, c’est un peu la même façon de penser les choses. Si on pense les
+choses en termes individuels, si on pense que c’est à cause de certaines
+personnes malfaisantes que le système va à la ruine, on devrait retourner la
+question en disant : pourquoi est-ce que dans notre système, c’est ces gens-là
+qui ont le pouvoir et qui font les choses ? Pourquoi ne vit-on pas dans une
+société où les malfaisants sont impuissants ?
+
+La réponse que je voudrais donner, c’est justement que nous vivons dans une
+société dans laquelle il y a une certaine doctrine, une certaine idéologie, une
+certaine manière de penser — ou plus précisément, et c’est ça que je vais voir
+maintenant, une certaine manière de faire des choix individuels et collectifs —
+qui nous pousse à faire les mauvais choix. Je vais essayer de vous expliquer ce
+soir, et c’est ça que je vais essayer de vous convaincre, que quand on a des
+choix à faire, notre système — on peut dire ça comme ça : notre système
+idéologique, politique, économique — nous pousse systématiquement vers le
+mauvais choix et pas vers le bon choix. Pourquoi c’est comme ça ? D’abord, pour
+parler des choix, il faut distinguer les choix individuels des choix collectifs.
+
+## Les choix individuels
+
+Commençons par les choix individuels. Qu’est-ce que c’est que le choix
+individuel en matière économique ? C’est le choix de consommer, de produire. Et
+ce choix, à l’échelle individuelle, dépend d’une chose : son pouvoir d’achat.
+Parce que qu’est-ce que c’est que le pouvoir d’achat ? Le pouvoir d’achat, c’est
+le pouvoir de choisir ce qu’on va consommer. Si on a beaucoup de pouvoir
+d’achat, on va consommer plus, on va en tout cas pouvoir consommer plus. Si on
+n’a pas beaucoup de pouvoir d’achat, de toute façon, on n’a pas beaucoup de
+choix, on n’a pas beaucoup de choix dans la consommation. Et bien sûr, ensuite,
+il y a un aspect quantitatif, et bien sûr, il y a un aspect qualitatif. On peut
+choisir de faire différentes choses. Par exemple, on peut choisir de passer ses
+vacances à Bali, en Indonésie, ou alors on peut choisir de passer ses vacances
+en vélo. On voit que dans ce choix-là, il y a évidemment un aspect financier :
+le voyage à Bali ne va pas coûter la même chose que le voyage en vélo. Et puis
+il y a un aspect écologique : ça n’a pas coûté à la société la même chose
+d’émettre du CO2 pour aller à Bali et peut-être de polluer l’environnement
+là-bas, ou prendre son vélo et finalement ne pas émettre de CO2, et en plus voir
+les paysages de la France, s’intéresser un peu plus à la nature, être plus
+proche de la nature. On voit bien que ce choix-là n’a pas les mêmes conséquences
+écologiques. Le choix des vacances que vous allez faire cet été n’aura pas les
+mêmes conséquences écologiques.
+
+Mais le problème, c’est que le pouvoir d’achat, par définition et par
+construction — c’est un élément de notre société — est absolu. C’est-à-dire que
+rien, absolument rien, ne vous interdit de faire le choix de Bali plutôt que le
+choix du voyage à vélo. Vous avez le droit de dépenser l’argent que vous avez
+exactement comme vous l’entendez. Et d’ailleurs, c’est l’une des limites
+aujourd’hui, je pense, de l’écologie : du coup, on essaie de convaincre les gens
+de ne pas faire le mauvais choix, c’est-à-dire d’expliquer : « Ah, mais il ne
+faut pas prendre l’avion, fais des vacances soutenables écologiquement. » Et en
+fait, on voit ce qu’on voit aujourd’hui : les écologistes essaient de faire des
+gens conscientisés, entre guillemets ; ils essaient de faire des vacances
+soutenables. Et en fait, ça correspond à une minorité de personnes, celles qui
+ont conscience de ces questions-là. Et la majorité des gens, en fait, vont
+continuer de faire les vacances qu’elles veulent, faire un week-end à Marrakech
+ou je ne sais où. Pourquoi pas ? Après tout, puisque c’est autorisé et puisque
+j’ai le droit — et j’ai le droit parce que j’ai un pouvoir d’achat.
+
+En fait, dans le pouvoir d’achat, il y a le fait de choisir non seulement ce
+qu’on consomme — on va passer un niveau — mais aussi ce que la société produit.
+Parce que si on peut aller à Bali, c’est parce qu’il y a des avions, des
+compagnies aériennes, des tour-opérateurs, et des publicités dans le métro pour
+dire d’aller à Bali ou je ne sais où. Donc cela veut dire quelque part que notre
+consommation génère aussi un écosystème productif. Et plus on a de pouvoir
+d’achat, plus on va décider non seulement ce qu’on va consommer, mais aussi ce
+que les autres vont produire. C’est-à-dire que le fait d’avoir de l’argent
+individuellement et collectivement — parce que chaque somme individuelle finit
+par devenir une somme collective — va orienter l’économie dans un sens ou dans
+un autre. Or, le principe même aujourd’hui de notre société capitaliste, c’est
+de dire que ce que vous avez comme argent, vous avez le droit de l’utiliser
+comme vous voulez, et donc de générer un type de production en fonction de ce
+que vous voulez. D’ailleurs, c’est intéressant de voir que quelqu’un qui aurait
+un million d’euros ou dix millions d’euros a quelque part accumulé du travail,
+c’est-à-dire qu’il a accumulé une capacité de faire travailler les autres.
+Quelqu’un qui a 100 € n’a pas la capacité de faire travailler qui que ce soit,
+parce qu’avec 100 € on ne fait pas grand-chose. On voit bien ici que ce qui est
+au cœur de nos choix individuels, c’est finalement quelque chose où on ne rend
+compte à personne et où on oriente l’économie d’une certaine façon. En fonction
+de quoi ? En fonction de ses préférences personnelles. Parce que notre droit à
+consommer est quelque part sacré.
+
+Si je vous dis ça, c’est parce que moi je suis parfois un peu gêné par — je
+prends un exemple — la marche pour le pouvoir d’achat et contre l’inaction
+climatique. Moi, j’y vois une contradiction. On ne peut pas à la fois
+revendiquer plus de pouvoir d’achat et en même temps dire qu’il faut lutter
+contre le climat, parce que par définition le pouvoir d’achat, c’est le pouvoir
+de faire ce qu’on veut de l’argent. Alors maintenant, quand je dis ça, vous
+comprenez bien, je ne vais pas non plus dire : baissons le pouvoir d’achat de
+tout le monde, c’est mon projet. Mais euh… oui, parce que sinon je ne serais pas
+élu, d’un autre côté, je ne me présente pas. Mais comment fait-on pour résoudre
+cette contradiction ? Il y aurait peut-être des choses, c’est-à-dire limiter le
+choix de consommer qu’on a. Mais par exemple, si vous dites aux gens :
+maintenant c’est terminé les voitures, c’est terminé les avions, ils vont avoir
+l’impression que vous vous attaquez à une liberté fondamentale. De la même façon
+que pendant le Covid, quand on a dit aux gens : maintenant vous n’avez plus le
+droit d’aller au ciné, au théâtre, etc., ils ont dit : vous portez atteinte à
+nos libertés. Alors c’était, moi je pense, au truc culture en danger. Vous
+voyez, ça a été beaucoup partagé parce qu’on disait qu’il faut défendre le
+secteur culturel qui est attaqué. Mais oui, mais au nom finalement du droit de
+consommer, en fait. Encore une fois, je ne suis pas là pour dire c’est bien,
+c’est pas bien, mais pour comprendre le problème qu’il y a.
+
+Laissons ce côté, le problème du choix individuel, et allons vers un problème
+encore plus compliqué : le problème du choix collectif.
+
+## Les choix collectifs et le calcul de la valeur
+
+Parce que dans la société, il y a une partie des gens qui font ce qu’ils veulent
+avec l’argent qu’ils ont — mais parfois qu’ils ont bien mérité, il ne faut pas
+dire le contraire. Et puis il y a aussi des gens qui prennent des décisions à la
+place des autres. C’est ce qu’on appelle des responsables. Quand je parle des
+responsables, je ne parle pas forcément des responsables politiques, mais quand
+vous êtes responsable d’une entreprise, que vous êtes chef d’entreprise ou
+directeur d’administration, etc. Moi par exemple aujourd’hui, on a pris une
+décision dans ma faculté de financer un voyage en Pologne parce que j’ai
+rencontré des collègues en Pologne. Aujourd’hui, j’ai envoyé une demande de
+subvention pour partir en Pologne rencontrer des collègues. Et bien avec ce
+choix-là, avion. Bien sûr, en avion. J’ai regardé les trains, mais c’est juste
+impossible : il n’y a pas de train qui permette d’aller d’Angers à Varsovie. Il
+y a des trains, mais ça prend quinze heures de voyage. Bref. On me dira : mais
+en visio ? On a déjà fait une conférence en visio, c’est pour ça que maintenant
+il faut que je les voie. Bref. Là, ce n’est pas grand-chose, on parle de 500 €.
+Mais la réalité, c’est que toute personne en situation de pouvoir, de
+responsabilité, doit faire des choix. Mais cette fois-ci, on parle de choix
+collectif.
+
+Qu’est-ce que cela veut dire, un choix collectif ? Cela veut dire qu’il faut
+rendre des comptes. C’est-à-dire qu’on ne peut pas faire n’importe quoi avec
+l’argent qui n’est pas à nous. Qu’on soit chef d’entreprise, responsable
+politique, directeur d’administration ou je ne sais quoi, on a toujours
+quelqu’un à qui on rend des comptes. C’est-à-dire qu’on est capable de justifier
+les dépenses qu’on a faites et pourquoi on a dépensé, pourquoi on a fait ce
+choix-là plutôt qu’un autre. Et alors, comment fait-on ? La procédure
+aujourd’hui évidente pour tout le monde — et vous allez voir que pour vous aussi
+ça vous paraît évident, mais ça pose problème, on va le voir — c’est de calculer
+le coût et l’avantage qu’il y a derrière une décision. C’est-à-dire qu’on fait
+un bilan : si je prends la décision A, ce que ça va me coûter, ce que ça va me
+rapporter. Et si globalement ça me rapporte plus que ça coûte, c’est une bonne
+décision. Je regarde la décision B : elle va me coûter, elle va me rapporter ;
+je vais comparer à la décision A, voir ce que ça me coûte et ce que ça me
+rapporte. Et en fonction de ça, je vais faire mon choix. On fait toujours des
+choix comme ça. On ne peut pas faire autrement aujourd’hui dans une société que
+de justifier les choix qu’on fait au nom des autres. Et la seule manière de les
+justifier, c’est de regarder ce que ça me rapporte et ce que ça m’a coûté.
+
+Or, comment fait-on pour faire ce calcul ? Pour calculer les coûts et les
+apports de quelque chose, on va regarder ce qu’on va gagner en quantité de
+ressources, par exemple. Et on va multiplier ça par le prix de ces ressources,
+et on va ainsi calculer, quantifier la valeur perdue et la valeur gagnée. Donc
+cela veut dire que tout choix repose a priori, au préalable, sur un calcul de la
+valeur, et cette valeur est toujours calculée par rapport au prix. Et en fait,
+ça, c’est au cœur de la question néolibérale. Et vous voyez, maintenant j’y
+viens.
+
+## Le néolibéralisme
+
+Le néolibéralisme, c’est une doctrine, une doctrine économique et politique, qui
+s’est constituée dans les années 30 pour répondre à un constat, un constat
+d’échec : l’échec du marché. Vous comprenez bien que dans les années 30, on
+était en pleine crise de 29. Cette crise avait conduit les économistes à dire
+qu’en fait le marché libre ne fonctionne pas toujours. Il ne fonctionne pas pour
+plusieurs raisons. D’abord parce qu’il y a les krachs financiers de Wall Street,
+on l’a vu. Mais il y a aussi des problèmes fondamentaux qu’on avait vus avant
+mais qu’on n’avait pas voulu reconnaître, qui sont d’une part que la concurrence
+peut disparaître sur certains secteurs économiques. Ça, ce sont les grands
+cartels, les monopoles qui ont pu avoir lieu aux États-Unis et en Europe dans
+ces années 10-20 ; penser à Rockefeller par exemple, qui a contrôlé tout le
+pétrole aux États-Unis. Cela veut dire que le marché est un système, un
+mécanisme, qui peut être dénaturé par la dynamique concurrentielle, qui peut
+arriver à ce qu’une entreprise par exemple arrive à éradiquer tous ses
+concurrents. Et alors se pose un problème : dans un système en monopole, en
+cartel ou en situation de monopolisation, il n’y a plus de prix de marché. Il
+n’y a plus que des prix décidés par des monopoles. Et s’il n’y a plus de prix de
+marché, nous disent ces économistes, cela pose un problème, parce que cela veut
+dire que par exemple la demande ne peut plus agir sur les prix. Cela veut dire
+aussi que la valeur des choses, on ne sait plus ce qu’elle vaut vraiment,
+puisque le monopole va artificiellement gonfler le prix pour gagner plus
+d’argent.
+
+Et puis il y a d’autres problèmes qu’on découvre dans les années 30. L’un des
+problèmes, c’est l’acceptabilité sociale du marché. C’est-à-dire que la hausse
+du chômage, l’approfondissement de la misère, tout ça va rendre problématique la
+soutenabilité du système capitaliste. Alors, les économistes de l’époque se
+disent : du coup, qu’est-ce qu’on fait ? Il y avait plusieurs solutions. Soit on
+quitte le marché, et ça, c’est la solution communiste — et fasciste aussi
+quelque part à l’époque — c’est-à-dire la solution antilibérale. Et ces
+économistes, eux, ne veulent pas du communisme, ils ne veulent pas du fascisme.
+Ils disent : non, il faut du coup faire autrement. C’est-à-dire que puisque les
+marchés dysfonctionnent, il faut les refaire fonctionner. Et donc, il faut en
+quelque sorte que l’État se mette au service des marchés. Qu’est-ce que cela
+veut dire ? Cela veut dire par exemple un truc tout simple : que l’État fasse en
+sorte qu’il n’y ait plus de monopole privé, et donc qu’il organise la
+concurrence, qu’il soutienne la concurrence, avec des autorités de la
+concurrence, avec des lois en faveur de la concurrence. C’est ce qui s’est passé
+aux États-Unis avec les lois antitrust de la fin du XIXe et du début du XXe
+siècle, mais on le voit aussi aujourd’hui avec les autorités de régulation de la
+concurrence, etc., qui sont au cœur de notre système aujourd’hui. Donc il faut
+que l’État se mette au service du marché. Mais pourquoi faire ? Parce que, nous
+disent ces économistes, le cœur du système capitaliste, c’est le prix de marché.
+C’est-à-dire que le but du marché — enfin, la fonction première du marché — ce
+n’est pas, comme on pourrait le croire, d’échanger des marchandises, c’est de
+déterminer des prix. Et à partir de ces prix, on peut calculer la valeur, une
+valeur qui sera cette fois-ci objective, qui ne sera pas dénaturée par la
+puissance d’un monopole ou d’une administration dans un système d’économie
+régulée.
+
+Cette question est devenue en fait au cœur de la pensée économique dans les
+années 20, lorsque un certain nombre d’économistes se sont penchés sur la
+question de la soutenabilité de l’URSS. Vous savez, en 1917, il y a la
+révolution russe, et les Soviétiques disaient : « On va faire une économie
+rationnelle, une économie planifiée. » Une économie planifiée dans laquelle les
+prix ne seront pas des prix de marché mais des prix administrés par un
+centralisateur qui va faire mieux que le marché, ce que le marché n’arrive pas à
+faire. Donc en fait, ce que les communistes voulaient faire en URSS, c’était de
+se substituer au marché et d’aller vers quelque chose dont ils pensaient qu’il
+serait plus rationnel, vu le dysfonctionnement des marchés que tout le monde
+reconnaissait. Et les économistes — on parle ici d’économistes, je les cite mais
+ce n’est pas important si vous ne les retenez pas — c’est Hayek et Ludwig von
+Mises, qui sont des grands libéraux. Le premier qui a dit… Mises, en 1920, écrit
+un article puis un livre sur le socialisme. Et il dit : « Le problème de ce
+mécanisme, c’est que comme les prix sont artificiels, il est impossible de
+calculer la valeur des choses. Et donc comme il est impossible de calculer la
+vraie valeur des choses, il est impossible de faire des choix. » C’est-à-dire
+que le choix rationnel suppose qu’il existe une forme d’objectivité, au moins
+dans le calcul de la valeur. Une fois qu’on sait ce que valent les choses, alors
+on peut faire des choix.
+
+Reprenons mon exemple tout à l’heure. Vous avez quelqu’un de responsable, et
+c’est l’État. Et l’État doit faire des choix. Mais l’État contrôle les prix
+aussi, puisqu’on est dans le système soviétique. Vous voyez bien le problème :
+comment allez-vous justifier un choix si vous contrôlez les prix ? Puisque
+quelque part, quel que soit le choix que vous faites, vous pourrez toujours
+ajuster les prix pour dire : « Regardez, mon choix est bon. Regardez, c’est
+toujours bénéfique, ce que je fais. » Et ça, nous dit Mises, ça conduit le
+système vers des choses qui peuvent être totalement irrationnelles. Donc il faut
+quelque part déléguer à une autorité extérieure le soin de décider des prix. Et
+cette autorité extérieure, c’est le marché. Pourquoi le marché ? Parce que le
+marché agrège les informations de l’ensemble de la société, puisqu’il y a les
+acheteurs, les vendeurs, etc. Donc c’est à partir de ce moment-là — je parle ici
+des années 20, donc on n’est pas encore dans le néolibéralisme actuel, mais on
+est dans les prémisses du néolibéralisme — que les économistes vont commencer à
+se dire : en fait, le rôle premier du marché, ce à quoi il sert, c’est à
+déterminer des prix, parce que ces prix vont pouvoir permettre de calculer la
+valeur et donc de faire des choix qui seront rationnels. Et vous comprenez donc
+bien que quand les marchés commencent à dysfonctionner, ça pose problème. D’où
+cette idée, cette fois-ci néolibérale, qui est de dire : puisque les marchés
+peuvent dysfonctionner, il faut qu’ils fonctionnent, et donc il faut que l’État
+se mette au service des marchés en garantissant un certain nombre de conditions
+pour qu’il y ait toujours une concurrence la plus parfaite possible, pour que
+l’information soit la plus parfaite possible, pour qu’il n’y ait en fait aucune
+entrave au fonctionnement du marché dans son rôle de détermination des prix. Et
+puis ensuite, l’État pourra faire correctement son rôle — enfin, l’ensemble des
+responsables, pas que l’État, parce que les gens qui sont à la tête des
+entreprises aussi doivent faire des calculs économiques — et donc feront ce
+calcul sur la base objective des prix, des prix de marché.
+
+Du point de vue des néolibéraux, du coup, cela veut dire que l’État a une
+certaine fonction, et c’est là qu’ils sont distincts des ultralibéraux, parce
+que les ultralibéraux disent qu’il ne faut pas d’État, que le marché peut
+exister de lui-même. Alors que les néolibéraux disent : non, le marché ne peut
+pas exister de lui-même. Il a besoin des institutions sociales, il a besoin d’un
+cadre juridique, il a besoin d’un État actif. Mais cet État actif ne peut pas
+faire n’importe quoi. Donc qu’est-ce qu’il doit faire ? Je liste : garantir la
+concurrence, parce que sinon il n’y a plus de prix de marché s’il n’y a plus de
+concurrence. Il doit aussi garantir la stabilité monétaire, la stabilité des
+prix, parce que si on est en période d’hyperinflation, de trop forte inflation,
+les prix finissent par ne plus avoir beaucoup de sens. Donc on a besoin d’une
+politique monétaire qui fasse en sorte qu’il y ait le moins possible
+d’inflation. Il faut aussi qu’il soit libre-échangiste. Pourquoi ? Parce que
+plus la taille du marché est grande, plus il fonctionne bien. Les marchés trop
+restreints sont des marchés dans lesquels les pouvoirs des uns et des autres
+peuvent encore compter. Et si vous avez que quelques entreprises par exemple
+dans un pays qui produisent un bien, ces entreprises peuvent avoir un pouvoir de
+marché, et donc les prix ne seront plus des vrais prix de marché, ils seront
+manipulés par les entreprises. Mais si vous ouvrez vos frontières à l’étranger,
+alors les entreprises nationales vont perdre de l’importance et elles vont
+devoir se confronter à la concurrence internationale, et là vous aurez beaucoup
+plus de choix et vous pourrez contourner le pouvoir des entreprises. Donc le
+libre-échange, c’est évidemment un élément très important. Et puis aussi, il
+faut garantir l’ordre social, parce que ce qui peut permettre de dénaturer le
+marché, c’est lorsque les gens n’y croient plus, lorsqu’ils contestent,
+lorsqu’on voit le communisme — diraient les néolibéraux — ou le fascisme
+apparaître. Alors là, il faut montrer que le système marchand est aussi juste
+socialement. Il n’est pas que performant économiquement. On voit d’ailleurs
+cette idée, cette idée qui va donner l’économie sociale de marché par exemple en
+Europe. Et puis bien sûr, l’État ne doit faire que cela : garantir le cadre de
+fonctionnement du marché, mais il ne doit surtout pas devenir un acteur du
+marché, et notamment il ne doit pas dénaturer le marché en instaurant par
+exemple des prix régulés ou des prix administrés. Il faut que tous les prix
+relèvent du marché, et donc il faut interdire les interventions discrétionnaires
+de l’État.
+
+## Le temple du néolibéralisme
+
+Ce petit mécanisme — j’ai expliqué tout ça dans un ouvrage, *Populisme et
+néolibéralisme*, dont je vous ai parlé tout à l’heure — j’arrive finalement à un
+temple. J’appelle ça le temple du néolibéralisme parce qu’il fallait que je
+trouve une représentation visuelle de la manière dont les néolibéraux pensent.
+Dans ce temple, on voit que le sommet du temple, c’est l’objectif : des prix de
+marché, des prix de marché en concurrence. Et puis pour que ces prix de marché
+fonctionnent, il faut des piliers. Les piliers, c’est ce qui va permettre à ces
+prix de marché de fonctionner. Ces piliers, c’est : stabilité monétaire,
+libre-échange, concurrence, ordre social — ce que j’ai dit, quatre piliers
+néolibéraux. Et puis tout ça s’appuie sur un socle. Le socle, c’est le fondement
+de l’État. C’est un État non discrétionnaire, qui s’interdit d’agir dans le
+marché, et qui est fondé — et ça, j’en ai pas parlé, mais ça fait partie du
+cadre — sur le principe de l’État de droit. Il faut savoir que l’État de droit,
+du point de vue néolibéral, cela veut dire un État qui respecte les règles,
+c’est-à-dire qu’il s’est lui-même imposées, qu’il s’autolimite. C’est ce que ça
+veut dire. Donc ça, c’est évidemment le principe constitutionnel d’un État non
+interventionniste.
+
+Ce mécanisme dont je viens de vous parler, je l’ai présenté de manière
+abstraite, mais il se traduit par des politiques très concrètes. Ce qu’on voit
+concrètement dans le néolibéralisme, c’est que lorsqu’il a commencé à se mettre
+en place — je vous ai dit qu’il a été conçu dans les années 20 et 30 — après, il
+y a eu la guerre. Nous y reviendrons tout à l’heure, mais la Seconde Guerre
+mondiale, c’est une période où le néolibéralisme ne pouvait pas du tout exister,
+parce que c’était une économie de guerre. On avait des tickets de rationnement
+et plus de marché. Donc ce mécanisme d’économie de guerre n’était pas du tout
+compatible avec le principe néolibéral. Et puis ensuite, on a eu la période de
+reconstruction, puis la période des Trente Glorieuses. Toute cette période-là,
+c’est une période où il n’y avait pas de prix de marché sur tout un ensemble de
+produits, et en particulier tous les biens de production. Je vais y revenir
+parce que c’est au cœur du problème.
+
+Le néolibéralisme va commencer à se mettre en place à partir des années 80,
+1980, puis va s’accélérer dans les années 90. Là, on peut voir exactement ce qui
+s’est passé en France, en Europe, avec l’avènement du néolibéralisme. C’est
+notamment la disparition de tous nos services publics en monopole, puisque
+d’après le néolibéralisme, par exemple et notamment l’énergie, qui est un bien
+de production, ne peut pas relever d’un mécanisme de prix administré. Vous
+comprenez bien : puisque l’État possède EDF et qu’EDF est en monopole, alors le
+prix de l’électricité est décidé par l’État. Oui, mais le prix de l’électricité,
+c’est le coût de l’énergie. Et si ce coût de l’énergie n’est pas un vrai prix,
+quelle est la vraie valeur de l’énergie ? Combien ça vaut ? Si on n’est pas
+capable de le calculer, ou si on est capable de jouer sur ce prix — et c’est ce
+que faisait l’État français : il faisait payer l’énergie pas cher à certaines
+entreprises, ce qu’on appelle les grands consommateurs d’énergie, les
+entreprises d’aluminium et autres, pour gagner en compétitivité — et du coup les
+autres pays disaient : attention, là vous êtes en train de tricher dans la
+concurrence. Donc ce que voulait faire l’Union européenne, c’est démanteler ces
+monopoles publics et introduire de la concurrence pour organiser des prix de
+marché. Et c’est ce qui se passe aujourd’hui dans le marché de l’électricité, où
+finalement les prix ne sont plus contrôlés par personne, et on voit après Bruno
+Le Maire dire : « Ah, il faut sauver nos boulangers, je vais plafonner le prix
+de l’électricité à 280 € le MWh. » 280 € le MWh, c’est six ou sept fois plus
+cher que le coût de production d’électricité. Ce qui veut dire qu’on plafonne à
+des prix qui sont bien au-delà, qui permettent des marges énormes aux
+producteurs d’électricité.
+
+On m’objecte : mais l’électricité, ce ne sont pas les producteurs, ce sont les
+fournisseurs qui revendent. Oui, oui, oui. Moins cher que son prix de production
+à dix ans, qui vendent beaucoup. Oui, oui, oui. Mais qui ne produisent rien.
+C’est tout à fait vrai. Mais attention : ces fournisseurs n’achètent pas toute
+l’électricité à ce prix-là. Ils achètent qu’une partie. Ils sont obligés
+d’acheter sur le marché. Oui, oui, oui, c’est le mécanisme de la rente, et je
+suis d’accord. J’ai écrit une note sur le marché, vous pouvez la retrouver sur
+le site des économistes atterrés, où j’explique tout ça très bien. Je suis
+d’accord avec vous, mais ceux qui ont le plus gagné d’argent, en fait, ce ne
+sont même pas les fournisseurs, ce sont les producteurs, parce que eux ils ont
+vendu l’électricité très, très cher. Sauf EDF, mais tous les autres producteurs
+ont vendu l’électricité très cher alors que ça ne leur coûtait rien de produire.
+Par exemple ceux qui produisaient de l’énergie hydraulique : la hausse du prix
+du gaz ne leur a pas coûté plus cher, et ils ont vendu à 500 € le MWh. Donc eux
+ils ont fait… et c’est pour cette raison que le gouvernement a introduit une
+taxe exceptionnelle sur les producteurs d’électricité, donc pas sur les
+fournisseurs mais vraiment sur les producteurs, qui rapportera d’après les
+prévisions 13 milliards d’euros. C’est énorme. C’est une taxe sur les profits
+qui sont réalisés. Ah bah non, parce qu’il faut bien payer la taxe. Bref. Tout
+ça pour vous dire — je savais que l’électricité serait un sujet sensible, mais
+c’est un sujet important parce que ça montre bien ce que c’est que le
+néolibéralisme. On nous explique : il ne faut pas un prix administré, donc il
+faut un prix de marché, donc il faut créer un marché, pour ça il faut créer de
+la concurrence. Or, pour créer la concurrence dans un mécanisme où les modalités
+de production sont très différentes, où en plus il y a la contrainte d’ajuster
+l’offre et la demande tout le temps, ça crée des problèmes énormes, qui sont
+ceux qu’on a connus cet hiver. Et on voit bien le poids de l’idéologie, parce
+qu’aujourd’hui il y a encore des économistes — dans *Les Échos*, c’était dans
+*Les Échos* hier — qui disent que le mécanisme européen d’électricité ne doit
+pas être réformé, que c’est le bon mécanisme. Donc ça, c’est pour vous expliquer
+à quel point l’idéologie est forte et puissante, en particulier chez mes
+collègues économistes.
+
+Voilà. Donc c’est pour vous dire que le néolibéralisme s’est mis en place dans
+les années 80-90 en Europe par le démantèlement méthodique de tous les systèmes
+de prix administrés, notamment dans l’énergie et en particulier dans
+l’électricité. Parce que je vous signale que dans les années 80, EDF était
+public, GDF était public, Elf était public. On avait donc un système
+d’approvisionnement en énergie, toutes les énergies de l’époque, qui étaient
+essentiellement publiques, avec des prix donc administrés en quelque sorte, en
+tout cas contrôlés par la puissance publique. Je montre dans mon livre que ça ne
+s’arrête pas là : les prix agricoles étaient également administrés avec la PAC,
+avec les principes des prix garantis ; le prix du travail était lui aussi
+largement contrôlé par tout un ensemble de règles qui faisaient que le marché du
+travail n’était pas un vrai marché, c’était un marché contrôlé par des
+conventions collectives, des accords collectifs, etc. ; les prix des matières
+premières aussi, jusqu’aux années 70, étaient très largement contrôlés, en
+particulier par les puissances consommatrices, y compris les États-Unis, parce
+que tout ça n’était pas seulement vrai pour la France, mais aussi pour tous les
+pays capitalistes de l’époque. Et puis je pourrais continuer sur tout un
+ensemble de services publics. Donc on avait un système — télécommunications,
+etc. — où jusque dans les années 80 notre économie était fondée sur des biens de
+production. Les biens de production, c’est l’énergie, les matières premières, la
+main-d’œuvre, le coût de refinancement du capital, les taux d’intérêt ; tout ça
+parce que la Banque de France aussi avait des taux d’intérêt contrôlés par
+l’État. Tout ce mécanisme-là était fondé sur des principes de prix en grande
+partie contrôlés par les États et par les gouvernements. Et c’est ce
+mécanisme-là que les néolibéraux ne supportaient pas, pour la raison que je vous
+ai expliquée : ils pensent que le vrai prix ne peut être qu’un prix de marché.
+Et donc on a démantelé tous ces mécanismes de contrôle des prix jusqu’à
+organiser un système néolibéral qui — j’ai dit dans mon livre — est en déclin et
+est en train de disparaître, parce que l’un des prix les plus fondamentaux,
+c’est le prix de l’argent, c’est le taux d’intérêt. Or depuis 2008 — on ne le
+sait pas encore, mais je vous le dis — les banques centrales contrôlent les taux
+d’intérêt, notamment les taux d’intérêt des États. Ce qui veut dire que quand on
+vous dit qu’il faut faire attention à la dette parce que sinon les taux
+d’intérêt vont… on va être sanctionné par les marchés, les taux d’intérêt vont
+augmenter, ce n’est plus vrai. Ce n’est plus vrai puisque depuis 2015 la Banque
+centrale européenne contrôle les taux longs. Et donc c’est là où je dis :
+attention, là vous êtes en train de contrôler des taux, donc vous êtes en train
+de revenir sur l’idéologie néolibérale, et donc vous êtes en train de dire que
+pour les banquiers on a le droit de contrôler les prix, mais pour les
+agriculteurs, ce n’est plus possible. Ça ne va pas tenir au bout d’un moment.
+C’est-à-dire qu’on ne peut pas garantir le revenu des banques et laisser les
+agriculteurs se démener avec des prix mondiaux pour les céréales, le beurre,
+etc. Donc si vous commencez à rentrer dans la logique de contrôle des prix du
+capital, alors vous allez devoir recontrôler tous les autres prix. Il n’y a pas
+de raison. Voilà, c’est ça ma thèse en fait.
+
+## Transition écologique et contrôle des prix
+
+Mais il y a une autre raison pour laquelle on va devoir recontrôler les prix. Et
+je reviens donc à la conclusion de cette conférence, qui est l’élément que vous
+attendez tous : la transition écologique ne peut pas se faire sur un mécanisme
+de prix de marché, parce que la transition écologique, c’est être capable de
+transformer en profondeur notre système productif, c’est-à-dire faire en sorte
+par exemple que les ressources recyclées soient celles qui soient utilisées au
+lieu des ressources extraites de l’environnement. Or, si on veut réfléchir à ça,
+qu’est-ce qu’il faut faire ? Si on veut réfléchir au système du calcul
+économique, il faut que du point de vue de l’entreprise ou de l’État, les
+ressources fondées sur du recyclage soient moins chères que les ressources
+fondées sur l’extraction. Et ça, si on attend que le marché le fasse, il ne le
+fera jamais. Il ne le fera jamais parce que de fait, recycler coûtera toujours
+plus qu’extraire dans l’environnement sans payer le coût de la production. Parce
+qu’il faut comprendre une chose : on ne produit pas les matières premières, on
+les extrait. Ce sont des matières qui ne sont pas produites par nous, elles sont
+produites par la nature, et en les extrayant, en fait on ne paie pas le coût
+réel de cela. Donc ce qui va permettre à notre système économique d’amorcer sa
+transition, c’est le contrôle des prix. Et ce contrôle des prix va à l’inverse
+de l’idéologie néolibérale. C’est pour ça que je vous ai dit qu’on allait parler
+de la Seconde Guerre mondiale.
+
+## L’économie de guerre comme modèle
+
+Qu’est-ce que c’est qu’une économie de guerre ? Qu’est-ce qui s’est passé aux
+États-Unis en 1940 ? J’ai étudié ça dans mon ouvrage. Je suis allé regarder les
+textes, parce qu’en fait c’est génial, ils ont des archives accessibles sur
+Internet, c’est super, on peut lire tous les rapports de l’époque. En 1939, en
+septembre 39, la Seconde Guerre mondiale éclate. Les États-Unis ne sont pas
+directement touchés, mais dès l’hiver 40, ils comprennent — après que Londres
+soit bombardée, etc. ; enfin, ce n’était pas à cette époque-là, mais bon, c’est
+arrivé après — en tout cas, Roosevelt comprend que sans doute les États-Unis
+vont devoir rentrer dans le conflit un jour ou l’autre. Le problème de l’époque,
+c’est que les États-Unis n’ont pas d’industrie de l’armement suffisamment
+puissante. Donc il faut réorienter le système économique pour que l’acier
+produit par les sidérurgies américaines n’aille pas dans la production de
+voitures, mais de navires de guerre, de chars, d’armes. Et ça pose évidemment un
+problème, parce que cela veut dire appauvrir les gens pour gonfler l’industrie
+d’armement. Donc qu’est-ce qu’il va faire ? Il va monter une commission, une
+commission composée de personnalités de la société civile, qui va chercher à
+rendre acceptable socialement le fait d’organiser des pénuries. Parce que c’est
+ça qui se passe concrètement. Les pénuries arrivent forcément, parce que même la
+main-d’œuvre ne peut plus travailler pour l’industrie civile. Il faut que tout
+le système économique se réoriente. Il était tourné vers l’industrie civile et
+vers les besoins de la population ; il faut que maintenant il se tourne vers
+l’industrie d’armement et donc vers les besoins de la guerre, et ce avant même
+l’entrée en guerre des États-Unis. Il y a une planification de cette
+réorientation, en cherchant à la rendre la plus soutenable possible. Et l’une
+des choses qui va la rendre soutenable, c’est contrôler les prix pour les
+ménages. Donc les États-Unis vont créer un système d’économie dans lequel, à la
+fin de la Seconde Guerre mondiale, 90 % des prix sont contrôlés par
+l’administration. On a une agence de contrôle des prix qui finit par contrôler
+quasiment tous les prix. Et puis globalement, on a aussi une réflexion sur les
+conditions de travail. J’ai été très surpris de lire qu’il y avait le conseil de
+limiter la semaine à 40 heures dans l’industrie d’armement. Vous direz :
+aujourd’hui, Macron — vous entendez Macron dire ça ? Il faut absolument qu’on se
+retrousse les manches, mais attention, on ne travaille pas plus de 40 heures.
+Jamais il ne dirait un truc pareil. Mais ça faisait partie des directives qui
+étaient imposées. Pourquoi ? Pour rendre socialement acceptable cette transition
+qui forcément pénalisait le pouvoir d’achat des gens. Et puis bien sûr, il y a
+eu des rationnements. Il n’y a pas que les prix, il y a aussi la question des
+rationnements.
+
+Finalement, j’ai envie de vous parler de ça parce que la transition écologique
+dont on parle est d’une ampleur comparable à celle d’une économie de guerre.
+C’est-à-dire qu’il faut réorienter entièrement nos systèmes productifs, et il
+faut le faire le plus vite possible, exactement comme les États-Unis ont dû
+commencer à construire une industrie de l’armement très rapidement. Et pour ça,
+ça va passer par une limitation de notre pouvoir d’achat. Alors, pas forcément
+quantitativement, mais dire : voilà, il y a des choses qu’on ne pourra pas
+acheter, ou on pourra acheter… voilà, il y aura des restrictions sur certains
+achats, et peut-être même une baisse du pouvoir d’achat concrètement. Et puis un
+contrôle des prix des biens de production pour faire en sorte que le calcul
+économique de tous les agents aille dans le sens de la transition, dans le sens
+de l’économie circulaire, et pas dans le sens de l’extraction et de l’économie
+non soutenable. Voilà pourquoi le néolibéralisme n’est pas du tout compatible
+avec la transition écologique.
+
+Voilà, j’ai fini.
+
+## Distinguer les usages et les usagers, planifier la décroissance et relocaliser
+
+En fait, j’avais un autre truc à dire, excusez-moi. Non, non, c’est mal. En
+plus, j’enregistre tout ça, ça va être ridicule. Je lis pas suffisamment les
+notes. J’ai dit… j’ai écrit un autre truc qu’il faut que je vous dise. L’une des
+conséquences qui va y avoir, c’est que les ressources qu’on a, qui sont donc non
+renouvelables pour une grande partie et limitées en quantité, il faut qu’on
+sache comment les utiliser le plus efficacement possible. Mais le plus
+efficacement au sens collectif, c’est-à-dire que le pétrole qui reste, le cuivre
+qui reste dans les mines, il faut qu’il ait un usage utile. Et l’usage utile, ça
+ne peut pas être de l’utiliser pour faire du tourisme spatial, par exemple, ou
+d’autres trucs. Donc il va falloir qu’on trouve un moyen de distinguer les
+usages et les usagers. C’est-à-dire : cette ressource-là, qui est limitée, dont
+on ne peut pas complètement se passer à l’heure actuelle, si on doit l’utiliser,
+dans quoi doit-on l’utiliser ? Et cette forme de réflexion ne peut pas provenir
+d’un marché. Parce que le principe du marché — là aussi, j’aurais dû insister
+là-dessus — c’est que le prix de marché, c’est un prix, un bien. Et quel que
+soit l’usage de ce bien, ce bien vaut tant. C’est-à-dire que le marché est
+aveugle à qui achète et à ce qu’il fait de cette ressource. Or ce principe du
+marché aveugle, en quelque sorte, n’est pas compatible avec la transition
+écologique. Pour organiser la transition écologique, il va falloir qu’on
+distingue les usages des ressources qu’on a. Il y a des usages qui seront
+pertinents et des usages qui ne seront pas forcément pertinents. Et il faut
+aussi qu’on distingue les usagers : est-ce que lui, vraiment, c’est nécessaire
+de lui donner ça, ou il peut s’en passer, par exemple. Et ça, c’est ce que fait
+en fait un mécanisme de planification. Mais évidemment, ça veut dire introduire
+du politique dans quelque chose qui est perçu comme un droit. C’est-à-dire qu’en
+fait maintenant, on n’aura pas un droit à consommer comme on veut. On a un droit
+conditionné à l’acceptabilité sociale de ce qu’on veut consommer. Et ça, il faut
+bien se rendre compte aussi que c’est une forme d’atteinte à nos libertés
+économiques quand même. Alors après, on le fait pour une bonne cause, mais ça
+veut dire aussi changer nos mentalités sur ce que c’est que consommer.
+
+Voilà, c’est ça que je voulais dire. Et je vais vérifier. J’avais aussi parlé de
+planifier la décroissance, parce que si on veut décroître notre consommation
+énergétique, ça va poser problème. Donc il va falloir qu’on l’organise, cette
+décroissance de nos consommations énergétiques, et donc il va falloir là aussi
+l’organiser, la planifier. Donc ça, j’ai dit : restreindre certaines
+consommations. Et j’ai mis aussi : organiser la relocalisation de tout un
+ensemble de productions. Pour arriver à éviter d’être à la fois dépendant
+d’autres pays, mais aussi d’éviter les coûts de transport qui peuvent être très
+élevés et qui sont aussi très polluants, et aussi éviter d’exporter notre
+pollution vers d’autres pays ; c’est aussi ça le problème. Voilà. Bon, vous
+voyez, du coup je rajoute ça après les applaudissements. Vous pouvez réapplaudir
+si vous voulez. Vraiment fini.

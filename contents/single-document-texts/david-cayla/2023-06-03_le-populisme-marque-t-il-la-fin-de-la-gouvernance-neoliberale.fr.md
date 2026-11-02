@@ -1,0 +1,1142 @@
+---
+source_url: https://www.youtube.com/watch?v=W3Mns76ihsA
+video_title: Le populisme marque-t-il la fin de la gouvernance néolibérale ?
+generated_at: 2026-09-20T18:44:58.313Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 78.9
+  input_tokens: 22612
+  cached_input_tokens: 0
+  output_tokens: 21159
+  estimated_cost_usd: 0.016087
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Le populisme marque-t-il la fin de la gouvernance néolibérale ?
+
+## Introduction
+
+Je vous propose de commencer maintenant. C’est vrai que le titre de cette
+conférence, je l’avais proposé il y a maintenant deux ans, avant la pandémie de
+Covid. En réalité, j’aurais dû un peu le changer, parce qu’on peut prendre le
+mot « fin » de deux manières. Soit on peut dire que le populisme marque la fin,
+c’est-à-dire l’arrêt, de la gouvernance néolibérale ; soit on peut dire — et
+c’est plutôt cela que je vais dire — que finalement la gouvernance néolibérale
+produit pour finalité du populisme. C’est plutôt sous cet angle-là que je vais
+essayer de développer.
+
+Comme la semaine dernière, je peux vous dire que cela est évidemment issu de cet
+ouvrage paru en 2020. Je vais maintenant commencer par reprendre ce sur quoi
+nous nous sommes arrêtés la semaine dernière, c’est-à-dire cette représentation
+schématique du système néolibéral, du système de pensée néolibérale, de la
+manière dont les néolibéraux pensent le monde. Je vais m’arrêter un petit peu
+pour vous faire comprendre le cœur du propos, puis les conséquences que cela va
+avoir ensuite.
+
+## Le cadre néolibéral : organiser un système de prix de marché en concurrence
+
+Ce schéma est une construction qui vise en fait à achever un objectif : celui
+d’organiser un système de prix de marché en concurrence. Pourquoi ? Parce que le
+néolibéralisme est une manière de concevoir les rapports humains fondée sur
+l’idée que, si on veut que la société fonctionne de manière efficace, chacun
+doit être sensible au prix. C’est-à-dire qu’en fonction des variations de prix,
+on va changer ses comportements.
+
+Par exemple, on veut moins consommer d’essence, faire en sorte d’avoir des
+émissions de carbone plus faibles : on va poser une taxe carbone. Évidemment,
+comme toute taxe, elle va faire augmenter le prix, et du coup les gens vont
+moins consommer d’essence, ou moins polluer, moins émettre de carbone.
+Inversement, quand on veut favoriser un comportement, on va chercher à baisser
+le prix par des subventions.
+
+Toute la question des néolibéraux est donc de savoir comment on va déterminer
+des prix qui soient pertinents par rapport aux besoins sociaux. Leur objectif,
+leur pensée, c’est que pour que les prix soient pertinents, il faut qu’ils
+soient le produit des interactions des gens sur le marché, c’est-à-dire le
+produit de l’interaction de l’offre et de la demande.
+
+Le problème, la question principale que se posent les néolibéraux, c’est que ces
+marchés peuvent dysfonctionner. Le marché n’est pas une institution naturelle.
+Le marché est le produit d’une organisation sociale qui nécessite un certain
+nombre d’institutions pour fonctionner correctement. Par exemple, une
+institution évidente est le respect des droits de propriété. Si tout le monde
+peut se faire voler n’importe quand, on n’aura plus intérêt à planifier notre
+comportement économique, ni même à vouloir acheter : il vaudra mieux voler les
+choses ou se protéger contre les voleurs plutôt que de chercher simplement à
+échanger sur le marché.
+
+Toutes les institutions sociales permettent donc à ce marché de fonctionner.
+Dans l’imaginaire néolibéral, le bon fonctionnement du marché est un marché qui
+va générer des prix, et ces prix doivent être pertinents. Le souci, la question
+que se posent les néolibéraux dès les années 1930, c’est que parfois le marché
+dysfonctionne. Il dysfonctionne parce que, par exemple, la concurrence
+s’affaiblit. Si la concurrence s’affaiblit, on peut arriver à des situations de
+monopole ou d’oligopole dans lesquelles il y aurait par exemple des ententes. Si
+on a un monopole, il n’y a plus de prix de marché : c’est le monopoleur qui
+décide du prix auquel il vend, ce qui signifie que les demandeurs n’ont plus
+beaucoup d’impact sur le prix. Le prix finalement est faussé ; il est le produit
+d’une forme de système oppressif, puisque le monopoleur va en quelque sorte
+chercher son propre intérêt, qui ne sera pas forcément l’intérêt général.
+
+Ils estiment donc que, par exemple, pour avoir un système de prix de marché qui
+fonctionne correctement, il faut préserver la concurrence. C’est le sens de ce
+pilier. Il faut également bien sûr qu’on ait du libre-échange, parce que le
+libre-échange permet d’élargir la taille du marché et donc aussi de maintenir la
+concurrence. Puis il y a une autre institution extrêmement importante pour les
+néolibéraux : on ne peut pas avoir de prix si on n’a pas de monnaie, parce que
+par définition les prix sont toujours exprimés en monnaie.
+
+Or on sait qu’il peut y avoir des moments dans l’histoire où les prix ne veulent
+plus rien dire. Cela peut arriver quand on est dans un système où plus personne
+n’a confiance en la monnaie, et où on peut arriver à des dynamiques
+d’hyperinflation. L’hyperinflation a existé en Allemagne entre 1921 et 1923 ;
+elle existe en Argentine ; elle existait au Zimbabwe. Ce sont des choses qui
+arrivent dans l’histoire. Cela veut dire une hausse des prix considérable, de
+plusieurs milliers de pour cent par an, qui signifie qu’on ne sait pas du tout à
+quel prix on va trouver les objets demain, et donc qu’on ne sait pas combien on
+va pouvoir acheter quelque chose ni combien on va pouvoir vendre quelque chose
+qu’on pourrait produire. Dans un système d’hyperinflation, plus personne n’a
+confiance en la monnaie, et cela bloque complètement le fonctionnement du
+système économique et le mécanisme des prix, qui est justement d’inciter les
+gens à avoir des comportements.
+
+Chez les néolibéraux, on a donc toute une théorie de la manière de faire en
+sorte que les prix soient stables. Derrière, il y a tout un ensemble de
+pratiques, notamment le principe d’une banque centrale indépendante, qui va être
+peu sensible aux pressions du politique et qui fera en sorte de maintenir
+l’inflation au niveau le plus faible possible. C’est typiquement le cas des
+statuts de la Banque centrale européenne.
+
+## Le pilier de l’ordre social
+
+Puis on a un quatrième pilier, celui dont on va parler plus aujourd’hui : le
+pilier de l’ordre social. L’ordre social n’est pas forcément un concept très
+précis, c’est un concept très large, ce n’est pas forcément très concret. Mais
+du point de vue néolibéral, cela veut quand même dire quelque chose de très
+précis à l’époque où ils conçoivent cette question.
+
+À l’époque où ils conçoivent le néolibéralisme, on est à la fin des années 1930,
+et c’est vraiment un moment chaotique dans l’histoire politique des pays
+occidentaux : on a des mouvements fascistes, on a des mouvements communistes qui
+remettent profondément en cause le système capitaliste libéral. La question qui
+se pose est donc : comment faire en sorte d’éviter les grandes grèves, d’éviter
+les leaders fascistes, d’éviter la déstabilisation de la démocratie ? C’est cela
+qui est vraiment au cœur des penseurs néolibéraux.
+
+Ils se disent donc : on ne peut pas se désintéresser de l’ordre social. On ne
+peut pas considérer que le mécanisme des prix de marché va produire des prix,
+mais qu’il faut se désintéresser des conséquences. Tous les néolibéraux, y
+compris d’ailleurs des ultra-libéraux, des gens qu’on pense ultra-libéraux comme
+Friedrich Hayek, vont penser l’inclusion économique des personnes les plus
+pauvres. Ils se disent : ils vont parfois mieux leur donner un peu d’argent,
+leur donner des formes d’allocations type RSA par exemple, pour qu’ils puissent
+survivre, plutôt que de les voir aller vers des mouvements extrémistes qui vont
+ensuite déstabiliser le système économique.
+
+Tous ces néolibéraux, y compris Friedman, y compris Hayek, sont pour — et c’est
+écrit dans quasiment tous leurs beaux ouvrages — donner une allocation minimum
+aux gens pour maintenir l’ordre social. Derrière l’ordre social, il peut y avoir
+aussi plein d’autres choses, mais je ne vais pas y revenir, c’est peut-être un
+peu compliqué.
+
+Par contre, ce qui est intéressant, c’est de se poser la question de savoir
+s’ils parviennent effectivement à maintenir leur ordre social. Je veux dire par
+là : est-ce que donner un peu d’argent aux gens les plus pauvres, par exemple
+donner le RSA, est-ce que cela suffit pour éviter les mouvements populistes,
+pour éviter les contestations ? C’est cette question que je vais chercher à
+aborder et à creuser avec vous. Ma réponse, parce que finalement elle était un
+peu donnée par le titre, c’est que évidemment cela ne suffit pas. Derrière la
+question de l’acceptation sociale du système de marché, il n’y a pas que la
+question du niveau de vie ; il y a des questions bien plus profondes qui se
+jouent dans la création d’une société de marché. C’est cela que nous allons
+voir.
+
+## Qu’est-ce que le populisme ?
+
+Avant cela, je voudrais que nous définissions ensemble le populisme, de manière
+à être clair sur les mots. Le mot « populisme », comme vous le savez, est un mot
+parfois utilisé à tout bout de champ, et on peut parfois se dire que du coup il
+n’a plus aucun sens, que c’est juste une insulte pour les partis politiques
+qu’on n’aime pas. Ce n’est pas tout à fait vrai. Il y a des politologues, des
+sociologues, des philosophes également, qui ont cherché à penser le populisme.
+Ils ne sont pas tous d’accord sur la manière de le concevoir, et c’est là aussi
+que cela pose des problèmes. Ce que je vous propose, c’est de reprendre un
+certain nombre de définitions qui font à peu près consensus, puis de
+m’intéresser plus spécifiquement à la manière dont le politologue Jan-Werner
+Müller le définit.
+
+Tout d’abord, un mouvement populiste, c’est quoi ? La première chose qu’on peut
+dire, c’est qu’il va chercher à rassembler le peuple, et il va le rassembler
+autour d’un principe d’opposition aux élites. On a donc au cœur du populisme
+l’opposition peuple / élites.
+
+La deuxième caractéristique du populisme, c’est que les mouvements populistes
+vont avoir tendance à tenir un discours antisystème. Antisystème ne veut pas
+forcément dire complotiste ou paranoïaque, même si parfois, évidemment, en tout
+cas on peut dire que tous les complotistes sont antisystème, ou en général. Mais
+le fait d’être antisystème ne conduit pas forcément à des dérives sectaires ou
+autres. Le principe de l’antisystème, c’est de vouloir un changement profond du
+monde dans lequel on est, d’être insatisfait vis-à-vis des institutions
+actuelles et donc de chercher à les changer.
+
+Puis troisième élément, c’est aussi un truc caractéristique des mouvements
+populistes : les mouvements populistes n’ont pas forcément de doctrine politique
+très précise. On peut avoir des populistes de gauche et des populistes de
+droite, on peut avoir des populistes qui sont vraiment très opposés sur tout un
+ensemble de choses. Par exemple, le populisme n’est pas forcément d’extrême
+droite, il n’est pas forcément antimigré ; on peut retrouver d’autres choses
+chez les populistes. Par contre, il y a une manière de faire de la politique qui
+est assez spécifique. Les partis populistes — là aussi les politologues sont à
+peu près d’accord — ont tendance à se méfier de ce qu’on appelle les corps
+intermédiaires.
+
+Les corps intermédiaires, c’est ce qui fait le lien entre le peuple et les
+élites. Cela va avec le principe d’opposition peuple / élites : du point de vue
+populiste, il y a le peuple, il y a les élites, et tout ce qui est entre les
+deux — les journalistes, les partis politiques, les élus — ils ont tendance à
+les voir comme affiliés aux élites. Ils ne vont pas avoir confiance dans ces
+corps intermédiaires parce qu’ils ont l’impression que ce ne sont pas vraiment
+des corps intermédiaires, mais des groupes d’intérêts qui sont là pour justement
+maintenir le système. C’est très vrai chez les journalistes, chez les partis
+politiques, chez les syndicats.
+
+Pensez par exemple au mouvement des gilets jaunes, qui était très critique
+vis-à-vis de la presse, mais aussi vis-à-vis des syndicalistes et vis-à-vis des
+partis politiques. Ils voulaient avoir un mouvement pur, c’est-à-dire non pollué
+par tout un ensemble d’institutions dans lesquelles ils ne se reconnaissaient
+plus. Cela veut dire que finalement, pour réussir à émerger et à se coordonner,
+puisqu’il n’y a plus d’institutions intermédiaires, de corps intermédiaires, on
+va se remettre à un chef. Très souvent, la caractéristique du mouvement
+populiste, c’est d’être centré autour d’un chef qui rassemble un peu toute la
+diversité des mouvements qui sont autour de lui. Parfois, ce chef a tendance à
+dire une chose et son contraire, parce qu’en fait il agrège plein de mouvements
+antisystèmes qui s’opposent aux élites, mais qui ne sont pas toujours d’accord
+entre eux sur exactement la manière de se poser et surtout sur le type de
+société à produire.
+
+Une fois qu’on a dit cela, on a je pense les trois caractéristiques principales
+du populisme sur lesquelles la plupart des intellectuels sont d’accord. Mais il
+reste une question : est-ce que tous les partis politiques ne sont pas un peu
+populistes ?
+
+Cette question est posée par Jan-Werner Müller, qui essaye de réfléchir dans un
+ouvrage qui s’intitule en français *Qu’est-ce que le populisme ?*. C’est un
+politologue allemand qui enseigne aux États-Unis. Il se pose cette question
+parce qu’il pense que si on dit que le principe du populisme, c’est de s’opposer
+aux élites et d’être antisystème, c’est-à-dire de vouloir un changement profond
+de la société, alors on va dire que tout parti d’opposition est un peu
+populiste. Finalement, tout parti d’opposition s’oppose au gouvernement actuel
+et veut changer les choses dans la société, sinon ce ne serait pas un parti
+d’opposition. Le principe même du suffrage électoral et le principe même de la
+démocratie, c’est qu’on a toujours des partis d’opposition, et clairement à un
+moment donné ils essayent de rassembler le peuple pour changer le gouvernement.
+On va donc dire : tiens, vous êtes populiste.
+
+Jan-Werner Müller nous dit que si on pense comme cela, alors on manque le propos
+profond du populisme. Pour lui, ce qui est caractéristique du populisme, ce
+n’est pas simplement ces trois caractéristiques que je viens de vous donner,
+c’est aussi une autre qui les transcende : le fait que les populistes
+s’affirment comme étant le peuple et refusent aux autres partis politiques le
+fait d’être eux-mêmes des représentants du peuple. C’est-à-dire qu’ils font en
+quelque sorte une OPA sur le peuple. Ils disent : le peuple, c’est nous, et
+surtout pas les autres. Ils le font quel que soit leur score électoral. Même
+s’ils ne réunissent que 5 % des voix et qu’ils voient bien que 95 % des gens ne
+sont pas derrière eux, ils vont quand même dire : oui, mais nous, on est le vrai
+peuple ; les autres sont des manipulés, ce sont des moutons, ils sont pris par
+les médias. Nous sommes les seuls purs, les autres sont finalement impurs.
+
+C’est-à-dire qu’en fait ils vont complètement changer la nature de la démocratie
+pour dire qu’eux représentent le peuple, même s’ils sont extrêmement
+minoritaires dans les élections, parce que les autres, même s’ils sont du
+peuple, sont manipulés et donc finalement ne sont pas conscients de ce qu’ils
+font. C’est le principe de cette citation que je vous ai remise sur le diaporama
+:
+
+> Les populismes s’affirment : « nous sommes le peuple ». Pareille revendication
+est toujours d’ordre moral et en rien d’ordre empirique, et elle est dans le
+même temps une déclaration de guerre politique. Elle signifie ceci : nous et
+nous seuls représentons le peuple. Tous ceux qui pensent autrement, qu’il
+s’agisse de manifestants descendant dans la rue ou de députés, se voient ainsi
+frappés d’illégitimité. Tous les populistes sont hostiles à l’establishment,
+mais il ne suffit pas de critiquer les élites pour être un populiste. Les
+populistes sont nécessairement anti-pluralistes : ceux qui s’opposent à eux et
+contestent leur revendication morale d’un monopole de la représentation
+populaire se voient automatiquement exclus par eux du vrai peuple.
+
+Vous voyez donc que c’est pour cela que c’est un problème pour la démocratie.
+Quand on est populiste, on refuse même le principe démocratique, puisque l’on
+considère que l’on est majoritaire, que l’on est le peuple.
+
+Aux États-Unis, lors de l’élection de Biden, Trump était au début en tête dans
+certains États, mais la victoire de Biden était claire. Les mouvements
+populistes qui étaient derrière Trump ne reconnaissaient pas la victoire du
+démocrate, et encore aujourd’hui cela fait partie des problèmes de la démocratie
+américaine. On considère que les démocrates sont illégitimes. Mais cela va
+beaucoup plus loin que les démocrates ou les élites de Washington : c’est
+finalement tout un ensemble d’institutions, tout un ensemble de personnes qui
+votent pour Biden, qui sont eux-mêmes illégitimes, qui ne représentent pas le
+vrai peuple. Il y a donc une forme de mythologie du peuple qui est au cœur du
+populisme et qui vise à délégitimer toute critique ou toute autre forme de
+représentation du peuple.
+
+Par exemple, si vous avez des manifestations qui expriment des choses que eux
+refusent de voir exprimer, ils vont considérer que ces manifestants ne sont pas
+légitimes. Alors que si vous avez la même manifestation, même avec moins de
+monde, mais qui exprime des idées auxquelles eux croient, ils vont considérer
+que c’est une manifestation qui représente vraiment l’opinion du peuple.
+Évidemment, dans ce cadre, dans cette logique, on a des mouvements populistes
+qui finalement sont une menace pour la démocratie. C’est un peu l’objectif de
+Jan-Werner Müller : montrer qu’il y a bien une menace de la démocratie avec le
+populisme. Mais à partir du moment où on définit le populisme correctement,
+c’est-à-dire où on ne dit pas que toute personne qui s’oppose au gouvernement
+actuel est un populiste — parce que cela n’est pas vrai — mais où on dit que
+toute personne qui se revendique comme voulant avoir l’exclusivité du peuple,
+qui délégitime les autres et qui finalement est anti-pluraliste, cela, oui,
+c’est populiste. Alors effectivement, il peut y avoir un souci au niveau de la
+démocratie et de l’acceptation surtout des règles de la démocratie.
+
+## La société de marché selon Karl Polanyi
+
+Maintenant, je voudrais vous montrer — c’est cela qui est le cœur de cette
+conférence aujourd’hui — comment le néolibéralisme produit finalement du
+populisme. Pour cela, je vais essayer de développer un concept qui est celui de
+la société de marché.
+
+Peut-être que vous vous souvenez qu’on a eu un Premier ministre, Lionel Jospin,
+qui avait dit qu’il était pour l’économie de marché mais contre la société de
+marché. Derrière cette expression, chacun pouvait y mettre un peu ce qu’il
+voulait. Si on demande à quelqu’un dans la rue : « Est-ce que vous êtes pour la
+société de marché ? », il dira non spontanément, parce que l’idée d’une société
+fondée sur le marché voudrait dire une société dans laquelle tout serait
+mercantile, toutes les relations humaines seraient fondées sur des principes
+d’intérêt. Évidemment, tout cela nous est insupportable.
+
+Mais je crois qu’il est plus intéressant encore d’aller creuser un peu et de se
+poser la question de ce que cela signifie concrètement dans l’organisation
+sociale, le principe d’une société de marché. Pour cela, je vais invoquer deux
+auteurs : d’abord Karl Polanyi, puis ensuite un intellectuel que vous connaissez
+bien, Alain Supiot, qui est nantais et qui a lui-même travaillé sur cette
+question dans son ouvrage *La gouvernance par les nombres*. Mais commençons par
+Karl Polanyi.
+
+C’est un historien, un économiste, un anthropologue, né en 1886 à Vienne, mort
+en 1964. Il est très connu pour un livre qui a fait beaucoup parler de lui, *La
+grande transformation*. Ce livre est publié en 1944, et ce n’est pas un hasard
+s’il a été écrit pendant la guerre, puisque Karl Polanyi est finalement un
+observateur de l’effondrement du monde. En 1942-1943, quand il écrit son livre,
+il voit effectivement le monde s’effondrer. C’est quelqu’un qui a quitté Vienne
+pour fuir en Angleterre, qui a dû quitter l’Angleterre avec les bombardements,
+s’installer aux États-Unis, et c’est aux États-Unis qu’il a écrit cet ouvrage.
+
+La question qui se pose, c’est : qu’est-ce qui s’est passé pour qu’on arrive à
+cette catastrophe ? Cette catastrophe est double. C’est d’abord une catastrophe
+économique, puisqu’on a la crise de 1929 et la crise des années 1930 qui la
+suit, qui va toucher tout le monde développé. Puis, par-dessus cette crise
+économique, il y a une crise sociale et une crise politique, avec tout un
+ensemble de pays qui basculent progressivement dans le fascisme : l’Italie,
+l’Allemagne, l’Espagne. Ensuite, ce fascisme lui-même, ce nazisme, se lance à la
+conquête de l’Europe et fait tomber tous les pays les uns après les autres, à
+part le Royaume-Uni. Encore une fois, je vous mets du point de vue de quelqu’un
+qui écrit en 1942-1943 : on n’a pas la fin de l’histoire à ce moment-là.
+
+Ce qui se pose comme question, c’est de comprendre d’abord pourquoi le fascisme
+finalement s’est propagé. Pour cela, Polanyi va chercher à comprendre la nature
+du capitalisme, notamment en le comparant aux sociétés traditionnelles. A
+priori, nous avons tous vécu dans des sociétés traditionnelles, c’est-à-dire non
+industrialisées, puis nous avons tous connu une grande transformation. C’est de
+cela qu’on parle : la grande transformation du capitalisme, qui a non seulement
+amélioré notre niveau de vie quelque part, mais en même temps profondément
+modifié notre environnement social.
+
+Pour cela, il faut revenir sur les sociétés traditionnelles. Une société
+traditionnelle, ce sont des sociétés holistes — j’en ai parlé la semaine
+dernière — qui sont organisées autour de valeurs sociales collectives, et dans
+lesquelles les individus finalement n’existent pas beaucoup par eux-mêmes,
+puisqu’ils doivent se soumettre à une autorité religieuse, politique,
+culturelle. Dans ces sociétés-là, on n’a pas de système de marché libre tel
+qu’on a aujourd’hui. Les marchés existent bien sûr, mais ils sont encastrés dans
+la sphère politique et sociale.
+
+Qu’est-ce que cela veut dire, « encastré » ? C’est un grand concept de Polanyi.
+Cela veut dire que les lois du marché sont soumises à des principes supérieurs,
+que sont une organisation sociale, les institutions, et puis aussi le pouvoir
+politique — qui n’est pas un pouvoir démocratique à l’époque, et souvent un roi,
+parfois un monarque absolu comme en France. Dans ces sociétés, finalement, le
+marché et les marchands, ceux qui commercent, sont souvent soumis à des règles
+arbitraires, parce que ce n’est pas eux qui ont le pouvoir : le pouvoir vient du
+roi et d’autres valeurs. Cela peut être aussi la religion. Ce n’est pas que le
+pouvoir politique, c’est aussi tout un ensemble de pouvoirs spirituels qui
+peuvent s’imposer au marchand. Par exemple, il y a toute une régulation des taux
+d’intérêt qui a été assez fortement organisée par l’Église.
+
+Dans cette société économique, il n’y a pas de marché du travail. C’est
+important de le comprendre. Bien sûr, il y a des gens qui travaillent, bien sûr,
+il y a des gens qui sont salariés, bien sûr, il y a des rapports de domination
+entre des maîtres et des employés. Mais il n’y a pas de marché du travail au
+sens où on l’entend aujourd’hui, c’est-à-dire qu’il n’y a pas de système de mise
+en concurrence des travailleurs. On n’achète pas vraiment la force de travail.
+Le rapport de travail est un rapport encastré dans des règles sociales et
+politiques, et ces règles, on ne peut pas y déroger comme on le souhaite,
+notamment au niveau des rémunérations.
+
+Par exemple, la plupart des gens à l’époque travaillent dans les campagnes. Dans
+les campagnes, on est agriculteurs, on n’est pas sur un marché libre du travail
+agricole. On exploite une ferme sur un terrain qui appartient souvent à
+quelqu’un d’autre, au seigneur local. À aucun moment on ne peut mettre en
+concurrence son seigneur en lui disant : « Écoutez, si vous continuez à me taxer
+davantage, moi je vais travailler chez le seigneur d’à côté. » De la même façon,
+le seigneur ne peut pas dire à son fermier : « Écoutez, vous avez mal travaillé
+cette année, je vous vire et je recrute de nouveaux agriculteurs. » Tout cela
+n’a aucun sens. Évidemment, ce n’était pas le cas au XVIIIe siècle, mais le
+système médiéval était aussi fondé, au début du Moyen Âge, sur le servage. Le
+servage faisait que le serf était soumis à la tutelle seigneuriale, mais il
+appartenait en quelque sorte à la terre ; il n’était pas libre. Cela voulait
+dire que lui n’était pas libre de partir, mais cela veut dire aussi que le
+seigneur n’était pas libre de le virer. Progressivement, le servage décline et
+est quasiment aboli — enfin, il n’y a quasiment plus de servage en Europe
+occidentale au XVIIIe siècle — mais néanmoins il n’y a pas de rapport marchand
+entre les agriculteurs fermiers et les propriétaires fonciers.
+
+Le troisième élément qui fait qu’il n’y a pas de marché du travail, c’est que
+les personnes qui sont pauvres, qui ne peuvent pas travailler, et les indigents,
+sont en général aidées par la communauté, souvent par la communauté religieuse.
+Cette communauté religieuse est même financée par des dons et par les seigneurs
+du coin. Polanyi a une phrase très intéressante, je trouve : il explique que
+dans toutes les sociétés traditionnelles, les pauvres ne meurent pas de faim,
+alors même que ces sociétés peuvent parfois connaître des disettes, des famines.
+Cela veut dire que l’ensemble de la société a pour principe de nourrir les
+personnes qui sont en situation d’extrême pauvreté. Donc il n’y a pas non plus
+de crainte de mourir de faim si on ne travaille pas.
+
+Des systèmes d’aide aux pauvres ont toujours existé au Moyen Âge. Ils ont été
+formalisés en Angleterre par ce qu’on appelait la loi sur les pauvres, qui
+obligeait les paroisses par exemple à recueillir et à aider les familles
+pauvres, en échange théoriquement d’un travail, mais en fait très souvent même
+s’il n’y avait pas de travail, on nourrissait les gens. Vous voyez que le
+rapport au travail est un rapport qui est institutionnalisé totalement
+autrement. Ce sont des règles qui viennent parfois de l’État, parfois l’État
+impose des salaires minimum, parfois des corporations, parfois des rapports
+sociaux dans les campagnes entre seigneurs et serfs, ou seigneur et fermier.
+Tout cela ne relève absolument pas de mécanismes de marché ni de concurrence.
+
+Le capitalisme, selon l’analyse de Polanyi, va faire naître un nouvel ordre, un
+nouvel ordre marchand. Pour s’épanouir, pour fonctionner, cet ordre marchand va
+devoir introduire de la concurrence, et il va introduire de la concurrence
+notamment entre les producteurs. La première chose qu’il fait, c’est le
+démantèlement des corporations et, plus largement, de tout un ensemble
+d’institutions qui empêchaient le marché de dominer la société. Les
+corporations, par exemple : en France, la fin des corporations, c’est la loi Le
+Chapelier, qui interdit aussi les syndicats, et donc interdit en fait toute
+organisation professionnelle, toute capacité de s’organiser professionnellement.
+Cela veut dire que chacun doit être en concurrence avec les autres. Cela veut
+dire que les entreprises doivent être en concurrence les unes avec les autres,
+mais aussi que les salariés doivent être en concurrence, donc ils n’ont pas le
+droit de s’unir, et donc c’est interdit de fait pour les syndicats ouvriers.
+Cela va durer comme cela pendant quasiment cent ans.
+
+De la même façon, on va chercher à démanteler les systèmes d’assistance aux
+pauvres. Pourquoi ? Parce que les pauvres refusent de travailler à l’usine : les
+conditions de travail sont tellement horribles. Par ailleurs, le système
+d’assistance aux pauvres faisait que les indigents qui avaient besoin d’aide
+étaient obligés de rester dans la paroisse où ils étaient, et donc il n’y avait
+pas de libre circulation du travail. Cela voulait dire que si vous aviez besoin
+d’ouvriers, que l’ouvrier — enfin, que les personnes qui auraient pu s’embaucher
+— étaient dans le village d’à côté, dans une autre paroisse, comme c’est la
+paroisse qui prenait en charge les pauvres, vous ne pouviez pas les faire venir
+chez vous.
+
+Donc, en fait, le capitalisme commence par une grande destruction de ces
+institutions qui organisaient auparavant les relations, les rapports humains,
+les rapports de travail, qui les organisaient selon des principes politiques et
+sociaux, selon des valeurs religieuses. On va supprimer toutes ces institutions
+pour les remplacer par une gestion marchande du travail. C’est cela qui va faire
+apparaître le salariat comme le mécanisme dominant de rapport au travail,
+puisque auparavant il y avait très peu de salariés en réalité — il y en avait
+bien sûr, mais ce n’était pas le modèle dominant.
+
+Pourquoi fait-on cela ? On fait cela parce que les capitalistes estiment qu’il
+faut organiser la société autour d’un système de marché — là on revient au
+libéralisme — et que si on veut organiser des entreprises dans un monde
+marchand, il faut qu’on puisse produire des marchandises. Ces marchandises, on
+les produit en général avec d’autres marchandises : pour produire un objet fini,
+il faut qu’on achète des matières premières, des produits semi-finis, qu’on les
+assemble, puis qu’on revende la marchandise. Le problème, c’est que produire des
+marchandises avec des marchandises suppose que tout ce qu’on achète soit aussi
+des marchandises. Or, nous dit Polanyi, le travail n’était pas une marchandise.
+On ne peut donc pas avoir un système fondé sur un ensemble de marchés avec des
+inputs qui sont des marchandises et des outputs qui sont des marchandises si
+dans les inputs il y a du travail et si le travail lui-même n’est pas une
+marchandise. Pourquoi ? Parce que cela va finalement dérégler la machine et
+changer complètement le système de régulation.
+
+Il a donc fallu, nous dit Polanyi, qu’on crée ce qu’il appelle des marchandises
+fictives. C’est-à-dire qu’il a fallu que non seulement les marchandises soient
+des marchandises, mais qu’il a fallu que les facteurs de production que sont le
+capital, le travail et la terre soient également conçus et traités comme des
+marchandises. C’est cela qu’il appelle les marchandises fictives, parce qu’au
+départ le travail n’est pas une marchandise. Traditionnellement, il ne l’est
+pas. En même temps, il n’est pas une marchandise dans sa fonction même, puisque
+la fonction première d’une marchandise, c’est d’être vendue. Or les individus
+n’ont pas pour fonction première de produire une force de travail ; ce n’est pas
+pour cela qu’on fait des enfants, et a priori ce n’est pas le cœur, la raison
+d’être des individus. De la même façon, la terre n’est pas une marchandise parce
+qu’elle n’a pas été produite : elle est un cadeau de la nature, si je puis dire.
+
+Polanyi nous dit que le problème, c’est que si on veut organiser une société
+fondée sur la marchandise, c’est-à-dire qui produit des marchandises, elle doit
+aussi mettre en input des marchandises, et donc elle doit tout traiter selon le
+principe de la marchandise. Cela implique d’organiser la société autour de ces
+marchandises et donc de traiter comme des marchandises des choses qui n’en sont
+pas. Voici ce qu’il dit :
+
+> Le point fondamental est le suivant : le travail, la terre et l’argent sont
+des éléments essentiels de l’industrie ; ils doivent être eux aussi organisés en
+marché. Ces marchés forment en fait une partie absolument essentielle du système
+économique. Mais il est évident que travail, terre et monnaie ne sont pas des
+marchandises. En ce qui les concerne, le postulat selon lequel tout ce qui est
+acheté et vendu doit avoir été produit pour la vente est carrément faux. C’est
+néanmoins à l’aide de cette fiction que s’organisent dans la réalité les marchés
+du travail, de la terre et de la monnaie. Ceux-ci sont réellement achetés et
+vendus sur le marché ; leur demande et leur offre sont des grandeurs réelles.
+Toute mesure, toute politique qui empêcherait la formation de ces marchés
+mettrait ipso facto en danger l’autorégulation du système. La fiction de la
+marchandise fournit par conséquent un principe d’organisation d’importance
+vitale qui concerne l’ensemble de la société et qui affecte presque toutes ses
+institutions de la façon la plus variée. Ce principe veut que l’on interdise
+toute disposition ou tout comportement qui pourrait empêcher le fonctionnement
+effectif du mécanisme du marché selon la fiction de la marchandise.
+
+Et alors je continue. Si on organise la société autour de cette fiction de la
+marchandise, cela veut dire qu’on va créer une société de marché, c’est-à-dire
+un ensemble, un système cohérent de marchés, et ce système cohérent de marchés
+va s’autoréguler — c’est ce qui était dit tout à l’heure dans la citation. Cette
+autorégulation nécessite qu’on enlève, qu’on supprime tout grain de sable dans
+la mécanique. Les grains de sable, ce sont notamment les rapports sociaux, par
+exemple la charité. La charité, c’est un vrai problème : si vous êtes trop
+charitable, les gens vont vivre très bien, et du coup ils n’auront pas envie
+d’aller travailler à l’usine. Peut-être que cela vous rappelle des choses qu’on
+entend aujourd’hui sur le RSA.
+
+Cela veut dire quoi ? Cela veut dire qu’auparavant on avait un système de marché
+qui était encastré dans d’autres valeurs, dans des valeurs sociales et
+politiques, encastrées dans la société. Cela veut dire que ce n’est pas lui qui
+déterminait la société, c’est la société qui encastrait le marché. Donc il
+existait des marchés, mais ils étaient encastrés. Maintenant, qu’est-ce qu’on
+est en train de faire ? On est en train de désencastrer le marché, c’est-à-dire
+qu’on est en train de chercher à l’autonomiser de la société pour lui permettre
+de bien fonctionner. Mais alors, du coup, il va falloir qu’on évite tous ces
+grains de sable dans les rouages, et cela veut dire qu’il va falloir cette
+fois-ci mettre la société au service du marché. Donc, en fait, ce qui explique
+Polanyi, c’est que le système capitaliste marchand a renversé l’ordre entre
+marché et société : auparavant, c’était le marché qui était encastré dans la
+société, et maintenant c’est la société qui vient s’encastrer dans le marché.
+
+Le problème, nous dit-il, c’est que tout cela crée un monde invivable. Voici ce
+qu’il écrit :
+
+> En fait, le problème de la protection s’est posé pour les agriculteurs de pays
+entiers, de continents entiers. Le libre-échange international, si on le laisse
+faire, devait nécessairement éliminer les producteurs agricoles par pleins
+contingents et en quantité toujours plus grande. Une fois que les grands
+investissements entraînés par la construction de bateaux à vapeur et de lignes
+de chemin de fer ont donné leurs fruits, des continents entiers se sont ouverts
+et une avalanche de grains est tombée sur la pauvre Europe. L’Europe centrale,
+confrontée à une destruction totale de sa société rurale, fut forcée de protéger
+sa paysannerie en instaurant des lois sur les céréales.
+
+Qu’est-ce qu’il écrit là ? Il dit : voilà, quand on a commencé à organiser
+l’ensemble de la société sur le marché, bien sûr on a vu la terre — on a pris la
+terre comme une marchandise — on a donc pris aussi les produits de la terre
+comme des marchandises, on a ouvert les marchés au libre-échange, et tout cela a
+totalement détruit la paysannerie. Donc qu’est-ce qu’il a fallu faire ? Il a
+fallu, nous dit Polanyi, chercher à éviter la destruction de la paysannerie en
+cherchant à mettre par exemple des lois sur les grains, c’est-à-dire des lois
+sur les céréales, des lois de protection, en fait des lois protectionnistes.
+
+Le problème, c’est que dès qu’on fait cela, dès qu’on peut protéger les gens —
+ce n’est pas la citation, mais c’est un autre passage dans le livre — par
+exemple la question du travail : si on organise le travail comme une
+marchandise, on va se retrouver à gérer des stocks de travail, c’est-à-dire des
+chômeurs. On va voir que le prix du travail ne va cesser d’évoluer en fonction
+des circonstances de marché. Cela veut dire que les revenus des gens vont
+varier. Vous voyez comment le prix du pétrole varie beaucoup : bon, parce que
+c’est une marchandise. Si le travail est lui-même une marchandise, mécaniquement
+son prix va varier, et donc cela veut dire que des gens vont se retrouver
+parfois à être payés deux fois moins pour le travail qu’auparavant. Cela a créé
+des révoltes. Qu’est-ce qu’on va faire ? On va chercher à réguler le marché du
+travail en imposant des salaires minimums, en essayant de permettre
+l’organisation ouvrière avec les syndicats. Mais tout cela va dérégler le
+mécanisme marchand.
+
+Donc ce qui explique Polanyi dans son bouquin, c’est qu’on a un idéal : il faut
+que tout devienne marchandise. Mais dès que tout devient marchandise, le monde
+devient insupportable. Et du coup se pose un problème :
+
+> Notre thèse est que l’idée d’un marché s’ajustant lui-même était purement
+utopique. Une telle institution ne pouvait exister de façon suivie sans anéantir
+la substance humaine et naturelle de la société, sans détruire l’homme et sans
+transformer son milieu en désert. Inévitablement, la société prit des mesures
+pour se protéger. Mais toutes ces mesures, quelles qu’elles fussent,
+compromettaient l’autorégulation du marché, désorganisaient la vie industrielle
+et exposaient ainsi la société à d’autres dangers. Ce fut ce dilemme qui força
+le système du marché à emprunter dans son développement une voie déterminée et
+finit par briser l’organisation sociale qui se fondait sur lui.
+
+Qu’est-ce qu’il dit ? Il dit : voilà, le principe d’autorégulation du marché,
+c’est utopique, parce que cela crée une société invivable, non seulement
+invivable pour les hommes, mais en plus qui va détruire la nature. Parce que
+souvenez-vous : parmi les marchandises fictives, il y a la terre, c’est-à-dire
+la nature. Quand on traite la nature comme une marchandise, on transforme son
+milieu en désert. Donc on est obligé de réguler le marché. On le régule, et
+quand on le régule, il se désorganise. Du coup, on se retrouve confronté à un
+dilemme : si on veut que la société fonctionne bien du point de vue économique,
+il faut tout marchandiser ; mais si on marchandise tout, alors cela devient
+invivable, il y a la pollution, il y a des désordres sociaux.
+
+Que se passe-t-il concrètement ? On va voir émerger des révoltes populaires, ce
+qu’il appelle les contre-mouvements. C’est-à-dire qu’au fur et à mesure qu’on va
+chercher à libéraliser l’ensemble de la société, à créer cette société de marché
+utopique, on va se retrouver face à des confrontations et des gens qui, devant
+la destruction des institutions sociales, vont réagir. Ces réactions, ce sont ce
+qu’il appelle des contre-mouvements. Et ces contre-mouvements, cela va être
+typiquement du fascisme. C’est-à-dire que le fascisme est une réaction de la
+société à un environnement qui devient invivable, qui devient incompréhensible,
+et dans lequel on va chercher — c’est cela le côté réactionnaire du fascisme — à
+rétablir les institutions qui ont été détruites par le capitalisme. D’où le côté
+réactionnaire.
+
+Voilà donc un modèle dans lequel le système du marché autorégulé imposé à la
+société finit par encastrer la société dans le marché et finit par produire
+quelque chose d’invivable, qui produit légitimement des réactions sociales.
+
+## Alain Supiot : du gouvernement à la gouvernance
+
+Maintenant, je voudrais aborder une autre vision, celle d’Alain Supiot. Alain
+Supiot est un juriste, qui était professeur au Collège de France, et qui a
+publié un livre issu de ses cours au Collège de France, intitulé *La gouvernance
+par les nombres*. C’est un énorme livre, un livre très érudit, mais absolument
+passionnant.
+
+Ce qu’il essaie d’expliquer, Supiot, c’est que la société capitaliste moderne
+est fondée sur un système juridique assez spécifique, qui se démarque des
+sociétés précapitalistes. Il essaie d’expliquer comment, dans la société moderne
+précapitaliste — donc on parle ici de la société du XVIIIe siècle — on concevait
+le droit. Supiot nous explique que le droit était conçu comme une forme de
+perfection, en prenant l’analogie mécanique. La logique mécanique, c’est l’idée
+de l’horloge : on essaie de construire un système juridique qui se rapproche le
+plus possible d’une forme de perfection. Cette perfection se rattache à des
+valeurs transcendantes. Ce système juridique, nous dit-il, est fondé sur des
+principes transcendants.
+
+Ce qu’il explique dans son ouvrage, c’est que finalement ce système juridique
+est organisé autour de l’hétéronomie. L’hétéronomie signifie que le monde
+institutionnel n’est pas plat, qu’il est fondé sur des valeurs et des
+institutions qui ne relèvent pas du monde marchand. Parce qu’en réalité, le
+monde marchand, c’est quoi ? Le monde marchand, c’est l’équivalence.
+C’est-à-dire que dans le marché, tout s’achète et tout se vend. Quand on y
+réfléchit un peu, ce n’est pas tellement caractéristique de l’anthropologie
+humaine. Voyez d’ailleurs comment sont les publicités — c’est une forme de
+paradoxe — mais pensez à la publicité Carte Bleue Visa qui nous dit : « Il y a
+des choses qui ne s’achètent pas. » Nous sommes tous convaincus qu’il y a des
+choses qui ne s’achètent pas, qu’il y a des choses marchandes. Il y a le monde
+marchand d’un côté, et puis il y a le monde intime, le monde familial, le monde
+dans lequel les valeurs qui nous unissent ne sont pas des valeurs marchandes. On
+est tous à peu près convaincus a priori que le monde marchand, c’est le monde de
+l’équivalence, et que tout ce qui relève du non-marchand, de nos valeurs, de nos
+croyances, ce sont des choses qui ne s’achètent pas. Donc cela veut dire que par
+définition il n’y a pas d’équivalence. On est ici dans notre construction
+mentale, on est fondé sur l’idée que certaines choses sont transcendantes.
+
+Supiot parle d’hétéronomie parce que c’est un mot encore plus neutre, qui dit
+simplement : voilà, on a des niveaux différents, et ces niveaux différents
+impliquent la non-équivalence des choses. C’est comme cela qu’on est construit,
+qu’on est éduqué. Mais le monde dans lequel on vit n’est pas fondé sur cela, et
+c’est cela qui crée aussi une forme de dissonance cognitive : on a une certaine
+valeur, mais on voit bien que le monde capitaliste est fondé justement sur le
+principe de l’équivalence. C’est-à-dire qu’on va chercher à organiser ce qu’il
+appelle un marché total.
+
+Dans le mécanisme juridique contemporain, on va transformer le droit — puisqu’on
+revient sur le droit — en un système qui tirait sa légitimité de valeurs
+transcendantes, qui s’incarnaient ensuite dans des institutions elles-mêmes
+fondées sur un principe hétéronome. On retrouve ce principe d’hétéronomie parce
+que ce qui caractérise l’institution publique, c’est l’usage de l’uniforme.
+C’est intéressant : l’uniforme, qu’est-ce que cela signifie ? Policier,
+magistrat, etc. Cela signifie : je suis là, je joue un rôle. Mon rôle n’est pas
+d’être parmi vous comme vous, entre guillemets ; c’est d’être alors au-dessus,
+mais surtout à côté de vous, et de représenter un ordre institutionnel : la
+justice, la loi, etc. Donc mon uniforme fait que nous ne sommes pas dans un
+registre de marché, c’est-à-dire un registre d’équivalence où on va négocier
+chacun de son côté. Il y a quelqu’un qui incarne le policier, qui incarne la
+loi, qui incarne l’État dans sa fonction de policier ; donc il a un uniforme
+pour montrer qu’il joue ce rôle-là. Puis bien sûr, dans une fonction civile, il
+ne va plus être un policier, il va être quelqu’un de normal. Vous voyez donc que
+ce système-là est fondamental dans les institutions.
+
+Le problème, c’est que lorsqu’on passe du gouvernement — gouvernement qui est
+fondé sur l’idée d’hétéronomie — à un système fondé sur l’équivalence, sur le
+marché, on va passer à la gouvernance. Ce qu’explique Supiot, c’est que ce
+système de gouvernance est fondé sur un autre imaginaire : il n’est pas fondé
+sur l’imaginaire de la mécanique, mais sur celui de la cybernétique. Voici ce
+qu’il écrit :
+
+> Animée par l’imaginaire cybernétique, la gouvernance ne repose plus,
+contrairement au gouvernement, sur la subordination des individus, mais sur leur
+programmation. Le travailleur subordonné agit conformément aux règles qui lui
+ont été prescrites, tandis que le travailleur programmé réagit aux informations
+qui lui parviennent de son environnement. Ce passage de la subordination à la
+programmation est tout à fait central dans la représentation contemporaine de la
+gouvernance. À la différence du plan, qui impliquait l’intervention hétéronome
+d’un planificateur, le programme permet de penser des systèmes homéostatiques et
+auto-référentiels, d’où son succès en biologie. Pour expliquer l’action d’un
+homme ou d’un parti politique, on ne se réfère plus, dans la langue
+journalistique, à son idéologie et à ses principes, mais à son logiciel, à son
+ADN, à son code génétique, voire à son disque dur.
+
+Ce passage du gouvernement à la gouvernance, on le retrouve dans le vocabulaire.
+Dans le livre de Supiot, il y a un petit tableau que je trouve assez amusant, où
+il explique les équivalences.
+
+| Gouvernement | Gouvernance |
+|---|---|
+| Peuple | Société civile |
+| Souveraineté | Subsidiarité |
+| Territoire | Espace de loi |
+| Loi | Programme |
+| Liberté | Flexibilité |
+| Morale | Éthique |
+| Justice | Efficacité |
+| Jugement | Évaluation |
+| Règle objective | Réglementation |
+| Régulation | Régulation |
+| Représentation | Transparence |
+| Travailleur | Capital humain |
+| Qualification | Employabilité |
+| Syndicats et négociations collectives | Partenaires sociaux et dialogue social |
+
+Vous voyez, c’est tout le vocabulaire d’aujourd’hui. C’est un tableau vraiment
+de Supiot, je l’ai copié-collé, et qui montre le changement de registre.
+Qu’est-ce que cela signifie ? Cela signifie que les institutions sont par nature
+affaiblies, parce que les institutions émanent de la loi. Soit la loi émane d’un
+principe supérieur, transcendant — par exemple, si l’objectif de l’école est de
+former des citoyens éduqués et éclairés, bon, il n’y aura pas besoin de réforme,
+j’ai envie de dire. On a conçu progressivement une école qui permettait de
+former des gens éclairés et citoyens, et il n’y a pas de raison de réformer
+systématiquement l’école, parce que finalement, si c’est cela le but de l’école,
+on ne va pas non plus s’amuser à changer systématiquement les choses. Mais
+maintenant que l’école a pour objectif, selon le principe de programmation,
+d’aller vers des travailleurs qui soient bien formés pour le monde du travail,
+alors là, le monde du travail changeant régulièrement, les emplois changeants,
+il faut que l’école se change elle-même. C’est-à-dire que l’école ne va cesser
+de changer pour s’adapter à un environnement économique qui ne cesse de changer.
+Cela veut dire que l’objectif de l’école, si c’est un objectif marchand, un
+motif d’efficacité, alors la question de changer l’école se pose très
+régulièrement.
+
+Là je vous parle de l’école, mais en réalité Supiot parle beaucoup plus du droit
+du travail, parce que c’est sa spécialité. Le droit du travail, c’est exactement
+la même chose. Si le droit du travail est fondé sur des principes transcendants,
+cela veut dire qu’on va chercher à établir une forme de justice entre des
+rapports sociaux marqués par l’inégalité, puisque entre l’employeur et
+l’employé, on n’est pas vraiment égaux. Donc on va chercher à protéger le plus
+faible, et dans ce cas-là on va faire un droit du travail protecteur pour les
+salariés. Mais si maintenant l’objectif du droit du travail, c’est la
+performance, alors il va falloir que le droit du travail rende compte de
+l’efficacité et de l’attractivité économique du pays et de la performance des
+entreprises. Dans ce cas-là, il va falloir régulièrement réformer le droit du
+travail pour chercher à baisser les salaires, en fait, parce que c’est cela qui
+est déterminant dans la compétitivité du pays. On voit bien que le droit du
+travail n’a plus pour fonction de protéger la partie faible, mais pour fonction
+finalement de participer à la performance économique du pays.
+
+Le problème, c’est que si on est dans cette logique, le système législatif
+devient instable : il ne cesse de changer, et donc cela crée de l’insécurité.
+Cette insécurité est elle-même le produit d’un affaiblissement institutionnel.
+Pourquoi ? Parce que les institutions — c’est ce qu’on disait tout à l’heure —
+n’ont plus, n’amènent plus de valeur transcendante ; elles sont elles-mêmes
+indexées sur le principe de rendre la société plus efficace et plus performante.
+On va donc se retrouver avec des institutions dont les gens qu’elles sont
+censées organiser — c’est-à-dire la société — vont se demander si cette
+institution est là pour accompagner leur épanouissement, pour remplir une
+fonction transcendante, ou si elle est là pour transformer le marché, pour
+organiser une performance. Dans ce cas-là, évidemment, si elle a pour objet
+d’organiser une performance, d’une part on ne va plus lui faire confiance — cela
+va revenir, parce que cela va être au cœur du populisme — mais d’autre part on
+va chercher la protection.
+
+C’est la fin du livre de Supiot. Il dit : dans un système où la loi ne protège
+plus, où les institutions changent de rôle et donc de nature, où la loi devient
+totalement instable, les gens, qu’est-ce qu’ils vont naturellement faire ? Ils
+vont chercher la protection. Comment se protège-t-on dans un environnement qui
+devient hostile ? On se protège en allant chercher la protection d’un plus fort
+que soi. Et cela, nous dit-il, c’est le problème : cela crée une forme de
+nouveau féodalisme. C’est-à-dire qu’on va faire allégeance à plus fort que soi
+pour se mettre sous sa protection, parce que les institutions qui sont censées
+nous protéger, en fait, ne nous protègent pas ; elles cherchent à nous
+programmer, à nous inciter à faire de nous des êtres performants, et cela
+évidemment est extrêmement violent.
+
+Il dit par exemple que le principe de solidarité — mais cela on l’a déjà vu avec
+la loi sur les pauvres au XVIIIe siècle, qui est contestée et qui finit par
+disparaître quand on crée le marché du travail — aujourd’hui, on est toujours
+sur la même idée. Le principe de solidarité est aujourd’hui le principal
+obstacle auquel se heurte le marché pour s’imposer totalement. Face à l’ordre
+juridique, Hayek avait compris — il a écrit en des termes on ne peut plus clairs
+— que selon lui la solidarité est un instinct hérité de la société tribale dont
+il faut se défaire pour qu’advienne à l’échelle du globe le règne de la
+catalaxie, c’est-à-dire l’ordre engendré par l’ajustement mutuel de nombreuses
+économies individuelles sur un marché. « Une grande société, écrit-il, n’a que
+faire de la solidarité au sens propre du mot, c’est-à-dire de l’union de tous
+sur des buts connus ; elle doit être, elles sont même incompatibles. »
+
+Vous voyez donc que quand on est néolibéral, on ne veut pas la solidarité, parce
+que la solidarité est justement ce grain de sable dans le rouage du marché. Le
+marché ne peut plus fonctionner correctement, et donc on va chercher à supprimer
+ces mécanismes de solidarité. Par contre, ce que nous dit Supiot, et qui est au
+cœur de sa pensée, c’est que dans ce cas-là les gens vont quand même chercher
+les protections ; ils vont le faire selon d’autres règles et d’autres modes. Il
+parle ici de résurgence de la structure féodale. Et il termine là-dessus :
+
+> Dans l’hétéronomie de la loi, la gouvernance par les nombres ne fait pas
+advenir le règne de la pure autonomie individuelle, mais donne jour à des
+réseaux d’allégeance où le public et le privé se mêlent.
+
+## L’Union européenne comme laboratoire du marché unique
+
+Maintenant, on a fait un peu de théorie ; je voudrais regarder un peu le
+constat, c’est-à-dire essayer de se poser la question du populisme. Pour cela,
+je vais m’intéresser à la dynamique de l’Union européenne.
+
+L’Union européenne est pour moi un modèle très intéressant à étudier, parce que
+là on a en quelque sorte, en l’état quasiment pur, la tentative de construire un
+grand marché. Finalement, l’Union européenne s’est fondée sur le marché unique,
+et le marché unique est une institution marchande par définition, qui a été
+instaurée à partir de 1986 et qui est véritablement totalement mise en place
+depuis les années 2000. Ce marché unique est fondé sur ce qu’on appelle le
+régime des quatre libertés : libre circulation des biens, libre circulation des
+services, libre circulation du capital et du travail.
+
+Vous noterez que dans ces quatre libertés, il y en a deux qui relèvent des
+marchandises, c’est-à-dire les biens et les services — on peut dire qu’un bien,
+c’est une marchandise, cela ne fait pas de contestation possible. Mais on a
+aussi deux autres choses qui ne sont pas des marchandises au sens strict, qui
+sont des facteurs de production : le capital et le travail. Là, on retrouve le
+problème de la marchandise fictive de Polanyi. Le travail n’est pas une
+marchandise ; le travail, c’est des êtres humains. Ces êtres humains doivent se
+déplacer. Si on dit qu’on va organiser un libre marché du travail en Europe,
+cela veut dire qu’on va permettre à n’importe qui, de n’importe quel pays,
+d’aller travailler dans n’importe quel autre pays librement. Mais cela veut dire
+aussi être déraciné, quitter son pays, apprendre une nouvelle langue parfois, et
+puis parfois travailler dans un environnement institutionnel différent.
+
+Lorsqu’on dit qu’on va libérer la circulation du capital, cela veut dire que
+l’argent que l’on possède, qu’on a épargné, qui est mis sur un compte en banque,
+ne va pas simplement servir à financer l’investissement de son pays, mais va
+servir l’investissement de n’importe quel pays. Cela veut dire qu’on va avoir un
+phénomène — c’est ce phénomène que je vais commencer par expliquer — dans lequel
+les pays vont tous chercher à attirer le capital chez eux. C’est-à-dire que la
+libre circulation du capital, cela veut dire organiser à l’échelle du continent
+la concurrence entre zones géographiques pour chercher à attirer les
+investissements et donc les emplois.
+
+Quel type d’emploi va-t-on chercher à attirer ? Pas tellement les emplois de
+service, parce que les services sont produits là où les gens sont, et donc on ne
+peut pas vraiment les récupérer. Par exemple, le Portugal ne peut pas dire : «
+Bah tiens, moi je vais récupérer tous les supermarchés du monde », parce que
+vous voyez bien que ce serait très pratique si on devait tous faire nos courses
+au Portugal. Ce qui est possible d’attirer, c’est la production de produits
+manufacturés, parce que les produits manufacturés, une fois qu’on les a produits
+dans un pays, on peut les vendre dans le monde entier. Donc la concurrence en
+Europe se réalise autour des investissements industriels.
+
+Or ces investissements industriels ne vont pas se répartir de manière uniforme
+sur le territoire, et cela, c’est un vrai problème en Europe. L’Europe est un
+territoire qui a été rejeté — il est hétérogène — parce que l’accès aux grands
+marchés mondiaux, l’accès aux ports, l’accès aux infrastructures de transport,
+l’accès à la main-d’œuvre n’est pas uniforme partout en Europe. Par exemple, si
+vous voulez construire une usine à Nantes ou mieux à Saint-Nazaire, vous
+bénéficierez de la proximité du port de Saint-Nazaire, qui réduira vos coûts
+logistiques. Par contre, si vous voulez construire la même usine dans la Creuse,
+vous voyez bien que là cela va être plus compliqué pour transporter vos produits
+: il faudra utiliser des camions, voire des trains, mais les trains ne seront
+pas forcément très nombreux, il n’y a pas beaucoup de voies de circulation
+ferroviaire là-bas, surtout qu’en France on utilise plutôt le train pour le
+trafic voyageurs. Il n’y a pas de canaux navigables, donc vous allez retrouver
+des coûts logistiques qui peuvent être extrêmement élevés. Si vous produisez des
+choses, des petites industries qui sont faciles à transporter, cela peut marcher
+; mais si vous voulez produire de la grosse industrie, tout d’un coup cela
+devient plus compliqué, cela ne marche plus.
+
+Si je vous dis cela, c’est pour vous faire comprendre qu’à l’échelle du
+continent, tous les pays n’ont pas la même histoire industrielle et tous les
+pays n’ont pas développé les mêmes infrastructures de production industrielle.
+On a des régions en Europe qui sont extrêmement dynamiques, et cela c’est un
+legs historique. Par exemple, la vallée du Rhin est une région industriellement
+très dynamique. Pourquoi ? Parce que le Rhin est un fleuve navigable, qui
+débouche sur Rotterdam, et Rotterdam est le premier port européen. Quand vous
+êtes dans le premier port européen, directement via le fleuve connecté au grand
+port européen, vous pouvez bénéficier de grands super-conteneurs, de grands
+cargos qui, parce qu’ils sont très gros, vont vous faire payer moins cher la
+livraison de vos matières premières, et qui vont vous permettre d’exporter plus
+facilement, là aussi de manière moins chère. En plus, quand vous êtes dans une
+vallée, la vallée du Rhin, vous avez beaucoup d’entreprises industrielles qui
+sont déjà là, ce qui veut dire que vous trouverez assez facilement des
+sous-traitants et vous trouverez aussi assez facilement la main-d’œuvre.
+
+Ce que j’essaie de vous expliquer, c’est que la caractéristique de l’industrie,
+c’est d’être concentrée. Plus elle est concentrée, plus on va mettre autour de
+cette zone industrielle des infrastructures de transport, par exemple pour la
+logistique ; plus il y aura des ouvriers et de la main-d’œuvre qualifiée dans
+cette zone-là ; plus il y aura également tout un ensemble d’institutions qui
+vont faciliter la compétitivité de ces entreprises. Si je vous dis cela, c’est
+parce que c’est nécessaire pour comprendre la suite. C’est l’idée qu’il y a des
+phénomènes d’agglomération, et ce sont des choses très connues par les
+économistes. Un prix Nobel, Paul Krugman, a fait sa renommée sur ces mécanismes
+qu’on appelait l’économie géographique. Avant lui, un économiste anglais, Alfred
+Marshall, en avait lui aussi parlé, en expliquant que là où il y avait des
+usines, très souvent on retrouvait des usines à côté. C’est-à-dire que les
+usines ont tendance à s’étendre, à se concentrer : c’est ce qu’on appelle
+l’effet d’agglomération.
+
+Ces effets d’agglomération sont liés à l’apparition de facteurs de production
+territoriaux. Les facteurs de production, c’est aussi le territoire et son
+organisation sociale. Ce qui va se passer en Europe — je reviens à l’Europe —
+c’est qu’en organisant une libre circulation du capital, on va mettre en
+concurrence tous les pays. Ce que je viens de vous expliquer, c’est que dans
+cette concurrence il y a des pays qui sont favorisés par rapport à d’autres :
+les pays qui ont beaucoup d’industries, beaucoup d’infrastructures de transport
+et de facteurs de production territoriaux sont avantagés sur les pays qui n’ont
+pas d’historique, dans lesquels il y a déjà peu d’industries, donc peu de
+main-d’œuvre, et donc peu d’infrastructures de transport. Il va donc se passer
+en Europe, avec la création du marché unique, un phénomène de polarisation
+industrielle. La polarisation industrielle, cela veut dire que là où il n’y a
+pas beaucoup d’industries, elle va disparaître, et là où il y en a beaucoup,
+elle va s’agglomérer et donc encore se renforcer.
+
+C’est un travail que j’ai fait dans mes ouvrages sur l’Union européenne avec
+Coralie Delaume, et puis dans le dernier ouvrage j’en ai reparlé, parce que — on
+va le voir après — tout cela va expliquer le populisme. Je vous montre ici une
+carte de l’Europe qui montre l’évolution de l’emploi manufacturier de 2000 à
+2018. J’ai pris 2000 parce que c’est le moment où j’estime que le marché unique
+est totalement achevé : on a l’euro — à ce moment-là pas l’euro papier monnaie,
+mais on a l’euro théorique à cette époque — et puis on a vraiment créé le marché
+unique avec la libre circulation du capital, la libre circulation du travail, on
+a démantelé un certain nombre de services publics qu’on a ouverts à la
+concurrence.
+
+Quand on regarde ce qui s’est passé en dix-huit ans, on voit que beaucoup de
+pays ont perdu de l’emploi industriel — ici c’est vraiment l’emploi
+manufacturier. Mais ils n’ont pas perdu l’emploi manufacturier au même rythme
+partout. On voit ici que plus les pays sont noirs et gris foncé, plus ils ont
+perdu d’emploi industriel ; plus ils sont blancs, moins ils en ont perdu. On a
+même des pays qui en ont gagné, comme la Pologne et l’Autriche. Ce qui est
+intéressant dans cette carte, c’est qu’on voit bien une organisation
+géographique des dynamiques industrielles. Si je vous parle de l’emploi
+industriel, c’est pour voir là où on a des secteurs dynamiques et là où on a des
+secteurs plutôt en perte de vitesse. Tous les pays qui perdent de la vitesse
+sont dans les périphéries : c’est vrai pour la Finlande, c’est vrai pour la
+Grèce, c’est vrai pour le Portugal, c’est vrai pour le Royaume-Uni. On voit
+l’exception de l’Irlande, mais on parlera de l’Irlande tout à l’heure. Tous les
+pays qui ont gagné en emploi industriel sont les pays qui sont au cœur de
+l’Europe et qui sont liés à ces grands ports de la mer du Nord, notamment
+l’Autriche. Je sais que ce n’est pas forcément connu, mais l’Autriche, avec
+Vienne, vous pouvez arriver par bateau par les canaux ; vous pouvez arriver
+jusqu’au port de Rotterdam. Ce n’est évidemment pas possible depuis Lyon.
+
+Quand on regarde — là ce sont des chiffres, ce n’est pas tout à fait la même
+date, je m’en excuse, ici on est de 2000 à 2019 — quels sont les pays qui ont le
+plus perdu en emploi industriel, ce sont tous des pays périphériques : le
+Royaume-Uni, le Portugal, la Finlande, la Roumanie, la France, la Grèce et la
+Suède. Quand on regarde les pays qui ont le moins perdu, voire qui ont gagné de
+l’emploi industriel — et là je vous ai mis une barre à moins 10 % — il faut
+savoir que l’emploi industriel baisse structurellement. Il baisse
+structurellement à cause des progrès de la productivité, à cause de la
+mécanisation. Donc c’est normal de perdre de l’emploi industriel ; cela ne veut
+pas dire qu’on perd de l’activité industrielle, cela veut dire qu’on remplace
+des hommes par des machines. Mais j’estime que sur dix-neuf ans, quand on a
+perdu moins de 10 % d’emplois industriels, c’est qu’on a gagné en industrie ; et
+quand on a perdu plus de 20 %, c’est qu’on a plutôt perdu. Tous ces pays-là, ce
+sont tous des pays de l’Europe centrale, sauf l’Irlande, mais comme je l’ai dit,
+c’est une exception qu’on va expliquer tout à l’heure.
+
+Je vous montre cela pour vous montrer simplement le fonctionnement purement
+économique du marché unique européen. Si vous devez retenir une seule chose,
+c’est que le marché européen crée des divergences économiques entre les pays.
+Mais ce qui m’intéresse maintenant, ce sont les conséquences politiques et
+sociales de ces divergences. Pour le comprendre, il faut s’intéresser à la
+manière dont ce marché unique va affecter maintenant non pas l’économie, mais
+les sociétés de ces différents pays.
+
+## Migrations, déclassement et populisme en Europe centrale
+
+Regardons la question du populisme. Quelles sont les régions d’Europe où il y a
+des gouvernements qu’on qualifie parfois de populistes ? Les premières régions
+auxquelles on pense, ce sont les pays d’Europe centrale, la Hongrie et la
+Pologne en particulier, mais en fait cela dépasse un peu ces deux pays. Pourquoi
+ces pays-là ont-ils des leaders populistes ? On pourrait se dire a priori : bon,
+en fait ils ont plutôt gagné avec le marché unique, d’ailleurs ils se sont
+plutôt enrichis, donc pourquoi est-ce qu’il y aurait dans ces pays du populisme
+?
+
+Je vous l’ai dit tout à l’heure : le problème, c’est que l’ordre social n’est
+pas forcément lié à la question de la richesse. C’est quelque chose de plus
+fondamental. Pour essayer de le comprendre, je vous invite à lire un livre
+d’Ivan Krastev. Krastev est un politologue bulgare qui écrit un livre intitulé
+*Le destin de l’Europe*. Ce que j’ai trouvé intéressant dans ce livre, c’est
+qu’il fait une analyse très fine de ces sociétés d’Europe orientale. Il dit en
+fait : le problème, voyez-vous, dans ces pays d’Europe orientale, c’est que
+certes ils ont beaucoup gagné en adhérant à l’Union européenne, mais ils ont
+aussi subi un sentiment de déclassement, un sentiment de perte de substance.
+Beaucoup de ces pays vivent sur le sentiment de ce qu’il appelle la trahison des
+élites.
+
+Pourquoi ces pays ont-ils ce sentiment ? Parce qu’il y a un phénomène qui n’est
+pas présent dans la carte mais qu’on peut voir maintenant : c’est un phénomène
+migratoire. Ces pays, quand ils sont rentrés dans l’Union européenne avec la
+libre circulation du travail — principe fondamental du marché unique — ont
+commencé à perdre beaucoup de populations. Là je vous montre, entre 2000 et
+2018, les flux migratoires, le solde migratoire. J’additionne les soldes année
+après année : pour les pays baltes, par exemple, on arrive à -800 000 personnes
+; pour la Bulgarie, à -420 000 personnes ; pour la Pologne, à -185 000 personnes
+; et pour la Roumanie, on a plus de 2 millions de personnes. La Roumanie a perdu
+plus de 2 millions d’habitants du seul fait des flux migratoires.
+
+Quand on voit cela, évidemment on se dit : mais c’est terrible, dans des pays
+qui sont en train de perdre leur substance. Et en particulier — c’est cela qui
+est intéressant dans l’analyse de Krastev — il nous explique que ces pays
+d’Europe centrale n’ont pas perdu n’importe quelle population. Ce qu’ils ont
+perdu, c’est les jeunes éduqués, c’est-à-dire les gens qui avaient fait des
+études, qui sont devenus parfois ingénieurs, et qui se retrouvent finalement à
+devoir choisir entre leur propre pays, dans lequel ils vont être mal payés, et
+un pays étranger, dans lequel ils vont gagner quatre ou cinq fois plus.
+Évidemment, beaucoup d’entre eux choisissent de partir à l’étranger. Donc ces
+pays — les populations de ces pays — ont l’impression de former, avec leurs
+impôts, des étudiants qui vont avoir un master, et puis dès qu’ils auront leur
+master ils vont chercher à gagner plus d’argent en Allemagne, en France ou dans
+d’autres pays. Ces pays ont le sentiment que leurs élites les trahissent.
+
+Ce sentiment de trahison des élites nourrit justement ce populisme : un
+populisme réactionnaire, conservateur, nationaliste, on peut dire, qui est un
+peu obsédé par l’immigration. L’une des choses que Krastev explique, c’est à
+quel point la crise migratoire de 2015 a été un moment de choc pour ces pays,
+qui sont un peu fragiles, qui ont souvent été intégrés à des empires plus
+grands, et qui ont l’impression de disparaître structurellement. Ils voient
+finalement des immigrés, un million de réfugiés arrivés sur le continent, et
+tout d’un coup ils ont peur.
+
+D’ailleurs, cela me permet d’ouvrir une parenthèse : ces mêmes pays aujourd’hui
+accueillent à bras ouverts les Ukrainiens. On pourrait considérer cela
+contradictoire, mais ce n’est pas du tout contradictoire, parce que pour les
+Polonais les Ukrainiens sont des frères. En plus, ils ont été dans le même pays
+— par exemple, une partie de l’Ukraine était un territoire polonais — et en plus
+ils sont opposés aux Russes. Il y a donc un sentiment d’appartenance au même
+peuple, et donc pour eux ces immigrés, c’est au contraire chercher à se
+renforcer eux-mêmes. Alors que quand il s’agit de Syriens, c’est l’autre, et
+dans ce cas la situation n’est pas pareille dans un pays qui se sent un peu
+fragile.
+
+## L’Europe du Sud, l’Irlande, les gilets jaunes et l’Allemagne
+
+Les autres pays où on a pu avoir du populisme, plus récemment mais aussi à une
+époque où il y en a eu beaucoup, ce sont les pays d’Europe du Sud. Notamment
+Syriza, Alexis Tsipras : on a vu en 2015 à quel point il y a eu un mouvement de
+contestation. Ces pays sont victimes de la désindustrialisation dont on a parlé.
+Les pays d’Europe du Sud, périphériques, ont perdu leurs usines, ont perdu leur
+puissance économique, et donc ils contestent les institutions européennes. Ils
+vont perdre en substance économique et s’appauvrir, et cela va créer là aussi
+une forme de populisme.
+
+J’ai dit qu’on parlerait de l’Irlande. Je voudrais vous expliquer un peu
+l’Irlande. L’Irlande, pour résoudre le problème qu’il y avait dans la
+concurrence, et pour ne pas trop perdre en concurrence vis-à-vis des autres
+pays, a mis en œuvre une stratégie de dumping fiscal. Pour comprendre les
+conséquences de cette stratégie de dumping fiscal, il faut regarder l’évolution
+comparée de l’emploi et de la production industrielle en France et en Irlande.
+Si je vous montre la France, vous voyez bien que la production industrielle suit
+plus ou moins l’évolution de l’emploi industriel. Ici on a l’emploi industriel
+en rouge et la production industrielle en bleu. Si je vous montre le cas de
+l’Irlande, j’arrive à des choses comme cela : l’emploi industriel a baissé, mais
+la production industrielle a explosé.
+
+En fait, on ne peut comprendre ce phénomène que parce qu’une grande partie de la
+production industrielle irlandaise est virtuelle. C’est-à-dire que cet écart
+énorme entre la production industrielle et l’emploi industriel ne s’explique que
+d’une seule façon : parce qu’il y a des entreprises qui font apparaître de la
+production industrielle fictive en Irlande, et elles le font pour des raisons
+fiscales. Cela veut dire que l’Irlande parvient en quelque sorte, par le dumping
+fiscal, à échapper à la concurrence, à fausser les règles de la concurrence. On
+a ici un mécanisme qui est aussi une conséquence de l’hyperconcurrence organisée
+par le marché unique.
+
+Puis dernier élément sur le populisme : je voulais parler des gilets jaunes. Les
+gilets jaunes, on se dit : tiens, c’est vrai que c’est un mouvement qui apparaît
+sous Macron en 2018. Pourquoi apparaît-il ? Il apparaît, souvenez-vous, parce
+que Macron décide d’augmenter les taxes sur les essences et de mettre en place
+une taxe carbone. Pourquoi fait-il cela ? Parce qu’à cette époque — et depuis,
+ce n’est pas lui qui a inventé, c’était déjà le cas sous Hollande — il cherche à
+jouer sa carte sur le marché hyperconcurrentiel du capital en Europe. Or on a vu
+que la France n’est pas bien placée : elle n’est pas directement connectée au
+grand port de la mer du Nord ; même si c’est un pays anciennement industrialisé,
+on n’a pas la performance de l’Allemagne ; et puis elle n’a pas des coûts comme
+peut avoir la Pologne, qui lui permettraient de compenser la concurrence ; et
+puis elle ne fait pas de dumping fiscal comme l’Irlande. Donc qu’est-ce qu’on
+peut faire en France ? On mène une stratégie d’attractivité fiscale. Cette
+stratégie d’attractivité fiscale est fondée sur quoi ? Elle est fondée sur le
+basculement de la charge fiscale des entreprises vers les ménages. On baisse les
+impôts des entreprises et on compense la baisse des impôts d’entreprise soit par
+une dégradation des services publics, soit par des taxes qui vont compenser les
+cadeaux fiscaux qu’on a faits aux entreprises.
+
+Cela se voit quand on regarde l’évolution comparée de la fiscalité des sociétés
+non financières et des ménages. On voit qu’il y a eu un parallèle pendant
+quelque temps : au début, à partir de 2010, on a une politique d’austérité menée
+sous Sarkozy et sous Hollande au début, qui fait que les taxes augmentent à la
+fois pour les ménages et pour les entreprises. Puis, depuis 2012, on a une
+divergence, avec les impôts qui baissent pour les entreprises et qui augmentent
+pour les ménages. Cela explique le populisme. Mais ce que je veux vous faire
+comprendre, c’est que cela explique le populisme français, mais il ne suffit pas
+de dire « Macron est méchant » et voilà. Il faut comprendre que c’est une
+réponse à l’environnement institutionnel, qui est elle-même liée au problème du
+marché unique.
+
+En Allemagne, je n’ai pas beaucoup parlé de l’Allemagne, mais il y a aussi une
+forme de populisme, même si elle est moins importante. On a vu une montée de
+l’extrême droite, qui était un peu affaiblie aux dernières élections, mais qui
+est elle-même le produit d’un vrai problème qui existe en Allemagne : le
+problème du logement. Le pays qui avait un coût du logement très faible est
+devenu un des pays avec le coût du logement le plus élevé d’Europe. Pourquoi ?
+Parce que — je reviens sur les migrations, je ne vous ai pas montré ce chiffre,
+mais il est exceptionnel — depuis 2010, en Allemagne, on a un solde migratoire
+de 4 300 000 personnes entre 2010 et 2018. Cela veut dire plus de 500 000
+personnes par an, c’est plus que l’agglomération nantaise qui arrivent chaque
+année. Vous comprenez bien que dans un pays qui reçoit autant de monde — et ce
+n’est pas du tout que des réfugiés syriens, bien sûr, c’est beaucoup
+d’Européens, beaucoup de Grecs, beaucoup de Polonais, beaucoup de gens de toute
+l’Europe qui vont en Allemagne pour trouver du travail — cela crée un problème
+de tension sur le logement. Et même à mon avis, cela peut créer un problème plus
+profond de stabilité de la société. Souvenez-vous comment en France les
+rapatriés d’Algérie, c’était compliqué de les intégrer. Là, on est sur des
+phénomènes migratoires qui sont encore plus puissants.
+
+## Conclusion
+
+J’avais prévu une conclusion qui synthétisait tout ce que je vais dire, mais
+comme je n’ai pas le temps, et en plus cela a l’air un peu compliqué, je vous ai
+déjà tout dit. Je vous ai dit que le populisme était lié à la défiance —
+défiance institutionnelle, défiance envers les institutions. Cette défiance est
+liée à la désindustrialisation, à la polarisation industrielle qu’on voit en
+Europe et à la division européenne du travail. Elle est elle-même liée au marché
+unique, qui organise la libre concurrence.
+
+Tout cela pour vous dire comment le néolibéralisme, la mise en œuvre d’une
+société de marché, crée finalement des tensions sociales et politiques au sein
+des sociétés. C’est la raison pour laquelle il faut repenser profondément notre
+organisation sociale, parce qu’on ne peut pas avoir une organisation sociale qui
+joue contre les gens ; elle finit forcément, surtout en démocratie, par se
+confronter ensuite à un problème.
+
+Voilà, je vous remercie, et je suis là pour vos questions.

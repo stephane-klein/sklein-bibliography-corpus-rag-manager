@@ -1,0 +1,731 @@
+---
+title: A Sketch Of The History Of Political Economy.
+path: 03-introductory/1-a-sketch-of-the-history-of-political-economy
+ancestors:
+  - Introductory.
+href: 1129008759595750428_30107-h-2.html.xhtml#pgepubid00003
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# A Sketch Of The History Of Political Economy.
+
+General Bibliography.—There is no satisfactory general history of political economy in English. Blanqui's “Histoire de
+l'économie politique en Europe” (Paris, 1837) is disproportioned and superficial, and he labors under the disadvantage
+of not understanding the English school of economists. He studies to give the history of economic facts, rather than of
+economic laws. The book has been translated into English (New York, 1880).
+
+Villeneuve-Bargemont, in his “Histoire de l'économie politique” (Paris, 1841), aims to oppose a “Christian political
+economy” to the “English” political economy, and indulges in religious discussions.
+
+Travers Twiss, “View of the Progress of Political Economy in Europe since the Sixteenth Century” (London, 1847), marked
+an advance by treating the subject in the last four centuries, and by separating the history of principles from the
+history of facts. It is brief, and only a sketch. Julius Kautz has published in German the best existing history, “Die
+geschichtliche Entwickelung der National-Oekonomie und ihrer Literatur” (Vienna, 1860). (See Cossa, “Guide to the Study
+of Political Economy,” page 80.) Cossa in his book has furnished a vast amount of information about writers, classified
+by epochs and countries, and a valuable discussion of the divisions of political economy by various writers, and its
+relation to other sciences. It is a very desirable little hand-book. McCulloch, in his “Introduction to the Wealth of
+Nations,” gives a brief sketch of the growth of economic doctrine. The editor begs to acknowledge his great indebtedness
+for information to his colleague, Professor Charles F. Dunbar, of Harvard University.
+
+Systematic study for an understanding of the laws of political economy is to be found no farther back than the \[pg
+002\] sixteenth century. The history of political economy is not the history of economic institutions, any more than the
+history of mathematics is the history of every object possessing length, breadth, and thickness. Economic history is the
+story of the gradual evolution in the thought of men of an understanding of the laws which to-day constitute the science
+we are studying. It is essentially modern.[^1]
+
+Aristotle[^2] and Xenophon had some comprehension of the theory of money, and Plato[^3] had defined its functions with
+some accuracy. The economic laws of the Romans were all summed up in the idea of enriching the metropolis at the expense
+of the dependencies. During the middle ages no systematic study was undertaken, and the nature of economic laws was not
+even suspected.
+
+It is worth notice that the first glimmerings of political economy came to be seen through the discussions on money, and
+the extraordinary movements of gold and silver. About the time of Charles V, the young study was born, accompanied by
+the revival of learning, the Reformation, the discovery of America, and the great fall in the value of gold and silver.
+Modern society was just beginning, and had already brought manufactures into existence—woolens in England, silks in
+France, Genoa, and Florence; Venice had become the great commercial city of the world; the Hanseatic League was carrying
+goods from the Mediterranean to the Baltic; and the Jews of Lombardy had by that time brought into use the bill of
+exchange. While the supply of the precious metals had been tolerably constant hitherto, the steady increase of business
+brought about a fall of prices. From the middle of the fourteenth to the end of the fifteenth century \[pg 003\] the
+purchasing power of money increased in the ratio of four to ten. Then into this situation came the great influx of gold
+and silver from the New World. Prices rose unequally; the trading and manufacturing classes were flourishing, while
+others were depressed. In the sixteenth century the price of wheat tripled, but wages only doubled; the laboring-classes
+of England deteriorated, while others were enriched, producing profound social changes and the well-known flood of
+pauperism, together with the rise of the mercantile classes. Then new channels of trade were opened to the East and
+West. Of course, men saw but dimly the operation of these economic causes; although the books now began to hint at the
+right understanding of the movements and the true laws of money.
+
+Even before this time, however, Nicole Orêsme, Bishop of Lisieux (died 1382), had written intelligently on money;[^4]
+but, about 1526, the astronomer Copernicus gave a very good exposition of some of the functions of money. But he, as
+well as Latimer,[^5] while noticing the economic changes, gave no correct explanation. The Seigneur de Malestroit, a
+councilor of the King of France, however, by his errors drew out Jean Bodin[^6] to say that the rise of prices was due
+to the abundance of money brought from America. But he was in advance of his time, as well as William Stafford,[^7] the
+author of the first English treatise on money, which showed a perfect insight into the subject. Stafford distinctly
+grasped \[pg 004\] the idea that the high prices brought no loss to merchants, great gain to those who held long leases,
+and loss to those who did not buy and sell; that, in reality, commodities were exchanged when money was passed from hand
+to hand.
+
+Such was the situation[^8] which prefaced the first general system destined to be based on supposed economic
+considerations, wrongly understood, to be sure, but vigorously carried out. I refer to the well-known mercantile system
+which over-spread Europe.[^9] Spain, as the first receiver of American gold and silver, attributed to it abnormal power,
+and by heavy duties and prohibitions tried to keep the precious metals to herself. This led to a general belief in the
+tenets of the mercantile system, and its adoption by all Europe. 1. It was maintained that, where gold and silver
+abounded, there would be found no lack of the necessaries of life; 2. Therefore governments should do all in their power
+to secure an abundance of money. Noting that commerce and political power seemed to be in the hands of the states having
+the greatest quantity of money, men wished mainly to create such a relation of exports and imports of goods as would
+bring about an importation of money. The natural sequence of this was, the policy of creating a favorable “balance of
+trade” by increasing exports and diminishing imports, thus implying that the gain in international trade was not a
+mutual one. The error consisted in supposing that a nation could sell without buying, and in overlooking the
+instrumental character of money. The errors even went so far as to create prohibitory legislation, in the hope of
+shutting out imported goods and keeping the precious metals at home. The system \[pg 005\] spread over Europe, so that
+France (1544) and England (1552) forbade the export of specie. But, with the more peaceful conditions at the end of the
+sixteenth century, the expansion of commerce, the value of money became steadier, and prices advanced more slowly.
+
+Italian writers were among the first to discuss the laws of money intelligently,[^10] but a number of acute Englishmen
+enriched the literature of the subject,[^11] and it may be said that any modern study of political economy received its
+first definite impulse from England and France.
+
+The prohibition of the export of coin was embarrassing to the East India Company and to merchants; and Mun tried to show
+that freedom of exportation would increase the amount of gold and silver in a country, since the profits in foreign
+trade would bring back more than went out. It probably was not clear to them, however, that the export of bullion to the
+East was advantageous, because the commodities brought back in return were more valuable in England than the precious
+metals. The purpose of the mercantilists was to increase the amount of gold and silver in the country. Mun, with some
+penetration, had even pointed out that too much money was an evil; but in 1663 the English Parliament removed the
+restriction on the exportation of coin. The balance-of-trade heresy, that exports should always exceed \[pg 006\]
+imports (as if merchants would send out goods which, when paid for in commodities, should be returned in a form of less
+value than those sent out!), was the outcome of the mercantile system, and it has continued in the minds of many men to
+this day. The policy which aimed at securing a favorable balance of trade, and the plan of protecting home industries,
+had the same origin. If all consumable goods were produced at home, and none imported, that would increase exports, and
+bring more gold and silver into the country. As all the countries of Europe had adopted the mercantile theory after
+1664, retaliatory and prohibitory tariffs were set up against each other by England, France, Holland, and Germany. Then,
+because it was seen that large sums were paid for carrying goods, in order that no coin should be required to pay
+foreigners in any branch of industry, navigation laws were enacted, which required goods to be imported only in ships
+belonging to the importing nation. These remnants of the mercantile system continue to this day in the shipping laws of
+this and other countries.[^12]
+
+A natural consequence of the navigation acts, and of the mercantile system, was the so-called colonial policy, by which
+the colonies were excluded from all trade except with the mother-country. A plantation like New England, which produced
+commodities in competition with England, was looked upon with disfavor for her enterprise; and all this because of the
+fallacy, at the foundation of the mercantile \[pg 007\] system, that the gain in international trade is not mutual, but
+that what one country gains another must lose.[^13]
+
+An exposition of mercantilism would not be complete without a statement of the form it assumed in France under the
+guidance of Colbert,[^14] the great minister of Louis XIV, from 1661 to 1683. In order to create a favorable balance of
+trade, he devoted himself to fostering home productions, by attempts to abolish vexatious tolls and customs within the
+country, and by an extraordinary system of supervision in manufacturing establishments (which has been the stimulus to
+paternal government from which France has never since been able to free herself). Processes were borrowed from England,
+Germany, and Sweden, and new establishments for making tapestries and silk goods sprang up; even the sizes of fabrics
+were regulated by Colbert, and looms unsuitable for these sizes destroyed. In 1671 wool-dyers were given a code of
+detailed instructions as to the processes and materials that might be used. Long after, French industry felt the
+difficulty of struggling with stereotyped processes. His system, however, naturally resulted in a series of tariff
+measures (in 1664 and 1667). Moderate duties on the exportation of raw materials were first laid on, followed by heavy
+customs imposed on the importation of foreign goods. The shipment of coin was forbidden; but Colbert's criterion of
+prosperity was the favorable balance of trade. French agriculture was overlooked. The tariff of 1667 was based on the
+theory that foreigners must of necessity buy French wines, lace, and wheat; that the French could sell, but not buy; but
+the act of 1667 cut off the demand for French goods, and Portuguese \[pg 008\] wines came into the market. England and
+Holland retaliated and shut off the foreign markets from France. The wine and wheat growers of the latter country were
+ruined, and the rural population came to the verge of starvation. Colbert's last years were full of misfortune and
+disappointment; and a new illustration was given of the fallacy that the gain from international trade was not mutual.
+
+From this time, economic principles began to be better apprehended. It is to be noted that the first just observations
+arose from discussions upon money, and thence upon international trade. So far England has furnished the most acute
+writers: now France became the scene of a new movement. Marshal Vauban,[^15] the great soldier, and Boisguillebert[^16]
+both began to emphasize the truth that wealth really consists, not in money alone, but in an abundance of commodities;
+that countries which have plenty of gold and silver are not wealthier than others, and that money is only a medium of
+exchange. It was not, however, until 1750 that evidences of any real advance began to appear; for Law's famous scheme
+(1716-1720) only served as a drag upon the growth of economic truth. But in the middle of the eighteenth century an
+intellectual revival set in: the “Encyclopædia” was published, Montesquieu wrote his “l'Ésprit des Lois,” Rousseau was
+beginning to write, and Voltaire was at the height of his power. In this movement political economy had an important
+share, and there resulted the first school of Economists, termed the Physiocrats.
+
+The founder and leader of this new body of economic thinkers was François Quesnay,[^17] a physician and favorite at \[pg
+009\] the court of Louis XV. Passing by his ethical basis of a natural order of society, and natural rights of man, his
+main doctrine, in brief, was that the cultivation of the soil was the only source of wealth; that labor in other
+industries was sterile; and that freedom of trade was a necessary condition of healthy distribution. While known as the
+“Economists,” they were also called the “Physiocrats,”[^18] or the “Agricultural School.” Quesnay and his followers
+distinguished between the creation of wealth (which could only come from the soil) and the union of these materials,
+once created, by labor in other occupations. In the latter case the laborer did not, in their theory, produce wealth. A
+natural consequence of this view appeared in a rule of taxation, by which all the burdens of state expenditure were laid
+upon the landed proprietors alone, since they alone received a surplus of wealth (the famous net produit) above their
+sustenance and expenses of production. This position, of course, did not recognize the old mercantile theory that
+foreign commerce enriched a nation solely by increasing the quantity of money. To a physiocrat the wealth of a community
+was increased not by money, but by an abundant produce from its own soil. In fact, Quesnay argued that the right of
+property included the right to dispose of it freely at home or abroad, unrestricted by the state. This doctrine was
+formulated in the familiar expression, “Laissez faire, laissez passer.”[^19] Condorcet and Condillac favored the new
+ideas. The “Economists” became the fashion in France; and even included in their number Joseph II of Austria, the Kings
+of Spain, Poland, Sweden, Naples, Catharine \[pg 010\] of Russia, and the Margrave of Baden.[^20] Agriculture,
+therefore, received a great stimulus.
+
+Quesnay had many vigorous supporters, of whom the most conspicuous was the Marquis de Mirabeau[^21] (father of him of
+the Revolution), and the culmination of their popularity was reached about 1764. A feeling that the true increase of
+wealth was not in a mere increase of money, but in the products of the soil, led them naturally into a reaction against
+mercantilism, but also made them dogmatic and overbearing in their one-sided system, which did not recognize that labor
+in all industries created wealth. As the mercantile system found a great minister in Colbert to carry those opinions
+into effect on a national scale, so the Physiocrats found in Turgot[^22] a minister, under Louis XVI, who gave them a
+national field in which to try the doctrines of the new school. Benevolently devoted to bettering the condition of the
+people while Intendant of Limoges (1751), he was made comptroller-general of the finances by Louis XVI in 1774. Turgot
+had the ability to separate political economy from politics, law, and ethics. His system of freeing industry from
+governmental interference resulted in abolishing many abuses, securing a freer movement of grain, and in lightening the
+taxation. But the rigidity of national prejudices \[pg 011\] was too strong to allow him success. He had little tact,
+and raised many difficulties in his way. The proposal to abolish the corvées (compulsory repair of roads by the
+peasants), and substitute a tax on land, brought his king into a costly struggle (1776), and attempts to undermine
+Turgot's power were successful. With his downfall ended the influence of the Economists. The last of them was Dupont de
+Nemours,[^23] who saw a temporary popularity of the Physiocrats in the early years of the French Revolution, when the
+Constituent Assembly threw the burden of taxes on land. But the fire blazed up fitfully for a moment, only to die away
+entirely.
+
+All this, however, was the slow preparation for a newer and greater movement in political economy than had yet been
+known, and which laid the foundation of the modern study as it exists to-day. The previous discussions on money and the
+prominence given to agriculture and economic considerations by the Economists made possible the great achievements of
+Adam Smith and the English school. A reaction in England against the mercantile system produced a complete revolution in
+political economy. Vigorous protests against mercantilism had appeared long before,[^24] and the true functions of money
+had come to be rightly understood.[^25] More \[pg 012\] than that, many of the most important doctrines had been either
+discussed, or been given to the public in print. It is at least certain that hints of much that made so astonishing an
+effect in Adam Smith's “Wealth of Nations” (1776) had been given to the world before the latter was written. To what
+sources, among the minor writers, he was most indebted, it is hard to say. Two, at least, deserve considerable
+attention, David Hume and Richard Cantillon. The former published his “Economic Essays” in 1752, which contained what
+even now would be considered enlightened views on money, interest, balance of trade, commerce, and taxation; and a
+personal friendship existed between Hume and Adam Smith dating back as far as 1748, when the latter was lecturing in
+Edinburgh on rhetoric. The extent of Cantillon's acquirements and Adam Smith's possible indebtedness to him have been
+but lately recognized. In a recent study[^26] on Cantillon, the late Professor Jevons has pointed out that the former
+anticipated many of the doctrines later ascribed to Adam Smith, Malthus, and Ricardo. Certain it is that the author of
+the “Wealth of Nations” took the truth wherever he found it, received substantial suggestions from various sources, but,
+after having devoted himself in a peculiarly successful way to collecting facts, he wrought out of all he had gathered
+the first rounded system of political economy the world had yet known; which pointed out that labor was at the basis of
+production, not merely in agriculture, as the French school would have it, but in all industries; and which battered
+down all the defenses of the mediæval mercantile system. In a marked degree Adam Smith[^27] combined a logical precision
+and a \[pg 013\] power of generalizing results out of confused data with a practical and intuitive regard for facts
+which are absolutely necessary for great achievements in the science of political economy. At Glasgow (1751-1764) Adam
+Smith gave lectures on natural theology, ethical philosophy, jurisprudence, and political economy, believing that these
+subjects were complementary to each other.
+
+A connected and comprehensive grasp of principles was the great achievement of Adam Smith;[^28] for, although the
+“Wealth of Nations” was naturally not without faults, it has been the basis of all subsequent discussion and advance in
+political economy. In Books I and II his own system is elucidated, while Book IV contains his discussion of the
+Agricultural School and the attacks on the mercantile system. Seeing distinctly that labor was the basis of all
+production (not merely in agriculture), he shows (Books I and II) that the wealth of a country depends on the skill with
+which its labor is applied, and upon the proportion of productive to unproductive laborers. The gains from division of
+labor are explained, and money appears as a necessary instrument after society has reached such a division. He is then
+led to discuss prices (market price) and value; and, since from the price a distribution takes place among the factors
+of production, he is brought to wages, profit, and rent. The functions \[pg 014\] of capital are explained in general;
+the separation of fixed from circulating capital is made; and he discusses the influence of capital on the distribution
+of productive and unproductive labor; the accumulation of capital, money, paper money, and interest. He, therefore, gets
+a connected set of ideas on production, distribution, and exchange. On questions of production not much advance has been
+made since his day; and his rules of taxation are now classic. He attacked vigorously the balance-of-trade theory, and
+the unnatural diversion of industry in England by prohibitions, bounties, and the arbitrary colonial system. In brief,
+he held that a plan for the regulation of industry by the Government was indefensible, and that to direct private
+persons how to employ their capital was either hurtful or useless. He taught that a country will be more prosperous if
+its neighbors are prosperous, and that nations have no interest in injuring each other. It was, however, but human that
+his work should have been somewhat defective.[^29] A new period in the history of political \[pg 015\] economy, however,
+begins with Adam Smith. As Roscher says, he stands in the center of economic history.
+
+New writers now appear who add gradually stone after stone to the good foundation already laid, and raise the edifice to
+fairer proportions. The first considerable addition comes from a contribution by a country clergyman, Thomas Robert
+Malthus,[^30] in his “Essay on the Principles of Population” (1798). Against the view of Pitt that “the man who had a
+large family was a benefactor to his country,” Malthus argued conclusively that “a perfectly happy and virtuous
+community, by physical law, is constrained to increase very rapidly.... By nature human food increases in a slow
+arithmetical ratio; man himself increases in a quick geometrical ratio, unless want and vice stop him.” In his second
+edition (1803), besides the positive check of vice and want, he gave more importance to the negative check of
+“self-restraint, moral and prudential.” The whole theory was crudely stated at first; and it raised the cry that such a
+doctrine was inconsistent with the belief in a benevolent Creator. In its essence, the law of population is simply that
+a tendency and ability exist in mankind to increase its numbers faster than subsistence, and that this result actually
+will happen unless checks retard it, or new means of getting subsistence \[pg 016\] arise. If an undue increase of
+population led to vice and misery, in Malthus's theory, he certainly is not to be charged with unchristian feelings if
+he urged a self-restraint by which that evil result should be avoided. Malthus's doctrines excited great discussion:
+Godwin says that by 1820 thirty or forty answers to the essay had been written; and they have continued to appear. The
+chief contributions have been by A. H. Everett, “New Ideas on Population” (1823), who believed that an increase of
+numbers increased productive power; by M. T. Sadler, “Law of Population” (1830), who taught that human fertility varied
+inversely with numbers, falling off with density of population; by Sir Archibald Alison, “Principles of Population”
+(1840), who reasoned inductively that the material improvement of the human race is a proof that man can produce more
+than he consumes, or that in the progress of society preventive checks necessarily arise; by W. R. Greg, “Enigmas of
+Life” (1873); and by Herbert Spencer, “Westminster Review” (April, 1852), and “Principles of Biology,” (part vi, ch. xii
+and xiii), who worked out a physiological check, in that with a mental development out of lower stages there comes an
+increased demand upon the nervous energy which causes a diminution of fertility. Since Darwin's studies it has been very
+generally admitted that it is the innate _tendency_ of all organic life to increase until numbers press upon the limit
+of food-production; not that population has always done so in every country.[^31] Malthus's teachings resulted in the
+modern poor-house system, beginning with 1834 in England, and they corrected some of the abuses of indiscriminate
+charity.
+
+While Adam Smith had formulated very correctly the laws of production, in his way Malthus was adding to the \[pg 017\]
+means by which a better knowledge of the principles of distribution was to be obtained; and the next advance, owing to
+the sharp discussions of the time on the corn laws, was, by a natural progress, to the law of diminishing returns and
+rent. An independent discovery of the law of rent is to be assigned to no less than four persons,[^32] but for the full
+perception of its truth and its connection with other principles of political economy the credit has been rightly given
+to David Ricardo,[^33] next to Adam Smith without question the greatest economist of the English school. Curiously
+enough, although Adam Smith was immersed in abstract speculations, his “homely sagacity” led him to the most practical
+results; but while Ricardo was an experienced and successful man of business, he it was, above all others, who
+established the abstract political economy, in the sense of a body of scientific laws to which concrete phenomena, in
+spite of temporary inconsistencies, must in the end conform. His work, therefore, supplemented that of Adam Smith; and
+there are very few doctrines fully worked out to-day of which hints have not been found in Ricardo's wonderfully compact
+statements. \[pg 018\] With no graces of exposition, his writings seem dry, but are notwithstanding mines of valuable
+suggestions.
+
+In the field of distribution and exchange Ricardo made great additions. Malthus and West had shown that rent was not an
+element in cost of production; but both Malthus and Ricardo seemed to have been familiar with the doctrine of rent long
+before the former published his book. Ricardo, however, saw into its connection with other parts of a system of
+distribution.[^34] The Malthusian doctrine of a pressure of population on subsistence naturally forced a recognition of
+the law of diminishing returns from land;[^35] then as soon as different qualities of land were simultaneously
+cultivated, the best necessarily gave larger returns than the poorest; and the idea that the payment of rent was made
+for a superior instrument, and in proportion to its superiority over the poorest instrument which society found
+necessary to use, resulted in the law of rent. Ricardo, moreover, carried out this principle as it affected wages,
+profits, values, and the fall of profits; but did not give sufficient importance to the operation of forces in the form
+of improvements acting in opposition to the tendency toward lessened returns. The theory of rent still holds its place,
+although it has met with no little opposition.[^36] A doctrine, quite as important in its effects on free \[pg 019\]
+exchange, was clearly established by Ricardo, under the name of the doctrine of “Comparative Cost,” which is the reason
+for the existence of any and all international trade.
+
+The work of Adam Smith was soon known to other countries, apart from translations. A most lucid and attractive
+exposition was given to the French by J. B. Say, “Traité d'économie politique” (1803), followed, after lecturing in
+Paris from 1815-1830, by a more complete treatise,[^37] “Cours complète d'économie politique” (1828). While not
+contributing much that was new, Say did a great service by popularizing previous results in a happy and lively style,
+combined with good arrangement, and many illustrations. The theory that general demand and supply are identical is his
+most important contribution to the study. Although he translated Ricardo's book, he did not grasp the fact that rent did
+not enter into price. Say's work was later supplemented by an Italian, Pellegrino Rossi,[^38] who, in his “Cours
+d'économie politique” (1843-1851), naturalized the doctrines of Malthus and Ricardo on French soil. His work is of solid
+value, and he and Say have given rise to an active school of \[pg 020\] political economy in France. In Switzerland,
+Sismondi expounded Adam Smith's results in his “De la richesse commerciale” (1803), but was soon led into a new
+position, explained in his “Nouveaux principes d'économie politique” (1819). This has made him the earliest and most
+distinguished of the humanitarian economists. Seeing the sufferings caused by readjustments of industries after the
+peace, and the warehouses filled with unsold goods, he thought the excess of production over the power of consumption
+was permanent, and attacked division of labor, labor-saving machinery, and competition. Discoveries which would
+supersede labor he feared would continue, and the abolition of patents, together with the limitation of population,[^39]
+was urged. These arguments furnished excellent weapons to the socialistic agitators. Heinrich Storch[^40] aimed to
+spread the views of Adam Smith[^41] in Russia, by his “Cours d'économie politique” (1815). Without further developing
+the theory of political economy, he produced a book of exceptional merit by pointing out the application of the
+principles to Russia, particularly in regard to the effect of a progress of wealth on agriculture and manufactures; to
+the natural steps by which a new country changes from agriculture to a manufacturing régime; and to finance and
+currency, with an account of Russian depreciated paper since Catharine II.
+
+\[pg 021\]
+
+For the next advance, we must again look to England. Passing by McCulloch[^42] and Senior, a gifted writer, the
+legitimate successor of Ricardo is John Stuart Mill.[^43] His father, \[pg 022\] James Mill,[^44] introduced him into a
+circle of able men, of which Bentham was the ablest, although his father undoubtedly exercised the chief influence over
+his training. While yet but twenty-three, in his first book, “Essays on some Unsettled Questions of Political Economy”
+(1829-1830), he gained a high position as an economist. In one form or another, all his additions to the study are to be
+found here in a matured condition. The views on productive and unproductive consumption, profits, economic methods, and
+especially his very clever investigation on international values, were there presented. His “Logic” (1843) contains
+(Book VI) a careful statement of the relation of political economy to other sciences, and of the proper economic method
+to be adopted in investigations. Through his “Principles of Political Economy” (1848) he has exercised a remarkable
+influence upon men in all lands; not so much because of great originality, since, in truth, he only put Ricardo's
+principles in better and more attractive form, but chiefly by a method of systematic treatment more lucid and practical
+than had been hitherto reached, by improving vastly beyond the dry treatises of his predecessors (including Ricardo, who
+was concise and dull), by infusing a human element into his aims, and by illustrations and practical applications. Even
+yet, however, some parts of his book show the tendency to too great a fondness for abstract statement, induced probably
+by a dislike to slighting his reasons (due to his early training), and by the limits of his book, which obliged him to
+omit many possible illustrations. With a deep sympathy for the laboring-classes, he was \[pg 023\] tempted into the
+field of sociology in this book, although he saw distinctly that political economy was but one of the sciences, a
+knowledge of which was necessary to a legislator in reaching a decision upon social questions. Mill shows an advance
+beyond Ricardo in this treatise, by giving the study a more practical direction. Although it is usual to credit Mill
+with originating the laws of international values, yet they are but a development of Ricardo's doctrine of international
+trade, and Mill's discussions of the progress of society toward the stationary state were also hinted at, although
+obscurely, by Ricardo. In the volumes of Mr. Mill the subject is developed as symmetrically as a proof in geometry.
+While he held strongly to free trade,[^45] he gave little space to the subject in his book. All in all, his book yet
+remains the best systematic treatise in the English language, although much has been done since his day.[^46]
+
+He who has improved upon previous conceptions, and been the only one to make any very important advance in the science
+since Mill's day, is J. E. Cairnes,[^47] in his “Leading Principles of \[pg 024\] Political Economy newly expounded”
+(1874). Scarcely any previous writer has equaled him in logical clearness, originality, insight into economic phenomena,
+and lucidity of style. He subjected value, supply and demand, cost of production, and international trade, to a rigid
+investigation, which has given us actual additions to our knowledge of the study. The wages-fund theory was re-examined,
+and was stated in a new form, although Mr. Mill had given it up. Cairnes undoubtedly has given it its best statement.
+His argument on free trade (Part III, chapter iv) is the ablest and strongest to be found in modern writers. This volume
+is, however, not a systematic treatise on all the principles of political economy; but no student can properly pass by
+these great additions for the right understanding of the science. His “Logical Method of Political Economy” (1875) is a
+clear and able statement of the process to be adopted in an economic investigation, and is a book of exceptional merit
+and usefulness, especially in view of the rising differences in the minds of economists as to method.
+
+A group of English writers of ability in this period have written in such a way as to win for them mention in connection
+with Cairnes and Mill. Professor W. Stanley Jevons[^48] \[pg 025\] put himself in opposition to the methods of the men
+just mentioned, and applied the mathematical process to political economy, but without reaching new results. His most
+serviceable work has been in the study of money, which appears in an excellent form, “The Money and Mechanism of
+Exchange” (1875), and in an investigation which showed a fall of the value of gold since the discoveries of 1849. In
+this latter he has furnished a model for any subsequent investigator. Like Professor Jevons, T. E. Cliffe Leslie[^49]
+opposed the older English school (the so-called “orthodox”), but in the different way of urging with great ability the
+use of the historical method, of which more will be said in speaking of later German writers.[^50] He also distinguished
+himself by a study of land tenures, in his “Land Systems and Industrial \[pg 026\] Economy of Ireland, England, and
+Continental Countries” (1870), which was a brilliant exposition of the advantages of small holdings.
+
+By far the ablest of the group, both by reason of his natural gifts and his training as a banker and financial editor,
+was Walter Bagehot.[^51] In his “Economic Studies” (1880) he has discussed with a remarkable economic insight the
+postulates of political economy, and the position of Adam Smith, Ricardo, and Malthus; in his “Lombard Street” (fourth
+edition, 1873), the money market is pictured with a vivid distinctness which implies the possession of rare qualities
+for financial writing; indeed, it is in this practical way also, as editor of the London “Economist,”[^52] that he made
+his great reputation.
+
+Of living English economists, Professor Henry Fawcett,[^53] in his “Manual of Political Economy” (1865; sixth edition,
+1883), is a close follower of Mill, giving special care to co-operation, silver, nationalization of land, and
+trades-unions. He is an exponent of the strict wages-fund theory, and a vigorous free-trader. Professor J. E. Thorold
+Rogers, of Oxford, also holds aloof from the methods of the old school. \[pg 027\] His greatest contribution has been a
+“History of Agriculture and Prices in England,” from 1255 to 1793, in four volumes[^54] (1866-1882).
+
+Of all the writers[^55] since Cairnes, it may be said that, while adding to the data with which political economy has to
+do, and putting principles to the test of facts, they have made no actual addition to the existing body of principles;
+although questions of distribution and taxation are certainly not yet fully settled, as is seen by the wide differences
+of opinion expressed on subjects falling within these heads by writers of to-day.
+
+It now remains to complete this sketch of the growth of political economy by a brief account of the writers on the
+Continent and in the United States, beginning with France. About the time of the founding of the London “Economist”
+(1844) and “The Statistical Journal” (1839) in England, there was established in Paris the “Journal des Économistes”
+(1842), which contains many valuable papers. On the whole, the most popular writer since J. B. Say has been
+Bastiat,[^56] who aspired to be the French Cobden. He especially urged \[pg 028\] a new[^57] view of value, which he
+defined as the relation established by an exchange of services; that nature's products are gratuitous, so that man can
+not exact anything except for a given service. Chiefly as a foe of protection, which he regarded as qualified socialism,
+he has won a reputation for popular and clever writing; and he was led to believe in a general harmony of interests
+between industrial classes; but in general he can not be said to have much influenced the course of French thought. On
+value, rent, and population, he is undoubtedly unsound. A writer of far greater depth than Bastiat, with uncommon
+industry and wide knowledge, was Michel Chevalier,[^58] easily the first among modern French economists. He has led in
+the discussion upon the fall of gold, protection, banking, and particularly upon money; an ardent free-trader, he had
+influence enough to induce France to enter into the commercial treaty of 1860 with England. One of the ablest writers on
+special topics is \[pg 029\] Levasseur,[^59] who has given us a history of the working-classes before and since the
+Revolution, and the best existing monograph on John Law. The most industrious and reliable of the recent writers is the
+well-known statistician, Maurice Block,[^60] while less profound economists were J. A. Blanqui[^61] and Wolowski.[^62]
+The latter devoted himself enthusiastically \[pg 030\] to banks of issue, and bimetallism. A small group gave themselves
+up chiefly to studies on agriculture and land-tenures—H. Passy,[^63] Laveleye, and Lavergne.[^64] The latter is by far
+the most important, as shown by his “L'économie rurale de la France depuis 1789” (1857), which gives a means of
+comparing recent French agriculture with that before the Revolution, as described in Arthur Young's “Travels in France”
+(1789). The best systematic treatise in French is the “Précis de la science économique” (1862), by Antoine-Élise
+Cherbuliez,[^65] a Genevan. The French were the first to produce an alphabetical encyclopædia of economics, \[pg 031\]
+by Coquelin and Guillaumin, entitled the “Dictionnaire de l'économie politique” (1851-1853, third edition, 1864).
+Courcelle-Seneuil,[^66] by his “Traité théorique et pratique d'économie politique” (second edition, 1867); and
+Baudrillart, by a good compendium. Joseph Garnier, Dunoyer,[^67] Paul Leroy-Beaulieu,[^68] Reybaud,[^69] De Parieu,[^70]
+Léon Say,[^71] Boiteau, and others, have done excellent work in France, and Walras[^72] in Switzerland.
+
+As Cobden had an influence on Bastiat, so both had an influence in Germany in creating what has been styled by opponents
+the “Manchester school,” led by Prince-Smith (died 1874). They have worked to secure complete liberty of \[pg 032\]
+commerce and industry, and include in their numbers many men of ability and learning. Yearly congresses have been
+organized for the purpose of disseminating liberal ideas, and an excellent review, the “Vierteljahrschrift für
+Volkswirthschaft, Politik, und Kulturgeschichte,”[^73] has been established. They have devoted themselves successfully
+to reforms of labor-laws, interest, workingmen's dwellings, the money system, and banking, and strive for the abolition
+of protective duties. Schulze-Delitzsch has acquired a deserved reputation for the creation of people's banks, and other
+forms of co-operation. The translator of Mill into German, Adolph Soetbeer,[^74] is the most eminent living authority on
+the production of the precious metals, and a vigorous monometallist. The school is represented in the “Handwörterbuch
+der Volkswirthschaftslehre” (1865) of Reutzsch. The other writers of this group are Von Böhmert,[^75] Faucher, Braun,
+Wolff, Michaelis, Emminghaus,[^76] Wirth,[^77] Hertzka, and Von Holtzendorf. The best known of the German protectionists
+is Friedrich List, the author of “Das nationale System der politischen Oekonomie” (1841), whose doctrines are very
+similar to those of H. C. Carey in this country.[^78] An able writer on \[pg 033\] administrative functions and
+finance[^79] is Lorenz Stein, of Vienna.
+
+But German economists are of interest, inasmuch as they have established a new school who urge the use of the historical
+method in political economy, and it is about the question of method that much of the interest of to-day centers. In 1814
+Savigny introduced this method into jurisprudence, and about 1850 it was applied to political economy. The new school
+claim that the English “orthodox” writers begin by an a priori process, and by deductions reach conclusions which are
+possibly true of imaginary cases, but are not true of man as he really acts. They therefore assert that economic laws
+can only be truly discovered by induction, or a study of phenomena first, as the means of reaching a generalization. To
+them Bagehot[^80] answers that scientific bookkeeping, or collections of facts, in themselves give no results ending in
+scientific laws; for instance, since the facts of banking change and vary every day, no one can by induction alone reach
+any laws of banking; or, for example, the study of a panic from the concrete phenomena would be like trying to explain
+the bursting of a boiler without a theory of steam. More lately,[^81] since it seems that the new school claim that
+induction does not preclude deduction, and as the old school never intended to disconnect themselves from “comparing
+conclusions with external facts,” there is not such a cause of difference as has previously appeared. Doubtless the
+insistence upon the merits of induction will be fruitful of good to “orthodox” writers, in the more general resort to
+the collection of statistics and means of verification. It is suggestive also that the leaders of the new school in
+Germany \[pg 034\] and England have reached no different results by their new method, and in the main agree with the
+laws evolved by the old English school. The economist does not pretend that his assumptions are descriptions of economic
+conditions existing at a given time; he simply considers them as forces (often acting many on one point or occasion) to
+be inquired into separately, inasmuch as concrete phenomena are the resultants of several forces, not to be known until
+we know the separate operation of each of the conjoined forces.
+
+The most prominent of the new school is Wilhelm Roscher,[^82] of Leipsic, who wrote a systematic treatise, “System der
+Volkswirthschaft” (1854, sixteenth edition, 1883), in the first division of which the notes contain a marvelous
+collection of facts and authorities. He agrees in results with Adam Smith, Ricardo, Malthus, and Mill, but does not seem
+to have known much of Cairnes. This book, however, is only a first of four treatises eventually intended to include the
+political economy of (2) agriculture, (3) industry and commerce, \[pg 035\] and (4) the state and commune. The ablest
+contemporary of Roscher, who was probably the first to urge the historical method, is Karl Knies,[^83] in “Die
+politische Oekonomie vom Standpunkte der geschichtlichen Methode” (1853, second edition, 1881-1883). The third of the
+group who founded the historical school is Bruno Hildebrand,[^84] of Jena, author of “Die Nationalökonomie der Gegenwart
+und Zukunft” (1848).
+
+The German mind has always been familiar with the interference of the state, and a class of writers has arisen, not only
+advocating the inductive method, but strongly imbued with a belief in a close connection of the state with industry;
+and, inasmuch as the essence of modern socialism is a resort to state-help, this body of men, with Wagner at their head,
+has received the name of “Socialists[^85] of the Chair,” and now wield a wide influence in Germany. Of these
+writers,[^86] Wagner, Engel, Schmoller, Von Scheel, Brentano, Held, Schönberg, and Schäffle are the most prominent.
+
+The historical school has received the adhesion of Émile \[pg 036\] de Laveleye,[^87] in Belgium, and other economists
+in England and the United States. While Cliffe Leslie has been the most vigorous opponent of the methods of the old
+school, there have been many others of less distinction. Indeed, the period, the close of which is marked by J. R.
+McCulloch's book, was one in which the old school had seemingly come to an end of its progress, from too close an
+adhesion to deductions from assumed premises. Mill's great merit was that he began the movement to better adapt
+political economy to society as it actually existed; and the historical school will probably give a most desirable
+impetus to the same results, even though its exaggerated claims as to the true method[^88] can not possibly be admitted.
+
+\[pg 037\]
+
+Italian writers have not received hitherto the attention they deserve. After 1830, besides Rossi, who went to France,
+there was Romagnosi, who dealt more with the relations of economics to other studies; Cattanes, who turned to rural
+questions and free trade (combating the German, List); Scialoja, at the University of Turin; and Francesco Ferrara, also
+at Turin from 1849 to 1858. The latter was a follower of Bastiat and Carey, as regards value and rent, and at the same
+time was a radical believer in laissez-faire. Since the union of Italy there has been a new interest in economic study,
+as with us after our war. The most eminent living Italian economist is said to be Angelo Messedaglia, holding a chair at
+Padua since 1858. He has excelled in statistical and financial subjects, and is now engaged on a treatise on money,
+“Moneta,” of which one part has been issued (1882). Marco Minghetti and Fedele Lampertico stand above others, the former
+for a study of the connection of political economy \[pg 038\] with morals, and for his public career as a statesman; the
+latter for his studies on paper money and other subjects. Carlo Ferrais presented a good monograph on “Money and the
+Forced Currency” (1879); and Boccardo issued a library of selected works of the best economists, and a large Dictionary
+of Political Economy, “Dizionario universale di Economia Politica e di Commercio” (2 vols., second edition, 1875). Luigi
+Luzzati is a vigorous advocate of co-operation; and Elia Lattes has made a serious study of the early Venetian banks.
+
+Political economy has gained little from American writers. Of our statesmen none have made any additions to the science,
+and only Hamilton and Gallatin can properly be called economists. Hamilton, in his famous “Report on Manufactures”
+(1791), shared in some of the erroneous conceptions of his day; but this paper, together with his reports on a national
+bank and the public credit, are evidences of a real economic power. Gallatin's “Memorial in Favor of Tariff Reform”
+(1832) is as able as Hamilton's report on manufactures, and a strong argument against protection. Both men made a
+reputation as practical financiers.
+
+“With few exceptions, the works produced in the United States have been prepared as text-books[^89] by authors engaged
+in college instruction, and therefore chiefly interested in bringing principles previously worked out by others within
+the easy comprehension of undergraduate students.”[^90] Of these \[pg 039\] exceptions, Alexander H. Everett's “New
+Ideas on Population”[^91] (1822), forms a valuable part in the discussion which followed the appearance of Malthus's
+“Essay.” The writer, however, who has drawn most attention, at home and abroad, for a vigorous attack on the doctrines
+of Ricardo is Henry Charles Carey.[^92] Beginning with “The Rate of Wages” (1835), he developed a new theory of value
+(see “Principles of Political Economy,” 1837-1840), “which he defined as a measure of the resistance to be overcome in
+obtaining things required for use, or the measure of the power of nature over man. In simpler terms, value is measured
+by the cost of reproduction. The value of every article thus declines as the arts advance, while the general command of
+commodities constantly increases. This causes a constant fall in the value of accumulated capital as compared with the
+results of present labor, from which is inferred a tendency toward harmony rather than divergence of interests between
+capitalist and laborer.” This theory of value[^93] he applied to land, and even to man, in his desire to give it
+universality. He next claimed to have discovered a law of increasing production from land in his “Past, Present, and
+Future” (1848), which was diametrically opposed to Ricardo's law of diminishing returns. His proof was an historical
+one, that in fact the poorer, not the richer lands, were first taken into cultivation. This, however, did not explain
+the fact that different grades of \[pg 040\] land are simultaneously under cultivation, on which Ricardo's doctrine of
+rent is based. The constantly increasing production of land naturally led Carey to believe in the indefinite increase of
+population. He, however, was logically brought to accept the supposed law of an ultimate limit to numbers suggested by
+Herbert Spencer, based on a diminution of human fertility. He tried to identify physical and social laws, and fused his
+political economy in a system of “Social Science” (1853), and his “Unity of Law” (1872). From about 1845 he became a
+protectionist, and his writings were vigorously controversial. In his doctrines on money he is distinctly a
+mercantilist;[^94] but, by his earnest attacks on all that has been gained in the science up to his day, he has done a
+great service in stimulating inquiry and causing a better statement of results. While undoubtedly the best known of
+American writers, yet, because of a prolix style and an illogical habit of mind, he has had no extended influence on his
+countrymen.[^95]
+
+The effect of the civil war is now beginning to show itself in an unmistakable drift toward the investigation of
+economic questions, and there is a distinctly energetic tone which may bring new contributions from American writers.
+General Francis A. Walker,[^96] in his study on “The Wages Question” (1876), has combated the wages-fund theory, and
+\[pg 041\] proposed in its place a doctrine that wages are paid out of the product, and not out of accumulated capital.
+Professor W. G. Sumner[^97] is a vigorous writer in the school of Mill and Cairnes, and has done good work in the cause
+of sound money doctrines. Both General Walker and Professor Sumner hold to the method of economic investigation as
+expounded by Mr. Cairnes; although several younger economists show the influence of the German school. Professor A. L.
+Perry,[^98] of Williams College, adopted Bastiat's theory of value. He also accepts the wages-fund theory, rejects the
+law of Malthus, and, although believing in the law of diminishing returns from land, regards rent as the reward for a
+service rendered. Another writer, Henry George,[^99] has gained an abnormal prominence by a plausible book, “Progress
+and Poverty” (1880), which rejects the doctrine of Malthus, and argues that the increase of production of any kind
+augments the \[pg 042\] demand for land, and so raises its value. His conclusions lead him to advocate the
+nationalization of land. Although in opposition to almost all that political economy has yet produced, his writing has
+drawn to him very unusual notice. The increasing interest in social questions, and the general lack of economic
+training, which prevents a right estimate of his reasoning by people in general, sufficiently account for the wide
+attention he has received.
+
+Of late, however, new activity has been shown in the establishment of better facilities for the study of political
+economy in the principal seats of learning—Harvard, Yale, Cornell, Columbia, Michigan, and Pennsylvania: and a
+“Cyclopædia of Political Science” (1881-1884, three volumes) has been published by J. J. Lalor, after the example of the
+French dictionaries.
+
+\[pg 043\]
+
+* * *
+
+[^1]: Yet Blanqui diffusively gives nearly one half of his “History of Political Economy” to the period before the sixteenth century, when politico-economic laws had not yet been recognized. A. L. Perry, “Political Economy” (eighteenth edition, 1883), also devotes thirty-five out of eighty-seven pages to the period in which there was no systematic study of political economy.
+
+[^2]: Xenophon, “Means of increasing the Revenues of Attika,” ch. ix; also see his “Economics;” and Aristotle, “Politics,” b. i, ch. vi, b. iii, ch. i.
+
+[^3]: “Republic,” b. ii.
+
+[^4]: Roscher exhumed this book, entitled “De Origine, Natura, Jure et Mutationibus Monetarum,” and it was reprinted in 1864 by Wolowski at Paris, together with the treatise of Copernicus, “De Monetae Cudendae Ratione.”
+
+[^5]: Sermon at St. Paul's Cross, 1549 (also see Jacob, “On the Precious Metals,” pp. 244, 245).
+
+[^6]: 1530-1596. See II. Baudrillart's “J. Bodin et son temps” (Paris, 1853). Bodin wrote “Réponse aux paradoxes de M. de Malestroit touchant l'enchérissement de toutes les choses et des monnaies” (1568), and “Discours sur le rehaussement et la diminution des monnaies” (1578).
+
+[^7]: “A Briefe Conceipte of English Policy” (1581). The book was published under the initials “W. S.,” and was long regarded as the production of Shakespere.
+
+[^8]: For information on this as well as a later period, consult Jacob “On the Precious Metals” (1832), a history of the production and influences of gold and silver from the earliest times. He is considered a very high authority. Humboldt's “Essay on New Spain” gives estimates and facts on the production of the precious metals in America. A very excellent study has been made by Levasseur in his “Histoire des classes ouvrières en France jusqu'à la Révolution.” For pauperism and its history, Nicholl's “History of the Poor Laws” is, of course, to be consulted.
+
+[^9]: See Cossa, “Guide,” p. 119.
+
+[^10]: See Antonio Serra, “Breve Trattato delle Cause che possono fare abbondare li Regni d' Oro e d' Argento,” Naples, 1613.
+
+[^11]: Thomas Mun, “England's Treasure by Foreign Trade” (published in 1640 and 1664); “Advice of the Council of Trade” (1660), in Lord Overstone's “Select Tracts on Money”; Sir William Petty, “Political Arithmetic,” etc. (about 1680); Sir Josiah Child, “New Discourse of Trade” (1690); Sir Dudley North, “Discourse on Trade” (1691); Davenant's Works (1690-1711); Joshua Gee, “Trade and Navigation of Great Britain” (1730); Sir Matthew Decker (according to McCulloch, William Richardson), “Essay on the Causes of the Decline of Foreign Trade” (1744); Sir James Steuart, “An Inquiry into the Principles of Political Economy” (1767). For this period also consult Anderson's “History of Commerce” (1764), Macpherson's “Annals of Commerce” (1803), and Lord Sheffield's “Observations on the Commerce of the American States” (1783).
+
+[^12]: The English Navigation Act of 1651 is usually described as the cause of the decline of Dutch shipping. The taxation necessitated by her wars is rather the cause, as history shows it to us. Sir Josiah Child (1668 and 1690) speaks of a serious depression in English commerce, and says the low rate of interest among the Dutch hurts the English trade. This does not show that the acts greatly aided English shipping. Moreover, Gee, a determined partisan of the mercantile theory, says, in 1730, that the ship-trade was languishing. Sir Matthew Decker (1744) confirms Gee's impressions. It looks very much as if the commercial supremacy of England was acquired by internal causes, and in spite of her navigation acts. The anonymous author of “Britannia Languens” confirms this view.
+
+[^13]: This was, in substance, the whole teaching of one of the leading and most intelligent writers, Sir James Steuart (1767), “Principles of Political Economy.” See also Held's “Carey's Socialwissenschaft und das Merkantilsystem” (1866), which places Carey among the mercantilists.
+
+[^14]: Forbonnais, “Récherches sur les finances de la France” (1595-1721); Pierre Clément, “Histoire de Colbert et de son administration” (1874); “Lettres, instructions et mémoires de Colbert” (1861-1870); “Histoire du système protecteur en France” (1854); Martin, “Histoire de France,” tome xiii.
+
+[^15]: “Dîme royale” (1707).
+
+[^16]: “Factum de la France” (1707).
+
+[^17]: When Quesnay was sixty-one years old he wrote the article, “Fermiers,” in the “Encyclopædia” (of Diderot and D'Alembert) in 1756; article “Grains,” in the same, 1757; “Tableau économique,” 1758; “Maximes générales du gouvernement économique d'un royaume”; “Problème économique”; “Dialogues sur le commerce et sur les travaux des artisans”; “Droit natural” (1768). “Collection des principaux économistes,” edited by E. Daire (1846), is a collection containing the works of Quesnay, Turgot, and Dupont de Nemours. See also Lavergne, “Les économistes françaises du 18e siècle” (1870); and H. Martin, “Histoire de France.” Quesnay's “Tableau économique” was the Koran of the school.
+
+[^18]: From χράτησις τῆς φύσεως, as indicating a reverence for natural laws.
+
+[^19]: The words were not invented by Quesnay, but formed the phrase of a merchant, Legendre, in addressing Colbert; although it was later ascribed, as by Perry, “Political Economy” (p. 46), and Cossa (p. 150), to one of the Economists, Gournay. (See Wolowski, in his Essay prefixed to “Roscher's Political Economy,” p. 36, American translation.)
+
+[^20]: The Margrave Karl Friedrich was the author of “Abrégé des principes de l'économie politique” (1775), and applied the physiocratic system of taxation to two of his villages with disastrous results.
+
+[^21]: He published a first work on “Population” (1756); the “Théorie de l'impôt” (1760); and “Philosophie rurale” (1763). In this latter work Mirabeau adopted the “Tableau économique” as the key to the subject, and classed it with the discovery of printing and of money.
+
+[^22]: In 1742 Turgot, when scarcely twenty, appeared as a sound writer on Paper Money in letters to Abbé Cicé. The physiocratic doctrines were presented in a more intelligible form in his greater work, “Réflexions sur la formation et la distribution des richesses” (1766). Three works of Turgot, on mining property, interest of money, and freedom in the corn-trade, bear a high reputation. For works treating of Turgot, see Batbie, “Turgot, philosophe, économiste et administrateur” (1861); Mastier, “Turgot, sa vie et sa doctrine” (1861); Tissot, “Turgot, sa vie, son administration et ses ouvrages” (1862).
+
+[^23]: He was the editor of the works of Quesnay and Turgot, and wrote a “Mémoire de Turgot” (1817). He opposed the issue of assignats during the French Revolution, and, falling into disfavor, he barely escaped the scaffold. Having been a correspondent of Jefferson's, when Napoleon returned from Elba, he came to America, and settled in Delaware, where he died in 1817. The connection between the Economists and the framers of our Constitution is interesting, because it explains some peculiarities introduced into our system of taxation in that document. The only direct taxes recognized by the Supreme Court under our Constitution are the poll and land taxes; and it is in this connection that the constitutionality of the income-tax (a direct tax) is doubted.
+
+[^24]: One of the earliest is that of Roger Coke (1675), in which he argues for free trade, and attacks the navigation acts. Sir Dudley North's “Discourse on Trade” (1691) urges that the whole world, as regards trade, is but one people, and explains that money is only merchandise.
+
+[^25]: Joseph Harris, an official in the London Mint, published a very clear exposition of this subject in his “Essay upon Money and Coins” (1757); but, eighty years before, Rice Vaughan had given a satisfactory statement in his “Treatise of Money.”
+
+[^26]: “Contemporary Review,” January, 1881, “Richard Cantillon.” Adam Smith had quoted Cantillon on his discussion of the wages of labor, b. i, ch. viii, and evidently knew his book.
+
+[^27]: Born in 1723, and died 1790; he was eleven years younger than Hume. A Professor of Logic (1751) and Moral Philosophy (1752) at Glasgow, he published a treatise on ethical philosophy, entitled the “Theory of Moral Sentiments” (1739). Dugald Stewart is the authority as to Smith's life, having received information from a contemporary of Smith's, Professor Miller (see Playfair's edition of Smith's works); for Adam Smith destroyed all his own papers in his last illness. His lectures on political economy at Glasgow outlined the results as they appeared in the “Wealth of Nations”; it was not until 1764 that he resigned his professorship, and spent two years on the Continent (twelve months of this in France). On his return home he immured himself for ten years of quiet study, and published the “Wealth of Nations” in 1776. (See also McCulloch's introduction to his edition of the “Wealth of Nations,” and Bagehot's “Economic Studies,” iii.)
+
+[^28]: A glance at Sir James Steuart's treatise (1767) with the “Wealth of Nations” shows Adam Smith's great qualities; the former was a series of detached essays, although of wide range, but admittedly without any consistent plan.
+
+[^29]: (a.) He went into a vague discussion upon labor as a measure of value. (b.) A legal rate of interest received his support, and his argument was answered effectually by Bentham (“Defense of Usury”). (c.) While not agreeing with the French school that agriculture is the only industry producing more than it consumes, and so land pays rent, yet he thinks that it produces more in proportion to the labor than other industries; that manufactures came next; and exportation and commerce after them. This error, however, did not modify his more important conclusions. Thorold Rogers and even Chevalier, however, claim that Adam Smith drew his inspiration from the French school. (d.) In the discussion of rent, he failed to follow out his ideas to a legitimate end, and did not get at the true doctrine. While hinting at the right connection between price and rent, he yet believed that rent formed a part of price. Of the fundamental principle in the doctrine of rent, the law of diminishing returns, he had no full knowledge, but came very close to it. He points out that in colonies, when the good soil has all been occupied, profits fall. (e.) In saying that every animal naturally multiplies in proportion to, and is limited by, the means of subsistence, Adam Smith just missed Malthus's law of population. In fact, Cantillon came quite as near it.
+
+    Book III in his “Wealth of Nations” is concerned with the policy of Europe in encouraging commerce at the expense of agriculture, and has less interest for us. Book V considers the revenue of the sovereign, and much of it is now obsolete; but his discussion of taxation is still highly important.
+
+[^30]: Among the English Liberals carried away by the French Revolution, and by such theories as those of Condorcet, was William Godwin, the author of “Political Justice” (1793) and the “Inquirer” (1797), who advocated the abolition of government and even marriage, since by the universal practice of the golden rule there would come about a lengthening of life. Malthus tells us that his study was brought forward as an answer to the doctrines of the “Inquirer,” and he applied his principles to Condorcet's and Godwin's ideas. It was a period when pauperism demanded attention from all. Malthus favored the repeal of the old poor-laws, as destroying independence of character among the poor.
+
+    Malthus also wrote “Principles of Political Economy” (1821) and “Definitions in Political Economy” (1827), but the former did not increase his reputation. He believed in taxing imported corn, and he gave in his adherence to the doctrine of over-production. But, on the other hand, he was one of several writers who, almost at the same time, discovered the true theory of rent. His father was a friend of Godwin, and a correspondent of Rousseau. (See Bagehot, “Economic Studies,” p. 135.)
+
+[^31]: See Cairnes, “Logical Method,” Lecture VII, for the best modern statement of the question. Also, Roscher, “Principles of Political Economy,” b. v, whose extended notes furnish information on facts and as to books. H. Carey, “Social Science” (edition of 1877), iii, pp. 263-312, opposes the doctrine, as also Bowen, “American Political Economy” (1870), ch. viii, and Henry George, “Progress and Poverty” (1880), pp. 81-134.
+
+[^32]: J. Anderson, “An Inquiry into the Nature of the Corn Laws” (1777), “Agricultural Recreations,” vol. v, p. 401 (1801); Sir Edward West, “Essay on the Application of Capital to Land” (1815); Rev. T. R. Malthus, “An Inquiry into the Nature and Progress of Rent” (1815). The last two appeared after Anderson's discoveries had been forgotten, but he has the honor of first discovery.
+
+[^33]: Born in 1772 of Jewish parentage, Ricardo died in 1824. A rich banker, who made a fortune on the Stock Exchange, he early in life retired from business. The discussions on the Restriction Act and the corn laws led him to investigate the laws governing the subjects of money and rent. He gained notice first by his “Letters on the High Price of Bullion” (1810). The “Reply to Mr. Bosanquet” (1811), and “Inquiry into Rent” (1815), were followed by his greater work, “Principles of Political Economy and Taxation” (1817). He entered the House of Commons from Portarlington, a pocket borough in Ireland, and was influential in the discussions on resumption. Although he was not on the committee, his views on depreciated paper are practically embodied in the famous “Bullion Report” (1810). Tooke, “History of Prices,” says the results of the restriction were not known until the time of Ricardo's contributions. Neither Mill nor Say has had so great an influence as Ricardo has gained, through the pages of his “Political Economy.”
+
+[^34]: Johann Heinrich von Thünen, a rich land-owner of Mecklenburg, in his “Der isolirte Staat in Beziehung auf Landwirthschaft und National-Oekonomie” (1826), worked entirely by himself, but reached practically the same law of rent as Ricardo's. In spreading the doctrines of Adam Smith he has influenced later German writers.
+
+[^35]: The first distinct recognition of this important physical law, according to McCulloch (Introduction to “Wealth of Nations,” lv), was in a fanciful work of two volumes, entitled “Principes de tout gouvernement,” published in 1766: “Quand les cultivateurs, devenus nombreux, auront défriché toutes les bonnes terres; par leur augmentation successive, et par la continuité du défrichement, il se trouvera un point ou il sera plus avantageux à un nouveau colon de prendre à ferme des terres fécondes, que d'en défricher de nouvelles beaucoup moins bonnes” (I, p. 126). The author was, however, unaware of the importance of his discovery.
+
+[^36]: Carey, “Social Science” (I, ch. iv, v), and Bowen, “American Political Economy” (ch. ix), have denied Ricardo's doctrine of rent. Thesupposed connection between free trade and Ricardo's teachings on rent has prejudiced protectionists against him. Free trade follows from the theory of international trade, and has nothing to do with Ricardo's main doctrines. It is true, Ricardo was a vigorous free-trader. Of opposing views on rent, Carey's argument is the most important.
+
+[^37]: Say drew considerable attention by his theory of “gluts.” He based his idea of value wholly on _utility_, which has lately been taken up again by Professor Jevons. Say was answered on this point by Ricardo in a later edition of his “Political Economy.” See Cairnes, “Leading Principles,” p. 17. As a free-trader and opponent of governmental interference, he went further than his master, Adam Smith. Napoleon did not like this part of Say's teaching, saying that it would destroy an empire of adamant, and tried to induce him to modify his position, but in vain. The second edition was not allowed to be published until 1815.
+
+[^38]: Educated at Bologna, he went to Geneva in 1816, and was called (1833) by the French Government to succeed Say in the Collége de France. In 1845 he was sent as minister to Rome, led the revolutionary movement there, and was assassinated in 1848. His lectures were taken down in short-hand by one of his disciples, Porée, and later published.
+
+[^39]: Malthus, who held that the unproductive consumption of the rich was desirable for the poor, supported Sismondi. The latter was answered by Say and McCulloch (“Edinburgh Review,” March, 1821), to which Sismondi replied in his second edition, in 1827, and then withdrew from economic discussion.
+
+[^40]: A native of Riga, educated in Germany, Storch was charged by the Czar Alexander with the duty of instructing his sons, the Grand Dukes Nicholas and Michael, and his treatise is the collection of his lectures. Knowing little of Malthus or Ricardo, he made a near approach to the doctrine of rent. His unsparing denunciation of Russian administrative corruption caused the Government to forbid the publication of the Russian translation.
+
+[^41]: Cossa, “Guide” (p. 173), points out Sartorius, Lüder, Kraus, and Schlözer as teachers of Adam Smith, in Germany, followed later by G. Hufeland, J. F. E. Lotz, and L. H. von Jakob; Count Hogendorp and Gogel, in Holland; Count Szecheny, in Hungary, and (pp. 211-213) Cagnazzi, Bosellini, Ressi, Sanfilippo, and Scuderi (the last two protectionists), in Italy. Fuoco (1825-1827), in Italy, first saw the value of Ricardo's theory of rent, while Gioja opposed Adam Smith and Say. But K. H. Rau (died 1870), in his “Lehrbuch der politischen Oekonomie” (1826, fifth edition 1864), had the most extensive influence in Germany in expounding Adam Smith's system, with proper improvements. Another important writer of this school was F. B. W. von Hermann, “Staatswirthschaftliche Untersuchungen” (1832).
+
+[^42]: From 1810 to 1840, political economy was a favorite study in England, and many writers deserve mention. There were Huskisson, a great financier; Thomas Tooke (1773-1858), who began his matchless “History of Prices” (1823); Lord Overstone (Samuel Jones Loyd), “Tracts and other Publications on Metallic and Paper Currency” (1858); Robert Torrens (1784-1864), “Essay on the Production of Wealth” (1821); Archbishop Whately, “Introductory Lectures” (1831), and “Easy Lessons on Money Matters”; Cobden and Sir Robert Peel; N. W. Senior (1790-1864), Professor of Political Economy at Oxford, article on “Political Economy” (1836) in the “Encyclopædia Metropolitana,” and “Lectures on the Cost of obtaining Money” (1830). Senior showed great ability in analyzing cost of production, and stands far above McCulloch in real ability. J. R. McCulloch (1789-1864), who preceded Mill, wrote a good but dry textbook, “Principles of Political Economy” (1825), “A Treatise on the Principles, Practice, and History of Commerce” (1833), an excellent “Dictionary of Commerce” (last enlarged edition, 1882), “Literature of Political Economy” (1845). He edited Ricardo's works, with a biography, published a “Select Collection of Scarce and Valuable Tracts on Money” (1856), “A Treatise on the Principles and Practical Influence of Taxation and the Funding System” (1845). He contributed nothing practically new to the study. Miss Harriet Martineau (1802-1876) gave some admirable although somewhat extended stories in illustration of the various principles of political economy, entitled “Illustrations of Political Economy” (1859). This period in England was signalized by the abolition of the Corn Laws (1846), and the Navigation Laws (1849), the passage of the Bank Act (which separated the issue from the banking department, 1844), and the general abandonment of protective duties. Cf. Noble, “Fiscal Legislation, 1842-1865” (1867).
+
+[^43]: Born in 1806, he died in 1873. For his extraordinary education see his “Autobiography.” When thirteen years old, he began the study of political economy through lectures from his father while walking; he then (1819) read Ricardo and Adam Smith, and at fourteen he journeyed to France, where he lived for a time with J. B. Say. He entered the East India Office at seventeen, was occupied finally in conducting the correspondence for the directors, where he remained until 1858. When about twenty, Mill met twice a week in Threadneedle Street, from 8.30 to 10 a.m., with a political economy club, composed of Grote, Roebuck, Ellis, Graham, and Prescott, where they discussed James Mill's and Ricardo's books, and also Bailey's “Dissertations on Value.” In these discussions, chiefly with Graham, Mill elaborated his theory of international values. In 1865 he entered Parliament for Westminster, and for three years had a singular, characteristic, independent, but uninfluential career. His adherence to two radical reforms, woman suffrage and changes in the tenure of land, lost him any considerable influence.
+
+[^44]: He (1773-1836) wrote the “History of India” (1817-1819), and “Elements of Political Economy” (1821). He was intimate with Ricardo, Bentham, Austin, and Zachary Macaulay.
+
+[^45]: In his “infant industries” argument, and his statement on navigation laws (B. v, ch. x, §1), he conceded a great deal of free-trade ground; but in a private letter, 1866 (see New York “Nation,” May 29, 1873), he denied that he intended the “infant industries” argument to apply to the United States. He did not consider New England and Pennsylvania any longer as young countries within the limits of his meaning. See also Taussig's “Protection to Young Industries” (1883).
+
+[^46]: W. T. Thornton (1813-1880), in a volume “On Labor: its Wrongful Claims and Rightful Dues” (1869), attacked Mill's position on demand and supply, and on wages, so that Mill in consequence abandoned his doctrine of wages, in the “Fortnightly Review,” May 1, 1869. Mr. Cairnes, however, rescued the Wages-Fund theory from Mr. Mill in his “Leading Principles” (1874). Thornton also wrote “Over-Population, and its Remedy” (1846), and an excellent book, “Plea for Peasant Proprietorship” (1848). See also “Nineteenth Century,” August, 1879, for an answer by Thornton to Mr. Cairnes on the wages question.
+
+[^47]: James Eliot Cairnes was born at Drogheda, 1824; was educated at Trinity College, Dublin, and made Whately Professor there in 1856. Having been Professor of Political Economy in Queen's College, Galway, he left Ireland in 1866 to accept the chair of Political Economy in University College, London. In that year, through an attack of inflammatory rheumatism, he fell under the power of a painful and growing malady which rendered him physically helpless, and portended certain death in the near future. The three years before his death, while working only in hopeless pain, was the period of his greatest literary activity. He collected his “Essays in Political Economy, Theoretical and Applied” (1873), in which he traced with great ability the effect of the gold-discoveries; brought out his “Leading Principles” (1874), and an enlarged edition of his “Logical Method” (second edition, 1875). The first edition of this last book was the result of lectures delivered in Dublin about 1858. In his earlier years the interest he felt in the United States led him into a very vigorous and masterly study of “The Slave Power; its Character, Career, and Probable Dangers” (1862); “The Revolution in America” (1862). He then wrote “Colonization and Colonial Government” (1864), and “Negro Suffrage” (1866). He finally succumbed to his fatal disease, and passed away prematurely, July 8, 1875. A short sketch of his personal character was written by Professor Fawcett, in the “Fortnightly Review,” August 1, 1875, p. 149.
+
+[^48]: Professor Jevons (1835-1882) was educated at University College, London, and spent the years from 1854 to 1859 in the Australian Royal Mint, where he became interested in the gold question. He wrote a study on “A Serious Fall in the Value of Gold ascertained” (1863), which attracted great attention. A fine metaphysician and mathematician, he did not give his whole time to economic work. In 1866 he became Professor of Logic and Cobden Lecturer on Political Economy in Owens College, Manchester, but later became Professor of Political Economy in University College, London. In 1881 he gave up academic teaching, to devote himself to literature. He investigated the permanence of the English coal-supply in “The Coal Question” (second edition, 1866). “The Theory of Political Economy” (1871) contains his application of the mathematical method, and a bibliography of similar attempts. “The Railways and the State” are to be found in his “Essays and Addresses” (1874). He prepared an elementary book, “Primer of Political Economy” (second edition, 1878). He was a contributor to the journals, and especially to the “London Statistical Journal.” His last books were “The State in Relation to Labor” (1882), which deals with the question of state interference; and “Methods of Social Reform” (1883), containing a paper on industrial partnerships. He also advanced the theory that the presence of sun-spots affected agriculture unfavorably, and that, coming somewhat regularly, they produced a constant succession of commercial crises. (See “Nature,” xix, 33, 588.) At the early age of forty-seven he was unfortunately drowned while bathing near Bexhill, England (1882).
+
+[^49]: Like Cairnes, Thomas Edward Cliffe Leslie was a native of Ireland, and educated at Trinity College, Dublin. He was called to the bar, but gave up the law when offered the professorship of Political Economy in Queen's College, Belfast. Besides his discussion of land tenures, he published “Political and Moral Philosophy” (1874). He long suffered from bad health, and died January 28, 1882. His volume of “Land Systems” is now (1884) out of print, and scarce. He had also devoted himself to financial reform.
+
+[^50]: See p. [33](1129008759595750428_30107-h-2.html.xhtml#Pg033).
+
+[^51]: Born 1826, died 1877. He was early made familiar with banking in connection with the Stuckey Banking Company, in Somersetshire; was educated at University College, London. In 1858 he married the daughter of James Wilson, the editor of the London “Economist,” whom he succeeded. He was a political student of a rare kind, as is shown by his “English Constitution” (second edition, 1872), “Physics and Politics” (1872), “Literary Studies” (second edition, 1879). He also wrote “Depreciation of Silver” (1877).
+
+[^52]: Established in 1848, and unquestionably the most useful economic publication for English questions.
+
+[^53]: Born 1833. His eye-sight was lost by an accidental shot in 1858, but he was chosen Professor of Political Economy at Cambridge in 1863. His “Manual” and the “Economic Position of the British Laborer” (1865) gave him reputation, in 1865 he entered Parliament, and since 1880 he has been Postmaster-General in Mr. Gladstone's administration. He has published “Pauperism, its Causes and Remedies” (1871), “Speeches” (1878), “Free Trade and Protection” (1878). His wife (born 1847), Millicent Garret Fawcett, reduced his “Manual” into “Political Economy for Beginners” (1869), and also wrote “Tales in Political Economy” (1874). Died November 13, 1884.
+
+[^54]: He has also published “Social Economy” (1872); a small “Manual of Political Economy” (third edition, 1878); and a very considerable work, “Six Centuries of Work and Wages: the History of English Labor,” 1250-1883 (1884). He has edited Adam Smith's “Wealth of Nations,” and written “Cobden and Modern Political Opinion” (1873), and “The Colonial Question,” in the Cobden Club Essays (1872).
+
+[^55]: Of other books, mention should be made of G. J. Goschen's most admirable “Theory of Foreign Exchanges” (eighth edition, 1875); “Reports and Speeches on Local Taxation” (1872); T. Brassey's “Work and Wages” (third edition, 1883); E. Seyd, “Bullion and the Foreign Exchanges” (1868); H. D. McLeod, an eccentric writer, “Dictionary of Political Economy” (only one vol., A-C, 1863, published); and “Theory and Practice of Banking” (second edition, 1875-1876); H. Sidgwick, “Principles of Political Economy” (1883); J. Caird, “Landed Interest” (fourth edition, 1880); L. Levi, “History of British Commerce” (1872).
+
+[^56]: Frédéric Bastiat (1801-1850) began life in a commercial house at Bayonne, but gained notice first by an article, “De l'influence des tarifs français et anglais sur l'avenir des deux peuples,” in the “Journal des Économistes” of 1844, and consequently had a very short period of literary activity. The corn-law agitation in England and the revolutionary movement of 1848 led him to write chiefly against protection and socialism. He translated Cobden's speeches, “Cobden et la Ligue” (1845). His arguments against protection, “Sophismes économiques” (1846-1847), have been translated and published in this country; but the more extended exposition of his doctrine of value diminishing with the growth of civilization, and the harmony of all interests is in the “Harmonies économiques” (1850). In this his position is not much different from Carey's. His other books were “Capital et rente” (1849), directed against gratuitous loans; “Protectionisme et communisme” (1849), showing protection to be communism for the rich; “Propriété et loi” (1848), directed against socialism; and “Essais sur l'économie politique” (1853); “Le Libre-échange” (1855). “Œuvres complètes,” 7 tom. (1855-1864).
+
+[^57]: Carey, however, claimed, with probable truth, that Bastiat borrowed the idea from him, and Bastiat did not appear well in the controversy. Almost no one has followed the French writer in his theory except Professor A. L. Perry, of Williams College, Massachusetts, who has shaped his general argument according to this view of value. Also see Cairnes, “Essays in Political Economy,” p. 312.
+
+[^58]: Chevalier (1806-1879) first drew attention in an experiment of Saint-Simonism in 1830-1833. After traveling in the United States, and writing excellent books on the country and its railways, he became professor in the Collége de France, where his lectures were collected in a “Cours d'économie politique” (1842-1850; second edition, 1855-1866). His third volume, “La Monnaie,” is a standard treatise on money, with an extensive bibliography. His treatise “Examen du système commerciale connu sous le nom de système protecteur” (1851) is now somewhat out of date. In his book “De la Baisse, probable de l'or” (1859), translated by Richard Cobden, he held that, unless prevented, gold would drive out the French currency, as against Faucher, who thought the fall temporary, and would progressively diminish. Other books are, “De l'industrie manufacturière en France,” and “La liberté du travail” (1848).
+
+[^59]: Émile Levasseur (born 1828) was professor at Alençon, 1852-1854, and elected a member of the Academy of Sciences in 1868. He has published “Récherches historiques sur le système de Law” (1854); “La question de l'or” (1858); “Histoire des classes ouvrières en France depuis la conquête de Jules César jusqu'à la révolution” (1859); the same history continued, “Depuis 1789 jusqu'à nos jours” (1867); “La France industriale” (1865); “Cours d'économie rurale, la France et ses colonies” (1868); “Précis d'économie politique” (fourth edition, 1883).
+
+[^60]: Born in Berlin in 1816, but since 1821 living in France. He was long connected with the Bureau de Statistique Générale, and the Ministry of Agriculture and Commerce, but in 1861 he left office and gave himself wholly to private work. In this year he received the Montyon prize for statistics, not given since 1857. His chief books are: “Des charges de l'agriculture dans les divers pays de l'Europe” (1850), a work crowned by the Institute; “Statistique de la France, comparée avec les divers états de l'Europe” (1860); “Le dictionnaire de l'administration française” (second edition, 1878); “Les finances de la France depuis 1815” (1863); “Les théoriciens du socialisme en Allemagne” (1872); and in connection with M. Guillaumin, “L'annuaire de l'économie politique,” since 1856.
+
+[^61]: Jérôme-Adolphe Blanqui ainé (1798-1854) in 1833 succeeded to the chair of J. B. Say in the Conservatoire des Arts et Métiers, and was one of the founders of the “Journal des économistes.” Besides his “Histoire de l'économie politique en l'Europe” (1837-1852), he published a “Résumé de l'histoire du commerce et de l'industrie” (1826); “Précis élémentaire d'économie politique” (1826); “Rapports, histoire de l'exposition des produits de l'industrie française en 1827” (1827); “Cours d'economie politique” (2 vols., 1837-1838), and notices of Huskisson and J. B. Say.
+
+[^62]: Louis Wolowski (1810-1876), of Polish origin, was Chevalier's chief antagonist, and Professor of Legislation at the Conservatoire des Arts et Métiers (1839); founded the first Crédit Foncier of Paris, and was elected to the Institute in the place of Blanqui. In 1875 he was chosen senator. He was a fertile writer: “Mobilisation du Crédit Foncier” (1839); “De l'organisation du travail” (1846); “Études de l'économie politique et de statistique” (1848); “Henri IV, économiste, introduction de l'industrie de la soie en France” (1855); “Introduction de l'économie politique en Italie” (1859); “Les finances de la Russie” (1864); “La question des banques” (1864); his testimony in the “Enquête sur les principes et les faits généraux qui régissent la circulation monétaire et fiduciaire” (1866); “La banque d'Angleterre et les banques d'Écosse” (1867); “La liberté commerciale et les résultats du traité de commerce de 1860” (1868); “L'or et l'argent” (1870); “La change et la circulation”; and a translation of Roscher.
+
+[^63]: Hippolyte-Philibert Passy (1793-1880) was educated for the army, and served at Waterloo. He was more prominent as a statesman than as an economist. In 1838 he entered the Academy in the place of Talleyrand, but politics left him unoccupied, and he wrote “Des systèmes de culture et de leur influence sur l'économie sociale” (1846), and “Des causes de l'inégalité des richesses” (1849).
+
+[^64]: M. Léonce de Lavergne (1809-1880) came from Toulouse to Paris in 1840, elected deputy in 1846, a member of the Institute in 1855, and became professor in the Institut agronomique of Versailles. He was also the author of “L'économie rurale de l'Angleterre, de l'Écosse, et de l'Irlande” (1854), translated into English (1855); “L'agriculture et la population” (1857), a striking confirmation of Malthusianism; “Les économistes françaises du dixhuitième siècle” (1870). He also has contributed largely to the “Revue des Deux Mondes” and the “Journal des Économistes.” For a personal sketch by Cliffe Leslie, see “Fortnightly Review,” February, 1881.
+
+[^65]: Born at Geneva, 1797, and died at Zurich, 1869. After studying law, he became an advocate, and in 1833 Professor of Law in the place of Rossi. In 1837 he was made Professor of Political Economy and Public Law at Geneva. He was also a member of the Swiss Grand Council. Besides his treatise, he wrote: “Richesse ou pauvreté” (1840); “Le socialisme, c'est la barbarie” (1848); “Études sur les causes de la misère” (1853); and aided in the “Dictionnaire de l'économie politique.”
+
+[^66]: J. G. Courcelle-Seneuil (born 1813) left a commercial career to become a writer, first for the journals, and later for the “Dictionnaire politique” (edited by Pagnerre). In 1848 he was connected with the Ministry of Finance, and called to a professorship of Political Economy in Santiago, Chili, 1853-1863. His chief work is a “Traité théorique et pratique d'économie politique” (1858), but he has also published “La crédit de banque” (1840), reforms for the bank of France; “Traité des opérations de banque” (1852; sixth edition, 1876); “Traité des entreprises industrielles, commerciales, et agricoles” (1854); “Études sur la science sociale” (1862); “Leçons élémentaires d'économie politique” (1864); “La banque libre” (1867); “Liberté et socialisme” (1868); and articles in the “Dictionnaire de l'économie politique.”
+
+[^67]: Died 1862; author of “De la liberté du travail” (1845).
+
+[^68]: Professor of Political Economy at the Collége de France, author of an extended and able “Traité de la science des finances” (third edition, 1883). He has also published “De l'état moral et intellectual des populations ouvrières et de son influence sur le taux des salaires” (1868); “Récherches economiques, historiques, et statistiques sur les guerres contemporaines” (1869); “La question ouvrière au XIX siècle” (second edition, 1882); “L'administration locale en France et en Angleterre” (1872); “Le travail des femmes au XIX siècle” (1873); “Essai sur la répartition des richesses” (1880; second edition, 1883); and “De la colonisation chez les peuples modernes” (1882).
+
+[^69]: He published two volumes on Socialism (see list of books p. [44](1129008759595750428_30107-h-2.html.xhtml#Pg044)). In several volumes on the “Régime des manufactures” he described the condition of the silk, woolen, cotton, and iron industries.
+
+[^70]: The most vigorous advocate of monometallism in France. He also wrote well on taxation, “Traité des impôts” (4 vols., 1866-1867).
+
+[^71]: His “Rapport sur l'indemnité du guerre” to the Corps Législatif gives the account of the most marvelous exchange operation of modern times, arising from the payment of the indemnity by France to Germany (1871-1873).
+
+[^72]: An advocate of the mathematical method.
+
+[^73]: Founded in 1863, published at Berlin, and edited by Dr. Eduard Wiss.
+
+[^74]: Long Secretary to the Chamber of Commerce at Hamburg, and now honorary professor at Göttingen.
+
+[^75]: Professor of Political Economy at Zürich in 1866, since 1875 director of statistics at Dresden, and editor of “Der Arbeiterfreund.” He made a valuable study of industrial partnerships, “Die Gewinnbetheiligung” (second edition 1878). He also wrote “Freiheit der Arbeit” (1858), and “Beiträge zur geschichte des Zunftwesens” (1861).
+
+[^76]: His most important work is “Das Armenwesen und die Armengesetzebung in Europäischen Staaten” (1870). Selected essays from this have been translated into English by E. B. Eastwick, “Poor Relief in Different Parts of Europe” (1873).
+
+[^77]: Max Wirth is at Vienna, and has devoted himself to a “Geschichte der Handelskrisen” (1874), including the crisis of 1873. Baron von Hock has written a history of the finances of France, and of the United States—“Die Finanzen und die Finanzgeschichte der vereinigten Staaten von Amerika” (1867).
+
+[^78]: This book has been translated into English by G. A. Matile, with notes by Stephen Colwell (1856).
+
+[^79]: Mohl on administration, and Rau and A. Wagner on finance, also deserve mention. Stein, besides other works, is the author of a handbook, “Die Verwaltungslehre” (1870).
+
+[^80]: “Fortnightly Review” (1876).
+
+[^81]: In Ely's “The Past and Present of Political Economy” (p. 9) it is clear the new school do not differ so much in reality as in seeming from the methods of the English writers, like Cairnes.
+
+[^82]: The first division of Roscher's (born 1817) treatise, also known under the title of “Grundlagen der Nationalökonomie,” has been translated here by J. J. Lalor, in two volumes, “Principles of Political Economy” (1878), with an essay by Wolowski on the historical method inserted. In 1840 he was made Privat-Docent at Göttingen, and professor extraordinary in 1843. In 1844 he was called to a chair at Erlangen, but since 1848 he has remained at Leipsic. A list of Roscher's works is as follows:
+
+    “Grundriss zu Vorlesungen über die Staatswirthschaft nach geschichtlicher Methode” (1843); “Kornhandel und Theuerungspolitik” (third edition, 1852); “Untersuchungen über das Colonialwesen”; “Verhältniss der Nationalökonomie zum klassischen Alterthume” (1849); “Geschichte der englischen Volkswirthschaftslehre im 16. und 17. Jahrhunderts”; “Ein nationalökonom. Princep der Forstwirthschaft”; “Ansichten der Volkswirthschaft aus dem geschichtlichen Standpunkte” (second edition, 1861); “Die deutsche Nationalökonomie an der Grenzscheide des 16. und 17. Jahrhunderts” (1862); “Gründungsgeschichte des Zollvereins” (1870); “Betrachtungen über die Währungsfrage der deutschen Müntzreform” (1872); “Geschichte der Nationalökonomie in Deutschland” (1874); “Nationalökonomie des Ackerbaues” (eighth edition, 1875). His histories of political economy in England and Germany are particularly valuable (see review by Cliffe Leslie, “Fortnightly Review,” July, 1875). But he does not rightly estimate the English writers when he takes McLeod as a type; and Carey is the only American to whom he refers.
+
+[^83]: Professor at Marburg, then at the University of Friedburg, in Breisgau, and now at Heidelberg. He has also studied railways (1853), and telegraphs (1857), and money and credit, “Geld und Credit” (1873-1879).
+
+[^84]: Died 1878. He devoted himself mainly to criticism of other systems, and seems to be the least able of the three.
+
+[^85]: “Catheder-Socialisten,” or “Professional Socialists.”
+
+[^86]: By far the ablest is Adolph Wagner, of Berlin, editor of Rau's “Lehrbuch der politischen Oekonomie” (1872). He also published “Die russische Papierwährung” (1868); “Staatspapiergeld, Reichs-Kassen Scheine, und Banknoten” (1874); “Unsere Müntzreform” (1877); “Finanzwissenschaft” (1877); and “Die Communalsteuerfrage” (1878).
+
+    Dr. Eduard Engel was formerly the head of the Prussian Bureau of Statistics. Professor Gustav Schönberg, of Tübingen, with the assistance of twenty-one other economists, produced a large “Handbuch der politischen Oekonomie” (1882). The school have expressed their peculiar doctrines in the “Zeitschrift für die gesammte Staatswissenschaft” (quarterly, founded 1844, Tübingen), and the “Jahrbücher für Nationalökonomie” (established at Jena, 1863). Also, see A. Wagner's “Rede über die sociale Frage” (1872), H. v. Scheel's “Die Theorie der socialen Frage” (1871), and G. Schmoller's “Ueber einige Grundfrage des Rects und der Volkswirthschaft” (1875). A. E. F. Schäffle, once Minister of Commerce at Vienna, gained considerable reputation by “Das gesellschaftliche System der menschlichen Wirthschaft” (third edition, 1873).
+
+[^87]: Émile de Laveleye (born 1822) studied law at Ghent, but since 1848 has given himself up to political economy and public questions. Through the pages of the “Revue des Deux Mondes” he gained attention in 1863, and the next year was made Professor of Political Economy at the University of Liége. In 1869 he received an election as corresponding member of the Academy of Sciences. While a fertile writer on political subjects, he has produced “La question d'or” (1860); “Essai sur l'économie rurale de la Belgique” (1863); a study on “Suisse,” see “Revue des Deux Mondes,” April 15, 1863; “Études d'économie rurale, la Neerlande” (1864); “La marché monetaire depuis cinquante ans” (1865); “Land Systems of Belgium and Holland,” in the Cobden Club volume on “Land Tenures” (1870); “Bi-metallic Money,” translated by G. Walker (1877); “La socialisme contemporaine” (1881); “Éléments d'économie politique” (1882), which satisfies a certain modern demand for “ethical political economy.”
+
+[^88]: Leslie found support in a well-known paper read before the Association for the Advancement of Science (see “London Statistical Journal,” December, 1878; also see “Penn Monthly,” 1879), by J. K. Ingram, who claimed that the old school isolated the study of economic from other social phenomena, and that Ricardo's system was not only too abstract, but that its conclusions were of so absolute a character that they were little adapted for real use. Robert Lowe (Lord Sherbrooke) replied to Leslie and Ingram (“Nineteenth Century,” November, 1878). For most of this literature it will be necessary to consult the magazines. Cliffe Leslie, “Fortnightly Review” (November, 1870), placed Adam Smith among the inductive economists; D. Syme attacked the old methods, “Westminster Review,” vol. xcvi (1871); Cairnes represented the old school, and discussed the new theories, “Political Economy and Comte,” in the “Fortnightly Review,” vol. xiii, p. 579 (1870), “Political Economy and Laissez Faire,” vol. xvi, p. 80 (1871), and in 1872; see also his admirable “Logical Method”; F. Harrison discussed the limits of political economy, ibid. (1865), and answered Cairnes in an article on “Cairnes on Political Economy and M. Comte,” “Fortnightly Review,” vol. xiv, p. 39 (1870). W. Newmarch gave attention to Ingram's paper, “Statistical Journal” (1871). Leslie, “Fortnightly Review” (1875), and G. Cohn, ibid. (1873), wrote on political economy in Germany. Leslie also contributed an article on “Political Economy and Sociology,” “Fortnightly Review,” vol. xxxi, p. 25 (1879), and the “Bicentenary of Political Economy,” in the “Bankers' Magazine,” vol. xxxii, p. 29. Leslie examined the philosophical method, “Penn Monthly” (1877); Jevons saw the only hope for the future in the mathematical method, “Fortnightly Review” (1876); McLeod asks, “What is political economy?” in the “Contemporary Review” (1875); Maurice Block entered the discussion, “Penn Monthly” (1877), and “Bankers' Magazine,” March and November, 1878. Henry Sidgwick answers Leslie in a paper on “Economic Method,” in the “Fortnightly Review,” vol. xxxi (1879), p. 301. See also essay by Wolowski prefixed to Roscher's “Political Economy” (English translation); Roscher's own statement in Chapters II and III of the Introduction to his “Political Economy,” and Laveleye's “New Tendencies of Political Economy” (1879). See also “Penn Monthly,” vol. vii, p. 190, and “Bankers' Magazine,” vol. xxxiii, pp. 601, 698, 761; vol. xxxvi, pp. 349, 422; S. Newcomb for an admirable essay “On the Method and Province of Political Economy,” “North American Review” (1875), vol. cxxi, p. 241, in which the “Orthodox” method is strongly supported; and an extreme position in favor of the historical method in a pamphlet, “The Past and Present of Political Economy,” by R. T. Ely (1884).
+
+[^89]: Daniel Raymond, “The Elements of Political Economy” (1820). Thomas Cooper, “Lectures on the Elements of Political Economy” (1826); “A Manual of Political Economy” (1834). Willard Phillips, “A Manual of Political Economy” (1828); “Propositions concerning Protection and Free Trade” (1860). President Francis Wayland (1796-1865), “The Elements of Political Economy” (1837). Henry Vethake, “Principles of Political Economy” (1838). From 1840 to the civil war there appeared F. Bowen's “Principles of Political Economy” (1856), since changed to “American Political Economy” (1873), which opposed the Malthusian doctrine and defended protection; John Bascom's “Political Economy” (1859); and Stephen Colwell's “Ways and Means of Payment” (1859). After the war, “Science of Wealth” (1866), by Amasa Walker, a lecturer in Amherst College, and father of F. A. Walker.
+
+[^90]: Prof. C. F. Dunbar, “North American Review,” January, 1876, in an admirable review of economic science in America during the last century (1776-1876).
+
+[^91]: See supra, p. [16](1129008759595750428_30107-h-2.html.xhtml#Pg016).
+
+[^92]: Carey (1793-1879) was the son of an Irish exile, and began a business career at the age of twelve. At twenty-eight he was the leading partner in the publishing firm of Carey & Lea, Philadelphia, from which he retired in 1835, to devote himself wholly to political economy. His leading works have been translated into French, Italian, Portuguese, German, Swedish, Russian, Magyar, and Japanese. He has written thirteen octavo volumes, three thousand pages in pamphlet form, and twice that amount for the newspaper press. See “Proceedings of the American Academy of Science” (1881-1882, p. 417), and W. Elder's “Memoir of Henry C. Carey” (January 5, 1880). The latter gives a list of his books.
+
+[^93]: Bastiat's “Harmonies économiques” appeared in 1850, and the question of his indebtedness to Carey was discussed, rather unfavorably to Bastiat, in a series of letters in the “Journal des économistes” for 1851.
+
+[^94]: See an able study, by Adolphe Held, “Carey's Socialwissenschaft und das Merkantilsystem” (1866).
+
+[^95]: His system appears also in the books of disciples: E. Peshine Smith, “A Manual of Political Economy” (1853), William Elder's “Questions of the Day” (1871), and of Robert E. Thompson's “Social Science and National Economy” (1875). A condensation of Carey's “Social Science” has been made by Kate McKean, in one volume, octavo.
+
+[^96]: The son of Amasa Walker, and formerly Professor of Political Economy and History in the Sheffield Scientific School of Yale College, he has become well known for his statistical work in connection with the United States census. His “Statistical Atlas of the United States” (1874) is unequaled. He has also published “Money” (1878); “Money, Trade, and Industry” (1879); “Political Economy” (1883); and “Land and Rent” (1884). The last book replies to various attacks on Ricardo's doctrine of rent, and particularly to Henry George's “Progress and Poverty.” General Walker in 1883 became President of the Massachusetts Institute of Technology in Boston. He is also well known as an advocate of bimetallism.
+
+[^97]: Professor of Political and Social Science in Yale College, and author of a “History of American Currency” (1874); “Lectures on the History of Protection in the United States” (1877); “What Social Classes owe to Each Other” (1883). He is a monometallist, and has devoted himself vigorously to the advocacy of free trade. His last book is a study in sociology, not in political economy.
+
+[^98]: He has written “Political Economy” (eighteenth edition, 1883), and also “Introduction to Political Economy,” an elementary work on the same basis as the former.
+
+[^99]: Henry George was born in Philadelphia, 1839, ran away to sea, and in 1857 entered a printing-office in San Francisco. In 1871 he was one of the founders of the “San Francisco Post,” which he gave up in 1875, and received a public office. He first began to agitate his views in a pamphlet entitled “Our Land and Land Policy” (1871), but not until the comparative leisure of his occupation (1875) gave him opportunity did he seriously begin the study which resulted in his “Progress and Poverty.” This volume was begun in the summer of 1877, and finished in the spring of 1879. The sale of the book, it is needless to say, has been phenomenal. He has also applied his doctrine of land to Ireland, in a pamphlet entitled “The Irish Land Question” (1882). His last book is a collection of essays entitled “Social Problems” (1884). His home is now in New York.

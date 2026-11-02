@@ -1,0 +1,152 @@
+---
+title: Chapter V. On Circulating And Fixed Capital.
+path: 04-book-i-production/05-chapter-v-on-circulating-and-fixed-capital
+ancestors:
+  - Book I. Production.
+href: 1129008759595750428_30107-h-3.html.xhtml#pgepubid00026
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter V. On Circulating And Fixed Capital.
+
+## § 1. Fixed and Circulating Capital.
+
+Of the capital engaged in the production of any commodity, there is a part which, after being once used, exists no
+longer as capital; is no longer capable of rendering service to production, or at least not the same service, nor to the
+same sort of production. Such, for example, is the portion of capital which consists of materials. The tallow and alkali
+of which soap is made, once used in the manufacture, are destroyed as alkali and tallow. In the same division must be
+placed the portion of capital which is paid as the wages, or consumed as the subsistence, of laborers. That part of the
+capital of a cotton-spinner which he pays away to his work-people, once so paid, exists no longer as his capital, or as
+a cotton-spinner's capital. Capital which in this manner fulfills the whole of its office in the production in which it
+is engaged, by a single use, is called Circulating Capital. The term, which is not very appropriate, is derived from the
+circumstance that this portion of capital requires to be constantly renewed by the sale of the finished product, and
+when renewed is perpetually parted with in buying materials and paying wages; so that it does its work, not by being
+kept, but by changing hands.
+
+Another large portion of capital, however, consists in instruments of production, of a more or less permanent character;
+which produce their effect not by being parted with, but by being kept; and the efficacy of which is not exhausted by a
+single use. To this class belong buildings, \[pg 094\] machinery, and all or most things known by the name of implements
+or tools. The durability of some of these is considerable, and their function as productive instruments is prolonged
+through many repetitions of the productive operation. In this class must likewise be included capital sunk (as the
+expression is) in permanent improvements of land. So also the capital expended once for all, in the commencement of an
+undertaking, to prepare the way for subsequent operations: the expense of opening a mine, for example; of cutting
+canals, of making roads or docks. Other examples might be added, but these are sufficient. Capital which exists in any
+of these durable shapes, and the return to which is spread over a period of corresponding duration, is called Fixed
+Capital.
+
+Of fixed capital, some kinds require to be occasionally or periodically renewed. Such are all implements and buildings:
+they require, at intervals, partial renewal by means of repairs, and are at last entirely worn out. In other cases the
+capital does not, unless as a consequence of some unusual accident, require entire renewal. A dock or a canal, once
+made, does not require, like a machine, to be made again, unless purposely destroyed. The most permanent of all kinds of
+fixed capital is that employed in giving increased productiveness to a natural agent, such as land.
+
+To return to the theoretical distinction between fixed and circulating capital. Since all wealth which is destined to be
+employed for reproduction comes within the designation of capital, there are parts of capital which do not agree with
+the definition of either species of it; for instance, the stock of finished goods which a manufacturer or dealer at any
+time possesses unsold in his warehouses. But this, though capital as to its destination, is not yet capital in actual
+exercise; it is not engaged in production, but has first to be sold or exchanged, that is, converted into an equivalent
+value of some other commodities, and therefore is not yet either fixed or circulating capital, but will become either
+one or the other, or be eventually divided between them.
+
+\[pg 095\]
+
+## § 2. Increase of Fixed Capital, when, at the Expense of Circulating, might be Detrimental to the Laborers.
+
+There is a great difference between the effects of circulating and those of fixed capital, on the amount of the gross
+produce of the country. Circulating capital being destroyed as such, the result of a single use must be a reproduction
+equal to the whole amount of the circulating capital used, and a profit besides. This, however, is by no means necessary
+in the case of fixed capital. Since machinery, for example, is not wholly consumed by one use, it is not necessary that
+it should be wholly replaced from the product of that use. The machine answers the purpose of its owner if it brings in,
+during each interval of time, enough to cover the expense of repairs, and the deterioration in value which the machine
+has sustained during the same time, with a surplus sufficient to yield the ordinary profit on the entire value of the
+machine.
+
+From this it follows that all increase of fixed capital, when taking place at the expense of circulating, must be, at
+least temporarily, prejudicial to the interests of the laborers. This is true, not of machinery alone, but of all
+improvements by which capital is sunk; that is, rendered permanently incapable of being applied to the maintenance and
+remuneration of labor.
+
+It is highly probable that in the twenty-five years preceding the panic of 1873, owing to the progress of invention,
+those industries in the United States employing much machinery were unduly stimulated in comparison with other
+industries, and that the readjustment was a slow and painful process. After the collapse vast numbers left the
+manufacturing to enter the extractive industries.
+
+The argument relied on by most of those who contend that machinery can never be injurious to the laboring-class is, that
+by cheapening production it creates such an increased demand for the commodity as enables, ere long, a greater number of
+persons than ever to find employment in producing it. The argument does not seem to me to have the weight commonly
+ascribed to it. The fact, though too broadly stated, is, no doubt, often true. The copyists who were thrown out of
+employment by the invention of printing \[pg 096\] were doubtless soon outnumbered by the compositors and pressmen who
+took their place; and the number of laboring persons now employed in the cotton manufacture is many times greater than
+were so occupied previously to the inventions of Hargreaves and Arkwright, which shows that, besides the enormous fixed
+capital now embarked in the manufacture, it also employs a far larger circulating capital than at any former time. But
+if this capital was drawn from other employments, if the funds which took the place of the capital sunk in costly
+machinery were supplied not by any additional saving consequent on the improvements, but by drafts on the general
+capital of the community, what better are the laboring-classes for the mere transfer?
+
+There is a machine used for sizing the cotton yarn to prepare it for weaving, by which it is dried over a steam
+cylinder, the wages for attendance on which were only two dollars per day, as compared with an expenditure for labor of
+fourteen dollars per day to accomplish the same ends before the machine was invented.
+
+All attempts to make out that the laboring-classes as a collective body _can not_ suffer temporarily by the introduction
+of machinery, or by the sinking of capital in permanent improvements, are, I conceive, necessarily fallacious.[^111]
+That they would suffer in the particular department of industry to which the change applies is generally admitted, and
+obvious to common sense; but it is often said that, though employment is withdrawn from labor in one department, an
+exactly equivalent employment is opened for it in others, because what the consumers save in the increased cheapness of
+one particular article enables them to augment their consumption of others, thereby increasing the demand for other
+kinds of labor. This is plausible, but, as was shown in the last chapter, involves a fallacy; demand for commodities
+being a totally different thing from demand \[pg 097\] for labor. It is true, the consumers have now additional means of
+buying other things; but this will not create the other things, unless there is capital to produce them, and the
+improvement has not set at liberty any capital, even if it has not absorbed some from other employments.
+
+If the improvement has lowered the cost of production, it has often required less capital (as well as less labor) to
+produce the same quantity of goods; or, what is the same thing, an increased product with the same capital.
+
+## § 3. —This seldom, if ever, occurs.
+
+Nevertheless, I do not believe that, as things are actually transacted, improvements in production are often, if ever,
+injurious, even temporarily, to the laboring-classes in the aggregate. They would be so if they took place suddenly to a
+great amount, because much of the capital sunk must necessarily in that case be provided from funds already employed as
+circulating capital. But improvements are always introduced very gradually, and are seldom or never made by withdrawing
+circulating capital from actual production, but are made by the employment of the annual increase. I doubt if there
+would be found a single example of a great increase of fixed capital, at a time and place where circulating capital was
+not rapidly increasing likewise.
+
+In the United States, while the cost per yard of the manufactured goods has decreased, and so made accessible to poorer
+classes than before, the capital engaged in manufactures has increased so as to allow a vastly greater number of persons
+to be employed, as will be seen by the following comparison of 1860 with 1880 taken from the last census returns.
+(Compendium, 1880, pp. 928, 930.)
+
+|  | Number of establishments. | Capital (Thousands). | Average number of hands employed. | Total amount paid in wages during the year. |
+| --- | --- | --- | --- | --- |
+| 1860 | 140,433 | $1,009,855 | 1,311,246 | $378,878,966 |
+| 1880 | 253,852 | 2,790,272 | 2,732,595 | 947,953,795 |
+
+“A hundred years ago, one person in every family of five or six must have been absolutely needed to spin and weave by
+\[pg 098\] hand the fabrics required for the scanty clothing of the people; now one person in two hundred or two hundred
+and fifty only need work in the factory to produce the cotton and woolen fabrics of the most amply clothed nation of the
+world.”[^112]
+
+To these considerations must be added, that, even if improvements did for a time decrease the aggregate produce and the
+circulating capital of the community, they would not the less tend in the long run to augment both. This tendency of
+improvements in production to cause increased accumulation, and thereby ultimately to increase the gross produce, even
+if temporarily diminishing it, will assume a still more decided character if it should appear that there are assignable
+limits both to the accumulation of capital and to the increase of production from the land, which limits once attained,
+all further increase of produce must stop; but that improvements in production, whatever may be their other effects,
+tend to throw one or both of these limits farther off. Now, these are truths which will appear in the clearest light in
+a subsequent stage of our investigation. It will be seen that the quantity of capital which will, or even which can, be
+accumulated in any country, and the amount of gross produce which will, or even which can, be raised, bear a proportion
+to the state of the arts of production there existing; and that every improvement, even if for the time it diminish the
+circulating capital and the gross produce, ultimately makes room for a larger amount of both than could possibly have
+existed otherwise. It is this which is the conclusive answer to the objections against machinery; and the proof thence
+arising of the ultimate benefit to laborers of mechanical inventions, even in the existing state of society, will
+hereafter be seen to be conclusive.[^113]
+
+\[pg 099\]
+
+* * *
+
+[^111]: See, for the argument that machinery necessarily injures labor, “Land and Labor,” William Godwin Moody (1883); and for the answer, “North American Review,” May, 1884, p. 510.
+
+[^112]: Edward Atkinson, “Labor and Capital, Allies not Enemies,” p. 33.
+
+[^113]: See [book iv, chap. iv](1129008759595750428_30107-h-9.html.xhtml#Book_IV_Chapter_IV).

@@ -1,0 +1,286 @@
+---
+source_url: https://www.youtube.com/watch?v=Aj7PKDTrbjQ
+video_title: Deux notions de JUSTICE (et pourquoi aucune ne justifie l'héritage)
+generated_at: 2026-09-19T09:44:38.374Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 130
+  input_tokens: 6049
+  cached_input_tokens: 0
+  output_tokens: 5039
+  estimated_cost_usd: 0.002258
+  finish_reason: stop
+---
+
+# Deux notions de JUSTICE (et pourquoi aucune ne justifie l'héritage)
+
+La discussion actuelle sur l'héritage vise souvent à faire en sorte que les
+personnes qui ont travaillé toute leur vie et constitué un patrimoine puissent
+le léguer sans frais de succession. « Au-delà de 12 millions, je prends tout. »
+
+Ces derniers temps, l'héritage a beaucoup fait parler. C'est un cas très
+intéressant pour réfléchir à la notion de justice, et en particulier pour en
+distinguer deux aspects très intuitifs pris isolément, mais qui peuvent avoir
+des conséquences incompatibles. Autrement dit, aujourd'hui, nous allons faire
+une distinction qui aide à mettre un peu d'ordre dans ses pensées.
+
+« Bon alors l'héritage, on en parle ? » « Soit ça ne vous concerne pas, soit
+vous n'avez pas envie de penser à la mort de vos parents comme un moyen de
+s'enrichir. Vous avez tort. »
+
+Laissez-moi vous poser deux questions. Premièrement, admettons qu'une personne A
+soit propriétaire de quelque chose. Est-ce que cette personne A peut, de façon
+juste, transférer sa propriété à une autre personne B si elle le veut ? On aura
+plutôt l'intuition que oui. Même si on pourrait vouloir limiter ça d'une façon
+ou d'une autre, la première intuition penche plutôt du côté que oui, c'est
+juste. Cette personne A peut faire ce qu'elle veut de sa propriété ; c'est le
+principe de la propriété après tout, et si elle veut la transférer à B, pourquoi
+pas. À priori, ça ne nuit ni lèse personne. En somme, ça la regarde, elle, et
+c'est tout. Il serait injuste de l'empêcher de transférer sa propriété. Appelons
+ça l'intuition du transfert juste.
+
+Maintenant, deuxième question. Supposons une situation où la plus grande part
+des richesses est extrêmement concentrée dans les mains d'un tout petit nombre,
+et où du coup une toute petite partie de la population dispose d'avantages
+énormes à la naissance. Cette situation est-elle juste ou injuste ? Là, on aura
+plutôt l'intuition que cette répartition des richesses et des chances est
+injuste. Appelons ça l'intuition de la répartition injuste.
+
+Une chose à noter à propos de ces deux intuitions, c'est qu'elles ne portent pas
+sur le même type de chose. L'intuition du transfert juste porte sur une
+procédure, sur quelque chose de dynamique : le transfert d'une propriété d'une
+personne à une autre. Tandis que l'intuition de la répartition injuste porte sur
+un état, sur une situation : comment *sont* distribuées les choses à un moment
+donné (indépendamment de la question de savoir comment on y est arrivé). C'est
+pour ça qu'on distingue souvent une notion de justice dite procédurale et une
+notion de justice dite distributive.
+
+La première, la justice procédurale, s'intéresse seulement au caractère juste
+des processus de décision. Par exemple, si vous dites qu'une façon juste de
+découper un gâteau, c'est que celui qui coupe laisse l'autre choisir sa part (le
+principe « je coupe, tu choisis »), ça relève de la justice procédurale. On ne
+dit pas quelle répartition des parts est juste, on dit seulement quelle
+procédure il serait juste de suivre pour faire et répartir les parts. À
+l'inverse, la justice distributive s'intéresse seulement à la question de savoir
+si un état de distribution donné est juste ou injuste : par exemple, dire qu'il
+est injuste que les parts de gâteau soient de taille très inégale relève de la
+justice distributive. (Notez qu'il y a d'autres aspects de la justice, comme la
+justice rétributive, qui s'intéresse à comment corriger ou réparer une
+injustice. Mais ici, on va s'intéresser seulement à la distinction justice
+procédurale vs. justice distributive.)
+
+Idéalement, on aimerait que ces deux notions coïncident, c'est-à-dire qu'en
+suivant des étapes procéduralement justes, on aboutisse bien à un état
+distributivement juste. Par exemple pour le gâteau, on peut espérer qu'avec le
+principe « je coupe, tu choisis », on arrive bien à une répartition des parts
+qui satisfait l'idée que les parts ne soient pas de taille trop inégale. Et a
+priori pour le gâteau, on peut se dire que ça marcherait plutôt bien. Mais
+est-ce toujours le cas ? Eh bien, l'héritage est très intéressant de ce point de
+vue-là.
+
+« Qu'est-ce qu'il y a de plus beau dans la vie que de vouloir que ses enfants
+commencent un peu plus haut que l'endroit où soi-même on a commencé ? » On a
+tendance à penser de prime abord que l'héritage est juste : quoi de plus normal
+pour des parents que de vouloir transmettre ce qu'ils ont à leurs enfants ?
+Après tout, c'est leur propriété, ça les regarde, ce serait injuste de leur
+confisquer leur héritage. Là, c'est l'intuition du transfert juste qui parle ;
+ça relève de la justice procédurale. L'héritage serait une procédure juste pour
+transférer une propriété.
+
+Mais le problème, qu'on n'a pas forcément en tête immédiatement mais qu'on ne
+peut pas ignorer quand on s'intéresse un peu à la question, c'est que cette
+logique d'héritage favorise mécaniquement la concentration de plus en plus
+grande des richesses, et donc la constitution d'une classe d'héritiers qui n'ont
+en somme qu'à se donner la peine de naître. Et ça, par contre, ça nous apparaît
+injuste. Là, c'est l'intuition de la répartition injuste qui parle, ça relève de
+la justice distributive. On se dit que l'héritage mène à un état de distribution
+injuste. « Et ça par le passé, ça ne s'est pas toujours très bien terminé. » «
+Eh ben voilà bravo, c'est ça qu'il faut faire ! » « Mais non c'est pas ça qu'il
+faut faire, on va pas guillot... déjà c'est interdit de guillotiner les gens. »
+
+Du coup, quand on se demande si l'héritage est injuste, c'est ambigu car on ne
+sait pas si on en parle du point de vue procédural ou distributif. Du point de
+vue procédural, on aura plutôt envie de dire que c'est juste. Et notez qu'il est
+naturel d'avoir d'abord cette idée en tête quand on parle d'héritage parce que
+le mot « héritage » évoque avant tout l'idée d'un transfert particulier d'une
+personne à une autre (c'est ça, UN héritage). Mais du point de vue distributif,
+du point de vue de la conséquence sur la répartition des richesses et des
+chances, on aura clairement des raisons de dire que c'est injuste. Il me semble
+important de prendre aussi cet aspect des choses en compte quand on parle de
+justice.
+
+Avoir en tête cette distinction procédural vs. distributif quand on parle de
+justice aide à réfléchir à ce genre de problème et à mieux comprendre les
+désaccords qu'ils font naître. Si quelqu'un soutient qu'il faut peu taxer
+l'héritage quel que soit son montant parce que c'est toujours injuste et
+confiscatoire, ça peut être d'une part parce qu'il ne voit pas les conséquences
+que ça a sur la répartition des richesses, c'est-à-dire qu'il ne voit pas en
+quoi ça produit une situation distributivement injuste. Dans ce cas, on pourra
+commencer par lui rappeler ce point, par exemple lui montrer des analyses de
+Stupid Economics ou du Monde qui en parlent très bien, et qui soulignent à quel
+point on se fait de fausses idées sur ce qu'est l'héritage en France aujourd'hui
+(c'est beaucoup moins taxé qu'on ne le pense).
+
+Et si même en reconnaissant ces conséquences distributivement injustes, notre
+défenseur de l'héritage n'en démord pas, pour lui taxer l'héritage reste
+fondamentalement injuste, eh bien c'est sans doute parce qu'on a affaire à
+quelqu'un qui accorde une importance particulière à l'aspect procédural de la
+justice, au détriment de son aspect distributif. L'important pour lui, c'est que
+les transferts soient justes, peu importe que ça produise une situation
+distributivement injuste. OK. Mais faut bien voir que c'est une position plutôt
+très radicale et difficile à justifier. Ça irait plutôt bien avec une position
+libertarienne, mais en fait même un pur libertarien comme Nozick ne la soutient
+pas (je reviendrai sur ce point bientôt).
+
+Et pour faire un lien avec une distinction de philosophie morale, il me semble
+qu'on pourrait dire qu'une telle position est purement déontologique, par
+opposition à une position conséquentialiste. Pour rappel, dans une approche
+déontologique de la morale, ce qui importe c'est le respect de principes moraux,
+de règles morales, indépendamment de la question des conséquences des actions.
+Là effectivement, tout ce qu'on aurait pour justifier le caractère
+fondamentalement juste de l'héritage, ce serait l'idée qu'on doit absolument
+respecter un principe de transfert juste, peu importe les conséquences.
+
+Mais si on est au contraire un tant soit peu conséquentialiste, c'est-à-dire
+qu'on considère que ce qui importe moralement ce sont les conséquences des
+actions (et je pense qu'on est tous au moins un peu conséquentialiste), il va
+être difficile de continuer à juger qu'il n'y a pas de problème avec l'héritage,
+déjà parce que les conséquences sont clairement injustes (au sens distributif),
+et au-delà de ça, ces conséquences sont même, plus généralement, économiquement
+mauvaises. « Ce qui est paradoxal c'est qu'il y a une sorte de consensus entre
+les économistes pour taxer assez fortement l'héritage, justement à cause du côté
+inégal, mais aussi surtout, pour les économistes un peu plus libéraux, pour les
+arguments vraiment économiques. » Oui, c'est un point de quasi consensus en
+économie, ce qui est plutôt rare. Donc, si vous êtes un tant soit peu
+conséquentialiste, c'est un aspect des choses qui doit peser très très fortement
+dans la balance : les conséquences sont clairement injustes et économiquement
+mauvaises.
+
+« On peut pas vous laisser comme ça hériter de tout devant tout le monde, là,
+c'est dégueulasse. » Mais malgré tout ça, je parie que beaucoup d'entre vous
+garderont quand même un fond de résistance déontologique à l'idée de taxer
+fortement les héritages. On a quand même l'impression que c'est indiscutablement
+moral de vouloir transmettre à ses enfants le fruit de son travail. « Les
+personnes qui toute leur vie ont travaillé, ont constitué un patrimoine » «
+Quand on a travaillé dur, qu'on a payé ses impôts, au nom de quoi devrait-on
+interdire à ces familles de transmettre à leurs enfants le fruit du travail de
+toute une génération ? »
+
+Quand on creuse la justification déontologique de l'héritage, pourquoi ce serait
+un transfert juste, on arrive presque toujours à cette idée du « quand on a
+travaillé toute sa vie on doit pouvoir le transmettre à ses enfants », ce qu'on
+pourrait appeler l'argument du droit à transmettre le fruit de son travail. Mais
+notez bien que tout ça ne retire rien aux arguments conséquentialistes dont j'ai
+parlé juste avant, et les arguments conséquentialistes sont aussi des arguments
+moraux. La morale n'est pas entièrement du côté des défenseurs de ce droit à
+transmettre le fruit de son travail.
+
+Mais en fait, même en acceptant pleinement cet argument du droit à transmettre
+le fruit de son travail, même en en faisant un droit inaliénable qui
+justifierait de négliger absolument tout le reste, c'est intéressant de noter
+qu'en fait un tel droit est incapable de légitimer l'héritage tel qu'il existe
+aujourd'hui. Pourquoi donc ? Eh bien supposons que par son propre travail
+uniquement, une personne A amasse une belle fortune. « Comme le montre cette
+écharpe, le capitalisme ne produit pas que de mauvaises choses. » « Connard. »
+Au nom de ce principe du droit de transmettre le fruit de son propre travail à
+ses enfants, cette personne A transmet toute sa fortune à son unique enfant B,
+disons. Mais le problème, c'est que lorsque B hérite de cette fortune, celle-ci
+n'est pas le fruit de son propre travail à lui. B ne l'a clairement pas faite
+avec ses petits doigts, il s'est juste donné la peine de naître et d'en hériter.
+Et donc B n'aurait, au nom de ce principe même du droit à transmettre le fruit
+de son propre travail, aucun droit moral à transmettre lui-même cette fortune à
+ses propres enfants. Tout ce que B aurait le droit moral de transmettre serait
+la part supplémentaire qu'il aurait éventuellement acquise par son propre
+travail ensuite.
+
+Et notez que j'invente pas ce truc-là : ce type d'idée, c'est-à-dire en gros
+taxer la 2e succession bien davantage que la première et ainsi de suite, ça a
+été proposé et discuté par le philosophe italien Eugenio Rignano. Et quand j'ai
+dit tout à l'heure que même un libertarien comme Robert Nozick soutient qu'il
+faut taxer l'héritage, eh bien ce à quoi Nozick en particulier est favorable
+c'est à une taxe à la Rignano. Parce qu'en gros, s'il reconnaît bien un droit
+moral à transmettre le fruit de son propre travail, il reconnaît aussi que la
+personne qui reçoit cet héritage ne reçoit pas pour autant ce même droit moral
+de le transmettre, vu que ce dont elle a hérité n'est pas le fruit de son propre
+travail à elle.
+
+Donc voilà, même en adoptant un strict point de vue déontologique à base de «
+quand on a travaillé toute sa vie tout ça tout ça... » « Quand on a travaillé
+dur... » « C'est le fruit d'une vie de travail... » « Les personnes qui toute
+leur vie ont travaillé... », ça ne saurait justifier un régime d'héritage qui
+permette, comme c'est le cas aujourd'hui, la transmission de gigantesques
+patrimoines de génération en génération. Et si vous ajoutez à ça les aspects
+conséquentialistes dont je parlais avant, qui me semblent quand même difficiles
+à ignorer, il me semble que oui, la balance doit pencher fortement du côté «
+l'héritage, en particulier tel qu'il existe aujourd'hui, est injuste ». « Quelle
+indignité... »
+
+Et, on va pas se mentir, cette opinion a tendance à déplaire. Ce qui ressort des
+enquêtes d'opinion, c'est que parler d'augmenter les taxes sur l'héritage, ça
+reste très impopulaire en France. « Sondage après sondage, les Français sont
+majoritairement contre une hausse de l'impôt sur les successions. En 2017, 87%
+d'entre eux souhaitaient même sa diminution. » Et c'est notamment parce que
+beaucoup de gens se font une fausse idée du niveau actuel de taxe (qui est déjà
+de 0% dans beaucoup de cas en fait). Et du coup n'hésitez pas à aller voir et
+partager ces analyses, ne serait-ce que pour ça c'est utile.
+
+Mais ce qui m'a donné particulièrement envie de faire moi-même ce petit épisode,
+c'est dans la dernière d'« Ouvrez les guillemets » ce moment où Usul cite Macron
+répondant à un économiste qui lui suggère de toucher aux droits de succession :
+« Emmanuel Macron aurait ainsi répondu : 'Vous avez économiquement raison mais
+politiquement tort.' » Dire « économiquement raison mais politiquement tort »,
+ça donne l'impression qu'il y aurait comme deux points de vue également valable
+qui se contredisent. On aurait en même temps raison et tort, selon le point de
+vue. « En même temps. » Mais en fait, non. Il est juste en train de dire : «
+vous avez raison, tout court. Vous avez raison, ce serait utile, ce serait une
+bonne chose, ce serait conforme à l'intérêt général de le faire. Oui, mais… ça
+diminuerait mes chances d'être réélu. » Il me semble que c'est en gros ce que ça
+veut dire « politiquement tort », c'est pas un point de vue qui viendrait
+contredire le premier sur le fond. Non, c'est juste dire : « c'est très
+impopulaire, donc j'ai pas envie de le faire ou même d'essayer de le défendre ».
+C'est plutôt lâche, non ?
+
+On est quand même face à un cas, et c'est pas si fréquent, où on sait dans
+quelle direction il serait à la fois juste et bénéfique d'aller, et on n'y va
+pas parce que ce serait impopulaire, ce serait politiquement coûteux. Est-ce que
+c'est trop demander d'assumer ce coût politique pour prendre une décision qu'on
+sait juste et utile ? Visiblement oui. C'est à croire que conserver le pouvoir
+aurait plus d'importance que l'exercer utilement. Je tombe des nues. « Ben oui,
+faut réfléchir un peu. »
+
+Donc voilà. C'était ma modeste contribution pour rendre la discussion sur
+l'héritage un peu plus populaire justement. En résumé, on a vu la distinction
+entre justice procédurale et justice distributive, et pourquoi sur l'héritage on
+a un peu deux intuitions incompatibles qui relèvent de ces deux aspects de la
+justice : c'est-à-dire que d'un côté c'est un transfert qui paraît
+procéduralement juste, et de l'autre côté il en résulte une répartition des
+richesses qui semble distributivement injuste. On a vu aussi que ça recoupe la
+distinction entre une morale déontologique où on se soucie avant tout du respect
+de principes moraux, ici un principe de transfert juste, et une morale
+conséquentialiste où au contraire on se soucie avant tout des conséquences. Et
+du point de vue des conséquences, clairement, taxer bien davantage les héritages
+et surtout les gros héritages, en plus d'être plus juste distributivement, c'est
+aussi bien meilleur du point de vue économique.
+
+Et enfin, même si on veut vraiment s'arcbouter sur l'héritage comme un transfert
+juste, le fondement qu'on donne à ce principe en général est à base de « j'ai
+bien le droit de transmettre le fruit de mon propre travail », et ce type de
+principe ne peut justifier tout au plus qu'un droit moral à une première
+transmission. Autrement dit, ça ne justifie pas un droit à transmettre une
+fortune déjà héritée. D'où l'idée de Rignano de taxer le 2e héritage. (Et c'est
+une idée qui trouvait même grâce aux yeux d'un libertarien comme Nozick.)
+
+Pendant des siècles, on s'est accommodé de la transmission familiale du pouvoir
+politique. Être le fils du mec en charge semblait une raison tout à fait
+suffisante pour être soi-même en charge après lui. Aujourd'hui on trouve tout ça
+bizarre et choquant, pour le pouvoir politique. Mais pour la transmission du
+pouvoir économique, on continue de trouver ça plutôt normal, qu'il y ait des
+sortes de dynasties à la tête d'entreprises et de patrimoines gigantesques. Mais
+est-ce normal ? « Ben oui puisqu'on a tout le temps fait comme ça. » Bref,
+essayons de réfléchir un peu plus à ce qu'il y a de juste et injuste concernant
+l'héritage, ça nous fera pas de mal.
+
+Merci à toutes celles et ceux qui me soutiennent sur les plateformes de dons,
+c'est bien mieux et bien plus gratifiant qu'un héritage ! On se retrouve bientôt
+pour une nouvelle vidéo. En attendant, portez-vous bien, et soyez juste, dans
+tous les sens du terme.

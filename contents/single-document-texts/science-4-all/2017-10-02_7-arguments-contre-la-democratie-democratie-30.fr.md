@@ -1,0 +1,337 @@
+---
+source_url: https://www.youtube.com/watch?v=fYioC7v1F3U
+video_title: 7 arguments CONTRE la démocratie | Démocratie 30
+generated_at: 2026-09-19T09:15:04.313Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 138.3
+  input_tokens: 7789
+  cached_input_tokens: 0
+  output_tokens: 5363
+  estimated_cost_usd: 0.002592
+  finish_reason: stop
+---
+
+# 7 arguments CONTRE la démocratie | Démocratie 30
+
+## Arguments contre la démocratie : une perspective utilitariste
+
+Aujourd'hui, je vais peut-être perdre tous mes abonnés. On a tous envie de dire
+que la démocratie c'est bien, mais pour pouvoir le conclure, un utilitariste
+devra montrer que la démocratie conduit au bonheur du plus grand nombre.
+Souvenez-vous : pour un utilitariste, aucun moyen ni principe n'est moralement
+bien *a priori*. Tout principe n'est bien dans un contexte donné que s'il
+permet, dans ce contexte, à plus de gens d'être plus heureux. La question
+devient alors : est-ce que la démocratie permet vraiment le bonheur du plus
+grand nombre dans le monde d'aujourd'hui ?
+
+### Précision sémantique
+
+Avant d'aller plus loin, il me faut faire un point sémantique. Comme on en a
+déjà parlé il y a peu, il y a à peu près autant de définitions du mot démocratie
+qu'il y a de citoyens, et non, votre définition n'est pas plus juste que celle
+d'un autre. Il ne s'agit pas de définir un théorème dans cette vidéo. Juste
+histoire que l'on puisse s'entendre, je vous propose de nous arrêter sur la
+définition littérale du mot démocratie, qui signifie « le pouvoir au peuple ».
+
+La question est donc : est-ce que donner le pouvoir au peuple permet le bonheur
+du plus grand nombre ? J'ai tellement envie de dire oui, mais pour aujourd'hui
+j'aimerais questionner notre hooliganisme démocratique en vous présentant des
+arguments contre la démocratie. L'objectif est patent : vous convaincre que la
+démocratie c'est mal. Mais l'objectif est surtout de vous montrer que
+l'hooliganisme démocratique est bien moins justifié que ce que l'on pourrait
+croire, et qu'en particulier la démocratie est loin d'être un devoir moral
+déontologique inébranlable. Voire, elle peut être nuisible au bonheur du plus
+grand nombre.
+
+### Argument 1 : La dictature de la majorité
+
+À moins de vivre en anarchie, avec tous les problèmes que ça pose comme on a
+parlé dans l'épisode 16, vivre en société requiert de s'accorder sur des règles
+communes. Comme toute personne qui a déjà vécu en colocation le sait, parfois on
+peut s'en sortir avec des solutions assez consensuelles. Cependant, bien souvent
+nos préférences individuelles sont rapidement en conflit les unes avec les
+autres, et il faut un moyen de trancher. En particulier, la démocratie ne peut
+pas être la prise de décisions qui conviennent à tous, tout simplement parce
+qu'en général il n'existe aucune solution qui convienne à tous. Et comme on en a
+parlé dans le dernier axiome avec Monsieur Phi, l'inaction — c'est-à-dire la
+décision de préserver le statu quo — se tranche généralement via le principe de
+la majorité. Ça revient à dire que la démocratie c'est avant tout une dictature
+de la majorité, ou dit autrement, c'est un système de choix social où les
+minorités n'ont pas leur mot à dire.
+
+### Argument 2 : La lenteur de la prise de décision
+
+Bien sûr, on peut souvent être plus consensuel qu'à travers une décision via un
+scrutin. Sauf que trouver une solution consensuelle nécessite de donner le temps
+à chacun de s'exprimer et de l'écouter quand il parle. Quand on est trois, ça
+va. Mais quand on est 100 000 ou 60 millions, ça devient vite compliqué. Et même
+un effort partiel de décisions consensuelles peut prendre une éternité. En fait,
+même la mise en place d'un scrutin ou d'un simple doodle, parfois entre amis,
+peut prendre beaucoup de temps.
+
+D'ailleurs, il n'est pas pour rien si le 4 août 1914, au début de la Première
+Guerre mondiale, le président de la République française Raymond Poincaré
+déclare l'union sacrée pour autoriser l'autoritarisme des pouvoirs français et
+la fin des querelles démocratiques. Et il n'est pas pour rien non plus que les
+membres de Podcast Science ne se sont pas organisés en état démocratique et ont
+préféré désigner un dictateur — j'ai bien compris parfois malgré lui — pour que
+le podcast puisse tourner à plein régime.
+
+### Argument 3 : Les citoyens sont pires qu'ignorants
+
+Littéralement, la démocratie c'est le pouvoir au peuple. Or, en réalité, ce
+n'est le cas dans aucun pays démocratique. Dans tous les pays démocratiques, une
+grande partie de la population n'a pas le droit de candidater pour devenir
+représentant, ni même le droit de voter lors d'élections démocratiques. Vous
+voyez de qui je parle ? Je parle des mineurs, des moins de 18 ans. Nos
+démocraties interdisent à ces jeunes citoyens de participer à la vie politique.
+Pourquoi ? L'explication la plus avancée est que ces mineurs sont trop ignorants
+pour que leur voix doive compter. Mais à ce jeu-là, ils sont loin d'être les
+seuls. Si un jeune de 17 ans est trop ignorants pour voter, on peut légitimement
+se demander si ce ne serait pas aussi le cas de la plupart des adultes.
+
+Et oui, car je ne suis pas sûr que le taux de succès au bac de la population
+adulte soit supérieur à celui des jeunes de 17 ans. Alors vous allez me dire :
+le bac, c'est pas vraiment ce qu'il faut savoir pour bien voter. Certes. Et je
+vous répondrai que l'ensemble des connaissances nécessaires pour un vote assez
+bien informé dépasse de loin le cadre du bac, puisqu'il inclut aussi des
+connaissances de géopolitique, de philosophie politique, de philosophie morale,
+d'économie, de finance, d'environnement, d'écologie, d'énergie, de technologies,
+de santé, de biais cognitifs, de sociologie, voire de biologie, de chimie,
+d'histoire et de géographie. Bref, j'ai bien peur que la quasi-totalité d'entre
+nous soit beaucoup trop ignorante pour un vote assez bien informé.
+
+En fait, c'est pire que ça. Comme le démontre le statisticien Hans Rosling, sur
+de très nombreuses questions de société, nous sommes pires qu'ignorants : nous
+penchons du mauvais côté. Dans bien des cas, notre connaissance est strictement
+inférieure à celle d'un chimpanzé qui répondrait au hasard. La bonne réponse est
+si souvent l'opposé de ce que l'on croit. Or, la démocratie, c'est le triomphe
+des croyances les plus populaires, y compris lorsque celles-ci sont pires
+qu'ignorantes.
+
+### Argument 4 : Les citoyens sont irrationnels
+
+Imaginez que vous soyez jugé pour un crime que vous n'avez pas commis. Votre
+sort sera déterminé par un procès, et en particulier par le jury du procès. Sauf
+que, avant que le procès ne commence, les neuf jurés vous regardent droit dans
+les yeux et vous disent qu'ils ne liront pas votre dossier, qu'ils n'écouteront
+pas votre défense, que leur décision est déjà prise, qu'ils ont vu votre gueule
+et clairement vous avez une gueule de coupable. Je pense que vous trouveriez
+cette forme de justice injuste. Sauf que, selon le philosophe Jason Brennan, ce
+type de procès est une parfaite illustration de la démocratie telle qu'elle est
+pratiquée à travers le globe.
+
+Comme l'expliquent très bien Stéphane sur Hiérarchie en Slip, nos choix
+politiques sont un jugement de faciès effectué en 100 millisecondes. Alors, je
+suis sûr que vous avez tout plein d'arguments pour justifier vos positions
+politiques. Mais comme l'explique Jonathan Haidt, notre intuition prend position
+bien avant que notre raison ne se lance dans un raisonnement motivé et ne
+collecte que les arguments qui confortent notre intuition. Il ne s'agit pas
+uniquement de notre attitude vis-à-vis des politiciens : dans tout plein de
+débats de société, nous prenons position bien avant de nous intéresser aux
+détails du débat.
+
+Sauf qu'à l'instar des décisions d'un jury, les décisions démocratiques ont des
+conséquences graves. Elles correspondent à l'autorisation d'utiliser la force —
+typiquement via les forces de l'ordre — pour obliger les citoyens à se soumettre
+à la volonté démocratique, y compris lorsque cette volonté démocratique est
+irrationnelle. En démocratie, nos concitoyens ont un droit de vie et de mort sur
+nous et ne prendront pas le temps de réfléchir à notre sort.
+
+### Argument 5 : Les incitations des médias et des politiciens
+
+Dans un système démocratique, il faut l'appui du peuple. Et pour avoir
+l'attention du peuple, en pratique, il faut éviter de parler des nombres de
+Catalan ou des cycles de Milankovitch. Pour que le peuple s'intéresse à nous au
+point de penser à voter pour nous, il faut faire le buzz. Comme on en a déjà
+parlé dans l'épisode 9, pour un homme politique ou pour un média, le pire n'est
+pas de dire des bêtises. En fait, de nos jours il semble même que ce soit une
+bonne chose de dire des bêtises, puisque ça attirera l'attention populaire. Le
+pire ce n'est pas de dire des bêtises, le pire c'est d'être ignoré. Et pour ne
+pas être ignoré, le plus simple et le plus efficace c'est de créer des
+polémiques à tout va et d'exagérer l'importance de ce qui intéresse le peuple.
+
+J'entends parfois dire que la démocratie requiert des politiciens et des médias
+de qualité. Malheureusement, il me semble que la théorie des jeux prédit que la
+démocratie implique des politiciens populistes et démagogiques et des médias
+catastrophistes et pit-a-click. Les conditions d'une démocratie idéale semblent
+incompatibles avec les incitations engendrées par la démocratie.
+
+### Argument 6 : La politique crée l'hooliganisme
+
+La politique abrutit et corrompt, affirme Jason Brennan. Autrement dit, plus les
+citoyens s'intéressent à la politique, plus ils choisissent un camp et surtout
+plus ils défendent leur camp de manière irrationnelle. Cette remarque n'est rien
+d'évident a priori, et les théoriciens du XVIIIe siècle auraient largement pu en
+douter. Certains philosophes pensaient même que l'implication politique des
+citoyens les conduirait à leur épanouissement. Et cette idée persiste encore
+aujourd'hui, puisqu'il est souvent considéré comme intellectuel de s'intéresser
+à la politique et à l'actualité et d'avoir un avis sur tout débat de société.
+
+Cependant, les sciences sociales empiriques ne cessent de démontrer le
+contraire. Dans les épisodes 10 et 11, on a vu à quel point l'hooliganisme
+politique inhibe nos capacités intellectuelles, et dans l'épisode 27 on a vu
+pourquoi cet hooliganisme est une composante importante de la nature humaine.
+Selon Jonathan Haidt, la sélection naturelle a sélectionné notre désir de
+protéger irrationnellement nos semblables, car la sélection de groupes était la
+clé de la survie humaine.
+
+Cependant, parce que les politiciens doivent faire le buzz et doivent chercher à
+former une coalition majoritaire, ils vont nécessairement faire appel à
+l'hooliganisme en nous. De sorte que, dès que l'on s'intéresse à la politique,
+on est voué à être tirailé par des appels à notre hooliganisme. Ainsi
+l'implication politique semble vouée à se transformer en hooliganisme politique,
+ce qui, selon Jason Brennan, abrutit et corrompt.
+
+D'ailleurs, ce n'est pas un hasard si on évite de parler de politique lors de
+grands repas de famille ou avec des gens dont on a de bonnes chances de ne pas
+partager les opinions politiques. La politique, ça éveille l'hooliganisme en
+nous. Si on est avec des partisans dont on partage les convictions, on risque de
+subir la polarisation de groupe qui pousse à l'extrémisme. Et en présence d'avis
+contraires, on semble voué à souffrir de discussions qui sont implesantes. Alors
+que, quand on n'est pas d'accord, les avis contraires sont souvent très
+intéressants.
+
+### Argument 7 : La démocratie coûte cher en travail humain
+
+Le révolutionnaire et président américain John Adams disait : « Je dois étudier
+la politique et la guerre pour que mes enfants puissent avoir la liberté
+d'étudier les mathématiques et la philosophie. » Autrement dit, pour ce
+politicien, la politique n'est pas une fin en soi. L'idéal serait une société
+sans devoir politique, une société où chacun pourrait se préoccuper de ses
+passions et uniquement ses passions. Bon, quitte à passer pour une enflure, à
+titre personnel, me concernant, c'est aussi mon idéal de société. J'aimerais
+pouvoir passer mon temps à faire des mathématiques, avoir des discussions
+philosophiques avec des logiciens que j'adore, à lire les réflexions et les
+découvertes des grands scientifiques et des grands vulgarisateurs des sciences,
+et à me balader dans des paysages magnifiques. J'aimerais ne pas avoir à
+m'intéresser à la politique et encore moins à l'actualité, aux hommes
+politiques.
+
+Ça va peut-être déplaire à plus d'un, mais je trouve l'actualité, les faits
+divers et les polémiques entre hommes politiques incroyablement ennuyeux,
+surtout comparativement à la beauté des mathématiques. Et j'ai tendance à penser
+que beaucoup profiteraient davantage de leur vie s'ils s'extasiaient des
+merveilles des sciences et de la philosophie au lieu de continuellement
+s'informer de l'actualité politique.
+
+Mais pour beaucoup, l'exigence démocratique impose un devoir moral à chaque
+citoyen de s'informer et de se faire un avis sur des sujets de société qui
+pourtant sont souvent très loin de nos domaines d'expertise ou d'intérêt.
+L'exigence démocratique impose un devoir moral de prendre le temps et de
+dépenser l'énergie nécessaire pour décrypter l'actualité politique et pour aller
+voter. Je vais sans doute passer pour un énorme flemmard, mais la démocratie
+exige un travail de la part de chacun de ses citoyens, et il me semble que cette
+exigence de travail de la part de tous est un énorme point négatif dans le
+calcul utilitariste.
+
+### Alternatives et conclusion
+
+Il arrive souvent que de nombreux débats présupposent inconsciemment que si une
+décision est démocratique, alors il s'agit d'une bonne décision, ou encore que
+tout irait beaucoup mieux dans nos sociétés si nos sociétés étaient davantage
+démocratiques. On admet communément que la démocratie c'est bien, et on
+construit souvent nos réflexions politiques autour de ce postulat. Ce que je
+trouve très problématique, c'est que ce postulat n'est quasiment jamais remis en
+cause, alors qu'il n'a rien d'évident.
+
+Si vous n'avez jamais remis en cause les bienfaits de la démocratie, je vous
+recommande vivement deux livres qui critiquent la démocratie : celui de
+l'économiste Bryan Caplan, dont on a parlé dans l'épisode 11, et celui du
+philosophe Jason Brennan, au titre très explicite *Against Democracy*. J'ai
+trouvé ces deux livres très convaincants. En fait, ce que tout cela suggère,
+c'est qu'étant donné tout ce que l'on sait aujourd'hui de la manière dont les
+électeurs votent, l'utilitarisme est très certainement contre la démocratie, ou
+du moins contre l'hooliganisme démocratique qui consiste à dire qu'il faut plus
+de démocratie dans nos sociétés.
+
+Mais alors, quelles sont les alternatives à la démocratie ? Notre difficulté à
+penser à autre chose que la dictature montre justement que nous avons des
+œillères au moment de penser à ces questions et que nous ne nous rendons pas
+compte que, dès aujourd'hui, la quasi-totalité des prises de décisions
+collectives ne sont en fait ni démocratiques ni dictatoriales. Caplan fait
+justement remarquer que les prix et les quantités des biens que nous trouvons en
+supermarché ne sont pas du tout choisis de manière démocratique, et qu'il peut
+s'agir d'une très bonne chose, comme le montrent beaucoup d'économistes
+sensibilisés à la main invisible d'Adam Smith. Caplan insiste sur le fait que
+beaucoup de marchés fonctionnent incroyablement bien, et agir de façon
+démocratique sur ces marchés — typiquement par protectionnisme — risque de
+dérégler les marchés et de les rendre moins efficace, ce qui sur le long terme
+risque de conduire à des pénuries ou à des inflations catastrophiques.
+
+Brennan, lui, fait valoir ce qu'il appelle les épistocratie, ce qui signifie
+littéralement « le pouvoir au savoir ». Il s'agit des cas où une décision est
+prise par un ensemble d'experts plutôt que par l'ensemble de la population.
+C'est le cas, par exemple, du statut des théorèmes mathématiques. Si un théorème
+est considéré comme vrai, ce n'est pas parce que le peuple l'a voté en
+référendum et ce n'est pas non plus parce qu'un dictateur mathématique l'a
+déclaré dictatorialement : c'est parce qu'une poignée d'experts s'accordent pour
+reconnaître la validité de la preuve du théorème.
+
+En fait, ces processus sont omniprésents pour toutes sortes de sujets qui
+requièrent une expertise, que ce soit l'économie, la finance, l'énergie,
+l'écologie, les OGM, les vaccins, la technologie, la sécurité du chiffrement
+informatique et l'éducation. Le citoyen médian n'a pas son mot à dire sur la
+prochaine norme HTML, l'audit des entreprises du CAC 40, la crédibilité de la
+mécanique quantique, les priorités de la recherche en santé ou la rationalité du
+nom breton. Et c'est sans doute une bonne chose. Sur de tels sujets techniques,
+il semble que les décisions épistocratiques maximiseront bien plus le bonheur
+global que des décisions démocratiques. Et si mes calculs utilitaristes sont
+justes, il s'agira alors d'un devoir moral utilitariste d'exiger l'absence
+d'influence démocratique sur de telles questions.
+
+---
+
+Sur la sacralisation des mots : on a beaucoup parlé de travail avec Gilles dans
+l'épisode précédent, et vous avez été plusieurs à souligner qu'on n'a pas du
+tout fait la différence entre le mot « travail » et le mot « emploi ». Trop
+souvent, on a tendance à vouloir imposer notre perception de défi à d'autres
+personnes, alors que le but de mes vidéos est de communiquer des idées et pas de
+disserter sur les différentes interprétations sémantiques possibles. Cela me
+permet d'insister sur un point très négatif à mon sens des morales
+déontologiques, ou même plus généralement, du fait qu'on attribue beaucoup de
+valeur à quelque chose qui est identifié par un mot. Dire que « la démocratie
+c'est bien » ou que « le travail c'est bien » est très problématique, parce que
+souvent on va prendre ça comme le truc à défendre et on va ensuite déformer le
+sens des mots et ajuster les définitions pour pouvoir justifier nos principes
+déontologiques. Une fois qu'on a sacralisé un concept, il devient impossible de
+le critiquer et de voir ses limites, puisque à chaque fois on peut modifier la
+définition du mot pour que finalement ça marche bien.
+
+En tant qu'utilitariste, il n'y a pas à dire « ça c'est bien, ça c'est pas bien
+» : tout dépend du contexte et surtout des conséquences des différentes actions.
+Le mot « travail » regroupe tellement de choses, dont certaines ne sont pas
+forcément bénéfiques et n'apportent pas plus de bonheur au plus grand nombre.
+Dire « le travail c'est bien » quand il existe de nombreux contre-exemples est
+biaisé par le fait qu'on a modifié le sens du mot parce qu'on voulait défendre
+ce principe à la base.
+
+Plus généralement, je pense que penser selon le clivage capitaliste versus
+communiste crée un peu le hooligan en nous et nous fait prendre parti, et c'est
+une mauvaise façon de faire. Si on regarde les travaux de beaucoup d'économistes
+souvent catalogués « capitalistes », comme par exemple Milton Friedman, il y a
+des idées de redistribution des richesses. Je pense qu'il y a beaucoup
+d'économistes actuels qui considèrent de plus en plus le revenu de base, ou la
+redistribution des richesses de façon plus générale, comme étant quelque chose
+de bien, même si ces gens-là admirent aussi l'efficience des marchés et la main
+invisible d'Adam Smith. Il me semble tout à fait compatible de dire que les
+marchés marchent incroyablement bien tout en disant qu'il faut redistribuer
+aussi des richesses. Malheureusement, quand on tombe dans le clivage capitalisme
+versus communiste, on est incapable d'avoir cette vision de l'économie qui,
+pourtant, aujourd'hui me semble faire de plus en plus consensus.
+
+Plus généralement, sur les deux dernières vidéos, je trouve qu'il y a énormément
+de hooliganisme dans les commentaires. Forcément, on traite des sujets plus
+sensibles, donc c'est plus difficile de retenir le hooliganisme qui est en nous.
+Je n'ai pas censuré les commentaires dans les deux vidéos précédentes, mais on
+va remettre ça en place dans cette vidéo. Maintenant que je suis revenu de
+vacances, je vais supprimer à nouveau les commentaires qui sont trop hooligans.
+
+La prochaine fois, on va parler de Wikipédia. Wikipédia c'est un système qui
+n'est pas démocratique, qui est beaucoup plus épistocratique justement, avec un
+mécanisme qui est souvent imparfait mais qui finalement donne des résultats
+d'une qualité absolument incroyable. Si vous avez aimé cette vidéo, pensez à la
+liker et à la commenter et partager, pensez à vous abonner et à cultiver les
+épisodes. Merci aussi pour vos dons, et j'espère que vous serez là la prochaine
+fois.

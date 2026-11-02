@@ -1,0 +1,231 @@
+---
+source_url: https://www.youtube.com/watch?v=mPBC0OQKa2w
+video_title: Retour sur l'utilitarisme - Axiome 3 (extraits)
+generated_at: 2026-09-19T09:28:18.705Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 123.8
+  input_tokens: 4591
+  cached_input_tokens: 4544
+  output_tokens: 4578
+  estimated_cost_usd: 0.001301
+  finish_reason: stop
+---
+
+# Retour sur l'utilitarisme - Axiome 3 (extraits)
+
+Le troisième épisode d'Axiome vient de sortir. Pour ceux qui ne savent pas,
+c'est un podcast que je fais avec les 200 Rôles, où on discute de façon très
+libre de divers sujets qui nous intéressent, en général autour de vidéos qui
+nous ont plu. Je vous propose ici d'en montrer quelques extraits où on revient
+sur les expériences de pensée morales auquel je vous avais soumis dans une de
+mes vidéos. Je me disais que ça ferait un bon complément à ces deux épisodes. Si
+ça peut vous inciter à aller voir le podcast en entier, tant mieux, c'est fait
+pour ça.
+
+Donc, on va revenir pour finir sur les expériences de pensée morales auquel je
+vous avais soumis, et on va discuter des résultats. Je voulais vous soumettre
+trois marines supplémentaires parce qu'en abandonnant entre deux variantes, la
+variante 5 et 6, beaucoup de gens faisaient comme toi. Du coup, j'avais voulu
+ajouter quelques variantes entre ces deux-là pour avoir un passage un peu plus
+progressif.
+
+Jusqu'au niveau 5, c'était 66 %. Le niveau 5, pour vous donner une idée, on a un
+patient qui est arrivé il y a un an avec cinq blessures létales à cinq organes.
+En fait, ces cinq organes sont des organes artificiels, mais il avait besoin
+d'un an de récupération avant de se réveiller, même de sortir de l'hôpital. Non,
+en fait, il reste inconscient. Et juste 24 heures avant le moment où il peut
+sortir de l'hôpital, il y a cinq patients qui arrivent et ses cinq patients ont
+chacun besoin d'un organe pour être sauvés. Il leur faut vraiment,
+immédiatement, tout de suite. Si on leur donne cet organe-là, ils se
+réveilleront chacun le lendemain. Donc, à ce moment-là, 66 % des répondants au
+questionnaire étaient prêts à prendre les organes qui étaient dans le patient
+zéro pour les donner aux cinq autres patients et le sauver.
+
+On va te dire que tu avais pas senti que c'était si évident que ça. La nouvelle
+version, parce que j'ai rajouté, j'ai fait une nouvelle vidéo avec une variante
+où carrément, on va tuer quelqu'un. Là, c'est pas un patient qui est dans
+l'hôpital par hasard, on va vraiment chercher quelqu'un exprès pour lui prendre
+ses organes et on va... et il a quand même 20 % qui le font. Je commence à
+regarder les gens autour de moi, lesquels d'entre vous... Alors après, les
+conditions de l'expérience sont particulières parce que vraiment, j'insiste sur
+le fait que les gens sauront pas. Parce qu'ils demandent... et si c'était genre
+de truc qui se sait tout de suite, les conséquences, en fait, du point de vue
+utilitariste, elles seraient mauvaises. En fait, ce qui est certain, c'est que
+la plupart des gens, s'ils n'agissent pas de cette façon-là, c'est juste parce
+que, si ça se sait, les gens le vivent très mal. Mais c'est tout. Cas, c'est
+vraiment à pour des raisons de principe. Nous disons non, vraiment, faudrait pas
+faire des choses pareilles.
+
+Donc, toi, tu tardais par exemple quand le patient... En gros, c'est la même
+situation que le scénario 5 que j'ai racontée, mais la différence, c'est que le
+patient s'est réveillé il y a un an. Il a donné ses cinq organes, il s'est
+réveillé immédiatement, il a passé un an dehors. Et au bout d'un an, il revient
+à l'hôpital, mais par hasard, parce qu'il a un accident. Et il se trouve donc
+inconscient au moment où les patients à 1,5 arrivent. Et les seuls organes pour
+le sauver, c'est ceux du patient 0. Et là, quand même, tu disais non, c'est
+chaud. Ses cheveux... Je ne sais pas, tant le fait de sortir les organes. Je
+pense que c'est la prise de conscience ou pas. Je sais pas pourquoi, j'ai du mal
+à justifier par autant. Le dernier, c'est clairement le point de du meurtre
+commis.
+
+Alors, pour t'aider justement, je vais faire une petite fête entre 5 et 6. Reste
+que, sur la glace, qu'ils sont si... Justement, par exemple, imagine que même
+scénario que le scénario 5, sauf que le patient s'est réveillé trois minutes.
+Juste trois minutes, il a eu un état de conscience pendant trois minutes juste
+après son opération, et puis après il est retombé inconscient pendant le reste.
+Voilà, pendant l'année qui suit jusqu'au jour où les patients à 1,5 arrivent
+avec Milan. J'ai dû résister plus longtemps que la deuxième variante, la
+variante 6. Sept fois le patient, donc, juste après avoir été transplantés de
+ses cinq organes artificiels, il s'est réveillé mes trois heures. Et pendant ces
+trois heures, on lui a expliqué son état. On lui dit pas forcément qu'il est
+sauvé, on lui explique du juste voilà, et il va devoir rester un an de plus
+inconscient. Ouais, je ferai le sauve ce patient, pas le patient zéro là à ce
+moment-là. Tu vois quoi, c'est une conscience plus importante chez soi. C'est
+donc... C'est le faire. Est-ce que l'imaginent la même situation ? Juste trois
+heures, mais il aperçoit pas de sens, et injustement trois heures, il est
+conscient, il voit qu'on s'occupe de lui, mais ces actions, ce qui se passe...
+Pas, je pense que c'est vraiment ça, c'est s'il est conscient d'avoir été sauvé.
+Dire, c'est ce que tu disais dans la vidéo, c'est le fait d'avoir été conscient
+d'avoir été sauvé suffisamment. Pétrifié. On dira, c'est bon, et après, j'ai
+l'impression que c'est un meurtre. On a besoin de trahir sa confiance. Je
+pensais à une sorte de la CRPC.
+
+Je vous interromps un instant pour vous montrer un autre joli graphique que j'ai
+fait à partir du nouveau questionnaire, auquel d'ailleurs beaucoup plus de gens
+ont répondu. Alors beaucoup moins de gens ont vu la vidéo, c'est un peu étrange.
+En tout cas, vous voyez maintenant qu'avec les variantes intermédiaires, les
+premières variantes, 6, eh bien ça diminue beaucoup plus progressivement
+jusqu'au scénario 7. On retrouve presque le même chiffre, 26 % avant, elle, 27
+%, et pour le scénario 8, comme je dis, allez tout de même, plus de 20 % à
+presque 22 %. Scénario 8, où c'est clairement un meurtre.
+
+Et qu'en est-il des scénarios 9 et 10, avec les frigos à organes, me direz-vous
+? Eh bien, vous étiez en fait une large, très large majorité à considérer que
+ces scénarios étaient en fait moralement plus acceptable que les précédents.
+Donc voilà, je ne l'avais pas anticipé, vous continuez de me surprendre. C'est
+bien, et justement on poursuit notre conversation avec les en parlant de ça.
+Donc reprenons, je sais pas exactement dire, mais moi-même je change d'avis à
+fond. Comme, sais-tu Stark, j'ai pas s'ils seront prêts à aller très loin. En
+tout cas, ce qu'ils en pensaient, que les variantes 9, 10, tout ça où il s'agit
+de créer un être humain à dessein pour récolter ses organes, je trouve ça
+absolument horrible. Et que c'est vraiment ça, j'ai aucun doute sur le fait que
+je ne veux pas que de telles choses se produisent.
+
+Est-ce que tu manges de la viande synthétique ? Ah oui, complètement de la
+viande synthétique, c'est vraiment la culture cellulaire du temps, ça me
+poserait, ça me pose beaucoup moins de problèmes que de manger de la viande
+issue de l'exploitation animale. Du coup, c'est quoi qui te pose autant, Fred ?
+C'est la conscience. C'est le fait que c'est pas... Genre, si c'était juste
+faire pousser un organe synthétique vraiment, mais eux séparé de son corps, la
+halle à gérer... Quand tu me parles de viande synthétique, j'imagine la culture
+cellulaire, la culture de tissus qui aboutit à une sorte de pseudo-viande, de
+pseudo-muscles. Ça, aucun problème à dire que ça serait génial si ça pouvait
+exister, que ça mettrait fin à beaucoup de souffrance dans les abattoirs. Et il
+y a beaucoup de gens dans les commentaires à cette dernière vidéo qui disent,
+"oui, mais bon, comme il a pas de conscience, c'est pas vraiment un être
+humain". Et c'est ça qui me... occupe complètement, le côté sadique qui a fait
+le choix de ne pas le laisser devenir un être humain, juste parce que tu as mis
+de chances d'une... avec une camisole chimique dans un état d'inconscience. Mais
+c'est ton choix. C'est un côté... Marin s'est dit, maintenant, tu déshumanise
+tellement quelqu'un que finalement, c'est plus un problème de le traiter comme
+un objet. Dire, le problème, c'est d'avoir déshumanisé peut-être. Mais c'est un
+peu ça. Là, je pense que la clé du nœud du truc, c'est à quel point ces humains
+sont humains. Il compte encore dans le calcul utilitariste. Que j'aurais dit,
+enfin même si je me dis qu'il était neutre. Mais c'est pour ça, je pense que
+une... Beaucoup qui me font la remarque dure, même Thomas, de patience, on va
+lui en parler sur Twitter là-bas plus tard, que... que tout à l'heure, et qui me
+faisait la remarque. Mais dans une variante où en fait, les frigos à organes,
+comme je les appelle, cirfa hao, l'idée de créer des êtres humains juste pour
+récolter leurs organes, si on leur donnait une vie en fait pendant ces paroles,
+fait vivre pendant un temps, je sais pas, prévu, au bout de 20 ans ils vont à
+l'abattoir. Il a l'intuition et beaucoup de gens ont l'intuition que ce serait
+pire. Personnellement, j'ai l'intuition que c'est bien meilleure à tout prendre.
+Je préférais ça, si c'est pas une vie de souffrance, si c'est une vie normale.
+Sylvie d'êtres humains pour respecte davantage l'individu et sa liberté en
+faisant ça. Après, ça reste horrible. Je voudrais pas qu'on fasse, mais au choix
+entre ça et maintenir tous ces individus dans une prison chimique, j'ai aucun
+doute sur le fait que je préfère même leur donner un peu de liberté et un peu
+d'autonomie, voilà, et la possibilité de mener une vie d'êtres humains. Je pense
+que je rejoins Thomas. Tu préfères les charmes art hogan tous les matins dans
+des fermes de chevaux vargas, et tu préfères réfléchir si, d'un point de vue
+utilitariste, imagine que ça demande le même coût en ressources, le fait de
+maintenir un individu avec une camisole chimique dont cliquemobile toute sa vie,
+et le fait de lui laisser un certain un certain espace de liberté. On les fait
+vivre dans une ville entre... Juste à 20 ans, on les emmène à l'abattoir, et ça
+se passe sans souffrance, qu'on les engins moteurs, etc. Est-ce que, d'un point
+de vue utilitariste, il y a pas plus de bonheur dans la version où il y a des
+espaces de liberté quand même pour les pour les frigos à organes que dans la
+version où on les maintient dans une camisole chimique ? Est en train de me dire
+que le le le mec qui va bientôt mourir, il doit compter faillira goût du bonheur
+global, mais oui. Mais c'est aussi tu pourras dire, l'avis n'est pas le débat,
+c'est est-ce que la somme des bonheurs, c'est ce qui compte ? C'est ce que fait
+plus chez moyenne des bonheurs, en admettant que même langue que sur leur temps
+de vie leur bonheur est plutôt plus élevé que le nôtre, cac40 principes
+déontologiques.
+
+En fait, c'est ça qui est intéressant. C'est que je pense qu'il a raison pour
+laquelle les gens préfèrent le truc de la camisole chimique, c'est pas pour des
+raisons utilitaristes en fait. De l'utilitarisme ne ferait plutôt préféré une
+version ordonnée, un espace de liberté où ils peuvent peut-être. Mais
+bizarrement, ça choque davantage. Je pense aussi à nous typiquement, si on me
+disait, "bon, on va créer un clone de toi, ben voilà, il y a 20 ans, prendra ses
+organes". Il y a deux options, ça a le même coût, c'est soit on le maintient la
+camisole chimique, soit on lui donne, on fait vivre, voilà, dans un espace où il
+peut s'épanouir. Je voudrais qu'on le fasse pas d'abord, ni l'un ni l'autre. Je
+préférerais qu'aucun ni l'autre ne soit fait. Mais s'il faut choisir les deux
+plus jeunes, façon au moins d'être un peu plus sympa quoi, avec cet individu en
+lui donnant la possibilité de voir un peu de liberté et un peu de vie quand
+même. Je pense que le il y a une notion de changement qui est qui qui est
+importante quelque part, parce qu'on a l'impression que enfin celui qui a grandi
+dans une ferme, lorsqu'il meurt, il ça change pas grand chose que... Alors que
+celui qui a vécu heureux jusqu'à 20 ans, lorsqu'il meurt, ça change quelque
+chose, que ce qu'ils font pas donner aux gens. Le voient, l'intuition c'est
+qu'il y a l'idée qu'on lui cause un tort plus grande parce que justement il
+avait davantage et que des habitants, il faudrait minimiser le tort. Et en un
+certain sens, en accordant strictement rien à ces individus, on minimise les
+torts parce que y a pas un moment on les prive de quelque chose. Enfin, en 1
+106, mais on le perçoit moins ce tort parce qu'on les prive pour ainsi dire dès
+le départ. Y a pas une sorte de situation de référence qui correspondrait à leur
+état normal. Vous avez à l'idée que... Je pense que c'est vraiment ça en fait,
+c'est l'histoire de référence. Une vidéo de son citoyen sur Wii, en référençant
+les anciens billets qui fait un peu de cet ordre-là. Je sais pas si c'est une
+pop l'essai anglais, mais ouais, c'est je pense qu'on est utilement on se fixe
+une référence. Et du coup, je pense que c'est pareil pour le le cas le niveau 6
+plus l'eau. Six mois lorsque la personne prend conscience de deux d'être sauvé,
+l'impression que c'est la nouvelle référence et que tout ce qui vient après est
+jugé par rapport à la Grèce. À ses yeux, lorsqu'il est réveillé trois minutes
+seulement, ça suffit pas pour que cela devienne la nouvelle référence. Après,
+justement, c'est cette façon d'analyser les choses en terme de thor vis-à-vis
+d'une certaine situation de référence. C'est pas militariste, non ? C'est
+clairement pas utile. Donc, parce que le utilitaire s'intéressait plus à la
+quantité de bonheur, bon, c'est dire. Et va lancer ses pas. Et c'est triste, je
+réfléchis rareté des marines pour exploiter ce truc-là de ce sondage, il y a des
+trucs à faire.
+
+Voilà pour ces petits extraits d'action. C'est vraiment juste d'extraire parce
+que la discussion totale dure plus d'une demi-heure dans le podcast en fait.
+Donc voilà, si vous voulez aller encore plus loin, vous pouvez aller voir le
+podcast. Et j'aurais juste envie de poser une dernière question à ceux, très
+nombreux dans les commentaires, qui ne voient vraiment aucun problème moral dans
+les scénarios 9 et 10, parce qu'au fond, je considère que les frigos à organes,
+comme je dis, ne sont vraiment pas des êtres humains, c'est juste de la culture
+cellulaire en quelque sorte. Est-ce que du coup, vous seriez prêt à manger ? Au
+fond, ce serait un peu gâchée de n'utiliser que les organes internes de ces
+frigos org. Pourquoi pas faire des bons steaks avec du muscle ? On imagine qu'en
+plus, ce soit vraiment très très bon à la fois gustativement et pour la santé.
+Serment l'aliment parfait. Leur peut-être que c'est le cas. Si vraiment vous
+pensez que c'est pas des êtres humains, c'est pas du cannibalisme. À ce
+moment-là, en fait, vous devriez pas être choqué, un petit tartare. Ça vous dit
+? Si vous voulez répondre, je vous mets un petit sondage rapide. La amusez-vous
+à répondre, vous remarquez, je viens un peu accro sondages. Mais choc, c'est une
+façon sympa d'interagir à part ça. Merci d'avoir regardé notre vidéo, allez voir
+notre chaîne Axiome, et puis allez voir la chaîne de l'Est évidemment parce que
+c'est trop bien. Et je le remercie chaleureusement de s'être prêté au jeu de
+toutes ces expériences de pensée. Je suis content d'avoir débusqué son des
+ontologies sme, facebook, twitter, pouces bleus, abonnement, petite cloche. Vous
+connaissez tout ça, est typique aussi bien sûr, et un grand grand merci aux
+types heures dont le soutien, je ne le dirai jamais assez, est crucial pour que
+je puisse continuer à produire des vidéos. Portez-vous bien, fait le bonheur
+général dans la mesure du possible, sauf 6,5 lutte des fermes et humains dans ce
+cas, dit.

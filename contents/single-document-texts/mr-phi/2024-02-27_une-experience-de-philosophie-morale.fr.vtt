@@ -1,0 +1,2208 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.080 --> 00:00:03.640
+Cette vidéo a été créée en partenariat avec&nbsp;
+Echosciences Sud Provence-Alpes-Côte d'Azur&nbsp;&nbsp;
+
+00:00:03.640 --> 00:00:08.040
+et propulsée par Play Azur Prod, et le script&nbsp;
+a été relu et discuté avec Nicolas Gravel,&nbsp;&nbsp;
+
+00:00:08.040 --> 00:00:11.440
+enseignant chercheur à l'AMSE, un&nbsp;
+laboratoire du CNRS et d'Aix-Marseille&nbsp;&nbsp;
+
+00:00:11.440 --> 00:00:14.760
+Université. Je vous en dirai davantage&nbsp;
+là-dessus un peu plus loin dans la vidéo.
+
+00:00:14.760 --> 00:00:19.920
+Imaginez la situation suivante. Vous participez à&nbsp;
+un jeu avec 100 autres joueurs. Chaque joueur est&nbsp;&nbsp;
+
+00:00:19.920 --> 00:00:24.040
+isolé des cent autres dans une petite&nbsp;
+cabine, une sorte d'isoloir disons,&nbsp;&nbsp;
+
+00:00:24.040 --> 00:00:28.440
+où se trouvent deux boutons : le bouton&nbsp;
+"Pour MOI" et le bouton "Pour les AUTRES".
+
+00:00:28.440 --> 00:00:31.880
+Chaque joueur va devoir appuyer une&nbsp;
+fois sur un seul des deux boutons,&nbsp;&nbsp;
+
+00:00:31.880 --> 00:00:34.000
+et les règles suivantes leur sont expliquées.
+
+00:00:34.000 --> 00:00:38.000
+Un joueur qui appuie sur le bouton&nbsp;
+"Pour MOI" gagne 250€ pour lui-même.
+
+00:00:38.000 --> 00:00:39.600
+- Wow, c'est super sympa !
+
+00:00:39.600 --> 00:00:41.400
+C'est super sympa, pour soi, en tout cas.
+
+00:00:41.400 --> 00:00:42.960
+Un joueur qui appuie sur le bouton "Pour&nbsp;&nbsp;
+
+00:00:42.960 --> 00:00:46.760
+les AUTRES" fait gagner 10€ à&nbsp;
+chacun des 100 autres joueurs.
+
+00:00:46.760 --> 00:00:47.800
+- C'est super sympa !
+
+00:00:47.800 --> 00:00:49.960
+C'est super sympa, pour les autres cette fois,&nbsp;&nbsp;
+
+00:00:49.960 --> 00:00:53.400
+vu que par contre en appuyant sur le bouton&nbsp;
+on ne gagne rien pour soi-même. Donc voilà,&nbsp;&nbsp;
+
+00:00:53.400 --> 00:00:56.160
+il va falloir faire un choix entre&nbsp;
+"Pour moi" et "Pour les autres".
+
+00:00:56.160 --> 00:00:58.440
+- Moi je pense la question elle est vite répondue.
+
+00:00:58.440 --> 00:01:01.560
+Alors pour être sûr que vous compreniez bien&nbsp;
+le jeu, on va commencer par répondre à quelques&nbsp;&nbsp;
+
+00:01:01.560 --> 00:01:04.760
+questions qui portent sur différents cas.&nbsp;
+(Je vous suggère de faire arrêt sur image&nbsp;&nbsp;
+
+00:01:04.760 --> 00:01:07.080
+maintenant si vous voulez y répondre&nbsp;
+par vous-même avant d'aller plus loin.&nbsp;&nbsp;
+
+00:01:07.080 --> 00:01:10.120
+C'est un bon exercice. Mais sinon, tant&nbsp;
+pis, je vais vous donner les réponses.)
+
+00:01:10.120 --> 00:01:14.400
+Premier cas : Tous les joueurs appuient sur&nbsp;
+"Pour moi". Le résultat est simple : chaque&nbsp;&nbsp;
+
+00:01:14.400 --> 00:01:18.120
+joueur repartira juste avec les&nbsp;
+250€ qu'il a gagné pour lui-même.
+
+00:01:18.120 --> 00:01:21.720
+Deuxième cas : tous les joueurs appuient&nbsp;
+sur "Pour les autres". Dans ce cas,&nbsp;&nbsp;
+
+00:01:21.720 --> 00:01:25.600
+chaque joueur reçoit cent fois 10€ de&nbsp;
+la part de tous les autres joueurs,&nbsp;&nbsp;
+
+00:01:25.600 --> 00:01:29.560
+soit 1000€ en tout. C'est quatre&nbsp;
+fois plus que dans le premier cas !
+
+00:01:29.560 --> 00:01:33.160
+Troisième cas : vous êtes le seul à appuyer&nbsp;
+sur "Pour les autres" tandis que tous les&nbsp;&nbsp;
+
+00:01:33.160 --> 00:01:37.400
+autres joueurs ont appuyé sur "Pour moi". Dans&nbsp;
+ce cas, pas de chance, vous repartez du jeu avec&nbsp;&nbsp;
+
+00:01:37.400 --> 00:01:40.560
+rien du tout, puisque vous n'avez rien gagné&nbsp;
+pour vous-même et que les autres ne vous ont&nbsp;&nbsp;
+
+00:01:40.560 --> 00:01:45.560
+rien fait gagner non plus. Tandis que chaque&nbsp;
+autre joueur repart avec 250 euros + les 10&nbsp;&nbsp;
+
+00:01:45.560 --> 00:01:50.200
+euros que vous lui avez fait gagner en appuyant&nbsp;
+sur "Pour les autres", soit 260 euros en tout.
+
+00:01:50.200 --> 00:01:54.520
+Quatrième cas, c'est le contraire : vous êtes&nbsp;
+le seul à appuyer sur "Pour moi" quand tous&nbsp;&nbsp;
+
+00:01:54.520 --> 00:01:59.040
+les autres joueurs ont appuyé sur "Pour les&nbsp;
+autres". Alors vous gagnez non seulement 250€&nbsp;&nbsp;
+
+00:01:59.040 --> 00:02:04.080
+par vous-même, mais aussi les 1000€ par&nbsp;
+les autres, soit 1250€ en tout (et c'est&nbsp;&nbsp;
+
+00:02:04.080 --> 00:02:07.280
+le maximum qu'un joueur particulier puisse&nbsp;
+remporter à ce jeu, bravo). Par ailleurs,&nbsp;&nbsp;
+
+00:02:07.280 --> 00:02:11.520
+les autres joueurs ne sont pas non plus à&nbsp;
+plaindre puisque chacun gagne encore 990 euros.
+
+00:02:11.520 --> 00:02:14.480
+Voilà ! Il pourrait y avoir évidemment toutes&nbsp;
+sortes de cas intermédiaires mais une fois&nbsp;&nbsp;
+
+00:02:14.480 --> 00:02:19.360
+qu'on a vu ces quatre cas limite on a, je crois,&nbsp;
+une bonne idée des propriétés de ce petit jeu.
+
+00:02:19.360 --> 00:02:23.880
+À mon grand regret, j'ai pas le budget de faire&nbsp;
+tout ça en vrai (je suis pas MrBeast, je ne suis&nbsp;&nbsp;
+
+00:02:23.880 --> 00:02:29.280
+que Mr Phi…), mais je peux au moins faire passer&nbsp;
+un questionnaire pour tester le cas "en théorie",&nbsp;&nbsp;
+
+00:02:29.280 --> 00:02:32.600
+ce qui est mieux que rien. Vous savez à quel&nbsp;
+point j'aime les questionnaires. Et c'est donc ce&nbsp;&nbsp;
+
+00:02:32.600 --> 00:02:37.160
+que j'ai fait, et vous avez été plus de 10 000 à&nbsp;
+répondre, merci à vous, ça fait un bel effectif !
+
+00:02:37.160 --> 00:02:40.200
+La question que je posais dans la version de&nbsp;
+base du questionnaire était formulée comme&nbsp;&nbsp;
+
+00:02:40.200 --> 00:02:44.280
+ceci : "Les joueurs ne se connaissent pas,&nbsp;
+ne communiquent pas, jouent simultanément,&nbsp;&nbsp;
+
+00:02:44.280 --> 00:02:47.960
+et les choix resteront secrets : chaque&nbsp;
+joueur retirera ses gains à la fin sans&nbsp;&nbsp;
+
+00:02:47.960 --> 00:02:52.840
+que les autres puissent savoir combien chacun a&nbsp;
+gagné. C'est le moment de jouer réellement. Sur&nbsp;&nbsp;
+
+00:02:52.840 --> 00:02:57.360
+lequel des deux boutons appuyez-vous ? (Rappel :&nbsp;
+le questionnaire est anonyme, on ne vous juge pas&nbsp;&nbsp;
+
+00:02:57.360 --> 00:03:01.480
+sur la question de savoir quelle est la "bonne"&nbsp;
+action à faire, essayez juste de prédire, de&nbsp;&nbsp;
+
+00:03:01.480 --> 00:03:06.460
+façon aussi honnête et fiable que possible, ce que&nbsp;
+réellement vous *feriez* dans cette situation.")
+
+00:03:06.460 --> 00:03:08.480
+- Donc là, ça c'est ce qu'on&nbsp;
+appellerait votre choix.
+
+00:03:08.480 --> 00:03:11.600
+Notez, si vous avez passé le questionnaire,&nbsp;
+vous n'avez peut-être pas eu exactement cette&nbsp;&nbsp;
+
+00:03:11.600 --> 00:03:14.480
+question parce que vous avez pu tomber&nbsp;
+sur une des trois variantes dont je&nbsp;&nbsp;
+
+00:03:14.480 --> 00:03:17.320
+vais parler plus tard. Ça c'est en&nbsp;
+quelque sorte le scénario de base.
+
+00:03:17.320 --> 00:03:21.240
+Et donc, à votre avis, quels ont été les&nbsp;
+résultats pour ce scénario de base ?…
+
+00:03:21.240 --> 00:03:25.360
+Eh bien… je vais pas vous les révéler tout de&nbsp;
+suite. Eh oui, je suis cruel. C'est comme ça.&nbsp;&nbsp;
+
+00:03:25.360 --> 00:03:29.040
+D'abord, je voudrais répondre à une question que&nbsp;
+vous pourriez bien vous poser à ce stade : où&nbsp;&nbsp;
+
+00:03:29.040 --> 00:03:32.920
+diable veux-je en venir avec ce petit jeu ?&nbsp;
+Qu'est-ce qui peut nous intéresser là-dedans ?
+
+00:03:32.920 --> 00:03:35.600
+Alors les plus sagaces d'entre vous auront&nbsp;
+sans doute remarqué qu'il s'agit d'une sorte&nbsp;&nbsp;
+
+00:03:35.600 --> 00:03:40.000
+de dilemme du prisonnier à 101 joueurs. Et les&nbsp;
+autres se poseront la question : qu'est-ce qu'un&nbsp;&nbsp;
+
+00:03:40.000 --> 00:03:43.680
+dilemme du prisonnier au fait ? Eh ben vu&nbsp;
+que j'en ai déjà discuté dans cette vidéo&nbsp;&nbsp;
+
+00:03:43.680 --> 00:03:48.480
+je vais tout bonnement m'auto-citer, si vous me le&nbsp;
+permettez (et vous me le permettez hein, si si).
+
+00:03:48.480 --> 00:03:53.760
+C'est donc un jeu entre deux agents qui font face&nbsp;
+simultanément à un même choix entre deux options&nbsp;&nbsp;
+
+00:03:53.760 --> 00:03:58.400
+qu'on peut appeler "coopérer" et "trahir". Si les&nbsp;
+deux coopèent, ils se partagent un certain gain,&nbsp;&nbsp;
+
+00:03:58.400 --> 00:04:02.880
+disons 3 chacun. Si les deux se trahissent,&nbsp;
+ils se partagent un gain nettement plus petit,&nbsp;&nbsp;
+
+00:04:02.880 --> 00:04:08.200
+disons 1 chacun. Et si l'un trahit et l'autre&nbsp;
+coopère, celui qui a trahi obtient un gain plus&nbsp;&nbsp;
+
+00:04:08.200 --> 00:04:13.520
+grand que s'il avait juste coopéré, donc disons&nbsp;
+5 au lieu de 3; et celui qui a coopéré obtient&nbsp;&nbsp;
+
+00:04:13.520 --> 00:04:18.480
+une récompense plus petite que s'il avait&nbsp;
+lui aussi trahi, donc disons 0 au lieu de 1.
+
+00:04:18.480 --> 00:04:23.360
+On peut bien sûr changer un peu les valeurs de&nbsp;
+tout ça mais l'idée importante reste que la case&nbsp;&nbsp;
+
+00:04:23.360 --> 00:04:28.440
+de la matrice de gain où le plus de points sont&nbsp;
+distribués c'est celle où les deux coopèrent: donc&nbsp;&nbsp;
+
+00:04:28.440 --> 00:04:32.760
+on peut dire que c'est collectivement optimale.&nbsp;
+Celle où le moins de points sont distribués&nbsp;&nbsp;
+
+00:04:32.760 --> 00:04:38.000
+est celle où les deux se trahissent: c'est&nbsp;
+collectivement le pire. Mais pour chaque joueur,&nbsp;&nbsp;
+
+00:04:38.000 --> 00:04:42.560
+quelle que soit la stratégie de l'autre, trahir&nbsp;
+améliore toujours son propre gain: c'est ce qu'on&nbsp;&nbsp;
+
+00:04:42.560 --> 00:04:47.440
+appelle une stratégie dominante, ce qui revient&nbsp;
+en quelque sorte à dire que c'est individuellement&nbsp;&nbsp;
+
+00:04:47.440 --> 00:04:52.440
+optimal. Et donc si les deux joueurs choisissent&nbsp;
+cette stratégie individuellement optimale, ils&nbsp;&nbsp;
+
+00:04:52.440 --> 00:04:57.400
+aboutissent à un résultat qui est collectivement&nbsp;
+le pire, et c'est un peu triste pour eux.
+
+00:04:57.400 --> 00:05:00.520
+Alors, le jeu qui nous occupe dans cette vidéo&nbsp;
+est un peu différent déjà parce qu'il y a cent&nbsp;&nbsp;
+
+00:05:00.520 --> 00:05:04.120
+joueurs mais on retrouve effectivement&nbsp;
+les mêmes propriétés : si votre préférence&nbsp;&nbsp;
+
+00:05:04.120 --> 00:05:08.360
+c'est de maximiser vos gains vous devriez&nbsp;
+préférer appuyer sur le bouton "pour moi",&nbsp;&nbsp;
+
+00:05:08.360 --> 00:05:11.560
+puisque ça vous fera toujours gagner&nbsp;
+exactement 250 € de plus que si vous&nbsp;&nbsp;
+
+00:05:11.560 --> 00:05:15.640
+aviez appuyé sur l'autre bouton, peu importe&nbsp;
+les choix des autres joueurs. Autrement dit,&nbsp;&nbsp;
+
+00:05:15.640 --> 00:05:18.520
+le bouton "pour moi" c'est ce qu'on appelle&nbsp;
+en théorie des jeux une stratégie dominante&nbsp;&nbsp;
+
+00:05:18.520 --> 00:05:21.360
+(c'est-à-dire une stratégie qui aboutit&nbsp;
+à un meilleur résultat quel que soit le&nbsp;&nbsp;
+
+00:05:21.360 --> 00:05:25.800
+choix des autres joueurs), et à ce titre ce&nbsp;
+serait le choix d'un agent dit "rationnel",&nbsp;&nbsp;
+
+00:05:25.800 --> 00:05:29.760
+"rationnel" au sens usuel du terme en théorie&nbsp;
+des jeux et en économie, c'est-à-dire en gros un&nbsp;&nbsp;
+
+00:05:29.760 --> 00:05:34.120
+agent qui vise à maximiser la satisfaction de ses&nbsp;
+préférences étant données les informations dont&nbsp;&nbsp;
+
+00:05:34.120 --> 00:05:38.240
+il dispose (donc en supposant donc ici que les&nbsp;
+agents préfèrent avoir 250€ de plus, admettons).
+
+00:05:38.240 --> 00:05:42.200
+- Ça s'appelle une décision qui est un no-brainer.
+
+00:05:42.200 --> 00:05:46.800
+Mais s'il n'y a QUE des agents rationnels qui&nbsp;
+font ce choix rationnel du bouton "Pour moi",&nbsp;&nbsp;
+
+00:05:46.800 --> 00:05:52.960
+on aboutit à la situation où chacun gagne 250€,&nbsp;
+situation un peu nulle, sub-optimale dirons-nous,&nbsp;&nbsp;
+
+00:05:52.960 --> 00:05:57.440
+et même on peut dire que c'est le *pire* résultat&nbsp;
+au sens où c'est la situation où le moins d'argent&nbsp;&nbsp;
+
+00:05:57.440 --> 00:06:01.480
+est distribué en fin de compte. Pour autant, dans&nbsp;
+cette situation, chaque agent pourrait se dire:&nbsp;&nbsp;
+
+00:06:01.480 --> 00:06:05.920
+"Eh bah, ok c'est pas terrible mais ça aurait pu&nbsp;
+être pire pour moi: si j'avais eu la mauvaise idée&nbsp;&nbsp;
+
+00:06:05.920 --> 00:06:10.440
+de choisir le bouton "pour les autres", je serais&nbsp;
+juste reparti avec 0€ en filant en plus 10€ de&nbsp;&nbsp;
+
+00:06:10.440 --> 00:06:14.120
+bonus aux cent autres c***ards, donc quelque part&nbsp;
+j'ai au moins évité ça. Pas de regret, donc."
+
+00:06:14.120 --> 00:06:16.320
+- No-brainer comme décision. Vraiment.
+
+00:06:16.320 --> 00:06:19.560
+Pas de regret, mais en même temps un agent&nbsp;
+rationnel devrait aussi reconnaître qu'il aurait&nbsp;&nbsp;
+
+00:06:19.560 --> 00:06:23.640
+été préférable d'aboutir à la situation où chacun&nbsp;
+reçoit 1000€ plutôt qu'à cette situation où chacun&nbsp;&nbsp;
+
+00:06:23.640 --> 00:06:28.360
+n'en reçoit que 250: bah oui, 1000€ ça satisferait&nbsp;
+bien davantage les préférences de tous ces agents&nbsp;&nbsp;
+
+00:06:28.360 --> 00:06:32.160
+rationnels. Ils sont tous d'accord là-dessus. Mais&nbsp;
+pour qu'une telle situation ait une chance de se&nbsp;&nbsp;
+
+00:06:32.160 --> 00:06:36.200
+produire, il aurait fallu justement qu'il n'y&nbsp;
+ait aucun agent rationnel parmi les participants,&nbsp;&nbsp;
+
+00:06:36.200 --> 00:06:39.960
+puisqu'il aurait fallu que tous les participants&nbsp;
+appuient sur "Pour les autres", ce qui n'est pas&nbsp;&nbsp;
+
+00:06:39.960 --> 00:06:44.360
+"rationnel" au sens où on l'a défini… C'est ça qui&nbsp;
+est paradoxal et intéressant dans les situations&nbsp;&nbsp;
+
+00:06:44.360 --> 00:06:48.960
+du type dilemme du prisonnier. C'est un type de&nbsp;
+cas où, la rationalité des agents semble faire&nbsp;&nbsp;
+
+00:06:48.960 --> 00:06:53.240
+obstacle à la satisfaction de leurs préférences&nbsp;
+(alors même qu'on définit "être rationnel" comme&nbsp;&nbsp;
+
+00:06:53.240 --> 00:06:58.094
+le fait de maximiser la satisfaction de ses&nbsp;
+préférences, justement… C'est dommage !)
+
+00:06:58.094 --> 00:06:58.120
+- That doesn't make sense.
+
+00:06:58.120 --> 00:07:02.680
+Ce concept d'agent rationnel (en gros maximisateur&nbsp;
+de préférences étant données les information dont&nbsp;&nbsp;
+
+00:07:02.680 --> 00:07:06.720
+il dispose), on l'utilise beaucoup pour modéliser&nbsp;
+le comportement d'agents dans des modèles en&nbsp;&nbsp;
+
+00:07:06.720 --> 00:07:11.280
+théorie des jeux ou en économie. Evidemment c'est&nbsp;
+une giga-simplification, mais c'est l'intérêt du&nbsp;&nbsp;
+
+00:07:11.280 --> 00:07:15.360
+truc justement: si on cherche une hypothèse qui&nbsp;
+approxime pas trop mal le comportement de vrais&nbsp;&nbsp;
+
+00:07:15.360 --> 00:07:19.600
+agents et qui en même temps reste aussi simple&nbsp;
+que possible à modéliser, l'agent rationnel est&nbsp;&nbsp;
+
+00:07:19.600 --> 00:07:23.160
+souvent un bon compromis, même s'il faut en même&nbsp;
+temps en reconnaître les limites puisqu'on est&nbsp;&nbsp;
+
+00:07:23.160 --> 00:07:26.845
+bien plus complexe que ça et on se comporte pas&nbsp;
+toujours en agents rationnels, très loin de là.
+
+00:07:27.082 --> 00:07:28.810
+- Bah bien sûr, bande de cons.
+
+00:07:29.560 --> 00:07:32.800
+Typiquement, dans la situation du jeu que je&nbsp;
+vous ai décrite, à quel point pensez-vous que&nbsp;&nbsp;
+
+00:07:32.800 --> 00:07:36.760
+les gens vont se comporter en agent rationnel&nbsp;
+et donc appuyer sur le bouton "Pour moi" ?
+
+00:07:36.760 --> 00:07:40.480
+Eh bah, je sais ce que vous en pensez, vous, parce&nbsp;
+que ça faisait aussi partie du questionnaire. En&nbsp;&nbsp;
+
+00:07:40.480 --> 00:07:43.840
+effet, après m'avoir donné votre réponse quant à&nbsp;
+ce que, vous, vous feriez dans cette situation,&nbsp;&nbsp;
+
+00:07:43.840 --> 00:07:47.360
+je vous demandais aussi de prédire la proportion&nbsp;
+de participants au questionnaire qui, selon vous,&nbsp;&nbsp;
+
+00:07:47.360 --> 00:07:51.280
+auront appuyé sur le bouton "pour moi" ou&nbsp;
+"pour les autres", en somme comment vous vous&nbsp;&nbsp;
+
+00:07:51.280 --> 00:07:55.960
+représentez le comportement des autres joueurs,&nbsp;
+et les résultats sont… très très partagés.
+
+00:07:55.960 --> 00:07:59.480
+Sur ce graphique chaque paire de points rouge&nbsp;
+et vert représente les deux prédictions d'un&nbsp;&nbsp;
+
+00:07:59.480 --> 00:08:03.200
+participant, sa prédiction du pourcentage de&nbsp;
+réponses "Pour moi" et celle du pourcentage&nbsp;&nbsp;
+
+00:08:03.200 --> 00:08:05.960
+de réponse "Pour les autres" (et notez que&nbsp;
+j'ai gardé seulement ceux dont la somme des&nbsp;&nbsp;
+
+00:08:05.960 --> 00:08:08.680
+deux prédictions faisaient à peu près 100,&nbsp;
+histoire d'être sûr de ne garder que les&nbsp;&nbsp;
+
+00:08:08.680 --> 00:08:11.720
+gens qui avaient bien compris la question).&nbsp;
+Vous voyez que ça fait des marche d'escalier&nbsp;&nbsp;
+
+00:08:11.720 --> 00:08:14.440
+parce que la plupart des gens font des&nbsp;
+prédictions qui sont des nombres ronds,&nbsp;&nbsp;
+
+00:08:14.440 --> 00:08:17.200
+et donc l'idée c'est que plus la marche&nbsp;
+est longue plus il y a de participants&nbsp;&nbsp;
+
+00:08:17.200 --> 00:08:20.880
+qui ont fait la prédiction correspondante. Par&nbsp;
+exemple cette marche correspond aux participants&nbsp;&nbsp;
+
+00:08:20.880 --> 00:08:24.680
+qui prédisent que les réponses "Pour moi" et&nbsp;
+"Pour les autres" se répartiraient à 50/50.
+
+00:08:24.680 --> 00:08:28.160
+Et vous pouvez observer qu'à peu près toutes&nbsp;
+les marches sont d'une longueur respectable,&nbsp;&nbsp;
+
+00:08:28.160 --> 00:08:32.680
+c'est-à-dire que les prédictions se répartissent&nbsp;
+plutôt uniformément sur l'ensemble des valeurs,&nbsp;&nbsp;
+
+00:08:32.680 --> 00:08:36.720
+c'est très très dispersé. Ca penche quand même&nbsp;
+plutôt du côté "Pour moi", on voit que la médiane&nbsp;&nbsp;
+
+00:08:36.720 --> 00:08:40.240
+tombe ici, donc ça veut dire que plus de la moitié&nbsp;
+des répondants ont fait une prédiction d'au moins&nbsp;&nbsp;
+
+00:08:40.240 --> 00:08:45.840
+60% quant au pourcentage de réponse "pour moi",&nbsp;
+et la moyenne des prédictions est de 54,2%,&nbsp;&nbsp;
+
+00:08:46.520 --> 00:08:50.560
+donc un léger avantage pour la prédiction de&nbsp;
+réponses "Pour moi", mais surtout ce qui est&nbsp;&nbsp;
+
+00:08:50.560 --> 00:08:55.440
+frappant c'est cette très très grande dispersion&nbsp;
+des prédictions. On n'est pas du tout d'accord.
+
+00:08:56.160 --> 00:08:59.720
+Donc en moyenne, vous vous attendez à&nbsp;
+ce qu'environ la moitié des gens ne se&nbsp;&nbsp;
+
+00:08:59.720 --> 00:09:03.080
+comportent pas en agents rationnel dans&nbsp;
+cette situation. Pourquoi ne serait-on&nbsp;&nbsp;
+
+00:09:03.080 --> 00:09:05.840
+pas rationnel ici ? Alors on pourrait&nbsp;
+invoquer plein de raisons mais je vais&nbsp;&nbsp;
+
+00:09:05.840 --> 00:09:08.720
+développer seulement celle qui me semble&nbsp;
+philosophiquement la plus intéressante.
+
+00:09:08.720 --> 00:09:11.640
+Si ma seule préférence c'est de gagner&nbsp;
+un maximum d'argent dans le jeu,&nbsp;&nbsp;
+
+00:09:11.640 --> 00:09:13.960
+alors il semble logique, rationnel,&nbsp;&nbsp;
+
+00:09:13.960 --> 00:09:18.360
+d'appuyer sur le bouton "Pour moi". Le jeu est&nbsp;
+conçu pour avoir cette propriété, précisément.
+
+00:09:18.360 --> 00:09:19.840
+- No-brainer, vraiment.
+
+00:09:19.840 --> 00:09:22.680
+Et notez que la converse de cette&nbsp;
+affirmation est également vrai:&nbsp;&nbsp;
+
+00:09:22.680 --> 00:09:26.560
+si je fais le choix d'appuyer sur le bouton&nbsp;
+"Pour moi", quelle autre raison je peux avoir&nbsp;&nbsp;
+
+00:09:26.560 --> 00:09:31.080
+sinon celle de gagner le plus d'argent possible&nbsp;
+dans le jeu. C'est vraiment la seule raison&nbsp;&nbsp;
+
+00:09:31.080 --> 00:09:34.600
+valable de faire ce choix. Autrement&nbsp;
+dit, appuyer sur le bouton "pour moi",&nbsp;&nbsp;
+
+00:09:34.600 --> 00:09:38.320
+ça révèle que, pour moi, ce qui importe&nbsp;
+avant tout, c'est ma préférence de...
+
+00:09:38.320 --> 00:09:40.640
+- commencer très rapidement&nbsp;
+à faire de l'argent avec moi.
+
+00:09:40.640 --> 00:09:43.720
+Et là vous aurez envie de me dire :&nbsp;
+d'accord, pourquoi pas, mais... et alors ?
+
+00:09:43.720 --> 00:09:46.920
+Et alors, demandons-nous: qu'est-ce qui&nbsp;
+a le plus d'importance pour déterminer à&nbsp;&nbsp;
+
+00:09:46.920 --> 00:09:51.440
+quel point cette préférence "gagner un maximum&nbsp;
+d'argent dans le jeu" sera satisfaite ? En fait,&nbsp;&nbsp;
+
+00:09:51.440 --> 00:09:54.760
+et c'est toute l'étrangeté de ce&nbsp;
+jeu, ce n'est pas mon propre choix:&nbsp;&nbsp;
+
+00:09:54.760 --> 00:09:57.880
+c'est le choix des autres. Parce que oui,&nbsp;
+selon ce que les autres vont choisir,&nbsp;&nbsp;
+
+00:09:57.880 --> 00:10:04.080
+je peux repartir avec seulement 250€, ou avec&nbsp;
+1250€, soit cinq fois plus (et on peut supposer,&nbsp;&nbsp;
+
+00:10:04.080 --> 00:10:08.200
+pour simplifier les choses, qu'avec 1250€ ma&nbsp;
+préférence "gagner de l'argent dans le jeu"&nbsp;&nbsp;
+
+00:10:08.200 --> 00:10:13.320
+est cinq fois plus satisfaite qu'avec 250€, ou&nbsp;
+en tout cas elle est beaucoup plus satisfaite).
+
+00:10:13.320 --> 00:10:16.240
+Donc les raisons qui font que je&nbsp;
+tiens à choisir le bouton "pour moi",&nbsp;&nbsp;
+
+00:10:16.240 --> 00:10:20.160
+elles font nécessairement aussi que&nbsp;
+je tiens *encore plus* à ce que les&nbsp;&nbsp;
+
+00:10:20.160 --> 00:10:24.320
+autres choisissent le bouton "Pour les&nbsp;
+autres", et donc pas le bouton "pour moi".
+
+00:10:24.320 --> 00:10:26.640
+(Et ici j'ai fait une petite note&nbsp;
+pour clarifier ce point crucial,&nbsp;&nbsp;
+
+00:10:26.640 --> 00:10:30.480
+n'hésitez pas à faire arrêt sur image pour la lire&nbsp;
+si vous n'êtes pas tout à fait d'accord avec ça.)
+
+00:10:30.480 --> 00:10:35.200
+Or, je sais que les autres font face exactement&nbsp;
+au même choix que moi dans la même situation.&nbsp;&nbsp;
+
+00:10:35.200 --> 00:10:39.560
+Et donc, en somme, quand je choisis le bouton&nbsp;
+"Pour moi", je sais que ma raison de faire ce&nbsp;&nbsp;
+
+00:10:39.560 --> 00:10:45.080
+choix est aussi une raison de vouloir que les&nbsp;
+autres, face au même choix, ne suivent pas la&nbsp;&nbsp;
+
+00:10:45.080 --> 00:10:50.320
+même raison que moi, autrement dit je ne peux&nbsp;
+pas vouloir *universaliser* ma raison d'agir.&nbsp;&nbsp;
+
+00:10:50.320 --> 00:10:55.160
+Le fait que je veuille agir ainsi me fait aussi&nbsp;
+vouloir que les autres n'en fassent pas autant !
+
+00:10:55.160 --> 00:10:59.240
+Et c'est inconfortable, ça fait naître&nbsp;
+une sorte de contradiction pratique&nbsp;&nbsp;
+
+00:10:59.240 --> 00:11:03.440
+entre ma conduite et la règle de conduite&nbsp;
+que je voudrais implicitement que les autres&nbsp;&nbsp;
+
+00:11:03.440 --> 00:11:07.840
+suivent. Ma conduite n'a de sens qu'en tant&nbsp;
+qu'exception à cette règle de conduite. Et&nbsp;&nbsp;
+
+00:11:07.840 --> 00:11:11.320
+vous sentez au-dessus de tout ce que je viens&nbsp;
+de dire une ombre immense qui plane… Je pense&nbsp;&nbsp;
+
+00:11:11.320 --> 00:11:14.480
+que vous l'aurez reconnue si vous êtes familier&nbsp;
+de la chaîne ou de la philosophie en générale:&nbsp;&nbsp;
+
+00:11:14.480 --> 00:11:19.280
+cette ombre, c'est celle de Kant et de&nbsp;
+son impératif catégorique, bien sûr.
+
+00:11:19.280 --> 00:11:22.400
+"Agis uniquement d'après la&nbsp;
+maxime qui fait que tu peux&nbsp;&nbsp;
+
+00:11:22.400 --> 00:11:25.960
+vouloir en même temps qu'elle&nbsp;
+devienne une loi universelle."
+
+00:11:25.960 --> 00:11:30.200
+Ce serait ça le fondement de la morale,&nbsp;
+selon le sage de Königsberg. Alors,&nbsp;&nbsp;
+
+00:11:30.200 --> 00:11:34.160
+je vais pas rentrer dans un examen détaillé de&nbsp;
+cette idée chez Kant et de ce qui la justifie,&nbsp;&nbsp;
+
+00:11:34.160 --> 00:11:37.280
+c'est assez bizarre en fait. Et si ça vous&nbsp;
+intéresse je l'ai fait avec pas mal de&nbsp;&nbsp;
+
+00:11:37.280 --> 00:11:40.440
+détails dans cette vidéo. (J'ai aussi une autre&nbsp;
+vidéo où je discute du point de vue de Kant sur&nbsp;&nbsp;
+
+00:11:40.440 --> 00:11:45.720
+la mast… sur l'onanisme et l'esclavage. Eh&nbsp;
+oui, on est éclectique sur cette chaîne.)
+
+00:11:45.720 --> 00:11:49.520
+Là, je vais donc en rester à une lecture&nbsp;
+relativement simple de l'impératif de Kant,&nbsp;&nbsp;
+
+00:11:49.520 --> 00:11:51.680
+"Agis uniquement d'après la&nbsp;
+maxime qui fait que tu peux&nbsp;&nbsp;
+
+00:11:51.680 --> 00:11:54.320
+vouloir en même temps qu'elle&nbsp;
+devienne une loi universelle".
+
+00:11:54.320 --> 00:11:59.120
+Le point crucial, c'est cette idée de "maxime"&nbsp;
+de l'action. Kant la définit comme le "principe&nbsp;&nbsp;
+
+00:11:59.120 --> 00:12:02.880
+subjectif de l'action", on pourrait dire plus&nbsp;
+simplement que c'est notre raison d'agir,&nbsp;&nbsp;
+
+00:12:02.880 --> 00:12:06.720
+ou disons la règle de conduite que l'on suit&nbsp;
+implicitement en agissant (on pourrait faire&nbsp;&nbsp;
+
+00:12:06.720 --> 00:12:10.800
+le lien avec la notion de stratégie en théorie&nbsp;
+des jeux d'ailleurs). Ensuite "vouloir qu'elle&nbsp;&nbsp;
+
+00:12:10.800 --> 00:12:15.320
+devienne une loi universelle", c'est vouloir&nbsp;
+que tout le monde suive aussi cette règle. Et&nbsp;&nbsp;
+
+00:12:15.320 --> 00:12:21.520
+donc l'idée ce serait que je ne respecte&nbsp;
+pas l'impératif catégorique dès lors que&nbsp;&nbsp;
+
+00:12:21.520 --> 00:12:27.080
+j'agis d'après une raison d'agir qui me fait&nbsp;
+aussi nécessairement vouloir que les autres ne&nbsp;&nbsp;
+
+00:12:27.080 --> 00:12:31.960
+suivent pas cette même raison d'agir. Et vous&nbsp;
+aurez remarqué que ça, c'est exactement ce à&nbsp;&nbsp;
+
+00:12:31.960 --> 00:12:35.560
+quoi je suis arrivé en analysant la raison&nbsp;
+qu'on a d'appuyer sur le bouton "pour moi".
+
+00:12:35.560 --> 00:12:38.680
+Ainsi, la situation du jeu fonctionne&nbsp;
+parfaitement pour illustrer la violation&nbsp;&nbsp;
+
+00:12:38.680 --> 00:12:43.520
+de l'impératif catégorique. Et c'est voulu, je&nbsp;
+l'ai conçu comme ça, comme un pur "cas kantien",&nbsp;&nbsp;
+
+00:12:43.520 --> 00:12:46.800
+pour ainsi dire. Alors bien sûr on peut avoir&nbsp;
+choisi d'appuyer sur le bouton "pour les autres"&nbsp;&nbsp;
+
+00:12:46.800 --> 00:12:51.400
+pour toute sorte de raison, pas forcément par&nbsp;
+pur respect envers l'impératif catégorique. Mais&nbsp;&nbsp;
+
+00:12:51.400 --> 00:12:55.680
+par contre, je sais que presque toute personne&nbsp;
+qui choisit d'appuyer sur le bouton "pour moi"&nbsp;&nbsp;
+
+00:12:55.680 --> 00:12:59.400
+s'oppose en même temps à ce que les autres en&nbsp;
+fassent autant, et quand je dis que je le sais,&nbsp;&nbsp;
+
+00:12:59.400 --> 00:13:03.200
+je veux dire que je l'ai constaté dans mon&nbsp;
+questionnaire, puisque j'avais justement une&nbsp;&nbsp;
+
+00:13:03.200 --> 00:13:06.600
+question qui me permettait de tester ce point,&nbsp;
+et vous verrez que ça a très bien marché.
+
+00:13:06.600 --> 00:13:10.240
+Donc oui, il est clair que ceux qui&nbsp;
+appuient sur le bouton "Pour moi" le&nbsp;&nbsp;
+
+00:13:10.240 --> 00:13:13.400
+font pour une raison qui leur fait en&nbsp;
+même temps vouloir que les autres ne&nbsp;&nbsp;
+
+00:13:13.400 --> 00:13:16.520
+suivent pas cette raison. Et donc dans&nbsp;
+cette mesure-là, ceux qui répondent&nbsp;&nbsp;
+
+00:13:16.520 --> 00:13:21.040
+"pour moi" enfreignent clairement l'impératif&nbsp;
+catégorique. Ce sont des agents non-kantiens.
+
+00:13:21.040 --> 00:13:22.607
+- Quelle indignité.
+
+00:13:23.120 --> 00:13:27.760
+Pour le dire encore autrement, choisir le bouton&nbsp;
+"Pour moi" c'est certes se comporter en agent&nbsp;&nbsp;
+
+00:13:27.760 --> 00:13:32.160
+"rationnel" (au sens classique du terme), mais&nbsp;
+c'est conception de la rationalité qui nous fait&nbsp;&nbsp;
+
+00:13:32.160 --> 00:13:36.880
+en même temps vouloir que les autres ne soient&nbsp;
+pas rationnels… Or après tout on est un agent&nbsp;&nbsp;
+
+00:13:36.880 --> 00:13:40.400
+parmi d'autres, non ? Si je suis rationnel, je&nbsp;
+peux m'attendre à ce que les autres le soient&nbsp;&nbsp;
+
+00:13:40.400 --> 00:13:44.400
+aussi. Du coup, est-ce bien une façon rationnelle&nbsp;
+d'agir ? Et ceux qui connaissent un peu le sujet&nbsp;&nbsp;
+
+00:13:44.400 --> 00:13:47.920
+verront ici tout de suite le lien avec ce qu'on&nbsp;
+appelle le paradoxe de Newcomb dont je parlais&nbsp;&nbsp;
+
+00:13:47.920 --> 00:13:52.120
+dans cette looongue série de vidéos… les vrais qui&nbsp;
+suivent la chaîne depuis tout ce temps l'auront&nbsp;&nbsp;
+
+00:13:52.120 --> 00:13:55.160
+remarqué. C'est pas pour rien que j'ai parlé du&nbsp;
+dilemme du prisonnier à l'époque dans le cadre&nbsp;&nbsp;
+
+00:13:55.160 --> 00:14:00.200
+de cette série. Mais bref, ne remettons pas une&nbsp;
+pièce dans la machine de ce paradoxe infernal.
+
+00:14:00.200 --> 00:14:05.040
+Notez que pour Kant, sa morale est rationnelle,&nbsp;
+et un être est rationnel au sens kantien justement&nbsp;&nbsp;
+
+00:14:05.040 --> 00:14:09.720
+s'il agit par respect de l'impératif catégorique.&nbsp;
+Donc c'est un sens très différent de rationnel&nbsp;&nbsp;
+
+00:14:09.720 --> 00:14:13.960
+qui insiste plutôt sur l'exigence d'universalité&nbsp;
+de la raison, le fait d'agir selon des principes&nbsp;&nbsp;
+
+00:14:13.960 --> 00:14:17.600
+qu'on peut vouloir universaliser, et du coup,&nbsp;
+du point de vue de Kant, les "agents rationnel"&nbsp;&nbsp;
+
+00:14:17.600 --> 00:14:22.240
+au sens classique (optimisateurs de préférences&nbsp;
+tout ça, tout ça) ils sont en fait irrationnels&nbsp;&nbsp;
+
+00:14:22.240 --> 00:14:25.480
+(et donc immoraux), en particulier dans&nbsp;
+la situation du jeu que j'ai décrit.
+
+00:14:25.480 --> 00:14:29.280
+Et cet agent rationnel kantien, par&nbsp;
+opposition à l'agent rationnel classique,&nbsp;&nbsp;
+
+00:14:29.280 --> 00:14:32.960
+on pourrait aussi le modéliser en théorie&nbsp;
+des jeux: ce serait un agent qui choisit&nbsp;&nbsp;
+
+00:14:32.960 --> 00:14:36.440
+sa stratégie non pas en vue simplement de&nbsp;
+maximiser ses préférences individuelles,&nbsp;&nbsp;
+
+00:14:36.440 --> 00:14:41.640
+mais plutôt en suivant une stratégie telle que, si&nbsp;
+tous les autres agents suivent la même stratégie&nbsp;&nbsp;
+
+00:14:41.640 --> 00:14:45.160
+(ou au moins une stratégie moralement&nbsp;
+équivalente, en suivant une même maxime,&nbsp;&nbsp;
+
+00:14:45.160 --> 00:14:49.320
+en gros), alors on aboutit à la meilleure&nbsp;
+situation possible. Et donc, dans la situation&nbsp;&nbsp;
+
+00:14:49.320 --> 00:14:52.600
+de mon jeu, un agent kantien ne pourrait&nbsp;
+qu'appuyer sur le bouton "Pour les autres".
+
+00:14:52.600 --> 00:14:53.720
+- C'est super sympa.
+
+00:14:53.720 --> 00:14:57.920
+Et notez que cette idée de modéliser un "agent&nbsp;
+kantien", c'est bien quelque chose qui existe dans&nbsp;&nbsp;
+
+00:14:57.920 --> 00:15:01.480
+la recherche en économie et en théorie des jeux.&nbsp;
+Faut pas croire qu'il n'y en a que pour l'agent&nbsp;&nbsp;
+
+00:15:01.480 --> 00:15:06.360
+rationnel classique bêtement maximisateur; homo&nbsp;
+economicus, tout ça tout ça. On peut s'intéresser&nbsp;&nbsp;
+
+00:15:06.360 --> 00:15:10.880
+aussi à… homo kantianus, pourrait-on dire. C'est&nbsp;
+une simplification qui a des limites aussi,&nbsp;&nbsp;
+
+00:15:10.880 --> 00:15:14.440
+après tout même Kant n'était sans doute pas&nbsp;
+qu'un pur agent kantien, mais encore une fois&nbsp;&nbsp;
+
+00:15:14.440 --> 00:15:18.640
+c'est intéressant d'avoir des modèles simples pour&nbsp;
+essayer d'approcher la réalité, et peut-être que,&nbsp;&nbsp;
+
+00:15:18.640 --> 00:15:22.280
+dans certains contextes, le comportement des&nbsp;
+agents serait justement mieux approximé par des&nbsp;&nbsp;
+
+00:15:22.280 --> 00:15:26.520
+agents kantiens universalisateurs que par des&nbsp;
+agents rationnels classiques individualistes.
+
+00:15:26.520 --> 00:15:28.680
+- Il faut que tu te poses les bonnes questions.
+
+00:15:28.680 --> 00:15:32.400
+Alors je vais pas me pencher ici sur ce travail&nbsp;
+de formalisation des agents kantiens, mais j'ai eu&nbsp;&nbsp;
+
+00:15:32.400 --> 00:15:36.680
+l'occasion d'en discuter. En fait, pour tout vous&nbsp;
+expliquer, cette vidéo s'inscrit dans une série de&nbsp;&nbsp;
+
+00:15:36.680 --> 00:15:41.200
+vidéos, les vidéos échoscientifiques dont c'est&nbsp;
+la 6e saison. C'est développé par Echosciences&nbsp;&nbsp;
+
+00:15:41.200 --> 00:15:44.760
+Sud Provence-Alpes-Côte d'Azur et Play Azur&nbsp;
+Prod. Et le principe c'est qu'ils mettent en&nbsp;&nbsp;
+
+00:15:44.760 --> 00:15:48.640
+rapport des chercheurs et des vulgarisateurs pour&nbsp;
+faire des vidéos autour de sujets de recherches&nbsp;&nbsp;
+
+00:15:48.640 --> 00:15:51.840
+contemporains. C'est dans ce cadre qu'on m'a mis&nbsp;
+en rapport avec l'enseignant-chercheur en économie&nbsp;&nbsp;
+
+00:15:51.840 --> 00:15:56.560
+Nicolas Gravel qui travaille notamment sur cette&nbsp;
+formalisation et modélisation d'agents kantiens,&nbsp;&nbsp;
+
+00:15:56.560 --> 00:15:59.880
+et j'avoue que je connaissais pas du tout ce&nbsp;
+champ pour ma part, et vous vous doutez bien&nbsp;&nbsp;
+
+00:15:59.880 --> 00:16:03.360
+que j'ai trouvé ça hyper intéressant. (D'ailleurs&nbsp;
+j'avais déjà esquissé ce genre de lien avec Kant&nbsp;&nbsp;
+
+00:16:03.360 --> 00:16:07.520
+dans ma vidéo sur le dilemme du prisonnier…)&nbsp;
+Et donc quand on m'a proposé ça, j'ai dit:
+
+00:16:07.520 --> 00:16:08.920
+- D'accord, faisons comme ça.
+
+00:16:08.920 --> 00:16:11.440
+Ça a donc donné lieu à cette vidéo,&nbsp;
+et aussi à une vidéo de rencontre&nbsp;&nbsp;
+
+00:16:11.440 --> 00:16:15.120
+où je discute plus en détail de tout ça avec&nbsp;
+Nicolas Gravel, sur la chaîne d’Echosciences,&nbsp;&nbsp;
+
+00:16:15.120 --> 00:16:18.360
+je vous mettrai le lien en description. Et pour&nbsp;
+cette vidéo-ci sur ma chaîne, je me suis dit que,&nbsp;&nbsp;
+
+00:16:18.360 --> 00:16:22.000
+vu qu'on allait parler d'aspects plus formels sur&nbsp;
+cette idée d'agents kantiens dans l'interview,&nbsp;&nbsp;
+
+00:16:22.000 --> 00:16:24.760
+ce serait intéressant de faire des&nbsp;
+trucs plutôt expérimentaux dans ma&nbsp;&nbsp;
+
+00:16:24.760 --> 00:16:28.080
+vidéo. D'où mon petit questionnaire&nbsp;
+qui, je l'espérais en le concevant,&nbsp;&nbsp;
+
+00:16:28.080 --> 00:16:31.560
+pourrait nous donner des éléments empiriques&nbsp;
+intéressants à discuter. Et effectivement,&nbsp;&nbsp;
+
+00:16:31.560 --> 00:16:35.840
+ça a été le cas, et donc oui je vais enfin venir&nbsp;
+aux résultats de ce questionnaire, ne soyez pas&nbsp;&nbsp;
+
+00:16:35.840 --> 00:16:39.480
+si impatients ! Oui, je vais vous faire de&nbsp;
+beaux graphiques avec du vert et du rouge.
+
+00:16:39.480 --> 00:16:42.960
+Alors ce qui m'intéressait dans ce questionnaire&nbsp;
+c'était en gros : à quel point se comporte-t-on&nbsp;&nbsp;
+
+00:16:42.960 --> 00:16:47.120
+plutôt en agents rationnels individualistes,&nbsp;
+ou en agents kantiens universalisateurs,&nbsp;&nbsp;
+
+00:16:47.120 --> 00:16:50.120
+en tout cas dans la situation que je&nbsp;
+vous demandais d'imaginer, et surtout y&nbsp;&nbsp;
+
+00:16:50.120 --> 00:16:53.920
+a-t-il des caractéristiques notables qui vont&nbsp;
+distinguer les deux groupes? Et puis aussi,&nbsp;&nbsp;
+
+00:16:53.920 --> 00:16:57.600
+ça m'intéressait beaucoup de voir s'il était&nbsp;
+possible de faire diminuer cette part d'agents&nbsp;&nbsp;
+
+00:16:57.600 --> 00:17:01.280
+rationnels individualistes en modifiant&nbsp;
+légèrement certains éléments de l'expérience,&nbsp;&nbsp;
+
+00:17:01.280 --> 00:17:04.600
+et d'essayer de voir quels éléments étaient&nbsp;
+susceptibles d'avoir le plus d'influence,&nbsp;&nbsp;
+
+00:17:04.600 --> 00:17:07.760
+d'où les trois variantes par rapport au scénario&nbsp;
+de base sur lesquelles vous étiez envoyés&nbsp;&nbsp;
+
+00:17:07.760 --> 00:17:11.840
+aléatoirement au début du questionnaire.&nbsp;
+Et donc, allons-y pour regarder tout ça.
+
+00:17:11.840 --> 00:17:13.680
+- Okaaaay, letzgoooo !
+
+00:17:13.680 --> 00:17:16.080
+Je signale en préambule qu'il y avait&nbsp;
+toujours six questions de compréhensions&nbsp;&nbsp;
+
+00:17:16.080 --> 00:17:19.640
+qui permettaient de vérifier que vous aviez&nbsp;
+bien lu et bien compris les propriétés du jeu&nbsp;&nbsp;
+
+00:17:19.640 --> 00:17:22.840
+et dans tous les cas j'ai exclu les personnes&nbsp;
+qui n'avaient pas répondu correctement aux six&nbsp;&nbsp;
+
+00:17:22.840 --> 00:17:25.680
+questions, et ça représente quand&nbsp;
+même autour de 20% des effectifs,&nbsp;&nbsp;
+
+00:17:25.680 --> 00:17:28.480
+c'est pas rien ! Mais au moins comme ça je&nbsp;
+suis assuré que les réponses que je garde&nbsp;&nbsp;
+
+00:17:28.480 --> 00:17:31.880
+sont seulement celles de gens qui ont vraiment&nbsp;
+compris de quoi on parle, c'est quand même mieux.
+
+00:17:31.880 --> 00:17:35.040
+Commençons donc par regarder les&nbsp;
+résultats pour le scénario de base.
+
+00:17:35.040 --> 00:17:39.600
+Voilà à quoi ça ressemble. En rouge, ceux qui&nbsp;
+répondent appuyer sur le bouton "pour moi",&nbsp;&nbsp;
+
+00:17:39.600 --> 00:17:41.720
+en vert ceux qui répondent appuyer sur le bouton&nbsp;&nbsp;
+
+00:17:41.720 --> 00:17:45.240
+"pour les autres" Il n'y a donc&nbsp;
+en fait que 35% de "Pour moi".
+
+00:17:45.240 --> 00:17:48.400
+Alors bien sûr, ce ne sont que des déclarations,&nbsp;
+mais j'insistais quand même sur le fait que&nbsp;&nbsp;
+
+00:17:48.400 --> 00:17:52.120
+j'attendais une réponse honnête, une réponse&nbsp;
+qui devrait correspondre à ce que, réellement,&nbsp;&nbsp;
+
+00:17:52.120 --> 00:17:55.600
+vous feriez dans la situation, et j'ose&nbsp;
+espérer que vous avez bien joué le jeu.&nbsp;&nbsp;
+
+00:17:55.600 --> 00:17:59.440
+Quoi qu'il en soit ce qui va nous intéresser&nbsp;
+c'est pas tant ce résultat en soi de 35%,&nbsp;&nbsp;
+
+00:17:59.440 --> 00:18:03.640
+ça va être surtout de le comparer avec les autres&nbsp;
+variantes, et aussi de comparer les deux groupes&nbsp;&nbsp;
+
+00:18:03.640 --> 00:18:07.200
+de participants. En somme, ce résultat,&nbsp;
+c'est avant tout un point de comparaison.
+
+00:18:07.200 --> 00:18:12.040
+Donc 35% répondent "pour moi" dans cette&nbsp;
+version de base, et c'est relativement peu,&nbsp;&nbsp;
+
+00:18:12.040 --> 00:18:15.840
+c'est nettement moins que ce à quoi s'attendaient&nbsp;
+ces mêmes participants en moyenne puisque je&nbsp;&nbsp;
+
+00:18:15.840 --> 00:18:20.160
+rappelle que la moyenne de leurs prédictions&nbsp;
+annonçait 54% de "Pour moi". Mais cette moyenne&nbsp;&nbsp;
+
+00:18:20.160 --> 00:18:24.360
+globale cache en fait une différence importante&nbsp;
+entre les deux groupes de participants. Regardez&nbsp;&nbsp;
+
+00:18:24.360 --> 00:18:28.440
+comment se répartissent les prédictions de ceux&nbsp;
+qui ont répondu qu'ils appuieraient sur le bouton&nbsp;&nbsp;
+
+00:18:28.440 --> 00:18:32.760
+"Pour moi", le groupe non-kantien en somme.&nbsp;
+Ça n'a pas du tout du tout la même tête:&nbsp;&nbsp;
+
+00:18:32.760 --> 00:18:39.960
+la moyenne de leur prédiction de réponse "pour&nbsp;
+moi" s'élève à 75,8% et on a une médiane à 80%,&nbsp;&nbsp;
+
+00:18:39.960 --> 00:18:44.000
+c'est-à-dire que plus de la moitié de ces&nbsp;
+participants non-kantiens ont prédit qu'au&nbsp;&nbsp;
+
+00:18:44.000 --> 00:18:47.920
+moins 80% des autres participants&nbsp;
+seraient comme eux, non-kantien.
+
+00:18:47.920 --> 00:18:50.360
+C'est radicalement différent de ce&nbsp;
+qu'on observe dans l'autre groupe,&nbsp;&nbsp;
+
+00:18:50.360 --> 00:18:52.720
+celui qui répondu appuyer sur "Pour les autres":&nbsp;&nbsp;
+
+00:18:52.720 --> 00:18:58.520
+chez eux la moyenne des prédictions est&nbsp;
+à 42,5% et la médiane à 40%, ce qui n'est&nbsp;&nbsp;
+
+00:18:58.520 --> 00:19:02.120
+finalement pas très éloigné du pourcentage&nbsp;
+réel dans vos réponses qui était de 35%.
+
+00:19:02.120 --> 00:19:05.200
+Cet écart entre les prédictions du groupe qui&nbsp;
+a répondu "pour moi" et celles du groupe qui&nbsp;&nbsp;
+
+00:19:05.200 --> 00:19:08.280
+a répondu "pour les autres", c'est ce&nbsp;
+qui m'a le plus frappé dans l'ensemble&nbsp;&nbsp;
+
+00:19:08.280 --> 00:19:11.600
+des résultats. Je m'attendais à un écart&nbsp;
+bien sûr, mais pas à ce que ce soit aussi&nbsp;&nbsp;
+
+00:19:11.600 --> 00:19:16.040
+énorme. Les deux groupes se représentent&nbsp;
+les autres d'une façon très différente,&nbsp;&nbsp;
+
+00:19:16.040 --> 00:19:19.440
+ils ne vivent pas dans le même monde, en un sens.&nbsp;
+Il y a un groupe qui croit plutôt vivre dans un&nbsp;&nbsp;
+
+00:19:19.440 --> 00:19:23.560
+monde où une très très large majorité des gens&nbsp;
+se comporte en agent rationnel individualiste,&nbsp;&nbsp;
+
+00:19:23.560 --> 00:19:26.840
+et un groupe qui croit plutôt vivre dans&nbsp;
+un monde où une large majorité se comporte&nbsp;&nbsp;
+
+00:19:26.840 --> 00:19:30.000
+en agent coopératif. Et d'ailleurs je&nbsp;
+pense que de façon assez ironique les&nbsp;&nbsp;
+
+00:19:30.000 --> 00:19:33.560
+premiers sont ceux qui pensent être les&nbsp;
+plus lucides, ils vont se dire réalistes,&nbsp;&nbsp;
+
+00:19:33.560 --> 00:19:37.440
+eh oui les gens sont comme ça au fond hein,&nbsp;
+égoïstes, moi je sais, on me la fait pas à moi.
+
+00:19:37.440 --> 00:19:39.080
+- C'est pas comme ça que ça se passe. C'est le&nbsp;&nbsp;
+
+00:19:39.080 --> 00:19:42.000
+vrai monde dehors. Et le vrai&nbsp;
+monde, il va chez le coiffeur.
+
+00:19:42.000 --> 00:19:45.600
+Alors que factuellement ce sont eux qui se&nbsp;
+trompent le plus justement, ce sont eux qui&nbsp;&nbsp;
+
+00:19:45.600 --> 00:19:50.000
+vivent dans un monde imaginaire peuplé surtout&nbsp;
+d'agents rationnels égoïstes. Alors que non.
+
+00:19:50.000 --> 00:19:53.480
+- Gna gna gna, la guitare, les troubadours,&nbsp;
+tout ça c'est fini. Non merci, j'ai les miennes.
+
+00:19:53.480 --> 00:19:57.120
+La question qu'on peut se poser à partir de là&nbsp;
+et à laquelle j'ai pas de réponse, c'est: est-ce&nbsp;&nbsp;
+
+00:19:57.120 --> 00:20:00.800
+que cette idée qu'on se fait du comportement&nbsp;
+des autres joueurs, elle joue un rôle causal&nbsp;&nbsp;
+
+00:20:00.800 --> 00:20:04.720
+vis-à-vis de la stratégie qu'on choisit. En gros,&nbsp;
+est-ce que le fait que je pense que les autres&nbsp;&nbsp;
+
+00:20:04.720 --> 00:20:09.440
+vont en large majorité appuyer sur le bouton&nbsp;
+"pour moi", c'est ça qui me pousse à choisir le&nbsp;&nbsp;
+
+00:20:09.440 --> 00:20:13.080
+bouton "pour moi" ? Ce qui voudrait dire que,&nbsp;
+si on arrivait à corriger ma représentation,&nbsp;&nbsp;
+
+00:20:13.080 --> 00:20:16.320
+à faire que je me représente le fait que les&nbsp;
+autres vont en fait plutôt appuyer sur le bouton&nbsp;&nbsp;
+
+00:20:16.320 --> 00:20:21.200
+"Pour les autres", ça contribuerait à modifier&nbsp;
+mon propre choix. Alors ça paraît crédible que ça joue,&nbsp;&nbsp;
+
+00:20:21.200 --> 00:20:25.840
+mais c'est pas certain. En fait on pourrait même&nbsp;
+soutenir que la causalité va dans l'autre sens:&nbsp;&nbsp;
+
+00:20:25.840 --> 00:20:29.920
+c'est mon choix qui forge ensuite l'idée que je&nbsp;
+me fais du choix des autres. En gros, je fais le&nbsp;&nbsp;
+
+00:20:29.920 --> 00:20:34.200
+choix d'appuyer sur "pour moi" et ça me pousse à&nbsp;
+me convaincre que les autres en font généralement&nbsp;&nbsp;
+
+00:20:34.200 --> 00:20:38.440
+autant, comme une sorte de rationalisation a&nbsp;
+posteriori. Je suis déçu du comportement des&nbsp;&nbsp;
+
+00:20:38.440 --> 00:20:42.320
+autres que je découvre à travers mon propre&nbsp;
+comportement… Peut-être qu'il y a de ça aussi&nbsp;&nbsp;
+
+00:20:42.320 --> 00:20:46.560
+dans ces prédictions très pessimistes du groupe de&nbsp;
+ceux qui appuient sur "Pour moi". Je ne sais pas.
+
+00:20:46.560 --> 00:20:50.800
+En tout cas ce serait important de clarifier&nbsp;
+cette question de causalité parce qu'un agent&nbsp;&nbsp;
+
+00:20:50.800 --> 00:20:54.600
+rationnel classique individualiste aussi&nbsp;
+bien qu'un agent kantien universalisateur,&nbsp;&nbsp;
+
+00:20:54.600 --> 00:20:58.080
+ce sont des agents dont la stratégie ne&nbsp;
+devrait justement pas être conditionnée&nbsp;&nbsp;
+
+00:20:58.080 --> 00:21:01.280
+causalement vis-à-vis des stratégies des&nbsp;
+autres. Normalement leur stratégie est fixée,&nbsp;&nbsp;
+
+00:21:01.280 --> 00:21:04.560
+peu importe ce que font les autres. Donc s'il&nbsp;
+s'avère que le choix d'un agent est causé par&nbsp;&nbsp;
+
+00:21:04.560 --> 00:21:07.440
+ce qu'il pense du comportements des autres&nbsp;
+joueurs, ça indiquerait qu'on a affaire à&nbsp;&nbsp;
+
+00:21:07.440 --> 00:21:12.400
+un autre type d'agent. On pourrait appeler ça un&nbsp;
+agent réciprocateur, qui a tendance à conditionner&nbsp;&nbsp;
+
+00:21:12.400 --> 00:21:16.840
+sa coopération à une attente de réciprocité. Donc&nbsp;
+s'il se représente que la majorité va appuyer sur&nbsp;&nbsp;
+
+00:21:16.840 --> 00:21:20.200
+"Pour les autres", il le fera aussi, mais s'il&nbsp;
+pense que la majorité appuiera sur "Pour moi",&nbsp;&nbsp;
+
+00:21:20.200 --> 00:21:23.800
+il se gênera pas pour appuyer sur "Pour moi"&nbsp;
+lui aussi. Ainsi pour schématiser les choses on&nbsp;&nbsp;
+
+00:21:23.800 --> 00:21:28.200
+aurait donc trois grands types d'agents: rationnel&nbsp;
+individualiste, kantien universalisateur,&nbsp;&nbsp;
+
+00:21:28.200 --> 00:21:31.680
+et réciprocateur. Tout ça, c'est une&nbsp;
+simplification bien sûr, les choses sont&nbsp;&nbsp;
+
+00:21:31.680 --> 00:21:35.440
+plus complexes, mais ça reste des modèles&nbsp;
+intéressants à avoir en tête, il me semble.
+
+00:21:35.440 --> 00:21:38.840
+Voyons maintenant ce qu'on peut apprendre des&nbsp;
+trois variantes à ce scénario de base. L'idée&nbsp;&nbsp;
+
+00:21:38.840 --> 00:21:42.320
+c'était à chaque fois d'ajouter un élément&nbsp;
+susceptible diminuer la part des agents qui&nbsp;&nbsp;
+
+00:21:42.320 --> 00:21:45.560
+appuient sur "pour moi". Je suis sûr que je&nbsp;
+vais avoir plein de commentaires qui vont&nbsp;&nbsp;
+
+00:21:45.560 --> 00:21:49.680
+me dire "Ah mais tu aurais dû tester ceci ou&nbsp;
+cela", oui, sans doute, il y a toujours 1000&nbsp;&nbsp;
+
+00:21:49.680 --> 00:21:52.720
+choses qu'on peut tester, mais je n'ai pas&nbsp;
+non plus des effectifs infinis et je voulais&nbsp;&nbsp;
+
+00:21:52.720 --> 00:21:56.320
+me concentrer sur quelques idées simples.&nbsp;
+Voici déjà un résumé des trois variantes :
+
+00:21:56.320 --> 00:22:00.920
+Première variante : en public. Donc au lieu d'être&nbsp;
+secret, le choix est connu, visible de tous les&nbsp;&nbsp;
+
+00:22:00.920 --> 00:22:04.720
+autres joueurs, on imagine qu'on fait face à un&nbsp;
+pupitre qui s'illumine en fonction du bouton sur&nbsp;&nbsp;
+
+00:22:04.720 --> 00:22:09.118
+lequel on a appuyé. Est-ce que la pression du&nbsp;
+regard des autres va modifier les réponses ?
+
+00:22:09.118 --> 00:22:12.160
+- On me voit, on me voit plus. On me&nbsp;
+voit un peu, on me voit plus. On me voit.
+
+00:22:12.160 --> 00:22:16.520
+Deuxième variante : avec message d'encouragement.&nbsp;
+Le choix est secret comme dans la variante de&nbsp;&nbsp;
+
+00:22:16.520 --> 00:22:20.320
+base. La seule différence, c'est qu'avant de&nbsp;
+choisir les joueurs doivent tous lire un petit&nbsp;&nbsp;
+
+00:22:20.320 --> 00:22:23.240
+message qui encourage à appuyer&nbsp;
+sur le bouton "Pour les autres".
+
+00:22:23.240 --> 00:22:26.720
+Chose importante à signaler: ce message ne fait&nbsp;
+que souligner des points qui faisaient partie&nbsp;&nbsp;
+
+00:22:26.720 --> 00:22:30.680
+des questions de compréhension, à savoir qu'en&nbsp;
+appuyant tous sur "Pour moi" chacun gagne 250,&nbsp;&nbsp;
+
+00:22:30.680 --> 00:22:34.120
+tandis qu'en appuyant tous sur "Pour les&nbsp;
+autres" chacun gagne 1000. Le message n'est&nbsp;&nbsp;
+
+00:22:34.120 --> 00:22:37.640
+donc pas instructif, le participant&nbsp;
+n'apprend rien en le lisant a priori.
+
+00:22:37.640 --> 00:22:39.280
+- C'était vraiment très intéressant.
+
+00:22:39.280 --> 00:22:42.440
+Et dernière variante : vote +&nbsp;
+message d'encouragement. Cette fois,&nbsp;&nbsp;
+
+00:22:42.440 --> 00:22:45.920
+il y a une première phase où les participants&nbsp;
+doivent voter pour la diffusion d'un message&nbsp;&nbsp;
+
+00:22:45.920 --> 00:22:49.280
+qui sera présenté à tous les joueurs. Et&nbsp;
+donc on vote pour le contenu de ce message:&nbsp;&nbsp;
+
+00:22:49.280 --> 00:22:51.760
+ou bien un contenu qui encourage à&nbsp;
+appuyer sur le bouton "Pour moi",&nbsp;&nbsp;
+
+00:22:51.760 --> 00:22:55.440
+ou bien qui encourage à appuyer sur le bouton&nbsp;
+"Pour les autres". Puis, donc après avoir voté,&nbsp;&nbsp;
+
+00:22:55.440 --> 00:22:58.400
+j'indiquais qu'une quasi-unanimité des&nbsp;
+participants ont voté pour la diffusion&nbsp;&nbsp;
+
+00:22:58.400 --> 00:23:02.080
+du message encourageant à appuyer sur le bouton&nbsp;
+"Pour les autres" (de fait, ça a bien été le cas,&nbsp;&nbsp;
+
+00:23:02.080 --> 00:23:05.440
+j'y reviendrai), et les participants devaient&nbsp;
+donc lire ce message (qui est le même que dans la&nbsp;&nbsp;
+
+00:23:05.440 --> 00:23:09.547
+variante précédente), et enfin ils devaient faire&nbsp;
+le choix d'appuyer sur l'un des deux boutons.
+
+00:23:10.929 --> 00:23:13.200
+- Je pense qu'il est un peu&nbsp;
+trop tôt pour faire un choix.&nbsp;
+
+00:23:13.200 --> 00:23:14.440
+- D'accord.
+- Mais mon choix est fait.
+
+00:23:14.440 --> 00:23:19.440
+Donc, variante publique, variante message,&nbsp;
+et variante vote+message. À votre avis,&nbsp;&nbsp;
+
+00:23:19.440 --> 00:23:22.920
+quels effets ces différentes variations&nbsp;
+auront-elles sur la part de répondants qui&nbsp;&nbsp;
+
+00:23:22.920 --> 00:23:27.320
+appuient sur le bouton "Pour moi" ? Faites&nbsp;
+arrêt sur image, faites vos prédictions,&nbsp;&nbsp;
+
+00:23:27.320 --> 00:23:30.760
+vous pouvez les noter en commentaire, je sais&nbsp;
+pas si ça améliore le référencement de la vidéo,&nbsp;&nbsp;
+
+00:23:30.760 --> 00:23:34.040
+mais c'est toujours intéressant de se forcer&nbsp;
+à exprimer publiquement ses attentes avant de&nbsp;&nbsp;
+
+00:23:34.040 --> 00:23:38.144
+les confronter à la réalité des résultats. Et&nbsp;
+donc, quels sont ces résultats ? C'est parti.
+
+00:23:38.697 --> 00:23:40.477
+- On y va zéparti!
+
+00:23:40.477 --> 00:23:44.040
+Donc ça c'est les résultats du scénario de base&nbsp;
+et voici maintenant celui de la variante où le&nbsp;&nbsp;
+
+00:23:44.040 --> 00:23:48.480
+choix est public. La part de participants qui&nbsp;
+répondent appuyer sur le bouton "Pour moi" passe&nbsp;&nbsp;
+
+00:23:48.480 --> 00:23:55.080
+de 35% à 22,5%, donc une réduction de plus d'un&nbsp;
+tiers c'est vraiment pas mal ! Eh oui, on veut&nbsp;&nbsp;
+
+00:23:55.080 --> 00:23:59.120
+bien la jouer perso non-kantien mais c'est plus&nbsp;
+difficile à assumer sous le regard des autres.
+
+00:23:59.120 --> 00:24:02.800
+Regardons maintenant la variante dans le&nbsp;
+cas vote + message. Donc chaque participant&nbsp;&nbsp;
+
+00:24:02.800 --> 00:24:06.040
+devait d'abord voter soit pour la diffusion d'un&nbsp;
+message encourageant à appuyer sur "Pour moi",&nbsp;&nbsp;
+
+00:24:06.040 --> 00:24:09.320
+soit pour un message encourageant à appuyer sur&nbsp;
+"Pour les autres"; et déjà ce qui est intéressant&nbsp;&nbsp;
+
+00:24:09.320 --> 00:24:14.320
+c'est que vous avez été 97,5% à voter pour&nbsp;
+la diffusion du message en faveur de "Pour&nbsp;&nbsp;
+
+00:24:14.320 --> 00:24:17.280
+les autres". Donc quand on dit au participant&nbsp;
+ensuite que c'est ce message qui a remporté le&nbsp;&nbsp;
+
+00:24:17.280 --> 00:24:21.520
+vote à une quasi-unanimité, c'est vraiment&nbsp;
+le cas: en gros sur les 100 autres joueurs&nbsp;&nbsp;
+
+00:24:21.520 --> 00:24:25.320
+on peut se qu'il n'y en aurait eu juste deux ou&nbsp;
+trois qui ont voté pour la diffusion de l'autre&nbsp;&nbsp;
+
+00:24:25.320 --> 00:24:29.200
+message. Et vient maintenant le moment de faire&nbsp;
+le choix du bouton, un choix qui reste secret,&nbsp;&nbsp;
+
+00:24:29.200 --> 00:24:33.240
+comme dans la version de base là par contre.&nbsp;
+Est-ce que le vote et le message auront eu une&nbsp;&nbsp;
+
+00:24:33.240 --> 00:24:37.680
+influence sur le comportement des participants.&nbsp;
+Eh bien oui, une influence encore plus forte&nbsp;&nbsp;
+
+00:24:37.680 --> 00:24:41.160
+puisque les participants qui répondent appuyer&nbsp;
+sur le bouton "Pour moi" ne représentent plus&nbsp;&nbsp;
+
+00:24:41.160 --> 00:24:47.040
+que 17,9%, presque moitié moins que dans&nbsp;
+la version de base. C'est un sacré effet!
+
+00:24:47.040 --> 00:24:52.200
+Cela dit, est-ce un effet du vote ou un effet&nbsp;
+du message lui-même? Eh bien la variante avec&nbsp;&nbsp;
+
+00:24:52.200 --> 00:24:56.880
+le message qui était diffusé sans vote préalable&nbsp;
+permettait de trancher ce point, et on s'aperçoit&nbsp;&nbsp;
+
+00:24:56.880 --> 00:25:01.760
+que les résultats sont très proche dans ce cas:&nbsp;
+18,9% des participants répondent appuyer sur le&nbsp;&nbsp;
+
+00:25:01.760 --> 00:25:05.440
+bouton "Pour moi", c'est juste un petit&nbsp;
+peu plus que dans la variante avec vote.
+
+00:25:05.440 --> 00:25:09.480
+Voilà donc pour l'ensemble des résultats !&nbsp;
+Globalement ça a bien marché, il y a toujours&nbsp;&nbsp;
+
+00:25:09.480 --> 00:25:12.880
+eu une belle diminution de la part qui répond&nbsp;
+"pour moi" par rapport au scénario de base,&nbsp;&nbsp;
+
+00:25:12.880 --> 00:25:16.240
+et il y a plusieurs choses qui m'ont un&nbsp;
+peu surpris à titre personnel. D'abord,&nbsp;&nbsp;
+
+00:25:16.240 --> 00:25:18.960
+j'aurais cru que la variante publique&nbsp;
+serait celle qui marcherait le mieux,&nbsp;&nbsp;
+
+00:25:18.960 --> 00:25:22.840
+je pensais que la pression sociale de ne pas&nbsp;
+paraître égoïste serait vraiment importante,&nbsp;&nbsp;
+
+00:25:22.840 --> 00:25:26.120
+et finalement ça marche mais c'est pas là où&nbsp;
+c'est le plus spectaculaire, les deux variantes&nbsp;&nbsp;
+
+00:25:26.120 --> 00:25:30.480
+avec le message, même si le choix reste secret, ça&nbsp;
+fonctionne beaucoup mieux: on est pas loin de de&nbsp;&nbsp;
+
+00:25:30.480 --> 00:25:34.400
+diviser par deux la taille du groupe "pour&nbsp;
+moi", ce qui est un effet assez spectaculaire.
+
+00:25:34.400 --> 00:25:38.640
+Surtout si on considère que le message en&nbsp;
+lui-même ne dit strictement rien de nouveau:&nbsp;&nbsp;
+
+00:25:38.640 --> 00:25:41.920
+il répète des éléments qui faisaient partie&nbsp;
+des questions de compréhension, donc aucun&nbsp;&nbsp;
+
+00:25:41.920 --> 00:25:46.080
+participant n'apprend quoi que ce soit en le&nbsp;
+lisant. Et pourtant, c'est étonnamment efficace,&nbsp;&nbsp;
+
+00:25:46.080 --> 00:25:50.000
+et ceci avec ou sans le vote, même si c'est&nbsp;
+encore un peu plus efficace avec le vote.
+
+00:25:50.000 --> 00:25:53.640
+Notez que quand j'ai enregistré ça il y avait un&nbsp;
+plus grand écart entre les deux versions. En fin&nbsp;&nbsp;
+
+00:25:53.640 --> 00:25:56.920
+de compte dans les résultats finaux ça s'est&nbsp;
+resserré au point qu'il n'y a presque plus&nbsp;&nbsp;
+
+00:25:56.920 --> 00:25:59.480
+de différence entre les deux scénarios,&nbsp;
+donc le vote ne semble pas utile en soi&nbsp;&nbsp;
+
+00:25:59.480 --> 00:26:02.800
+pour faire baisser la part de "pour moi",&nbsp;
+c'est surtout le message qui a un effet.
+
+00:26:02.800 --> 00:26:04.760
+Et surtout l'étape du vote est&nbsp;
+intéressante pour montrer que&nbsp;&nbsp;
+
+00:26:04.760 --> 00:26:08.840
+la diffusion de ce message fait bien une&nbsp;
+quasi-unanimité parmi les participants,&nbsp;&nbsp;
+
+00:26:08.840 --> 00:26:12.080
+même chez ceux qui en fin de compte&nbsp;
+appuieront sur le bouton "Pour moi".
+
+00:26:12.080 --> 00:26:16.280
+Même eux sont 91% à voter pour le&nbsp;
+message encourageant à appuyer sur&nbsp;&nbsp;
+
+00:26:16.280 --> 00:26:20.120
+"Pour les autres". C'est moins que dans&nbsp;
+l'autre groupe bien sûr où ça monte à 99%,&nbsp;&nbsp;
+
+00:26:20.120 --> 00:26:23.980
+mais c'est quand même une proportion écrasante:&nbsp;
+ça veut dire qu'en gros dans le jeu avec les&nbsp;&nbsp;
+
+00:26:23.980 --> 00:26:27.680
+cent joueurs, il y a environ 18 joueurs&nbsp;
+qui vont appuyer sur le bouton pour moi,&nbsp;&nbsp;et parmi eux
+
+00:26:27.680 --> 00:26:31.880
+16 auront voté pour la diffusion du message&nbsp;
+encourageant à appuyer sur "Pour les autres"
+
+00:26:31.880 --> 00:26:34.960
+Et ce résultat illustre bien le point&nbsp;
+que je soulignais plus tôt dans la vidéo,&nbsp;&nbsp;
+
+00:26:34.960 --> 00:26:38.920
+à savoir que la seule raison qui peut&nbsp;
+pousser à appuyer sur "Pour moi" elle&nbsp;&nbsp;
+
+00:26:38.920 --> 00:26:43.680
+va nous pousser aussi à vouloir que les autres&nbsp;
+n'en fassent pas autant, c'est juste logique,&nbsp;&nbsp;
+
+00:26:43.680 --> 00:26:47.200
+et c'est inconfortable. Quelque part, pour&nbsp;
+celui qui veut appuyer sur "pour moi",&nbsp;&nbsp;
+
+00:26:47.200 --> 00:26:50.280
+procéder à ce vote ça doit rendre&nbsp;
+particulièrement palpable cette&nbsp;&nbsp;
+
+00:26:50.280 --> 00:26:54.640
+contradiction entre sa propre conduite et la règle&nbsp;
+de conduite qu'il veut que les autres suivent.
+
+00:26:54.640 --> 00:26:57.480
+Si tu votes comme ça, d'où tu&nbsp;
+agis de façon contraire ? Je&nbsp;&nbsp;
+
+00:26:57.480 --> 00:27:00.680
+trouve que c'est un procédé intéressant&nbsp;
+pour dégager cette tension kantienne...
+
+00:27:01.904 --> 00:27:04.541
+- Le monde n'est qu'ironie.&nbsp;
+La sincérité est un leurre.
+
+00:27:05.963 --> 00:27:09.760
+Quelques éléments de comparaison en regardant&nbsp;
+maintenant l'ensemble des résultats. Y avait-il&nbsp;&nbsp;
+
+00:27:09.760 --> 00:27:12.840
+par exemple des différences hommes/femmes ?&nbsp;
+C'est d'autant plus intéressant à regarder&nbsp;&nbsp;
+
+00:27:12.840 --> 00:27:15.800
+que c'est quelque chose qui est toujours&nbsp;
+assez déséquilibré dans mes questionnaires,&nbsp;&nbsp;
+
+00:27:15.800 --> 00:27:19.240
+en raison du public de ma chaîne: il y a beaucoup&nbsp;
+plus d'hommes que de femmes dans les réponses,&nbsp;&nbsp;
+
+00:27:19.240 --> 00:27:22.720
+mais donc est-ce que ça a joué sur la part&nbsp;
+de "pour moi" et de "pour les autres" ?
+
+00:27:22.720 --> 00:27:25.840
+Alors je vais pas regarder scénario par scénario,&nbsp;
+je vais plutôt agréger toutes les réponses pour&nbsp;&nbsp;
+
+00:27:25.840 --> 00:27:29.080
+avoir des effectifs assez grands à chaque fois,&nbsp;
+et donc ce qui va nous intéresser c'est juste la&nbsp;&nbsp;
+
+00:27:29.080 --> 00:27:32.480
+différence entre les deux groupes comparés,&nbsp;
+et vous voyez ici que les hommes répondent&nbsp;&nbsp;
+
+00:27:32.480 --> 00:27:38.680
+en moyenne un peu plus "Pour moi", 4% de plus sur&nbsp;
+l'ensemble des scénarios, 24,3% contre 20,3% pour&nbsp;&nbsp;
+
+00:27:38.680 --> 00:27:43.960
+les femmes. Donc oui les hommes comptent un peu&nbsp;
+plus d'agents non-kantien que les femmes a priori,&nbsp;&nbsp;
+
+00:27:43.960 --> 00:27:48.040
+mais bon ça reste un effet plutôt modeste,&nbsp;
+même s'il est statistiquement significatif.
+
+00:27:48.040 --> 00:27:51.680
+Y a-t-il un effet de l'âge par contre&nbsp;
+? Eh bien, si on regarde l'âge moyen&nbsp;&nbsp;
+
+00:27:51.680 --> 00:27:54.480
+de ceux qui répondent "pour moi" et de&nbsp;
+ceux qui répondent "pour les autres",&nbsp;&nbsp;
+
+00:27:54.480 --> 00:27:59.960
+c'est quasi le même à six mois près: 29,4&nbsp;
+et 29,9. Et si on regarde maintenant la&nbsp;&nbsp;
+
+00:27:59.960 --> 00:28:05.240
+répartition des réponses pour trois groupes&nbsp;
+d'âge: -25 ans, 25-34, et 35 et plus,&nbsp;&nbsp;
+
+00:28:05.240 --> 00:28:08.560
+c'est assez remarquablement la même chose.&nbsp;
+Franchement, je pense pas pouvoir faire&nbsp;&nbsp;
+
+00:28:08.560 --> 00:28:12.320
+mieux en prenant trois groupes aléatoires.&nbsp;
+Donc a priori pas d'effet de l'âge, non.
+
+00:28:12.320 --> 00:28:15.760
+Qu'en est-il du niveau social? Parce que j'avais&nbsp;
+aussi une question là-dessus. Eh bien voici une&nbsp;&nbsp;
+
+00:28:15.760 --> 00:28:19.040
+comparaison entre ceux qui perçoivent leur&nbsp;
+situation comme faible ou modeste, ceux qui&nbsp;&nbsp;
+
+00:28:19.040 --> 00:28:23.440
+se rangent plutôt dans la catégorie moyenne,&nbsp;
+ou enfin dans la catégorie aisée/très aisée,&nbsp;&nbsp;
+
+00:28:23.440 --> 00:28:28.240
+et à nouveau pas tellement d'effet, l'écart entre&nbsp;
+les trois tient dans même pas 1 point et demi de&nbsp;&nbsp;
+
+00:28:28.240 --> 00:28:32.930
+pourcentage. Donc une situation sociale plus ou&nbsp;
+moins élevée ne semble pas rendre plus ou moins&nbsp;&nbsp;
+
+00:28:32.930 --> 00:28:36.600
+kantien. Pour le coup j'aurais parié que ça aurait&nbsp;
+plus d'effet que ça. C'est un peu surprenant.
+
+00:28:36.600 --> 00:28:40.440
+Mais donc est-ce qu'on va quand même trouver un&nbsp;
+facteur qui joue franchement sur cette répartition&nbsp;&nbsp;
+
+00:28:40.440 --> 00:28:45.640
+de "pour moi"/"pour les autres"? Allez, dernier&nbsp;
+essai, l'orientation politique ! Alors déjà oui&nbsp;&nbsp;
+
+00:28:45.640 --> 00:28:48.720
+vous penchez sacrément à gauche sur cette chaîne,&nbsp;
+c'est pas la première fois que je le remarque.&nbsp;&nbsp;
+
+00:28:48.720 --> 00:28:53.760
+Donc c'est d'autant plus intéressant de vérifier&nbsp;
+par rapport à ça. Et... oui là on discerne un très&nbsp;&nbsp;
+
+00:28:53.760 --> 00:28:58.320
+bel effet, ça ne fait aucun doute: plus on va&nbsp;
+vers la gauche, moins on répond "Pour moi". On&nbsp;&nbsp;
+
+00:28:58.320 --> 00:29:04.720
+passe de plus de 40% tout à droite, à juste 13,8%&nbsp;
+tout à gauche, c'est une division par trois, c'est&nbsp;&nbsp;
+
+00:29:04.720 --> 00:29:09.000
+clair et net. Donc on peut officiellement ranger&nbsp;
+le bouton "Pour moi" dans la boîte de droite.
+
+00:29:09.000 --> 00:29:11.280
+- Ah ça c'est de droite. Ça c'est bien de droite.&nbsp;
+
+00:29:11.280 --> 00:29:14.600
+- Ici, la petite boîte.
+- Très bonne réponse.
+
+00:29:14.600 --> 00:29:17.320
+Et donc vu que les participants du sondage&nbsp;
+penchaient sacrément vers la gauche,&nbsp;&nbsp;
+
+00:29:18.960 --> 00:29:21.360
+on peut supposer que les réponses&nbsp;
+auraient compté davantage de "pour&nbsp;&nbsp;
+
+00:29:21.360 --> 00:29:25.040
+moi" si on avait fait passer le sondage dans&nbsp;
+cette population générale, dans le vrai monde.
+
+00:29:25.040 --> 00:29:28.440
+- C'est le vrai monde dehors. Et le&nbsp;
+vrai monde, il va chez le coiffeur.
+
+00:29:28.440 --> 00:29:31.000
+Ceci dit, notez bien qu'a priori&nbsp;
+le vrai monde ne compterait pas&nbsp;&nbsp;
+
+00:29:31.000 --> 00:29:34.240
+pour autant une majorité de réponse&nbsp;
+"Pour moi" puisque même tout à droite&nbsp;&nbsp;
+
+00:29:34.240 --> 00:29:36.760
+vous voyez que les réponses "Pour&nbsp;
+les autres" restent majoritaires,&nbsp;&nbsp;
+
+00:29:36.760 --> 00:29:41.400
+juste moins majoritaire. Donc non ce vrai monde&nbsp;
+ne ressemble toujours pas à l'idée un peu extrême&nbsp;&nbsp;
+
+00:29:41.400 --> 00:29:44.720
+que s'en font les groupes qui ont répondu "Pour&nbsp;
+moi". Je rappelle que dans le scénario de base,&nbsp;&nbsp;
+
+00:29:44.720 --> 00:29:49.560
+ce groupe-là prédisait en moyenne 76% de réponse&nbsp;
+"Pour moi". Et dans les variantes c'est juste un&nbsp;&nbsp;
+
+00:29:49.560 --> 00:29:54.440
+peu moins, les moyennes sont autour de 70% et la&nbsp;
+médiane à 75% ou 70% dans le meilleur des cas.
+
+00:29:54.440 --> 00:29:57.400
+C'est vraiment frappant à quel point le&nbsp;
+groupe qui répond "pour moi" se trompe&nbsp;&nbsp;
+
+00:29:57.400 --> 00:30:01.040
+toujours complètement. Les variantes modifient&nbsp;
+relativement peu leurs prédictions et ça fait&nbsp;&nbsp;
+
+00:30:01.040 --> 00:30:04.160
+qu'on peut dire qu'ils se trompent encore plus&nbsp;
+dans la mesure où la réalité leur donne encore&nbsp;&nbsp;
+
+00:30:04.160 --> 00:30:08.000
+plus tort. Ils pensent que le groupe qui répond&nbsp;
+comme eux "pour moi" est plus de trois fois&nbsp;&nbsp;
+
+00:30:08.000 --> 00:30:11.480
+plus large que ce qu'il est réellement.&nbsp;
+Vraiment ils vivent dans un autre monde.
+
+00:30:11.480 --> 00:30:15.480
+Petite remarque ajoutée au montage: certes comme&nbsp;
+je l'ai dit plus tôt, dans la population générale&nbsp;&nbsp;
+
+00:30:15.480 --> 00:30:19.360
+la part de réponse "pour moi" serait certainement&nbsp;
+plus grande que dans mes résultats à cause de la&nbsp;&nbsp;
+
+00:30:19.360 --> 00:30:22.760
+surreprésentation des personnes de gauche (ceci&nbsp;
+dit si on va par là faudrait ajuster par rapport à&nbsp;&nbsp;
+
+00:30:22.760 --> 00:30:27.400
+d'autres trucs aussi, typiquement le déséquilibre&nbsp;
+hommes/femmes et ça ça pourrait tirer légèrement&nbsp;&nbsp;
+
+00:30:27.400 --> 00:30:32.480
+en sens contraire), mais je ferais remarquer d'une&nbsp;
+part que la prédiction que je demandais de faire&nbsp;&nbsp;
+
+00:30:32.480 --> 00:30:37.000
+aux participants concernait bien les participants&nbsp;
+du questionnaire donc ces prédictions devrait déjà&nbsp;&nbsp;
+
+00:30:37.000 --> 00:30:41.600
+au moins en partie tenir compte des spécificités&nbsp;
+de ce contexte... et d'autre part surtout,&nbsp;&nbsp;
+
+00:30:41.600 --> 00:30:46.440
+quoi qu'il en soit ces prédictions pessimistes&nbsp;
+de l'ordre de 70-80% de réponses "pour moi" ça&nbsp;&nbsp;
+
+00:30:46.440 --> 00:30:50.320
+reste de toute façon hyper éloignés de la&nbsp;
+réalité des résultats puisque même dans le&nbsp;&nbsp;
+
+00:30:50.320 --> 00:30:54.920
+groupe "très à droite" cette réponse "pour&nbsp;
+moi" n'était juste même pas majoritaire.
+
+00:30:54.920 --> 00:30:57.520
+Donc finalement, ceux qui font&nbsp;
+des prédictions plutôt réalistes,&nbsp;&nbsp;
+
+00:30:57.520 --> 00:31:01.720
+plutôt lucides, ce sont bien ceux qui répondent&nbsp;
+"Pour les autres". Et une façon assez frappante&nbsp;&nbsp;
+
+00:31:01.720 --> 00:31:04.560
+de le montrer c'est de regarder la part des&nbsp;
+participants qui ont fait des prédictions de&nbsp;&nbsp;
+
+00:31:04.560 --> 00:31:08.520
+pourcentage plus élevées que la valeur réelle.&nbsp;
+A priori un groupe qui vise plutôt juste devrait&nbsp;&nbsp;
+
+00:31:08.520 --> 00:31:12.760
+avoir autour de 50% de prédictions plus élevées&nbsp;
+que la valeur réelle puisque les prédictions&nbsp;&nbsp;
+
+00:31:12.760 --> 00:31:16.400
+devraient tomber en gros autour de cette valeur.&nbsp;
+Et on voit que les groupes de participants qui&nbsp;&nbsp;
+
+00:31:16.400 --> 00:31:22.440
+ont choisi "Pour les autres" font entre 55% et 76%&nbsp;
+de prédictions plus élevées que la valeur réelle,&nbsp;&nbsp;
+
+00:31:22.440 --> 00:31:26.360
+donc c'est un peu pessimiste mais c'est pas&nbsp;
+catastrophique. Par contre pour les groupes de&nbsp;&nbsp;
+
+00:31:26.360 --> 00:31:34.280
+participants qui ont choisi "Pour moi", on trouve&nbsp;
+entre 96,6 et 99,2% de prédictions plus élevées&nbsp;&nbsp;
+
+00:31:34.280 --> 00:31:39.160
+que la valeur réelle. Là c'est quasi-unanime.&nbsp;
+Quasi tout le monde dans ces groupes conçoit les&nbsp;&nbsp;
+
+00:31:39.160 --> 00:31:44.120
+comportements des autres de façon plus pessimiste&nbsp;
+voire beaucoup plus pessimiste qu'ils ne sont.
+
+00:31:44.120 --> 00:31:48.080
+Alors est-ce que ce groupe contient surtout des&nbsp;
+agents réciprocateurs qui, s'ils corrigeaient&nbsp;&nbsp;
+
+00:31:48.080 --> 00:31:51.320
+l'image qu'ils se font du comportement des&nbsp;
+autres, adopteraient un autre comportement?&nbsp;&nbsp;
+
+00:31:51.320 --> 00:31:54.960
+Ou bien est-ce que ce sont plutôt des agents&nbsp;
+rationnels classiques qui croient à tort que&nbsp;&nbsp;
+
+00:31:54.960 --> 00:31:57.920
+tout le monde est aussi rationnel qu'eux, mais&nbsp;
+qui donc ne changeraient donc pas d'avis s'ils&nbsp;&nbsp;
+
+00:31:57.920 --> 00:32:00.720
+découvraient que ce n'est pas le cas? Encore&nbsp;
+une fois, c'est difficile à trancher à partir&nbsp;&nbsp;
+
+00:32:00.720 --> 00:32:03.920
+des résultats du questionnaire, mais c'est une&nbsp;
+question qui me semble intéressante à creuser.
+
+00:32:03.920 --> 00:32:05.720
+- Il faut que tu te poses les bonnes questions.
+
+00:32:05.720 --> 00:32:08.640
+Un tout dernier point sur les résultats:&nbsp;
+pour ceux qui se souviennent du paradoxe&nbsp;&nbsp;
+
+00:32:08.640 --> 00:32:12.200
+de Newcomb dont j'ai parlé dans cette série&nbsp;
+de vidéo, votre réponse à ce paradoxe a pas&nbsp;&nbsp;
+
+00:32:12.200 --> 00:32:16.480
+mal d'influence sur la part de "pour moi" /&nbsp;
+"pour les autres". Les one-boxer buveurs de&nbsp;&nbsp;
+
+00:32:16.480 --> 00:32:20.040
+poison répondent beaucoup moins "pour moi".&nbsp;
+Je peux pas l'expliquer en deux mots ici&nbsp;&nbsp;
+
+00:32:20.040 --> 00:32:22.920
+mais si vous revoyez les épisode je pense&nbsp;
+que vous comprendrez facilement pourquoi.
+
+00:32:22.920 --> 00:32:25.440
+- Alors vous reprenez depuis le&nbsp;
+début avec une tournure simple&nbsp;&nbsp;
+
+00:32:25.440 --> 00:32:27.480
+et direct ou vous ramassez&nbsp;
+une tarte. C'est clair ça ?
+
+00:32:27.480 --> 00:32:31.000
+Allez, petit résumé et conclusion de tout&nbsp;
+ça. D'abord, les agents qui font le choix&nbsp;&nbsp;
+
+00:32:31.000 --> 00:32:35.080
+individualiste dans notre petit jeu sont pas si&nbsp;
+nombreux que ça, mais ils sont persuadés à tort&nbsp;&nbsp;
+
+00:32:35.080 --> 00:32:39.400
+d'être très nombreux. Leur part diminue quand&nbsp;
+le jeu est joué publiquement, et elle diminue&nbsp;&nbsp;
+
+00:32:39.400 --> 00:32:43.680
+plus encore quand on diffuse un simple petit&nbsp;
+message qui encourage à adopter la stratégie&nbsp;&nbsp;
+
+00:32:43.680 --> 00:32:47.760
+coopérative. On voit aussi qu'effectivement ce&nbsp;
+message fait l'unanimité non seulement chez ceux&nbsp;&nbsp;
+
+00:32:47.760 --> 00:32:51.480
+qui adoptent la stratégie coopérative,&nbsp;
+mais aussi très très largement chez ceux&nbsp;&nbsp;
+
+00:32:51.480 --> 00:32:55.400
+qui ne l'adoptent mais qui donc veulent que les&nbsp;
+autres l'adoptent. En ça ils se comportent bien&nbsp;&nbsp;
+
+00:32:55.400 --> 00:33:00.200
+en agent non-kantien au sens où la raison qui&nbsp;
+les poussent à faire leur choix individualiste&nbsp;&nbsp;
+
+00:33:00.200 --> 00:33:04.120
+leur fait en même temps vouloir que les autres&nbsp;
+ne suivent pas cette même raison et ne fassent&nbsp;&nbsp;
+
+00:33:04.120 --> 00:33:07.960
+pas le même choix. C'est donc parfaitement&nbsp;
+contraire à l'impératif catégorique de Kant.
+
+00:33:07.960 --> 00:33:09.360
+- Quelle indignité.
+
+00:33:09.360 --> 00:33:12.480
+C'est pas non plus très grave, c'est juste un&nbsp;
+petit jeu. Ceci dit, évidemment, on pourrait&nbsp;&nbsp;
+
+00:33:12.480 --> 00:33:17.240
+dresser un parallèle entre ce petit jeu imaginaire&nbsp;
+et des situations sociales bien réelles. Il y a&nbsp;&nbsp;
+
+00:33:17.240 --> 00:33:20.720
+des sortes de dilemmes du prisonnier un peu&nbsp;
+partout: par exemple est-ce que ça vaut bien&nbsp;&nbsp;
+
+00:33:20.720 --> 00:33:25.720
+la peine de consentir à faire des efforts pour&nbsp;
+le climat ou pour telle autre cause collective&nbsp;&nbsp;
+
+00:33:25.720 --> 00:33:29.320
+importante alors que l'effet de ma contribution&nbsp;
+individuelle sera en fin de compte toujours&nbsp;&nbsp;
+
+00:33:29.320 --> 00:33:32.840
+négligeable, noyé dans la masse ? Et en même&nbsp;
+temps je voudrais que tout le monde fasse de&nbsp;&nbsp;
+
+00:33:32.840 --> 00:33:35.840
+tels efforts pour que ça ait réellement un&nbsp;
+effet. C'est finalement assez similaire à&nbsp;&nbsp;
+
+00:33:35.840 --> 00:33:39.040
+ces histoires de dilemmes du prisonniers avec&nbsp;
+un grand nombre d'agents. Et c'est pour ça que&nbsp;&nbsp;
+
+00:33:39.040 --> 00:33:43.000
+c'est intéressant d'étudier la mécanique de&nbsp;
+tels jeux, et des différents types d'agents&nbsp;&nbsp;
+
+00:33:43.000 --> 00:33:47.640
+qui peuvent y jouer, j'espère que cette petite&nbsp;
+expérience aura été instructive à cet égard.
+
+00:33:47.640 --> 00:33:50.360
+- Eh ben je vous laisse méditer là-dessus.
+
+00:33:50.360 --> 00:33:54.720
+Voilà donc l'essentiel de ce que je voulais vous&nbsp;
+raconter à propos de cette petite expérience de&nbsp;&nbsp;
+
+00:33:54.720 --> 00:33:58.280
+théorie des jeux kantienne. Et si vous voulez&nbsp;
+prolonger la réflexion, je vous invite à me&nbsp;&nbsp;
+
+00:33:58.280 --> 00:34:02.160
+suivre dans une seconde vidéo où je discute de&nbsp;
+tout ça avec l'enseignant-chercheur en économie&nbsp;&nbsp;
+
+00:34:02.160 --> 00:34:06.520
+Nicolas Gravel. On a parlé de plein de choses,&nbsp;
+notamment de la formalisation des agents kantiens,&nbsp;&nbsp;
+
+00:34:06.520 --> 00:34:09.600
+mais aussi des résultats de cette petite&nbsp;
+expérience, d'ailleurs ça a influencé ce&nbsp;&nbsp;
+
+00:34:09.600 --> 00:34:13.000
+que j'ai dit dans cette vidéo notamment sur&nbsp;
+cette question de l'agent réciprocateur. La&nbsp;&nbsp;
+
+00:34:13.000 --> 00:34:16.360
+seconde vidéo est publiée sur la chaîne&nbsp;
+Echoscience - Provence Alpes Côte d'Azur,&nbsp;&nbsp;
+
+00:34:16.360 --> 00:34:19.400
+je vous mets le lien en description. Je vous&nbsp;
+signale au passage qu'il y a plein d'autres vidéos&nbsp;&nbsp;
+
+00:34:19.400 --> 00:34:22.800
+qui ont été réalisées dans ce cadre, donc avec&nbsp;
+l'idée est de faire se rencontrer la recherche&nbsp;&nbsp;
+
+00:34:22.800 --> 00:34:27.680
+et la vulgarisation, c'est la 6e saison des vidéos&nbsp;
+échoscientifiques. Ça m'a beaucoup plu de traiter&nbsp;&nbsp;
+
+00:34:27.680 --> 00:34:32.160
+ce sujet à ma sauce, donc merci à eux, et merci&nbsp;
+à PlayAzur prod qui produit tout ça. Voilà !
+
+00:34:32.160 --> 00:34:35.960
+Et merci surtout à toutes celles et ceux qui&nbsp;
+me soutiennent sur les plateformes de don et&nbsp;&nbsp;
+
+00:34:35.960 --> 00:34:38.920
+sans qui je ne pourrais pas continuer&nbsp;
+à faire toutes ces vidéos. Notez que si&nbsp;&nbsp;
+
+00:34:38.920 --> 00:34:41.560
+vous me soutenez vous avez droit en&nbsp;
+plus à des lectures audio inédites,&nbsp;&nbsp;
+
+00:34:41.560 --> 00:34:44.480
+j'en rajoute régulièrement, donc voilà&nbsp;
+ça peut être une raison de vous mettre&nbsp;&nbsp;
+
+00:34:44.480 --> 00:34:48.000
+à soutenir la chaîne si vous le souhaitez. Ce&nbsp;
+serait fort sympathique et universalisable de&nbsp;&nbsp;
+
+00:34:48.000 --> 00:34:51.200
+votre part. D'ailleurs, est-ce qu'on a pas là une&nbsp;
+sorte de dilemme du prisonnier encore une fois ?
+
+00:34:51.200 --> 00:34:55.080
+Je pense avoir fait le tour des trucs à dire.&nbsp;
+Abonnez-vous, la cloche, tout ça, tout ça,&nbsp;&nbsp;
+
+00:34:55.080 --> 00:34:58.920
+vous connaissez. On se retrouve bientôt pour une&nbsp;
+nouvelle vidéo, en attendant portez-vous bien,&nbsp;&nbsp;
+
+00:34:58.920 --> 00:35:02.600
+et efforcez-vous dans la mesure du possible&nbsp;
+d'agir en suivant une maxime que vous pouvez en&nbsp;&nbsp;
+
+00:35:02.600 --> 00:35:13.665
+même temps vouloir ériger en loi universelle,&nbsp;
+c'est pas la mer à boire non plus, merci.
+
+00:35:13.665 --> 00:35:16.540
+- Gna gna gna, la guitare, les troubadours,&nbsp;
+tout ça c'est fini. Non merci j'ai les miennes.
+
+00:35:16.540 --> 00:35:26.160
+- Bandes de crétins conformés.
+

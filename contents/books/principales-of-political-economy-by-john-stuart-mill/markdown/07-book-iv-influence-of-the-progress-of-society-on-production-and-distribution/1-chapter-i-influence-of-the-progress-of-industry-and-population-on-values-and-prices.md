@@ -1,0 +1,361 @@
+---
+title: Chapter I. Influence Of The Progress Of Industry And Population On Values And Prices.
+path: 07-book-iv-influence-of-the-progress-of-society-on-production-and-distribution/1-chapter-i-influence-of-the-progress-of-industry-and-population-on-values-and-prices
+ancestors:
+  - Book IV. Influence Of The Progress Of Society On Production And Distribution.
+href: 1129008759595750428_30107-h-9.html.xhtml#pgepubid00204
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter I. Influence Of The Progress Of Industry And Population On Values And Prices.
+
+## § 1. Tendency of the progress of society toward increased Command over the powers of Nature; increased Security, and increased Capacity of Co-Operation.
+
+In the leading countries of the world, and in all others as they come within the influence of those leading countries,
+there is at least one progressive movement which continues with little interruption from year to year and from
+generation to generation—a progress in wealth; an advancement in what is called material prosperity. All the nations
+which we are accustomed to call civilized increase gradually in production and in population: and there is no reason to
+doubt that not only these nations will for some time continue so to increase, but that most of the other nations of the
+world, including some not yet founded, will successively enter upon the same career. It will, therefore, be our first
+object to examine the nature and consequences of this progressive change, the elements which constitute it, and the
+effects it produces on the various economical facts of which we have been tracing the laws, and especially on wages,
+profits, rents, values, and prices.
+
+Of the features which characterize this progressive economical movement of civilized nations, that which first excites
+attention, through its intimate connection with the phenomena of Production, is the perpetual, and, so far as human
+foresight can extend (1), the unlimited, growth of man's \[pg 476\] power over nature. Our knowledge of the properties
+and laws of physical objects shows no sign of approaching its ultimate boundaries: it is advancing more rapidly, and in
+a greater number of directions at once, than in any previous age or generation, and affording such frequent glimpses of
+unexplored fields beyond as to justify the belief that our acquaintance with nature is still almost in its infancy.
+
+Another change, which has always hitherto characterized, and will assuredly continue to characterize, the progress of
+civilized society, is (2) a continual increase of the security of person and property. Of this increased security, one
+of the most unfailing effects is a great increase both of production and of accumulation. Industry and frugality can not
+exist where there is not a preponderant probability that those who labor and spare will be permitted to enjoy.
+
+One of the changes which most infallibly attend the progress of modern society is, (3) an improvement in the business
+capacities of the general mass of mankind. I do not mean that the practical sagacity of an individual human being is
+greater than formerly. What is lost in the separate efficiency of each is far more than made up by the greater capacity
+of united action. Works of all sorts, impracticable to the savage or the half-civilized, are daily accomplished by
+civilized nations, not by any greatness of faculties in the actual agents, but through the fact that each is able to
+rely with certainty on the others for the portion of the work which they respectively undertake. The peculiar
+characteristic, in short, of civilized beings, is the capacity of co-operation; and this, like other faculties, tends to
+improve by practice, and becomes capable of assuming a constantly wider sphere of action.
+
+\[This progress affords\] space and scope for an indefinite increase of capital and production, and for the increase of
+population which is its ordinary accompaniment. That the growth of population will overpass the increase of production,
+there is not much reason to apprehend. It is, however, quite possible that there might be a great progress in industrial
+\[pg 477\] improvement, and in the signs of what is commonly called national prosperity; a great increase of aggregate
+wealth, and even, in some respects, a better distribution of it; that not only the rich might grow richer, but many of
+the poor might grow rich, that the intermediate classes might become more numerous and powerful, and the means of
+enjoyable existence be more and more largely diffused, while yet the great class at the base of the whole might increase
+in numbers only, and not in comfort nor in cultivation. We must, therefore, in considering the effects of the progress
+of industry, admit as a supposition, however greatly we deprecate as a fact, an increase of population as
+long-continued, as indefinite, and possibly even as rapid, as the increase of production and accumulation.
+
+## § 2. Tendency to a Decline of the Value and Cost of Production of all Commodities.
+
+The changes which the progress of industry causes or presupposes in the circumstances of production are necessarily
+attended with changes in the values of commodities.
+
+The permanent values of all things which are neither under a natural nor under an artificial monopoly depend, as we have
+seen, on their cost of production. (1.) But the increasing power which mankind are constantly acquiring over nature
+increases more and more the efficiency of human exertion, or, in other words, diminishes cost of production. All
+inventions by which a greater quantity of any commodity can be produced with the same labor, or the same quantity with
+less labor, or which abridge the process, so that the capital employed needs not be advanced for so long a time, lessen
+the cost of production of the commodity. As, however, value is relative, if inventions and improvements in production
+were made in all commodities, and all in the same degree, there would be no alteration in values.
+
+As for prices, in these circumstances they would be affected or not, according as the improvements in production did or
+did not extend to the precious metals. If the materials of money were an exception to the general diminution of cost of
+production, the values of all other things would fall in relation to money—that is, there would be a fall of general
+\[pg 478\] prices throughout the world. But if money, like other things, and in the same degree as other things, were
+obtained in greater abundance and cheapness, prices would be no more affected than values would.
+
+As regards the precious metals, it is to be said that since 1850 there has been a vast increase in their amount, and
+probably in greater proportion than the need arising from increased transactions. This is certainly true of silver; and
+it is admitted to be true of gold as late as about 1865. It has been asserted by Mr. Goschen that since then, especially
+since 1873, gold has not existed in a quantity that would permit it to keep its former proportions to commodities, and
+that it had appreciated. An appreciation, of course, would show itself in lower gold prices. On the other hand, gold
+has, as I think, not appreciated. Prices, even in the collapse of credit after the panic of 1873 down to 1879, were not
+quite so low as in 1845-1850, as is seen by the following table taken from the London “Economist”—2,200 indicating the
+price of a given number of articles in 1845-1850, as the basis of the table with which the prices of other years are
+compared:
+
+| Year. | Index numbers. |
+| --- | --- |
+| 1845-1850 | 2,200 |
+| 1857, July 1 | 2,996 |
+| 1858, January 1 | 2,612 |
+| 1865 | 3,575 |
+| 1866 | 3,564 |
+| 1867 | 3,024 |
+| 1868 | 2,682 |
+| 1869 | 2,666 |
+| 1870 | 2,689 |
+| 1871 | 2,590 |
+| 1872 | 2,835 |
+| 1873 | 2,947 |
+| 1874 (Depression) | 2,891 |
+| 1875 (Depression) | 2,778 |
+| 1876 (Depression) | 2,711 |
+| 1877 (Depression) | 2,723 |
+| 1878 (Depression) | 2,529 |
+| 1879 (Depression) | 2,202 |
+| 1880 | 2,538 |
+| 1881 | 2,376 |
+| 1882 | 2,435 |
+| 1883 | 2,343 |
+
+But the progress of society, particularly in the direction of improved and cheapened processes of manufacturing, has
+vastly lowered the cost of a great number of articles of common consumption. The process has been already seen in the
+diminished charge for railway transportation (see Chart [No. V](1129008759595750428_30107-h-3.html.xhtml#Chart_V)).
+Moreover, the years of a depression are exactly those in which there is always a forced economy, and generally form a
+period in which cheapening goes on at its best. Hence, if prices have had a tendency to fall, owing to the lowered cost
+of production consequent on improvements—and if they are not, as a rule, lower than in 1850—it shows that they are still
+supported by the high tide of the great gold production of this century. And \[pg 479\] even the access to more fertile
+land in the world has acted to prevent an increase in the prices of agricultural products such as would offset the fall
+of manufactured goods. That is, the fact that prices have not fallen as much as might be expected, indicates that the
+gold has prevented the lower costs due to the progress of industry from being fully seen.
+
+Improvements in production are not the only circumstance accompanying the progress of industry, which tends to diminish
+the cost of producing, or at least of obtaining, commodities. (2.) Another circumstance is the increase of intercourse
+between different parts of the world. As commerce extends, and the ignorant attempts to restrain it by tariffs become
+obsolete, commodities tend more and more to be produced in the places in which their production can be carried on at the
+least expense of labor and capital to mankind. (3.) Much will also depend on the increasing migration of labor and
+capital to unoccupied parts of the earth, of which the soil, climate, and situation are found, by the ample means of
+exploration now possessed, to promise not only a large return to industry, but great facilities of producing commodities
+suited to the markets of old countries. Much as the collective industry of the earth is likely to be increased in
+efficiency by the extension of science and of the industrial arts, a still more active source of increased cheapness of
+production will be found, probably, for some time to come, in the gradually unfolding consequences of Free Trade, and in
+the increasing scale on which Emigration and Colonization will be carried on.
+
+From the causes now enumerated, unless counteracted by others, the progress of things enables a country to obtain, at
+less and less of real cost, not only its own productions but those of foreign countries. Indeed, whatever diminishes the
+cost of its own productions, when of an exportable character, enables it, as we have already seen, to obtain its imports
+at less real cost.
+
+## § 3. —except the products of Agriculture and Mining, which have a tendency to Rise.
+
+Are no causes of an opposite character, brought into operation by the same progress, sufficient in some cases not only
+to neutralize but to overcome the former, and convert \[pg 480\] the descending movement of cost of production into an
+ascending movement? We are already aware that there are such causes, and that, in the case of the most important classes
+of commodities, food, and materials, there is a tendency diametrically opposite to that of which we have been speaking.
+The cost of production of these commodities tends to increase.
+
+This is not a property inherent in the commodities themselves. If population were stationary, and the produce of the
+earth never needed to be augmented in quantity, there would be no cause for greater cost of production.[^295] The only
+products of industry which, if population did not increase, would be liable to a real increase of cost of production,
+are those which, depending on a material which is not renewed, are either wholly or partially exhaustible, such as coal,
+and most if not all metals; for even iron, the most abundant as well as most useful of metallic products, which forms an
+ingredient of most minerals and of almost all rocks, is susceptible of exhaustion so far as regards its richest and most
+tractable ores.
+
+When, however, population increases, as it has never yet failed to do, then comes into effect that fundamental law of
+production from the soil on which we have so frequently had occasion to expatiate, the law that increased labor, in any
+given state of agricultural skill, is attended with a less than proportional increase of produce. The cost of production
+of the fruits of the earth increases, cæteris paribus, with every increase of the demand.
+
+Mr. Cairnes has made some essential contributions to the discussion of changes of value arising from the progress of
+society:[^296] “When a colony establishes itself in a new country, the course of its industrial development naturally
+follows the character of the opportunities offered to industrial enterprise \[pg 481\] by the environment. These will,
+of course, vary a good deal, according to the part of the world in which the new society happens to be placed; but,
+speaking broadly, they will be such as to draw the bulk of the industrial activity of the new people into some one or
+more of those branches of industry which have been conveniently designated ‘extractive.’ Agriculture, pastoral and
+mining pursuits, and the cutting of lumber, are among the principal of such industries.” To these pursuits apply “that
+law of Political Economy, or, more properly, of physical nature, which Mr. Mill has rightly characterized as the most
+important proposition in economic science—the law, as he phrased it, of ‘diminishing productiveness.’ It may be thus
+briefly stated: In any given state of the arts of production, the returns to human industry employed upon natural agents
+will, up to a certain point, be the maximum which those natural agents, cultivated with the degree of skill brought to
+bear upon them, are capable of yielding; but, after this point has been passed, though an increased application of labor
+and capital will obtain an increased return, it will not obtain a proportionally increased return; on the contrary,
+every further increase of outlay—always assuming that the skill employed in applying it continues the same as
+before—will be attended with a return constantly diminishing.... What I am now concerned to show is the manner in which,
+with the progress of society, the law in question affects the course of normal[^297] values in all commodities coming
+under its influence.
+
+“The class of commodities in the production of which the facilities possessed by new communities, as compared with old,
+attain their greatest height, are those of which timber and meat may be taken as the type, and comprises such articles
+as wool, game, furs, hides, horns, pitch, resin, etc. The circumstance which most powerfully affects the course of
+values in the products of extractive industry, and in the commodities just referred to among the rest, is the degree in
+which they admit of being transported from place to place—that is to say, their _portableness_—depending, as it does,
+partly on their durability and partly on their bulk.” It is found that, taking timber and meat as a type—one possessing
+portableness in a vastly greater degree than the other—in the early settlement of a new country, the portable article,
+like timber, at once rises in price “to a level lower than that prevailing in old countries only by the cost of
+transport”; on the other hand, perishable articles like meat are “confined for a market, if not to the immediate \[pg
+482\] locality where it is produced, at least to the bordering countries; and, being raised in new countries at very low
+cost, their value during the early stages of their growth is necessarily low. But, as population advances, and
+agriculture encroaches on the natural pasture-lands originally available for the rearing of cattle, still more as it
+becomes necessary to cultivate land for the purpose of pasture, the cost of meat constantly rises.” As population
+increases there will be an increased demand for dairy-products, eggs, small fruits, fresh vegetables, milk, etc., and
+thereby it becomes more profitable to employ land near populous centers for such perishable products than for the
+products of large farming. Almost every one, who knows the high prices of butter, eggs, and vegetables in large cities
+as compared with their prices in country districts, is familiar with the phenomena which illustrate this principle.
+Moreover, as a denser population settles on our Western prairies, now given over to ranches and vast pasturing-grounds
+for cattle—since cattle in general require a large extent of land—the cost of meat will rise. The prices of perishable
+articles, therefore, will rise without any limit except that set by increasing numbers, and can not be kept down by the
+force of competition from other distant places, as is the case with such easily transportable things as timber and wool.
+What has been said of the transportableness of meat, however, is to be modified somewhat by the introduction of improved
+processes of transporting meat in refrigerator-cars; but there still exist commodities of which meat was only taken as a
+type.
+
+No tendency of a like kind exists with respect to manufactured articles. The tendency is in the contrary direction. The
+larger the scale on which manufacturing operations are carried on, the more cheaply they can in general be performed. As
+manufactures, however, depend for their materials either upon agriculture, or mining, or the spontaneous produce of the
+earth, manufacturing industry is subject, in respect of one of its essentials, to the same law as agriculture. But the
+crude material generally forms so small a portion of the total cost that any tendency which may exist to a progressive
+increase in that single item is much overbalanced by the diminution continually taking place in all the other elements;
+to which diminution it is impossible at present to assign any limit.
+
+It follows that the exchange values of manufactured articles, \[pg 483\] compared with the products of agriculture and
+of mines, have, as population and industry advance, a certain and decided tendency to fall. Money being a product of
+mines, it may also be laid down as a rule that manufactured articles tend, as society advances, to fall in money price.
+The industrial history of modern nations, especially during the last hundred years, fully bears out this assertion.
+
+In regard to manufactures, as opposed to raw products, it is to be remarked “that, as the course of price in the field
+of raw products is, on the whole, upward, so in that of manufactured goods the course is, not less strikingly, in the
+opposite direction. The reasons of this are exceedingly plain. In the first place, _division of labor_—the first and
+most powerful of all cheapeners of production, but for which there is in extractive industry but very limited
+scope—finds in manufacturing industry an almost unbounded range for its application; and, secondly, it is in
+manufacturing industry also that _machinery_, the other great cheapener of production, admits of being employed on the
+largest scale, and has, in fact, been employed with the most signal success. It follows at once from these facts, taken
+in connection with the further fact that industrial invention does not take place per saltum, but gradually—one
+invention ever treading on the heels of another—and that its advance seems to be subject to no limitation; it follows, I
+say, from these considerations, that that portion of the cost of manufactured goods which properly belongs to the
+manufacturing process must, with the progress of society, undergo constant diminution.... In all the great branches of
+manufacturing industry the portion of the cost incurred in the manufacturing process bears in general a large proportion
+to that represented by the raw material, while the influence of industrial invention, in reducing this portion of the
+cost, is, as every one knows, great and unremitting in its action.”
+
+As has been said, “the two great cheapeners of production are division of labor and machinery, and the degree in which
+these admit of being applied to manufacture is mainly dependent upon the scale on which the manufacturing process is
+carried on. Those manufactures, therefore, that are produced upon a large scale are the sort of manufactures in which we
+may expect the greatest reduction in cost; in which, therefore, the fall in price, with the progress of society, will be
+most marked. But the manufactures which are produced upon the largest scale are those for which there exists the largest
+demand—that is to say, are those which enter most extensively into the consumption of the great mass of people. They are
+\[pg 484\] also, I may add, those in which a fall in price is apt to stimulate a great increase of demand. All the
+common kinds of clothing, furniture, and utensils fall within the scope of this remark; and it is in these, rather than
+in the commodities consumed exclusively or mainly by the richer classes, that we should, accordingly, expect to find the
+greatest marvels of cheapening.” But the articles of common consumption are those in which “the amount of manufacture
+bestowed upon them bears a smaller proportion to the raw material than is the case with the more elaborate manufactures.
+Such coarser manufactures, therefore, would feel the effects of the advancing cost of the raw material more sensibly
+than the refined sorts. Nevertheless, it can not be supposed to compensate the advantages due to the causes I have
+pointed out which fall to the share of the commoner sorts. It is in this class of goods that the most remarkable
+reductions in price have been accomplished in the past, and it is in them, probably, that we shall witness in the future
+the greatest results of the same kind.”
+
+## § 4. —that tendency from time to time Counteracted by Improvements in Production.
+
+Whether agricultural produce increases in absolute as well as comparative cost of production depends on the conflict of
+the two antagonist agencies—increase of population and improvement in agricultural skill. In some, perhaps in most,
+states of society (looking at the whole surface of the earth), both agricultural skill and population are either
+stationary, or increase very slowly, and the cost of production of food, therefore, is nearly stationary. In a society
+which is advancing in wealth, population generally increases faster than agricultural skill, and food consequently tends
+to become more costly; but there are times when a strong impulse sets in toward agricultural improvement. Such an
+impulse has shown itself in Great Britain during the last fifteen or twenty years \[before 1847\]. In England and
+Scotland agricultural skill has of late increased considerably faster than population, insomuch that food and other
+agricultural produce, notwithstanding the increase of people, can be grown at less cost than they were thirty years ago;
+and the abolition of the Corn Laws has given an additional stimulus to the spirit of improvement. In some other
+countries, and particularly in France, the improvement of agriculture gains ground still more decidedly upon population,
+because though \[pg 485\] agriculture, except in a few provinces, advances slowly, population advances still more
+slowly, and even with increasing slowness, its growth being kept down, not by poverty, which is diminishing, but by
+prudence.
+
+Moreover, the cheapened cost of transportation has admitted to England and the Continent the wheat supplies of our
+Western States at a low price even after having been carried to transatlantic markets. New methods of getting
+food-supplies from foreign countries act equally with improvements at home.
+
+## § 5. Effect of the Progress of Society in moderating fluctuations of Value.
+
+Thus far, of the effect of the progress of society on the permanent or average values and prices of commodities. It
+remains to be considered in what manner the same progress affects their fluctuations. Concerning the answer to this
+question there can be no doubt. It tends in a very high degree to diminish them.
+
+In poor and backward societies, as in the East, and in Europe during the middle ages, extraordinary differences in the
+price of the same commodity might exist in places not very distant from each other, because the want of roads and
+canals, the imperfection of marine navigation, and the insecurity of communications generally, prevented things from
+being transported from the places where they were cheap to those where they were dear. The things most liable to
+fluctuations in value, those directly influenced by the seasons, and especially food, were seldom carried to any great
+distances. In most years, accordingly, there was, in some part or other of any large country, a real dearth; while a
+deficiency at all considerable, extending to the whole world, is \[now\] a thing almost unknown. In modern times,
+therefore, there is only dearth, where there formerly would have been famine, and sufficiency everywhere when anciently
+there would have been scarcity in some places and superfluity in others.
+
+The same change has taken place with respect to all other articles of commerce. The safety and cheapness of
+communications, which enable a deficiency in one place to be supplied from the surplus of another, at a moderate or even
+a \[pg 486\] small advance on the ordinary price, render the fluctuations of prices much less extreme than formerly.
+This effect is much promoted by the existence of large capitals, belonging to what are called speculative merchants,
+whose business it is to buy goods in order to resell them at a profit. These dealers naturally buying things when they
+are cheapest, and storing them up to be brought again into the market when the price has become unusually high, the
+tendency of their operations is to equalize price, or at least to moderate its inequalities. The prices of things are
+neither so much depressed at one time, nor so much raised at another, as they would be if speculative dealers did not
+exist.
+
+Mr. Mill uses the term “speculative” in a different sense from that which is customary in this country. Merchants who
+buy outright and store up grain are not speculators in the sense in which the word is used with us; but those gamblers
+who purchase, “for future delivery,” grain which they never see, and which they sell in the same way, are here known as
+speculators.
+
+It appears, then, that the fluctuations of values and prices arising from variations of supply, or from alterations in
+real (as distinguished from speculative) demand, may be expected to become more moderate as society advances. With
+regard to those which arise from miscalculation, and especially from the alternations of undue expansion and excessive
+contraction of credit, which occupy so conspicuous a place among commercial phenomena, the same thing can not be
+affirmed with equal confidence. Such vicissitudes, beginning with irrational speculation and ending with a commercial
+crisis, have not hitherto become either less frequent or less violent with the growth of capital and extension of
+industry. Rather they may be said to have become more so, in consequence, as is often said, of increased competition,
+but, as I prefer to say, of a lower rate of profits and interest, which makes capitalists dissatisfied with the ordinary
+course of safe mercantile gains. The connection of this low rate of profit with the advance of population and
+accumulation is one of the points to be illustrated in the ensuing chapters.
+
+\[pg 487\]
+
+Mr. Cairnes also adds some investigations as to the fluctuations of value: “Hitherto I have examined the derivative laws
+of value in so far only as they are exemplified in the movements of _normal_ prices. It will be interesting now to
+consider whether it is possible to discover in the movements of _market_ prices any corresponding phenomena.
+
+“Taking manufactures first, it is evident at once that, as regards conditions of protection, the circumstances of the
+case are such as to secure, in general, (1.) great rapidity and great certainty in bringing commodities to market. A
+deal table may be made in a few hours, a piece of cloth in a few weeks, and a moderate-sized house in a month or little
+more. Tables, cloth, and houses may be produced with certainty in any quantity required. It results from this that it is
+scarcely possible that, under ordinary circumstances, the selling price of a product of manufacture should for any long
+time much exceed its normal price. (2.) The nature of manufactures is, in general, such as to fit them admirably for
+distant transport. Any considerable elevation of price, therefore, is pretty certain to attract supplies from remote
+sources. (3.) Further, considered in their relation to human needs, I think it may be said of manufactured goods, that
+either the need for them is not very urgent, or, where it happens to be so, substitutes ... may easily be found. From
+all these circumstances it results that an advance in the price ... either attracts supplies, or deters purchasers, ...
+preventing any great departure from the usual terms of the market.
+
+“Turning now to the products of agricultural, pastoral, or, more generally, ‘extractive’ industry, we find the
+circumstances under which this class of goods is brought to market in all respects extremely different from those which
+we have just examined, and such as to permit a much wider margin of deviation for the market from the normal price. Here
+the period of production is longer, the result of the process much more uncertain, the commodity at once more perishable
+and less portable, and human requirements in relation to it are mostly of a more urgent kind: (1.) The shortest period
+within which additions can be made to the supply of food and raw material of the vegetable kind is in general a year,
+and, if the commodity be of animal origin, the minimum is considerably larger. (2.) Again, the farmer may decide upon
+the breadth of ground to be devoted to a particular crop, or upon the number of cattle he will maintain; but the actual
+returns will vary according to the season, and may prove far in excess or far in defect of his calculations. These
+circumstances all present obstacles to the adjustment of supply and demand, and consequently tend to produce frequent
+and extensive deviations of the market \[pg 488\] from the normal price. Nor are the other conditions of the case such
+as to neutralize the influence of such disturbing agencies. (3.) The nature, indeed, of some of the principal
+agricultural products fits them sufficiently well for distant transport, and so far tends to correct fluctuations of
+price. But, on the other hand, (4.) the relation of these products to human wants is such as greatly to enhance that
+tendency to violent fluctuation incident to the conditions of their production. More especially is this the case with
+the commodity, whatever it may be, which forms the staple food of a people. For observe the peculiar nature of human
+requirements with reference to such a commodity. They are of this kind, that, given the number of a population, the
+quantity of the staple food required is nearly a fixed quantity, and this almost irrespective of price. Except among the
+poorest, increased cheapness will not stimulate a larger consumption; while, on the other hand, all, at any cost within
+the range of their means, will obtain their usual supply. The consequence is that, when even a moderate deficiency or
+excess occurs in the supply of the staple food of a people, in the one case (a), the competition of consumers for their
+usual quantum of food rapidly forces up the price far out of proportion to the diminution in the supply; in the other
+(b), no one being inclined to increase his usual consumption, the competition of sellers, in their eagerness to find a
+market for the superfluous portion of the supply, is equally powerful to depress it.”
+
+\[pg 489\]
+
+* * *
+
+[^295]: Henry George, however, asserts that, “irrespective of the increase of population, the effect of improvements in methods of production and exchange is to increase rent” (“Progress and Poverty,” p. 220).
+
+[^296]: “Leading Principles,” Part I, chap. v.
+
+[^297]: For the distinction between normal and market values, see supra, [Book III, Chap. II, § 4](1129008759595750428_30107-h-5.html.xhtml#Book_III_Chapter_II_Section_4), and p. [269](1129008759595750428_30107-h-5.html.xhtml#Pg269).

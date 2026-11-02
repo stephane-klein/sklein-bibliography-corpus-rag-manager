@@ -1,0 +1,1529 @@
+---
+source_url: https://www.youtube.com/watch?v=jBJbwqyVtvA
+video_title: Quelles perspectives économiques à l'heure du féminicène ?
+generated_at: 2026-09-20T18:58:28.738Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 155.3
+  input_tokens: 31180
+  cached_input_tokens: 0
+  output_tokens: 38205
+  estimated_cost_usd: 0.0276
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Quelles perspectives économiques à l'heure du féminicène ?
+
+## Ouverture et présentation des invités
+
+**Modérateur :** Merci d’être venu ce soir à cette table ronde de rentrée, dans
+un esprit de contradiction attaché au débat d’idées, au pluralisme et à la
+confrontation des idées. Nous avons ce soir l’immense honneur d’accueillir parmi
+nous Véronique, à ma gauche, et David Cayla, à ma droite. Cette rencontre
+devrait permettre de donner à voir la complémentarité de vos ouvrages
+respectifs, de montrer les points d’accord qui peuvent jaillir et une certaine
+continuité qui peut exister entre vos deux livres.
+
+Pour présenter succinctement David Cayla : vous êtes économiste, vice-doyen à la
+pédagogie à l’Université d’Angers, à la faculté de droit. Vous écrivez
+occasionnellement dans divers médias, notamment *Le Temps des ruptures*, et vous
+collaborez depuis peu avec un média indépendant et lucide. Vous avez été, et
+vous êtes encore actuellement je crois, membre du conseil d’administration des
+Économistes atterrés jusqu’à la mi-octobre. Plus récemment, vous avez consacré
+une série d’ouvrages aux populismes, au néolibéralisme, sans jamais perdre de
+vue la variable européenne, qui fait partie intégrante de vos ouvrages. Vous
+avez d’ailleurs signé plusieurs ouvrages avec la regrettée Coralie Delaume,
+notamment un livre au titre que l’on pourrait dire provocateur, *La fin de
+l’Union européenne*, il y a quelques années. En 2022, et c’est la raison pour
+laquelle nous allons vous interroger aujourd’hui au nom des contradictions, vous
+avez publié *Déclin et chute du néolibéralisme*, dans lequel vous réalisez une
+sorte de genèse de la construction européenne, une histoire du monétarisme, une
+histoire du néolibéralisme — un terme parfois jeté à la figure, utilisé à tort
+et à travers dans le débat public, sur lequel vous allez revenir. Vous allez
+pouvoir le décortiquer, l’expliquer, l’expliciter. Et je ne crois pas me tromper
+: cet ouvrage permet aussi de penser le post-néolibéralisme, car vous considérez
+qu’il faut d’abord et avant tout en comprendre les ressorts et les soubassements
+théoriques avant d’envisager l’avenir, aussi sombre soit-il. Cela fera
+d’ailleurs écho à l’ouvrage de Véronique.
+
+Véronique, vous êtes issue d’une famille de scientifiques, titulaire d’un DEA de
+sciences sociales et d’un doctorat en sciences politiques. Vous êtes également
+fonctionnaire. En 2010, vous souteniez à la Sorbonne votre thèse de doctorat
+intitulée *National-bolchevisme et néo-eurasismes dans la Russie contemporaine :
+la carrière militante d’une idéologie*. Aujourd’hui, toutefois, nous vous
+accueillons pour un ouvrage au titre un peu moins barbare pour le profane, sorti
+il y a quelques mois et intitulé *Féminicène*, avec pour sous-titre : *Les
+vraies raisons de l’émancipation des femmes, les vrais dangers qui la menacent*.
+C’est un livre sorti chez Fayard, d’inspiration matérialiste, dans lequel vous
+réhabilitez une forme de complexité et de nuances bien souvent absentes des
+débats autour du féminisme, débats bien souvent manichéens où la nuance fait
+totalement défaut. Il va donc être question des interactions entre nature et
+culture, entre infrastructure et superstructure, et finalement de la tension
+entre matérialisme et idéalisme, pour le dire vite. En bref, c’est un ouvrage
+qui donne un coup de pied dans la fourmilière féministe et qui prend le
+contre-pied des idées reçues que l’on entend très souvent dans le débat public.
+
+C’est pourquoi ma première question est pour vous, Véronique : qu’est-ce que
+tout simplement le féminicène ? Qu’est-ce qui a motivé l’écriture de votre
+ouvrage ? En quoi est-il matérialiste ? En quoi est-ce un féminisme matérialiste
+? Et pourquoi tout un tas de détours à travers l’ouvrage par l’ère
+préindustrielle et aussi la révolution industrielle qui a eu cours au XIXe
+siècle ?
+
+## Le féminicène : matérialisme et émancipation des femmes
+
+**Véronique :** Bonjour à tous. D’abord merci pour l’invitation, merci beaucoup.
+Je suis très contente d’être là, surtout en compagnie de David Cayla. Toutes mes
+excuses à l’assistance : comme vous le voyez, je suis infirme aujourd’hui. Je ne
+suis pas contagieuse, je n’ai pas le Covid. J’ai eu une crève la semaine
+dernière, une extinction de voix, et tout à l’heure je me suis mise à tousser,
+un truc un peu asthmatiforme. Je vais beaucoup tousser, je vous prie de
+m’excuser.
+
+Alors pourquoi *Féminicène* ? Déjà, le mot lui-même, vous l’aurez compris, c’est
+un néologisme. Néologisme barbare, parce qu’il associe une racine latine et un
+suffixe grec, ce qui normalement est tout à fait répréhensible. Je n’avais pas
+le choix : si j’avais pris un radical grec, ça aurait fait « gynécosène », ce
+qui, vous comprenez bien, était inconcevable pour un éditeur et pour moi aussi.
+Cela aurait fait penser à tout à fait autre chose. Donc « féminicène », avec ce
+suffixe « -cène » comme dans « anthropocène », « holocène ». On le comprend
+intuitivement : ça se réfère à l’ère des femmes.
+
+J’ai décidé de parler de féminicène parce qu’il me semble que, dans le processus
+de l’émancipation des femmes, l’avènement de l’anthropocène — l’ère de l’homme
+avec un grand H, l’ère des hommes — joue un très grand rôle. Anthropocène, qui
+est un concept prisé par les géologues et d’autres, mais que je prends plutôt
+dans son sens historique, en prenant comme frontière basse de l’anthropocène la
+révolution industrielle. C’est un débat : l’anthropocène n’est pas toujours
+défini de la même manière. Pour ce qui me concerne, comme en général les
+historiens et les gens qui s’occupent des sciences sociales, je pense que la
+date la plus signifiante est la révolution industrielle, parce que ce sont les
+conséquences de cette révolution industrielle qui vont avoir le plus
+d’importance pour notre mode de vie matérielle, qui change radicalement à ce
+moment-là.
+
+Cela répond tout de suite à votre deuxième question : en quoi ce livre est-il
+matérialiste ? Ce livre est né de l’insatisfaction devant le récit — je ne vais
+pas dire officiel, parce qu’on m’a dit que ce n’est pas du tout officiel —,
+disons le récit dominant, le plus répandu, le plus communément admis de
+l’émancipation des femmes. Un récit qui s’attache avant tout à mettre en lumière
+les luttes menées par les femmes, par les féministes, et le rôle des idées : les
+idées progressistes, les idées des Lumières et leur diffusion, qui auraient
+déterminé la conversion progressive de nos sociétés vers des idées d’égalité.
+
+Les idées, c’est très important, et elles ont effectivement bien sûr une grande
+importance, mais ce n’est pas suffisant. Si on en reste aux idées, on nage un
+petit peu en plein idéalisme. Les idées n’avancent pas toutes seules, elles ont
+besoin de supports, elles ont besoin de conditions pour exister.
+Personnellement, je restais un peu sur ma faim. Je l’explique largement au
+début, dans le premier chapitre du livre : quand on regarde l’histoire de
+l’émancipation des femmes, on est frappé par la déconnexion relative entre les
+luttes qui ont existé et les droits ou les avancées des droits des femmes qui
+ont été obtenus. On n’a pas du tout l’impression qu’il y ait un lien de cause à
+conséquence direct, clair, entre les deux. Dans certains cas, on peut voir ce
+lien ; dans beaucoup de cas, on ne voit pas vraiment de lien. Il n’y a pas
+vraiment eu de mobilisation pour toutes les avancées. Certaines avancées ont été
+accordées sans qu’un quelconque rapport de force se soit créé.
+
+Donc cette émancipation des femmes, qui est un phénomène très récent à l’échelle
+historique et très rapide — pas rapide à l’échelle d’une vie, évidemment, mais
+très rapide à l’échelle historique —, si on considère la profondeur du temps
+avant, qui était quand même caractérisé par une inégalité universelle, et bien
+c’est un peu une énigme. Je suis donc parti à la recherche des facteurs
+matériels et non pas idéels qui ont pu contribuer à cette évolution. Cela a
+donné ce livre, qui s’attache avant tout à mettre en lumière les conséquences de
+la révolution industrielle et leur importance pour la transformation du statut
+des femmes.
+
+**Modérateur :** Petite question subsidiaire qui découle de ce que vous venez de
+dire : est-ce que vous pourriez revenir sur votre histoire familiale ? D’après
+mes lectures, j’avais cru comprendre qu’elle avait en partie inspiré la
+rédaction de cet ouvrage. Je pense que ça pourrait être intéressant de visiter
+cela rapidement.
+
+**Véronique :** J’ai beaucoup réfléchi, effectivement. On m’a souvent posé la
+question de savoir pourquoi j’écris ce livre, qu’est-ce qui m’a fait penser à
+cet enchaînement d’idées. Une idée que j’essaie de mettre en lumière, surtout à
+la fin de mon livre, c’est que les habitants de nos contrées occidentales,
+prospères depuis longtemps, stables depuis longtemps, pacifiques depuis
+longtemps, où la vie matérielle — bon, elle est en train un peu de se dégrader
+en ce moment, il faut le dire —, mais quand même pendant des décennies et des
+décennies, on a connu un mouvement de progrès constant et plus ou moins
+linéaire. Au fur et à mesure de ce progrès, on a un peu perdu la mémoire du
+monde d’avant, on a un peu perdu la mémoire d’un monde plus rude, d’un monde où
+toutes les commodités, toutes les facilités que nous avons du point de vue
+matériel dans notre vie n’existaient pas.
+
+Ce qui m’intéresse, c’est que le monde a connu dans les 200 dernières années une
+transformation radicale du point de vue matériel. Ce qui, dans mon histoire, a
+pu me sensibiliser à cette question plus qu’une personne moyenne, c’est que je
+suis née ailleurs, en Union soviétique, qui était un pays également très avancé
+du point de vue matériel — pas du côté des biens de consommation, mais du point
+de vue des équipements collectifs, de la technologie — et qui a connu une
+dégradation spectaculaire de ses conditions de vie dans les années 1980, quand
+j’étais enfant, puis finalement qui s’est effondré. Le spectacle de
+l’effondrement et de la dégradation très rapide, très brutale, de ces conditions
+de vie a beaucoup joué. Quand je regarde notre environnement matériel, je le
+vois toujours contemporain, je me suis toujours dit que tout ce qu’on considère
+comme intangible peut très bien à un moment donné s’effondrer. Il n’y a aucune
+naturalité dans le monde qui nous entoure.
+
+C’est un peu comme Barjavel, qui, en répondant à un entretien sur l’un de ses
+ouvrages, explique comment lui est venue l’idée de son roman *Ravage*, que vous
+connaissez je présume. Il explique qu’à un moment donné il observait cette
+société autour de lui, qui n’était pourtant pas aussi avancée qu’aujourd’hui, et
+il s’est dit que cette société si puissante, si opulente, où l’on avait
+tellement de biens à disposition, où l’on pouvait faire tellement de choses,
+était très fragile parce qu’elle dépendait très étroitement de notre recours à
+l’énergie, donc chez lui à l’électricité particulièrement. Il a imaginé que le
+fait d’être privé soudain de cette source d’énergie ferait tout s’effondrer.
+C’est ce qui a donné le roman *Ravage*.
+
+Et puis l’autre détail de ma vie privée, de mon histoire, de ma biographie,
+c’est que, vous l’avez dit, je viens d’une famille de scientifiques. Tout le
+monde est scientifique chez moi, et ceux qui n’ont pas la thèse, c’est comme ne
+pas avoir le brevet des collèges. Donc il n’y a que moi : je ne suis pas
+scientifique, je suis la brebis galeuse. Toutes les femmes de ma famille sont
+des femmes scientifiques ou bien dans des métiers techniques. C’est aussi
+quelque chose que j’ai découvert : il m’a semblé — après, il faut relativiser,
+il faut regarder les chiffres — que cette appétence pour les matières techniques
+et scientifiques était plus prononcée en Union soviétique chez les femmes
+qu’elle ne l’est aujourd’hui dans les pays occidentaux. Cela a aussi donné lieu
+à des réflexions sur cette question, plutôt à la fin de l’ouvrage. Comme
+l’ouvrage parle beaucoup de la place des femmes et des métiers dans lesquels les
+femmes devraient se diriger si elles veulent sauvegarder leur statut, on aura
+peut-être l’occasion d’y revenir.
+
+**Modérateur :** Ma deuxième question centrale, qui vous est destinée,
+Véronique, concerne ce qui vous oppose, on va dire, au féminisme dominant, au
+féminisme en vogue dans le débat public et dans les médias. Qu’est-ce qui vous
+distingue irréductiblement d’un féminisme à la Sandrine Rousseau, pour le dire
+un peu rapidement et grossièrement ? Parce que ce féminisme, page 288, vous le
+qualifiez de « féminisme des doléances » et vous estimez que c’est un féminisme
+insuffisant, oublieux de certaines réalités. Vous ne le dénigrez pas totalement,
+mais vous cherchez, comme je le disais tout à l’heure, à rétablir une forme de
+nuances et de complexité. Est-ce que vous pourriez revenir sur ces apports de
+votre ouvrage au regard du féminisme dominant, de ce féminisme des doléances ?
+
+**Véronique :** Oui, alors ça découle un peu de ce que je viens de dire,
+c’est-à-dire mon attention aux facteurs matériels, et aussi d’une autre
+préoccupation au cœur de ce livre. C’est un livre qui est né avant tout d’une
+inquiétude. Il y avait l’insatisfaction devant le récit dominant de l’histoire
+de l’émancipation des femmes : ça, c’est la première impulsion. La deuxième
+impulsion, c’est l’inquiétude quant à l’avenir. Comme j’essaie de montrer dans
+le livre que l’environnement matériel, l’infrastructure matérielle de nos
+sociétés, est très importante, primordiale en fait, qu’elle est une condition de
+possibilité d’une existence plus ou moins égalitaire entre les hommes et les
+femmes, et bien si on considère que cette base matérielle, cet environnement
+matériel, peut être remis en question, peut être déstabilisé, peut être
+fragilisé, forcément ça pose la question des conséquences pour les droits des
+femmes, pour le statut des femmes.
+
+Il se trouve que nous sommes aujourd’hui à un moment où, après des décennies
+d’une relative stabilité et d’un monde qui semblait marcher comme sur des
+roulettes de ce point de vue matériel, il semblerait que nous entrions dans une
+zone de grandes turbulences et que demain ce soit plutôt un monde en crise qui
+nous soit promis. Ça commence à devenir un consensus, on en est tous conscients,
+sous l’effet conjugué de la crise des ressources d’un côté et de la crise
+climatique de l’autre. J’ai ajouté une troisième crise, beaucoup moins
+commentée, qui concerne la médecine et notamment les médicaments.
+
+Bref, l’inquiétude porte sur cet avenir, qui ne me semble pas du tout partagé
+dans le féminisme actuel. Celui-ci se concentre beaucoup sur le présent,
+c’est-à-dire les problèmes de notre monde d’aujourd’hui — et c’est normal,
+évidemment, on se concentre toujours avant tout sur le présent — et propose de
+lutter dans ce monde-là avec les armes de ce monde-là contre les problèmes de ce
+monde-là. Il me semble que ces armes sont avant tout des armes légales, des
+armes symboliques : il s’agit de mettre à jour les insuffisances dans les droits
+des femmes, d’éventuellement faire honte à ceux qui les freinent, puis d’obtenir
+des transformations de la législation pour toujours plus de droits et plus de
+protection.
+
+Alors c’est très intéressant, c’est certainement très important dans notre monde
+d’aujourd’hui. Il faudrait peut-être considérer que certains combats sont un peu
+accessoires, j’avoue, mais d’autres sont tout à fait nécessaires. Cela me semble
+effectivement insuffisant, parce que si on pense que le monde de demain sera un
+monde transformé, c’est-à-dire moins stable qu’aujourd’hui, moins prospère,
+potentiellement plus chaotique, potentiellement plus violent, on n’aura pas
+forcément le même environnement matériel. Et bien ces droits vont
+nécessairement, soit pour partie devenir caducs, parce qu’ils ne pourront juste
+pas être assurés, soit éventuellement se transformer, parce que les lois
+s’adaptent toujours à une situation matérielle donnée, avec un décalage bien
+sûr, mais il y a toujours une adaptation. Il existe très rarement des lois
+complètement déconnectées de la réalité de la société.
+
+Je donne un exemple juste pour que ce soit parlant, parce que je ne peux pas
+revenir sur tout le livre. C’est l’exemple du droit à la contraception, qui est
+un droit fondamental — nous sommes dans l’amphithéâtre Simon Veil, ça tombe très
+bien —, l’avortement, la contraception. Ce sont des avancées très importantes
+pour le droit des femmes de disposer de leur corps. La contraception est en
+droit un droit qu’il faut défendre, c’est entendu, les féministes s’attachent à
+le défendre. Quand on réfléchit à ce qui pourrait le remettre en cause, on pense
+avant tout à des problèmes d’idées, à des idéologies, par exemple l’extrême
+droite ou des idéologies religieuses qui pourraient remettre en cause ce droit,
+toujours pour remettre les femmes à leur place. C’est vrai, ce sont des
+problèmes qui peuvent arriver, on le voit dans différents pays.
+
+De mon côté, je m’intéresse plutôt à ce qui se passera dans un monde où la base
+matérielle pour la production du produit en question, c’est-à-dire la pilule
+contraceptive par exemple, ne sera plus réunie. Qu’est-ce qui se passe dans un
+monde où vous venez dans une pharmacie, vous avez le droit d’avoir votre
+contraception, vous demandez votre contraception, mais il n’y en a pas ? Et il
+n’y en a pas parce que l’usine qui produisait cette pilule ne fonctionne plus
+parce qu’il n’y a plus d’énergie, ou parce qu’elle est devenue trop chère, parce
+que la Chine n’a pas envoyé les matières premières, ou parce que la Chine peut
+ne pas le faire, parce que le transport est désorganisé, parce que la Chine a
+décidé de garder les pilules pour elle, parce qu’en plus on ne les produit pas
+chez nous. Bref, vous arrivez, vous avez le droit, mais vous n’avez pas le
+produit. Donc votre droit est un son vide, c’est une abstraction. Moi, je
+m’intéresse à ce genre de problème.
+
+Il me semble que c’est une différence fondamentale par rapport à — ou disons un
+ajout qui me semble très important au féminisme contemporain — et qu’on pourrait
+qualifier d’une tentative d’introduire un petit peu plus de réalisme : faire
+attention aux éléments matériels, et par conséquent être réaliste, ne pas se
+soucier uniquement des droits, mais aussi de ce qui rend ces droits possibles.
+
+**Modérateur :** Il y a deux points qui me semblaient ressortir de votre
+dernière intervention. Le premier, je vais vous citer page 273 : lorsque vous
+dites que le schéma « dénonciation, honte, législation » est comme le seul mode
+d’action légitime, ainsi que le surinvestissement des luttes centrées sur le
+moment présent, celui de la parenthèse faste de la civilisation
+thermo-industrielle. Cela rejoint cette idée d’un présentisme du féminisme
+dominant. Autrement, vous avez fait allusion à cette dichotomie, cette
+interaction entre une base matérielle, une base objective, qui n’évacue pas la
+dimension sociale : les deux coexistent finalement et interagissent en
+permanence. Ce sont un peu deux idées qui semblent jaillir de votre
+intervention.
+
+**Véronique :** Oui, absolument. Évidemment, c’est difficile de résumer un livre
+en quelques mots, mais je ne cherche pas dans mon livre à dire que les idées
+n’existent pas, ou que le symbolique n’existe pas. Absolument pas. Mais tout le
+monde parle déjà des idées, du symbolique, des luttes. Il y a vraiment
+énormément de gens qui s’en occupent. C’est vrai que dans mon livre, j’ai essayé
+de rétablir un petit peu l’équilibre, j’appelle la tension sur les choses qui ne
+sont pas considérées. Mais c’est évidemment un mouvement complètement
+dialectique entre ces deux ordres de phénomènes qui sont liés. Il y a des
+boucles de rétroaction : le symbolique réagit en retour sur le matériel, etc.,
+bien entendu.
+
+## Le néolibéralisme : définition et généalogie
+
+**Modérateur :** Merci. Je vais à présent me tourner vers David Cayla pour
+répartir la parole. Ma première question pour vous, David Cayla, va porter sur
+le signifiant « néolibéralisme », signifiant, comme je le disais tout à l’heure,
+utilisé à l’envi dans le débat public, à tort et à travers, en permanence,
+parfois à raison, d’autres fois sans aucun élément de définition. J’aimerais que
+vous le définissiez comme vous le faites très bien, je trouve, dans votre
+ouvrage, puis que vous distinguiez peut-être le néolibéralisme du libéralisme,
+de l’ultralibéralisme, et que vous disiez s’il y a une continuité, une rupture
+ou une complémentarité. Peut-être avant de réagir sur ce qui est différent,
+parce que son livre *Féminicène*, je l’ai lu et j’ai beaucoup aimé, et c’est
+vrai que son parti pris est matérialiste, et même, si j’avais à pousser plus
+loin, marxiste : ce sont vraiment les rapports de force, les rapports de
+production, y compris avant même l’énergie, le féminisme, qui sont au cœur des
+relations humaines en général.
+
+**David Cayla :** C’est vrai que mon livre, lui, parle du néolibéralisme, qui
+est une doctrine, voire une idéologie. Du coup, mon approche est idéaliste de ce
+fait, mais pas l’idéalisme des féministes contemporains, dont on verra à parler.
+Le néolibéralisme, comme tout le monde sait, n’est pas le produit des luttes, ce
+n’est pas le produit des revendications populaires. Or souvent, quand on a une
+approche idéaliste, on pense qu’en changeant les consciences des individus, on
+va changer la société. C’est au cœur aujourd’hui des questions féministes. Le
+néolibéralisme ne s’est pas du tout imposé en cherchant à agir sur les
+consciences des individus. Il s’est imposé par la conviction de certains
+économistes qui ont cherché à convaincre les responsables politiques, qui
+eux-mêmes ont fait des lois. On a complètement squeezé le peuple dans le
+néolibéralisme. Et c’est une fois que le néolibéralisme est devenu entièrement
+dominant qu’il a pu se propager ensuite dans la population. Je trouve cette
+façon de relire l’histoire beaucoup plus pertinente. Je ne crois pas que les
+sociétés changent en convainquant le simple citoyen. Je pense au contraire que
+ce sont les institutions qui changent la société, et parmi ces institutions il y
+a l’idéologie des classes dominantes. Par ailleurs, je suis très heureux d’être
+ici à Sciences Po, puisque nous sommes au cœur de l’idéologie des classes
+dominantes. D’ailleurs, c’est bien la première fois que je viens et que je suis
+invité à parler dans cette enceinte, pourtant ça fait un peu de temps que je
+fais des conférences. C’est normal au final.
+
+Alors, comment définir le néolibéralisme ? D’abord, vous avez dit qu’il faut le
+distinguer du libéralisme. Évidemment, c’est le cœur du propos, parce qu’on n’a
+pas besoin d’avoir un mot spécifique, « néolibéral », pour le libéralisme si on
+n’est pas capable de réunir deux conditions. D’abord, que cette idéologie, cette
+doctrine, se distingue du libéralisme : il faut donc embarquer une différence.
+Ensuite, il faut qu’il y ait une forme de cohérence dans ces idées néolibérales,
+parce qu’il y a beaucoup d’auteurs qui ont travaillé sur le néolibéralisme avant
+moi et je leur dois beaucoup. Je pense en particulier à Serge Audier, qui a
+écrit plusieurs ouvrages sur le néolibéralisme. Sans doute le plus complet,
+c’est *Néolibéralisme(s), une archéologie intellectuelle*, paru en 2012 chez
+Grasset. C’est un ouvrage de 700 pages que j’ai lu de bout en bout, j’ai pris
+quatre notes, en plus les pages sont assez denses. Ça prend du temps, mais c’est
+un travail absolument magnifique. Le problème, c’est que Serge Audier arrive à
+la conclusion que le néolibéralisme n’existe pas. Il y a des arguments pour ça :
+il explique que les auteurs qui se qualifient eux-mêmes de néolibéraux — parce
+que, contrairement à ce qu’on croit, il y en a eu — ont quelque part explosé. Il
+prend notamment la date de 1962, une scission au sein de la Société du
+Mont-Pèlerin, avant même qu’elle ait sa reconnaissance grand public. La Société
+du Mont-Pèlerin, dirigée par Hayek pendant très longtemps, a été fondée en 1947,
+mais elle n’est vraiment apparue importante et influente dans le monde que dans
+les années 1970, avec le prix Nobel de Hayek en 1974, puis le prix Nobel de
+Friedman, et de très nombreux prix Nobel dans les années 1970 et 1980, avant une
+phase de déclin à partir des années 1990. Cette Société du Mont-Pèlerin, dit
+Audier, n’a plus rien à voir en 1980 par rapport à ce qu’elle était dans les
+années 1950 et 1960.
+
+Sa thèse est extrêmement intéressante et il la nourrit très bien, mais de mon
+point de vue il manque certains aspects, notamment le regard économique.
+Finalement, il ne cherche même pas à définir le néolibéralisme. Il raconte
+l’histoire des néolibéraux, mais il ne s’intéresse pas vraiment au cœur de la
+doctrine qui est derrière. C’est ce travail que j’ai essayé de faire en ayant un
+regard non pas de philosophe ou d’historien des idées — en partie histoire des
+idées, mais surtout un regard d’économiste. La question que je me suis posée,
+c’est : les auteurs néolibéraux, pour le dire très rapidement, se répartissent
+en trois grandes écoles. Il y a l’école de Fribourg, qu’on appelle aussi
+l’ordolibéralisme ; l’école de Chicago, donc Milton Friedman ; et l’école
+autrichienne, autour de Friedrich Hayek. Dans chacune de ces écoles, il y a des
+nuances. Par exemple, quelqu’un comme Mises, pour moi, n’est pas un néolibéral,
+même s’il appartient à l’école autrichienne. Il y a ensuite des petites nuances
+à faire dans chacune de ces écoles. Mais il y a quelque chose qui les rassemble.
+
+Ce qui les rassemble, au départ, d’abord, c’est que ce sont ces écoles qui se
+sont fondées dans une période de crise du libéralisme : la période d’après la
+Première Guerre mondiale, de l’entre-deux-guerres, en réalité un moment où il y
+a deux choses. D’abord, l’effondrement monétaire de l’étalon-or après la
+Première Guerre mondiale, puis la crise de 1929, puis la Seconde Guerre mondiale
+qui a entraîné une étatisation de l’économie. La question qui s’est posée pour
+ces économistes néolibéraux, c’est en quelque sorte de sauver le libéralisme.
+C’est pour cette raison qu’ils voulaient refonder le libéralisme. L’école de
+Fribourg se réunit en 1936, le colloque Lippmann en l’honneur de Walter
+Lippmann, qui a écrit un livre qui est aussi un des éléments fondateurs du
+néolibéralisme. Ils se construisent dans cette crise.
+
+Qu’est-ce qui les distingue et qu’est-ce qui les rassemble ? Ce qui les
+distingue des libéraux classiques, on serait très surpris, mais ce qui se
+retrouve chez tous ces auteurs, c’est la critique du laisser-faire. En quelque
+sorte, ils disent : on ne peut plus avoir un État qui se désengage de la
+régulation de l’économie. Il faut qu’on construise une autre manière
+d’intervenir de l’État. Ils veulent un État qui intervienne dans l’économie,
+c’est-à-dire qui ne soit pas laissé-fairiste, mais qui intervienne pour sauver
+les marchés. Et ça, c’est aussi ce qui va les distinguer des libéraux classiques
+: ils pensent que le marché n’est pas une institution naturelle, c’est une
+institution qui est le produit d’un système juridique. C’est bien au cœur des
+ordolibéraux, qui sont l’association d’économistes et de juristes, et qui
+pensent la question de comment sauver le marché. Derrière la question du marché,
+il y a notamment sauver la concurrence, puisque à la fin du XIXe et au début du
+XXe siècle on a des grands conglomérats, des cartels en Allemagne, des grands
+monopoles, des trusts aux États-Unis. L’idée dominante chez les économistes,
+c’est que la vocation naturelle du marché, c’est d’arriver vers un système
+monopolistique, et du coup le marché lui-même se détruit, se détruit lui-même
+par le phénomène de la concurrence. Donc il faut que l’État intervienne
+là-dessus.
+
+Il y a aussi la question de la monnaie : la monnaie elle-même ne peut plus être
+monnaie des talons-or classiques, donc il faut que les États s’en emparent. Et
+puis il y a la question de l’acceptation sociale du libéralisme, qui est
+évidemment en déclin pendant la crise des années 1930, puisque finalement on a
+une paupérisation très importante de la société à la suite de la crise de 1929.
+Donc, contrairement aux libéraux, les néolibéraux ne croient pas en la
+naturalité du marché. Ils croient en la nécessaire intervention de l’État pour
+sauver le marché. En quelque sorte, tout leur propos vise à faire en sorte que
+l’État fasse fonctionner le marché. Ils vont considérer que le marché peut
+fonctionner, qu’il a besoin des institutions, que ces institutions doivent être
+régulées par l’État, et ils vont construire tout un système pour que
+l’intervention de l’État ne soit pas une intervention discrétionnaire,
+c’est-à-dire une intervention qui va dénaturer le marché. Il faut en quelque
+sorte à la fois réguler le marché, mais sans en dénaturer le fonctionnement.
+C’est la raison pour laquelle ils vont proposer des autorités de la concurrence,
+un système monétaire qui certes est dans les mains du politique — puisque la
+monnaie ne fonctionne plus autrement — mais qui doit surtout lutter contre
+l’inflation. Il y a aussi la question du libre-échange : là, libéraux et
+néolibéraux se rassemblent, ils sont tous libre-échangistes, mais les
+néolibéraux ne croient pas que le libre-échange vienne de l’absence de règles.
+D’où l’OMC, d’où les traités de libre-échange, d’où tout un ensemble de
+régulations. Quand on regarde un côté libre-échange finit par l’Union
+européenne, ça avait énormément. Ce n’est pas l’absence de règles, en fait,
+c’est la construction d’un système de règles pour organiser le libre-échange,
+parce que rien n’est, de leur point de vue, naturel.
+
+Je termine sur un exemple très concret, parce que je suis en train de terminer
+le livre d’Aurélien Bernier qui vient de sortir sur l’énergie hors de prix.
+Aurélien Bernier est un ami. Il raconte comment on a construit le marché
+européen de l’électricité. Le marché européen de l’électricité n’a absolument
+rien de naturel. C’est un produit totalement néolibéral. On pourrait dire que la
+déréglementation de l’électricité, c’est une idéologie libérale, mais la manière
+dont elle s’est faite est entièrement poussée par le politique, entièrement
+organisée avec des systèmes de marché construits comme le marché carbone, comme
+le marché des certificats d’électricité verte, comme le marché de gros. La
+manière dont le marché fonctionne, quand on va dans le détail du marché européen
+de l’électricité, c’est une espèce de cathédrale néolibérale, de construction
+politique d’un mécanisme qui vise à saint-germain-marché sans être un marché
+libre en réalité, puisqu’il y a un ensemble de règles énorme et des autorités de
+régulation du marché de l’électricité, tout un ensemble de dispositifs
+extrêmement techniques par ailleurs. Voilà, c’est ça le néolibéralisme.
+
+Je termine sur un élément qui est au cœur de l’ouvrage : c’est le principe du
+prix de marché. C’est-à-dire que le marché, pour les néolibéraux, n’est pas un
+espace d’échange, c’est un lieu où se construisent les prix. C’est la fonction
+première du marché pour les néolibéraux. Donc il faut construire tout cela, il
+faut avoir un État et des règles qui créent, par le politique, des marchés dont
+la vocation première n’est pas de faciliter les échanges mais d’organiser un
+prix. Une fois qu’on a un prix, on a le mécanisme d’incitation et on a une
+régulation de la société. Tout ça était déjà écrit en parlant de Walras, dans
+les années 1920, sur la question du prix. Ensuite on a des gens comme Eugene
+Fama, en 1970, qui va dire qu’un marché est parfait lorsque le prix intègre
+toute l’information, et efficient lorsque le prix intègre toute l’information
+disponible. C’est la vision commune des économistes aujourd’hui, qui est au cœur
+du néolibéralisme : l’idée de la régulation par les prix. Mais encore faut-il
+que les prix ne soient pas le produit d’une décision politique, mais le produit
+des rapports de force sur un marché, quitte à ce que le marché soit créé par
+l’État.
+
+**Modérateur :** Merci, David Cayla, pour votre réponse. Ce qui me semble
+ressortir, c’est cette idée d’un signal prix et d’une mise au service d’un État
+qui est au service du marché pour le réguler, l’encadrer, par l’entremise de
+règles, de directives et autres. Et cette idée aussi d’un « milieu d’État » pour
+justement un meilleur marché. C’est une complémentarité entre l’État et le
+marché. On peut retrouver — il n’est pas présent aujourd’hui, mais ça peut
+compléter ce que vous dites très bien dans votre livre — un petit Que sais-je ?
+qui est sorti il n’y a pas longtemps sur le néolibéralisme, d’un professeur à
+l’Université de Genève, Bruno Amable, économiste. Pour compléter ce que vous
+venez de dire, ma question suivante va porter davantage sur la construction
+européenne et en particulier sur les travaux de Rawi Abdelal, professeur à
+Harvard si je ne dis pas de bêtises, et qui a beaucoup travaillé sur le rôle du
+politique, le rôle qu’a joué la gauche française en particulier dans
+l’élaboration de ce système européen néolibéral, et qui marque une distinction
+entre internationalisation et mondialisation financière. Si vous pouviez revenir
+dessus, expliciter, et peut-être évoquer aussi la place de l’Allemagne dans
+l’ensemble européen et en quoi elle est liée avec la désindustrialisation de la
+France, entre autres. Cela fera aussi écho à vos ouvrages avec Coralie Delaume.
+
+## Construction européenne et globalisation financière
+
+**David Cayla :** J’ai un doute également. Je ne me souviens plus dans ma tête
+s’il était anglais ou enseigné en Angleterre. Oui, alors il a été très connu
+parce qu’il a inventé le terme « consensus de Paris ». Il a écrit un article en
+français qu’on trouve sur Internet, justement sur le consensus de Paris, puis il
+a publié un livre en anglais qui a été traduit, je crois, très récemment. Moi,
+je l’ai lu en anglais, je ne sais plus trop ce qu’il en est de la version
+française. Le livre porte sur la manière dont la globalisation financière a été
+conçue dans ses articulations néolibérales par des socialistes français, plus
+Michel Camdessus, qui n’était pas socialiste mais qui était quand même nommé par
+Mitterrand à la tête du FMI.
+
+Son travail, moi, je l’ai trouvé passionnant, parce que c’est un travail
+d’historien et non pas tant d’économiste. Il allait interroger les acteurs,
+Jacques Delors et d’autres auteurs français. Il en a retiré des enseignements
+qui sont en fait la chose suivante : il y a eu deux phases dans la
+libéralisation financière. Il faut comprendre que — et je reviens longuement sur
+cette question dans le bouquin — entre le moment où on conçoit le néolibéralisme
+dans les années 1930 et le moment où il est mis en œuvre dans les années
+1970-1980, il y a quand même 40 ans de période non néolibérale. C’est-à-dire des
+années 1930 jusqu’au début des années 1970. Ces 40 ans sont hyper intéressants
+de mon point de vue à étudier, parce qu’ils peuvent nous donner des clés pour
+comprendre ce que c’est qu’un monde non néolibéral.
+
+Ce qui caractérise ce monde, c’est que l’État est au cœur de la régulation des
+prix des biens de production. Pas de tous les prix. C’est là aussi qu’il y a, à
+mon avis, des débats dans le politique qui n’existent plus, puisque quand on
+écoute par exemple les politiques de gauche parler du contrôle des prix, c’est
+toujours les prix des biens de consommation qu’ils veulent contrôler, pour
+défendre le pouvoir d’achat des ménages : aussi bien l’encadrement des loyers
+que les prix alimentaires avec la sécurité sociale alimentaire, des choses comme
+ça. Je ne dis pas que ce n’est pas justifié d’encadrer les loyers ou des choses
+comme ça, mais ce que je voudrais souligner ici, c’est que dans les années 1940,
+1950 et 1960, on ne se posait pas cette question comme ça. On se disait :
+comment organiser le système productif, et comment l’État peut intervenir pour
+organiser le système productif par le contrôle des prix des moyens de production
+?
+
+Alors c’est quoi, le prix des moyens de production ? C’est l’énergie, déjà
+évidemment, un moyen de production extrêmement important : l’électricité, le
+gaz, le pétrole, etc. C’est les matières premières, certaines matières premières
+notamment qui sont fournies dans les pays étrangers. C’est l’agriculture en tant
+que matière première d’abord, et puis aussi en tant que produit. Quand on
+regarde quels ont été les prix qui ont été les premiers à être régulés dans
+l’agriculture française, c’est la betterave à sucre. C’est le premier. Le
+travail à suivre, ce n’est pas un truc qu’on vend sur les marchés, c’est un truc
+qu’on vend dans le cadre d’un processus industriel. Pareil pour les oléagineux,
+les céréales : vous n’achetez pas des céréales et du blé directement, c’est le
+boulanger, enfin le meunier, qui achète le blé. Donc en fait, quand on a voulu
+contrôler les prix de l’agriculture, on n’a pas contrôlé les fruits et légumes,
+on a contrôlé la betterave à sucre, les céréales et les oléagineux, c’est-à-dire
+tout ce qui n’est pas vendu au ménage.
+
+Bien sûr, derrière le contrôle des prix, il y a le capital, le coût de l’argent,
+avec deux parts de contrôle d’échange avec Bretton Woods, où les prix de change
+entre les monnaies étaient régulés par les politiques, et puis les taux
+d’intérêt qui étaient réglés par la politique. Et puis enfin le travail. En
+fait, le régime des Trente Glorieuses commence au moment de la Seconde Guerre
+mondiale, notamment aux États-Unis, parce qu’à ce moment-là on est face à une
+vraie orientation très rapide de l’économie américaine, d’une économie tournée
+vers la consommation à une économie qui va tourner vers la production de biens
+militaires, l’approvisionnement des armées. Pour ça, bien sûr, il faut arrêter
+de faire des voitures, pour simplifier, puis commencer à faire des navires et
+des tanks. L’acier doit être d’abord utilisé pour l’effort de guerre avant
+d’être laissé aux consommateurs. Cela est évidemment extrêmement violent pour
+les gens, donc il faut faire en sorte d’atténuer les effets de cette
+transformation sur la consommation des ménages, et faire en sorte de contrôler
+le système productif. On le fait par le contrôle des prix.
+
+Si je suis un peu long, mais si je souligne ça, c’est pour expliquer que les
+Trente Glorieuses ne sont pas typiquement une période où l’État intervient
+quantitativement par sa masse financière — certes, c’est vrai, tout cela se
+passe pendant les Trente Glorieuses — mais on oublie complètement le contrôle
+des prix, notamment aux États-Unis, parce que j’ai beaucoup plus travaillé sur
+les États-Unis ; sur la France, c’était un peu évident. Aux États-Unis, il y a
+un économiste, John Kenneth Galbraith, qui raconte très bien comment Kennedy
+pouvait engueuler ou empêcher une augmentation du prix de l’acier en 1962,
+comment les grandes compagnies pétrolières étaient entièrement dépendantes du
+gouvernement américain et devaient vendre le pétrole à un prix décidé par le
+gouvernement américain, et puis tout le reste, les liens avec les syndicats,
+etc. Et ça, on ne le dit jamais.
+
+Cette parenthèse pour expliquer que le néolibéralisme commence quand l’État
+arrête de contrôler les prix. Pourquoi l’État arrête-t-il de contrôler les prix
+? Essentiellement pour deux raisons. D’abord, l’effondrement du système de
+Bretton Woods, qui va entraîner la libéralisation financière. Ensuite, la
+nationalisation des champs pétroliers et de l’industrie pétrolière par les pays
+de l’OPEP au début des années 1970, qui va faire que les Américains et les
+Occidentaux vont chercher à contourner le cartel local en utilisant le marché.
+Je réponds maintenant à la question, pardon d’être un peu long : la
+globalisation financière est la conséquence de l’effondrement du système de
+Bretton Woods, qui a fait que les États devaient à la fois reprendre en charge
+le contrôle de leur monnaie et se faire concurrence par la libéralisation des
+marchés financiers, c’est-à-dire la fin de l’interdiction des contrôles
+d’échanges liée à l’effondrement. Dans ce mécanisme, les Européens et les
+Français en particulier sont très angoissés, parce que pour eux cette
+libéralisation, c’était la guerre de tout ce qu’on fait tous. Ils ont voulu
+créer un système de règles qui permettait d’éviter que les puissantes finances
+anglo-saxonnes, britannique et américaine, n’utilisent leur puissance de Londres
+et de New York contre les Européens. Donc les Français ont voulu remettre des
+règles dans la finance. Mais en fait, remettre des règles dans la finance
+correspondait au projet néolibéral. Le projet néolibéral, je l’ai déjà dit, ce
+n’est pas un marché sans règles, c’est l’inverse : c’est un marché encadré par
+des règles de droit, qui va notamment interdire le contrôle des mouvements de
+capitaux. L’Acte unique de 1986, Abdelal en parle beaucoup, puisque vraiment
+c’est au cœur du mécanisme de la globalisation financière. C’est un projet qui
+vise à interdire aux États de contrôler les mouvements de capitaux. Cette
+interdiction va ensuite être généralisée dans le cadre du travail de l’OCDE, qui
+va lui-même mettre en place des normes de bonnes pratiques, et puis ensuite avec
+le FMI, ces bonnes pratiques vont être généralisées.
+
+Ce qui veut dire que c’est ça, la question de recherche d’Abdelal : on va passer
+d’un monde, dans les années 1900, 1910, au début du XXe siècle, où il n’y avait
+pas de contrôle des mouvements de capitaux — c’était le libéralisme classique,
+le libéralisme de non-contrôle —, puis ensuite, dans les années 1930, on va
+passer à un monde où la norme devient le contrôle des mouvements de capitaux, et
+puis enfin, dans les années 1980, d’abord dans les années 1970, on va revenir
+sur une absence de régulation, et puis très vite on va vouloir harmoniser,
+réorganiser et néolibéraliser la finance par l’introduction de règles qui vont
+permettre la libre circulation du capital. La question que se pose Abdelal,
+c’est : pourquoi est-ce qu’on change comme ça de système d’organisation de la
+finance, alors que les économistes ne peuvent jamais démontrer la force, la
+pertinence et l’efficacité d’un système par rapport aux autres ? En fait, le
+moment où la finance est très contrôlée est vraiment très efficace du point de
+vue économique. Donc ce n’est pas une question de preuve d’efficacité de
+l’introduction de la libre circulation des capitaux. On le fait pour des raisons
+idéologiques. Donc je reviens sur le caractère idéaliste de ce type de
+proposition.
+
+**Modérateur :** Merci David Cayla. Peut-être vous l’avez dit sans le dire :
+l’Acte unique, c’est un acte *erga omnes*, donc c’est un peu savant, mais pour
+dire que c’est opposable à tous, et que donc cette ouverture, cette interdiction
+du contrôle des mouvements de capitaux, a été finalement conçue à partir de
+l’Europe et a été étendue, généralisée à ce moment-là.
+
+**David Cayla :** Oui, je veux dire que la définition ne touche pas que les pays
+européens. Il faut bien comprendre que quand on dit « interdiction de contrôler
+les mouvements de capitaux », on ne parle pas uniquement des mouvements de
+capitaux entre pays européens, mais aussi vis-à-vis des pays tiers. C’était
+d’ailleurs la condition qu’ont imposée les Allemands pour signer l’Acte unique,
+parce que les Français n’étaient pas hyper chauds avec cette histoire, même si
+les Français sont au cœur du processus — c’est ce que raconte Abdelal. Les
+Allemands ont demandé que la libre circulation du capital ne s’applique pas
+qu’aux pays européens entre eux, mais aussi vis-à-vis des pays tiers. Ça se
+comprenait aussi, parce que si un pays comme l’Allemagne était déjà libre sur
+les mouvements de capitaux avec les pays tiers et que le capital pouvait ensuite
+circuler de l’Allemagne vers la France, du coup c’était assez facile d’arriver
+en France. Et c’est vrai que l’Acte unique pour moi est né en 1986. C’est
+vraiment l’institution la plus importante de l’Union européenne, puisqu’en fait
+l’euro va découler en quelque sorte de la libéralisation des capitaux. Ça va
+être une manière de faciliter les mouvements de capitaux, en fait, la monnaie
+unique. Mais les gens connaissent mieux 1992, Maastricht, parce qu’il y a un
+référendum, parce que la monnaie est quelque chose de symbolique. Mais en
+réalité, ce qui a vraiment fait le big bang de l’Union européenne, c’est l’Acte
+unique de 1986.
+
+## Effondrement, décroissance et féminisme matérialiste
+
+**Modérateur :** Je vais me tourner vers Véronique pour une dernière question
+pour vous, puis une dernière ensuite pour David Cayla. Je voulais en préambule
+évoquer une étude de la Fondation Jean-Jaurès, exhumée par un journaliste à
+*Marianne*, Anthony Cortes, une étude de 2020 qui portait sur la France, patrie
+de la collapsologie, et dans laquelle il était dit que 65 % des Français
+croyaient à l’idée selon laquelle la civilisation telle que nous la connaissons
+actuellement va s’effondrer dans les années à venir. On voit qu’il y a un
+malaise français, pour prendre une expression de Marcel Gauchet, une difficulté
+des Français à se projeter dans un avenir commun, un avenir souhaitable, un
+avenir positif. À la lecture de votre ouvrage, il y a un certain fatalisme qui
+m’a paru ressortir. Je voulais donc savoir comment vous vous situez par rapport
+à cette morosité ambiante, si vous la partagez, si vous la faites vôtre, et
+aussi vous demander ce qu’est concrètement votre féminisme du fer, celui dont
+vous parlez dans votre livre, un féminisme à la tête froide, dites-vous, qui
+veut remettre de la rationalité. Et donc, en regardant cela, que penser de la
+décroissance tout simplement ?
+
+**Véronique :** Beaucoup de questions. Je vais essayer d’aller vite. Alors oui,
+collapsologie, malaise français : il faudrait voir les chiffres dans les autres
+pays pour pouvoir comparer. Il est normal que moi je m’intéresse au devenir du
+monde matériel, parce que je m’intéresse au facteur matériel dans l’émancipation
+des femmes. Le mot « effondrement », qu’on lape dans les études
+collapsologiques, est un mot qui polarise beaucoup les réactions, parce que
+c’est un mot très radical. Quand on dit « collapse », quand on dit «
+effondrement », on voit quelque chose qui s’effondre, qui tombe en ruine, etc.
+De fait, quand j’évoque ce mot « effondrement » dans mon livre, je me réfère à
+une définition beaucoup plus factuelle, beaucoup plus prosaïque, que je reprends
+de « l’autre » — je ne sais plus exactement — et qui définit l’effondrement
+comme tout simplement une dégradation significative et rapide des conditions de
+vie, notamment du quota alimentaire par tête et du quota industriel par tête.
+C’est-à-dire en gros un monde en contraction assez rapide. Après, il y a une
+très grosse marge : qu’est-ce que c’est qu’une contraction très rapide ? Où
+commence l’effondrement ? Où s’arrête la détérioration ?
+
+Mon livre, un peu sous forme de douce utopie, toute proportion gardée, reste
+modeste. Ce n’est pas une espèce de prédiction. Je ne suis pas Madame Soleil, je
+ne suis pas Madame Irma. C’est une exploration d’hypothèses. J’essaie d’explorer
+les hypothèses de l’évolution de ce monde matériel, de notre environnement
+matériel, et de voir ce que ça va signifier pour les femmes. J’ai discuté depuis
+la publication de ce livre avec des gens qui sont prospectivistes, qui
+s’occupent beaucoup de l’évolution de tous ces facteurs matériels dans la
+perspective de la raréfaction des ressources et de la crise climatique. Ils
+m’ont fait remarquer effectivement que j’explore dans mon livre une espèce de
+scénario médian. En gros, il y a trois scénarios.
+
+Le premier, c’est le scénario techno-optimiste : la science, les innovations,
+les nouvelles technologies vont nous permettre d’éviter toute turbulence
+importante. La géo-ingénierie va réduire le rayonnement du soleil, on va trouver
+des sources d’énergie alternatives, on va maîtriser la fusion, puis tout se
+passera comme sur des roulettes, grâce en plus aux lois du marché, et finalement
+on va à peine sentir la transition vers le monde de demain. Ça, c’est le
+scénario optimiste.
+
+Après, il y a le scénario pessimiste, exploré par les collapsologues stricto
+sensu, ce qu’on appelle les collapsologues, et qui voit effectivement une
+civilisation, un effondrement au sens profane, c’est-à-dire tout qui tombe en
+ruine, il n’y a plus rien, aucune des lois économiques ne fonctionne, on n’a
+plus rien à manger, on meurt en masse, famine, guerre, etc., et puis entre les
+deux, disparition des États, etc. Entre les deux, *Mad Max Fury Road*. Et puis
+entre les deux, il y a des tas de scénarios intermédiaires qui ne sont pas
+écrits. Il est absolument impossible de les prévoir en détail, d’une part parce
+qu’on ne sait pas exactement comment tous les paramètres physiques vont varier —
+d’ailleurs les prédictions du GIEC lui-même varient d’une année sur l’autre et
+sont toujours différentes — et deuxièmement parce qu’on ne sait pas du tout
+quels seront exactement les réponses sociales à chacun des problèmes physiques.
+Ce sont quand même largement des spéculations.
+
+Néanmoins, on peut prévoir un certain nombre de choses : le scénario totalement
+optimiste comme le scénario totalement effondriste semblent tous les deux
+relativement peu probables, pour des tas de raisons. On peut raisonnablement
+supposer que ce à quoi on doit s’attendre, c’est quelque chose entre les deux.
+Il y aura certainement une dose de dégradation, mais laquelle ? Si j’essaie
+d’explorer ces hypothèses, c’est justement dans la perspective d’une dégradation
+la plus contrôlée possible, d’un effondrement qui ne soit pas si possible un
+effondrement au sens profane, mais d’une dégradation contrôlée, peut-être ce
+qu’on appelle une transition. Ce qu’on essaie d’appeler une transition, c’est
+tout de suite plus sympathique qu’« effondrement ». Mais une transition peut
+être un effondrement : un effondrement, c’est une transition d’un état vers un
+autre. C’est juste une transition qu’on aimerait bien éviter. En Russie dans les
+années 1990, un effondrement, si l’on peut dire, c’est une transition à moins 60
+% du PIB. Je ne sais pas si les gens se rendent compte de la violence que c’est
+d’avoir 60 % du PIB qui s’effondre, avec toutes les conséquences sociales sur la
+santé, sur la population, enfin bref, absolument innombrables. Donc les
+effondrements sont possibles. Je pense que c’est aussi mon histoire familiale
+qui parle, mais quand vous avez vu un effondrement, vous êtes tout de suite
+beaucoup moins échaudé par l’idée d’un autre effondrement. Rien ne l’empêche en
+fait, au fond.
+
+Alors pourquoi ça m’intéresse ? Pourquoi ça m’intéresse dans ce livre ? Comme je
+l’ai dit tout à l’heure, si on admet — comme je le fais dans le livre, au terme
+d’une démonstration, on n’est pas obligé de me suivre, on peut aller le lire —
+que les éléments matériels comptent pour l’émancipation des femmes, si vous
+enlevez ces conditions, forcément la condition des femmes va se dégrader. Parmi
+les conditions, parmi les choses qui me semblent absolument essentielles et qui
+sont parmi les conséquences de la révolution industrielle, il y a tout ce qui
+concerne la technologie dans notre quotidien et notamment la division du
+travail, qui permet d’externaliser une très grande partie des tâches qui étaient
+auparavant effectuées au sein du foyer. Si vous réfléchissez à ce qu’on fait au
+quotidien, on ne fait pas un centième des choses que faisaient nos ancêtres au
+quotidien au sein du foyer. On ne fait pas pousser nos légumes, on n’est pas en
+train de confectionner nos vêtements, on n’est pas en train de couper du bois,
+on ne va pas chercher de l’eau, on n’est pas en train de faire chauffer le
+poêle. Toutes ces actions qui prenaient énormément de temps, énormément
+d’énergie, sont aujourd’hui soit effectuées par des appareils — les esclaves
+énergétiques —, soit carrément faites ailleurs par d’autres gens, au sein de
+cette grosse infrastructure industrielle qui nous entoure et qui elle aussi est
+mise en mouvement par l’énergie.
+
+Donc une dégradation, une fragilisation, et encore plus évidemment un
+effondrement violent de cet environnement matériel, aura des conséquences
+énormes pour les femmes. Sans compter le dernier facteur, peut-être le plus
+important, qui est aussi à compter parmi les conséquences de la révolution
+industrielle, comme effet cumulatif du progrès technologique et économique qui
+s’en est suivi : c’est le progrès médical. Le progrès médical a été totalement
+central et crucial pour les femmes, avant tout non pas par le biais de la
+contraception et de l’avortement qu’on met souvent en avant, qui sont un peu la
+cerise sur le gâteau, qui arrivent très tard d’ailleurs, quand l’essentiel est
+déjà fait, quand l’essentiel des droits est déjà accordé, mais par
+l’effondrement de la mortalité infantile. C’est un facteur qu’on n’évoque pas
+souvent quand on parle des droits des femmes. L’humanité a vécu depuis la
+révolution néolithique, en gros, et jusqu’à la révolution industrielle, sous ce
+qu’on appelle le régime démographique traditionnel, qui était caractérisé par un
+très grand nombre de naissances et malheureusement un très grand nombre de
+morts, de morts d’enfants. Un enfant sur deux n’atteignait pas l’âge adulte.
+C’est un chiffre dont on n’a absolument pas l’idée de la signification
+aujourd’hui.
+
+Vous aviez des enfants, et un de vos enfants sur deux mourait avant d’atteindre
+l’âge adulte. Donc pour espérer avoir deux ou trois enfants en bonne santé qui
+vont prendre soin de vous plus tard quand vous serez vieux — parce que les
+retraites n’existaient pas non plus —, il vous fallait faire combien d’enfants ?
+On fait une multiplication dans la tête. Alors au moins six. Mais bon, allez, si
+les virus sont virulents, ça peut être un petit peu plus. Donc sept, huit, c’est
+mieux. Et dix, vous êtes à l’abri du besoin. Dix enfants dans la vie féconde
+d’une femme, on calcule entre les grossesses, les allaitements, etc., combien
+d’années ça laisse pour faire des études à Sciences Po et une start-up et mener
+une vie professionnelle épanouie ? Pas énormément d’années. L’importance de ce
+facteur est énorme. C’est-à-dire que la pilule, la contraception, le slogan « un
+enfant si je veux, quand je veux », tout ça n’a de sens que dans un monde où les
+enfants qui naissent vivent. Un enfant qui naît, c’est un enfant qui va vivre.
+Dans ce cas-là, si on est sûr que l’enfant qui naît va vivre, on peut en faire
+un, on peut en faire deux, et on peut planifier d’en faire un à 30 ans, à 33
+ans, à 35 ans, pourquoi pas, parce qu’on sait qu’une fois qu’on en aura un, il
+va vivre. Et en plus on a la retraite, donc à la limite on peut ne pas en faire
+du tout.
+
+Donc un monde pour moi en contraction, un monde où notre environnement matériel
+est remis en cause, c’est un monde dans lequel ce sont ces facteurs, le devenir
+de ces facteurs, qui m’intéressent. Dans cette dégradation, qu’est-ce qui va se
+passer dans un monde où l’accès à la santé n’est plus assuré comme aujourd’hui ?
+Qu’est-ce qui va se passer dans un monde où les produits ne sont plus distribués
+comme aujourd’hui, où un certain nombre de services que nous rend l’énergie ne
+seront plus disponibles parce que l’énergie sera trop chère et pas assez
+abondante ? Et bien c’est un monde dans lequel il est fort à parier qu’une
+partie de la division sexuelle du travail qui a caractérisé le gros de
+l’histoire humaine risque de refaire surface. Et ce ne sont pas les droits qui
+vont l’empêcher, parce que ce sera la réalité matérielle du monde qui nous
+empêchera de faire autrement. Il ne faut pas penser que nos ancêtres étaient
+plus bêtes que nous. Je pense que si nous sommes mis à peu près dans les mêmes
+conditions qu’eux, on ne fera pas forcément mieux. C’est ça qui est la base de
+mon inquiétude.
+
+Alors, après, qu’est-ce que je pense de la décroissance ? La décroissance, c’est
+un peu le rêve de ne pas vivre en effondrement, mais de vivre une vraie
+transition choisie à la place d’un effondrement subi. Organisons ça pour avoir
+une transition viable, une transition douce, souhaitable, telle qu’on la veut.
+Le problème de la décroissance, c’est qu’on ne sait pas exactement, on ne sait
+pas bien si elle est faisable. D’abord parce que l’humanité n’a jamais eu à
+organiser une décroissance. Aucune société humaine jusqu’à aujourd’hui n’a eu à
+se poser la question : et si on décroissait ? Si on diminuait notre production ?
+Si on essayait d’avoir moins ? C’est une question totalement absente de toute
+l’histoire de l’humanité. Donc l’humanité n’est absolument pas préparée et on
+n’a aucun exemple auquel se référer. On fait de la spéculation. C’est vraiment
+une expérience grandeur nature. C’est passionnant, les historiens du futur en
+feront leur chou gras, mais nous, pour le moment, on est un peu dans le doute.
+
+Alors il y a la faisabilité technique : est-ce que c’est possible techniquement
+de vivre de façon satisfaisante avec moins ? Ensuite il y a la faisabilité
+économique et l’acceptation sociale. Là, je peux me permettre, j’aimerais
+renvoyer à l’excellente critique que David Cayla a faite du livre de Timothée
+Parrique consacré à la décroissance, et qui montre que du point de vue
+économique ce n’est pas clair du tout comment, lorsqu’on décroît, on peut
+préserver le bien-vivre ensemble et la convivialité, qui sont quand même le cœur
+de la thèse de la décroissance. Et puis politiquement et sociologiquement aussi.
+Moi, je suis sociologue à la base. Si vous imaginez un monde dans lequel il faut
+diviser le PIB par quatre, par cinq, ou par combien déjà il faut le diviser pour
+que ce soit soutenable, pour que ce soit viable, alors là, pour rendre ça
+acceptable, surtout dans un seul pays, je pense que les gens ne se rendent pas
+compte : ça demande une bonne centaine de milliers de gardes, énormément de gens
+en prison, une transformation totale du système économique, des classes
+sociales, du tout. En fait, c’est peut-être souhaitable, mais c’est en tout cas
+une question compliquée. J’avoue que j’aimerais ne pas être à la place des gens
+qui vont prendre cette décision.
+
+## Post-néolibéralisme, économie démocratique et décroissance
+
+**Modérateur :** On conclura comme ça avec Véronique. David Cayla, dernière
+question pour vous. Pour ouvrir cette question, j’aimerais m’appuyer sur un
+tweet dont vous êtes l’auteur, où vous faisiez allusion à une chronique d’Arnaud
+Leparmentier dans *Le Monde* il y a quelques semaines ou quelques jours, je ne
+sais plus, dans laquelle il était question de l’écart de PIB entre l’Europe et
+les États-Unis, qui est désormais de 80 %, et qui montre — et vous le rappeliez
+dans votre tweet — qu’il ne s’agit pas de faire du PIB et de la richesse un but
+en soi, une fin en soi, mais de questionner tout de même les causes et les
+conséquences de ce décrochage économique de l’Union européenne, de l’Europe.
+C’est pourquoi ma question va porter sur deux figures : le David Cayla optimiste
+et le David Cayla pragmatique. Le David Cayla optimiste, c’est celui qui, à la
+fin de son ouvrage, parle d’un agenda pour une économie démocratique et essaie
+de dresser un message d’espoir. Le David Cayla plus pragmatique, c’est celui qui
+alerte, avertit quant à une sortie précipitée du modèle néolibéral, parce que,
+si vous en dressez les contours et en montrez les limites, vous ne plaidez pas
+pour autant en faveur d’une sortie trop rapide du néolibéralisme. Vous montrez
+la complexité du processus. C’est pourquoi ma question porte sur le
+post-néolibéralisme : est-il souhaitable ? est-il possible ? Et, comme je le
+demandais à Véronique sur la décroissance, les travaux par exemple de Serge
+Latouche, sur lesquels vous revenez sur les réseaux sociaux : est-ce que la
+décroissance est souhaitable, est possible ?
+
+**David Cayla :** Une grande question. La question du post-néolibéralisme, c’est
+toute la conclusion, qui fait quasiment un chapitre entier de l’ouvrage, puisque
+c’est une très longue conclusion. Alors je ne recommande pas — je ne suis pas
+dans une démarche de recommandation, je suis plutôt, comme le dit Véronique,
+dans une démarche d’analyse prospective. Puisqu’on ne sait pas ce que l’avenir
+sera, et je pense que les économistes qui font des prévisions se trompent
+toujours, donc je ne ferai pas de prévisions. Par contre, ce qui m’intéresse,
+c’est de m’appuyer sur les travaux de certains économistes, de certains
+chercheurs plus largement, qui essaient de voir dans le cœur du néolibéralisme
+actuel des tendances qui vont un peu dans le sens d’un phénomène dialectique.
+Parler de dialectique, c’est un concept marxiste, qui montre que tout système
+change, évolue sous la force de ses propres contradictions. Il y a des
+contradictions dans le néolibéralisme, il y en a beaucoup, et ça a été beaucoup
+étudié. L’une des conséquences — il y a deux conséquences qui ont été étudiées
+par certains auteurs que j’étudie, que je rencontre — c’est d’une part un
+effondrement institutionnel. C’est-à-dire que le néolibéralisme, avec l’attaque
+de l’État, attaque la légitimité de l’État, il émerge, il fait émerger du
+populisme. C’était l’objet de mon précédent ouvrage. À l’issue de ce processus
+de délestation des institutions, on pourrait arriver vers une société totalement
+désinstitutionnalisée. Et donc évidemment on ne peut pas être favorable à ça,
+parce qu’une société désinstitutionnalisée — c’est ce qu’analyse Wolfgang
+Streeck, le sociologue allemand de l’École de Francfort — c’est une société sans
+société, c’est une société avec des individus en concurrence les uns avec les
+autres, qui ne sont plus capables d’agir collectivement. Quelque part, c’est
+*Mad Max*, pour le coup, mais *Mad Max* sociétal, pas un effondrement
+climatique, un effondrement de la société dans son ensemble. Streeck pousse très
+loin. C’est un livre qui n’a pas été traduit en français, mais qui est paru en
+anglais en 2016. Il va vraiment très bien pousser sur l’après-capitalisme, en
+fait. Il dit : voilà, on pourrait avoir ça.
+
+Et puis il y a une autre perspective, moins sombre mais qui reste quand même
+très sombre : l’illibéralisme, ou la perte de l’État de droit. C’est un des
+aboutissements possibles du néolibéralisme. On a parlé tout à l’heure de
+l’effondrement russe. Enfin, des ex-Soviétiques, parce que l’Ukraine aussi est
+touchée, d’autres pays de l’Union soviétique sont touchés. C’est un
+effondrement, on peut pas expliquer Poutine si on n’a pas expliqué
+l’effondrement des années 1990. En Turquie, il y a un tournant aussi libéral de
+gouvernement, et quelque part la mise en cause de l’État de droit, ce qu’on
+pourrait appeler une forme de néoféodalisme. Parce que finalement, qu’est-ce que
+c’est que le *rule of law* ? C’est la règle, en anglais, mais ça veut dire le
+règne de la loi. L’absence de l’importance de la loi, de la règle dans les
+gouvernements va faire réémerger des systèmes d’allégeance. Ça, c’est ce qu’on
+pourrait appeler du néoféodalisme. Il y a beaucoup d’auteurs qui l’ont analysé,
+et celui qui va le mieux l’analyser, c’est sans doute Alain Supiot dans *La
+gouvernance par les nombres*, puis dans ses interventions. C’est un juriste.
+Cédric Durand aussi l’étudie, un économiste qui est lui aussi à Genève, qui
+travaille sur l’économie numérique et qui voit dans l’émergence de l’économie
+numérique des retours de systèmes néoféodaux. D’ailleurs, sa lecture qui m’a
+fait penser à ça, c’est que les plateformes se substituent au marché.
+C’est-à-dire qu’on voit à la fois la disparition du marché comme outil de
+régulation de l’offre et de la demande, puisque une plateforme comme Uber, comme
+Amazon, comme la plupart des plateformes numériques, c’est elle qui décide, qui
+remplace le marché. En fait, elle organise la coordination de l’offre et de la
+demande et elle décide des prix. C’est-à-dire que ce ne sont plus les individus
+qui négocient librement, c’est une plateforme privée qui remplace le marché et
+qui est gérée par un algorithme obscur et sous contrôle d’une entreprise privée.
+Et ça, ça va faire émerger des rapports de force. En gros, le marché, c’est un
+espace public, et on arrive dans des transactions qui sont organisées par un
+espace privé et sous le contrôle d’une personne. On peut avoir ce que Elon Musk
+fait de Twitter : et bien ce n’est plus du néolibéralisme, on est dans autre
+chose.
+
+La question ensuite qui est posée, c’est donc — moi je pose à ces deux systèmes,
+évidemment qui ne sont pas hyper réjouissants : l’effondrement institutionnel,
+et puis le néoféodalisme — ce ne sont pas des perspectives que je pense géniales
+pour l’avenir, mais elles sont probables. Alors je ne dis pas qu’il ne faut pas
+sortir du néolibéralisme, parce qu’en fait, pour éviter ça, il faut sortir du
+néolibéralisme. Il faut sortir avec une économie démocratique. Qu’est-ce que ça
+veut dire, une économie démocratique ? Ça veut dire repenser la place respective
+du marché, de l’État, de l’autorité politique. Ce n’est pas forcément l’État qui
+gère le marché. Je ne vais pas ici faire tout l’agenda, parce que ça serait un
+peu long, je vous renvoie à la lecture de l’ouvrage sur cette conclusion. Mais
+c’est vrai qu’il faut repenser les choses en profondeur.
+
+Et la question qui va se poser, et qui nous oblige aujourd’hui à sortir du
+néolibéralisme, c’est bien sûr le changement climatique. Puisque finalement,
+qu’est-ce que c’est que la réponse au changement climatique ? Et bien c’est une
+forme d’économie de guerre. Non pas qu’on va faire la guerre aux gens, mais j’ai
+dit tout à l’heure que les guerres, c’était la bifurcation du système économique
+d’un système économique orienté vers les biens de consommation vers un système
+productif qui va produire des armes pour fournir l’armée. Cette orientation très
+rapide de l’économie américaine a dû impliquer un État extrêmement
+interventionniste, qui régule les prix des biens de production et puis même
+globalement, en fait, dans les commodités, on va bien au-delà des biens de
+production, parce qu’on est du quasiment tous les prix pour organiser ça. Donc
+je pense que cet enseignement de ce qui s’est passé pendant les commodités, et
+puis de manière atténuée ensuite pendant les Trente Glorieuses, explique un peu
+ce qu’il faut faire quand on veut prendre sérieusement la réorganisation du
+système productif, et clairement répondre à l’urgence écologique, à l’urgence
+climatique, mais aussi à la raréfaction des matières premières. Ça va nécessiter
+une mise en œuvre politique qui est contradictoire au néolibéralisme, et donc il
+va falloir qu’on s’inspire des systèmes de régulation qui ont été mis en œuvre
+dans le cadre des commodités. C’est pour ça qu’on va devoir y venir.
+
+Mais le problème, c’est que si on ne pense pas ça, et bien on va aller vers la
+réaction des ressources, l’urgence climatique, certains leaders, certains
+responsables, certains chefs d’entreprise qui vont s’accaparer les dernières
+ressources et qui vont les utiliser pour avoir du pouvoir. Simplement dire que
+si on ne pense pas cette transition d’un point de vue démocratique, on aura
+mécaniquement, j’ai envie de dire, un régime qui va se durcir, qui va être plus
+autoritaire, parce que face à l’urgence climatique on ne va pas prendre le temps
+de faire la démocratie et d’expliquer gentiment aux gens qu’il faut qu’ils
+réduisent leur PIB.
+
+Et je reviens, je termine sur la question de la décroissance. En fait, c’est
+très violent, la décroissance a priori, parce que le PIB, on dit toujours « le
+PIB, c’est la production ». Alors quand on interroge les gens : « Est-ce que
+vous êtes d’accord pour réduire la production ? Regardez, on surproduit, on
+surconsomme, on va réduire notre production », les gens sont plutôt favorables à
+cette idée. Mais on oublie toujours de leur dire que le PIB, ce n’est pas que la
+production, c’est essentiellement les revenus. Parce qu’en fait, dans la
+production, il y a une partie de la production qui n’est pas intégrée dans le
+PIB, ce qu’on appelle l’autoproduction ou la production informelle. Elle n’est
+pas forcément intégrée. Par contre, ce qui est certain, c’est que le PIB intègre
+tous les revenus. Donc si, au lieu de dire aux gens : « Est-ce que vous êtes
+prêts à moins surproduire ? », ils vont dire « oui » ; mais si on dit : « Est-ce
+que vous êtes prêts à avoir moins de revenus ? », c’est exactement la même
+chose, mais ça ne va pas être accepté de la même façon. Baisser le PIB, c’est
+baisser les revenus.
+
+Et comme je l’ai dit, en fait, contrairement à ce que dit Véronique, on a des
+exemples historiques : la Russie, c’est un exemple historique de décroissance
+organisée, parce que c’est bien organisé par l’État, par les autorités qui
+mettent en place la thérapie de choc, qui mettent en place la privatisation
+accélérée. Une autre manière de voir une réduction organisée de la part du PIB.
+Officiellement, c’est vrai que c’est comme ça qu’on le vend, et que c’est plus
+facile à vendre. En pratique, c’est vrai aussi. Mais il a quand même fallu qu’il
+y ait des autorités qui organisent la baisse du PIB, et donc la baisse du revenu
+des gens. Effectivement, c’était vendu avec l’idée que postérieurement on serait
+plus heureux. Mais c’est aussi un peu ce que disent les décroissants : il faut
+décroître au début, puis ensuite vous verrez que la société sera meilleure. Mais
+c’est vrai qu’ils ne prennent pas une reprise de la croissance qui s’accompagne,
+donc du coup je pense que ça va... Enfin, je parle des décroissants, beaucoup
+plus, mais les effets ont été cela.
+
+Je pense qu’on a du mal à mesurer, parce que ça signifie moins 60 % en disant,
+ça veut dire plus d’une récession de plus de 6 % chaque année en moyenne. Le
+Covid, ce n’est pas 6 %. Et puis on a eu l’État qui a massivement protégé les
+revenus des gens, quand même une réduction du PIB mais pas des revenus, ce qui a
+créé des effets d’épargne qui ont aussi posé d’autres problèmes. Au niveau des
+institutions, c’est extrêmement violent au niveau de la société. Un autre cas de
+décroissance organisée, c’est la Grèce, en 2011 : moins 40 %. C’est moins
+violent que la Russie, mais ça a aussi profondément désorganisé la société. Je
+veux dire, c’est possible d’organiser. On peut l’habiller en disant : non, non,
+mais c’est que provisoire, c’est que transitoire, on sera heureux demain. Mais
+les populations elles ont plus ou moins résisté. Enfin, la sauce. Je ne sais pas
+si on peut dire que la société russe ne s’est pas effondrée, parce que quelque
+part je crois qu’elle s’est un peu effondrée. Je ne suis pas sûr. La Grèce n’est
+pas totalement effondrée par ailleurs, et puis elle a une croissance qui a
+repris. Mais imaginez effectivement de dire : on va réduire de beaucoup le PIB,
+on va être plus heureux mais jamais on ne reviendra au niveau d’avant. C’est
+quand même compliqué.
+
+Alors bien sûr, les décroissants disent : la récession, ce n’est pas la fin des
+croissants, ce n’est pas la récession. Ce qui est marrant, c’est qu’ils parlent
+toujours des croissances en négatif, c’est-à-dire qu’ils disent toujours ce que
+ce n’est pas, mais ils ne disent jamais ce que c’est. Même s’ils sont d’accord
+pour dire qu’à un moment il faut réduire les PIB, mais même ça, ils ne parlent
+pas de réduction de revenus, alors que pour l’instant, pour le coup, réduire le
+PIB, c’est réduire les revenus. Donc la question, c’est que si on organise une
+autre société avec plus de services collectifs, avec peut-être plus de temps
+libre, peut-être que les choses peuvent passer plus facilement. Mais voilà, ce
+n’est pas facile.
+
+Donc enfin, ma perspective, c’est de réfléchir sur comment reprendre la main sur
+le marché, comment organiser des systèmes de concertation collective pour
+remettre du politique au lieu de l’enlever. C’est-à-dire avoir des systèmes
+d’incitation qui sont le produit du marché, de l’offre et de la demande, et bien
+recontrôler les prix, sortir de la marchandisation d’un certain nombre de
+questions. Ça donnerait du poids aux politiques, qui pourraient ensuite
+organiser non pas une décroissance globale mais peut-être une transition
+productive. Parce qu’à la fin, Serge Latouche est vraiment dans une logique : il
+faut changer, il faut sortir de l’imaginaire de la croissance, il faut en
+quelque sorte être plus sobre. C’est beaucoup de vision morale en fait. Je crois
+qu’il faut un peu évacuer cette question et se dire : en fait, on ne décroît pas
+parce qu’on sera plus heureux avec moins de revenus. On décroît pour résoudre le
+problème du changement climatique ou de la raréfaction de nos matières
+premières. Donc du coup, ça permet de re-rationaliser en quelque sorte le
+process, en évitant de dire aux gens ce qu’il faut qu’ils fassent — « ah mais ce
+n’est pas bien de prendre l’avion » —, et plutôt réorganiser les modes de
+transport, réorganiser les modes de vie. Et ça, ça veut dire un État quand même
+qui reprenne la main, qui se réapproprie un certain nombre d’outils économiques.
+Donc il y a plus pragmatique : penser la transition écologique, améliorer le
+système de recyclage, refaire une économie plus circulaire. On n’y arrivera
+jamais à 100 %, mais aller vers ça, faire en sorte d’économiser les matières
+premières qui sont encore indispensables et dont les ressources sont finies.
+Voilà toutes ces questions. Après, peut-être on arrivera à une décroissance,
+peut-être pas.
+
+Alors c’est là où moi je ne suis pas hyper d’accord avec Jean-Claude ici, quand
+lui pense que le PIB, c’est l’énergie. Il a des bons arguments, mais on a une
+réduction historique en 2022 des émissions : moins 4 % en France en une année,
+alors qu’on a une croissance du PIB. Donc ça veut dire qu’on peut tout à fait
+réduire les émissions et faire croître le PIB. En fait, le découplage existe
+déjà. Alors je ne dis pas que c’est facile, par ailleurs des secteurs croissent,
+mais moi je pense que c’est possible d’éviter l’effondrement si on se
+réapproprie collectivement les outils de l’économie.
+
+**Modérateur :** Merci David Cayla. Pour terminer, j’aimerais juste présenter à
+la salle votre ouvrage avec Véronique et tout un tas d’autres auteurs. Ça
+s’appelle *La souveraineté, l’Europe et le peuple*, un ouvrage dont vous êtes la
+coordinatrice, il me semble, Véronique. Justement, David Cayla y consacre un
+chapitre encore au néolibéralisme, donc ça peut être l’opportunité, si ça vous
+intéresse, de revenir plus en profondeur sur la question. Il y a aussi des
+écrits de Marcel Gauchet, Stéphane Rozès, Emmanuel Morel, Henri Guaino et
+d’autres. Et c’est évidemment en mémoire de la regrettée Coralie Delaume,
+brillante essayiste. À présent, je vais, si vous le souhaitez, vous donner la
+parole. Si vous avez des questions pour Véronique, pour David Cayla, peu
+importe.
+
+## Échanges avec la salle
+
+**Public :** Il me semble qu’il y a des gens qui savent gérer la décroissance,
+un peu : c’est les urbanistes d’Allemagne de l’Est, qui ont appris à gérer une
+contraction du tissu urbain. Peut-être qu’il y aurait quelque chose à apprendre.
+Est-ce que, dans ces conditions, on ne devrait pas consacrer une autre partie de
+la recherche scientifique et économique à savoir comment on gère une situation
+où l’énergie décroît ? Parce que sur le PIB, ce qui est dit, la question qu’on
+ne pose pas, c’est : qu’est-ce qu’on produit dans le PIB ? Parce qu’il y a à
+côté les trucs dont on a vraiment besoin, l’agricole et l’industrie, pour les
+biens de consommation, et de l’autre un secteur qu’on appelle les services, qui
+comportent des choses parfois tout à fait inutiles. On voit une croissance de
+ça. Ce que, je crois, David Graeber appelle le secteur informationnel, qui fait
+tous les *bullshit jobs*, etc. Donc la question, c’est comment on apprend à
+bâtir une société nouvelle dans ce contexte-là, comment on apprend à sortir du
+néolibéralisme, à mieux s’en sortir, à s’en sortir aussi dans ce contexte de
+baisse de l’énergie disponible, qui conditionne un peu la vie tous les jours,
+parce qu’en fait on n’a pas d’énergie sans énergie. J’aimerais bien voir ce que
+va devenir le PIB si on n’a plus de pétrole.
+
+**Véronique :** Je voulais juste revenir, parce que c’est dans le sillage de la
+question, sur ce que tu as dit sur les exemples de décroissance et notamment
+l’exemple russe. La croissance était dès le départ le but, et d’autre part les
+gens qui avaient le pouvoir, qui allaient avoir l’argent, qui étaient en train
+d’acquérir, avaient tout intérêt à cette transition. C’est-à-dire qu’en jeu il y
+avait beaucoup de sous, des sous à gagner, et des sous à gagner étaient du côté
+de cette solution. Ils n’étaient pas dans le maintien du système socialiste, ils
+étaient dans la transition vers le système libéral capitaliste. Dans un monde
+qui doit décroître réellement à long terme et de façon irréversible, quel est
+l’intérêt des personnes qui ont le pouvoir, qui ont l’argent et dont le but
+structurel est de faire de l’argent — c’est comme ça qu’est constitué le système
+capitaliste : on investit, on a un retour sur investissement — qui a intérêt à
+la décroissance ? À part l’humanité, etc., les fleurs, tout ça. Mais où sont les
+intérêts qui vont être capables, comment persuader ces gens-là ? Moi, pour moi,
+c’est un mystère total. Encore, pour persuader la population, on peut imaginer
+leur montrer plein de films didactiques, et puis je ne sais pas, leur distribuer
+des bonbons, mais alors les personnes qui ont réellement partie liée avec le
+fonctionnement de ce système, je ne comprends pas.
+
+**David Cayla / Véronique :** Mais pour rebondir : moi je me posais juste la
+question : est-ce que la décroissance, c’est possible ? Est-ce qu’elle a jamais
+été mise en œuvre ? Je vais juste dire que du point de vue matériel, elle a été
+mise en œuvre en Russie, après avec un discours, un enrobage idéologique très
+très différent de ce que vous posez, des décroissants. Mais on ne peut pas dire
+que ça n’a pas existé. C’est juste ça. C’est la raison pour laquelle je ne crois
+pas à la décroissance que tu viens de dire : c’est-à-dire que pour le faire
+accepter par la population, ça va être très compliqué ; pour le faire accepter
+par les dirigeants, c’est encore plus compliqué. Et j’ai dit, moi je crois que
+seuls les dirigeants, en fait, peuvent transformer les institutions. Les gens ne
+transforment pas les institutions, même s’ils sont 90 %. Et pour aller vers la
+décroissance, ce qui d’ailleurs n’est pas le cas, ils ne vont pas réussir à agir
+s’il n’y a pas dans les élites cette volonté d’organiser la décroissance.
+
+Maintenant, ce que dit Jean-Claude ici, c’est quand même que la décroissance
+sera subie. Alors c’est là où on peut discuter, parce que je trouve qu’il a une
+vision un peu naïve de l’économie. Personnellement, c’est un peu mécanique, un
+peu ingénieur : voilà, le PIB c’est de l’énergie. Bon, mais en fait on voit que
+ce n’est pas toujours si simple que ça. Mais lui dit : en fait la décroissance,
+elle va arriver parce qu’on n’aura plus accès à des matières premières. Et donc
+après la question, c’est : si la décroissance est la conséquence d’une
+incapacité à synchroniser énergie et matières premières et d’une désorganisation
+du système productif mondial, alors il va bien falloir l’organiser. Et sans
+doute que là, pour le coup, les élites n’ont pas le choix. Et là on revient sur
+l’idéalisme, le matérialisme : c’est-à-dire que là, je vais faire le côté
+matérialiste, et que quand il n’y a plus les conditions matérielles pour la
+croissance, du coup il n’y a plus de croissance. Et même si on n’a pas envie et
+qu’on croit qu’il faut croître, et bien le fait, on ne croît pas quand même.
+Moi, je ne suis pas absolument convaincu par l’analyse de Jean-Claude ici, même
+si je pense qu’il a des arguments.
+
+**David Cayla :** Je ne sais pas si j’ai plus ou moins répondu. Mais le
+changement, pour moi, ne peut se faire que non pas par le peuple, en cherchant à
+convaincre les citoyens — même s’il y a dans une démocratie la nécessité de
+prendre le pouvoir — mais par l’action qu’on peut avoir sur ceux qui ont
+vraiment le pouvoir. Et en fait, il ne faut pas croire, il ne faut pas avoir une
+vision naïve de la démocratie. La démocratie, c’est un ensemble institutionnel
+complexe, avec des citoyens qui veulent des choses, des institutions qui ont
+d’autres intérêts, parfois qui se mêlent, qui ne sont pas toujours homogènes. Il
+ne faut pas croire que les élites, entre guillemets, sont d’accord sur tout. Il
+y a plein de contradictions. Par exemple, sur le marché européen de
+l’électricité, on sait clairement que ce n’est pas une revendication qui a été
+faite par les citoyens. Les citoyens n’ont jamais manifesté pour ça. Et en même
+temps, il y a aujourd’hui des contradictions : quand on voit ce que dit le Medef
+aujourd’hui, il dit que quelque part le marché européen de l’électricité ne
+fonctionne pas, alors qu’ils ont été les premiers à le vouloir. Par exemple,
+Macron serait hyper populaire s’il disait : on va déjà renationaliser EDF,
+redonner EDF — ce n’est pas assez crème —, il n’y aurait pas eu de souci. Même
+s’il ne l’a pas fait pour les bonnes raisons, s’il disait : écoutez, on sort du
+marché européen de l’électricité, et bien il gagnerait beaucoup de points
+d’autorité en fait chez tout le monde. Pourquoi il ne le fait pas ? Parce qu’il
+est convaincu de son côté qu’il faut s’entendre avec les Allemands, que l’Union
+européenne c’est l’avenir. Donc je crois qu’il y a aussi des freins dans les
+convictions. Voilà, ce n’est pas simple en fait. Il n’y a pas de méthode pour
+changer la société.
+
+**Modérateur :** C’était sur ce qu’il faudrait faire : produire un modèle en
+fait.
+
+**David Cayla :** Alors c’est moins un modèle qui concrètement fonctionnerait.
+Enfin, ce n’est pas possible. Moi j’essaie de proposer — je n’ai pas parlé, je
+n’ai pas le temps — un agenda, c’est-à-dire quelques grands principes pour
+proposer un autre modèle. En gros, la question, c’est comment organiser les
+marchandises, comment organiser la répartition de choses qui ne sont pas des
+marchandises, comme les matières premières, la question climatique. Mais à part
+causer des grands principes, on ne peut rien faire d’autre, parce qu’après c’est
+toute une architecture institutionnelle qui doit se mettre en place et qui est
+le produit de compromis complexes entre les différentes composantes de la
+société. Si on arrive à dire : il y a des gens qui ont des modèles, qui ont déjà
+construit le modèle de société — je pense à Bernard Friot par exemple, à Réseau
+Salariat — et bien ils arrivent, ils disent : j’ai la solution, regardez. En
+fait, ils ont aussi la solution. On lit tous les auteurs décroissants, c’est
+très bien d’avoir conçu dans les idées un monde idéal. Mais en fait, le chemin
+pour arriver du monde actuel à l’idéal, ils ne l’ont pas. On ne peut pas
+l’avoir. Les communistes russes, les bolcheviks, avaient aussi une vision de
+société idéale, mais le chemin est passé par Staline, et puis ça n’a pas
+vraiment bien marché. Donc moi je pense qu’il faut être beaucoup plus modeste.
+Il faut juste poser quelques grands principes, et puis chercher à trouver des
+arrangements institutionnels parmi les composants de la société.
+
+Et puis derrière, je voulais juste finir sur ça : à mon avis, je suis désolé, je
+pense comme Jean-Claude ici qu’il y aura une décroissance subie. Qu’elle soit
+très forte, brutale, ou un peu moins forte, mais il y aura une certaine
+décroissance subie. Je ne vois pas comment c’est possible sinon dans l’état de
+finitude des ressources. Ce qu’on peut faire probablement, c’est essayer,
+pendant qu’on est dans cette décroissance subie, de la contrôler un peu, de la
+canaliser au mieux qu’on peut dans chaque situation concrète. Je ne pense pas du
+tout qu’on va passer par des solutions utopiques : nous allons programmer une
+décroissance comme ci comme ça. Ça ne va jamais se faire, pour cette raison
+qu’on ne va pas convaincre les gens qui la recommandent. Et l’autre possibilité,
+s’il y a une décroissance subie vraiment très brutale, oui, ça s’effondre un
+peu, pas mal, ça fait très mal. Et après, peut-être oui, on va pouvoir inventer
+de nouvelles formes, mais après, pas avant. Avant, ça ne va jamais se passer.
+Rendez-vous dans 50 ans si on est vivant, pas de souci.
+
+**Modérateur :** Merci pour votre intervention. Il nous reste 10 minutes, et il
+y a une question encore après, peut-être une dernière.
+
+## Société de consommation et émancipation féminine
+
+**Public :** Ma question porte sur la société de consommation et l’émancipation
+féminine.
+
+**Véronique :** La société de consommation, c’est un produit du développement du
+capitalisme, c’est un produit dérivé des conséquences de la révolution
+industrielle en Occident, qui a permis toute cette machine de se mettre en
+branle. Donc oui, d’une certaine façon. Après, est-ce que c’était… Natacha
+Polony aussi va poser la question sur… En tout cas, moi je ne l’explore pas
+spécialement, la société de consommation. C’est une société d’abondance qui
+participe à l’abondance de tous ces objets de consommation qui arrivent dans
+chaque foyer et qui sont à la disposition de chaque famille. Donc de ce point de
+vue-là, c’est une société de confort, une société de confort matériel que nous
+connaissons. De ce point de vue-là, oui. Mais après, non, pas du point de vue
+philosophique ontologique en tout cas.
+
+## Néolibéralisme, idéologie et intérêts
+
+**Public :** À propos du néolibéralisme : ne pensez-vous pas que le
+néolibéralisme est une idéologie à travers notamment Milton Friedman, une
+justification morale par l’oligarchie de s’accaparer une bonne partie des
+richesses, d’assimiler les responsabilités, le rôle de l’État ? En fait, c’est
+une justification morale d’une certaine élite. On voit qui sont les sponsors :
+ils avaient quand même intérêt à avoir une certaine influence pendant les Trente
+Glorieuses. N’ont-ils pas saisi l’occasion pour récupérer le pouvoir ? Selon
+vous, donc, pour moi si on en reste au moral…
+
+**David Cayla :** Il y a des auteurs qui disent ça, qui venaient du marxisme,
+mais c’est un élément dans la bataille politique. Mais les deux ne sont pas
+incompatibles. C’est-à-dire que moi, ce qui m’intéresse, c’est le néolibéralisme
+tel qu’il a été conçu par les auteurs néolibéraux eux-mêmes. Et eux, ils n’ont
+jamais dit qu’ils construisaient une doctrine au service des puissants. Mais en
+même temps, ça n’empêche pas que les puissants s’en emparent pour la soutenir et
+l’utiliser. Comme il y a beaucoup de gens qui ont écrit là-dessus, moi je n’ai
+pas voulu du tout écrire là-dessus. J’ai voulu avoir une perspective d’histoire
+des idées, la mise en œuvre de ces idées par les lois, sans m’intéresser aux
+questions d’intérêt, parce que je veux aussi prendre le néolibéralisme au
+sérieux dans sa conception théorique. Parce qu’il faut aussi comprendre que, y
+compris à gauche, on était néolibéral. Ce qui est important de comprendre, c’est
+que, y compris des gens qui sincèrement — et je crois qu’il faut croire à la
+sincérité des gens, il faut croire à la force des convictions — voulaient aider
+la gauche, le peuple et les classes populaires, ont mis en œuvre des solutions
+néolibérales sans comprendre qu’en réalité ce n’était pas forcément le cas.
+Friedman, je crois qu’il y a plusieurs figures de même, par ailleurs, mais je
+pense qu’il était convaincu par ses idées. Ça ne l’embêtait pas d’aller parler
+du miracle chilien sous Pinochet, d’aide financière partout dans l’ensemble des
+entreprises, mais parce qu’il voulait gagner en influence en fait. Mais je crois
+qu’il était quand même au départ convaincu par ses propres idées. Par exemple
+Hayek, clairement, c’est un acteur qui croit en ses idées. Il n’a pas monté la
+Société du Mont-Pèlerin juste pour gagner de l’argent. D’ailleurs au début, ça
+ne marchait pas bien. Mais ces gens-là qui ont conçu ces idées avaient des
+vraies convictions. Par exemple, les ordolibéraux ont eu un énorme courage,
+puisqu’ils ont combattu l’hitlérisme sous Hitler quand même. Donc il ne faut pas
+juste… Évidemment, je veux dire, bien sûr qu’on peut dire que le néolibéralisme,
+c’est l’idéologie des classes dominantes. Mais je trouve que si on réduit le
+néolibéralisme à ça, finalement le débat d’idées n’a plus beaucoup d’intérêt.
+
+**Modérateur / Public :** Je ne disais pas que eux, c’était enrichi. Je disais :
+je suis d’accord, l’idéologie a été à justifier moralement l’enrichissement,
+mais de manière délibérée. Il faut voir les écarts de richesse de l’entreprise
+depuis les années 1980.
+
+**David Cayla :** Je suis d’accord avec ça.
+
+## Économie démocratique, Polanyi et esclavage
+
+**Public :** Sur l’économie démocratique dont vous parliez : est-ce que ça peut
+se rapprocher de ce que Polanyi, je crois, remet comme terme d’économie de la
+circularité ? Parce que du coup ça serait cet entre-deux, ou justement une
+nouvelle forme. Et justement, vous disiez qu’on aurait peut-être après le
+néolibéralisme une concurrence très individuelle, mais pour moi c’est plutôt le
+néolibéralisme qui accentue cette concurrence entre les individus, entre chacun,
+dans ce dépassement de soi, cette concurrence. Justement, est-ce que cette
+économie de la circularité ne pouvait pas être une solution et de plus de
+coopération, justement, qu’on pourrait imaginer un peu en dehors de l’État ou du
+marché, ou au contraire est-ce que ça serait compliqué ?
+
+**Véronique :** Oui, alors pour Polanyi — il fait partie des auteurs que je cite
+beaucoup, notamment dans cette partie sur les perspectives —, en particulier
+pour son analyse des marchandises fictives et sa définition de la marchandise,
+que je trouve absolument géniale, parce que justement on ne définit jamais la
+marchandise. Polanyi la définit : c’est tout ce qui a été produit dans le but
+d’être vendu. Ce qui est intéressant, c’est que du coup les services publics par
+exemple sont produits mais pas dans le but d’être vendus, donc ce ne sont pas
+des marchandises. Les matières premières n’ont pas été produites, elles sont
+extraites. C’est très important, la différence, parce que ça veut dire que quand
+c’est utilisé, on ne peut pas le refaire. Et bien du coup ce n’est pas une
+marchandise. Le travail, c’est le temps humain : on ne fait pas des enfants pour
+les vendre, donc ce n’est pas du travail, ça ne peut pas être non plus une
+marchandise. Et quand on pense la marchandise avec Polanyi, le fait de
+discriminer permet déjà de répondre en partie à la question : qu’est-ce qui doit
+être réglé par le marché ? Le premier élément, c’est ce qui n’est pas
+marchandise par définition. Donc ce qui n’est pas produit pour être vendu ne
+peut pas être régulé par le marché ; cela doit donc être réglé par le politique.
+Et puis ensuite on peut réfléchir sur ce qui est marchandise. Par exemple,
+l’alimentaire, c’est une marchandise : quand on produit des fruits et légumes,
+on les produit dans le but d’être vendus, donc les fruits et légumes c’est une
+marchandise. Mais on comprend bien que cette marchandise est vitale, donc
+peut-être qu’il faut réguler ce marché. Donc le marché est légitime, mais sans
+doute encadré. Voilà, c’est un peu le processus que j’ai essayé de développer.
+
+Alors du coup, je ne réponds pas à la question de l’économie de la circularité,
+parce que ça, c’est des travaux de Polanyi ultérieurs que je n’ai pas lus. Moi
+je me suis surtout intéressée au Polanyi qui s’interroge sur le fascisme dans
+les années 1930, et puis à son livre *La Grande Transformation*, écrit en 1944.
+Après, il a travaillé sur d’autres choses que je n’ai pas lues.
+
+**Public :** Sur votre thèse, Véronique, j’aimerais savoir s’il y avait un
+parallèle qui pouvait se faire avec l’abolition de l’esclavage, où on dit que
+c’est aussi ce qui a permis de faire la machine à vapeur, qui avait justement
+permis d’industrialiser tous ces travaux. Et un risque aujourd’hui, avec la
+raréfaction des ressources, c’est que vous puissiez avoir aussi une augmentation
+de la précarisation du travail comme on le voit actuellement, et qui pourrait
+être touchée aussi aujourd’hui et renforcée. Et peut-être plus généralement :
+quelle place des services publics verriez-vous dans une économie décroissante et
+planifiée ?
+
+**Véronique :** Oui, merci pour votre question. Oui, bien sûr, l’esclavage, et
+puis toute une série d’autres choses. On pourrait étendre cette analyse à
+énormément de choses. D’ailleurs il y a plein de gens qui le font, il y a plein
+de gens qui me le font remarquer. En fait, le fait que les conséquences de la
+révolution industrielle et toute cette transformation matérielle de notre monde
+aient eu des conséquences énormes pour tout le monde, et pas seulement pour les
+femmes : tous les processus, tous les rapports sociaux, toutes les pratiques
+économiques, tout ce qui nous entoure aujourd’hui, la manière dont on vit, est
+effectivement construit sur cette réalité matérielle-là, c’est-à-dire
+l’existence d’une énergie pas chère et de machines qui effectuent à notre place
+un grand nombre de travaux. Jean-Claude ici a fait le petit calcul de savoir
+combien d’esclaves virtuels, d’esclaves énergétiques, dispose en moyenne chaque
+Français. Bon, après le calcul vaut ce qu’il vaut, on peut faire un autre
+calcul, mais lui il arrive à un chiffre hallucinant, autour de 400. Donc chaque
+Français aujourd’hui vit comme un esclavagiste avec 400 esclaves. Effectivement,
+dans le monde d’avant, la technologie formidable qu’on a connue, les seuls qui
+pouvaient vivre de cette façon — et encore, ils ne vivaient pas de cette façon,
+parce que personne à l’époque n’avait de Doliprane pour faire baisser la fièvre,
+et tout le monde était malade de la peste, exactement comme les pauvres — mais
+ils avaient quand même accès à un grand nombre de services auxquels n’avaient
+pas accès les autres. Et ils y avaient accès parce qu’ils avaient des esclaves
+physiques qui effectuaient ce travail. Donc oui, absolument, l’esclavage a été
+rendu obsolète par la généralisation de la machine à vapeur, qui faisait les
+choses bien mieux, beaucoup plus vite, beaucoup plus efficacement, et pour
+beaucoup moins cher. En plus, il ne fallait lui donner que du charbon, alors que
+les esclaves ont quand même beaucoup de besoins, plus diversifiés, donc c’est
+beaucoup plus compliqué.
+
+On peut même — dans mon livre je pose un petit peu les luttes féministes avec
+les luttes sociales et de libération nationale, les luttes sociales notamment,
+qui ont été très dures — et on peut observer vraiment de façon expérimentale le
+lien de cause à conséquence : mobilisation, lutte, blocage, et puis ensuite
+droit accordé. Mais même les luttes sociales, l’amélioration de la condition
+sociale des classes populaires, elle aussi n’est pas entièrement dérivée de la
+transformation industrielle, mais elle a grandement bénéficié du développement
+de cette infrastructure matérielle, de l’enrichissement général des sociétés, ne
+serait-ce que l’existence de toutes les structures collectives de protection, de
+protection maladie, vieillesse, etc. Donc ça a été rendu possible par
+l’enrichissement de notre société, donc ça rejaillit sur chacun de nous.
+
+Après, moi, si je prends les femmes spécialement dans le livre, c’est parce que
+je pense que pour les femmes ça a une conséquence vraiment spéciale et très
+particulière. Parce que l’esclavage, comme la situation des classes populaires
+ou des classes dominantes, elle est toujours changeante : tantôt ce sont des
+esclaves noirs aux États-Unis, tantôt on va avoir, je ne sais pas, dans des pays
+asiatiques, des esclaves d’un pays qui sont emportés par un autre pays. Ce n’est
+pas forcément les mêmes populations, ensuite le rapport de force envers et puis
+ça peut être l’histoire continue. Alors qu’entre les femmes et les hommes, ça a
+été une distribution de l’inégalité unilatérale et universelle qui a caractérisé
+l’ensemble de l’histoire humaine. Parce qu’à la base il y avait un facteur
+lourd, lié à des facteurs totalement matériels, biologiques, qui consiste dans
+la reproduction sexuée de notre espèce, le fait que les femmes conçoivent dans
+leur corps, que ce sont elles qui portent l’enfant, qui le mettent au monde.
+Sous un régime démographique traditionnel, cette tâche les privait concrètement
+d’un grand nombre d’opportunités. Donc pour elles, réellement, le renversement
+de la situation était impossible dans le monde d’avant, alors que pour les
+autres inégalités il était possible. Voyez ce que je veux dire. Même si
+évidemment, en tant que phénomène, l’esclavage a été rendu obsolète par d’autres
+forces.
+
+## Décroissance, institutions et responsabilité politique
+
+**Public :** Un point qui retient mon attention et que je trouve
+particulièrement intéressant, c’est que dans le spectre de la décroissance on
+parle souvent, on avance souvent la responsabilité des gouvernants, donc
+finalement la nécessité qu’il y ait une volonté politique pour mettre en œuvre
+un projet. Peut-être parfois aussi au détriment de variables qui sont
+importantes. Par exemple, on voit bien qu’Emmanuel Macron, dans le cadre de ses
+projets par exemple de construction de centrales nucléaires, de remettre à
+nouveau de l’importance à l’énergie nucléaire, se confronte à un manque de
+connaissances en France et de main-d’œuvre d’ingénieurs nucléaires. Finalement,
+est-ce que ça ne redonnerait pas de l’importance justement au fait que les gens
+se ressaisissent aussi de ces enjeux, et puis se saisissent du pouvoir pour
+aussi participer à ce changement de société ?
+
+**Véronique :** Je comprends. C’est l’une des conditions matérielles de la
+possibilité de mettre en œuvre une stratégie. Et moi, il y a un truc sur ce que
+vous dites quand on parle de décroissance, c’est un peu ambigu, mais il y a une
+chose qui me marque, qui me frappe, dans la théorie de la décroissance. Bon, je
+vous invite à lire le livre de Serge Latouche, *Le Pari de la décroissance*, que
+j’ai lu cet été. À la fin il fait des propositions, il en fait neuf. Alors je ne
+les ai pas toutes en tête, mais aucune de ces propositions, en gros — par
+exemple, même pour la publicité, il faut réglementer plus strictement la
+publicité, bravo la société de décroissance, bravo la révolution —, pareil en
+fait. Il y avait quelque chose qui était très très marquant dans le socialisme :
+c’était l’appropriation collective des moyens de production, publics ou par les
+salariés eux-mêmes. Quelque chose qui était très clair : on savait ce qu’il
+fallait faire, on allait exproprier les patrons. Aujourd’hui, quand on parle de
+décroissance, l’un des problèmes, c’est qu’on ne sait pas quoi faire. En fait,
+les théories de la décroissance disent qu’il faut baisser le temps de travail,
+limiter, réglementer davantage la publicité, mais baisser le temps de travail,
+qu’est-ce que ça signifie ? Est-ce qu’on aura encore accès à nos ressources ?
+Par rapport à la question du nucléaire, c’est un peu la même chose : on veut
+relancer le nucléaire, mais est-ce qu’on a les ingénieurs, est-ce qu’on a les
+techniciens, est-ce qu’on a l’infrastructure pour le faire, est-ce qu’on a le
+combustible ? Voilà, c’est des questions techniques, matérielles, qui se posent.
+
+Et en fait, l’un des problèmes qu’on a pour moi aujourd’hui — et là je rejoins
+complètement ce qui a été dit sur l’idéalisme actuel — c’est qu’on pense qu’en
+convainquant les gens tout de suite, les choses vont se résoudre. Mais en fait,
+convaincre de quoi ? Convaincre qu’il faut décroître, d’accord. Mais ce n’est
+pas le comportement individuel qui fait décroître, c’est les institutions. Et
+ensuite, la question, c’est : on est politique, on est responsable, on est
+président de la République, qu’est-ce qu’on change dans les institutions ? Au
+moins le socialisme était clair : il faut exproprier les patrons,
+collectivisation des moyens de production. Bon, au moins ça, c’était clair, on
+savait ce qu’on faisait quand on était élu. Les décroissants, et même
+globalement même la croissance verte, en fait ce n’est pas ça, parce que la
+planification écologique de Macron, et bien en fait c’est assez gazeux aussi
+comme produit. Probablement il faut commencer par l’expropriation des patrons.
+Ils ne le disent pas. Mais logiquement, si vous expropriez les patrons, après
+vous pouvez décider ce que vous faites. Au moins vous n’aurez plus le problème
+de les convaincre.
+
+On est d’accord, vous pouvez avoir une espèce de plan rationnel d’action. Après,
+je ne sais pas si c’est souhaitable, parce qu’en général ça ne s’est pas très
+bien passé. Et encore une fois, ça implique beaucoup, beaucoup de bonhommes en
+uniforme postés un peu partout. Il faut en avoir conscience. Si on veut le
+faire, on peut en faire un projet, on peut le dire, on peut essayer de le
+promouvoir auprès de la population, lui expliquer ce que ça implique. Mais il
+faut avoir conscience, y compris pour soi-même, de ce que ça implique. Je ne
+suis pas sûr qu’il y ait beaucoup de gens qui réfléchissent concrètement. Les
+gens pensent à une décroissance heureuse, ils pensent à des trucs d’émancipation
+: nous allons danser, nous allons nous aimer avec des fleurs partout, etc. Bon,
+c’est très très sympa, ça témoigne de leurs bonnes intentions, mais à part ça,
+qu’est-ce que ça apporte concrètement ? Pas grand-chose.
+
+Il faut décoloniser l’imaginaire. Concrètement, on fait comment pour décoloniser
+l’imaginaire ? Moi je sais comment décoloniser une colonie. Même par la
+publicité, même en faisant des campagnes de publicité, etc. Enfin, si Macron
+pouvait décoloniser l’imaginaire, ça serait facile de gilets jaunes. Y compris,
+y compris en conseil, comme réglementer la publicité par exemple. Si on décide
+que la publicité nous fait produire trop de choses inutiles et qu’il faut
+limiter la production des choses inutiles, très bien, on commence à réglementer
+la publicité, on l’interdit. Allez, voilà. Il y a beaucoup moins de choses qui
+se vendent, les gens n’arrivent plus à faire la promotion de leurs produits. En
+fait, la première chose que ça produit, c’est des faillites en série. On se
+retrouve avec des gens en faillite, ils n’ont plus de travail, ils licencient
+leurs salariés, les gens sont dans la rue, n’ont pas à manger, ils ont des
+petits enfants. Ce n’est pas exactement à ça qu’on a pensé, les gars. On a pensé
+à un truc juste : on consommait tous moins. Et ça, il a fait faillite parce que
+lui il produit des trucs, il se trouve que ce n’est pas hyper utile et puis ce
+n’est pas hyper connu, et sans publicité en fait c’est des conséquences. En fait
+la société est… Il y a plein d’autres choses qui se vendent, c’est beau, on a
+envie d’utiliser. D’ailleurs les vendeurs de moto ne font pas de publicité parce
+qu’ils savent que c’est les passionnés de moto qui vont faire des vidéos sur
+YouTube et puis qui vont en donner envie aux gens. Donc moi je pense que si on
+supprime la publicité, il n’y aurait pas moins de consommation. Peut-être que
+c’est un peu fort, mais parce que je crois que les gens, ils ont de l’argent, il
+faut qu’ils le dépensent quelque part. La consommation c’est peut-être un peu
+différent, mais est-ce qu’on achètera moins de trucs inutiles ? Et si on prend
+moins l’avion parce qu’il y a de la publicité ? Quand mon pote il ira en
+vacances aux Maldives, j’ai envie d’aller aux Maldives. C’est aussi le mimétisme
+en fait qui fait la consommation. Est-ce que l’inflation avec la baisse des
+salaires réels ne va pas trop régler le problème ? Non, mais ce qui est vrai,
+c’est qu’on est déjà ancré en partie dans une société post-croissance en Europe,
+c’est-à-dire que la croissance du PIB par habitant est quasiment nulle,
+complètement nulle, depuis globalement la crise de 2016 en Europe et en France.
+Donc on est déjà, et on voit les difficultés que c’est, une société de
+croissance très faible.
+
+**Public :** Je vous remercie parce que je comprends un peu mieux les termes.
+Effectivement on est dans un contexte de décroissance, d’appauvrissement subi.
+Et là je me demande — c’est même au-delà de la crise climatique — on est dans un
+appauvrissement relatif dans le monde riche par rapport au reste du monde. Alors
+est-ce qu’il n’y a pas une reconnaissance, ce n’est pas une manière de faire
+passer un peu la pilule ? C’est une pierre énorme, mais il y a un rééquilibrage
+mondial qui va s’opérer. Je ne suis pas sûr que dans les régions les plus
+pauvres du monde ce soit un problème, parce qu’il y a tellement de croissance
+potentielle pour elles que peut-être la décroissance observante ça va être
+compatible avec une croissance dans le niveau de vie, etc. Mais ça, c’est dans
+des cas où la condition des femmes — on verra les rappels — c’est très différent
+par rapport à l’Occident. Donc finalement c’est un très mal énormément de
+discours sur des sujets, et là effectivement on parle de questions très
+idéalisées quand c’est du concret. C’est de l’applaudissement. Là je comprends,
+et on peut en parler maintenant. Ça a eu la clarification. Est-ce que les
+théories de l’affaiblissement de l’Europe — je crois que eux ne sont pas
+d’accord avec ça, évidemment. Non, mais dans l’inconscient des sociétés, qui
+rend aussi populaire… exactement le déclin. Merci beaucoup.
+
+**David Cayla :** C’est possible, mais après, comme on dit, il ne faut pas
+uniquement penser aux effets des idéologies, il faut aussi penser à ce que les
+gens qui ont ces théories écrivent. Voilà. Donc moi j’essaie de m’intéresser au
+texte même, même s’ils ne disent évidemment pas ça.

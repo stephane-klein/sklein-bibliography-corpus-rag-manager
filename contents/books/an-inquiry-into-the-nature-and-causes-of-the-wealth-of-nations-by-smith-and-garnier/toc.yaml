@@ -1,0 +1,391 @@
+title: An Inquiry Into the Nature and Causes of the Wealth of Nations
+llm:
+  model: deepseek-flash
+  generated_at: 2026-09-21T21:16:02.682Z
+  input_tokens: 4885
+  output_tokens: 26466
+  reasoning_tokens: 24000
+  text_tokens: 2466
+  estimated_cost_usd: 0.015916
+  finish_reason: stop
+toc:
+  - title: Short account of the life and writings of Dr. Adam Smith
+    slug: 1-short-account-of-the-life-and-writings-of-dr-adam-smith
+    path: 1-short-account-of-the-life-and-writings-of-dr-adam-smith
+    href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00009
+  - title: Short view of the doctrine of Smith, compared with that of the French economists
+    slug: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists
+    path: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists
+    href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00027
+    children:
+      - title: Method of facilitating the study of Dr. Smith's work
+        slug: 1-method-of-facilitating-the-study-of-dr-smith-s-work
+        path: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists/1-method-of-facilitating-the-study-of-dr-smith-s-work
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00035
+        children:
+          - title: Part first - Of values in particular
+            slug: 1-part-first-of-values-in-particular
+            path: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists/1-method-of-facilitating-the-study-of-dr-smith-s-work/1-part-first-of-values-in-particular
+            href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00037
+          - title: Part second - Of stock and its employment
+            slug: 2-part-second-of-stock-and-its-employment
+            path: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists/1-method-of-facilitating-the-study-of-dr-smith-s-work/2-part-second-of-stock-and-its-employment
+            href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00040
+          - title: Part third - Of the manner in which the multiplication and distribution of wealth takes place
+            slug: 3-part-third-of-the-manner-in-which-the-multiplication-and-distribution-of-wealth-takes-place
+            path: 2-short-view-of-the-doctrine-of-smith-compared-with-that-of-the-french-economists/1-method-of-facilitating-the-study-of-dr-smith-s-work/3-part-third-of-the-manner-in-which-the-multiplication-and-distribution-of-wealth-takes-place
+            href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00042
+  - title: Introduction and plan of the work
+    slug: 3-introduction-and-plan-of-the-work
+    path: 3-introduction-and-plan-of-the-work
+    href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00050
+  - title: Book I - Of the causes of improvement in the productive powers of labour, and of the order according to which its produce is naturally distributed among the different ranks of the people
+    slug: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according
+    path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according
+    href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00052
+    children:
+      - title: Chap. I - Of the division of labour
+        slug: 01-chap-i-of-the-division-of-labour
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/01-chap-i-of-the-division-of-labour
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00054
+      - title: Chap. II - Of the principle which gives occasion to the division of labour
+        slug: 02-chap-ii-of-the-principle-which-gives-occasion-to-the-division-of-labour
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/02-chap-ii-of-the-principle-which-gives-occasion-to-the-division-of-labour
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00060
+      - title: Chap. III - That the division of labour is limited by the extent of the market
+        slug: 03-chap-iii-that-the-division-of-labour-is-limited-by-the-extent-of-the-market
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/03-chap-iii-that-the-division-of-labour-is-limited-by-the-extent-of-the-market
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00064
+      - title: Chap. IV - Of the origin and use of money
+        slug: 04-chap-iv-of-the-origin-and-use-of-money
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/04-chap-iv-of-the-origin-and-use-of-money
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00067
+      - title: Chap. V - Of the real and nominal price of commodities, or of their price in labour, and their price in money
+        slug: 05-chap-v-of-the-real-and-nominal-price-of-commodities-or-of-their-price-in-labour-and-their-price-in
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/05-chap-v-of-the-real-and-nominal-price-of-commodities-or-of-their-price-in-labour-and-their-price-in
+        href: 5682792182066254284_38194-h-0.htm.xhtml#pgepubid00072
+      - title: Chap. VI - Of the component part of the price of commodities
+        slug: 06-chap-vi-of-the-component-part-of-the-price-of-commodities
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/06-chap-vi-of-the-component-part-of-the-price-of-commodities
+        href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00082
+      - title: Chap. VII - Of the natural and market price of commodities
+        slug: 07-chap-vii-of-the-natural-and-market-price-of-commodities
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/07-chap-vii-of-the-natural-and-market-price-of-commodities
+        href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00087
+      - title: Chap. VIII - Of the wages of labour
+        slug: 08-chap-viii-of-the-wages-of-labour
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/08-chap-viii-of-the-wages-of-labour
+        href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00093
+      - title: Chap. IX - Of the profits of stock
+        slug: 09-chap-ix-of-the-profits-of-stock
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/09-chap-ix-of-the-profits-of-stock
+        href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00104
+      - title: Chap. X - Of wages and profit in the different employments of labour and stock
+        slug: 10-chap-x-of-wages-and-profit-in-the-different-employments-of-labour-and-stock
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/10-chap-x-of-wages-and-profit-in-the-different-employments-of-labour-and-stock
+        href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00111
+        children:
+          - title: Part I - Inequalities arising from the nature of the employments themselves
+            slug: 1-part-i-inequalities-arising-from-the-nature-of-the-employments-themselves
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/10-chap-x-of-wages-and-profit-in-the-different-employments-of-labour-and-stock/1-part-i-inequalities-arising-from-the-nature-of-the-employments-themselves
+            href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00113
+          - title: Part II - Inequalities occasioned by the policy of Europe
+            slug: 2-part-ii-inequalities-occasioned-by-the-policy-of-europe
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/10-chap-x-of-wages-and-profit-in-the-different-employments-of-labour-and-stock/2-part-ii-inequalities-occasioned-by-the-policy-of-europe
+            href: 5682792182066254284_38194-h-1.htm.xhtml#pgepubid00123
+      - title: Chap. XI - Of the rent of land
+        slug: 11-chap-xi-of-the-rent-of-land
+        path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land
+        href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00134
+        children:
+          - title: Part I - Of the produce of land which always affords rent
+            slug: 01-part-i-of-the-produce-of-land-which-always-affords-rent
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/01-part-i-of-the-produce-of-land-which-always-affords-rent
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00137
+          - title: Part II - Of the produce of land, which sometimes does, and sometimes does not, afford rent
+            slug: 02-part-ii-of-the-produce-of-land-which-sometimes-does-and-sometimes-does-not-afford-rent
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/02-part-ii-of-the-produce-of-land-which-sometimes-does-and-sometimes-does-not-afford-rent
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00145
+          - title: Part III - Of the variations in the proportion between the respective values of that sort of produce which always affords rent, and of that which sometimes does, and sometimes does not, afford rent
+            slug: 03-part-iii-of-the-variations-in-the-proportion-between-the-respective-values-of-that-sort-of-produce
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/03-part-iii-of-the-variations-in-the-proportion-between-the-respective-values-of-that-sort-of-produce
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00152
+          - title: Digression concerning the variations in the value of silver during the course of the four last centuries
+            slug: 04-digression-concerning-the-variations-in-the-value-of-silver-during-the-course-of-the-four-last
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/04-digression-concerning-the-variations-in-the-value-of-silver-during-the-course-of-the-four-last
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00153
+          - title: Variations in the proportion between the respective values of gold and silver
+            slug: 05-variations-in-the-proportion-between-the-respective-values-of-gold-and-silver
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/05-variations-in-the-proportion-between-the-respective-values-of-gold-and-silver
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00169
+          - title: Grounds of the suspicion that the value of silver still continues to decrease
+            slug: 06-grounds-of-the-suspicion-that-the-value-of-silver-still-continues-to-decrease
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/06-grounds-of-the-suspicion-that-the-value-of-silver-still-continues-to-decrease
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00172
+          - title: Different effects of the progress of improvement upon three different sorts of rude produce
+            slug: 07-different-effects-of-the-progress-of-improvement-upon-three-different-sorts-of-rude-produce
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/07-different-effects-of-the-progress-of-improvement-upon-three-different-sorts-of-rude-produce
+            href: 5682792182066254284_38194-h-2.htm.xhtml#pgepubid00173
+          - title: Conclusion of the digression concerning the variations in the value of silver
+            slug: 08-conclusion-of-the-digression-concerning-the-variations-in-the-value-of-silver
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/08-conclusion-of-the-digression-concerning-the-variations-in-the-value-of-silver
+            href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00184
+          - title: Effects of the progress of improvement upon the real price of manufactures
+            slug: 09-effects-of-the-progress-of-improvement-upon-the-real-price-of-manufactures
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/09-effects-of-the-progress-of-improvement-upon-the-real-price-of-manufactures
+            href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00187
+          - title: Conclusion of the chapter
+            slug: 10-conclusion-of-the-chapter
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/10-conclusion-of-the-chapter
+            href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00190
+          - title: Prices of wheat
+            slug: 11-prices-of-wheat
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/11-prices-of-wheat
+            href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00193
+          - title: Prices of the quarter of nine bushels of the best or highest priced wheat at Windsor market, on Lady-day and Michaelmas, from 1595 to 1764, both inclusive; the price of each year being the medium between the highest prices of those two market-days
+            slug: 12-prices-of-the-quarter-of-nine-bushels-of-the-best-or-highest-priced-wheat-at-windsor-market-on-lady
+            path: 4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/11-chap-xi-of-the-rent-of-land/12-prices-of-the-quarter-of-nine-bushels-of-the-best-or-highest-priced-wheat-at-windsor-market-on-lady
+            href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00195
+  - title: Book II - Of the nature, accumulation, and employment of stock
+    slug: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock
+    path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock
+    href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00198
+    children:
+      - title: Introduction
+        slug: 1-introduction
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/1-introduction
+        href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00200
+      - title: Chap. I - Of the division of stock
+        slug: 2-chap-i-of-the-division-of-stock
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/2-chap-i-of-the-division-of-stock
+        href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00202
+      - title: Chap. II - Of money, considered as a particular branch of the general stock of the society, or of the expense of maintaining the national capital
+        slug: 3-chap-ii-of-money-considered-as-a-particular-branch-of-the-general-stock-of-the-society-or-of-the
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/3-chap-ii-of-money-considered-as-a-particular-branch-of-the-general-stock-of-the-society-or-of-the
+        href: 5682792182066254284_38194-h-3.htm.xhtml#pgepubid00207
+      - title: Chap. III - Of the accumulation of capital, or of productive and unproductive labour
+        slug: 4-chap-iii-of-the-accumulation-of-capital-or-of-productive-and-unproductive-labour
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/4-chap-iii-of-the-accumulation-of-capital-or-of-productive-and-unproductive-labour
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00229
+      - title: Chap. IV - Of stock lent at interest
+        slug: 5-chap-iv-of-stock-lent-at-interest
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/5-chap-iv-of-stock-lent-at-interest
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00240
+      - title: Chap. V - Of the different employments of capitals
+        slug: 6-chap-v-of-the-different-employments-of-capitals
+        path: 5-book-ii-of-the-nature-accumulation-and-employment-of-stock/6-chap-v-of-the-different-employments-of-capitals
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00245
+  - title: Book III - Of the different progress of opulence in different nations
+    slug: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations
+    path: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations
+    href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00255
+    children:
+      - title: Chap. I - Of the natural progress of opulence
+        slug: 1-chap-i-of-the-natural-progress-of-opulence
+        path: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations/1-chap-i-of-the-natural-progress-of-opulence
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00257
+      - title: Chap. II - Of the discouragement of agriculture in the ancient state of Europe, after the fall of the Roman empire
+        slug: 2-chap-ii-of-the-discouragement-of-agriculture-in-the-ancient-state-of-europe-after-the-fall-of-the
+        path: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations/2-chap-ii-of-the-discouragement-of-agriculture-in-the-ancient-state-of-europe-after-the-fall-of-the
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00261
+      - title: Chap. III - Of the rise and progress of cities and towns, after the fall of the Roman empire
+        slug: 3-chap-iii-of-the-rise-and-progress-of-cities-and-towns-after-the-fall-of-the-roman-empire
+        path: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations/3-chap-iii-of-the-rise-and-progress-of-cities-and-towns-after-the-fall-of-the-roman-empire
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00268
+      - title: Chap. IV - How the commerce of towns contributed to the improvement of the country
+        slug: 4-chap-iv-how-the-commerce-of-towns-contributed-to-the-improvement-of-the-country
+        path: 6-book-iii-of-the-different-progress-of-opulence-in-different-nations/4-chap-iv-how-the-commerce-of-towns-contributed-to-the-improvement-of-the-country
+        href: 5682792182066254284_38194-h-4.htm.xhtml#pgepubid00275
+  - title: Book IV - Of systems of political economy
+    slug: 7-book-iv-of-systems-of-political-economy
+    path: 7-book-iv-of-systems-of-political-economy
+    href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00283
+    children:
+      - title: Introduction
+        slug: 01-introduction
+        path: 7-book-iv-of-systems-of-political-economy/01-introduction
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00285
+      - title: Chap. I - Of the principle of the commercial or mercantile system
+        slug: 02-chap-i-of-the-principle-of-the-commercial-or-mercantile-system
+        path: 7-book-iv-of-systems-of-political-economy/02-chap-i-of-the-principle-of-the-commercial-or-mercantile-system
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00286
+      - title: Chap. II - Of restraints upon importation from foreign countries of such goods as can be produced at home
+        slug: 03-chap-ii-of-restraints-upon-importation-from-foreign-countries-of-such-goods-as-can-be-produced-at
+        path: 7-book-iv-of-systems-of-political-economy/03-chap-ii-of-restraints-upon-importation-from-foreign-countries-of-such-goods-as-can-be-produced-at
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00298
+      - title: Chap. III - Of the extraordinary restraints upon the importation of goods of almost all kinds, from those countries with which the balance is supposed to be disadvantageous
+        slug: 04-chap-iii-of-the-extraordinary-restraints-upon-the-importation-of-goods-of-almost-all-kinds-from
+        path: 7-book-iv-of-systems-of-political-economy/04-chap-iii-of-the-extraordinary-restraints-upon-the-importation-of-goods-of-almost-all-kinds-from
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00309
+        children:
+          - title: Digression concerning banks of deposit, particularly concerning that of Amsterdam
+            slug: 1-digression-concerning-banks-of-deposit-particularly-concerning-that-of-amsterdam
+            path: 7-book-iv-of-systems-of-political-economy/04-chap-iii-of-the-extraordinary-restraints-upon-the-importation-of-goods-of-almost-all-kinds-from/1-digression-concerning-banks-of-deposit-particularly-concerning-that-of-amsterdam
+            href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00313
+          - title: Part II - Of the unreasonableness of those extraordinary restraints, upon other principles
+            slug: 2-part-ii-of-the-unreasonableness-of-those-extraordinary-restraints-upon-other-principles
+            path: 7-book-iv-of-systems-of-political-economy/04-chap-iii-of-the-extraordinary-restraints-upon-the-importation-of-goods-of-almost-all-kinds-from/2-part-ii-of-the-unreasonableness-of-those-extraordinary-restraints-upon-other-principles
+            href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00319
+      - title: Chap. IV - Of drawbacks
+        slug: 05-chap-iv-of-drawbacks
+        path: 7-book-iv-of-systems-of-political-economy/05-chap-iv-of-drawbacks
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00324
+      - title: Chap. V - Of bounties
+        slug: 06-chap-v-of-bounties
+        path: 7-book-iv-of-systems-of-political-economy/06-chap-v-of-bounties
+        href: 5682792182066254284_38194-h-5.htm.xhtml#pgepubid00328
+        children:
+          - title: Digression concerning the corn trade and corn laws
+            slug: 1-digression-concerning-the-corn-trade-and-corn-laws
+            path: 7-book-iv-of-systems-of-political-economy/06-chap-v-of-bounties/1-digression-concerning-the-corn-trade-and-corn-laws
+            href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00338
+      - title: Chap. VI - Of treaties of commerce
+        slug: 07-chap-vi-of-treaties-of-commerce
+        path: 7-book-iv-of-systems-of-political-economy/07-chap-vi-of-treaties-of-commerce
+        href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00348
+        children:
+          - title: Art. II
+            slug: 1-art-ii
+            path: 7-book-iv-of-systems-of-political-economy/07-chap-vi-of-treaties-of-commerce/1-art-ii
+            href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00352
+          - title: Art. III
+            slug: 2-art-iii
+            path: 7-book-iv-of-systems-of-political-economy/07-chap-vi-of-treaties-of-commerce/2-art-iii
+            href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00353
+      - title: Chap. VII - Of colonies
+        slug: 08-chap-vii-of-colonies
+        path: 7-book-iv-of-systems-of-political-economy/08-chap-vii-of-colonies
+        href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00358
+        children:
+          - title: Part II - Causes of the prosperity of new colonies
+            slug: 1-part-ii-causes-of-the-prosperity-of-new-colonies
+            path: 7-book-iv-of-systems-of-political-economy/08-chap-vii-of-colonies/1-part-ii-causes-of-the-prosperity-of-new-colonies
+            href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00364
+          - title: Part III - Of the advantages which Europe has derived from the discovery of America, and from that of a passage to the East Indies by the Cape of Good Hope
+            slug: 2-part-iii-of-the-advantages-which-europe-has-derived-from-the-discovery-of-america-and-from-that-of
+            path: 7-book-iv-of-systems-of-political-economy/08-chap-vii-of-colonies/2-part-iii-of-the-advantages-which-europe-has-derived-from-the-discovery-of-america-and-from-that-of
+            href: 5682792182066254284_38194-h-6.htm.xhtml#pgepubid00377
+      - title: Chap. VIII - Conclusion of the mercantile system
+        slug: 09-chap-viii-conclusion-of-the-mercantile-system
+        path: 7-book-iv-of-systems-of-political-economy/09-chap-viii-conclusion-of-the-mercantile-system
+        href: 5682792182066254284_38194-h-7.htm.xhtml#pgepubid00401
+      - title: Chap. IX - Of the agricultural systems, or of those systems of political economy which represent the produce of land, as either the sole or the principal source of the revenue and wealth of every country
+        slug: 10-chap-ix-of-the-agricultural-systems-or-of-those-systems-of-political-economy-which-represent-the
+        path: 7-book-iv-of-systems-of-political-economy/10-chap-ix-of-the-agricultural-systems-or-of-those-systems-of-political-economy-which-represent-the
+        href: 5682792182066254284_38194-h-7.htm.xhtml#pgepubid00412
+      - title: An account of busses fitted out in Scotland for eleven years, with the number of empty barrels carried out, and the number of barrels of herrings caught; also the bounty, at a medium, on each barrel of sea-sticks, and on each barrel when fully packed
+        slug: 11-an-account-of-busses-fitted-out-in-scotland-for-eleven-years-with-the-number-of-empty-barrels
+        path: 7-book-iv-of-systems-of-political-economy/11-an-account-of-busses-fitted-out-in-scotland-for-eleven-years-with-the-number-of-empty-barrels
+        href: 5682792182066254284_38194-h-7.htm.xhtml#pgepubid00427
+      - title: An account of the quantity of foreign salt imported into Scotland, and of Scotch salt delivered duty-free from the works there, for the fishery, from the 5th of April 1771 to the 5th of April 1782, with the medium of both for one year
+        slug: 12-an-account-of-the-quantity-of-foreign-salt-imported-into-scotland-and-of-scotch-salt-delivered-duty
+        path: 7-book-iv-of-systems-of-political-economy/12-an-account-of-the-quantity-of-foreign-salt-imported-into-scotland-and-of-scotch-salt-delivered-duty
+        href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00429
+  - title: Book V - Of the revenue of the sovereign or commonwealth
+    slug: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth
+    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth
+    href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00431
+    children:
+      - title: Chap. I - Of the expenses of the sovereign or commonwealth
+        slug: 1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth
+        path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth
+        href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00433
+        children:
+          - title: Part II - Of the expense of justice
+            slug: 1-part-ii-of-the-expense-of-justice
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/1-part-ii-of-the-expense-of-justice
+            href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00443
+          - title: Part III - Of the expense of public works and public institutions
+            slug: 2-part-iii-of-the-expense-of-public-works-and-public-institutions
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/2-part-iii-of-the-expense-of-public-works-and-public-institutions
+            href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00449
+            children:
+              - title: Art. I - Of the public works and institutions for facilitating the commerce of the society
+                slug: 1-art-i-of-the-public-works-and-institutions-for-facilitating-the-commerce-of-the-society
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/2-part-iii-of-the-expense-of-public-works-and-public-institutions/1-art-i-of-the-public-works-and-institutions-for-facilitating-the-commerce-of-the-society
+                href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00451
+              - title: Of the public works and institutions which are necessary for facilitating particular branches of commerce
+                slug: 2-of-the-public-works-and-institutions-which-are-necessary-for-facilitating-particular-branches-of
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/2-part-iii-of-the-expense-of-public-works-and-public-institutions/2-of-the-public-works-and-institutions-which-are-necessary-for-facilitating-particular-branches-of
+                href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00455
+              - title: Art. II - Of the expense of the institution for the education of youth
+                slug: 3-art-ii-of-the-expense-of-the-institution-for-the-education-of-youth
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/2-part-iii-of-the-expense-of-public-works-and-public-institutions/3-art-ii-of-the-expense-of-the-institution-for-the-education-of-youth
+                href: 5682792182066254284_38194-h-8.htm.xhtml#pgepubid00466
+              - title: Art. III - Of the expense of the institutions for the instruction of people of all ages
+                slug: 4-art-iii-of-the-expense-of-the-institutions-for-the-instruction-of-people-of-all-ages
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/2-part-iii-of-the-expense-of-public-works-and-public-institutions/4-art-iii-of-the-expense-of-the-institutions-for-the-instruction-of-people-of-all-ages
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00479
+          - title: Part IV - Of the expense of supporting the dignity of the sovereign
+            slug: 3-part-iv-of-the-expense-of-supporting-the-dignity-of-the-sovereign
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/3-part-iv-of-the-expense-of-supporting-the-dignity-of-the-sovereign
+            href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00492
+          - title: Conclusion
+            slug: 4-conclusion
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/1-chap-i-of-the-expenses-of-the-sovereign-or-commonwealth/4-conclusion
+            href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00493
+      - title: Chap. II - Of the sources of the general or public revenue of the society
+        slug: 2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society
+        path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society
+        href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00495
+        children:
+          - title: Part I - Of the funds, or sources, of revenue, which may peculiarly belong to the sovereign or commonwealth
+            slug: 1-part-i-of-the-funds-or-sources-of-revenue-which-may-peculiarly-belong-to-the-sovereign-or
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/1-part-i-of-the-funds-or-sources-of-revenue-which-may-peculiarly-belong-to-the-sovereign-or
+            href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00497
+          - title: Part II - Of taxes
+            slug: 2-part-ii-of-taxes
+            path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes
+            href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00502
+            children:
+              - title: Art. I - Taxes upon rent—taxes upon the rent of land
+                slug: 1-art-i-taxes-upon-rent-taxes-upon-the-rent-of-land
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/1-art-i-taxes-upon-rent-taxes-upon-the-rent-of-land
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00504
+                children:
+                  - title: Taxes which are proportioned, not to the rent, but to the produce of land
+                    slug: 1-taxes-which-are-proportioned-not-to-the-rent-but-to-the-produce-of-land
+                    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/1-art-i-taxes-upon-rent-taxes-upon-the-rent-of-land/1-taxes-which-are-proportioned-not-to-the-rent-but-to-the-produce-of-land
+                    href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00509
+                  - title: Taxes upon the rent of houses
+                    slug: 2-taxes-upon-the-rent-of-houses
+                    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/1-art-i-taxes-upon-rent-taxes-upon-the-rent-of-land/2-taxes-upon-the-rent-of-houses
+                    href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00512
+              - title: Art. II - Taxes upon profit, or upon the revenue arising from stock
+                slug: 2-art-ii-taxes-upon-profit-or-upon-the-revenue-arising-from-stock
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/2-art-ii-taxes-upon-profit-or-upon-the-revenue-arising-from-stock
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00516
+                children:
+                  - title: Taxes upon the profit of particular employments
+                    slug: 1-taxes-upon-the-profit-of-particular-employments
+                    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/2-art-ii-taxes-upon-profit-or-upon-the-revenue-arising-from-stock/1-taxes-upon-the-profit-of-particular-employments
+                    href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00519
+              - title: Appendix to articles I and II - Taxes upon the capital value of lands, houses, and stock
+                slug: 3-appendix-to-articles-i-and-ii-taxes-upon-the-capital-value-of-lands-houses-and-stock
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/3-appendix-to-articles-i-and-ii-taxes-upon-the-capital-value-of-lands-houses-and-stock
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00523
+              - title: Art. III - Taxes upon the wages of labour
+                slug: 4-art-iii-taxes-upon-the-wages-of-labour
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/4-art-iii-taxes-upon-the-wages-of-labour
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00527
+              - title: Art. IV - Taxes which it is intended should fall indifferently upon every different species of revenue
+                slug: 5-art-iv-taxes-which-it-is-intended-should-fall-indifferently-upon-every-different-species-of-revenue
+                path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/5-art-iv-taxes-which-it-is-intended-should-fall-indifferently-upon-every-different-species-of-revenue
+                href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00529
+                children:
+                  - title: Capitation taxes
+                    slug: 1-capitation-taxes
+                    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/5-art-iv-taxes-which-it-is-intended-should-fall-indifferently-upon-every-different-species-of-revenue/1-capitation-taxes
+                    href: 5682792182066254284_38194-h-9.htm.xhtml#pgepubid00531
+                  - title: Taxes upon consumable commodities
+                    slug: 2-taxes-upon-consumable-commodities
+                    path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/2-chap-ii-of-the-sources-of-the-general-or-public-revenue-of-the-society/2-part-ii-of-taxes/5-art-iv-taxes-which-it-is-intended-should-fall-indifferently-upon-every-different-species-of-revenue/2-taxes-upon-consumable-commodities
+                    href: 5682792182066254284_38194-h-10.htm.xhtml#pgepubid00533
+      - title: Chap. III - Of public debts
+        slug: 3-chap-iii-of-public-debts
+        path: 8-book-v-of-the-revenue-of-the-sovereign-or-commonwealth/3-chap-iii-of-public-debts
+        href: 5682792182066254284_38194-h-10.htm.xhtml#pgepubid00551
+  - title: Index
+    slug: 9-index
+    path: 9-index
+    href: 5682792182066254284_38194-h-11.htm.xhtml#pgepubid00574

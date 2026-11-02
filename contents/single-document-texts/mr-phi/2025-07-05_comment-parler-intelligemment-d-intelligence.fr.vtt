@@ -1,0 +1,2418 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.520 --> 00:00:03.080
+Nous sommes plus intelligents que les machines.
+
+00:00:03.080 --> 00:00:04.400
+Pour le moment.
+
+00:00:04.400 --> 00:00:06.000
+Certains vont dire : "C'est faux ! Les IA&nbsp;&nbsp;
+
+00:00:06.000 --> 00:00:08.560
+surpassent les êtres humains dans&nbsp;
+un nombre croissant de tâches !"
+
+00:00:08.560 --> 00:00:11.320
+Et d'autres vont rétorquer : "Mais non&nbsp;
+c'est pas de la VRAIE intelligence.&nbsp;&nbsp;
+
+00:00:11.320 --> 00:00:13.678
+Et d'ailleurs l'intelligence&nbsp;
+artificielle n'existe pas !"
+
+00:00:13.678 --> 00:00:16.360
+- Oui, faut arrêter de dire des conneries quand&nbsp;
+même. Faut arrêter de dire n'importe quoi.
+
+00:00:16.360 --> 00:00:20.800
+Bon c'est rigolo, d'accord, c'est marrant.&nbsp;
+Mais faut arrêter de dire n'importe quoi.
+
+00:00:20.800 --> 00:00:26.000
+Mais la seule chose intelligente à objecter à ce&nbsp;
+stade, c'est : "Qu'entends-tu par intelligence,&nbsp;&nbsp;
+
+00:00:26.000 --> 00:00:30.160
+mon cher ?" C'est une excellente question,&nbsp;
+et ça va être le sujet : comment parler&nbsp;&nbsp;
+
+00:00:30.160 --> 00:00:32.720
+intelligemment d'intelligence pour des machines ?
+
+00:00:32.720 --> 00:00:35.760
+Pour ça on va s'appuyer sur le travail&nbsp;
+du chercheur en IA François Chollet,&nbsp;&nbsp;
+
+00:00:35.760 --> 00:00:40.440
+de son article "Sur la mesure de l'intelligence",&nbsp;
+et de ses benchmarks ARC-AGI. On va voir pourquoi&nbsp;&nbsp;
+
+00:00:40.440 --> 00:00:43.520
+ils sont particulièrement intéressants&nbsp;
+pour mesurer les avancées vers une&nbsp;&nbsp;
+
+00:00:43.520 --> 00:00:46.760
+forme d'intelligence générale (en un&nbsp;
+sens qu'on va expliciter plus loin),&nbsp;&nbsp;
+
+00:00:46.760 --> 00:00:51.840
+et pourquoi on n'y est pas encore, même si&nbsp;
+fore est de constater qu'on s'en rapproche.
+
+00:00:51.840 --> 00:00:55.360
+Mais d'abord, parlons de NordVPN. Ca faisait&nbsp;
+longtemps. Vous savez ce qu'est un VPN,&nbsp;&nbsp;
+
+00:00:55.360 --> 00:00:58.720
+c'est pas la première fois qu'on vous en parle.&nbsp;
+Ca vous permet de sécuriser votre connexion en&nbsp;&nbsp;
+
+00:00:58.720 --> 00:01:03.560
+masquant votre adresse IP, et de faire comme si&nbsp;
+vous étiez connecté depuis un pays de votre choix.
+
+00:01:03.560 --> 00:01:07.120
+La preuve : Google Maps me dit que ce&nbsp;
+golfe s'appelle le Golfe d'Amérique.
+
+00:01:07.120 --> 00:01:08.560
+- Mais personne dit ça...
+
+00:01:08.560 --> 00:01:11.680
+Et c'est uniquement parce que je&nbsp;
+suis virtuellement connecté aux USA,&nbsp;&nbsp;
+
+00:01:11.680 --> 00:01:14.880
+mais en me connectant au Mexique (hop,&nbsp;
+en un clic, j'y suis, vous voyez il y a&nbsp;&nbsp;
+
+00:01:14.880 --> 00:01:20.740
+des serveurs un peu partout dans le monde),&nbsp;
+et là paf ça redevient le Golfe du Mexique.
+
+00:01:20.740 --> 00:01:20.760
+- You are fake news.
+
+00:01:20.760 --> 00:01:25.880
+Et en allant ailleurs, disons à Montréal, ça va&nbsp;
+afficher "Golfe du Mexique (Golfe d'Amérique)".
+
+00:01:25.880 --> 00:01:29.040
+Comme pour la mer qui sépare le Japon de&nbsp;
+la Corée, pour ceux qui s'en souviennent&nbsp;&nbsp;
+
+00:01:29.040 --> 00:01:31.760
+(sauf que le passif entre les deux&nbsp;
+pays n'a rien à voir, mais bref).
+
+00:01:31.760 --> 00:01:34.400
+Pourquoi prendre un VPN à part jouer&nbsp;
+aux jeux des sept différences sur&nbsp;&nbsp;
+
+00:01:34.400 --> 00:01:36.480
+Google Maps ? Si des fois ça&nbsp;
+vous suffit pas comme raison.
+
+00:01:36.480 --> 00:01:39.080
+Eh bien, on va pas se mentir, c'est&nbsp;
+aussi et surtout bien pratique pour&nbsp;&nbsp;
+
+00:01:39.080 --> 00:01:42.000
+accéder à des contenus sur des&nbsp;
+plateformes de streaming auxquels&nbsp;&nbsp;
+
+00:01:42.000 --> 00:01:45.800
+vous n'auriez pas accès autrement pour&nbsp;
+des raisons géographiques, n'est-ce pas.
+
+00:01:45.800 --> 00:01:48.240
+Et avec un seul compte vous&nbsp;
+pouvez installer NordVPN sur&nbsp;&nbsp;
+
+00:01:48.240 --> 00:01:51.680
+tous vos appareils (enfin jusqu'à 10 pour&nbsp;
+être exact, mais ça devrait suffire.)
+
+00:01:51.680 --> 00:01:55.520
+Et c'est pas tout, en version PC ça intègre&nbsp;
+aussi la protection anti-menace pro qui vous&nbsp;&nbsp;
+
+00:01:55.520 --> 00:02:00.080
+protège des tentatives de hameçonnage, de&nbsp;
+fraudes, les url de sites malveillants, etc.
+
+00:02:00.080 --> 00:02:03.320
+Bref c'est bien pratique, c'est&nbsp;
+très simple à utiliser. Avec le&nbsp;&nbsp;
+
+00:02:03.320 --> 00:02:06.120
+code promo monsieurphi vous avez&nbsp;
+4 mois offerts sur l'abonnement,&nbsp;&nbsp;
+
+00:02:06.120 --> 00:02:09.840
+et si ça vous convient pas finalement&nbsp;
+avant 30 jours vous pouvez être remboursé.
+
+00:02:09.840 --> 00:02:11.960
+Donc essayez toujours, ça mange pas de pain.
+
+00:02:11.960 --> 00:02:14.400
+Merci à NordVPN d'avoir sponsorisé cette vidéo. Et&nbsp;&nbsp;
+
+00:02:14.400 --> 00:02:17.240
+on repart tout de suite sur&nbsp;
+l'intelligence des machines.
+
+00:02:17.240 --> 00:02:21.960
+Mais d'abord, petit retour en arrière.&nbsp;
+Quand GPT-4 est présenté en mars 2023,&nbsp;&nbsp;
+
+00:02:21.960 --> 00:02:26.520
+une équipe de Microsoft Research publie un&nbsp;
+article intitulé "Sparks of Artificial General&nbsp;&nbsp;
+
+00:02:26.520 --> 00:02:30.360
+Intelligence", c'est-à-dire "Des étincelles&nbsp;
+d'intelligence générale artificielle",&nbsp;&nbsp;
+
+00:02:30.360 --> 00:02:33.880
+et c'est un papier qui explore les&nbsp;
+diverses capacités de GPT-4 et qui&nbsp;&nbsp;
+
+00:02:33.880 --> 00:02:38.240
+soutient donc qu'on y détecterait les&nbsp;
+prémices d'une intelligence générale.
+
+00:02:38.240 --> 00:02:42.360
+Et ça, ça marque une rupture au moins sur le plan&nbsp;
+institutionnel, parce que, pour autant que je&nbsp;&nbsp;
+
+00:02:42.360 --> 00:02:47.200
+sache, c'est la première fois qu'une publication&nbsp;
+issue d'un acteur majeur comme Microsoft défend de&nbsp;&nbsp;
+
+00:02:47.200 --> 00:02:52.320
+façon aussi explicite la possibilité d'une telle&nbsp;
+forme d'intelligence dans un système *existant*.
+
+00:02:52.320 --> 00:02:56.040
+Jusque là, cette idée d'Artificial&nbsp;
+General Intelligence, ou AGI,&nbsp;&nbsp;
+
+00:02:56.040 --> 00:02:59.720
+ça restait un sujet de discussion très&nbsp;
+spéculatif du genre qui intéresse les&nbsp;&nbsp;
+
+00:02:59.720 --> 00:03:04.120
+philosophes bizarres à la Nick Bostrom,&nbsp;
+mais pas un truc de chercheurs sérieux.
+
+00:03:04.120 --> 00:03:08.880
+Là, donc, tout à coup, avec GPT-4 et cet article,&nbsp;
+il y a un truc qui change : ça devient acceptable&nbsp;&nbsp;
+
+00:03:08.880 --> 00:03:12.680
+de parler sérieusement d'intelligence&nbsp;
+générale dans un système artificiel,&nbsp;&nbsp;
+
+00:03:12.680 --> 00:03:17.320
+non pas comme un horizon éloigné mais comme&nbsp;
+une réalité potentiellement assez proche.
+
+00:03:17.320 --> 00:03:21.040
+Et choisir les mots "Artificial General&nbsp;
+Intelligence" dans le titre de l'article est&nbsp;&nbsp;
+
+00:03:21.040 --> 00:03:25.680
+d'autant moins anodin que l'accord noué en 2019&nbsp;
+qui permet à Microsoft d'utiliser les produits&nbsp;&nbsp;
+
+00:03:25.680 --> 00:03:30.440
+d'OpenAI (en échange de gros investissement),&nbsp;
+cet accord stipule que Microsoft n'aura plus&nbsp;&nbsp;
+
+00:03:30.440 --> 00:03:35.160
+accès à ces produits dans l'éventualité&nbsp;
+où OpenAI arriverait à produire une AGI.
+
+00:03:35.160 --> 00:03:39.200
+Et c'est ouvertement le but d'OpenAI, c'est&nbsp;
+écrit blanc sur noir ici par exemple :
+
+00:03:39.200 --> 00:03:40.880
+"Notre but est de construire une intelligence&nbsp;&nbsp;
+
+00:03:40.880 --> 00:03:46.280
+générale artificielle (AGI) qui soit&nbsp;
+sûre et bénéfique pour toute l'humanité"
+
+00:03:46.280 --> 00:03:49.220
+C'est le but déclaré, je dis pas&nbsp;
+qu'ils s'y prennent bien, hein.
+
+00:03:49.220 --> 00:03:52.560
+"Par AGI, nous entendons un système hautement&nbsp;
+autonome qui surpasse les humains dans la&nbsp;&nbsp;
+
+00:03:52.560 --> 00:03:58.120
+plupart des tâches économiquement rentables. Un&nbsp;
+tel système est exclu des licences de propriété&nbsp;&nbsp;
+
+00:03:58.120 --> 00:04:02.040
+intellectuelle et des autres conditions&nbsp;
+commerciales conclues avec Microsoft,&nbsp;&nbsp;
+
+00:04:02.040 --> 00:04:05.080
+qui ne s'appliquent qu'aux technologies pré-AGI."
+
+00:04:05.080 --> 00:04:09.320
+Cette clause sur les technologies pre-AGI,&nbsp;
+elle est là depuis le départ, en 2019,&nbsp;&nbsp;
+
+00:04:09.320 --> 00:04:14.120
+et à cette époque ça avait été jugée… assez&nbsp;
+fantasque, disons, voire franchement ridicule.&nbsp;&nbsp;
+
+00:04:14.120 --> 00:04:19.280
+Faut se rappeler du contexte : 2019 c'est&nbsp;
+avant GPT-3, on est au tout tout début des LLM.
+
+00:04:19.280 --> 00:04:22.280
+Typiquement dans cet article qui date&nbsp;
+de cette époque, on voit que lorsqu'ils&nbsp;&nbsp;
+
+00:04:22.280 --> 00:04:26.600
+présentent les recherches d'OpenAI, ils parlent&nbsp;
+d'abord d'un certain benchmark en robotique,&nbsp;&nbsp;
+
+00:04:26.600 --> 00:04:31.240
+puis d'une IA qui joue à Dota 2, et&nbsp;
+seulement après, ils mentionnent des&nbsp;&nbsp;
+
+00:04:31.240 --> 00:04:35.000
+"systèmes de génération de textes très&nbsp;
+flexibles" en ajoutant immédiatement&nbsp;&nbsp;
+
+00:04:35.000 --> 00:04:38.680
+qu'aucun de ces projets ne ressemble à&nbsp;
+ce qu'il faudrait pour atteindre l'AGI.
+
+00:04:38.680 --> 00:04:41.960
+Bref, à cette époque, une clause&nbsp;
+qui précise ce qu'on fera si on&nbsp;&nbsp;
+
+00:04:41.960 --> 00:04:44.720
+atteint l'AGI, c'est de la pure science-fiction.
+
+00:04:44.720 --> 00:04:47.400
+C'est un peu comme si un contrat avec la&nbsp;
+NASA indiquait : "Ce contrat peut être&nbsp;&nbsp;
+
+00:04:47.400 --> 00:04:52.120
+rompu en cas de rencontre extra-terrestre." Ok si&nbsp;
+vous voulez, ça engage pas à grand-chose a priori.
+
+00:04:52.120 --> 00:04:55.400
+Sauf que là, quatre ans et&nbsp;
+deux versions de GPT plus tard,&nbsp;&nbsp;
+
+00:04:55.400 --> 00:04:57.800
+les extraterrestres ne semblent plus si loin.
+
+00:04:57.800 --> 00:05:01.560
+Notez que l'article "Sparks of AGI" c'est&nbsp;
+une équipe de Microsoft qui le publie,&nbsp;&nbsp;
+
+00:05:01.560 --> 00:05:03.960
+et donc si on prend ces&nbsp;
+étincelles d'AGI au sérieux,&nbsp;&nbsp;
+
+00:05:03.960 --> 00:05:08.320
+ça peut remettre en question l'avenir du&nbsp;
+partenariat entre OpenAI et Microsoft.
+
+00:05:08.320 --> 00:05:12.800
+A cause de cette clause sur les technologies&nbsp;
+pré-AGI, savoir exactement ce qui compte&nbsp;&nbsp;
+
+00:05:12.800 --> 00:05:16.760
+ou non comme une intelligence générale&nbsp;
+artificielle ça devient un enjeu crucial.
+
+00:05:16.760 --> 00:05:21.440
+Comment ils se sont arrangés ? Alors ça a pas été&nbsp;
+officiellement confirmé mais apparemment en 2023,&nbsp;&nbsp;
+
+00:05:21.440 --> 00:05:24.800
+OpenAI et Microsoft aurait précisé&nbsp;
+les choses en convenant que l'AGI&nbsp;&nbsp;
+
+00:05:24.800 --> 00:05:27.760
+serait considérée comme atteinte&nbsp;
+à partir du moment où les systèmes&nbsp;&nbsp;
+
+00:05:27.760 --> 00:05:32.480
+d'OpenAI généreraient des profits&nbsp;
+dépassant 100 milliards de dollars.
+
+00:05:32.480 --> 00:05:37.240
+Autrement dit selon OpenAI et Microsoft,&nbsp;
+intelligence générale = pognon. Ça&nbsp;&nbsp;
+
+00:05:37.240 --> 00:05:40.280
+c'est le niveau de langage qui parle aux&nbsp;
+investisseurs, on simplifie un peu les choses.
+
+00:05:40.280 --> 00:05:43.560
+Or, pour l'instant, OpenAI&nbsp;
+ne dégage pas de profit.
+
+00:05:43.560 --> 00:05:47.400
+Donc, techniquement, on peut le dire&nbsp;
+: les LLM ne sont pas intelligents&nbsp;&nbsp;
+
+00:05:47.400 --> 00:05:51.200
+puisqu'ils ne font pas assez de&nbsp;
+pognon. CQFD, j'ai envie de dire.
+
+00:05:51.200 --> 00:05:53.040
+- CQFD dans vos visages.
+
+00:05:53.040 --> 00:05:57.160
+Mais j'ai surtout envie de dire que&nbsp;
+c'est une approche assez discutable&nbsp;&nbsp;
+
+00:05:57.160 --> 00:06:01.880
+et limité pour définir l'intelligence. On&nbsp;
+sent que ça manque deux trois subtilités.
+
+00:06:01.880 --> 00:06:05.800
+Mais bon il fallait un critère clair et sans&nbsp;
+ambiguïté, et le problème, c'est qu'en effet il&nbsp;&nbsp;
+
+00:06:05.800 --> 00:06:10.760
+n'y a pas de définition commune et consensuelle&nbsp;
+de la notion d'AGI ou d'intelligence générale.
+
+00:06:10.760 --> 00:06:13.000
+D'ailleurs le texte d'OpenAI que&nbsp;
+je citais tout à l'heure était&nbsp;&nbsp;
+
+00:06:13.000 --> 00:06:16.320
+pas beaucoup plus clair d'ailleurs : ça&nbsp;
+parle d'"un système hautement autonome&nbsp;&nbsp;
+
+00:06:16.320 --> 00:06:19.680
+qui surpasse les humains dans la plupart&nbsp;
+des tâches économiquement rentables".
+
+00:06:19.680 --> 00:06:21.520
+Au fond donner pour critère&nbsp;
+100 milliards de dollars c'est&nbsp;&nbsp;
+
+00:06:21.520 --> 00:06:25.269
+une façon de préciser "rentable à quel&nbsp;
+point" (à un point assez élevé, donc).
+
+00:06:25.269 --> 00:06:26.000
+- Combien ?
+
+00:06:26.040 --> 00:06:28.840
+Mais on sent bien que c'est pas une&nbsp;
+définition qui met le doigt sur ce&nbsp;&nbsp;
+
+00:06:28.840 --> 00:06:32.200
+qui est essentiel dans la notion&nbsp;
+d'intelligence générale évidemment.
+
+00:06:32.200 --> 00:06:37.080
+Eh bien donc, essayons de faire mieux, essayons&nbsp;
+de réfléchir en voyant plus loin que 100 milliards&nbsp;&nbsp;
+
+00:06:37.080 --> 00:06:42.200
+de dollars. Qu'est-ce qui constituerait&nbsp;
+l'intelligence générale dans une machine ?
+
+00:06:42.200 --> 00:06:44.840
+Déjà on peut s'entendre sur le fait&nbsp;
+que l'intelligence se manifeste&nbsp;&nbsp;
+
+00:06:44.840 --> 00:06:49.080
+notamment par une capacité à s'adapter à des&nbsp;
+problèmes nouveaux ou des tâches nouvelles.
+
+00:06:49.080 --> 00:06:51.960
+Mais si cette capacité est restreinte&nbsp;
+à des problèmes dans un domaine étroit,&nbsp;&nbsp;
+
+00:06:51.960 --> 00:06:54.080
+alors on ne peut pas parler&nbsp;
+d'intelligence générale.
+
+00:06:54.080 --> 00:06:56.800
+Par exemple, un moteur d'échecs a&nbsp;
+une intelligence prodigieuse du jeu&nbsp;&nbsp;
+
+00:06:56.800 --> 00:07:00.400
+d'échecs dans la mesure où, devant une&nbsp;
+configuration nouvelle de l'échiquier,&nbsp;&nbsp;
+
+00:07:00.400 --> 00:07:03.240
+il est capable de l'évaluer et&nbsp;
+de trouver d'excellents coups.
+
+00:07:03.240 --> 00:07:06.640
+Mais en dehors de ce domaine étroit,&nbsp;
+son intelligence est juste nulle. Et&nbsp;&nbsp;
+
+00:07:06.640 --> 00:07:09.160
+c'est le cas de beaucoup de systèmes&nbsp;
+d'intelligence artificielle : ce sont&nbsp;&nbsp;
+
+00:07:09.160 --> 00:07:14.040
+des intelligences très supérieures à la nôtre&nbsp;
+dans un domaine étroit, mais nulles en dehors.
+
+00:07:14.040 --> 00:07:17.200
+Un modèle d'apprentissage par renforcement&nbsp;
+comme Agent57 de DeepMind par exemple qui&nbsp;&nbsp;
+
+00:07:17.200 --> 00:07:22.920
+a appris tout seul à jouer aux 57 jeux classiques&nbsp;
+d'Atari, ça présente déjà une forme d'intelligence&nbsp;&nbsp;
+
+00:07:22.920 --> 00:07:27.160
+plus générale dans la mesure où c'est capable&nbsp;
+d'apprendre à jouer à virtuellement n'importe&nbsp;&nbsp;
+
+00:07:27.160 --> 00:07:31.600
+quel jeu de ce genre, dans cet environnement&nbsp;
+Atari, et même des jeux assez complexe.
+
+00:07:31.600 --> 00:07:35.280
+Son intelligence s'étend donc à un&nbsp;
+domaine plus large, c'est moins étroit,&nbsp;&nbsp;
+
+00:07:35.280 --> 00:07:39.240
+mais ça reste quand même assez étroit si&nbsp;
+on la compare à l'intelligence humaine qui,&nbsp;&nbsp;
+
+00:07:39.240 --> 00:07:42.440
+vous l'aurez remarqué, s'étend&nbsp;
+bien au-delà des jeux Atari.
+
+00:07:42.440 --> 00:07:45.920
+Notre intelligence est générale au&nbsp;
+sens où justement elle n'a pas de&nbsp;&nbsp;
+
+00:07:45.920 --> 00:07:50.120
+domaine spécifique : il y a une inépuisable&nbsp;
+diversité de tâches auxquelles nous pouvons&nbsp;&nbsp;
+
+00:07:50.120 --> 00:07:54.920
+devenir au moins médiocrement compétents même&nbsp;
+si nous les avons encore jamais rencontrées.
+
+00:07:54.920 --> 00:07:58.760
+Les machines nous dépassent sur des tâches&nbsp;
+spécifiques, typiquement pour jouer aux échecs,&nbsp;&nbsp;
+
+00:07:58.760 --> 00:08:01.360
+même le meilleur humain est&nbsp;
+extrêmement médiocre par rapport&nbsp;&nbsp;
+
+00:08:01.360 --> 00:08:07.040
+aux moteurs spécialisés. Mais la médiocrité&nbsp;
+humaine est *générale*. Et ça, c'est fort !
+
+00:08:07.040 --> 00:08:10.760
+C'est en ça que nous sommes intelligents&nbsp;
+: potentiellement médiocres en tout.
+
+00:08:10.760 --> 00:08:13.240
+- C'est ça la puissance intellectuelle.
+
+00:08:13.240 --> 00:08:17.200
+Les LLM actuels approchent-ils, eux&nbsp;
+aussi, cette médiocrité générale ?
+
+00:08:17.200 --> 00:08:19.720
+C'est vrai qu'ils semblent beaucoup&nbsp;
+plus polyvalents que n'importe quelle&nbsp;&nbsp;
+
+00:08:19.720 --> 00:08:21.480
+IA spécialisée qu'on connaissait jusque là.
+
+00:08:21.480 --> 00:08:24.680
+On peut leur donner toutes sortes de&nbsp;
+tâches formulées en langage naturel et&nbsp;&nbsp;
+
+00:08:24.680 --> 00:08:27.120
+ils se débrouilleront pas trop mal&nbsp;
+pour un grand nombre d'entre elles&nbsp;&nbsp;
+
+00:08:27.120 --> 00:08:29.040
+(et souvent même mieux qu'un&nbsp;
+être humain pris au hasard).
+
+00:08:29.040 --> 00:08:32.280
+Et c'est d'autant plus remarquable que c'est pas&nbsp;
+quelque chose qu'on a explicitement programmé,&nbsp;&nbsp;
+
+00:08:32.280 --> 00:08:35.200
+c'est le résultat d'un apprentissage&nbsp;
+qui n'avait rien de spécifique.
+
+00:08:35.200 --> 00:08:39.120
+Le modèle de base est juste entrainé à&nbsp;
+prédire du texte de façon générale. Et&nbsp;&nbsp;
+
+00:08:39.120 --> 00:08:42.320
+ce modèle de base est pourtant capable&nbsp;
+de traiter toutes sortes de requêtes.
+
+00:08:42.320 --> 00:08:45.360
+Était-il pour autant justifié de&nbsp;
+parler d'étincelles d'intelligence&nbsp;&nbsp;
+
+00:08:45.360 --> 00:08:47.280
+générale comme le faisait cet article ?
+
+00:08:47.280 --> 00:08:49.680
+Beaucoup de gens ont rejeté cet usage du terme.
+
+00:08:49.680 --> 00:08:52.600
+Pas toujours pour de bonnes raisons.&nbsp;
+L'intelligence, c'est un peu comme la conscience&nbsp;&nbsp;
+
+00:08:52.600 --> 00:08:56.200
+ou le je-ne-sais-quoi : on a envie d'en faire&nbsp;
+un privilège de l'humanité et on pourra toujours&nbsp;&nbsp;
+
+00:08:56.200 --> 00:09:00.720
+soutenir que les machines n'auront jamais accès&nbsp;
+à la VRAIE intelligence, non, même dans 1000 ans.
+
+00:09:00.720 --> 00:09:01.920
+- Dans 1000 ans.
+
+00:09:01.920 --> 00:09:06.280
+Mais mettons de côté ces défenses dogmatiques&nbsp;
+de l'exceptionnalité humaine. Il y a aussi des&nbsp;&nbsp;
+
+00:09:06.280 --> 00:09:10.080
+raisons intéressantes à faire valoir contre&nbsp;
+cette idée d'un début d'intelligence générale&nbsp;&nbsp;
+
+00:09:10.080 --> 00:09:14.240
+dans les LLM comme GPT-4, et parmi les&nbsp;
+personnes qui ont rejeté cette idée,&nbsp;&nbsp;
+
+00:09:14.240 --> 00:09:18.400
+il me semble qu'aucune n'a aussi clairement,&nbsp;
+rigoureusement et empiriquement justifié sa&nbsp;&nbsp;
+
+00:09:18.400 --> 00:09:21.720
+position que le chercheur en intelligence&nbsp;
+artificielle François Chollet.
+
+00:09:21.720 --> 00:09:25.960
+Pour comprendre pourquoi, penchons-nous d'abord&nbsp;
+sur son article fondateur intitulé "Sur la mesure&nbsp;&nbsp;
+
+00:09:25.960 --> 00:09:29.880
+de l'intelligence", pour bien comprendre ce qu'il&nbsp;
+entend justement par ce terme d'intelligence.
+
+00:09:29.880 --> 00:09:32.120
+Voici la définition qu'il en propose :
+
+00:09:32.120 --> 00:09:36.080
+"L'intelligence d'un système est&nbsp;
+une mesure de son efficacité à&nbsp;&nbsp;
+
+00:09:36.080 --> 00:09:40.480
+acquérir des compétences dans un ensemble&nbsp;
+de tâches, en tenant compte des a priori,&nbsp;&nbsp;
+
+00:09:40.480 --> 00:09:43.360
+de l'expérience, et de la&nbsp;
+difficulté de généralisation.
+
+00:09:43.360 --> 00:09:47.400
+Intuitivement, si vous considérez deux&nbsp;
+systèmes qui partent d'un ensemble similaire&nbsp;&nbsp;
+
+00:09:47.400 --> 00:09:52.280
+de connaissances a priori, et qui passent par une&nbsp;
+quantité similaire d'expériences (par exemple,&nbsp;&nbsp;
+
+00:09:52.280 --> 00:09:56.760
+un temps d'entraînement) en ce qui concerne&nbsp;
+un ensemble de tâches non connues à l'avance,&nbsp;&nbsp;
+
+00:09:56.760 --> 00:10:00.560
+le système ayant une intelligence&nbsp;
+plus élevée est celui qui finit par&nbsp;&nbsp;
+
+00:10:00.560 --> 00:10:04.240
+avoir de plus grandes compétences&nbsp;
+(c'est-à-dire celui qui a le plus&nbsp;&nbsp;
+
+00:10:04.240 --> 00:10:09.040
+efficacement transformé ses connaissances&nbsp;
+a priori et son expérience en compétences).
+
+00:10:09.040 --> 00:10:13.480
+(...) [L'intelligence] est distincte de&nbsp;
+la compétence elle-même : la compétence&nbsp;&nbsp;
+
+00:10:13.480 --> 00:10:16.640
+n'est que la sortie du processus d'intelligence."
+
+00:10:16.640 --> 00:10:18.880
+Pour reprendre une formule&nbsp;
+usuelle : être intelligent,&nbsp;&nbsp;
+
+00:10:18.880 --> 00:10:22.200
+ce serait avoir une tête bien faite&nbsp;
+plutôt qu'une tête bien pleine seulement.
+
+00:10:22.200 --> 00:10:25.164
+Pour résumer ça, François Chollet aime bien&nbsp;
+donner une citation du psychologue Jean&nbsp;&nbsp;
+
+00:10:25.164 --> 00:10:29.077
+Piaget : "L'intelligence n'est pas ce que l'on&nbsp;
+sait, mais ce que l'on fait quand on ne sait pas."
+
+00:10:35.480 --> 00:10:38.720
+Notez que j'ai pas trouvé la source exacte&nbsp;
+de cette phrase qui circule beaucoup mais&nbsp;&nbsp;
+
+00:10:38.720 --> 00:10:42.520
+uniquement en tant que citation de Jean Piaget&nbsp;
+sans référence précise, et en général ça c'est le&nbsp;&nbsp;
+
+00:10:42.520 --> 00:10:46.320
+signe que la citation est plus ou moins inventée.&nbsp;
+Mais apparemment ça colle quand même assez bien à&nbsp;&nbsp;
+
+00:10:46.320 --> 00:10:50.800
+la conception de Piaget, donc même si c'est&nbsp;
+faux, c'est bien trouvé, on va dire. Bref.
+
+00:10:50.800 --> 00:10:54.520
+En somme, François Chollet soutient que&nbsp;
+l'intelligence réside dans la capacité à&nbsp;&nbsp;
+
+00:10:54.520 --> 00:10:58.080
+acquérir facilement des compétences nouvelles&nbsp;
+pour faire face à des problèmes nouveaux,&nbsp;&nbsp;
+
+00:10:58.080 --> 00:11:01.880
+plutôt que dans le fait d'avoir emmagasiné&nbsp;
+de multiples compétences pour faire face&nbsp;&nbsp;
+
+00:11:01.880 --> 00:11:04.600
+à des problèmes déjà connus, si divers soient-ils.
+
+00:11:04.600 --> 00:11:08.920
+Cette approche suppose donc un lien intrinsèque&nbsp;
+entre intelligence et généralisation.
+
+00:11:08.920 --> 00:11:13.160
+Ce qui caractérise l'intelligence, c'est une&nbsp;
+capacité à résoudre des problèmes en général,&nbsp;&nbsp;
+
+00:11:13.160 --> 00:11:16.280
+à s'adapter à n'importe quel type&nbsp;
+inédit de problème en acquérant&nbsp;&nbsp;
+
+00:11:16.280 --> 00:11:18.760
+efficacement les compétences&nbsp;
+utiles pour y faire face.
+
+00:11:18.760 --> 00:11:21.280
+Donc c'est une définition possible&nbsp;
+de l'intelligence ? Est-ce la seule&nbsp;&nbsp;
+
+00:11:21.280 --> 00:11:24.120
+possible ? Bien sûr que non. Et c'est&nbsp;
+pas ce que soutient François Chollet.
+
+00:11:24.120 --> 00:11:27.640
+"Soulignons que de nombreuses définitions&nbsp;
+possibles de l'intelligence peuvent être&nbsp;&nbsp;
+
+00:11:27.640 --> 00:11:30.880
+valables, dans de nombreux contextes&nbsp;
+différents, et nous ne prétendons&nbsp;&nbsp;
+
+00:11:30.880 --> 00:11:36.000
+pas que la définition ci-dessus (...)&nbsp;
+représente la "seule vraie"définition.
+
+00:11:36.000 --> 00:11:39.400
+Notre définition ne vise pas non&nbsp;
+plus à obtenir un large consensus.
+
+00:11:39.400 --> 00:11:44.480
+L'objectif de notre définition est plutôt&nbsp;
+d'être exploitable, de favoriser un changement&nbsp;&nbsp;
+
+00:11:44.480 --> 00:11:48.280
+de perspective utile pour la recherche&nbsp;
+sur les capacités cognitives larges et&nbsp;&nbsp;
+
+00:11:48.280 --> 00:11:53.440
+de servir de base quantitative pour de nouveaux&nbsp;
+benchmarks en matière d'intelligence générale."
+
+00:11:53.440 --> 00:11:56.880
+Ce dernier point sur les benchmarks est central,&nbsp;
+et on va beaucoup parler de benchmark aujourd'hui,&nbsp;&nbsp;
+
+00:11:56.880 --> 00:11:59.160
+donc autant clarifier un peu&nbsp;
+les choses sur ce que c'est.
+
+00:11:59.160 --> 00:12:02.000
+Un benchmark c'est un test standard utilisé pour&nbsp;&nbsp;
+
+00:12:02.000 --> 00:12:04.640
+évaluer les performances d’un&nbsp;
+modèle par rapport aux autres,&nbsp;&nbsp;
+
+00:12:04.640 --> 00:12:08.200
+c'est avant tout un outil de comparaison&nbsp;
+pour suivre l'évolution des performances.
+
+00:12:08.200 --> 00:12:11.760
+Donc très souvent quand un nouveau modèle est&nbsp;
+publié on va publier ses performances sur plein&nbsp;&nbsp;
+
+00:12:11.760 --> 00:12:16.280
+de benchmarks pour montrer à quel point il fait&nbsp;
+mieux ou aussi bien que les modèles précédents.
+
+00:12:16.280 --> 00:12:19.080
+Mais François Chollet reproche aux&nbsp;
+benchmarks censés mesurer les progrès&nbsp;&nbsp;
+
+00:12:19.080 --> 00:12:22.480
+des IA en matière d'intelligence de&nbsp;
+s'en tenir à des tâches standard et&nbsp;&nbsp;
+
+00:12:22.480 --> 00:12:26.080
+stéréotypées dont il y a de trop nombreux&nbsp;
+exemples dans les données d'entraînement.
+
+00:12:26.080 --> 00:12:28.720
+Et même pour certains benchmarks on peut&nbsp;
+se demander si leurs contenus n'ont pas&nbsp;&nbsp;
+
+00:12:28.720 --> 00:12:31.280
+fait partie des données d'entraînement.&nbsp;
+Typiquement un benchmark qui consiste à&nbsp;&nbsp;
+
+00:12:31.280 --> 00:12:35.320
+faire passer un examen connu. On parle de&nbsp;
+problème de contamination, dans ce cas.
+
+00:12:35.320 --> 00:12:38.720
+Et vu que les corpus d'entraînement sont&nbsp;
+gigantesques et qu'il est difficile de savoir&nbsp;&nbsp;
+
+00:12:38.720 --> 00:12:43.000
+en détail ce qu'ils contiennent, ces problèmes de&nbsp;
+contamination peuvent être difficiles à écarter.
+
+00:12:43.000 --> 00:12:47.920
+Tout ça fait que beaucoup de benchmarks usuels&nbsp;
+mesurent peut-être surtout le progrès dans la&nbsp;&nbsp;
+
+00:12:47.920 --> 00:12:52.360
+mémorisation des connaissances et compétences&nbsp;
+acquises au cours de l'entraînement, au lieu d'un&nbsp;&nbsp;
+
+00:12:52.360 --> 00:12:58.004
+réel progrès dans l'intelligence comprise comme&nbsp;
+la capacité à acquérir de nouvelles compétences.
+
+00:13:48.640 --> 00:13:52.640
+En somme, les benchmarks standard permettent&nbsp;
+surtout de mesurer à quel point les LLM sont des&nbsp;&nbsp;
+
+00:13:52.640 --> 00:13:57.720
+têtes bien pleines de petits programmes variés,&nbsp;
+sans indiquer si ce sont des têtes bien faites,&nbsp;&nbsp;
+
+00:13:57.720 --> 00:14:02.240
+c'est-à-dire capable de résoudre un problème&nbsp;
+nouveau en créant un programme adapté.
+
+00:14:02.240 --> 00:14:03.360
+Et donc pour François Chollet,&nbsp;&nbsp;
+
+00:14:03.360 --> 00:14:07.560
+les performances des LLM s'expliquaient&nbsp;
+avant tout ainsi : par de la mémorisation.
+
+00:14:07.560 --> 00:14:10.120
+En grossissant, de GPT-1 à GPT-4,&nbsp;&nbsp;
+
+00:14:10.120 --> 00:14:13.960
+on n'a fait qu'ajouter toujours plus&nbsp;
+de connaissances et de compétences.
+
+00:14:13.960 --> 00:14:18.000
+Ce sont des très grosses têtes très&nbsp;
+pleines, ayant été entraîné sur tout&nbsp;&nbsp;
+
+00:14:18.000 --> 00:14:21.520
+Internet pour ainsi dire, disposant par&nbsp;
+là d'une variété immense de méthodes,&nbsp;&nbsp;
+
+00:14:21.520 --> 00:14:24.520
+de schémas de raisonnement, de schémas de&nbsp;
+programmes qu'ils peuvent recycler face&nbsp;&nbsp;
+
+00:14:24.520 --> 00:14:28.720
+à des problèmes suffisamment similaires,&nbsp;
+ce qui les rend extrêmement polyvalents,&nbsp;&nbsp;
+
+00:14:28.720 --> 00:14:32.640
+mais sans capacité générale à s'adapter&nbsp;
+face à une véritable nouveauté.
+
+00:14:32.640 --> 00:14:35.440
+Et ça, ça crée illusion parce que, chez&nbsp;
+l'être humain, comme on n'a pas une telle&nbsp;&nbsp;
+
+00:14:35.440 --> 00:14:39.480
+capacité de mémorisation, un très haut&nbsp;
+degré de polyvalence est effectivement&nbsp;&nbsp;
+
+00:14:39.480 --> 00:14:42.880
+le signe d'une intelligence générale.&nbsp;
+Mais pour les LLM c'est différent,&nbsp;&nbsp;
+
+00:14:42.880 --> 00:14:45.720
+c'est très important de bien&nbsp;
+distinguer ces deux aspects.
+
+00:14:45.720 --> 00:14:49.329
+L'extrême polyvalence n'est&nbsp;
+pas l'intelligence générale.
+
+00:14:50.360 --> 00:14:51.360
+- Je suis très intelligent.
+
+00:14:51.571 --> 00:14:55.800
+Comment prouver rigoureusement que les LLM&nbsp;
+ne sont que des grosses têtes très pleines&nbsp;&nbsp;
+
+00:14:55.800 --> 00:14:58.760
+dont les performances reposent&nbsp;
+uniquement sur la mémorisation ?
+
+00:14:58.760 --> 00:15:02.720
+Il faudrait pour ça évaluer les performances des&nbsp;
+LLM à des tâches très accessibles à l'intelligence&nbsp;&nbsp;
+
+00:15:02.720 --> 00:15:07.480
+humaine mais qui résiste justement au type&nbsp;
+de mémorisation dont les LLM sont capables.
+
+00:15:07.480 --> 00:15:12.080
+Et c'est donc ce qu'a proposé François Chollet.&nbsp;
+Avec son article de 2019, il publie un corpus&nbsp;&nbsp;
+
+00:15:12.080 --> 00:15:17.200
+de tâches de raisonnement précisément conçues&nbsp;
+dans ce but : pour résister à la mémorisation.
+
+00:15:17.200 --> 00:15:20.840
+C'est le benchmark ARC-AGI (ce qui&nbsp;
+veut dire Abstract and Reasoning&nbsp;&nbsp;
+
+00:15:20.840 --> 00:15:23.105
+Corpus for Artificial General Intelligence).
+
+00:16:01.760 --> 00:16:05.680
+Alors jetons un oeil à ces problèmes,&nbsp;
+justement. Sur le site arcprize.org on&nbsp;&nbsp;
+
+00:16:05.680 --> 00:16:08.840
+a accès à une partie publique du benchmark&nbsp;
+(mais qui n'est pas le vrai benchmark bien&nbsp;&nbsp;
+
+00:16:08.840 --> 00:16:12.560
+sûr : le vrai est complètement privé pour&nbsp;
+éviter les problèmes de contamination).
+
+00:16:12.560 --> 00:16:16.440
+Alors voilà comment ça se présente, vous voyez,&nbsp;
+on a des entrées sous formes de grilles de pixels,&nbsp;&nbsp;
+
+00:16:16.440 --> 00:16:21.720
+et chacune est associée à une sortie selon une&nbsp;
+certaine logique qu'il faut réussir à comprendre.
+
+00:16:21.720 --> 00:16:25.760
+Et la tâche ensuite c'est de trouver&nbsp;
+la sortie associée à cette entrée.
+
+00:16:25.760 --> 00:16:30.680
+Donc là l'entrée ce sont ces 4 cases, et je&nbsp;
+vois que ce schéma est reproduit ici trois fois.
+
+00:16:30.680 --> 00:16:34.040
+Il est aussi reproduit trois fois sur la&nbsp;
+deuxième ligne mais inversé verticalement.
+
+00:16:34.040 --> 00:16:36.600
+Et enfin c'est reproduit&nbsp;
+trois fois en bas normalement.
+
+00:16:36.600 --> 00:16:39.480
+Je peux vérifier que c'est pareil ici&nbsp;
+pour la seconde paire d'entrée sortie.
+
+00:16:39.480 --> 00:16:44.020
+Donc oui, visiblement c'est ça, et j'ai plus&nbsp;
+qu'à entrer le truc avec la même logique ici...
+
+00:16:46.758 --> 00:16:49.840
+c'est un petit peu fastidieux… Et hop, c'est bon.
+
+00:16:49.840 --> 00:16:54.200
+Et ainsi de suite, il y a des centaines de&nbsp;
+tâches et des centaines de logiques différentes&nbsp;&nbsp;
+
+00:16:54.200 --> 00:16:57.280
+pour les résoudre, mais c'est toujours&nbsp;
+comme ça, c'est jamais bien difficile.
+
+00:16:57.280 --> 00:17:00.720
+Ils ont fait passer le test sur la plateforme&nbsp;
+Mechanical Turk (c'est une plateforme où les&nbsp;&nbsp;
+
+00:17:00.720 --> 00:17:04.000
+participants sont rémunérés à la tâche&nbsp;
+et donc les données sont pas de bonne&nbsp;&nbsp;
+
+00:17:04.000 --> 00:17:06.760
+qualité parce que les participants&nbsp;
+cherchent surtout à répondre vite,&nbsp;&nbsp;
+
+00:17:06.760 --> 00:17:09.840
+mais ça reste très utilisé pour des tests&nbsp;
+de psychologie), et donc les participants&nbsp;&nbsp;
+
+00:17:09.840 --> 00:17:14.320
+de Mechanical Turk atteignent 77%&nbsp;
+de réponses correctes en moyenne.
+
+00:17:14.320 --> 00:17:18.960
+On peut considérer ça comme le niveau humain&nbsp;
+minimal vraiment. Mais en réalité si vous vous&nbsp;&nbsp;
+
+00:17:18.960 --> 00:17:22.760
+donnez un peu la peine de réfléchir c'est&nbsp;
+facile d'approcher les 100% de réussite.
+
+00:17:22.760 --> 00:17:26.320
+Par exemple, vous pouvez essayer en arrêt sur&nbsp;
+image ces deux petites tâches. Alors je vous&nbsp;&nbsp;
+
+00:17:26.320 --> 00:17:30.160
+ai pas choisi les plus simples du corpus,&nbsp;
+mais normalement ça reste plutôt facile&nbsp;&nbsp;
+
+00:17:30.160 --> 00:17:34.280
+pour un cerveau humain. Il devrait suffire de&nbsp;
+quelques secondes pour saisir la logique de ces&nbsp;&nbsp;
+
+00:17:34.280 --> 00:17:38.280
+transformations et on n'a besoin d'aucune&nbsp;
+connaissance particulière pour y arriver.
+
+00:17:38.280 --> 00:17:42.400
+Si les LLM avaient une forme d'intelligence&nbsp;
+générale similaire à la nôtre, ça devrait donc&nbsp;&nbsp;
+
+00:17:42.400 --> 00:17:47.080
+leur sembler également facile. Mais trouver&nbsp;
+la logique de ces couples entrées-sorties et&nbsp;&nbsp;
+
+00:17:47.080 --> 00:17:50.760
+l'appliquer à une entrée supplémentaire,&nbsp;
+c'est pas un type de tâche standard dont&nbsp;&nbsp;
+
+00:17:50.760 --> 00:17:53.600
+il existe des tas d'exemples dans les&nbsp;
+données d'entraînement des modèles,&nbsp;&nbsp;
+
+00:17:53.600 --> 00:17:57.560
+donc c'est pas un exercice qui repose sur&nbsp;
+la pure mémorisation. Il faut vraiment,&nbsp;&nbsp;
+
+00:17:57.560 --> 00:18:01.520
+par soi-même en quelque sorte, "comprendre" la&nbsp;
+logique qui nous est présentée et l'appliquer.
+
+00:18:01.520 --> 00:18:05.160
+Les LLM comme GPT-3 qui ne traitent&nbsp;
+que du texte ne pouvaient résoudre&nbsp;&nbsp;
+
+00:18:05.160 --> 00:18:09.240
+aucun problème de ce type (même en essayant de&nbsp;
+les traduire sous forme de texte). Avec GPT-4,&nbsp;&nbsp;
+
+00:18:09.240 --> 00:18:12.840
+on pouvait s'attendre à un progrès, déjà parce que&nbsp;
+le modèle est plus performant de façon générale,&nbsp;&nbsp;
+
+00:18:12.840 --> 00:18:15.800
+et aussi parce qu'il est multi-modal,&nbsp;
+c'est-à-dire qu'il est capable de prendre&nbsp;&nbsp;
+
+00:18:15.800 --> 00:18:20.680
+une image en entrée. Et c'est mieux de voir&nbsp;
+pour résoudre des tâches visuels, évidemment.
+
+00:18:20.680 --> 00:18:25.320
+Pourtant, les tentatives d'appliquer&nbsp;
+GPT-4 ou 4o au benchmark ARC-AGI sont&nbsp;&nbsp;
+
+00:18:25.320 --> 00:18:29.760
+restées en-dessous des 5% de réussite.&nbsp;
+Et les autres LLM ne faisaient pas mieux.
+
+00:18:29.760 --> 00:18:34.040
+Donc GPT-3 c'était en 2020, et&nbsp;
+GPT-4 et 4o c'est en 2023-2024.
+
+00:18:34.040 --> 00:18:37.080
+Pourtant par ailleurs, durant la même&nbsp;
+période, les LLM accomplissaient de&nbsp;&nbsp;
+
+00:18:37.080 --> 00:18:40.800
+plus en plus de prouesses sur d'autres&nbsp;
+benchmarks dans de très nombreux domaines,&nbsp;&nbsp;
+
+00:18:40.800 --> 00:18:43.480
+relevant typiquement d'épreuves&nbsp;
+scolaires ou universitaires.
+
+00:18:43.480 --> 00:18:46.160
+On pouvait leur fait passer&nbsp;
+le bac, l'épreuve du barreau,&nbsp;&nbsp;
+
+00:18:46.160 --> 00:18:50.760
+les benchmarks semblaient tomber les&nbsp;
+uns après les autres. Mais pas ARC-AGI.&nbsp;&nbsp;
+
+00:18:50.760 --> 00:18:55.240
+Le petit benchmark gaulois qui résiste&nbsp;
+encore et toujours aux envahissants LLM.
+
+00:18:55.240 --> 00:18:59.800
+Tout ça semblait bien confirmer le point de vue de&nbsp;
+François Chollet selon lequel les performances des&nbsp;&nbsp;
+
+00:18:59.800 --> 00:19:05.120
+LLM reposent avant tout sur de la mémorisation&nbsp;
+et non sur une forme d'intelligence générale.
+
+00:19:05.120 --> 00:19:08.840
+Leur entraînement permet d'emmagasiner&nbsp;
+beaucoup de connaissances et de compétences,&nbsp;&nbsp;
+
+00:19:08.840 --> 00:19:12.520
+(notamment des connaissances et des compétences&nbsp;
+liées à des concours comme l'épreuve du barreau&nbsp;&nbsp;
+
+00:19:12.520 --> 00:19:16.280
+ou des tests standard comme les tests&nbsp;
+de QI qui sont largement référencés),&nbsp;&nbsp;
+
+00:19:16.280 --> 00:19:20.240
+autrement dit l'entraînement des LLM&nbsp;
+les rend extraordinairement polyvalents,&nbsp;&nbsp;
+
+00:19:20.240 --> 00:19:24.640
+et une extraordinaire polyvalence peut donner&nbsp;
+l'illusion de la généralité jusqu'à un certain&nbsp;&nbsp;
+
+00:19:24.640 --> 00:19:28.600
+point, mais les LLM resteraient en quelque&nbsp;
+sorte figés dans l'état de compétence auxquels&nbsp;&nbsp;
+
+00:19:28.600 --> 00:19:32.960
+ils arrivent à la fin de leur entraînement, sans&nbsp;
+capacité à apprendre des nouvelles compétences&nbsp;&nbsp;
+
+00:19:32.960 --> 00:19:37.640
+à la volée, en contexte, pour s'adapter à des&nbsp;
+situations et des problèmes vraiment nouveaux.
+
+00:19:37.640 --> 00:19:40.840
+Alors vous vous dites c'est peut-être parce que&nbsp;
+les gens ont pas assez essayé sur ce benchmark,&nbsp;&nbsp;
+
+00:19:40.840 --> 00:19:44.000
+mais depuis 2024 il y a même une&nbsp;
+compétition publique organisée à&nbsp;&nbsp;
+
+00:19:44.000 --> 00:19:48.520
+l'initiative de François Chollet et doté&nbsp;
+d'1 millions de dollar pour les premiers&nbsp;&nbsp;
+
+00:19:48.520 --> 00:19:52.960
+qui atteindront 85% de succès d'un&nbsp;
+système d'IA à ce benchmark ARC-AGI.
+
+00:19:52.960 --> 00:19:54.600
+Il me semble qu'on peut difficilement faire plus&nbsp;&nbsp;
+
+00:19:54.600 --> 00:19:57.440
+d'effort pour mettre une hypothèse&nbsp;
+à l'épreuve de l'expérience !
+
+00:19:57.440 --> 00:20:00.720
+Est-ce qu'Enthoven aurait organisé un&nbsp;
+prix pour le premier LLM qui arrive à&nbsp;&nbsp;
+
+00:20:00.720 --> 00:20:03.760
+écrire une problématique de dissertation&nbsp;
+? Je ne crois pas, et c'est dommage…
+
+00:20:03.760 --> 00:20:05.320
+- Eeeet voilà.
+
+00:20:05.320 --> 00:20:07.920
+Où en sommes-nous maintenant ? Quelles&nbsp;
+sont les performances des meilleurs&nbsp;&nbsp;
+
+00:20:07.920 --> 00:20:13.040
+modèles aujourd'hui sur ce benchmark ? Pour&nbsp;
+rappel, GPT-3 c'est 0% de réussite. GPT-4o,&nbsp;&nbsp;
+
+00:20:13.040 --> 00:20:17.160
+plusieurs années plus tard, ne monte&nbsp;
+qu'à 4,5%. Et puis brusquement,&nbsp;&nbsp;
+
+00:20:17.160 --> 00:20:22.840
+en septembre 2024, le modèle o1&nbsp;
+d'OpenAI dépasse 30% de réussite.
+
+00:20:22.840 --> 00:20:27.040
+Ce modèle o1, c'est le premier modèle de&nbsp;
+raisonnement, c'est-à-dire un modèle qui&nbsp;&nbsp;
+
+00:20:27.040 --> 00:20:30.880
+résulte d'un apprentissage par renforcement&nbsp;
+sur ce qu'on appelle des chains of thought,&nbsp;&nbsp;
+
+00:20:30.880 --> 00:20:34.160
+c'est-à-dire des sortes de verbalisations&nbsp;
+de réflexion ou de raisonnement.
+
+00:20:34.160 --> 00:20:37.040
+Alors je vais pas rentrer dans le détail du&nbsp;
+fonctionnement d'un modèle de raisonnement&nbsp;&nbsp;
+
+00:20:37.040 --> 00:20:40.280
+mais si ça vous intéresse, la dernière partie&nbsp;
+de cette vidéo de Science étonnante le fait&nbsp;&nbsp;
+
+00:20:40.280 --> 00:20:43.920
+très bien. Et juste là pour esquisser les&nbsp;
+choses à gros trait, disons qu'un modèle de&nbsp;&nbsp;
+
+00:20:43.920 --> 00:20:48.080
+raisonnement c'est un modèle qui est entraîné&nbsp;
+à verbaliser des réflexion avant de répondre,&nbsp;&nbsp;
+
+00:20:48.080 --> 00:20:52.400
+c'est donc la chain of thought (ou CoT),&nbsp;
+et en optimisant cette chain of thought par&nbsp;&nbsp;
+
+00:20:52.400 --> 00:20:55.840
+renforcement sur des tâches vérifiables&nbsp;
+on s'est aperçu qu'on pouvait améliorer&nbsp;&nbsp;
+
+00:20:55.840 --> 00:20:59.840
+les performances d'un système basé sur&nbsp;
+un LLM de façon assez impressionnante.
+
+00:20:59.840 --> 00:21:04.040
+La performance de o1 sur le benchmark&nbsp;
+ARC-AGI en est justement une des premières&nbsp;&nbsp;
+
+00:21:04.040 --> 00:21:06.720
+illustrations : c'est typiquement le&nbsp;
+genre de résultat qu'on ne pouvait pas&nbsp;&nbsp;
+
+00:21:06.720 --> 00:21:10.920
+obtenir avec un LLM de base mais qu'on&nbsp;
+obtient avec un modèle de raisonnement.
+
+00:21:10.920 --> 00:21:14.680
+Trois mois après o1, OpenAI présente&nbsp;
+son modèle o3, qui est juste en fait&nbsp;&nbsp;
+
+00:21:14.680 --> 00:21:17.240
+la deuxième version de o1 (mais ils&nbsp;
+pouvaient pas l'appeler o2 pour une&nbsp;&nbsp;
+
+00:21:17.240 --> 00:21:20.640
+histoire de propriété intellectuelle donc&nbsp;
+ils sont passés directement à o3, bref),&nbsp;&nbsp;
+
+00:21:20.640 --> 00:21:29.560
+et ce modèle o3 a de nouveau été testé sur ARC-AGI&nbsp;
+où il obtiendrait entre 76% et 88% de réussite.
+
+00:21:29.560 --> 00:21:33.440
+Là, on est au-dessus du niveau moyen&nbsp;
+d'un participant humain recruté sur&nbsp;&nbsp;
+
+00:21:33.440 --> 00:21:36.080
+Mechanical Turk. Par contre, c'est&nbsp;
+pas du tout pour le même prix,&nbsp;&nbsp;
+
+00:21:36.080 --> 00:21:38.840
+et on va y revenir parce&nbsp;
+que ça aura son importance.
+
+00:21:38.840 --> 00:21:42.200
+Ce résultat proche du niveau&nbsp;
+humain était assez inattendu.&nbsp;&nbsp;
+
+00:21:42.200 --> 00:21:45.720
+François Chollet ne s'y attendait pas&nbsp;
+en tout cas, et voici ce qu'il en dit :
+
+00:21:45.720 --> 00:21:50.920
+"Le nouveau modèle o3 d'OpenAI représente une&nbsp;
+avancée significative dans la capacité de l'IA&nbsp;&nbsp;
+
+00:21:50.920 --> 00:21:55.680
+à s'adapter à de nouvelles tâches. Il ne s'agit&nbsp;
+pas d'une simple amélioration incrémentielle,&nbsp;&nbsp;
+
+00:21:55.680 --> 00:22:00.120
+mais d'une véritable percée, qui marque un&nbsp;
+changement qualitatif dans les capacités de&nbsp;&nbsp;
+
+00:22:00.120 --> 00:22:05.920
+l'IA par rapport aux limites antérieures des&nbsp;
+LLM. o3 est un système capable de s'adapter&nbsp;&nbsp;
+
+00:22:05.920 --> 00:22:10.040
+à des tâches qu'il n'a jamais rencontrées&nbsp;
+auparavant, approchant vraisemblablement&nbsp;&nbsp;
+
+00:22:10.040 --> 00:22:14.360
+des performances de niveau humain&nbsp;
+dans le domaine des tâches d'ARC-AGI.
+
+00:22:14.360 --> 00:22:17.560
+Pour s'adapter à la nouveauté, il&nbsp;
+faut deux choses. Premièrement,&nbsp;&nbsp;
+
+00:22:17.560 --> 00:22:21.840
+il faut des connaissances – un ensemble de&nbsp;
+fonctions ou de programmes réutilisables sur&nbsp;&nbsp;
+
+00:22:21.840 --> 00:22:26.560
+lesquels s'appuyer. Les LLM en ont&nbsp;
+plus qu'il n'en faut. Deuxièmement,&nbsp;&nbsp;
+
+00:22:26.560 --> 00:22:31.360
+il faut être capable de recombiner ces fonctions&nbsp;
+en un tout nouveau programme pour faire face à&nbsp;&nbsp;
+
+00:22:31.360 --> 00:22:37.520
+une nouvelle tâche – un programme qui modélise la&nbsp;
+tâche en question. De la synthèse de programme.&nbsp;&nbsp;
+
+00:22:37.520 --> 00:22:43.760
+Les LLM ont longtemps été dépourvus de cette&nbsp;
+capacité. La série de modèles o y a remédié."
+
+00:22:43.760 --> 00:22:48.000
+Pour François Chollet, cette capacité à créer&nbsp;
+des programmes à la volée pour s'adapter à une&nbsp;&nbsp;
+
+00:22:48.000 --> 00:22:52.040
+nouvelle tâche est un signe caractéristique&nbsp;
+de l'intelligence : une tête bien faite,&nbsp;&nbsp;
+
+00:22:52.040 --> 00:22:57.160
+et pas seulement bien pleine. Et donc, avec les&nbsp;
+modèles o1 et o3, François Chollet constate qu'on&nbsp;&nbsp;
+
+00:22:57.160 --> 00:23:01.920
+s'en rapproche. Lui qui, au départ était vraiment&nbsp;
+sceptique vis-à-vis de ces capacités dans les LLM,&nbsp;&nbsp;
+
+00:23:01.920 --> 00:23:06.960
+a donc changé d'avis ou en tout cas fait évoluer&nbsp;
+son avis à la lumière de ce nouveau résultat.
+
+00:23:06.960 --> 00:23:09.480
+Avant d'aller plus loin, je voudrais&nbsp;
+souligner à quel point la démarche de&nbsp;&nbsp;
+
+00:23:09.480 --> 00:23:11.960
+François Chollet est scientifiquement exemplaire.
+
+00:23:11.960 --> 00:23:15.840
+Il part d'une hypothèse clairement formulée :&nbsp;
+les performances des LLM reposent avant tout&nbsp;&nbsp;
+
+00:23:15.840 --> 00:23:19.840
+sur une forme de mémorisation. Puis il s'efforce&nbsp;
+d'en tirer des conséquences empiriques précises&nbsp;&nbsp;
+
+00:23:19.840 --> 00:23:23.920
+en construisant le benchmark ARC-AGI de&nbsp;
+tâches qui résistent à la mémorisation,&nbsp;&nbsp;
+
+00:23:23.920 --> 00:23:28.120
+ce qui revient à rendre l'hypothèse aussi facile&nbsp;
+à réfuter que possible : ça désigne vraiment ces&nbsp;&nbsp;
+
+00:23:28.120 --> 00:23:32.080
+tâches comme les tâches qu'un LLM ne devrait&nbsp;
+pas pouvoir faire si l'hypothèse est correcte.&nbsp;&nbsp;
+
+00:23:32.080 --> 00:23:36.400
+Et on va jusqu'à inciter financièrement à la&nbsp;
+réfutation avec le prix d'un million de dollars.
+
+00:23:36.400 --> 00:23:41.400
+Et puis face à de nouvelles données, François&nbsp;
+Chollet a effectivement révisé son jugement : un&nbsp;&nbsp;
+
+00:23:41.400 --> 00:23:46.360
+système basé sur un LLM comme o3 est capable&nbsp;
+de faire davantage que de la mémorisation,&nbsp;&nbsp;
+
+00:23:46.360 --> 00:23:49.480
+il reconnaît bien un saut qualitatif&nbsp;
+qui rapproche ce système d'une forme&nbsp;&nbsp;
+
+00:23:49.480 --> 00:23:53.440
+d'intelligence générale. Voilà, ça&nbsp;
+c'est de la science comme j'aime.
+
+00:23:53.440 --> 00:23:57.040
+Si vous vous intéressez pas plus que&nbsp;
+ça à l'IA et aux LLM en particulier,&nbsp;&nbsp;
+
+00:23:57.040 --> 00:24:00.880
+c'est possible que vous ayez assez peu ou&nbsp;
+même jamais entendu parler de ces modèles&nbsp;&nbsp;
+
+00:24:00.880 --> 00:24:06.640
+de raisonnement o1, o3, etc. Vous en êtes resté&nbsp;
+au ChatGPT de base, c'est-à-dire la version 4o.
+
+00:24:06.640 --> 00:24:10.040
+Mais pour réfléchir au potentiel de l'IA&nbsp;
+aujourd'hui, ça me semble crucial de prendre&nbsp;&nbsp;
+
+00:24:10.040 --> 00:24:14.800
+la mesure de l'écart qui sépare les chatbot&nbsp;
+de base comme ChatGPT-4o (qui est de loin le&nbsp;&nbsp;
+
+00:24:14.800 --> 00:24:19.320
+plus utilisé aujourd'hui) et ces modèles de&nbsp;
+raisonnement introduit depuis fin 2024. Dans&nbsp;&nbsp;
+
+00:24:19.320 --> 00:24:23.600
+beaucoup de domaines pointus, l'écart est&nbsp;
+phénoménal et s'est creusé en très peu de&nbsp;&nbsp;
+
+00:24:23.600 --> 00:24:27.840
+temps. Le cas du benchmark ARC-AGI en est un&nbsp;
+premier exemple : on est passé de pas même 5%&nbsp;&nbsp;
+
+00:24:27.840 --> 00:24:32.880
+de réussite à 88% en quelques mois. Mais on peut&nbsp;
+citer d'autres cas de progression hallucinante&nbsp;&nbsp;
+
+00:24:32.880 --> 00:24:36.560
+sur des tâches beaucoup plus difficiles. En&nbsp;
+tout cas difficiles pour nous être humains.
+
+00:24:36.560 --> 00:24:39.680
+Prenez le concours de programmation&nbsp;
+Codeforce : c'est une plateforme de&nbsp;&nbsp;
+
+00:24:39.680 --> 00:24:44.560
+programmation compétitive où on doit résoudre des&nbsp;
+problèmes de difficulté croissante. En mai 2024,&nbsp;&nbsp;
+
+00:24:44.560 --> 00:24:49.160
+ChatGPT-4o ne battait que 11% des&nbsp;
+participants. En septembre 2024,&nbsp;&nbsp;
+
+00:24:49.160 --> 00:24:54.160
+o1, le premier modèle de raisonnement,&nbsp;
+dépassait 90% des participants ; et enfin,&nbsp;&nbsp;
+
+00:24:54.160 --> 00:25:02.320
+en décembre 2024, o3 se classait au 175e rang&nbsp;
+mondial, dépassant 99,8% des participants.
+
+00:25:02.320 --> 00:25:06.440
+Notez qu'aujourd'hui, o4-mini atteint la&nbsp;
+même performance en étant un modèle distillé,&nbsp;&nbsp;
+
+00:25:06.440 --> 00:25:09.920
+c'est-à-dire un petit modèle qui imite&nbsp;
+un plus gros, donc c'est plus rapide&nbsp;&nbsp;
+
+00:25:09.920 --> 00:25:14.120
+mais moins performant, et quand on voit que&nbsp;
+o3-mini était à peu près au niveau de o1,&nbsp;&nbsp;
+
+00:25:14.120 --> 00:25:18.000
+et ça fait un écart de 700 points Elo&nbsp;
+avec le vrai o3, c'est raisonnable de&nbsp;&nbsp;
+
+00:25:18.000 --> 00:25:22.880
+supposer que le vrai o4 qui n'est pas encore&nbsp;
+publié est encore un cran au-dessus de ça.
+
+00:25:22.880 --> 00:25:26.280
+Sam Altman disait il y a quelques mois qu'ils&nbsp;
+avaient un modèle interne qui atteint le 50e&nbsp;&nbsp;
+
+00:25:26.280 --> 00:25:30.080
+rang mondial sur ces tâches Codeforces et&nbsp;
+qui pourrait arriver top 1 d'ici à la fin de&nbsp;&nbsp;
+
+00:25:30.080 --> 00:25:34.200
+l'année. Eh ben, ça me semble plutôt crédible&nbsp;
+effectivement, vue la vitesse de progression.
+
+00:25:34.200 --> 00:25:37.200
+Les problèmes de Codeforce c'est assez&nbsp;
+particulier, c'est très différentes de&nbsp;&nbsp;
+
+00:25:37.200 --> 00:25:40.440
+ce à quoi est confronté un développeur dans&nbsp;
+son métier, mais ces problèmes de Codeforces&nbsp;&nbsp;
+
+00:25:40.440 --> 00:25:44.640
+sont des problèmes algorithmiques difficiles, et&nbsp;
+qui sont même conçus pour être difficile vue que&nbsp;&nbsp;
+
+00:25:44.640 --> 00:25:47.680
+c'est une compétition, donc c'est quand&nbsp;
+même un résultat assez impressionnants.
+
+00:25:47.680 --> 00:25:50.280
+Autre benchmark ambitieux qu'il&nbsp;
+est intéressant de suivre:&nbsp;&nbsp;
+
+00:25:50.280 --> 00:25:55.080
+Humanity's Last Exam. C'est un benchmark&nbsp;
+constitué de 2500 questions relevant de&nbsp;&nbsp;
+
+00:25:55.080 --> 00:25:59.560
+diverses disciplines scientifiques et conçues de&nbsp;
+façon à ce que, même avec un accès à Internet,&nbsp;&nbsp;
+
+00:25:59.560 --> 00:26:02.560
+seuls des spécialistes soient en&nbsp;
+mesure de répondre correctement.
+
+00:26:02.560 --> 00:26:06.000
+Donc il faut à la fois des connaissances&nbsp;
+solides sur le sujet d'expertise et une&nbsp;&nbsp;
+
+00:26:06.000 --> 00:26:08.120
+utilisation raisonnée de ces connaissances.
+
+00:26:08.120 --> 00:26:11.680
+Les questions ont été proposées directement&nbsp;
+par plusieurs centaines de spécialistes&nbsp;&nbsp;
+
+00:26:11.680 --> 00:26:14.200
+de diverses disciplines, et&nbsp;
+c'est participatif en fait,&nbsp;&nbsp;
+
+00:26:14.200 --> 00:26:17.760
+si vous avez une expertise sur un sujet vous&nbsp;
+pouvez vous-même envoyer une question sur le&nbsp;&nbsp;
+
+00:26:17.760 --> 00:26:21.400
+site du benchmark pour que peut-être ce&nbsp;
+soit intégré à une prochaine version.
+
+00:26:21.400 --> 00:26:24.960
+Les vraies questions sont évidemment gardées&nbsp;
+privées pour l'évaluation mais il y a quelques&nbsp;&nbsp;
+
+00:26:24.960 --> 00:26:29.320
+échantillons pour se faire une idée du type de&nbsp;
+question: par exemple cette question de traduction&nbsp;&nbsp;
+
+00:26:29.320 --> 00:26:33.200
+d'une inscription romaine (j'ai quelques&nbsp;
+notions de latin mais ça va pas suffire).
+
+00:26:33.200 --> 00:26:37.800
+Ou bien cette petite question de biologie pas&nbsp;
+piquée des hannetons : "Les colibris de la famille&nbsp;&nbsp;
+
+00:26:37.800 --> 00:26:43.280
+des Apodiformes ont de manière unique un os ovale&nbsp;
+apparié bilatéralement, un sésamoïde intégré dans&nbsp;&nbsp;
+
+00:26:43.280 --> 00:26:48.040
+la partie caudolatérale de l’aponévrose croisée&nbsp;
+élargie d’insertion du muscle dépresseur de la&nbsp;&nbsp;
+
+00:26:48.040 --> 00:26:52.840
+queue. Combien de tendons appariés sont soutenus&nbsp;
+par cet os sésamoïde ? Répondez par un nombre."
+
+00:26:52.840 --> 00:26:53.598
+Deux ?
+
+00:26:53.598 --> 00:26:54.200
+- C'est non.
+
+00:26:54.200 --> 00:26:57.760
+Donc c'est le genre de benchmark où le&nbsp;
+score humain moyen c'est probablement&nbsp;&nbsp;
+
+00:26:57.760 --> 00:27:01.360
+à peine au-dessus de 0. Mon score à&nbsp;
+moi ce serait probablement 0 en fait,&nbsp;&nbsp;
+
+00:27:01.360 --> 00:27:04.560
+sauf coup de bol et question sur un truc&nbsp;
+que j'aurais étudié pendant ma thèse, quoi.
+
+00:27:04.560 --> 00:27:09.600
+Comment s'en sortent les LLM à ce dernier examen&nbsp;
+de l'humanité, donc ? ChatGPT-4o, le modèle par&nbsp;&nbsp;
+
+00:27:09.600 --> 00:27:16.720
+défaut de ChatGPT aujourd'hui, ça n'atteint que&nbsp;
+2,7% de réussite. Pour o1, ça montait à 8%. Et&nbsp;&nbsp;
+
+00:27:16.720 --> 00:27:23.120
+pour o3 et aussi pour Gemini-2.5-pro ça atteint&nbsp;
+20%. C'est pas encore très élevé, mais on voit que&nbsp;&nbsp;
+
+00:27:23.120 --> 00:27:27.280
+ça évolue vite et c'est déjà impressionnant&nbsp;
+compte tenu de la difficulté des questions.
+
+00:27:27.280 --> 00:27:29.560
+- Oh oui oui oui oui.
+
+00:27:29.880 --> 00:27:34.160
+Dernier exemple : les mathématiques. Pour mesurer&nbsp;
+les performances en maths beaucoup benchmarks&nbsp;&nbsp;
+
+00:27:34.160 --> 00:27:37.600
+classiques sont déjà saturés (c'est-à-dire&nbsp;
+que le taux de réussite des modèles actuels&nbsp;&nbsp;
+
+00:27:37.600 --> 00:27:41.640
+est trop élevé pour permettre de mesurer encore&nbsp;
+un progrès). Du coup, ça a motivé la création&nbsp;&nbsp;
+
+00:27:41.640 --> 00:27:46.960
+d'un nouveau benchmark beaucoup plus exigeant&nbsp;
+publié fin 2024 qui s'appelle FrontierMath.
+
+00:27:46.960 --> 00:27:49.800
+C'est un ensemble de problèmes touchant&nbsp;
+à diverses branches des mathématiques&nbsp;&nbsp;
+
+00:27:49.800 --> 00:27:53.000
+que seuls des spécialistes peuvent&nbsp;
+résoudre, et pas en un claquement doigt,&nbsp;&nbsp;
+
+00:27:53.000 --> 00:27:56.160
+ça leur prendrait plutôt plusieurs&nbsp;
+heures voire plusieurs jours de travail.
+
+00:27:56.160 --> 00:27:59.760
+Terence Tao, l'un des meilleurs mathématiciens&nbsp;
+au monde, et qui a participé à la création&nbsp;&nbsp;
+
+00:27:59.760 --> 00:28:03.320
+de certains de ces problèmes, se reconnaît&nbsp;
+lui-même incapable de résoudre les problèmes&nbsp;&nbsp;
+
+00:28:03.320 --> 00:28:06.896
+les plus difficiles de ce benchmark qui ne&nbsp;
+relèvent de sa propre aire de spécialisation.
+
+00:28:12.480 --> 00:28:17.160
+Jusqu'à o3, les meilleurs modèles ne dépassaient&nbsp;
+pas 2% de réussite sur ce benchmark. Et puis là,&nbsp;&nbsp;
+
+00:28:17.160 --> 00:28:20.280
+fin 2024, OpenAI annonce dans&nbsp;
+le plus grand des calmes que&nbsp;&nbsp;
+
+00:28:20.280 --> 00:28:23.250
+o3 aurait atteint 25% de réussite à FrontierMath.
+
+00:28:23.250 --> 00:28:24.069
+- Combien ?
+
+00:28:24.280 --> 00:28:27.200
+Alors, petit disclaimer : le&nbsp;
+labo qui produit ce benchmark&nbsp;&nbsp;
+
+00:28:27.200 --> 00:28:29.680
+a notamment reçu des financements d'OpenAI et ces&nbsp;&nbsp;
+
+00:28:29.680 --> 00:28:33.480
+résultats publiés par OpenAI n'avaient&nbsp;
+pas été reproduits de façon indépendante.
+
+00:28:33.480 --> 00:28:35.920
+Maintenant qu'une version de&nbsp;
+o3 est accessible au public,&nbsp;&nbsp;
+
+00:28:35.920 --> 00:28:40.640
+le labo a refait les tests et ils&nbsp;
+n'obtiennent que 10-11% de réussite,&nbsp;&nbsp;
+
+00:28:40.640 --> 00:28:44.000
+ce qui reste quand même impressionnant si&nbsp;
+on considère la difficulté des problèmes.
+
+00:28:44.000 --> 00:28:49.680
+Et vous voyez aussi qu'avec o4-mini, ça monte à&nbsp;
+18% environ, donc on n'est pas si loin des 25%&nbsp;&nbsp;
+
+00:28:49.680 --> 00:28:54.280
+annoncés initialement, ça semble bien à portée&nbsp;
+de ce type de modèle ou ça le sera bientôt.
+
+00:28:54.280 --> 00:28:58.080
+Une des choses qui peut expliquer l'écart&nbsp;
+entre les 25% initialement annoncé et le&nbsp;&nbsp;
+
+00:28:58.080 --> 00:29:02.600
+résultat de 10% avec o3 version publique,&nbsp;
+c'est qu'OpenAI a pu faire un test en&nbsp;&nbsp;
+
+00:29:02.600 --> 00:29:06.160
+donnant à o3 un budget beaucoup plus élevé&nbsp;
+pour son raisonnement. Je vais revenir sur&nbsp;&nbsp;
+
+00:29:06.160 --> 00:29:09.240
+ce problème du budget un peu plus loin,&nbsp;
+gardez ça dans un coin de votre tête.
+
+00:29:09.240 --> 00:29:10.960
+Mais vous me direz : si les&nbsp;
+modèles approchent du niveau&nbsp;&nbsp;
+
+00:29:10.960 --> 00:29:14.160
+d'un chercheur en maths à quand une&nbsp;
+véritable découverte mathématique ?
+
+00:29:14.160 --> 00:29:18.680
+Eh ben, pour les modèles d'OpenAI je sais pas,&nbsp;
+mais pour ceux de Google, c'est déjà le cas.
+
+00:29:18.680 --> 00:29:21.960
+DeepMind a publié en mai&nbsp;
+les résultats d'AlphaEvolve,&nbsp;&nbsp;
+
+00:29:21.960 --> 00:29:24.240
+un agent basé sur les modèles Gemini de Google.
+
+00:29:24.240 --> 00:29:27.040
+C'est bien plus complexe qu'un modèle de&nbsp;
+raisonnement, en gros il y a un processus&nbsp;&nbsp;
+
+00:29:27.040 --> 00:29:30.560
+de sélection et mutation sur des&nbsp;
+raisonnements générés par LLM,&nbsp;&nbsp;
+
+00:29:30.560 --> 00:29:33.480
+un peu comme l'évolution sauf que&nbsp;
+c'est pas sur des populations animales,&nbsp;&nbsp;
+
+00:29:33.480 --> 00:29:37.400
+c'est sur des populations de textes, et donc&nbsp;
+c'est quand même basé sur des LLM. Et donc&nbsp;&nbsp;
+
+00:29:37.400 --> 00:29:42.600
+AlphaEvolve a produit des dizaines de découvertes&nbsp;
+mathématiques inédites sur des problèmes ouvert,&nbsp;&nbsp;
+
+00:29:42.600 --> 00:29:45.560
+des découvertes que les êtres humains&nbsp;
+n'avaient pas réussi à faire jusque là.
+
+00:29:45.560 --> 00:29:49.760
+Par exemple, entre autres choses, AlphaEvolve&nbsp;
+a découvert une méthode qui réduit légèrement&nbsp;&nbsp;
+
+00:29:49.760 --> 00:29:53.080
+le nombre d'opérations nécessaires pour&nbsp;
+certaines multiplications de matrice.
+
+00:29:53.080 --> 00:29:56.000
+Et bah déjà bravo. Mais surtout&nbsp;
+les chercheurs expliquent que&nbsp;&nbsp;
+
+00:29:56.000 --> 00:30:00.760
+cette découverte a été utilisée pour réduire&nbsp;
+légèrement le temps d'entraînement de Gemini.
+
+00:30:00.760 --> 00:30:02.360
+Ça reste modeste comme amélioration,&nbsp;&nbsp;
+
+00:30:02.360 --> 00:30:06.480
+ils parlent de 1%, mais ça montre que&nbsp;
+les IA actuelles sont déjà susceptibles&nbsp;&nbsp;
+
+00:30:06.480 --> 00:30:10.540
+de faire d'authentiques découvertes qui&nbsp;
+accélèrent l'entraînement d'IA futures.
+
+00:30:10.540 --> 00:30:14.640
+Et ça c'est le genre de boucle qui pourrait&nbsp;
+finir par avoir des effets intéressants,&nbsp;&nbsp;
+
+00:30:14.640 --> 00:30:16.680
+disons. Mais faudra qu'on en parle une autre fois.
+
+00:30:16.680 --> 00:30:21.600
+Revenons à ARC-AGI et ces petites tâches de&nbsp;
+raisonnement faciles pour l'être humain et&nbsp;&nbsp;
+
+00:30:21.600 --> 00:30:26.760
+pas si facile pour la machine. J'ai dit donc que&nbsp;
+lorsque o3 a été anoncé, OpenAI affirmait avoir&nbsp;&nbsp;
+
+00:30:26.760 --> 00:30:33.000
+atteint 76% à 88% de réponses correctes mais&nbsp;
+ce que j'ai pas précisé c'est : à quel prix ?
+
+00:30:33.000 --> 00:30:35.680
+Parlons pognon un petit peu, ou plutôt token.
+
+00:30:35.680 --> 00:30:39.120
+Parce que donc ce qui distingue o3 du&nbsp;
+premier LLM venu c'est que c'est un&nbsp;&nbsp;
+
+00:30:39.120 --> 00:30:42.200
+modèle de raisonnement et qu'il va&nbsp;
+donc générer des chain of thought,&nbsp;&nbsp;
+
+00:30:42.200 --> 00:30:45.920
+c'est-à-dire une verbalisation de&nbsp;
+réflexion sur le problème qu'on lui soumet.
+
+00:30:45.920 --> 00:30:51.320
+Et cette verbalisation, ça peut faire beaucoup,&nbsp;
+beaucoup de textes générés pour une seule&nbsp;&nbsp;
+
+00:30:51.320 --> 00:30:57.000
+réponse. Par exemple la version de o3 qui a&nbsp;
+atteint 76% de réponses correctes sur ARC-AGI,&nbsp;&nbsp;
+
+00:30:57.000 --> 00:31:02.320
+elle produit 330 000 tokens en moyenne&nbsp;
+par tâche. Et un token c'est, disons,&nbsp;&nbsp;
+
+00:31:02.320 --> 00:31:05.920
+3/4 de mots. Donc ça fait l'équivalent&nbsp;
+d'un bon millier de pages environ.
+
+00:31:05.920 --> 00:31:10.400
+Mais ça encore c'est minuscule comparé à&nbsp;
+la version de o3 qui atteint les 88% de&nbsp;&nbsp;
+
+00:31:10.400 --> 00:31:16.229
+réussite : cette version-là produit&nbsp;
+57 millions de tokens par réponse.
+
+00:31:16.229 --> 00:31:16.240
+- Combien ?
+
+00:31:16.240 --> 00:31:20.200
+Soit environ 150 000 pages de texte&nbsp;
+par tâche, en moyenne. Donc je sais&nbsp;&nbsp;
+
+00:31:20.200 --> 00:31:23.520
+même pas si ça tiendrait dans la bibliothèque&nbsp;
+derrière. Imaginez 150 bouquin de 1000 pages.
+
+00:31:23.520 --> 00:31:25.800
+Notez qu'il y a probablement&nbsp;
+un grand nombre de CoT qui sont&nbsp;&nbsp;
+
+00:31:25.800 --> 00:31:29.280
+générées en parallèle avec ensuite un&nbsp;
+système qui évalue leur qualité et va&nbsp;&nbsp;
+
+00:31:29.280 --> 00:31:32.000
+prolonger celles jugées les plus&nbsp;
+prometteuses et ainsi de suite.
+
+00:31:32.000 --> 00:31:34.640
+Les modèles de raisonnement ne font pas&nbsp;
+forcément ça mais pour o3 surtout avec&nbsp;&nbsp;
+
+00:31:34.640 --> 00:31:37.960
+ce budget hyper élevé, c'est très probable,&nbsp;
+même si on ne peut pas tout à fait en être&nbsp;&nbsp;
+
+00:31:37.960 --> 00:31:42.920
+sûr vu qu'on connaît pas la cuisine interne de&nbsp;
+tout ça, OpenAI étant pas du tout transparent.
+
+00:31:42.920 --> 00:31:46.080
+Notez qu'évidemment quand vous utilisez&nbsp;
+o3 avec la version publique c'est pas ces&nbsp;&nbsp;
+
+00:31:46.080 --> 00:31:49.640
+versions-là qui sont utilisées a priori.&nbsp;
+Là c'était à des fins expérimentales,&nbsp;&nbsp;
+
+00:31:49.640 --> 00:31:53.720
+c'est OpenAI qui menait ces expériences, et&nbsp;
+c'était pour eux une façon de voir jusqu'à quel&nbsp;&nbsp;
+
+00:31:53.720 --> 00:31:57.560
+point augmenter la taille des chains of thought&nbsp;
+améliore les performances, et effectivement même&nbsp;&nbsp;
+
+00:31:57.560 --> 00:32:02.040
+en poussant les choses si loin, jusqu'à des&nbsp;
+millions de tokens, ça continue d'augmenter&nbsp;&nbsp;
+
+00:32:02.040 --> 00:32:06.080
+les performances même si ça semble de plus en&nbsp;
+plus marginal, pas sûr que ça en vaille la peine.
+
+00:32:06.080 --> 00:32:10.000
+Mais au moins ils ont dépassé le seuil&nbsp;
+de 85% qui avait été fixé pour la&nbsp;&nbsp;
+
+00:32:10.000 --> 00:32:14.200
+victoire à l'ARC-Prize. Du coup, est-ce&nbsp;
+qu'OpenAI a gagné le prix d'1 million.
+
+00:32:14.200 --> 00:32:18.240
+Eh ben, non en fait, parce que, j'ai pas&nbsp;
+précisé un point mais pour que ce soit validé,&nbsp;&nbsp;
+
+00:32:18.240 --> 00:32:22.160
+il faut atteindre ces 85% de réussite&nbsp;
+en dépensant moins d'un demi-dollar&nbsp;&nbsp;
+
+00:32:22.160 --> 00:32:24.520
+par tâche en moyenne. Il y a&nbsp;
+une contrainte sur le budget.
+
+00:32:24.520 --> 00:32:27.720
+Et autant dire qu'avec ses 57&nbsp;
+millions de tokens de CoT par tâche,&nbsp;&nbsp;
+
+00:32:27.720 --> 00:32:30.800
+o3 explose complètement ce budget&nbsp;
+(on n'a pas de chiffres précis de&nbsp;&nbsp;
+
+00:32:30.800 --> 00:32:34.280
+ce que ça coûterait mais c'est probablement&nbsp;
+plusieurs milliers de dollars par tâche).
+
+00:32:34.280 --> 00:32:36.640
+Le cerveau humain reste la solution optimale.
+
+00:32:36.640 --> 00:32:39.000
+Mais faut mesurer le fait qu'on est&nbsp;
+au tout début de cette approche : il&nbsp;&nbsp;
+
+00:32:39.000 --> 00:32:43.520
+y a quelques mois seulement le niveau des LLM&nbsp;
+de base sur ces tâches là était proche de 0.
+
+00:32:43.520 --> 00:32:46.960
+Donc faut pas s'arrêter à l'état actuel,&nbsp;
+c'est surtout la tendance qui est importante.
+
+00:32:46.960 --> 00:32:52.000
+Et ce benchmark ARC-AGI est probablement l'un des&nbsp;
+meilleurs outils qu'on ait pour mesurer et suivre&nbsp;&nbsp;
+
+00:32:52.000 --> 00:32:56.640
+cette tendance vers davantage d'intelligence&nbsp;
+générale dans les sytèmes fondés sur des LLM.
+
+00:32:56.640 --> 00:33:01.720
+Et on a mieux encore : en début d'année,&nbsp;
+François Chollet a publié ARC-AGI-2 le retour.
+
+00:33:01.720 --> 00:33:04.640
+Une seconde version de ce&nbsp;
+benchmark en plus difficile.
+
+00:33:04.640 --> 00:33:06.640
+Les tâches sont similaires dans&nbsp;
+la forme, toujours des couples&nbsp;&nbsp;
+
+00:33:06.640 --> 00:33:10.640
+d'entrées-sorties en grille de pixel, mais&nbsp;
+ça nécessite nettement plus de réflexion.
+
+00:33:10.640 --> 00:33:13.880
+Genre regardez-là, c'est la première tâche&nbsp;
+parmi celles qui sont accessibles au public,&nbsp;&nbsp;
+
+00:33:13.880 --> 00:33:15.589
+et allez-y, essayez de la résoudre.
+
+00:33:20.240 --> 00:33:21.560
+Je veux pas vous mettre la&nbsp;
+pression mais si vous êtes&nbsp;&nbsp;
+
+00:33:21.560 --> 00:33:23.269
+plus malin qu'une machine ça devrait être facile.
+
+00:33:26.320 --> 00:33:29.360
+Franchement il y a moyen de rester&nbsp;
+bloqué quelques minutes avant de trouver&nbsp;&nbsp;
+
+00:33:29.360 --> 00:33:32.640
+la logique. C'est beaucoup moins évident que&nbsp;
+les exemples que j'ai montrés tout à l'heure.
+
+00:33:32.640 --> 00:33:36.680
+Le corpus de cette version 2 d'ARC-AGI&nbsp;
+a été testé sur un panel d'humain,&nbsp;&nbsp;
+
+00:33:36.680 --> 00:33:39.840
+et en moyenne ils résolvent 62% des&nbsp;
+tâches avec un temps de réflexion&nbsp;&nbsp;
+
+00:33:39.840 --> 00:33:44.000
+médian supérieur à 2 minutes, là&nbsp;
+où avec la version 1 d'ARC-AGI un&nbsp;&nbsp;
+
+00:33:44.000 --> 00:33:48.200
+panel d'humain dans les mêmes conditions&nbsp;
+peut réussir pas loin de 98% des tâches.
+
+00:33:48.200 --> 00:33:51.000
+Je note aussi qu'ils ont pas testé les&nbsp;
+tâches sur la plateforme Mechanical Turk&nbsp;&nbsp;
+
+00:33:51.000 --> 00:33:53.960
+alors qu'ils l'avaient fait pour la&nbsp;
+version 1 (et ça ne donnait que 77%&nbsp;&nbsp;
+
+00:33:53.960 --> 00:33:56.880
+de réussite – parce que les gens vont&nbsp;
+vite et font un minimum d'effort).
+
+00:33:56.880 --> 00:33:59.280
+Là pour cette version 2 ce serait&nbsp;
+sans doute nettement moins,&nbsp;&nbsp;
+
+00:33:59.280 --> 00:34:03.200
+peut-être même pas 50%. Parce que de fait&nbsp;
+elles sont pas si faciles, ces tâches.
+
+00:34:03.200 --> 00:34:07.000
+Bien sûr elles sont accessibles au sens où elles&nbsp;
+ne nécessitent pas d'expertise particulière,&nbsp;&nbsp;
+
+00:34:07.000 --> 00:34:11.040
+donc c'est abordable pour n'importe qui a&nbsp;
+priori, mais il y a moyen de se tromper à&nbsp;&nbsp;
+
+00:34:11.040 --> 00:34:14.360
+son premier essai ou de bloquer sur une&nbsp;
+bonne partie d'entre elles quand même.
+
+00:34:14.360 --> 00:34:18.720
+Due à cette difficulté accrue, pour le moment,&nbsp;
+les meilleurs modèles ne dépassent pas 10% de&nbsp;&nbsp;
+
+00:34:18.720 --> 00:34:22.560
+réussite à la version 2 d'ARC-AGI. Celui&nbsp;
+qui fait le mieux avec 8% c'est le modèle&nbsp;&nbsp;
+
+00:34:22.560 --> 00:34:27.040
+de raisonnement Claude-Opus-4 qui vient de&nbsp;
+sortir, avec un budget de près de 2$ par tâche.
+
+00:34:27.040 --> 00:34:30.320
+Je crois que l'indication 16K là correspond&nbsp;
+au budget de tokens dans la chain of thought,&nbsp;&nbsp;
+
+00:34:30.320 --> 00:34:33.440
+on voit que plus le budget est important plus&nbsp;
+le pourcentage de bonnes réponses augmente,&nbsp;&nbsp;
+
+00:34:33.440 --> 00:34:35.080
+et donc on peut présumer qu'en poussant plus loin&nbsp;&nbsp;
+
+00:34:35.080 --> 00:34:37.560
+on pourrait encore augmenter&nbsp;
+ce taux de bonnes réponses.
+
+00:34:37.560 --> 00:34:40.480
+Notez que les versions de o3 qui sont&nbsp;
+indiquées là ce sont les versions publiques,&nbsp;&nbsp;
+
+00:34:40.480 --> 00:34:44.840
+ça monte à 6,5% avec un coût inférieur à&nbsp;
+1$. Mais on n'a pas le score que pourrait&nbsp;&nbsp;
+
+00:34:44.840 --> 00:34:49.400
+faire la version surboosté de o3 avec&nbsp;
+ses 57 millions de token par réponse.
+
+00:34:49.400 --> 00:34:51.640
+Parce que ça c'est un test que&nbsp;
+OpenAI avait fait dans son coin,&nbsp;&nbsp;
+
+00:34:51.640 --> 00:34:53.920
+et ils l'ont pas refait pour la&nbsp;
+nouvelle version du benchmark.
+
+00:34:53.920 --> 00:34:55.920
+Ceci dit j'ai entendu François Chollet estimer que&nbsp;&nbsp;
+
+00:34:55.920 --> 00:34:59.705
+ce o3 surboosté pourrait atteindre&nbsp;
+déjà 15% de réponse correcte.
+
+00:35:08.480 --> 00:35:12.560
+Pour synthétiser les choses, voici&nbsp;
+le leaderboard d'ARC-AGI à l'heure&nbsp;&nbsp;
+
+00:35:12.560 --> 00:35:16.880
+actuelle : en bleu ce sont les performances&nbsp;
+à la version 1, et en rouge à la version 2.
+
+00:35:16.880 --> 00:35:20.480
+L'axe des abscisses représente le coût&nbsp;
+par tâche (et c'est logarithmique,&nbsp;&nbsp;
+
+00:35:20.480 --> 00:35:23.120
+donc là on passe 1 à 10$, là de 10 à 100).
+
+00:35:23.120 --> 00:35:25.840
+Et en ordonnée on a le&nbsp;
+pourcentage de tâches réussies.
+
+00:35:25.840 --> 00:35:28.920
+Notez que le résultat de la version&nbsp;
+mégaboostée de o3 à 88% de bonnes&nbsp;&nbsp;
+
+00:35:28.920 --> 00:35:31.320
+réponses ça n'apparaît pas sur ce graph :&nbsp;
+je pense que c'est parce que ça a pas été&nbsp;&nbsp;
+
+00:35:31.320 --> 00:35:34.520
+confirmé de façon indépendante (et aussi c'était&nbsp;
+compliqué aussi d'estimer le coût par tâche),&nbsp;&nbsp;
+
+00:35:34.520 --> 00:35:38.080
+mais sinon ça devrait apparaître&nbsp;
+quelque part par là pour ARC-AGI-1,&nbsp;&nbsp;
+
+00:35:38.080 --> 00:35:41.320
+et peut-être vers 15% pour la version&nbsp;
+2 mais ça c'est encore plus incertain.
+
+00:35:41.320 --> 00:35:45.840
+L'intelligence humaine, elle est représentée dans&nbsp;
+cette zone-là pour la version 1 d'ARC-AGI, ce sont&nbsp;&nbsp;
+
+00:35:45.840 --> 00:35:49.920
+tous ces points, avec le point plus bas c'est pour&nbsp;
+les participants recrutés sur Mechanical Turk.
+
+00:35:49.920 --> 00:35:53.480
+Et pour la version 2 d'ARC-AGI, ça devrait&nbsp;
+être plus bas normalement : ce point&nbsp;&nbsp;
+
+00:35:53.480 --> 00:35:58.000
+rouge là il devrait être à 62% je sais pas&nbsp;
+pourquoi ils ont indiqué 100% de réussite.
+
+00:35:58.000 --> 00:36:00.640
+Alors en fait, j'ai fini par trouver&nbsp;
+l'explication. Effectivement,&nbsp;&nbsp;
+
+00:36:00.640 --> 00:36:04.440
+au niveau individuel, le taux n'est que&nbsp;
+de 62 % de réussite. Mais ce que François&nbsp;&nbsp;
+
+00:36:04.440 --> 00:36:08.360
+Chollet souligne dans sa présentation, c'est&nbsp;
+que si on prend un panel de 10 humains et&nbsp;&nbsp;
+
+00:36:08.360 --> 00:36:11.600
+qu'on retient la solution majoritaire, on&nbsp;
+profite d'un effet sagesse des foules et&nbsp;&nbsp;
+
+00:36:11.600 --> 00:36:16.000
+du coup ça monte à 100 %. Mais c'est un&nbsp;
+peu bizarre d'avoir noté ce résultat-là&nbsp;&nbsp;
+
+00:36:16.000 --> 00:36:19.640
+comme ça et pas le résultat au niveau&nbsp;
+individuel qui me semble être ce à quoi&nbsp;&nbsp;
+
+00:36:19.640 --> 00:36:24.240
+on pense quand on présente le niveau humain&nbsp;
+de performance à ce type de test. Mais bref.
+
+00:36:24.240 --> 00:36:27.840
+Le prix ARC-AGI sera donc gagné quand&nbsp;
+il y aura des points dans cette zone en&nbsp;&nbsp;
+
+00:36:27.840 --> 00:36:32.040
+vert en haut à gauche, c'est-à-dire des&nbsp;
+performances d'un bon niveau humain pour&nbsp;&nbsp;
+
+00:36:32.040 --> 00:36:35.880
+un coût très inférieur, et vous voyez&nbsp;
+qu'on n'y est pas encore, loin de là.
+
+00:36:35.880 --> 00:36:39.840
+Tous les autres points ce sont divers systèmes&nbsp;
+d'intelligence artificielle basés sur des LLM.&nbsp;&nbsp;
+
+00:36:39.840 --> 00:36:44.200
+Et on voit bien un fossé entre les performances&nbsp;
+humaines et celles des meilleurs modèles, un fossé&nbsp;&nbsp;
+
+00:36:44.200 --> 00:36:49.100
+pas si large dans le cas d'ARC-AGI-1, mais assez&nbsp;
+large quand même pour la version 2 effectivement.
+
+00:36:49.100 --> 00:36:52.080
+- C'est ça la puissance intellectuelle.
+
+00:36:52.080 --> 00:36:55.680
+J'ai commencé en disant : nous sommes&nbsp;
+plus intelligents que les machines.
+
+00:36:55.680 --> 00:36:59.040
+Eh bien ce graphique en est, en&nbsp;
+quelque sorte, une représentation.
+
+00:36:59.040 --> 00:37:01.920
+Les points qui correspondent&nbsp;
+aux humains sont au-dessus.
+
+00:37:01.920 --> 00:37:04.800
+En tout cas, pour le moment,&nbsp;
+alors que j'enregistre ces mots.
+
+00:37:04.800 --> 00:37:08.680
+Mais faut bien voir que les progrès qui ont été&nbsp;
+faits récemment sont très impressionnants : tous&nbsp;&nbsp;
+
+00:37:08.680 --> 00:37:12.600
+ces points-là qui représentent des modèles,&nbsp;
+ils n'existaient pas il y a juste un an.
+
+00:37:12.600 --> 00:37:17.280
+Il y a un an, les meilleurs décollaient à peine&nbsp;
+de la ligne du bas pour la version 1 d'ARC-AGI, et&nbsp;&nbsp;
+
+00:37:17.280 --> 00:37:22.320
+auraient été collés à zéro pour la version 2. Tous&nbsp;
+ces divers modèles sont apparus en l'espace de&nbsp;&nbsp;
+
+00:37:22.320 --> 00:37:26.320
+quelques mois seulement. Et d'ailleurs peut-être&nbsp;
+qu'au moment où vous consulterez ce leaderboard&nbsp;&nbsp;
+
+00:37:26.320 --> 00:37:29.720
+(dont je vais vous mettre le lien en description,&nbsp;
+c'est régulièrement mis à jour), il y aura de&nbsp;&nbsp;
+
+00:37:29.720 --> 00:37:35.120
+nouveau points dessus beaucoup plus proche de la&nbsp;
+zone humaine ou même de la zone verte, qui sait ?
+
+00:37:35.120 --> 00:37:39.040
+Ce benchmark donne un signal dont il&nbsp;
+est intéressant de suivre l'évolution,&nbsp;&nbsp;
+
+00:37:39.040 --> 00:37:42.480
+voilà pourquoi je voulais vous en parler, mais&nbsp;
+faut pas non plus exagérer sa signification.
+
+00:37:42.480 --> 00:37:43.767
+Ou comme le formule François Chollet :
+
+00:37:54.720 --> 00:37:56.440
+Quand pourra-t-on parler d'intelligence générale&nbsp;&nbsp;
+
+00:37:56.440 --> 00:37:59.760
+artificielle alors ? François Chollet&nbsp;
+aime bien résumer les choses ainsi.
+
+00:37:59.760 --> 00:38:03.520
+"Vous saurez que l'AGI est arrivée quand&nbsp;
+l'exercice de créer des tâches qui soit&nbsp;&nbsp;
+
+00:38:03.520 --> 00:38:08.080
+faciles pour les humains mais difficiles pour&nbsp;
+l'IA devient tout simplement impossible."
+
+00:38:08.080 --> 00:38:11.240
+Alors certes c'est pas impossible aujourd'hui&nbsp;
+mais le fait est que ça devient de plus en plus&nbsp;&nbsp;
+
+00:38:11.240 --> 00:38:16.120
+difficile. Essayez là de me donner un exemple de&nbsp;
+tâche qui sera réussie par plus de 95% des êtres&nbsp;&nbsp;
+
+00:38:16.120 --> 00:38:21.040
+humains pris au hasard, mais qu'aucun système d'IA&nbsp;
+actuel ne peut réussir avec un taux similaire.
+
+00:38:21.040 --> 00:38:24.680
+Vous pourrez en trouver encore bien sûr (c'est&nbsp;
+en gros ce que ARC-AGI-2 essaye de proposer),&nbsp;&nbsp;
+
+00:38:24.680 --> 00:38:28.720
+mais il faudrait être aveugle ou très&nbsp;
+mal informé pour ne pas constater que&nbsp;&nbsp;
+
+00:38:28.720 --> 00:38:33.920
+l'espace de ces tâches se réduit de plus en&nbsp;
+plus et à un rythme inédit. Et notez qu'en&nbsp;&nbsp;
+
+00:38:33.920 --> 00:38:37.680
+parallèle les modèles s'améliorent aussi&nbsp;
+et même davantage sur des tâches relevant&nbsp;&nbsp;
+
+00:38:37.680 --> 00:38:41.280
+d'expertises de plus en plus pointues,&nbsp;
+comme en témoignent les performances sur&nbsp;&nbsp;
+
+00:38:41.280 --> 00:38:45.320
+Humanity's Last Exam ou Frontiers Maths. Ou&nbsp;
+encore les dévouvertes d'AlphaEvolve, etc.
+
+00:38:45.880 --> 00:38:50.520
+Alors vous pourrez toujours refuser de considérer&nbsp;
+que tout cela manifeste la moindre once de VRAIE&nbsp;&nbsp;
+
+00:38:50.520 --> 00:38:54.200
+intelligence, parce qu'il manquera toujours aux&nbsp;
+machines ce je-ne-sais-quoi qui fait briller&nbsp;&nbsp;
+
+00:38:54.200 --> 00:38:58.680
+l'oeil des Enthoven, mais ça change rien à&nbsp;
+toutes ces performances et à la trajectoire&nbsp;&nbsp;
+
+00:38:58.680 --> 00:39:03.960
+que cela suit, et j'ai l'impression que pinailler&nbsp;
+sur l'usage approprié ou non du mot "intelligence"&nbsp;&nbsp;
+
+00:39:03.960 --> 00:39:09.440
+pour en parler est surtout une façon de se mettre&nbsp;
+la tête dans le sable pour éviter d'y réfléchir.
+
+00:39:09.440 --> 00:39:10.560
+Et c'est pas une bonne idée.
+
+00:39:10.560 --> 00:39:12.600
+Rien ne va disparaître juste parce qu'on trouve ça&nbsp;&nbsp;
+
+00:39:12.600 --> 00:39:15.920
+trop triste ou trop effrayant de&nbsp;
+parler de machines intelligentes.
+
+00:39:15.920 --> 00:39:19.640
+Mieux vaut regarder ces réalités en&nbsp;
+face, et des benchmarks comme ARC-AGI&nbsp;&nbsp;
+
+00:39:19.640 --> 00:39:23.320
+sont particulièrement bien adaptés&nbsp;
+pour mesurer et suivre tout ça.
+
+00:39:23.320 --> 00:39:25.680
+Voilà pourquoi je voulais&nbsp;
+vous présenter ça aujourd'hui.
+
+00:39:25.680 --> 00:39:28.040
+C'est, je pense, l'une des&nbsp;
+façons les plus intelligentes&nbsp;&nbsp;
+
+00:39:28.040 --> 00:39:30.000
+de parler d'intelligence pour les machines.
+
+00:39:32.440 --> 00:39:35.920
+Merci d'avoir regardé cette vidéo. Et&nbsp;
+un grand merci à toutes celles et ceux&nbsp;&nbsp;
+
+00:39:35.920 --> 00:39:38.000
+qui me soutiennent sur les plateformes de dons.
+
+00:39:38.000 --> 00:39:40.400
+C'est grâce à vous que toutes ces vidéos existent.
+
+00:39:40.400 --> 00:39:44.120
+J'en profite pour signaler notre podcast&nbsp;
+avec Redek où on se lit des textes et on&nbsp;&nbsp;
+
+00:39:44.120 --> 00:39:48.040
+en discute. Ça s'appelle tout simplement&nbsp;
+"Lectures". L'épisode 2 parle de la mort&nbsp;&nbsp;
+
+00:39:48.040 --> 00:39:51.400
+et il y a le 3 qui va sortir bientôt&nbsp;
+qui parlera des méchants. Voilà,&nbsp;&nbsp;
+
+00:39:51.400 --> 00:39:55.400
+si vous voulez nous entendre lire et&nbsp;
+causer de littérature, c'est fait pour ça.
+
+00:39:55.400 --> 00:39:59.080
+J'ai des Philosopherview qui vont venir à la&nbsp;
+rentrée, avec des guests de qualité, vous allez&nbsp;&nbsp;
+
+00:39:59.080 --> 00:40:02.160
+voir. Voilà, c'est tout pour aujourd'hui. On&nbsp;
+se revoit bientôt pour une prochaine vidéo.
+
+00:40:02.160 --> 00:40:03.280
+En attendant, portez-vous bien.
+
+00:40:03.280 --> 00:40:05.643
+Et je vous souhaite d'être&nbsp;
+généralement intelligent.
+

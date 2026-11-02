@@ -1,0 +1,1384 @@
+---
+source_url: https://www.youtube.com/watch?v=gnRkQHAZ1XU
+video_title: Séance 16 du jeudi 19 novembre
+generated_at: 2026-09-20T17:23:52.375Z
+llm:
+  model: deepseek-flash
+  duration_seconds: 110.9
+  input_tokens: 31895
+  cached_input_tokens: 0
+  output_tokens: 29673
+  estimated_cost_usd: 0.022588
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Séance 16 du jeudi 19 novembre
+
+Bien bonjour, bienvenue à ce cours d’histoire d’introduction à l’analyse
+économique. On va reprendre le cours. Aujourd’hui, le cours est sponsorisé par
+le café de la faculté de droit, d’économie et de gestion : en tant
+qu’enseignant, j’ai eu droit à un magnifique café, et comme je commence ma
+journée à 8 heures, j’ai décidé de faire court avec du café pour me donner un
+peu de courage. Normalement je fais une pause de dix minutes, mais je pense que
+je vais sans doute ne pas faire de pause, parce que j’aimerais terminer dix
+minutes avant : j’enchaîne sur un autre cours après, et je préfère faire une
+pause entre les deux. Donc on fera une heure cinquante, une heure quarante-cinq
+peut-être, on verra.
+
+Regardez ici : on a presque fini le chapitre 5, et on a presque fini le cours 1
+du semestre. On est à la diapo 140 sur 195, donc il en reste beaucoup moins. Je
+vous propose de commencer directement et de reprendre les questions du chapitre
+5 très brièvement avant d’aborder le chapitre 6.
+
+## Reprise du chapitre 5
+
+Évidemment, la première question à avoir en tête, ce sont les questions de
+définition : il faut savoir les définitions, notamment les expressions en rouge.
+Qu’est-ce que la détermination des échanges ? C’est le fait qu’on ne sait pas à
+quel prix un échange interindividuel peut se conclure, puisque les prix de
+réserve de l’acheteur et du vendeur sont parfois assez éloignés l’un de l’autre,
+et que le prix peut théoriquement se trouver n’importe où. Comment le marché
+fait-il pour les autres biens ? En déterminant un prix, un prix normal. Comment
+fait-il cela ? Parce qu’on a des marchandises qui sont comparables et une unité
+monétaire qui est la même, ce qui permet de comparer correctement les prix. Si
+on avait un marché avec du troc, on ne pourrait pas faire ces comparaisons.
+
+Pourquoi et comment réguler le marché ? Pourquoi ? Parce qu’on peut ne pas être
+satisfait du système de marché. Comment ? On peut limiter le marché dans son
+étendue, on peut faire en sorte de développer du non-marchand dans l’économie —
+puisque l’économie n’est pas que le marchand, elle peut aussi être non
+marchande, avec des services publics. On peut aussi intervenir sur le marché en
+régulant les prix, en instaurant des normes. Réguler les prix, c’est par exemple
+le cas du SMIC, qui régule les prix sur le marché du travail.
+
+Les principes de l’économie néoclassique concernant le comportement des
+consommateurs : les consommateurs sont des agents rationnels, ils ont une
+contrainte de budget, ils essaient de maximiser leur utilité. C’est cela le
+principe : ils observent les prix et répondent à ces prix par des comportements
+d’achat. Qu’est-ce qui explique que, dans le modèle néoclassique, la courbe de
+demande collective du marché soit décroissante en fonction du prix ? Il faut
+revenir sur l’utilité marginale décroissante et reconstruire la courbe de
+demande individuelle, puis dire que la demande collective est la somme de toutes
+les demandes individuelles. Puisque toutes les demandes individuelles sont
+décroissantes, on va forcément avoir une courbe de demande collective
+décroissante elle aussi.
+
+Je passe sur quelques questions : savoir déterminer le niveau de production le
+plus efficace, le niveau de production optimale en fonction du prix de marché,
+calculer le profit et le représenter graphiquement. Ça, vous allez faire ça en
+TD normalement, mais il faut savoir le faire. On l’a vu à la fin du chapitre 1 :
+représenter le profit, cela veut dire représenter la surface qui se trouve au
+niveau du prix. Comment trouve-t-on cette surface ? On fait la différence entre
+le prix et le coût moyen à l’échelle de la quantité à produire, puis on
+multiplie par les quantités. Comment trouve-t-on le coût moyen ? L’endroit où
+l’entreprise arrête de produire, c’est le moment où la courbe de coût marginal
+croise la courbe des prix. On repère donc ce niveau, puis on repère au même
+niveau les coûts moyens, et on multiplie.
+
+Qu’est-ce qui explique que, dans le modèle néoclassique, la courbe d’offre
+collective du marché soit croissante en fonction du prix ? C’est un peu la
+question symétrique de celle qu’on a vue tout à l’heure. C’est bien sûr les
+rendements décroissants. Là aussi, il faut expliquer. J’ai peut-être envie de
+rajouter une question sur la libre entrée : il est intéressant de voir les
+hypothèses sur lesquelles sont fondés les modèles du marché néoclassiques, comme
+on les a vues aux dernières diapos. Je vais sans doute rajouter une question.
+Vous verrez les questions, j’ai peut-être revu un peu certaines choses que je
+vais marquer. J’aimerais rajouter une question sur pourquoi, à l’équilibre, le
+taux de profit des producteurs est nul dans le modèle néoclassique. Pourquoi ?
+Parce qu’on a l’hypothèse de libre entrée. Je vais donc marquer cela et je
+rajouterai cette question ; ça vous demandera un peu plus de révisions, mais ça
+fait partie des concepts importants de l’économie néoclassique.
+
+## Chapitre 6 : la monnaie
+
+Maintenant, je vous propose de commencer le chapitre 6, un chapitre extrêmement
+intéressant, consacré à la monnaie. La monnaie, c’est l’argent avec lequel on
+achète, on vend. Mais il ne faut pas penser que la monnaie est forcément quelque
+chose de physique, qu’on touche. C’est vrai quand il s’agit de pièces et de
+billets, mais c’est aussi tout ce que vous avez sur votre compte. L’essentiel de
+la monnaie moderne n’est pas physique : il est dans les comptes bancaires des
+uns et des autres, et vous payez avec cette monnaie avec votre carte bleue, etc.
+
+La monnaie est quelque chose qui existe depuis longtemps, mais qui a été une
+invention. Il y a des sociétés qui n’utilisent pas de monnaie, en tout cas pas
+de monnaie telle qu’on la conçoit aujourd’hui, c’est-à-dire une monnaie qui sert
+à acheter des choses. On n’a jamais trouvé de pièces de monnaie dans les tribus
+d’Amérique du Nord, par exemple, parce que les chasseurs-cueilleurs, ou
+certaines sociétés de chasseurs-cueilleurs, ont des échanges, bien sûr, mais ces
+échanges se passent d’une autre manière que par la monnaie. Et puis on a des
+sociétés — je vous invite à lire David Graeber, le livre *Dette : 5000 ans
+d’histoire*, dont je vous ai déjà parlé — dans lesquelles existe de la monnaie,
+mais cette monnaie n’a pas du tout la même fonction que celle qu’on a
+aujourd’hui. Attention donc : quand on parle de monnaies, on mélange parfois des
+choses qui peuvent être extrêmement différentes.
+
+Je vais maintenant parler de la monnaie, une monnaie spécifique, celle qu’on
+utilise aujourd’hui. Je vais essayer de répondre dans ce cours à deux grandes
+questions, et je rajouterai aussi trois petits éléments qui ne répondent pas
+directement aux questions mais qu’il faut savoir. La première question : d’où
+vient la valeur de la monnaie ? Pourquoi la monnaie est-elle acceptée
+aujourd’hui comme moyen de paiement ? Pourquoi les gens sont-ils contents
+d’avoir de la monnaie ? Et pourquoi peut-on dire que la monnaie a de la valeur,
+alors que, si on y réfléchit deux minutes, la monnaie dont je parle — une
+monnaie de compte bancaire, une monnaie scripturale, un jeu d’écritures — n’a
+pas d’utilité en soi ? On ne peut pas la manger, on ne peut pas en faire
+grand-chose. Elle n’a d’utilité que parce qu’elle a une valeur d’échange. On va
+donc réfléchir à pourquoi les chiffres que vous avez sur votre compte sont de la
+monnaie, pourquoi le papier-monnaie de 50 euros vaut beaucoup plus que la pièce
+de 50 centimes, alors qu’on peut penser qu’il y a plus de matière dans la pièce
+de 50 centimes.
+
+La deuxième question, aussi extrêmement intéressante et qui trouble beaucoup de
+gens : d’où vient la monnaie ? Comment la monnaie est-elle créée aujourd’hui
+dans l’économie ? Pourquoi est-ce que tout d’un coup on va voir, par exemple,
+qu’en 2018 il y a plus de monnaie disponible qu’en 2010, ou qu’en 1950 ? Comment
+est-ce possible ? On voit bien que la monnaie progresse parce que l’économie et
+la prospérité globale progressent, mais qu’est-ce qui fait que la monnaie
+augmente ? Si la monnaie peut être créée par quelqu’un, cette personne doit être
+extrêmement puissante, puisqu’elle devrait avoir la capacité de produire tout
+l’argent du monde. Nous verrons que c’est un peu plus compliqué que ça : en
+réalité, personne ne crée la monnaie à lui seul. Plus précisément, la monnaie
+est créée par l’ensemble. Quelqu’un qui a moins 10 euros sur son compte n’a pas
+de monnaie au sens strict, mais il a emprunté à sa banque. Si vous avez moins 10
+euros sur votre compte, cela veut dire que vous avez emprunté à votre banque.
+
+Comme je bois mon café en même temps, je fais des pauses, et comme je fais des
+pauses, je vous permets de noter davantage, parce que je sais que je parle un
+peu vite.
+
+### Les fonctions de la monnaie
+
+Avant de répondre à ces deux grandes questions, il faut faire un petit point sur
+les fonctions de la monnaie, c’est-à-dire à quoi elle sert. C’est un truc très
+classique, qu’on retrouve dans tous les manuels. On va dire que la monnaie sert
+à trois grandes choses dans la société.
+
+La première chose, c’est qu’elle est un moyen d’échange. Cela veut dire que sa
+fonction première — même si certaines personnes risquent de ne pas dissocier les
+différentes fonctions — est d’être un moyen d’échange. La monnaie permet de
+donner à ceux qui la possèdent une capacité de payer des dettes, d’acheter des
+choses, et cela facilite beaucoup les échanges, justement, puisque tout le monde
+se retrouve sur un moyen d’échange commun. Le fait de disposer de la monnaie
+qu’on peut utiliser à tout moment pour acheter n’importe quel bien, c’est ce
+qu’on appelle la liquidité. La monnaie est donc associée à quelque chose qui est
+échangeable à 100 %, qui est toujours accepté en contrepartie de n’importe quoi.
+Un actif échangeable extrêmement facilement et toujours accepté en échange,
+cette propriété s’appelle la liquidité. Pour le redire : la monnaie, c’est ce
+qui sera toujours accepté en échange de quelque chose.
+
+Je vais même vous dire un truc : la monnaie, on n’a pas le droit de la refuser.
+Un commerçant n’a pas le droit de vous refuser un paiement en monnaie. Alors, il
+a le droit de refuser un paiement en liquide, c’est-à-dire en papier-monnaie,
+parce que c’est la loi qui le dit. Si vous devez payer — je ne sais plus quelle
+est la limite — plus de 1000 euros pour un objet que vous achetez, vous n’avez
+pas le droit de payer en argent liquide. Cela sert à éviter les transactions en
+liquide qui sont très souvent la source de revenus illégaux, c’est-à-dire que
+les revenus illégaux passent souvent par des transactions qui ne laissent pas de
+traces, par la monnaie en liquide. On essaie donc de limiter cette monnaie
+liquide en limitant ce qu’on peut acheter avec. C’est typiquement le cas en
+France, où c’est assez dur parce qu’on a l’habitude de payer par carte bancaire,
+alors que dans d’autres pays comme en Allemagne, par exemple, on a plutôt
+l’habitude de payer en billets. Là-bas, on peut acheter beaucoup plus de choses
+avec de l’argent liquide.
+
+Bref, quand je parle de liquidité, je ne parle pas que d’argent physique : je
+parle bien sûr aussi d’argent électronique. Aujourd’hui, l’essentiel des
+transactions en France se fait en argent électronique. Un commerçant peut vous
+refuser un billet de 500 euros s’il n’a pas envie de vous rendre la monnaie sur
+500 euros, ou s’il doute que ce billet soit vrai. Il peut donc refuser une forme
+de paiement, mais il ne peut pas refuser un paiement en monnaie en euros si la
+forme convient. On ne peut pas non plus payer uniquement en pièces rouges : on
+peut demander aux gens de payer autrement. Je veux dire par là qu’on ne peut pas
+refuser la monnaie, mais on peut refuser la forme monétaire. On peut refuser des
+billets de 500 euros. D’ailleurs, c’est dans la loi : si quelqu’un vous paye un
+smartphone à 500 euros avec des pièces d’un centime, vous avez tout à fait le
+droit de refuser. Je crois qu’il y a une limite maximum ; on peut toujours
+accepter, mais on a le droit de refuser si on vous donne trop de pièces. Donc on
+a le droit de refuser l’argent liquide, et on a même le devoir de refuser
+l’argent liquide pour les paiements importants. Par contre, on ne peut pas
+refuser la monnaie. Concrètement, vous devez accepter un paiement en monnaie si
+la forme est respectée. C’est pareil si vous voulez payer dans certains
+commerces un truc en carte bleue et que ce que vous avez acheté vaut 50 centimes
+: le commerçant a le droit de refuser parce qu’il a des frais de transaction ;
+il faudra alors payer en monnaie, en pièces. Mais, au contraire, quand vous avez
+une transaction importante, vous n’avez pas le droit de la payer en billets ou
+en pièces. Bref, tout ça pour dire que malgré le fait qu’il y ait des lois qui
+distinguent les formes de paiement — billets, pièces, monnaie sous forme de
+carte bancaire ou de chèques — il est impossible de refuser la monnaie en guise
+de paiement. Cela signifie que la monnaie a cours légal.
+
+La monnaie a cours légal : cela veut simplement dire que la loi l’y oblige. Le
+commerçant doit accepter la monnaie, même si la loi permet de réguler la forme
+de monnaie que vous prenez. C’est aussi le meilleur moyen de comprendre ce
+qu’est le cours légal : d’un pays à l’autre, d’une zone monétaire à l’autre, ce
+n’est pas la même monnaie qui a cours légal. Typiquement, en France, il est
+interdit de payer en dollars, en livres sterling ou dans d’autres monnaies,
+alors que dans d’autres pays il est illégal de payer en euros. C’est très
+important pour un pays qui veut rester souverain sur son économie : éviter que
+des gens paient en monnaies étrangères. Donc, on ne peut pas accepter la monnaie
+étrangère dans un pays qui veut préserver sa souveraineté monétaire.
+
+La deuxième chose : la monnaie sert aussi à autre chose de très différent. Il
+faut bien distinguer ses fonctions. La monnaie est aussi une unité de compte.
+Une unité de compte, cela veut dire que la monnaie permet de comptabiliser la
+valeur. C’est très important. Pourquoi je dissocie la monnaie comme moyen
+d’échange et la monnaie comme unité de compte ? Parce qu’on peut tout à fait
+dissocier les deux. Par exemple, on peut comptabiliser la comptabilité d’une
+entreprise en dollars alors même qu’on est en France et qu’on n’échange pas de
+dollars. Cela a été fait avant l’euro : on avait des entreprises européennes qui
+étaient sur différents sites européens et qui voulaient avoir une comptabilité
+globale en mélangeant les filiales situées en Allemagne, en Espagne, en Italie,
+en France. On était donc embêté : comment faire pour comptabiliser la valeur de
+l’entreprise puisqu’on avait plein de monnaies différentes ? On utilisait à
+l’époque l’ECU, un panier de monnaies européennes, qui était en quelque sorte
+l’ancêtre de l’euro. L’ECU n’existait pas comme monnaie de paiement : on ne
+pouvait pas payer en ECU, mais on pouvait comptabiliser ou faire sa comptabilité
+en ECU.
+
+Cela a pu se faire aussi au Moyen Âge. David Graeber, dans son livre, explique
+que la monnaie de Charlemagne n’a pas duré très longtemps parce que l’empire de
+Charlemagne n’a pas duré très longtemps. En 800 après Jésus-Christ, Charlemagne
+se fait couronner empereur ; il a un énorme territoire en France et aussi en
+Allemagne, jusqu’à Aix-la-Chapelle. Il va répartir son empire en trois royaumes
+pour ses trois fils, et très vite l’empire ne résiste pas à cette répartition ;
+les États redeviennent un peu indépendants. La monnaie de Charlemagne n’a donc
+quasiment pas été frappée pendant très longtemps, elle n’a pas beaucoup circulé.
+Par contre, elle est restée comme unité de compte pendant des siècles. Au XVe
+siècle, on utilisait encore la monnaie de Charlemagne pour faire la
+comptabilité, parce que c’était la référence en matière comptable : chacun
+savait sa valeur. Mais cette monnaie n’existait plus depuis très longtemps. On
+pouvait donc comptabiliser la monnaie dans une monnaie virtuelle, en quelque
+sorte. C’était aussi parce qu’à l’époque il y avait beaucoup de monnaies
+différentes qui circulaient en Europe, et on n’avait pas besoin de décider
+quelle monnaie avait quel cours pour les comptabiliser. La monnaie de
+Charlemagne a donc pu être utilisée très longtemps comme unité de compte alors
+même qu’elle n’était pas un moyen d’échange. C’est pour cette raison qu’il faut
+bien dissocier les deux.
+
+Souvenez-vous : quand on a fait le chapitre III, on a regardé l’économie
+chinoise et l’économie américaine pour pouvoir comparer les flux
+d’investissement, les flux d’exportations. On avait la même unité de compte, le
+dollar américain, et cela permettait de comparer les grandes masses. Évidemment,
+le PIB chinois n’est pas comptabilisé en dollars.
+
+La raison pour laquelle on a besoin d’une unité de compte pour déterminer la
+valeur, c’est parce que la valeur est quelque chose d’extrêmement important. La
+valeur est importante parce qu’elle permet de faire des choix. Une entreprise va
+choisir tel ou tel choix de commandes, elle va choisir de faire telle ou telle
+action, de produire de telle ou telle façon. Souvenez-vous, on vient de le voir
+dans le chapitre précédent : faut-il plutôt des machines ou plutôt des hommes ?
+Qu’est-ce qu’on a fait pour réfléchir sur la manière dont les entreprises
+choisissent ? On a regardé combien ça coûte. L’unité de compte permet donc de
+comparer les valeurs, elle permet de savoir ce qui a le plus de valeur et ce qui
+en a moins, et de ce fait d’économiser ce qui a le plus de valeur, par exemple
+de préserver ce qui a le plus de valeur et éventuellement de gaspiller ce qui en
+a le moins. Quelque part, ce que fait la valeur, c’est qu’elle organise une
+hiérarchie : elle dit voilà ce qui est important et ce qui est moins important.
+C’est à ça que sert la valeur.
+
+Mais ce qui est intéressant, c’est que cette valeur, qui pourrait être une
+valeur purement économique, n’est pas uniquement économique. Concrètement,
+regardons la valeur des individus dans une société : la puissance économique, le
+pouvoir, la capacité d’agir sur la société, vont dépendre des revenus. Quand on
+hiérarchise la valeur des biens, on hiérarchise aussi les individus. On va
+considérer par exemple qu’un banquier est mille fois mieux payé qu’une
+aide-soignante ; quelque part, on peut dire qu’il produit mille fois plus de
+valeur que l’aide-soignante. Mais quand on réfléchit, ce n’est pas aussi évident
+que ça en termes humains : l’aide-soignante permet de sauver des vies. Est-ce
+que le banquier produit plus de valeur que l’aide-soignante ? Ce qui est
+intéressant, c’est que la manière dont la société détermine la valeur est
+finalement tributaire de la manière de la comptabiliser d’un point de vue
+économique. Et comment est-elle comptabilisée d’un point de vue économique ? Par
+l’intermédiaire du marché, évidemment. Le marché détermine les prix, donc les
+salaires, donc le revenu du banquier ; il détermine aussi quelque part le revenu
+de l’aide-soignante. En même temps, il nous donne une hiérarchie de ce qui vaut
+ce qu’il vaut, de ce qui est important de préserver ou non. En faisant cela, il
+va nous donner l’impression que telle chose a plus de valeur que telle autre.
+D’ailleurs, il va le marquer : concrètement, on va voir la valeur en regardant
+le prix des choses, en regardant les salaires des gens.
+
+Mais est-ce que cette valeur est la vraie valeur ? Est-ce que socialement on est
+tous d’accord pour dire que la valeur des gens, c’est uniquement leur salaire ?
+Est-ce qu’on est tous d’accord pour dire que la valeur des choses, c’est
+uniquement leur prix ? Pensez au fait que, quand on dit qu’il faut sauver le
+climat, qu’il faut préserver des ressources naturelles, des forêts vierges,
+etc., on parle de choses qui pour nous ont de la valeur, mais qui n’ont pas
+forcément de valeur économique. Tout ça pour vous dire que la monnaie construit,
+par le fait d’être une unité de compte, une forme de hiérarchie dans la valeur,
+et en même temps elle ne permet pas toujours de déterminer des valeurs telles
+que nous les considérons individuellement, selon notre morale, nos principes
+éthiques, nos valeurs, selon la manière dont nous aurions envie que les choses
+soient considérées.
+
+Autre exemple : quelle est la valeur d’une vie humaine ? Qu’est-ce que
+l’économie peut nous dire là-dessus ? Si on demandait quelle est la valeur d’une
+vie humaine d’un point de vue économique, on pourrait simplement dire que c’est
+toute la richesse qu’on va créer. Par exemple, vous avez 20 ans : on peut
+espérer que vous aurez une vie active de 42, 43 ans, plus si la retraite est
+repoussée. Si vous mourez maintenant, vous ne créerez pas tout un ensemble de
+production de richesses, et donc votre vie vaut cela. Mais si on commence à
+raisonner comme ça, on se dit : cette personne de 70 ans qui a un Covid,
+finalement, c’est un coût pour la société ; elle ne produit plus de richesses,
+elle est à la retraite, donc ne produit pas de valeur. Vous voyez bien que ce
+raisonnement est très problématique. La valeur n’est pas qu’économique : la
+valeur, c’est aussi une valeur de sentiments, le fait que cette personne âgée
+produit du service, le fait qu’on va avoir tendance à venir... La valeur
+humaine, c’est l’être humain ; la valeur du bien-être humain ne peut pas être
+quantifiée. Bref, cette question de la valeur est très complexe : elle s’analyse
+différemment selon qu’on considère le champ purement économique ou qu’on analyse
+des questions plus sociales. Mais ce qui est intéressant avec la monnaie, c’est
+qu’on arrive toujours à calculer une valeur monétaire. On a un calcul qui se
+fait par rapport aux prix de marché, par rapport à une quantification. Le
+problème, c’est qu’il n’y a pas forcément consensus sur le fait que ce qui est
+déterminé par le marché en termes de valeur sera la vraie valeur. On se retrouve
+donc devant une réflexion extrêmement importante : les conflits d’éthique, de
+morale, de valeurs qui peuvent exister entre notre conception personnelle,
+collective ou culturelle de la valeur et la quantification que nous donne
+l’économie ou le marché.
+
+Cette hiérarchie des biens et des individus, que permet le marché parce qu’il
+donne des prix aux choses, construit un ordre économique, un ordre social.
+Posséder beaucoup d’argent, posséder beaucoup de choses, dit aussi qu’on a un
+fort pouvoir politique et social. Mais en même temps, elle ne permet pas
+forcément de nous accorder tous sur le fait que cette valeur est une vraie
+valeur, parce qu’on a aussi d’autres dimensions qui ne sont pas prises en compte
+dans la question économique. Ce conflit entre la société, nos valeurs sociales,
+notre identité culturelle, tout un ensemble de choses, et ce que nous donne
+l’économie, fait partie des grandes réflexions que j’ai en tant qu’économiste.
+C’est au cœur de l’économie du réel. Certains d’entre vous savent que le
+chapitre IV parle justement de cela. C’est aussi au cœur des réflexions sur le
+néolibéralisme et le populisme. Finalement, le néolibéralisme est une forme de
+gestion de l’économie, mais cette gestion n’est pas acceptée par les gens qui
+ont l’impression que ce système ne correspond pas à leur valeur ni à leurs
+attentes ; ils vont donc se révolter politiquement en élisant des leaders
+populistes ou en organisant des manifestations populistes. Ce que j’essaie de
+vous dire, c’est que la société n’est pas réductible à l’économie. Et ce n’est
+pas juste un point de vue éthique, moral ou politique : concrètement, quand on
+veut organiser l’ensemble de l’économie et de la société selon les seules
+valeurs économiques, très souvent ça ne fonctionne pas, et on se retrouve avec
+des mouvements politiques extrémistes ou des problèmes sociaux extrêmement
+graves. Je ferme la parenthèse, mais je voulais en parler parce que c’est le
+cœur de mon travail actuellement, et c’est lié au fait que la monnaie quantifie
+de la valeur. On ne peut pas lui reprocher de faire ça, mais cette
+quantification est parfois problématique.
+
+J’avais oublié un deuxième sous-paragraphe : la monnaie tend à objectiver des
+choses qui sont subjectives. Tout à l’heure, je vous ai dit que, quand on fait
+des échanges interindividuels, on est dans l’ordre de l’intérêt individuel, et
+qu’on n’est pas capable de s’entendre sur le prix parce que chacun peut avoir
+une représentation différente. Par contre, ce qui est intéressant avec la
+monnaie, c’est qu’en tant qu’unité de compte, elle détermine une valeur, et
+cette valeur est objective dans le sens où elle est le produit des interactions
+de l’ensemble des agents sur le marché. Cette capacité à quantifier les choses
+est quand même assez unique : tout le monde sait que 15 euros, c’est plus que 14
+euros, que 10 euros, et que 35 euros, c’est plus que 15 euros. La quantification
+permet de ne plus être dans le ressenti, dans l’incommensurable, dans
+l’incapacité à comparer des choses, mais au contraire d’être totalement dans la
+comparaison. La monnaie en tant qu’unité de compte permet ce genre de
+comparaison et donc d’organiser une forme d’objectivation de la vie.
+
+Souvenez-vous du chapitre 1 : je vous ai dit que l’économie est une science, ou
+pourrait être une science. Pour avoir un discours objectif, il nous faut des
+instruments de mesure, notamment des instruments de mesure de la valeur et de la
+richesse. On va donc utiliser le PIB. Le gros avantage du PIB, c’est qu’il est
+un instrument objectif de mesure de la production et de la richesse produite.
+Mais le problème, c’est qu’en faisant cela, on a supprimé tous les ressentis,
+tout ce qui correspond à l’intérêt individuel ou à des choses beaucoup plus
+subjectives. C’est un avantage parce que ça permet de faire de la science, mais
+c’est aussi un inconvénient si on pense que tout se réduit à ça dans les
+relations sociales, parce qu’en réalité tout ne se réduit pas à ça. On verra en
+histoire des faits économiques comment l’émergence de la monnaie et des marchés
+transforme aussi les rapports humains, parce que ça fait partie des grandes
+questions.
+
+Je suis un peu lent, je continue, mais je pense que ce sont des choses
+importantes à apprendre. En tant qu’économiste, il faut comprendre l’intérêt
+extraordinaire de la pensée économique d’un côté, et en même temps comprendre
+aussi les limites de cette pensée. En comptabilisant tout, en réduisant tout à
+une valeur, on engendre aussi des biais dans la perception. Quand on est un
+économiste responsable, il faut donc connaître aussi les limites de son propre
+savoir.
+
+### La monnaie comme réserve de valeur
+
+La monnaie a une troisième fonction : une fonction de réserve de valeur. Cela
+veut dire que détenir de la monnaie, c’est détenir un droit à consommer,
+c’est-à-dire un droit à prélever des richesses. Plus j’ai d’argent, plus j’ai de
+droits. Un étudiant qui a moins 10 euros sur son compte n’a aucun droit à
+prélever de la richesse : il n’a pas d’argent. En fait, il peut se débrouiller,
+être un peu plus en déficit, mais concrètement, le souci de ne plus avoir de
+monnaie sur soi, c’est qu’on perd son droit. Et le droit qu’on perd, c’est le
+droit de faire travailler les autres pour soi. À l’inverse, quand on a de la
+monnaie et qu’on la capitalise — 100 euros, 200 euros, 3000 euros, 50 000 euros
+sur son compte — on a prélevé une forme de réserve de valeur qu’on peut utiliser
+à tout moment pour faire travailler les autres pour soi. Faire travailler les
+autres pour soi, c’est acheter dans le magasin quelque chose qui a été produit
+par le travail d’un autre ; du coup, cette personne me doit quelque chose.
+
+En vous disant ça, je suis en train de vous dire quelque chose qu’il faut garder
+en coin de votre esprit, parce que je pense que c’est très important : la
+monnaie, c’est forcément de la dette. Détenir de la monnaie, c’est détenir une
+créance sur les autres, sur le travail des autres. Le fait même de détenir de la
+monnaie est déjà une forme de violence sociale. Je ne dis pas qu’il ne faut pas
+détenir de monnaie, que ce n’est pas bien, je dis simplement que le fait que
+quelqu’un ait de l’argent devant lui veut dire qu’il a le droit de faire
+travailler les autres pour lui. Faire travailler les autres pour soi avec un
+droit — j’ai le droit de vous faire travailler — vous voyez bien que c’est un
+rapport de domination sur un autre, et donc derrière cette domination il y a
+forcément une forme de violence.
+
+Pourquoi je vous dis ça ? Parce que j’ai des amis qui défendent des conceptions
+monétaires dans lesquelles ils disent qu’il est possible de créer de la monnaie
+sans dette. J’ai un ami sur Facebook, que je connais un peu, qui a publié un
+livre cette année, en début d’année, qui s’appelle *Pour une monnaie
+écologique*, de Nicolas Dufresne et Alain Grandjean, chez Odile Jacob. Dans ce
+livre, les auteurs militent pour un instrument de monnaie libre destiné à
+financer les besoins écologiques de la société. En fait, ce qui me gêne — il y a
+plein de choses bien dans ce bouquin, la question n’est pas là — c’est qu’ils
+finissent par dire, et je vous invite à lire les interviews de Nicolas Dufresne
+notamment, lorsqu’il parle de monnaies libres, de monnaies sans dette : il dit
+que le problème de la création monétaire, c’est qu’elle est toujours le produit
+d’une dette. C’est vrai, il a raison. Mais le fait que la création monétaire
+soit le produit d’une dette, c’est parce que toute monnaie est par définition
+une dette. Toute monnaie signifie que, quand vous détenez la monnaie, vous avez
+une créance sur quelqu’un, sur la société : la société vous doit des choses. Et
+le fait que cette monnaie ait cours légal — ce que j’ai dit tout à l’heure,
+qu’on ne peut pas la refuser — veut dire en quelque sorte que, lorsque vous
+passez commande et que vous demandez à quelqu’un de travailler pour vous, il ne
+peut pas refuser son métier, il doit accepter. Donc la monnaie est par nature
+une dette. Dire qu’on va créer une monnaie sans dette est pour moi absurde, ce
+n’est pas possible d’un point de vue théorique par rapport à ce qu’est la
+monnaie. La monnaie, c’est toujours une dette.
+
+Il ne faut pas penser qu’on peut créer une monnaie sans dette. Par ailleurs,
+cela veut dire aussi que la dette n’est pas un mal en soi. La monnaie, c’est une
+créance ; c’est l’envers d’une dette, c’est-à-dire ce qu’on vous doit. Le fait
+que les gens ne passent leur temps à se devoir des choses les uns aux autres,
+c’est ça qui fait qu’on est des êtres sociaux, qu’on vit dans une civilisation.
+Le fait de devoir des choses aux autres n’est pas un mal en soi. Ne pensez pas
+que la dette, c’est mal : elle n’est ni mal ni bien. Je veux dire qu’une société
+où on ne devrait rien aux autres, où il n’existerait que des individus qui ne
+devraient rien à personne et qui se comporteraient de manière isolée, n’aurait
+pas de relations sociales. Là aussi, je vous renvoie au livre de David Graeber,
+*Dette : 5000 ans d’histoire*, parce que c’est justement ce qu’il explique : à
+quel point la dette structure la société, la créance et la dette structurent la
+société. Vouloir une monnaie sans dette, non seulement c’est une contradiction
+dans les termes, puisque la monnaie est forcément de la dette, mais en plus
+c’est ne pas comprendre que la société est un système dans lequel les uns et les
+autres nous devons des choses. Seulement, ce que dit David Graeber, c’est qu’il
+y a des choses quantifiables et des choses non quantifiables. Je ne veux pas
+parler maintenant de ce que sont la dette et la créance, des différentes formes
+de dettes et de créances ; Graeber nous dira qu’il y a des formes légitimes et
+des formes moins légitimes de créances et de dettes. Je n’irai pas jusque-là.
+
+Bref, ce que je veux dire ici, c’est que détenir de la monnaie, c’est détenir
+une créance, c’est-à-dire détenir une capacité de faire travailler les autres
+pour soi.
+
+Il faut faire attention à quelque chose : quand je dis que la monnaie est une
+réserve de valeur, je parle ici à l’échelle individuelle. Moi, si je détiens de
+l’argent sur mon compte, j’ai le droit d’utiliser cet argent pour demander à
+d’autres de travailler. Mais à l’échelle de la société, à l’échelle de la
+collectivité, si tout le monde détient de la monnaie, eh bien ça ne correspond
+pas forcément à une réserve de valeur. En fait, je suis en train de vous dire
+que la monnaie n’a de valeur que lorsqu’elle est détenue individuellement ; si
+elle est détenue à l’échelle de l’ensemble de la société, elle perd sa valeur.
+Pourquoi ? Imaginons un contexte possible à l’échelle individuelle mais
+impossible à l’échelle collective. Vous avez des individus qui ont accumulé,
+mettons, 10 millions d’euros sur leur compte. Le jour où je reçois 10 millions
+d’euros, je ne vais plus faire de cours : j’ai autre chose à faire dans la vie.
+J’adore faire des cours, mais il y a plein d’autres choses que j’adore faire. Si
+j’ai 10 millions d’euros, j’arrête de travailler, et c’est très bien : je peux
+consommer toute ma vie tranquillement, avoir une vie confortable sans travailler
+pour le reste de mon existence. Ça, c’est tout à fait possible à l’échelle
+individuelle.
+
+Mais essayons d’étendre le raisonnement à l’échelle collective. Maintenant, je
+décide — parce qu’après tout j’ai le pouvoir de création monétaire — que je vais
+donner 10 millions d’euros à tous les Français, même à tous les habitants de la
+Terre. Qu’est-ce qui va se passer ? Tous les habitants de la Terre décident de
+ne plus travailler ; ils ont raison, ils font comme moi. Mais le problème, c’est
+qu’il va falloir se nourrir quand même, se loger. Il va falloir que des gens
+produisent les choses dont vous avez besoin. Si plus personne ne travaille, avec
+leurs millions d’euros, ils n’achèteront plus rien. Là, on arrive à un problème
+: quelque chose de vrai à l’échelle individuelle — avoir de l’argent de côté est
+une réserve de valeur — n’est plus vrai à l’échelle collective quand tout le
+monde a de l’argent de côté. Il n’y a plus de réserve de valeur possible parce
+que plus personne ne va travailler à côté pour vous donner les services dont
+vous avez besoin.
+
+Je vais vous dire les choses d’une autre manière. Pendant les qualifications,
+quand j’étais jeune enseignant au début des années 2000, je faisais un cours en
+IUT, un peu ce cours d’introduction à l’analyse économique, et je cherchais
+comment concevoir ce cours. Je regardais ce qu’il y avait dans les manuels. J’ai
+pris un manuel de BTS, parce que le programme est parfois un peu similaire. Dans
+ce manuel, il y avait la question des retraites, traitée de cette façon : à la
+fin des années 90, on disait que le problème de la retraite par répartition, le
+système d’aujourd’hui, c’est que les cotisants d’aujourd’hui payent les
+retraités d’aujourd’hui. Le manuel disait que ça pose problème parce qu’à cause
+de l’effet démographique, il y a de plus en plus de personnes âgées et de moins
+en moins de personnes en âge de travailler, donc le ratio actifs/retraités se
+dégrade, donc il faut prélever de plus en plus de cotisations. Le manuel
+concluait qu’il fallait passer à une retraite par capitalisation, c’est-à-dire
+faire en sorte de préserver de l’argent de côté pour payer les retraites dans
+vingt ou trente ans, lorsque le nombre de retraités serait plus important. En
+fait, c’était complètement idiot : ça ne peut pas fonctionner comme ça, pour la
+raison que j’ai dite tout à l’heure. Si vous mettez collectivement de l’argent
+de côté en pensant que ça va résoudre le problème, au moment où tout le monde
+prendra sa retraite, ça ne résoudra pas le problème, parce que les retraités de
+dans 20 ans ne consommeront pas la production d’aujourd’hui. On ne peut pas
+mettre de côté une partie de la richesse produite aujourd’hui. Si vous produisez
+un smartphone aujourd’hui et que vous espérez qu’avec ça vous allez pouvoir le
+vendre et en tirer la valeur dans 30 ans, vous vous créez de graves difficultés
+: aujourd’hui, personne n’a envie d’acheter les téléphones d’il y a trente ans,
+qui étaient à peine des téléphones portables. Évidemment, personne n’aura envie
+de consommer la production de 30 ans. Cela veut dire qu’on ne préserve pas de la
+richesse d’aujourd’hui pour la distribuer dans trente ans, et surtout qu’on ne
+peut pas faire ça. L’argent que vous avez capitalisé aujourd’hui et que vous
+cherchez à dépenser dans 30 ans dépendra de la production de richesses dans 30
+ans. Si dans 30 ans il y a moins d’actifs, on aura moins de valeur. Il est donc
+impossible de capitaliser, d’épargner à l’échelle collective. C’est ce qu’il
+faut bien comprendre : la monnaie comme réserve de valeur, c’est vrai à
+l’échelle individuelle, et avec tout ce que j’ai expliqué, c’est un pouvoir de
+faire travailler les autres. Mais s’il n’y a plus d’autres personnes pour
+travailler, ce pouvoir disparaît et votre monnaie n’a plus aucune valeur.
+
+Je ne vais pas vous poser ce genre de questions en cours. Je vous donne
+simplement ces éléments pour nourrir votre réflexion. Je vous demande juste de
+connaître les fonctions de la monnaie et d’être capable d’en dire deux ou trois
+choses. C’est l’heure de prendre un peu de café. Je sais que vous prenez des
+notes : essayez de prendre les notes de manière intelligente, c’est-à-dire de
+résumer la pensée. Ne vous contentez pas de tout écrire, parce que sinon vous
+n’y arriverez jamais.
+
+## D’où vient la valeur de la monnaie ?
+
+Grande question : qu’est-ce qui fait que la monnaie a de la valeur ? Pour vous
+répondre, je vais essayer de vous montrer comment différentes formes de monnaie
+peuvent tirer leur valeur de leur forme, qui peut être différente, et en même
+temps on va voir comment la monnaie a eu de la valeur, ou comment la valeur de
+la monnaie a pu être différente d’une société à l’autre, d’un moment de
+l’histoire à l’autre.
+
+La première forme de monnaie, celle qui permet d’avoir une première réponse à la
+question, c’est ce qu’on appelle la monnaie marchandise. La monnaie marchandise,
+c’est une monnaie physique qui, au départ, n’est pas une monnaie mais une
+marchandise. C’est un bien particulier qui possède une valeur : sa valeur, c’est
+sa valeur d’usage. C’est utile pour faire quelque chose, et donc ça a de la
+valeur. Ce bien va finir par devenir monnaie, c’est-à-dire qu’il va être utilisé
+non seulement en tant que bien, en tant que marchandise — il a une utilité
+propre — mais aussi en tant que moyen d’échange. Il va donc acquérir une autre
+utilité, celle d’être échangeable et de disposer de la liquidité maximale. Être
+échangeable, ça veut dire disposer de la liquidité. Je reviens sur cette idée :
+plus un objet, un actif, est facile à échanger, plus on va considérer qu’il a de
+la liquidité.
+
+Concrètement, qu’est-ce que cette monnaie marchandise ? C’est justement l’or,
+l’argent, les métaux précieux. L’or est un bien physique, une marchandise : ça
+peut se vendre, ça peut s’utiliser, on peut l’utiliser dans la joaillerie, dans
+la fabrication de bijoux, dans l’industrie aussi. L’argent, pareil : c’est un
+métal qui a des qualités propres et qui fait qu’on a envie de le détenir. Mais
+on a pu avoir d’autres sortes de monnaie. Dans certaines sociétés, il n’y avait
+pas de métaux précieux : on a utilisé les coquillages comme monnaie d’échange.
+On a pu utiliser du bétail : on achète, on vend avec du bétail. On a pu utiliser
+aussi des céréales comme monnaie. Pourquoi je vous dis ça ? Parce que le blé,
+les céréales, c’est aussi de l’argent. Le fric, c’est des céréales ; l’oseille,
+ce n’est pas des céréales, mais ça se mange aussi. Aujourd’hui, dans le jargon,
+on a retrouvé les traces d’une monnaie céréales, qui sans doute représente la
+manière dont les gens échangeaient des choses dans les villages traditionnels
+avant la révolution industrielle. Jusqu’à la révolution industrielle,
+l’essentiel de la population de France, sur le territoire français, avait assez
+rarement de la monnaie. Évidemment, les gens n’avaient pas de comptes bancaires
+; la seule monnaie qu’ils pouvaient voir, c’était la monnaie physique. Mais les
+pièces de bronze, d’argent et d’or ne circulaient pas des masses dans les
+campagnes. Donc comment les gens faisaient-ils pour échanger ? Ils échangeaient
+avec des moutons, des vaches, des céréales, du blé. Je pense que si aujourd’hui
+on parle de blé pour parler d’argent, c’est parce que dans les villages, pendant
+très longtemps, ça a été l’unité d’échange pour tout ce qui avait un peu de
+valeur. Cela pouvait d’ailleurs être comptabilisé en monnaie officielle, mais
+comme la monnaie officielle, on ne la voyait jamais, on pouvait s’échanger en
+blé. Ça repose en partie sur l’analyse de David Graeber ; ce n’est pas
+totalement certain, on ne peut pas généraliser à l’ensemble des sociétés. Il y
+avait sans doute des villages où il y avait beaucoup de circulation monétaire,
+où tout se faisait en monnaie, et d’autres où il y avait très peu de monnaie. Là
+aussi, il faudrait remonter dans le temps pour voir comment les choses se
+passaient.
+
+Avec cette monnaie marchandise, la question qui peut se poser, c’est : comment
+se fait-il qu’une monnaie devienne marchandise ? Là, il suffit de regarder ce
+qui peut se passer dans certaines communautés. L’exemple que j’aime bien
+prendre, même si je n’ai pas de connaissances particulières à ce niveau, c’est
+celui des prisons. Dans les prisons, très vite, pour se rendre des services
+mutuels, on utilise ce qu’on a sous la main, et ce qu’on a sous la main, ce sont
+des cigarettes. On a donc une monnaie cigarettes en prison. Comment se fait-il
+que, de tous les objets dont on dispose, ce soit la cigarette qui devienne la
+monnaie ? Là aussi, il faut se mettre dans les circonstances. Pour qu’une
+marchandise acquière une valeur monétaire, il faut qu’elle ait des
+caractéristiques propres qui la rendent propre à l’usage monétaire. Ces
+caractéristiques sont les suivantes.
+
+Premièrement, pour qu’un objet devienne monnaie, il faut qu’il soit rare ou
+difficile à produire. On comprend bien pourquoi : si je prends comme monnaie une
+marchandise que n’importe qui peut produire très facilement, alors on va tous se
+retrouver très riches, parce qu’on aura tous su acquérir cette monnaie, et en
+faisant cela, la monnaie perd de la valeur et perd de l’intérêt. Concrètement,
+ça n’a aucun intérêt d’avoir une monnaie que tout le monde possède en masse.
+Est-ce que les cigarettes en prison ont cette caractéristique ? Ce ne sont pas
+des biens rares, les cigarettes, ce ne sont pas des biens tellement difficiles à
+produire. Mais en fait, quand on est en prison, on ne peut pas en produire :
+toutes les cigarettes viennent forcément de l’extérieur. Donc ça remplit la
+condition du point de vue des prisonniers. Du point de vue de la société, ce
+n’est pas possible d’avoir des cigarettes comme monnaie, parce que sinon on en
+produirait des tonnes et des tonnes, parce que c’est très facile à produire en
+masse, et on se retrouverait avec une trop forte abondance monétaire. Mais du
+point de vue des prisonniers, oui, la cigarette peut faire office de monnaie.
+
+Deuxième condition, pour des raisons pratiques : la monnaie doit pouvoir être
+divisible, c’est-à-dire qu’elle doit pouvoir être utilisable pour différentes
+formes de transactions, de valeurs différentes. Il faut pouvoir faire des
+transactions de grosse valeur et des transactions de faible valeur. Si on prend
+la monnaie « voiture », par exemple, ou la monnaie « bétail » : c’était une
+bonne idée, le bétail pouvait faire office de monnaie, mais ce n’est pas
+vraiment divisible, parce que sinon le bétail meurt si on commence à le diviser
+trop. On se retrouve donc devant un problème : la monnaie doit pouvoir être
+divisible pour servir à la fois aux transactions de faible valeur et aux
+transactions de forte valeur. Est-ce qu’on trouve la divisibilité dans les
+cigarettes ? J’ai envie de dire que oui : on peut tout à fait se dire que les
+objets de valeur qu’on échange peuvent être des objets de faible valeur, et donc
+ces objets de faible valeur, on va les acheter, les vendre avec quelques
+cigarettes, parfois une seule cigarette. On ne va pas couper une cigarette en
+deux, mais ça suffira. Et si on a des services à se rendre qui valent un peu
+plus, on peut échanger des paquets de cigarettes, voire des cartouches de
+cigarettes. Évidemment, on va arriver à une limite : si on veut acheter une
+maison en prison, on ne va pas pouvoir la payer en cigarettes. Mais en général,
+en prison, on n’a pas de maison, puisqu’on est déjà logé gratuitement.
+Concrètement, on voit bien le problème que pose une monnaie non divisible.
+Finalement, en prison, comme on n’a que des objets de faible valeur à échanger,
+la divisibilité peut être tout à fait acceptable pour les échanges de services
+que les uns et les autres peuvent se rendre.
+
+Troisième caractéristique de la monnaie marchandise : si on veut que cette
+marchandise soit utilisable sous forme de monnaie, il faut qu’elle soit durable
+et solide. Ça paraît un peu évident : comme la monnaie a pour fonction de servir
+de réserve de valeur, on a besoin que cette réserve ne fonde pas. Si on prend un
+sandwich au thon comme unité monétaire, on ne va pas le garder très longtemps,
+parce qu’au bout d’un an il va sentir mauvais, il ne sera plus comestible, il va
+pourrir. On ne peut donc pas avoir ce genre de marchandise comme monnaie. On a
+besoin d’une monnaie qui soit une marchandise durable, qui ne se dégrade pas
+trop dans le temps. Là aussi, on voit bien que les métaux précieux ont cette
+caractéristique principale : l’or ou l’argent sont des métaux nobles, qui ne
+rouillent pas, qui gardent leur valeur au cours du temps. C’est très important.
+On voit aussi que les cigarettes fonctionnent parce que, globalement, même si on
+les garde longtemps, elles n’auront peut-être pas la même qualité au bout d’un
+certain temps, mais elles ont une durée de vie suffisamment longue pour rester
+une marchandise utile. J’ai dit divisible : les métaux sont très pratiques pour
+ça, parce qu’on peut les fondre, les peler, ils gardent leur valeur de métal. Le
+fait que de l’or soit en petite quantité sous forme de pièces ou en grosse
+quantité sous forme de lingots, on peut facilement transformer des pièces en
+lingots et vice versa, donc on peut facilement diviser l’or. Les cigarettes sont
+durables aussi.
+
+Quatrième caractéristique : pour qu’une monnaie soit utile, pour qu’une
+marchandise soit utile lorsqu’elle est monétarisée, il faut également qu’elle
+soit transportable facilement. Cela veut dire qu’il faut que l’on puisse
+l’utiliser sous forme d’un échange qui peut avoir lieu à un autre endroit. Là
+aussi, tout dépend des caractères de la société. Si on veut commercer juste dans
+son village, on pourrait penser à une monnaie qui pourrait être un arbre
+fruitier, par exemple. Pourquoi pas ? Plutôt que de vendre des vaches, on
+pourrait avoir un arbre fruitier. On ne peut l’avoir que dans le cadre du
+village, parce que tout le monde sait où il est, l’arbre, et les fruits peuvent
+apparaître, peuvent être échangés selon la personne qui est propriétaire de
+l’arbre. Par contre, si on veut échanger très loin, ça ne sera plus possible.
+Concrètement, l’or et l’argent sont utiles pour ça parce qu’ils sont
+transportables. À l’inverse, l’arbre fruitier, on peut difficilement le
+transporter avec soi et le donner à quelqu’un si la personne est loin. Donc il y
+a nécessité pour la monnaie, pour la marchandise, d’être transportable. Une
+marchandise peut devenir monnaie si elle remplit ces quatre conditions.
+
+Je reviens sur une chose très intéressante et très importante. Tout à l’heure,
+je vous ai dit que les cigarettes, qui sont des marchandises, des biens
+physiques, ont de la valeur en tant que telles et sont utilisables. Elles
+peuvent acquérir une capacité monétaire notamment dans des circonstances comme
+les prisons, où on échange des biens de peu de valeur, où on ne peut pas
+produire de cigarettes, et donc on se retrouve avec un bien qui garde toutes ces
+caractéristiques. Mais à partir du moment où une cigarette acquiert une valeur
+monétaire, cela veut dire qu’elle a une valeur propre au-delà de sa valeur
+d’usage. Là, je reviens à la question d’origine : qu’est-ce qui fait que la
+monnaie a de la valeur ? Je vous ai répondu : la monnaie a de la valeur parce
+qu’elle s’appuie sur une marchandise qui a de la valeur. L’or a de la valeur, la
+cigarette a de la valeur, et donc sa valeur vient de la marchandise. Mais à
+partir du moment où une marchandise commence à devenir monnaie, alors elle
+acquiert une valeur supplémentaire, qui n’est pas liée à son statut de
+marchandise.
+
+Je reprends l’exemple des cigarettes. Moi, je ne fume pas. Je suis en prison,
+les gens s’échangent des cigarettes. Si je n’ai pas l’utilité des cigarettes, je
+n’ai aucune raison d’acquérir des cigarettes ; donc pour moi, la cigarette n’a
+aucune utilité, je ne fume pas. Mais au moment où la cigarette devient la
+monnaie, c’est-à-dire l’outil avec lequel on va pouvoir s’offrir des services,
+acheter des choses mutuellement, alors là il apparaît une évidence : même moi,
+étant non-fumeur, je vais avoir besoin de cigarettes, non pas pour les fumer,
+mais simplement pour les échanger contre d’autres objets ou services. Donc cette
+cigarette, qui avait une certaine valeur lorsqu’elle n’était que cigarette,
+acquiert une autre valeur lorsqu’elle devient monnaie. Cela veut dire que je
+suis en train de vous dire des choses contradictoires : je vous dis que la
+monnaie marchandise tire sa valeur du fait qu’elle est adossée à une marchandise
+qui a de la valeur, et en même temps je vous dis que la marchandise tire une
+partie de son utilité et donc de sa valeur du fait qu’elle est monnaie. La
+question qui finit par se poser est de savoir si c’est la monnaie qui tire sa
+richesse de la marchandise ou si c’est la marchandise qui tire sa valeur du fait
+qu’elle est monnaie.
+
+Prenons l’or. Tout le monde est d’accord pour dire que l’or a de la valeur. Très
+souvent, on nous explique la valeur de l’or par le fait que l’or est rare. En
+fait, ce n’est pas vrai : l’or n’est pas spécialement rare. Beaucoup de choses
+sont plus rares que l’or. L’or est rare parce qu’aujourd’hui il est stocké en
+lingots dans les coffres des banques centrales, et que tout ce qu’on peut
+récupérer dehors, on le met dans des lingots dans des coffres. Cela veut dire
+que l’or est relativement abondant sur la planète ; en tout cas, il n’est pas
+beaucoup moins abondant que d’autres métaux. Seulement, l’usage qu’on en fait,
+c’est de le stocker dans des coffres sans l’utiliser. Quand on y pense, c’est un
+peu bizarre, un peu absurde comme situation. Pourquoi fait-on ça ? Parce qu’en
+réalité, ce qui fait que l’or a de la valeur aujourd’hui, ce n’est pas vraiment
+le fait qu’il ait un grand usage. La preuve, c’est qu’on l’entrepose dans les
+coffres, ce qui est vraiment l’utilisation la plus bête qu’on puisse trouver
+pour un objet : on ne l’utilise pas, on n’en fait pas d’outils, de bijoux, on
+n’en fait pas grand-chose, on le met dans des coffres. En plus, ça nous coûte
+cher, parce que garder des coffres de lingots d’or — vous savez que les plus
+grandes réserves d’or du monde sont sous la ville de New York, dans les
+sous-sols de la banque centrale de New York — ça coûte cher de stocker cet or.
+On n’a aucun usage de cet or, mais moi j’ai envie de vous dire que l’or ne tire
+pas beaucoup de valeur de la marchandise, mais de sa qualité monétaire. Je suis
+en train de vous dire que la monnaie tire sa valeur de la marchandise dont elle
+est produite, et en même temps, quand on réfléchit deux minutes, on s’aperçoit
+que si l’or a de la valeur aujourd’hui, ce n’est pas du tout parce qu’il a une
+utilité propre, c’est parce qu’il est monnaie. Cela veut dire que le fait de
+devenir monnaie transforme complètement la valeur qu’on peut avoir des
+marchandises. Tout ce que je suis en train de vous dire, c’est que ça ne marche
+pas vraiment : la valeur de la monnaie marchandise ne vient pas vraiment de la
+marchandise ; c’est même l’inverse, la valeur de la marchandise, de l’or, vient
+plutôt de sa qualité monétaire. Laissons ça ; vous réécouterez le passage si
+vous voulez bien comprendre.
+
+Deuxièmement, une monnaie peut avoir de la valeur non pas parce qu’elle est
+adossée à une marchandise — c’est encore plus subtil — mais parce qu’elle est
+adossée à un titre de propriété. La monnaie peut être juste la propriété d’une
+marchandise, et non pas la marchandise elle-même. Qu’est-ce que je veux dire par
+là ? Une chose très simple : vous avez de l’or, vous voulez transporter cet or
+pour payer quelque chose. Mettons qu’on est dans une monnaie marchandise, la
+monnaie-or classique. Le problème, c’est que transporter de l’or, c’est
+compliqué. Donc vous n’allez pas transporter de l’or, vous allez transporter la
+propriété de l’or. C’est-à-dire que vous dites : voilà, cet or existe quelque
+part, j’en suis propriétaire, et je vais transférer la propriété à quelqu’un.
+Quand on réfléchit comme ça, cela veut dire que la monnaie n’est pas l’or au
+sens strict ; la monnaie, c’est la propriété de l’or. Cela veut dire qu’on est
+en train de parler d’une monnaie qui est monnaie papier, de titres de propriété.
+Ça a été très longtemps utilisé ; c’est l’invention de ce qu’on appelle la
+monnaie scripturale, dès le Moyen Âge. Je vous parle du Moyen Âge en Europe,
+mais on a pu avoir d’autres circonstances dans lesquelles ce type de monnaie
+circulait. Au Moyen Âge en Europe, c’est ce qu’on appelait des lettres de
+crédit. Une lettre de crédit, c’est une créance qu’on va se faire les uns aux
+autres, en se reposant sur une tierce personne pour échanger la propriété de
+cette créance, c’est-à-dire le fait qu’on possède quelque chose chez cette
+tierce personne. Je vais vous l’expliquer avec un petit schéma.
+
+On dit aussi parfois lettre de change, mais la lettre de change est un peu plus
+complexe, puisque normalement il y a aussi une opération de change dedans,
+c’est-à-dire qu’on va changer d’une unité monétaire à une autre. Ici, on ne va
+pas changer d’unité monétaire ; on va considérer que la monnaie, c’est l’or, et
+que cette monnaie est comptabilisée en poids, en grammes. Au Moyen Âge, on
+n’utilisait pas d’euros, mais peu importe : l’idée est juste de réfléchir
+théoriquement.
+
+Voilà le schéma. Il y a une banque, mettons la banque A. Nous avons un homme, je
+suis très original, il s’appelle Pierre, et Pierre possède de l’or, mais il n’a
+pas envie de se trimballer de l’or tout le temps. Il a envie de pouvoir se
+déplacer sans son or physiquement présent sur lui. Donc il va faire une
+opération de dépôt : il va déposer son or dans la banque A, c’est-à-dire dans
+les coffres de la banque A. Il va demander à la banque A de garder cet or pour
+lui. En échange, qu’est-ce qu’il va recevoir ? Une créance, donc une lettre de
+crédit. La banque A va dire : voilà, vous avez déposé un kilo d’or, donc 1000
+grammes d’or chez moi, et je vous fais une reconnaissance de dette. Je vous dis
+: voilà, vous possédez un kilo d’or dans mon coffre, parmi tous les kilos d’or
+que j’ai, un kilo vous appartient. Voilà ce que dit la banque.
+
+Maintenant, Pierre peut se déplacer, il peut faire autre chose. Il peut
+rencontrer Julie. Julie a une maison et Julie souhaite vendre sa maison à
+Pierre, et Pierre souhaite acheter la maison de Julie. Alors, deux choses : il
+peut retourner à la banque A, montrer sa lettre de crédit, dire « j’ai besoin de
+récupérer mes 1000 grammes d’or », puis aller voir Julie et la payer en or pour
+acheter sa maison. Mais c’est un peu compliqué. Donc ce qu’il va plutôt faire,
+c’est autre chose : il va acheter la maison de Julie en écrivant une nouvelle
+lettre de crédit, donc une créance qui va dire la chose suivante. Admettons que
+la maison de Julie soit vendue 800 grammes d’or. Il va dire : sur les 1000
+grammes d’or que je possède, 800 appartiennent maintenant à Julie. Évidemment,
+il faut que Julie ait confiance en Pierre, il faut qu’elle puisse vérifier que
+Pierre a bien 1000 grammes d’or à la banque. Pierre lui montre le papier : «
+Regardez, j’ai la créance de la banque. » Mais attention, Pierre peut être un
+malin : il peut avoir montré ce papier à différentes personnes et avoir acheté à
+chaque fois 800 grammes d’or. Quand on fait ça, c’est illégal : on dit qu’on
+fait un chèque sans provision. Vous avez une créance de la banque, mettons de
+1000 euros ; vous faites un premier chèque de 800 euros, il est valide ; si vous
+faites un deuxième chèque de 800 euros, puis un troisième, etc., vous n’en avez
+pas le droit et vous allez en prison. C’est ce qu’on appelle faire des chèques
+sans provision. Donc ici, on va considérer que tout le monde se fait confiance,
+et qu’il existe un mécanisme qui permet d’éviter ce genre de chose, ne serait-ce
+qu’un système légal avec une loi très dure. Pierre sait bien ce qu’il risque,
+donc il ne va pas faire un chèque sans provision. Il va dire : voilà, maintenant
+vous, Julie, vous possédez 800 grammes d’or que je possède parmi les mille que
+je possède à la banque.
+
+Julie, qu’est-ce qu’elle va faire avec sa lettre de créance ? Elle pourrait tout
+à fait aller voir la banque A et lui demander de récupérer 800 grammes d’or.
+Mais la banque est loin, elle se trouve peut-être à 200 km, et Julie a beaucoup
+voyagé depuis que Pierre a déposé son or. Elle n’a pas du tout envie de faire
+tout ce trajet pour récupérer 800 grammes d’or. Donc qu’est-ce qu’elle va faire
+? Elle va aller à sa banque à elle, la banque B — là aussi dans les noms, je
+suis très original. Elle va montrer le papier de Pierre et récupérer 800 grammes
+d’or à la banque B. La banque B lui donne de l’or. D’où vient cet or ? Elle a
+des déposants qui ont déposé de l’or dans ses coffres, et donc on va lui donner
+de l’or qui appartient à quelqu’un d’autre. Du coup, que va-t-il se passer ? La
+banque B a moins d’or, elle a perdu de l’or dans ses coffres. Qu’est-ce qu’elle
+va faire ? Elle va se mettre d’accord avec la banque A. Alors, deux choses :
+soit elle dit à la banque A « ça serait bien que vous me donniez les 800 grammes
+d’or que vous doit Pierre », de manière à ce qu’elle ait dans son coffre de quoi
+compenser la perte qu’elle a eue ; soit, en fait, ce qu’elle va faire — et c’est
+ce qui se passe — les deux banques vont marquer ce qu’elles se doivent les unes
+aux autres à chaque opération, et à la fin de l’année elles vont regarder le
+solde des opérations.
+
+C’est-à-dire, vous comprenez que là je vous parle d’une transaction où l’or de
+la banque A, qui était physiquement dans la banque A, va finir par se retrouver
+physiquement dans la banque B. Mais pour cela, il peut y avoir d’autres
+opérations dans lesquelles des opérations inverses se produisent, dans
+lesquelles c’est l’or de la banque B qui devrait se retrouver dans les coffres
+de la banque A. Donc au final, pour éviter d’avoir à chaque fois à faire
+circuler physiquement l’or d’une banque à l’autre, on comptabilise : chaque
+banque qui se connaît peut se téléphoner, vérifier combien elle possède de
+créances sur l’autre banque, et à la fin de l’année on regarde. Imaginons qu’il
+y ait des opérations inverses qui aient été faites dans les mêmes proportions :
+à la fin, on peut vérifier que le solde est quasiment égal à zéro. Pourquoi ça
+vaudrait le coup de transporter le solde d’une banque à l’autre ? Non, si
+globalement le solde est nul, on va rester comme ça. Donc en fait, il est
+possible que, s’il y a plein d’opérations qui se font comme ça, il n’y ait
+jamais de transactions physiques d’or.
+
+Aujourd’hui, le système fonctionne toujours comme ça, globalement. Sauf que
+c’est très compliqué : il n’y a pas que deux banques, il y a des centaines, des
+milliers de banques à l’échelle mondiale. Pour calculer les soldes que les
+banques se doivent les unes envers les autres, on le fait beaucoup plus que tous
+les ans, et maintenant pas seulement à la fin de chaque journée, par exemple. On
+le fait auprès d’un intermédiaire qui se trouve entre les deux et qu’on appelle
+une chambre de compensation. C’est une institution financière qui va calculer
+les soldes de tout ce que les banques se doivent à la fin de la journée, de
+l’une à l’autre, et qui va demander de régler les soldes uniquement si c’est
+important. Si les soldes sont nuls, on n’a même pas besoin de les régler. Donc à
+la fin de la journée, les banques se doivent mutuellement de l’argent, et
+parfois se versent mutuellement de l’argent. C’est la chambre de compensation
+qui organise les soldes que toutes les banques se doivent les unes par rapport
+aux autres. C’est toujours le principe d’aujourd’hui.
+
+Bien sûr, ce que je n’ai pas dit, et que dans le petit exemple vous pouvez assez
+facilement imaginer, c’est qu’il y a des commissions à chaque fois. Évidemment :
+ici on prélève une commission, Julie peut vendre sa maison un peu plus cher, la
+banque B va prélever une commission, parce qu’il faut bien que le banquier
+continue de travailler. Ce qu’il faut comprendre ici, c’est que cette
+transaction est très intéressante dans le sens où l’or n’est physiquement pas
+transporté : il n’a pas besoin de transporter, et la transaction se déroule
+uniquement par l’intermédiaire de transferts de propriété. Ici, on a en quelque
+sorte une première lettre de crédit qui dit « voilà, vous êtes propriétaire de
+l’or » ; ici, on a une lettre de transfert de propriété ; et ici, on a aussi un
+transfert de propriété de crédit, puisque finalement qui possède les 800 grammes
+d’or à la fin ? C’est bien la banque B, puisque à l’inverse Julie a 800 grammes
+d’or.
+
+J’ai vu qu’il y avait plein de questions. Le problème, c’est que vous avez aussi
+raconté plein de choses. Je vais quand même essayer de voir s’il n’y a pas des
+questions intéressantes. « C’est quoi, la banque B n’a pas les 800 grammes d’or
+? » Je disais : les 800 grammes d’or, elle les a à la vente, puisque par
+définition Pierre les a déposés ; il a déposé 1000 grammes dans l’exemple, donc
+il n’y a pas de souci. Par contre, il est possible — et ça c’est vrai — que les
+opérations soient tellement importantes qu’une banque se retrouve dans
+l’incapacité de payer les autres banques, et dans ce cas-là elle fait
+banqueroute, c’est-à-dire qu’elle fait faillite. Évidemment, ça peut poser des
+problèmes, parce que ça veut dire que les transactions qui fonctionnent comme ça
+ne peuvent plus fonctionner selon ce principe.
+
+« Les métaux ne sont-ils pas considérés comme de la monnaie métallique ? » Si,
+si, mais les monnaies métalliques, ce sont tous les métaux précieux différents,
+y compris l’or et l’argent, bien sûr. Quelqu’un, un expert de *Fallout*, me dit
+que la monnaie, ce sont des capsules dans *Fallout*. C’est vrai, et c’est assez
+sympathique. Je vous invite à jouer à ce jeu, mais c’est un jeu de 1990, ce
+n’est pas de votre âge, c’est du mien. Surtout *Fallout 2*. Il y a des *Fallout*
+plus récents qui ne sont pas bien. C’est la bonne équipe des marchandises : la
+marchandise qui devient monnaie, c’est ça qu’on essaie d’expliquer.
+
+Le problème, c’est que vous avez écrit plein de choses et que je ne sais pas
+s’il y a des questions importantes dans le lot. J’ai l’impression qu’on s’en
+fiche un peu. Bon, j’arrête là. S’il y a des questions importantes auxquelles je
+n’ai pas répondu, vous pouvez les poser. « Quid si tous les agents réclament
+leur or en même temps ? » Alors là, c’est une bonne question. On est sur un
+exemple théorique, on n’est pas sur un système monétaire réel. On va revenir sur
+ces questions-là.
+
+Il est 14h16, donc on a encore une demi-heure, un peu plus d’une demi-heure de
+cours, donc on va continuer ce cours.
+
+Cette monnaie, je le disais tout à l’heure, mais j’y reviens : c’est ce qu’on
+appelle de la monnaie scripturale, c’est-à-dire une monnaie jeu d’écriture.
+Concrètement, aujourd’hui, ça correspond à quoi ? Ça correspond au chèque, aux
+cartes bancaires, à la monnaie électronique. En fait, aujourd’hui, l’essentiel
+de la monnaie fonctionne comme ça. C’est pour ça que je dis que ce petit schéma
+un peu bête que je vous ai montré, qui a été inventé au Moyen Âge en Europe, a
+beaucoup contribué au développement du grand commerce européen au Moyen Âge.
+Nous le verrons pour ceux qui ont choisi l’option histoire des faits
+économiques. Tout cela, au départ, était basé sur l’or : au départ on avait bien
+quelque chose de physique, la monnaie physique en or, et très vite ça continue
+d’être le système de transaction organisé qui fonctionne le mieux, notamment
+lorsqu’on paye à l’étranger. Puisque lorsqu’on paye un étranger, la monnaie
+n’est pas la même, ce n’est donc pas une opération de change en même temps qu’il
+se fait : les euros que vous possédez, vous ne pouvez pas les utiliser aux
+États-Unis parce qu’il y a un cours légal du dollar, et donc vous êtes obligé de
+passer par le système bancaire pour transformer vos euros en dollars. Tout ça
+fonctionne un peu comme cela : on va avoir en plus une opération de change en
+même temps qu’une opération de crédit. Cette monnaie jeu d’écriture, c’est ce
+qu’on appelle la monnaie scripturale.
+
+### La monnaie fiduciaire
+
+Je récapitule : d’où vient la valeur de la monnaie ? Premièrement, elle vient de
+la marchandise qui a une valeur. Mais on a vu que c’était un peu plus compliqué,
+parce que la marchandise qui a une valeur trouve une autre valeur en devenant
+monnaie. Donc finalement, on ne sait plus trop si c’est l’or en tant que
+marchandise qui a de la valeur aujourd’hui, ou si c’est l’or en tant que
+monnaie. En fait, si on sait : de mon point de vue, la question est vite
+répondue, c’est que essentiellement l’or en tant que monnaie fait qu’il a de la
+valeur. Si l’on rajoute les valeurs de l’or et qu’il est recherché, c’est parce
+qu’il a un statut monétaire encore aujourd’hui. Même si on ne paye pas
+directement en or, tout le monde est sûr que le jour où le système bancaire
+s’effondre, c’est l’or qui reviendra au goût du jour.
+
+Mais il y a une autre sorte de monnaie qui n’est ni marchandise ni titre de
+propriété : c’est ce qu’on appelle la monnaie fiduciaire, les billets de banque.
+Les billets de banque ne sont pas un titre de propriété, parce que c’est
+physiquement le billet qui est de la monnaie. Il n’est pas associé à la
+propriété de quelque chose d’autre. Ce n’est pas un titre de propriété : c’est
+physiquement le billet qui a de la valeur et qui est de la monnaie au sens
+strict. Il a une caractéristique matérielle qui pourrait le rapprocher de l’or,
+mais contrairement à la monnaie marchandise, ce n’est juste qu’un papier. Ce
+n’est que du papier : concrètement, il n’a pas de valeur intrinsèque. Donc la
+monnaie fiduciaire — je parle ici du billet de banque, voire des pièces de
+monnaie, qui sont aussi de la monnaie fiduciaire — a une valeur qui n’est ni
+liée au fait qu’il s’agit d’une marchandise, ni liée au fait qu’il s’agit d’un
+titre de propriété, parce que ce n’est pas un titre de propriété. Le fait de
+posséder physiquement le billet dit que vous êtes propriétaire de ce billet.
+
+D’où vient la valeur de cette monnaie ? Le principe du billet de banque, il faut
+réfléchir à la manière dont les billets de banque ont été inventés dans
+l’histoire. Il a été inventé, là aussi, à plusieurs reprises : en Chine, il a
+été inventé dès le Moyen Âge ; en Europe, il a été inventé au XVIIe siècle par
+la banque de Stockholm, puis la banque d’Amsterdam. La banque d’Amsterdam est
+considérée comme la première banque qui a inventé en Europe le papier-monnaie.
+On voit que c’est postérieur à la lettre de crédit : c’est quelque chose qui
+arrive après ce que je viens de vous décrire.
+
+Une manière de comprendre comment le billet de banque est devenu monnaie, c’est
+de réfléchir au fait que les banquiers de l’époque avaient des lettres de
+crédit. Comme vous avez compris, dans la lettre de crédit il y a un aspect
+nominatif : il y a bien Pierre qui dit « je soussigné Pierre, 800 grammes d’or à
+Julie », et Julie contresigne. C’est le chèque. Le chèque est signé par la
+personne qui paie, et il est signé lorsque vous l’endossez : vous devez signer.
+Aujourd’hui, on utilise de moins en moins de chèques, on utilise beaucoup plus
+de cartes de crédit, mais c’est la même chose : c’est nominatif, c’est vraiment
+le compte d’un tel qui va sur le compte d’un tel. Là aussi, on est capable de
+savoir qui est qui, qui a payé. Ce système de lettre de crédit est effectivement
+très efficace, très utile, c’est aujourd’hui l’ancêtre de la monnaie, mais il
+manque un peu de souplesse, parce que justement il faut savoir les noms des
+gens, le nom de celui qui vend, de celui qui achète, d’où vient l’argent. C’est
+pourquoi la banque de Stockholm, au début du XVIIe siècle, je crois en 1600 et
+quelques, a décidé d’innover en créant ce qu’on pourrait considérer comme une
+forme de lettre de crédit non nominative. C’est une lettre de crédit, mais qui
+détermine un crédit au porteur, c’est-à-dire à celui qui possède le titre, et
+non pas au nom qui est marqué sur le titre. On ne va pas mettre un titre avec un
+nom dessus ; on va juste créer un titre, un bon en quelque sorte, et on versera
+à qui possédera ce bon.
+
+Concrètement, qu’est-ce que ça peut signifier ? Reprenons notre exemple. Nous
+avons Pierre qui dépose 1000 grammes d’or dans la banque A. Cette fois-ci, au
+lieu de lui faire une lettre de crédit nominative, la banque A — donc la banque
+de Stockholm — va décider de lui verser 1000 coupons de 1 gramme d’or, des
+billets, des coupons. En échange de ces 1000 grammes d’or, je vais vous donner
+1000 coupons de 1 gramme d’or, d’une valeur d’un gramme d’or. Toute personne qui
+reviendra me donner ces coupons pourra récupérer l’or qui est écrit dessus. Donc
+je vais vous donner 1000 grammes d’or sous forme de coupons, et n’importe qui
+pourra récupérer ça. C’est ça l’intérêt : il n’y a pas de nom marqué dessus,
+donc c’est non nominatif. Cela veut dire que n’importe qui peut récupérer ces
+billets et demander le remboursement de ce billet en or. Ce principe que je
+viens de vous décrire, c’est un principe d’étalon or. Qu’est-ce que ça veut dire
+? Ça veut dire qu’en fait le billet a une valeur parce qu’il est échangeable
+contre de l’or. Concrètement, il a été procédé à un échange : or contre billet.
+Et à tout moment, n’importe qui peut revenir auprès de la banque et faire
+l’échange inverse, c’est-à-dire rendre le billet et récupérer de l’or en
+échange. Le fait que les billets ne soient pas nominatifs est très pratique : au
+lieu d’échanger de l’or physique, vous pouvez échanger la propriété de l’or en
+quelque sorte, mais plus simplement qu’auparavant, non pas en faisant un chèque
+en signant, parce que le problème des chèques sans provision existe. Là, il n’y
+a plus de souci : n’importe qui pourra récupérer de l’or avec le billet qui est
+donné. Cela veut dire que vous pouvez échanger le billet, et cette personne
+acceptera le billet parce qu’elle sait que derrière il y a le tampon de la
+banque de Suède, et que la banque de Suède — je confonds avec la banque centrale
+aujourd’hui, la banque de Suède qui décerne des prix Nobel d’économie — mais peu
+importe. N’importe qui pourra récupérer de l’or avec ce coupon, parce qu’il a le
+tampon de la banque. Cela signifie que ces billets peuvent être utilisés
+directement en paiement comme s’il s’agissait de la monnaie métallique.
+
+Oui, l’étalon or, c’est comme le système qui a duré jusqu’en 1971. Tout à fait :
+c’était le système qui a été au cœur de la monnaie effectivement jusqu’en 1971,
+mais on va voir avec des variantes quand même. L’intérêt de ce système, c’est
+que les gens accepteront les billets pour plein de raisons. D’abord parce que
+c’est plus pratique : c’est plus léger, c’est plus simple à transporter.
+Attention, ça n’aura pas de valeur partout : le billet de banque, pour qu’il ait
+de la valeur, il faut qu’on puisse quand même accéder à la banque pour
+l’échanger. Si on voulait faire une transaction internationale, ça devenait un
+peu compliqué. Par contre, quand vous faites une transaction à Stockholm, ça ne
+posera aucun problème, tant que les gens ont confiance dans le fait que ce
+billet peut être convertible en or à tout moment. C’est ce qu’on appelle la
+convertibilité de la monnaie : elle peut à tout moment être échangée en or.
+Alors il n’y aura aucune raison pour que l’on refuse ce papier, et pour eux, ce
+papier-monnaie, ce billet, a autant de valeur que l’or au sens strict.
+
+Le problème, c’est qu’ils peuvent aussi douter. Ils peuvent se dire : peut-être
+que la banque de Stockholm a émis plus de billets que d’or dans ses coffres.
+Personne ne pourra vérifier le montant de l’or qui est entreposé dans les
+coffres de la banque de Stockholm. Là se pose un problème : on parle souvent
+d’asymétrie d’information — vous avez peut-être vu ce terme avec Michel Favreau.
+L’asymétrie d’information, c’est le fait que chacun a des connaissances
+spécifiques qui ne sont pas les mêmes. La banque de Stockholm sait combien d’or
+est dans les coffres, alors que les gens qui détiennent les billets ne savent
+pas combien d’or est là, et ne savent surtout pas combien de billets sont en
+circulation. Si ça se trouve, il y a plus de billets en circulation que d’or
+dans les coffres de la banque. Donc, si ça se trouve, certes, moi tout seul,
+individuellement, je peux aller à la banque et échanger mon billet contre de
+l’or, mais si tout le monde se mettait à échanger des billets contre de l’or, il
+est possible qu’il n’y aurait pas suffisamment d’or pour rembourser tout le
+monde. On a donc besoin de confiance. S’il n’y a pas de confiance, le
+papier-monnaie n’a pas de valeur. C’est la raison pour laquelle on appelle ça de
+la monnaie fiduciaire : fiduciaire vient du latin *fidus*, la confiance. C’est
+la monnaie qui inspire de la confiance, ou plutôt qui repose sur la confiance,
+c’est-à-dire le fait que chacun pourra se voir rembourser en or, en métaux
+précieux, le billet qu’il possède.
+
+Mais alors, pourquoi aurait-on des raisons de douter que la banque qui a émis
+ses billets soit riche, qu’elle ait plus d’or en réserve qu’elle n’a émis de
+billets ? En fait, derrière l’idée qu’ils pourraient avoir moins d’or en réalité
+dans les coffres de la banque que de billets en circulation, il n’y a pas que un
+problème de triche. Évidemment, si la banque est malhonnête et émet plein de
+billets sans avoir d’or, uniquement pour son bénéfice personnel, elle triche, et
+il ne faut pas faire confiance à une telle banque. Mais en fait, ce que je vais
+vous expliquer, c’est que même sans tricher, il est tout à fait normal qu’une
+banque puisse posséder moins d’or dans ses coffres qu’elle n’a émis de billets.
+Cela sans tricher du tout.
+
+Pour essayer de comprendre, il faut réfléchir — je vais vous faire autre chose
+que ce qui est sur la diapo, mais vous allez voir que ça va être très lié à la
+diapo, parce que ce sont des choses que j’ai déjà expliquées. Pour essayer de
+comprendre comment il est possible qu’une banque honnête, qui organise sa
+monnaie, qui émet des billets en fonction de tous les dépôts qu’elle a en or,
+qui ne triche pas par rapport à ça, puisse se retrouver avec plus de
+papier-monnaie qu’elle n’a d’or en réserve, il faut se mettre dans la situation
+d’un banquier qui est à la fois une banque de dépôt mais aussi une banque de
+crédit. La fonction première d’une banque, ce n’est pas simplement de garder
+l’argent pour vous ; la première fonction d’une banque, c’est d’accorder des
+prêts à des gens, à des entreprises qui ont besoin d’argent. C’est comme ça que
+la banque va se faire rémunérer.
+
+Imaginons maintenant que vous avez la banque de Stockholm, qui décide de prêter
+à un investisseur qui veut, par exemple, faire du commerce avec la Chine, un
+commerce extrêmement rentable. Évidemment, il faut financer l’expédition : il va
+falloir recruter des marins, affréter des bateaux, acheter des marchandises en
+Europe, aller vendre ces marchandises en Chine, puis racheter d’autres
+marchandises et revenir. Tout ça ne se finance pas avec quelques pièces : ça
+nécessite beaucoup d’argent, c’est une grande expédition. La banque est
+intéressée pour financer cette expédition parce que derrière, elle récupérera
+les intérêts. Mettez-vous à la place de la banque de Stockholm : vous avez émis,
+je ne sais pas, 10 000 grammes d’or en billets, et vous avez encore en partie
+récupéré 10 000 grammes d’or dans vos coffres, donc aucun souci : autant de
+billets en circulation que d’or en réserve. Et là, vous avez quelqu’un qui vous
+demande un crédit. Vous devez lui accorder un crédit. Comment faites-vous ? Deux
+choses : soit vous lui prêtez de l’or, soit vous lui prêtez des billets. Dans
+les deux cas, on va se retrouver au même problème.
+
+Si vous lui prêtez de l’or directement, par exemple, il veut acheter des
+marchandises ailleurs qu’en Suède, donc il va falloir qu’il ait de l’or
+physique, il ne peut pas avoir des billets de banque parce que les gens ne vont
+pas les accepter. Donc vous allez ponctionner, mettons qu’il ait besoin de 1000
+grammes d’or : vous avez 10 000 grammes d’or, maintenant vous avez 9900 grammes
+d’or ; s’il a besoin de 2000, 3000, vous passez à 9000 grammes d’or dans votre
+coffre. Vous avez prêté de l’or à cet homme, et vous allez devoir prêter de
+l’argent qui ne vous appartient pas. Eh oui, c’est ça qu’est une banque : la
+fonction première d’une banque, c’est de prêter de l’argent qui ne lui
+appartient pas, ou en tout cas de l’argent qui lui appartient mais qu’elle doit
+rendre à la personne qui le demande. Il faut aussi penser que l’argent que vous
+avez dans votre banque, ce n’est pas votre argent : c’est l’argent de la banque,
+elle peut en faire ce qu’elle veut. Ce que vous avez, c’est une créance, la
+capacité de demander à la banque de vous rembourser à tout moment. Quand vous
+consultez votre compte, vous voyez une créance : cela veut dire que la banque
+vous doit 50 euros si vous avez 50 euros sur votre compte. Mais cela veut dire
+que la banque a utilisé votre argent : vous l’avez déposé, vous l’avez confié,
+et donc elle peut en faire ce qu’elle veut. Elle vous doit 50 euros, mais elle
+fait ce qu’elle veut. C’est comme quand vous prêtez de l’argent à quelqu’un :
+l’argent ne vous appartient plus ; ce qui vous appartient, c’est la créance sur
+cet argent. C’est exactement la même chose. Cela veut dire que la banque peut,
+là aussi, totalement légalement, prêter mettons 1000 grammes d’or à ce marchand
+qui veut faire du commerce avec la Chine, et elle doit toujours rembourser aux
+gens qui lui demandent leurs 10 000 grammes. Mais vous voyez que quand elle a
+fait ses opérations de prêt en or, elle se retrouve avec plus de billets de
+banque en valeur que d’or dans ses coffres.
+
+Alors on peut dire : attention, ne touchons pas à ça, c’est trop compliqué.
+Prêtons d’une autre manière. Comment prêter d’une autre manière ? On peut prêter
+des billets de banque, aucun souci. On va lui prêter 1000 grammes d’or, cette
+fois-ci en billets de banque ; ces billets seront tout à fait utilisables à
+Stockholm et dans les alentours, puisque les gens considèrent que c’est aussi
+bien que de l’or. Dans ce cas-là, la masse monétaire sera de 11 000 et les
+dépôts en banque en or seront eux aussi de 10 000. Vous voyez bien que derrière
+cette opération de prêt, on a forcément à la fin plus de billets en circulation
+que d’or.
+
+Attention, ça, c’est au moment du prêt. Le marchand, ensuite, va aller en Chine,
+il va faire son commerce, il va revenir, il va faire du profit, il va vous
+rembourser votre prêt avec intérêts. Donc il va vous rembourser 1000 grammes
+d’or, et si c’est une opération cavalière avec beaucoup d’intérêt, il peut vous
+rembourser 2000 grammes. Les intérêts, vous les gardez pour vous. Les 1000
+grammes d’or, s’il les rembourse physiquement en or, ça revient : vous vous
+retrouvez à 10 000 en termes d’or, et vous retrouvez l’équilibre qui était prévu
+au départ. S’il rembourse en monnaie, c’est pareil : les billets que vous aviez
+émis pour prêter au marchand sont détruits parce qu’il vous rembourse. Donc là,
+vous retrouvez 10 000 partout. C’est ça, une opération de crédit auprès d’une
+banque. Ce n’est pas illégitime de faire une opération de crédit, au contraire,
+c’est parfaitement légitime. Mais vous voyez que pendant le temps de l’opération
+de crédit, vous vous êtes retrouvé — mettons qu’elle ait prêté en billets — avec
+plus de billets en circulation que d’or dans les coffres. Vous voyez que ce
+n’est pas illégitime.
+
+Mettons que la banque, et c’est son rôle, veuille gagner de l’argent, fasse du
+crédit à plein d’entreprises : on peut tout à fait se retrouver avec 20 000 en
+masse monétaire sous forme de billets et 10 000 en réserves en or. Posons-nous
+deux minutes et réfléchissons à ce que ça signifie. Cela signifie que, dans les
+billets de banque qui sont en circulation — 20 000 grammes d’or sous forme de
+billets — il y en a 10 000 qui sont la contrepartie de l’or physique qui est
+déposé dans le coffre. Mais il y en a 10 000 autres. Quelle est la contrepartie
+de ces autres billets qui circulent ? Ce n’est pas l’or, puisque c’est la grosse
+partie des premiers 10 000. Ce n’est pas rien non plus. Qu’est-ce qui fait que
+ces 10 000 grammes d’or qui circulent sous forme de billets ont de la valeur ?
+C’est la créance : ils sont adossés sur une créance, ils sont adossés sur le
+fait que le marchand qui est parti va vous rembourser. Cela veut dire qu’une
+partie de la monnaie en circulation sous forme de billets est adossée sur de
+l’or, et que la deuxième partie de la monnaie en circulation est adossée sur une
+créance que la banque possède sur le marchand, ou sur les marchands à qui elle a
+prêté. Et cette créance a de la valeur : pourquoi ? Parce que l’opération
+économique qui consiste à aller commercer avec la Chine est une opération
+rentable, qu’elle va créer de la richesse et qu’elle va être bénéfique pour
+l’ensemble de la société.
+
+Ce que je suis en train de vous expliquer, c’est la dernière chose ici, donc
+c’est très important. Vous réécouterez ce passage si vous n’avez pas compris,
+parce que je vois qu’il y en a quelques-uns qui écrivent des tchats et qui,
+quand ils écrivent, n’écoutent pas. Ces sept derniers éléments : pourquoi la
+valeur de la monnaie dépend-elle du crédit ? Parce que, dans l’opération que je
+viens de vous décrire, une partie de la valeur des billets de banque n’est plus
+adossée sur l’or mais sur le crédit, et sur la qualité du crédit. C’est-à-dire
+qu’on a prêté à quelqu’un qui avait la possibilité de faire de l’argent et de
+gagner des sous. Cette qualité du crédit va déterminer la qualité de la valeur
+de la monnaie.
+
+Poursuivons le raisonnement. Aujourd’hui, c’est marqué ici : la valeur du
+papier-monnaie n’est plus fondée sur la convertibilité en métaux précieux. Sur
+quoi, aujourd’hui, notre monnaie fiduciaire est-elle fondée ? Pas sur de l’or,
+et il n’y a plus d’or — quelqu’un me disait tout à l’heure que depuis 1971 il
+n’y a plus d’or. Les billets de banque ne sont plus échangeables en or, et du
+coup on se dit : mais qu’est-ce qu’ils valent ? D’où vient la valeur de la
+monnaie ? Eh bien, je viens de vous l’expliquer. Supprimons l’idée qu’on va
+demander le remboursement de la monnaie en or : sur quoi est fondée toute la
+deuxième partie des 10 000 autres billets ? Sur le crédit. En fait, la monnaie
+d’aujourd’hui est une monnaie qui n’a plus de lien avec l’or, et donc elle a un
+lien avec le crédit. C’est-à-dire que ce qui est aujourd’hui au cœur de la
+valeur de la monnaie, c’est la créance, et c’est la créance accordée par la
+banque. Aujourd’hui, dans un monde où il n’y a plus de monnaie convertible en
+or, toute monnaie est mise en échange d’une créance, et cette créance a de la
+valeur ; c’est cette créance qui détermine la valeur de la monnaie.
+
+Je ne sais pas si vous avez bien compris cette démonstration. Je pense que
+certains n’ont pas compris, d’autres sans doute ont écouté très attentivement et
+compris. Donc cette séquence, je veux que vous la réécoutiez et que vous preniez
+des notes pour essayer de comprendre ce que ça veut dire.
+
+Je répète très brièvement. J’essaie de vous expliquer la monnaie fiduciaire en
+même temps que j’essaie de vous expliquer la monnaie d’aujourd’hui. Vous avez,
+du temps de la banque de Stockholm, une banque qui a décidé, pour être plus
+maligne et plus pratique, d’émettre des lettres de crédit non nominatives, donc
+des billets de banque. Ces billets de banque étaient mis en échange de l’or que
+la personne déposait, comme les lettres de crédit. Mais il s’est passé que cet
+argent a commencé à circuler facilement dans l’économie comme si c’était de
+l’or, et tout le monde l’acceptait parce que tout le monde savait qu’il pouvait
+se voir rembourser son billet par de l’or. C’est ce qu’on appelle la
+convertibilité. Seulement, on a compris qu’une banque n’est pas qu’un organisme
+de dépôt, c’est aussi un organisme de crédit. Une banque prête de l’argent. Or,
+dans cette opération de prêt, d’une manière ou d’une autre, elle émet du
+papier-monnaie qui n’est plus adossé sur de l’or, mais qui est adossé sur une
+créance, c’est-à-dire le fait qu’elle fait une opération de crédit à une
+activité rentable. Cette monnaie qui circule, cette nouvelle monnaie qui
+circule, qui n’est pas différente de l’autre monnaie, ce sur quoi elle est
+fondée, ce n’est pas de l’or, c’est du crédit. Aujourd’hui, pour comprendre la
+monnaie d’aujourd’hui, il faut comprendre que cette monnaie est toujours adossée
+à une créance, et que c’est la raison pour laquelle elle détient de la valeur :
+c’est que la créance qui est derrière a de la valeur.
+
+Tout ça me permet ici de répondre à nouveau à Nicolas Dufresne. Dire qu’une
+monnaie libre n’a pas de sens, c’est aussi pour cette raison : si on veut
+comprendre pourquoi la monnaie a de la valeur, il ne faut pas juste dire que la
+monnaie peut ne pas être adossée à une créance, parce que la créance est au cœur
+même de la monnaie, et il y a le crédit des deux côtés. La monnaie, c’est une
+dette : cela veut dire qu’elle a un pouvoir d’achat, cela veut dire qu’on doit
+nous rembourser avec des services réels contre la monnaie qu’on possède. C’est
+la partie dont j’ai parlé tout à l’heure. Mais aussi, dans sa manière dont elle
+est construite, la monnaie se construit toujours en échange de crédits, de la
+même façon qu’on a vue ici, et c’est la qualité du crédit qui fait la qualité de
+la monnaie.
+
+## Les systèmes monétaires du XXe siècle
+
+Nous sommes le 19, il est 14h41. Il me reste cinq minutes, alors je vais quand
+même continuer le cours, parce que j’ai oublié mon téléphone, je ne l’ai plus
+sur moi. Vous pourrez réécouter si ce n’est pas clair. Je vais donc, en cinq
+minutes, revenir très brièvement sur les systèmes monétaires du XXe siècle. Nous
+verrons plus tard comment la monnaie est créée aujourd’hui, parce que c’est
+évidemment le complément de ce que je viens de dire, mais vous avez bien compris
+que la monnaie va être créée dans l’opération de crédit. Je vous l’expliquerai
+un peu mieux à la fin de la semaine prochaine.
+
+La monnaie, concrètement, a pris plusieurs formes dans l’histoire. Je vais me
+limiter à l’histoire récente et à l’histoire du XXe siècle pour vous expliquer
+que la monnaie a été de différentes formes. On a compris que, pendant quelques
+années, la monnaie était un étalon or ou argent, c’est-à-dire qu’elle était
+remboursable en or et en argent. Là aussi, sous différentes formes. Je ne vais
+pas y revenir parce que c’était un peu plus compliqué que cela : il fallait
+distinguer la monnaie étalon or et les étalons argent, l’étalon de change or ou
+argent, ce qui était un peu différent. Mais peu importe. Ce qui est sûr, c’est
+que jusqu’à la Seconde Guerre mondiale, la monnaie émise par les États était
+toujours une monnaie fondée explicitement sur des métaux précieux, qui étaient
+l’or ou l’argent. On pouvait parfois n’avoir que de l’or : c’était le cas du
+Royaume-Uni, par exemple, où la livre sterling était fondée uniquement sur l’or.
+Mais vous avez aussi des systèmes qu’on appelait bimétalliques, qui étaient
+fondés à la fois sur l’or et sur l’argent. C’était le cas de la France, puisque
+le franc français était fondé d’abord sur l’argent : le franc germinal, créé en
+1803, a valu jusqu’en 1914 4,5 grammes d’argent.
+
+Ce système d’étalon or ou argent avait un côté très pratique : il a limité
+considérablement l’inflation. Les systèmes monétaires du XIXe siècle sont des
+systèmes monétaires très peu inflationnistes, parce que justement il y a quelque
+chose qui fait que la monnaie a toujours de la valeur : le fait qu’elle est
+convertible en une quantité fixe d’or ou d’argent. Cela n’a pas toujours été
+aussi simple que cela, notamment quand on a commencé à découvrir des mines d’or
+aux États-Unis au XIXe siècle. Tout d’un coup, la valeur de l’or a baissé, donc
+il y a eu des tensions inflationnistes. D’ailleurs, ça a précipité aux
+États-Unis, en particulier à la fin du XIXe siècle : on avait un système
+bimétallique, et très vite c’est devenu un système étalon or, selon le principe
+de la loi de Gresham, qui fait que la mauvaise monnaie chasse la bonne. La
+mauvaise monnaie ici, c’était le dollar, et il a chassé la monnaie argent, parce
+que l’or avait tout d’un coup vu sa valeur baisser à cause des découvertes de
+mines d’or. Donc ce n’était pas non plus un système aussi fiable et aussi stable
+que ce qu’on pourrait penser, mais on va dire qu’il était plus stable qu’un
+autre : il y avait notamment nettement moins d’inflation. Si vous voulez
+vérifier la question de l’inflation, je vous invite à lire le livre de Thomas
+Piketty, *Le Capital au XXIe siècle*, dont j’ai déjà parlé, qui est un livre
+extrêmement intéressant, dans lequel il raconte justement les effets de
+l’inflation au XIXe siècle et le fait qu’il n’y avait pas d’inflation, ce qui
+veut dire que les gens pouvaient évaluer la valeur en monnaie sans aucun
+problème. Il n’y a pas eu qu’une seule ruée vers l’or : il y a eu plein de ruées
+vers l’or au XIXe siècle.
+
+Tout ça pour dire que le système était relativement stable, assez stable, on va
+dire. C’est pour ça qu’il a été préservé longtemps. En même temps, il manquait
+parfois de stabilité au moment où on découvrait des mines d’or. Et en même
+temps, dernier défaut — là aussi tout le monde n’est pas d’accord, mais on va
+dire que la majorité est d’accord — c’est le fait que c’était un système qui ne
+desserrait pas l’emprise de la politique monétaire et qui ne favorisait pas
+vraiment la croissance économique. Une des choses intéressantes dans la monnaie
+d’aujourd’hui, la monnaie totalement déconnectée des métaux, c’est que la banque
+centrale peut avoir un rôle important, par exemple pour susciter la création de
+monnaie, pour aider le système bancaire et financier en faisant varier les taux
+d’intérêt. Je vous expliquerai cela plus tard. Le fait d’avoir une monnaie
+détachée de la question de l’or ou de l’argent permet de mettre en œuvre des
+politiques monétaires un peu plus intéressantes, un peu plus dynamiques, plus
+inventives, et donc de favoriser la croissance. Là aussi, pensez que la
+croissance au XIXe siècle dans les pays européens était en fait assez faible :
+globalement, la croissance moyenne était de 1 à 2 %, ce qui n’est pas du tout le
+cas au XXe siècle, où on a une croissance bien plus importante. Notamment
+pendant les Trente Glorieuses, en France, on a eu 6 % de croissance annuelle. À
+mon avis, ces 6 % de croissance annuelle n’auraient jamais pu se faire dans un
+cadre d’étalon or. Vous verrez au prochain semestre que M. Huntsman ne sera pas
+d’accord avec ça, parce que lui est très attaché à l’étalon or, mais la majorité
+des économistes aujourd’hui sont plutôt dans mon camp.
+
+Le système d’étalon or a fonctionné jusqu’à ce qu’il arrête de fonctionner,
+c’est-à-dire à la Première Guerre mondiale. Pour la Première Guerre mondiale,
+les dettes entre pays étaient tellement importantes — les dettes à l’époque
+entre pays se payaient en or et en argent — qu’on s’est retrouvé avec des pays
+qui n’avaient plus assez de réserves en or et en argent pour garantir la
+stabilité de la monnaie. On est donc arrivé, après la Première Guerre mondiale,
+à une grave crise monétaire à cause de l’inégale répartition des réserves en or
+et en argent. Cette crise monétaire a entraîné des réflexions et des changements
+de monnaie. Alors, je vois un mot : « la monnaie n’est plus une valeur » ? Non,
+la monnaie qui a une valeur d’un pays à l’autre, tout ça, c’est autre chose, on
+ne va pas réfléchir à ça. Je pense que vous verrez ça plus tard, parce que je
+n’ai pas marqué de questions sur les taux de change des monnaies les unes par
+rapport aux autres.
+
+Ce que je veux dire, c’est qu’à partir de l’après-Première Guerre mondiale, on a
+vu des phénomènes inflationnistes apparaître. À l’échelle des pays, parfois de
+l’inflation importante, mais contrôlable. Et parfois on a eu aussi un phénomène
+nouveau : l’hyperinflation, notamment en Allemagne en 1923. Cela a évidemment
+beaucoup déstabilisé les gens, parce que c’était la première fois qu’on voyait
+un phénomène comme ça : une monnaie qui s’effondre dans la valeur, qui
+s’effondre. C’était le risque de détacher la monnaie de l’or et de l’argent.
+Aujourd’hui, on n’a plus ces épisodes, mais ils ont beaucoup marqué l’histoire
+et ils ont donné le sentiment aux gens qu’il fallait quand même, si on détachait
+la monnaie de l’or et de l’argent, la rattacher à quelque chose : à un pouvoir
+politique stable, à une politique monétaire assez stable.
+
+Je voulais conclure par une anecdote. Tout à l’heure, je vous ai dit qu’une des
+plus grandes réserves d’or de la planète se trouve sous la ville de New York,
+dans les coffres de la banque centrale de New York. Il y a six banques centrales
+aux États-Unis, parce qu’il y a une banque fédérale qui chapeaute un peu les
+autres banques ; parmi les six banques centrales, la plus importante, c’est la
+banque de New York. Il faut savoir que cet or n’appartient pas qu’au système
+bancaire américain et pas qu’à l’État américain. Une partie de l’or qui est dans
+les coffres de la banque centrale de New York appartient en fait à l’Allemagne.
+C’est peu connu, mais pendant les Trente Glorieuses — on a compris que
+l’Allemagne avait perdu quasiment tout son or après l’épisode des deux guerres
+mondiales et l’épisode nazi ; le système qui a sapé le système de Bretton Woods,
+j’en parlerai la semaine prochaine, a entraîné un changement de politique
+monétaire — pendant les Trente Glorieuses, l’Allemagne a aussi accumulé beaucoup
+d’excédents sur les États-Unis et a demandé le remboursement en or des dollars
+qu’elle avait acquis. Pour la petite histoire, Angela Merkel, il y a quelques
+années, est allée aux États-Unis, sous l’époque Bush ou Obama, je ne sais pas
+trop, et elle est allée demander à voir l’or qui lui appartient dans les coffres
+de la banque centrale américaine. En fait, cet or n’avait jamais été transféré
+physiquement, il est resté. On est donc sur un système qui montre bien que
+c’était un système de lettre de crédit : les États ont fait une lettre à
+l’Allemagne disant « parmi l’or que je possède dans ma propre banque, une partie
+maintenant vous appartient ». Donc Angela Merkel, quand elle a été élue
+chancelière, est allée voir et a dit : « J’aimerais bien voir l’or qui
+m’appartient, qui appartient à l’Allemagne, dans les coffres de la banque
+centrale de New York. » Bien sûr, les États-Unis ont dit : « En fait, non, vous
+ne pourrez pas venir, pour raisons de sécurité. » Angela Merkel n’a donc pas pu
+voir l’or qui lui appartient, en tout cas qui appartient à l’Allemagne, dans les
+coffres de la banque centrale de New York. Tout ça pour vous dire qu’à la fin,
+celui qui possède l’or, c’est aussi celui qui possède physiquement l’or ; ce
+n’est pas seulement celui qui possède la créance, c’est aussi celui qui a la
+capacité militaire de récupérer l’or et l’argent qui lui appartient. Sur cette
+réflexion, je vous laisse méditer jusqu’à la semaine prochaine.

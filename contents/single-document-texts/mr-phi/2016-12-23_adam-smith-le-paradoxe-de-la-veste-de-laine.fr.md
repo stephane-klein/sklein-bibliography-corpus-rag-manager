@@ -1,0 +1,264 @@
+---
+source_url: https://www.youtube.com/watch?v=azNw7Vx1R8o
+video_title: "ADAM SMITH : Le paradoxe de la veste de laine"
+generated_at: 2026-09-19T09:23:56.979Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 130.5
+  input_tokens: 4740
+  cached_input_tokens: 4736
+  output_tokens: 5129
+  estimated_cost_usd: 0.00145
+  finish_reason: stop
+---
+
+# ADAM SMITH : Le paradoxe de la veste de laine
+
+Puisque c'est bientôt Noël, c'est le moment de t'offrir un cadeau, mon cher. Et
+je te le dis, c'est un cadeau extraordinaire. L'objet que je t'offre est le
+fruit de la coopération et du travail cumulé d'un nombre incalculable de gens
+depuis des générations et des générations. C'est l'œuvre de la société humaine
+tout entière que je t'offre.
+
+Non mais c'est presque un peu trop, là, c'était pas la peine, pas des
+manières... Tu ouvres. Un pull moche quoi, moche, mais le poussin est quand même
+super bien fait. L'œuvre collective de toute la société, le fruit du travail
+cumulé d'un nombre incalculable de gens, c'est ça ? Bah oui. Et pour le
+comprendre, il faut réfléchir un peu. Et on peut réfléchir notamment en lisant
+Adam Smith quand il nous parle non pas d'un pull, mais d'une veste en laine.
+
+## Adam Smith et le contexte
+
+Adam Smith est un philosophe écossais du 18e siècle qu'on présente généralement
+comme le père des sciences économiques. Son grand ouvrage, c'est *La Richesse
+des Nations*, considéré comme un texte fondateur du libéralisme économique,
+c'est-à-dire en gros un courant de pensée qui promeut une économie où règne le
+libre échange et où les interventions de l'État sont réduites au minimum. Quand
+je dis ça, et notamment quand je le dis devant une classe, j'ai toujours
+l'impression qu'il y en a quelques-uns qui entendent : « Aujourd'hui, on va
+étudier un texte de l'Empereur Palpatine, fondateur de l'Empire et grand
+défenseur du côté obscur de la Force. » Mais ça veut dire que tu es vraiment du
+côté obscur de la Force ? Euh, non, justement, c'est pas ça la question. Ce que
+je veux plutôt dire, c'est que premièrement, on n'est pas obligé d'être à ce
+point manichéen, et deuxièmement, qu'avant de porter quelconque jugement que ce
+soit, ça ferait pas de mal d'écouter ce qu'Adam Smith a à nous dire. Il y a de
+bons arguments chez la plupart des auteurs, même chez ceux avec qui on est
+plutôt en désaccord. Et on a tendance à vouloir ignorer ces derniers parce
+qu'ils sont du mauvais côté de la force ; c'est un biais dont nous ferions bien
+d'apprendre à nous corriger, de quelque bord que l'on soit. J'ajoute en passant
+qu'il m'agace un peu que parmi les très nombreux auteurs au programme de
+philosophie terminale, on ne trouve justement pas Adam Smith, tandis qu'on y
+trouve Karl Marx, qui, vous ne l'ignorez sans doute pas, n'est pas tout à fait
+sur la même ligne. Je veux dire, si on invite Obi-Wan Kenobi quelque part, la
+moindre des choses, c'est d'y inviter aussi Palpatine, histoire de ramener
+l'équilibre dans la Force.
+
+Bref, de toute façon, aujourd'hui je vais m'arrêter sur un passage de *La
+Richesse des Nations* qui ne défend même pas spécialement le libéralisme ou le
+capitalisme. Adam Smith fait plutôt une sorte d'observation générale sur
+l'organisation de la société. Et vous allez voir que ce qui est observé est
+difficilement contestable et tout à fait vertigineux. Et donc, ça a un rapport
+avec mon cadeau pourri ? Oui, un rapport direct.
+
+## La veste de laine : un réseau invisible de travail
+
+Adam Smith se fait la réflexion suivante : prenez un objet de consommation tout
+à fait courant, comme ce pull en laine. Combien de personnes ont été nécessaires
+à sa fabrication ? Bah, je sais pas exactement comment c'est fabriqué, mais à
+vue de nez, je dirais une dizaine de personnes, quelques dizaines, quelques
+centaines en voyant très très large. Et bien non, tu ne vois pas large, tu vois
+très très étroit. Et Adam Smith va t'expliquer pourquoi, dans ce passage qui
+clôt brillamment le premier chapitre de *La Richesse des Nations* :
+
+> « Observer dans un pays civilisé et florissant ce qu'est le mobilier d'un
+simple journalier, ou du dernier des manœuvres, et vous verrez que le nombre de
+gens dont l'industrie a concouru, pour une part quelconque, à lui fournir ce
+mobilier est au-delà de tout calcul possible. La veste de laine, par exemple,
+qui couvre ce journalier, toute grossière qu'elle paraît, est le produit du
+travail réunit d'une innombrable multitude d'ouvriers. Le berger, celui qui a
+trié la laine, celui qui l'a peigné ou cardé, le teinturier, le fileur, le
+tisserand, le foulonnier, celui qui a adouci le chardon et un tas d'autres, tous
+ont mis une portion de leur industrie à l'achèvement de cette œuvre grossière.
+Combien, d'ailleurs, n'y a-t-il pas eu de marchands et de voituriers employés à
+transporter la matière à ces divers ouvriers, qui souvent demeurent dans des
+endroits distants les uns des autres ? Que de commerce et de navigation mis en
+mouvement, que de constructeurs de vaisseaux, de matelots, d'ouvriers en voiles
+et en cordage mis en œuvre pour opérer le transport des différentes drogues du
+teinturier, rapporté souvent des extrémités du monde ! Quelle variété de
+travail, aussi, pour produire les outils du moindre de ses ouvriers, sans parler
+des machines les plus compliquées, comme le vaisseau du commerçant, le moulin du
+foulonnier, ou même le métier du tisserand ? Considérons seulement quelle
+multitude de travaux exige une des machines les plus simples : les ciseaux avec
+lesquels le berger a coupé la laine. Il faut que le mineur, le constructeur du
+fourneau où le minerai a été fondu, le bûcheron qui a coupé le bois de la
+charpente, le charbonnier qui a cuit le charbon consommé à la fonte, le
+briquetier, le maçon, les ouvriers qui ont construit le fourneau, la
+construction du moulin, de la forge, le forgeron, l'aubergiste... tous ont
+contribué par la réunion de leur industrie à la production de cet outil. Si nous
+voulions examiner de même chacune des autres parties de l'habillement de ce même
+ouvrier, ou chacun des meubles de son ménage ; si nous songions aux nombreux
+outils qui ont été nécessaires aux ouvriers employés à produire ses diverses
+commodités ; si nous examinions en détail toutes ces choses ; si nous
+considérions la variété et la quantité de travaux que suppose chacune d'elles,
+nous sentirions que sans l'aide et le concours de plusieurs milliers de
+personnes, le moindre individu dans un pays civilisé ne pourrait être vêtu et
+meublé, même selon ce que nous regardons, assez mal à propos, comme la manière
+la plus simple et la plus commune. »
+
+Et ben, ton petit pull à poussin que tu regardes avec tant de mépris comme un
+objet de peu de valeur, songe, oh songe, à la sueur de tous ceux qui ont
+contribué à le mettre entre tes mains. Combien sont-ils donc ? Quand, naïf, tu
+estimais ce nombre à quelques dizaines de personnes seulement, tu ne pensais
+sans doute qu'aux quelques ouvriers qui ont contribué directement à sa
+fabrication à partir de la laine. Mais le travail de ces seules personnes
+aurait-il suffi à faire ce pull ? Non, mon cher, loin de là. Détrompe-toi : dans
+un premier temps, Adam Smith souligne qu'il faut aussi considérer le travail de
+tous ceux qui mettent en rapport ces différents ouvriers, lesquels peuvent être
+séparés par la moitié du globe (c'était déjà vrai au 18e siècle, et ça l'est
+évidemment encore plus aujourd'hui). Mais là où le raisonnement d'Adam Smith
+devient vraiment très fort et vertigineux, c'est lorsqu'il se met à parler des
+outils.
+
+## Le vertige des outils
+
+Tous ces travailleurs ont besoin d'outils de travail, que ce soit le berger qui
+a besoin de ciseaux pour couper la laine de ses moutons, ou le marchand qui a
+besoin de navire pour faire voyager ses marchandises d'un bout à l'autre du
+monde. Et ces outils de travail, ni bergers ni le marchand ne sont en mesure de
+les fabriquer eux-mêmes : ce n'est pas leur boulot. Mais c'est nécessaire à leur
+boulot. Donc ça veut dire que leur activité va dépendre de l'activité d'autres
+travailleurs qui vont leur fournir ces outils de travail. Et donc, ces autres
+travailleurs, eux aussi, auront été nécessaires dans le processus de fabrication
+de la veste de laine.
+
+Adam Smith se penche seulement sur le cas de l'outil le plus rudimentaire : les
+ciseaux du berger. Il faut que le mineur, le constructeur du fourneau, le
+minerai a été fondu, le bûcheron qui a coupé le bois de la charpente, le
+charbonnier qui a cuit le charbon consommé à la fonte, le briquetier, le maçon,
+les ouvriers qui ont construit le fourneau, la construction du moulin, de la
+forge, le forgeron, l'aubergiste... ça fait du monde. Et ça ne s'arrête
+évidemment pas là : le mineur non plus n'a pas fabriqué lui-même sa pioche et sa
+mine. On n'est pas dans Minecraft, hein. Donc, tu coupes du bois avec tes mains,
+tu te fais une pioche en bois, ensuite tu mines de la pierre, tu te fais une
+pioche en pierre, après tu te fais une maison... facile. L'activité du mineur
+suppose donc l'activité d'autres encore, qui supposeront l'activité d'autres
+encore, et cetera, et cetera, à n'en plus finir. Et nous n'avons parlé là que du
+plus simple des outils, des ciseaux. Imaginez ce qu'on pourrait dire à propos
+d'un navire tout entier. Finalement, combien de personnes ont été nécessaires à
+la fabrication de la veste de laine, ou de ton pull en laine moche ? On en
+viendrait à répondre, avec Adam Smith, que c'est « au-delà de tout calcul
+possible ».
+
+## L'impossibilité de fabriquer seul
+
+On pourrait poser le problème autrement en demandant : est-ce que tu serais
+capable de fabriquer cet objet tout seul ? Certaines personnes un peu timbrées
+ont voulu relever des challenges de cette sorte. Par exemple, cet homme, Thomas
+Thwaites, s'est mis en tête de fabriquer un grille-pain tout seul. Ça lui a pris
+quelque chose comme un an, et à la fin, ça ressemblait à ça, et ça avait plus de
+chances de griller l'homme que le pain. C'est un problème pour un grille-pain.
+George de la chaîne "How to Make Everything" avait des ambitions un peu plus
+raisonnables : juste faire un sandwich. Ça lui a pris quand même six mois, pour
+un sandwich qu'il trouva au final pas mal.
+
+Ces expériences sont plutôt sympas pour mettre en scène le côté
+extraordinairement complexe de la production de biens qui nous paraissent
+pourtant tellement ordinaires. Ceci dit, je tiens à souligner que même dans ces
+deux cas, on est loin, en fait on est très loin, d'une fabrication à partir de
+rien. Ils ont à leur disposition des connaissances, des moyens de transport et
+surtout, surtout, des tas et des tas d'outils efficaces. Et on a vu avec Adam
+Smith à quel point la question des outils était cruciale. Thomas Thwaites
+utilise même un micro-ondes pour finir de fondre son acier, c'est pas un truc à
+faire chez vous, les enfants. De toute façon, ne fabriquez pas d'acier. Et puis
+là, regardez-le, il a une pelle, des râteaux... c'est pas partir de rien que de
+partir avec tout ça. Et certes, il fait pousser lui-même son blé et il trait
+lui-même les vaches, mais le blé et les vaches sont des espèces domestiquées qui
+n'existent pas tel quel à l'état naturel. Leur création a nécessité un long
+travail de sélection, et donc il utilise comme ressource, ce n'est pas partir de
+rien, c'est s'appuyer sur le travail de milliers d'agriculteurs et d'éleveurs.
+
+## La comparaison finale
+
+En somme, si vraiment on vous posait sur terre la petite Homo sapiens il y a 300
+000 ans, avec rien du tout, absolument nu, avec pour unique objectif de
+fabriquer un grille-pain, ou une veste en laine, ou juste un crayon à papier
+(voilà l'objectif de ma vie, faire un crayon à papier), et bien, clairement,
+toute votre vie, tous les efforts que vous pourriez faire, n'y suffiraient pas.
+Et même à supposer que vous ne soyez pas seul, mais que vous ayez à votre
+disposition 10 000 ou 100 000 esclaves que vous pouvez faire travailler à votre
+guise (je suis pas convaincu), vous ne vous rapprocherez pas beaucoup du but si
+vous partez vraiment de rien.
+
+C'est ainsi qu'Adam Smith conclut son chapitre, en disant en gros : prenez le
+mobilier des plus grands de ce monde, et comparez-le à du mobilier Ikea. La
+différence sera moindre qu'entre le mobilier Ikea et tout ce que pourrait
+posséder le roi d'une tribu de 10 000 individus isolés du reste du monde. Tous
+les trônes que cette tribu de 10 000 individus pourrait construire à leur roi
+bien-aimé ne serait jamais plus que le fruit du travail de 10 000 individus, ce
+qui somme toute n'est pas grand-chose, tandis que le premier trône de céramique
+venu sur lequel vous posez nonchalamment vos fesses (et que du pas, négliger
+Marcel Duchamp dans sa grande sagesse), n'importe quel trône de cette sorte,
+dis-je, est le fruit du travail cumulé et de la coopération d'un nombre
+incalculable d'individus depuis des générations. Je pensais pas qu'il fallait
+toute une civilisation pour faire une cuvette de chiotte. Et pourtant si. Vous
+ne ferez plus caca de la même façon.
+
+Donc, en tu me dis : mon pull moche, il a fallu toute une civilisation pour le
+fabriquer, donc c'est merveilleux. J'ai quand même l'impression que tu m'as fait
+un cadeau bien naze. C'est vrai qu'en tout cas, ça m'a pas coûté cher. Mais j'ai
+jamais dit que ça m'avait coûté cher. J'ai seulement dit l'objet que je t'offre
+est le fruit de la coopération et du travail cumulé d'un nombre incalculable de
+gens depuis des générations et des générations. Et ça, c'est vrai. Mais j'aurais
+pu ajouter que ce que je disais de ce pull moche est vrai aussi de n'importe
+lequel des objets qui nous entourent, à commencer par cet écran que vous
+regardez par exemple. Nous vivons au milieu d'objets incroyables, des objets
+incompréhensibles, des objets que personne, littéralement personne, ne sait
+fabriquer seul, des objets à la fabrication desquels un nombre incalculable de
+gens ont, sans en avoir la moindre idée, participé aujourd'hui et depuis des
+siècles. Et ça, en soi, c'est déjà très étonnant. Ce qui n'est pas moins
+étonnant, c'est que la plupart de ces biens, en dépit du travail colossal qu'ils
+ont exigé de la part d'un nombre incalculable de gens, ne coûtent pas
+grand-chose. Et bien, dans le second épisode, j'en dirai un peu plus sur ces
+deux légitimes sujets d'étonnement, et je parlerai aussi de la fameuse main
+invisible d'Adam Smith. Oui, il avait une main invisible ? Non, en fait, non,
+c'est une blague.
+
+Mais de grâce, pour l'heure, c'est Noël, alors ne sortons pas trop vite de cet
+étonnement. Prenez le temps de regarder toutes ces choses qui vous entourent et
+songez à quel point leur fabrication, leur fonctionnement, leur existence même,
+dans cet immense réseau de coopération qu'est la société, est le fruit d'un
+processus extraordinairement complexe et qui tient presque du miracle. Et ce
+n'est pas un petit avantage de la vie en société que de rendre ce miracle-là non
+seulement possible, mais facile, ordinaire, et même tellement ordinaire qu'on ne
+le remarque plus. Est-ce que c'est pas formidable tout de même ? Bon, tu peux
+dire ce que tu veux, mais tu m'as quand même offert un pull à 20 balles. Mais ce
+pull n'en est pas moins un objet extraordinaire, et il est extraordinaire qu'il
+coûte justement si peu.
+
+## Post-scriptum et perspectives
+
+Ouais, je signale que ce passage d'Adam Smith sur la veste de laine n'est pas le
+plus connu de ce fameux premier chapitre de *La Richesse des Nations*. D'autres
+le sont bien davantage, comme par exemple celui de la manufacture d'épingles,
+dont j'aurai peut-être l'occasion de parler dans le prochain épisode. Mais
+j'avais particulièrement envie de vous parler de ce texte sur la veste en laine
+parce que je le trouve assez beau déjà, et parce que je trouve l'idée
+sous-jacente tout à fait juste et fascinante, et qu'on l'a rarement aussi bien
+exprimé.
+
+Notez toutefois qu'une idée similaire a été présentée dans un texte beaucoup
+plus récent, un texte de l'économiste Leonard Read, "I, Pencil" — c'est-à-dire
+"Moi, le crayon" — et qui, comme son titre l'indique, raconte l'histoire d'un
+crayon plutôt que d'une veste en laine. C'est du coup le crayon qui est devenu
+l'exemple favori des économistes, utilisé pour mettre en lumière l'idée de cet
+immense réseau de coopération, comme par exemple dans cette fameuse petite vidéo
+de Milton Friedman. Attends, mais lui aussi, il est du mauvais côté de la Force
+? Non, oh, ça va, pardon.
+
+Comme toujours, je vous invite à commenter, liker, à vous abonner et à partager.
+Mais oui, partagez, soyez généreux, c'est Noël ! Songez à tous ces objets
+incroyables qui seront là au pied du sapin, des objets que personne ne sait
+fabriquer, non pas même le Père Noël. Mais alors, qui les a faits et qui les a
+amenés là ? Une main invisible, peut-être ? Peut-être que le Père Noël est
+vraiment très fort. En tout cas, on en reparle bientôt dans le prochain épisode.
+Joyeux Noël, et que la Force soit avec vous.

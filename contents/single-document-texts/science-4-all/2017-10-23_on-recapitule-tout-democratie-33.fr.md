@@ -1,0 +1,224 @@
+---
+source_url: https://www.youtube.com/watch?v=QyrrvEuRNWU
+video_title: On récapitule TOUT | Démocratie 33
+generated_at: 2026-09-19T09:16:33.161Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 88.8
+  input_tokens: 3615
+  cached_input_tokens: 0
+  output_tokens: 3372
+  estimated_cost_usd: 0.00145
+  finish_reason: stop
+---
+
+# On récapitule TOUT | Démocratie 33
+
+## On récapitule TOUT
+
+Ça fait trente-deux épisodes que je vous parle de la démocratie étudiée sous
+l'angle de la théorie des jeux. On l'a étudiée en long, en large et en travers,
+et ça fait un petit peu beaucoup d'informations. Du coup, il serait bon de tout
+récapituler, histoire de mieux comprendre comment tout cela se combine, et aussi
+comme ça, si vous voulez motiver un ami à regarder toute cette série, vous
+pourrez peut-être lui conseiller de commencer par cette vidéo.
+
+Si je devais résumer cette série en un mot, ce serait le mot **incentive**. On
+peut parfois le traduire par « intérêt » ou par « incitatif ». Plus
+généralement, les incentives, c'est ce que les gens ont intérêt à faire étant
+donné le contexte et leurs préférences individuelles.
+
+Le message clé de cette série, c'est que nous sous-estimons constamment
+l'importance des incentives, et que beaucoup de choses — en politique, en
+économie, en sociologie, mais aussi en éthique et en morale — ne peuvent être
+comprises qu'à la lumière des incentives. Les incentives des uns et des autres
+conduisent à un jeu entre politiciens, entreprises ou citoyens, et ces
+incentives peuvent être incompatibles avec le bonheur général. Or, plus les
+incentives sont grands, plus ce seront eux qui gouverneront les interactions
+humaines, comme l'affirme le grand sociologue Squeeze.
+
+### Le jeu définit ce que les joueurs vont faire
+
+On a ainsi vu que les scrutins uninominaux constituent un jeu entre politiciens
+— en particulier, les scrutins uninominaux à un tour et à deux tours, ainsi que
+le scrutin à la proportionnelle —, encourageant les politiciens à s'organiser
+sous forme de parti à cause d'une propriété appelée la dépendance aux
+alternatives non pertinentes. Pire encore, ces scrutins posent un dilemme du
+vote utile aux citoyens, si bien que les résultats du scrutin ne sont pas
+forcément révélateurs des vraies préférences des citoyens.
+
+On a aussi vu que, dans le cadre de l'élection d'une seule alternative, il y
+avait des théorèmes d'impossibilité qui montraient la difficulté du choix du
+scrutin, mais aussi qu'il existait deux scrutins inventés récemment avec de bien
+meilleures propriétés que les scrutins utilisés aujourd'hui, à savoir le
+jugement majoritaire et le scrutin de Condorcet randomisé. L'utilisation de ces
+scrutins réduirait, voire ferait disparaître, tout dilemme du vote utile,
+augmenterait le pouvoir d'expression des citoyens au moment du vote, et
+éliminerait les principaux incentives à l'organisation des politiciens sous
+forme de parti politique.
+
+### Les politiciens et le modèle de Mesquita
+
+Ces politiciens, justement, on a tendance à penser qu'il s'agit de loups
+assoiffés de pouvoir. Selon le puissant modèle de Mesquita, c'est
+essentiellement le cas. Mais contrairement à ce qu'on pourrait croire naïvement,
+ceci ne veut pas dire qu'ils vont agir tels des méchants au dépens des pauvres
+et du gentil peuple, et encore moins qu'ils sont aveuglés par le pouvoir au
+point de prendre des décisions toutes plus débiles les unes que les autres.
+
+Non, selon le modèle de Mesquita, les politiciens sont avant tout de fins
+tacticiens, et leurs stratégies vont donc s'aligner avec leurs incentives. Or,
+en démocratie, pour être et rester au pouvoir, les politiciens ont tout intérêt
+à gagner le cœur des citoyens et donc à prendre des mesures qui plairont à la
+majorité. Alors, les mauvaises langues diront qu'il s'agit de populisme, mais il
+faut surtout voir qu'il s'agit d'une certaine forme de démocratie, puisque les
+décisions des politiques seront alors bel et bien fonction de la volonté
+populaire — en tout cas dans la mesure où cette volonté populaire est marquée.
+
+### Qu'est-ce qu'une bonne chose ?
+
+À ce point, la question se pose de savoir si c'est une bonne chose. Répondre à
+cette question difficile nous a fallu définir le bien et le distinguer du mal —
+ou plutôt du moins bien. Autrement dit, on a dû étudier la morale. Et là, il
+faut distinguer deux types de morale : les morales dites prescriptives ou
+normatives, qui proposent des principes ou des finalités désirables, et les
+morales dites descriptives ou prédictives, qui cherchent à décrire et à
+expliquer la morale intuitive des citoyens.
+
+On a vu que les sciences modernes considèrent que les morales intuitives sont
+les fruits de l'évolution darwinienne, et en particulier que n'ont survécu que
+les morales intuitives qui ont triomphé dans la compétition entre morales
+d'individus. Autrement dit, même notre morale intuitive est une réponse à des
+incentives. On a vu en particulier la théorie de la sélection de groupes,
+défendue notamment par le psychologue Jonathan Wright. Cette théorie postule que
+notre morale intuitive sert à consolider nos groupes et à donner envie aux
+membres du groupe de se soulever irrationnellement pour la défense des leurs.
+Autrement dit, notre morale intuitive est un hooliganisme en faveur des nôtres,
+et celui-ci est exacerbé par les symboles qui identifient les groupes auxquels
+on appartient, et parce qu'ils identifient les groupes auxquels on s'oppose.
+
+C'est ainsi que l'on a un attachement irrationnel en des principes ou des
+concepts que nos groupes sacralisent, comme la Marseillaise, la démocratie, le
+travail, la religion, la laïcité, la liberté, l'égalité ou la nation.
+
+### L'hooliganisme politique
+
+Selon John Brennan, cet hooliganisme est ce qui nous abrutit lorsque l'on
+s'intéresse à la politique. Il anéantit nos capacités cognitives et nos
+compétences mathématiques, amplifie tous nos biais cognitifs à coups de
+raisonnements motivés et de rationalisation, et nous fait tendre vers
+l'extrémisme quand on est confronté à des avis concordants. Or, selon Bryan
+Caplan, la démocratie favorise l'hooliganisme politique. En effet, parce qu'en
+démocratie chaque vote n'a essentiellement aucun effet, l'incentive des citoyens
+est d'étendre leur hooliganisme plutôt que de dépenser du temps et de l'énergie
+pour effectuer un vote informé — inutile selon Caplan. En démocratie, les
+citoyens sont rationnellement irrationnels.
+
+### Internet et la ségrégation idéologique
+
+Et pourtant, on aurait pu espérer que l'accès à de l'information fiable via
+Wikipédia et les technologies du numérique résolve le problème de l'ignorance
+des citoyens. Malheureusement, il semble que le Web n'ait fait qu'empirer
+l'hooliganisme des citoyens. Et là encore, ceci peut se comprendre en analysant
+les incentives des citoyens. En particulier, le biais de confirmation, combiné à
+la facilité du choix des sources que permet Internet, a conduit les citoyens
+similaires à se rapprocher sur Internet. Or, ce rapprochement, qui peut paraître
+innocent à l'échelle individuelle, conduit à une ségrégation idéologique massive
+à l'échelle du Web. C'est la ségrégation de Chayénline.
+
+Pire encore, la vitesse à laquelle les idéologies peuvent être partagées sur
+Internet a favorisé les idéologies virales. Autrement dit, pour gagner en
+influence, les incentives des idéologies et de leurs auteurs consistent à
+activer l'hooliganisme de leurs victimes en suscitant la fascination, la peur et
+la colère, et en s'opposant à des idéologies ennemies incompatibles. Les
+nouvelles technologies ont exacerbé l'hooliganisme.
+
+### Il faut chercher à voir le monde tel que les autres le voient
+
+Pour combattre cet hooliganisme, il est indispensable de ne pas se restreindre à
+notre vision du monde. Il est indispensable de chercher à voir le monde tel que
+les autres le voient. Oui, parce qu'au moment de prendre une décision, les
+autres sont dans un contexte différent et ont des préférences individuelles
+différentes. Les incentives des uns ne sont pas les mêmes que les incentives des
+autres. Et c'est pour ça que je n'aime pas trop les mots « intérêt » et «
+incitatif », parce qu'ils donnent l'impression qu'on a tous les mêmes intérêts
+et qu'on réagit de la même façon aux incitatifs.
+
+D'ailleurs, cette absence de prise en compte de la divergence des incentives des
+uns et des autres est quelque chose que l'on retrouve notamment dans la règle
+d'or et, plus généralement, dans les morales déontologiques. Par opposition,
+d'autres philosophies morales normatives intègrent dans leur philosophie les
+divergences des incentives des différentes personnes. C'est le cas de l'approche
+utilitariste de la philosophie morale, même si on est d'accord pour dire qu'elle
+a ses imperfections. Selon l'utilitarisme, une action est bonne si, parmi
+l'ensemble des actions qui étaient possibles à ce moment-là, il s'agit de celle
+qui maximise le bonheur général. Et ce qui est très intrigant avec cette morale
+simpliste, c'est qu'elle suffit pour remettre en cause beaucoup de principes ou
+de moyens qui nous sont chers, comme la règle d'or (qui dit qu'il faut traiter
+autrui comme on souhaiterait être traité), comme la nécessité de créer toujours
+plus de jobs pour plus de gens, et comme le principe même de démocratie.
+
+### La démocratie et l'utilitarisme
+
+En fait, le concept le plus important à retenir de cette série est peut-être
+celui d'hooliganisme politique, lequel est parfaitement illustré par notre
+organisme démocratique. Et pour ceux qui croient qu'il s'agit d'un concept
+fumeux, je conseille la superbe vidéo de Frédéric Garcia, qui suggère que
+l'hooliganisme politique correspond à l'utilisation d'une certaine partie de
+votre cerveau. Je pense que si vous cherchez à être attentifs à votre organisme,
+vous le sentirez. Typiquement, on a tous envie de dire que la démocratie c'est
+bien, et que si une décision est prise de façon antidémocratique, alors il
+s'agit nécessairement d'une mauvaise décision.
+
+Cependant, cet argument ne tient que si on présuppose que la démocratie est
+bien. De façon intrigante, pour l'utilitariste, il ne s'agit pas d'un axiome. En
+fait, les utilitaristes considèrent que la démocratie n'est bien que dans les
+cas où elle maximise le bonheur général. Or, en pratique, c'est loin d'être
+toujours le cas. Sur Wikipédia comme dans le monde de la recherche, les
+processus et les pratiques semblent bien plus utilitaristes que les décisions
+démocratiques. Et il y a fort à parier que, sur de nombreuses décisions
+nécessitant une expertise — en fin de compte, c'est le cas de la plupart des
+débats de société d'aujourd'hui —, notamment pourvu que la séparation des
+expertises soit appliquée, il s'agira d'un devoir moral pour l'utilitariste de
+contourner la démocratie, même si cette conclusion déplaît à l'organisme
+démocratique en nous.
+
+### Il reste beaucoup à explorer
+
+Wow, ça fait beaucoup de choses pour une série de trente-deux épisodes.
+Néanmoins, il ne faut pas perdre de vue l'étendue de notre ignorance. Il y a
+énormément d'analyses pertinentes de la démocratie que je n'ai pas abordées dans
+cette série mais que j'aurais aimé avoir présentées. J'aurais aimé vous parler
+des points de Schelling, des théorèmes qui formalisent le concept d'électeur
+médian, des mathématiques du vote électronique crypté, du problème de
+l'anonymisation des données personnelles, des difficultés de la formalisation du
+concept de discrimination, des impacts de l'économie sur les systèmes politiques
+mis en place — et notamment une superbe vidéo de Sidi Pigree qui suggère que la
+démocratie est une conséquence de la révolution industrielle plus que d'un
+triomphe du peuple et des philosophes des Lumières.
+
+J'aurais aimé vous parler de la décentralisation de la monnaie avec le Bitcoin,
+notamment de la charismatique raciste dans laquelle on vit, qui consiste à
+donner plus de pouvoir à des gens qui ont du charisme, des jeux de localisation
+qui expliquent为什么 les kebabs sont souvent tous au même endroit, de la
+purification de l'air à Nîmes pour comprendre l'utilité des probabilités
+bayésiennes, pour comprendre des équipes mixtes, de la théorie algorithmique des
+jeux qui se demande si les marchés sont vraiment capables de jouer en équipe, de
+Nash, de la programmation dynamique qui montre que les futurs probables
+déterminent le présent, des jeux à somme nulle qui montrent que même dans des
+populations de taille infinie le comportement du groupe se déduit encore et
+toujours des incentives individuels, ou encore des lézards de Californie qui
+montrent que dame nature est capable de calculer des équilibres de Nash.
+
+Et puis j'aurais aimé vous avoir longuement parlé des théories de Machiavel,
+pour qui le devoir moral ne réside pas dans la bonté des intentions mais dans
+l'efficacité des actions.
+
+Ça fait encore beaucoup, beaucoup de choses à explorer pour comprendre la
+démocratie. Mais comme certains parmi vous ont un petit peu envie de passer à
+autre chose, la série s'arrête là. J'espère qu'elle vous aura plu et qu'elle
+vous aura fait réfléchir. Et j'espère que vous allez lutter contre votre
+hooliganisme lors des prochains débats politiques que vous allez avoir. Avant
+d'affirmer que X est la solution à tous vos problèmes, prenez le temps de
+mesurer l'étendue de votre ignorance, et vous éviterez ainsi de tomber dans
+l'excès de confiance.

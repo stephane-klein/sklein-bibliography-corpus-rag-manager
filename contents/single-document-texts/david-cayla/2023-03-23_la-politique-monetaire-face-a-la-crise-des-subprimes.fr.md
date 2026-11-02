@@ -1,0 +1,1154 @@
+---
+source_url: https://www.youtube.com/watch?v=McBl_XjZz5I
+video_title: La politique monétaire face à la crise des subprimes
+generated_at: 2026-09-20T18:34:32.511Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 121.1
+  input_tokens: 27640
+  cached_input_tokens: 0
+  output_tokens: 31311
+  estimated_cost_usd: 0.022933
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# La politique monétaire face à la crise des subprimes
+
+Bonsoir à tous et à toutes. Nous allons reprendre aujourd’hui ce cycle de
+conférences sur la monnaie, la dette et les crises. Comme promis, nous allons
+commencer par le moment où la crise des subprimes éclate dans l’actualité. Ce
+moment, c’est celui où BNP Paribas, une banque française qui est quand même la
+plus grande banque européenne, avec un bilan total de plus de 3 000 milliards
+d’euros aujourd’hui — mais déjà à l’époque c’était considérable —, publie un
+communiqué. Vous le voyez ici : le 9 août 2007, voici comment il est rédigé.
+
+## Le communiqué de BNP Paribas du 9 août 2007
+
+« La disparition de toute transaction sur certains segments du marché de la
+titrisation aux États-Unis conduit à une absence de prix de référence. Il y a
+une illiquidité quasi totale des actifs figurant dans les portefeuilles des
+fonds, quelle que soit leur qualité ou leur rating. Cette situation ne permet
+plus d’établir une juste valorisation des actifs sous-jacents et donc de
+calculer une valeur liquidative de ces trois fonds. La valorisation des OPCVM et
+les souscriptions-rachats reprendront dès que les marchés concernés auront
+retrouvé des volumes de transaction permettant de déterminer des prix de
+référence. Dans le cas contraire, une information sur les mesures envisagées
+sera communiquée aux porteurs dans un délai maximum d’un mois. »
+
+À côté de ce jour, cela apparaît un peu comme du charabia, mais je vais
+expliquer ce qu’il faut savoir. Ce texte du communiqué, je l’ai retrouvé : il
+est encore sur le site de BNP, donc vous pouvez facilement le retrouver. C’est
+vraiment là le fac-similé que vous voyez de ce qui se trouve sur le site de BNP.
+
+Qu’est-ce que nous dit ce communiqué ? Il dit qu’il y a des fonds
+d’investissement, donc des fonds dans lesquels les clients de BNP ont placé de
+l’argent, et on ne sait plus combien valent ces fonds. On ne sait plus calculer
+le rapport qu’on est censé exprimer aux clients, aux déposants ; on est censé
+leur dire combien ils ont, parce que bien sûr ce sont des fonds
+d’investissement, donc il y a tous les contrats de fonds, capital, toutes les
+publicités, on le dit. Mais là, ce n’est pas qu’il y a une perte en capital :
+BNP n’annonce pas une perte, elle dit simplement qu’elle ne sait plus calculer
+la valeur du fond. Et donc, comme elle ne sait plus calculer la valeur du fond,
+elle est obligée de suspendre les souscriptions et les rachats, c’est-à-dire le
+fait de récupérer son argent, pendant une période ici indéterminée. Elle dit :
+quand la crise sera résolue, les choses reprendront comme avant.
+
+Alors qu’est-ce que cela signifie ? Pourquoi BNP dit qu’elle n’est plus capable
+de calculer la valeur des fonds, de ces trois fonds qui sont concernés ? Pour
+essayer de comprendre pourquoi il y a un problème, il faut se reporter au
+premier paragraphe, qui dit qu’il y a une situation d’illiquidité quasi totale
+des actifs. Qu’est-ce que cela veut dire ? Qu’est-ce que signifie une
+illiquidité des actifs ?
+
+## Qu’est-ce que la liquidité ?
+
+La liquidité d’un actif, c’est sa capacité à être échangé, c’est-à-dire la
+capacité qu’on a de le récupérer sous forme de monnaie, de transformer, de
+changer un bien qui a de la valeur contre de la monnaie. La monnaie étant ce qui
+est considéré comme liquide par définition, parce que la monnaie est toujours
+échangeable. Souvenez-vous, on l’avait dit dans la première séance : c’est ce
+qui caractérise la monnaie, c’est qu’elle est forcément acceptée dans un
+échange, elle ne peut pas être refusée dans un échange parce qu’elle a cours
+légal.
+
+Mais bien sûr, tous les actifs ne sont pas liquides. Une maison que l’on possède
+a de la valeur : on peut calculer, on peut aller voir un agent immobilier, lui
+demander de calculer la valeur de sa maison, mais elle n’est pas liquide parce
+qu’elle est compliquée à négocier, compliquée à vendre. Il y a un certain délai,
+il faut passer devant un notaire, et puis on n’est jamais certain de la vendre
+au prix que l’agence immobilière vous a dit. C’est tout le problème. Il y a des
+émissions qui parlent de cela et qui expliquent à quel point c’est difficile de
+vendre des maisons.
+
+Donc la liquidité ici dont il est question, c’est le fait que les actifs qui
+composent ces fonds — parce que quand vous prêtez de l’argent à la banque,
+celle-ci place cet argent dans un fonds, et cela correspond à l’achat d’actifs
+financiers pour vous donner une rentabilité —, et bien là BNP est confrontée à
+un problème : elle ne sait plus combien valent les actifs qu’elle possède. Elle
+ne sait plus combien valent les actifs qu’elle possède parce qu’elle est
+incapable de les revendre. Il n’y a plus de marché, en quelque sorte, le marché
+a disparu.
+
+Qu’est-ce que cela signifie, que le marché a disparu ? Cela signifie qu’il n’y a
+plus d’acheteurs. Et quand il n’y a plus d’acheteurs, c’est impossible de
+vendre, et donc c’est une situation d’illiquidité. Le problème que pose cette
+situation d’illiquidité, c’est que comme il n’y a plus d’acheteurs, il n’y a
+plus de ventes, et comme il n’y a plus de ventes, il n’y a plus de prix. Cela ne
+veut pas dire que ces actifs n’ont aucune valeur, cela ne veut pas dire qu’ils
+valent zéro, cela veut dire qu’il n’y a plus de prix.
+
+Et donc là, on se trouve devant un problème qui est au cœur du néolibéralisme,
+dont je vous ai déjà parlé la semaine dernière. Le néolibéralisme, c’est l’idée
+d’organiser la société autour du principe du prix de marché. Tant qu’il y a un
+marché, il existe des transactions ; quand il y a des transactions, il y a des
+prix ; et ces prix déterminent la valeur des choses. Mais si tout d’un coup il
+n’y a plus personne qui veut acheter un actif, il n’y a plus de transaction, et
+s’il n’y a plus de transaction, il n’y a plus de prix. Et donc combien cela vaut
+? On ne sait plus. BNP est confrontée à un vrai problème fondamental du point de
+vue de la théorie : nous avons des choses, nous avons des actifs dans nos fonds,
+nous savons qu’ils ont une certaine valeur parce qu’ils rapportent de l’argent,
+mais nous sommes incapables de connaître précisément cette valeur parce que, sur
+les marchés, plus personne ne veut de ces titres.
+
+## Le mécanisme de titrisation et les crédits subprimes
+
+Expliquons ce qui s’est passé pour en arriver à cette situation. Je reprends le
+fil de notre réflexion de la semaine dernière. Souvenez-vous, je vous ai parlé
+des mécanismes de titrisation. D’ailleurs, vous noterez que la titrisation fait
+partie du communiqué de BNP. On a titrisé quoi ? On a titrisé des crédits
+immobiliers. Pourquoi ? Pour la raison que je vous ai expliquée : un crédit
+immobilier, cela a de la valeur, mais on ne sait pas combien cela a de valeur ;
+et pour les banques, c’est compliqué, et en plus ce n’est pas liquide. Donc la
+titrisation permettait de rendre des créances non liquides, dont on ne
+connaissait pas trop la valeur parce qu’elle était un peu subjective — elle
+dépendait de la qualité des débiteurs —, en titres financiers standardisés,
+organisés sous la forme de tranches, des tranches plus ou moins risquées, avec
+un niveau de risque. Le risque de défaillance des crédits immobiliers
+apparaissait sur certaines tranches et disparaissait en quelque sorte sur
+d’autres tranches.
+
+Donc ce mécanisme de titrisation avait permis aux États-Unis, comme je vous l’ai
+expliqué aussi, d’exporter ces titres partout dans le monde, et en particulier
+dans les banques européennes. Vous voyez ici BNP, qui avait racheté ces titres
+parce qu’ils étaient considérés comme peu risqués pour la tranche senior, qui
+correspondait quand même à 80 % des titres, avec une rentabilité supérieure à la
+rentabilité des obligations publiques allemandes par exemple, qui étaient
+considérées comme sans risque mais qui avaient une très faible rentabilité.
+
+Que s’est-il passé avec ce mécanisme de titrisation ? Là aussi, j’avais terminé
+là-dessus la semaine dernière. Comme les banques se débarrassaient du risque en
+quelque sorte, puisqu’elles revendaient leurs créances à une entreprise offshore
+qu’on appelle un special purpose vehicle, c’est-à-dire un véhicule spécial, une
+entreprise qui rachetait les créances et qui se refinçait sur les marchés
+financiers, sur les marchés obligataires, comme les banques pouvaient à tout
+moment revendre leur créance, très vite elles se sont dit : finalement, cela ne
+sert pas à grand-chose de rentrer dans les procédures complexes pour attribuer
+des créances. Elles savaient qu’elles allaient toujours pouvoir les revendre, et
+donc elles se sont mises à prêter un peu à n’importe qui. Et prêter à n’importe
+qui, c’est ce qu’on appelle les crédits immobiliers subprimes.
+
+Subprime : sub comme dessous, prime comme prime. En français, en gros, c’est le
+secteur prime, le plus précisément le secteur des gens qui ont les moyens,
+c’est-à-dire des ménages considérés comme fiables du point de vue de leur
+capacité à rembourser. Il se passe ici qu’aux États-Unis il y a un système assez
+sophistiqué de notation de la qualité des ménages en termes de capacité de
+remboursement. Il y a une entreprise privée qui s’appelle Fair Isaac
+Corporation, qu’on abrège souvent sous le terme de FICO, qui établit des notes
+des ménages en fonction du risque que ces ménages comportent de défaillance, de
+non-remboursement. Cette note va de 300 à 800 : 800 étant le ménage qui n’a
+aucune chance de ne pas rembourser, et 300 étant au contraire la note de pire
+possible qu’on puisse avoir. Évidemment, personne n’est à 300 exactement, et en
+général les ménages ne sont pas à 800 ; on considère en général qu’ils sont
+plutôt entre 500 et 750. On considère qu’un ménage qui a une cote FICO, une note
+FICO, inférieure à 620, est un ménage risqué. Et donc on considère dans le
+système bancaire américain qu’un crédit accordé à un ménage avec une note FICO
+de moins de 620, c’est ce qu’on appelle un crédit subprime.
+
+Cette note FICO, au départ, a été constituée pour les crédits à la consommation,
+puis elle s’est étendue à toutes sortes de crédits aux ménages, et donc elle
+implique aussi des crédits immobiliers. Le principe d’un crédit immobilier,
+c’est qu’on ne prête pas surtout sur une échéance longue de 20 ans, 30 ans, à
+des ménages qui n’ont pas les capacités de rembourser. Donc en général,
+structurellement, les créances immobilières accordées à des ménages avec une
+cote FICO inférieure à 620 étaient très très faibles. Et puis, en fait, ce qui
+se passe, c’est qu’en raison du mécanisme de titrisation, le nombre de crédits
+subprimes ne fait qu’augmenter. On va voir dans les années 2000, entre 2001 et
+2005-2006, la masse des crédits subprimes augmenter considérablement. Elle
+représentait 57 milliards par an en 2001, et 455 milliards, donc quasiment 8
+fois plus, en 2005. Et en 2006, 20 % du marché du crédit immobilier représentait
+des crédits dits subprimes. Donc cela concernait des ménages qui a priori
+n’avaient pas les moyens de rembourser.
+
+Bien sûr, il y a un autre problème qui se passe : ces crédits subprimes, on
+arrive à les mesurer lorsque les opérations de crédit immobilier sont faites en
+bonne et due forme, c’est-à-dire avec un véritable questionnaire. Parce qu’à
+chaque fois qu’on fait un crédit immobilier, il y a un contrat dans lequel on
+fait passer un questionnaire sur les revenus, l’âge, les emplois, etc., la
+situation financière et personnelle, parce que cela compte aussi pour les
+personnes qui empruntent. Mais ce qui se passe aussi à ce moment-là,
+c’est-à-dire au milieu des années 2000, c’est que les banques, ayant toujours
+intérêt à faire toujours davantage de crédit immobilier, vont embaucher des
+courtiers, donc des courtiers qui vont les représenter, qui vont démarcher les
+ménages, des courtiers qui parfois ne seront pas fiables, et parfois on va
+fermer les yeux sur la fiabilité. Et donc il va se passer que certains contrats
+immobiliers seront remplis d’informations fausses : ce sont donc des crédits
+frauduleux. C’est-à-dire que officiellement les gens gagnent suffisamment
+d’argent pour rembourser un crédit immobilier, mais en réalité ce ne sont pas
+les véritables revenus, les véritables emplois, les véritables situations qui
+sont indiqués sur les questionnaires qui accompagnent le contrat.
+
+Ce qui fait que le special purpose vehicle, donc l’entreprise offshore qui
+rachète ces créances, ne sait pas toujours ce qu’elle rachète, puisque ce n’est
+pas le contenu réel du contrat de crédit immobilier qui correspond à la réalité.
+La deuxième chose qu’il faut dire sur les crédits subprimes, c’est que cela veut
+dire que certains contrats prime sont en réalité des contrats subprimes ; il n’y
+a aucun moyen de le savoir. Le seul moyen, le seul moment où on peut le savoir,
+c’est quand la personne, le ménage, arrête de rembourser ses traites. Dans ce
+cas-là, on s’aperçoit que ce contrat n’était pas fiable. Ou alors il faut faire
+une enquête vraiment poussée pour aller vérifier si la personne qui a emprunté
+pour acheter cette maison a dit la vérité sur son contrat, sachant que parfois
+ce n’est pas elle qui remplit le questionnaire. C’est tout le problème : parfois
+les gens sont honnêtes individuellement, c’est le courtier qui est malhonnête,
+ou la banque qui parfois fait exprès d’embaucher des courtiers malhonnêtes, ou
+est elle-même malhonnête. C’est-à-dire qu’on ne peut pas savoir si ce contrat
+est prime ou subprime.
+
+À cela s’ajoute un autre problème : la plupart des contrats subprimes — j’avais
+le chiffre mais je ne l’ai pas pris, je ne l’ai pas mis sur la diapo, mais peu
+importe, à peu près 80 %, ce ne sont pas les chiffres exacts, mais c’est un
+ordre de grandeur, une très grande majorité des crédits subprimes — sont
+accordés avec le principe d’un taux d’intérêt qui change au cours du temps.
+Alors ce n’est pas des taux d’intérêt modifiables tels qu’on peut les faire en
+France ou dans d’autres pays ; c’est un mécanisme particulier dans lequel les
+deux premières années les taux d’intérêt sont très faibles, à tel point que,
+bien que le ménage rembourse ses traites, son niveau d’endettement peut ne pas
+baisser, voire même augmenter. Pourquoi ? Parce que normalement, vous comprenez,
+dans un crédit immobilier, vous remboursez chaque mois des traites, et cela
+correspond d’une part aux intérêts et d’autre part au capital que vous
+remboursez. En France, il est bien sûr interdit de faire des crédits, de faire
+payer des traites qui ne remboursent pas tous les intérêts ; vous devez avoir un
+échéancier avec des traites identiques chaque mois. Vous voyez, si vous avez
+déjà fait un crédit immobilier, vous savez qu’au début vous remboursez beaucoup
+d’intérêts, parce que c’est l’intérêt qui court sur tout le capital que vous
+allez emprunter sur la durée du prêt, et puis progressivement, au fur et à
+mesure que vous approchez de l’échéance, vous remboursez une part de plus en
+plus importante du capital.
+
+Et bien les crédits subprimes, beaucoup de crédits subprimes ont été dits à taux
+variables, ce qui voulait dire que les deux premières années on avait des taux
+faibles pour que les traites soient faibles, et puis après la deuxième ou
+troisième année, le taux changeait, le montant des traites changeait, et on
+arrivait donc à des taux d’intérêt bien plus élevés. Parfois, le capital entre
+le moment où on a contracté le prêt et le moment où la traite augmentait et le
+taux d’intérêt augmentait, et bien on avait parfois, et cela pouvait arriver, un
+capital qu’on devait rembourser qui augmentait parce que les traites qu’on
+payait ne couvraient pas l’ensemble des intérêts. Vous voyez, c’est comme si
+vous remboursiez un capital négatif en quelque sorte.
+
+Quel était l’objectif de faire ce genre de contrat ? Clairement, les personnes
+qui accordent ces crédits savent pertinemment, quand elles font le contrat,
+qu’il y a toutes les chances pour que le ménage fasse défaut au bout des deux
+ans. Alors on pourrait se dire : quel intérêt ? Et bien l’intérêt, c’est que
+quand un ménage américain fait défaut, aux États-Unis on a des crédits
+hypothécaires immobiliers. Crédit hypothécaire, cela veut dire quoi ? Cela veut
+dire que vous mettez votre maison en hypothèque, et donc si vous ne remboursez
+pas, la banque a le droit de saisir votre maison. C’est une forme de contrainte
+pour obliger les ménages à rembourser, mais d’un autre côté, les ménages pendant
+deux ans ont vécu sans forcément payer le loyer, enfin ils ont payé une traite
+qui pouvait être faible. Et parfois, pour la banque, l’idée de saisir la maison
+peut être aussi une opportunité de spéculer sur la hausse des prix des maisons,
+la hausse des prix de l’immobilier.
+
+## La bulle immobilière et l’explosion des défauts
+
+Il y a un autre phénomène qui apparaît dans les années 2000 : c’est une bulle
+immobilière exceptionnelle en ampleur, qui touche tous les États-Unis. Ce petit
+graphique que je viens de vous afficher montre, vous voyez, en rouge, un indice
+du prix des maisons, du prix immobilier. Vous voyez que cet indice a toujours
+été autour de 100, c’est l’indice historique, et puis tout d’un coup, au début
+des années 2000, il explose : il passe à 185 en 2005. Ce graphique, vous pouvez
+le retrouver sur Wikipédia, c’est là que je l’ai pris, mais lui-même est tiré
+d’un livre qui s’intitule *Irrational Exuberance*. Au-delà de l’indice des prix
+immobiliers, ils montrent aussi quelques autres indices : le coût réel de
+construction des maisons — on voit que cela augmente mais pas tellement —,
+l’évolution de la population, et puis les taux d’intérêt américains à 10 ans,
+dont on reparlera tout à l’heure.
+
+Pourquoi tous ces chiffres ? Parce qu’on peut penser qu’il peut y avoir des
+corrélations entre ces données. A priori, par exemple, plus le taux d’intérêt
+est faible, plus cela va inciter les gens à acheter des crédits, des maisons.
+Mais là, on voit qu’en 2005 il était à 4 %, ce qui n’est pas extraordinairement
+faible. Plus la population augmente, plus on se dit qu’il y a une tension sur le
+marché immobilier. Et puis le coût de construction aussi peut avoir un impact
+sur le prix immobilier. Mais vous voyez qu’aucun de ces chiffres n’explique la
+bulle qu’il y a dans les années 2000, qui correspond quasiment à une
+multiplication par deux. Bien sûr, c’est une moyenne aux États-Unis, ce qui veut
+dire que dans certains États, certaines régions, certaines villes, on peut avoir
+une multiplication par beaucoup plus que deux, voire trois. On a des prix
+immobiliers qui peuvent arriver à des sommets.
+
+Alors évidemment, quand les prix augmentent aussi fortement, cela voulait dire
+que si quelqu’un achète une maison et la revend deux ans plus tard, il est
+quasiment certain de gagner de l’argent. Et donc ce que font les banques — elles
+n’ont pas le droit de faire cela, même pas de spéculer sur le prix des maisons,
+mais si elles accordent des prêts à des ménages dont elles savent qu’ils vont
+faire défaut, qui ne vont pas pouvoir rembourser, et qu’elles organisent un
+système pour que les traites augmentent au bout de deux ou trois ans —, elles
+sont absolument persuadées que dans deux ou trois ans le ménage fera défaut,
+qu’elle pourra récupérer la maison, qu’elle devra la revendre et qu’elle fera
+une marge. Donc non seulement elle aura gagné le montant des traites pendant
+deux ou trois ans, mais en plus elle aura gagné la plus-value qu’elle fera sur
+la maison qu’elle revendra. On comprend bien que ce mécanisme est devenu très
+très profitable parce que justement la bulle immobilière rendait l’opération
+profitable.
+
+Bien sûr, comme on dit, les arbres ne montent pas jusqu’au ciel. Le mécanisme
+qui consistait à toujours prêter davantage d’argent à des ménages dont on savait
+qu’ils n’avaient pas les moyens de rembourser, pour spéculer sur la hausse
+immobilière, tout cela, quand toutes les banques commencent à le faire, finit
+par déraper. Et cela dérape à quel moment ? Au moment où la bulle explose,
+c’est-à-dire en 2006. En 2006, on a un taux de défaillance des crédits
+immobiliers qui explose. Il explose pour plein de raisons : d’abord parce qu’on
+a beaucoup prêté à des gens qui n’étaient pas fiables ; ensuite parce que les
+prix de l’immobilier avaient atteint un niveau tel que pas grand monde pouvait
+acheter. Et donc les banques se retrouvent à avoir du mal à revendre les biens
+immobiliers qu’elles saisissent à cause des défaillances. Comme elles ont du mal
+à revendre, elles sont plusieurs à revendre, du coup cela fait baisser les prix.
+Les prix baissent à un moment donné parce que plus personne ne peut acheter et
+parce que toutes les banques qui se retrouvent avec des défaillances de crédit
+immobilier sur les bras, et donc à devoir revendre des maisons, n’arrivent plus
+à trouver des acheteurs.
+
+Pour vous donner un chiffre : je vous ai dit la semaine dernière que le taux de
+défaillance sur le crédit immobilier aux États-Unis n’avait jamais excédé 2 %,
+il était aux alentours de 2 %, un peu moins, en 2006. Et bien ce taux de défaut,
+de défaillance de crédit immobilier, monte à 9,7 %, donc quasiment à 10 %.
+
+Et là, souvenez-vous, je vous ai expliqué que le mécanisme de titrisation était
+lié au fait que lorsqu’il y avait des pertes sur les créances immobilières,
+elles affectaient d’abord certains titres à risque, les 5 % de titres equity,
+c’est-à-dire des titres qu’on vendait à des fonds d’investissement, du
+capital-risque par exemple, qui avaient une forte rentabilité mais une forte
+chance de perte. Bien sûr, tout cela s’évapore tout de suite en 2006 : les
+titres equity ne valent plus rien du tout. Mais 9 % de pertes, cela veut dire
+aussi que les titres mezzanine, intermédiaires, eux aussi font beaucoup de
+pertes. Et même en réalité une partie des titres dits seniors, c’est-à-dire les
+titres qui étaient considérés comme sans risque, au même niveau que l’État
+américain, eux aussi commencent à perdre. Et donc c’est là que la panique
+commence à arriver dans tout un ensemble de la finance, puisque les CDO,
+c’est-à-dire ces titres adossés à de l’immobilier, finissent par avoir
+finalement une très mauvaise réputation.
+
+Les banques se disent : combien cela vaut, ces machins ? Est-ce que le taux de
+défaillance va continuer d’augmenter ? Est-ce que les maisons qu’on va
+récupérer, si elles sont invendables, cela va faire des pertes sèches ? Parce
+que là aussi il faut comprendre un truc : une maison, quand vous ne la vendez
+pas pendant six mois ou un an, au bout d’un moment elle perd en valeur, parce
+que le jardin commence à être en friche, les squatteurs peuvent arriver, une
+maison qui n’est pas habitée peut devenir très vite inhabitable. Donc le
+problème, c’est qu’il y a un effet en cascade de ces défaillances, qui arrivent
+de manière concomitante avec la chute du prix immobilier.
+
+Il y a aussi un autre effet : certains ménages se disent : à quoi cela sert que
+je paye des traites sur une maison qui a perdu en valeur ? J’ai acheté cette
+maison un million de dollars, bon, maintenant le marché a tellement baissé que
+je trouve des maisons similaires à 700 000 dollars. Je préfère faire défaut sur
+mon prêt et puis éventuellement je rachète une maison à 700 000 dollars parce
+que le prix a baissé, alors que l’emprunt que j’ai encore en cours porte sur un
+million de dollars. Donc je préfère faire défaut et vous laisser ma maison. Vous
+voyez, le ménage peut avoir un capital net négatif, donc il faut qu’il se mette
+en faillite ; c’est rationnel pour eux de se mettre en faillite puisque
+l’emprunt qu’ils ont contracté — s’ils ont remboursé un peu, mettons ils ont
+emprunté il y a deux ans à un million de dollars, maintenant ils ont remboursé
+un peu, il leur reste 950 000 dollars à rembourser, mais leur maison vaut plus
+que 700 000 dollars — donc cela veut dire qu’ils ont un capital négatif. Pour
+eux, il vaut mieux se mettre en faillite. Donc il y a un mécanisme à la fois —
+je ne dis pas que la plupart des ménages faisaient cela, parce que je pense que
+les gens ne faisaient pas ce calcul en général, mais on a vu des histoires comme
+quoi les ménages faisaient faillite, défaut sur leur emprunt exprès, pour éviter
+d’avoir remboursé quelque chose encore sur des années et parce qu’ils avaient un
+capital négatif.
+
+Évidemment, vous comprenez bien que ces titres, ces titres adossés sur des
+créances immobilières qui avaient été vendus comme des titres sans risque et qui
+soudainement apparaissent comme titres risqués, posent problème pour les banques
+et les détenteurs. Il y a deux problèmes. Le premier problème, c’est : combien
+cela vaut ? Et en fait on n’en sait rien, parce que pour savoir combien cela
+vaut, il faut regarder parmi les contrats, les créances sur lesquelles sont
+adossés ces titres, lesquelles ont de la valeur, lesquelles sont frauduleuses,
+lesquelles sont accordées à des ménages qui risquent de faire défaut. Bref, le
+problème de la titrisation, c’est que tout est effacé. C’est-à-dire que nous, on
+a acheté un produit standardisé, donc une obligation émise par le special
+purpose vehicle, dont on nous dit qu’elle est adossée à des créances
+immobilières, mais les créances immobilières, on ne sait pas ce qu’elles sont
+réellement.
+
+Et donc c’est la raison pour laquelle les gens arrêtent d’acheter ces titres, et
+ils arrêtent d’acheter ces titres tous en même temps en 2007. Et c’est parce
+qu’il n’y a plus d’achat que BNP publie son communiqué, parce qu’elle détient
+beaucoup de ces titres immobiliers. Mais elle n’est pas la seule. En fait, le
+problème qui se passe, c’est qu’il y a des centaines de milliards de dollars qui
+ont été exportés et sur lesquels on ne sait plus vraiment ce qu’ils valent. Cela
+ne veut pas dire qu’ils ne valent rien, parce qu’il y a quand même un actif
+derrière : il y a une vraie maison derrière quand même à chaque fois, même dans
+les titres frauduleux il y a une maison derrière. Mais cette maison a moins de
+valeur qu’avant, et les personnes qui sont censées rembourser les emprunts,
+certains ne vont pas rembourser.
+
+Alors le problème, c’est qu’avec ce mécanisme de taux variable qui change au
+bout de deux ans, on ne sait pas : il y a un effet retard en quelque sorte. Donc
+on sait qu’il va y avoir des pertes, mais on sait qu’elles vont apparaître plus
+tard. Et donc là, évidemment, cela fait peur à tout le monde. Donc non seulement
+les banques arrêtent d’acheter des titres immobiliers, mais celles qui en ont
+sont incapables de savoir ce que valent ce qu’elles ont acheté.
+
+## L’omelette, l’opacité et le risque systémique
+
+Pour essayer d’expliquer ce problème, on a utilisé à l’époque une métaphore qui
+était celle de l’omelette. Qu’est-ce que c’est que la titrisation ? La
+titrisation, si on prend des actifs qui ont la valeur des créances immobilières,
+puis on les met ensemble, puis on les mélange, en fait on fait une omelette
+avec, et puis cette omelette, on va ensuite la mettre au four et puis la servir
+à ses clients de banque. On sait, souvenez-vous, qu’il y a toujours un certain
+nombre d’œufs qui sont pourris, c’est-à-dire des créances qui ne sont pas
+remboursées. Mais si vous avez une omelette avec 20 œufs et qu’il y en a un qui
+est pourri, j’ai envie de dire, cela ne va pas trop sentir. Vous allez me dire :
+oui, cela va sentir un peu pourri, bref, peu importe, tout omelette... j’ai
+jamais fait une omelette avec des œufs pourris, mais imaginons. En tout cas,
+cela peut passer : c’est le taux de défaillance auquel on s’attend. Et puis les
+taux de référence augmentent, et puis maintenant ce n’est plus un œuf sur 20 qui
+est pourri, c’est 9 sur 10, puis un œuf sur cinq. Alors là, quand vous commencez
+à arriver à 9 sur 10, votre omelette, vous êtes sûr qu’elle est toute
+contaminée, elle est toute mauvaise. Autrement dit, les titres n’ont plus du
+tout la même valeur selon que le taux de défaillance est de 2 % ou de 10 %. Cela
+n’a plus du tout la même sens, cela change tous les calculs. Et donc qui veut de
+ces titres ? Personne. Et donc si personne n’en veut, il n’y a plus de marché ;
+s’il n’y a plus de marché, ce n’est plus « combien cela vaut ».
+
+Le vrai problème, c’est qu’il y a encore dans mon omelette — dans l’exemple un
+peu analogique bizarre — quatre œufs sur cinq qui sont bons encore. C’est-à-dire
+qu’il y a quand même des créances qui vont être remboursées, quand même des
+ménages américains qui vont payer leurs traites, il y a quand même des crédits
+immobiliers qui ont été accordés à des ménages qui sont faibles. Mais le
+problème, c’est que comme on a tout mélangé, puis tout recuit, puis tout
+restructuré, souvenez-vous, ces mécanismes, et puis qu’on a vendu cela dans le
+monde entier, et bien en fait il faut faire un travail immense pour aller
+retrouver les créances réelles, retrouver les questionnaires, vérifier que ces
+questionnaires avaient été remplis et signés par des gens compétents et fiables.
+Et donc pendant qu’on fait ce travail, on ne sait pas réellement combien de
+subprimes vont exploser dans le système. Comprenez le problème de ce mécanisme
+de titrisation : il rend tout opaque. C’est quand on a mélangé tous les œufs,
+essayer de les reprendre les uns avec les autres. Pour les œufs c’est impossible
+; pour les créances immobilières c’est possible, mais c’est long. Et pendant ce
+temps, on ne sait pas. Et comme on ne sait pas, c’est très angoissant. Et cela,
+la finance n’aime pas du tout. Elle n’aime pas du tout savoir qu’il y a des
+pertes qui vont apparaître mais ne pas savoir où, ne pas savoir sur qui, ne pas
+savoir même combien. C’est-à-dire qu’on ne sait pas si le taux de défaillance va
+rester à 10 % ou s’il va passer à 15 % ou 20 %, puisque certains crédits
+immobiliers, encore une fois, sont totalement frauduleux.
+
+Donc le temps qu’on retrouve les personnes concernées, qu’on fasse les créances,
+les banques qui ont vendu, etc., et bien on est dans l’incertitude la plus
+totale. Et donc ce qui va se passer, c’est que le système financier va rentrer
+en crise : une crise qui est à la fois liée aux pertes réelles avérées des
+titres immobiliers, mais aussi une autre crise liée à la perte de confiance dans
+le système financier. Et puis il y a un autre problème : ces pertes vont peser
+sur qui ? Qui n’a pas acheté de créances immobilières ? En fait, personne ; tout
+le monde en a acheté. Mais combien on en a acheté ? Et est-ce qu’on a acheté à
+un special purpose vehicle qui était fiable, qui a acheté des bonnes créances,
+ou un special purpose vehicle qui a acheté n’importe quoi ? Comment peut-on
+savoir ? On n’en sait rien. Cela veut dire que non seulement on ne sait pas qui
+va faire faillite, mais si cela se trouve, quand on est un banquier, c’est
+soi-même qui allons faire faillite, et on ne le sait pas. On est dans une
+situation à l’été 2007 où on se rend compte — vous voyez, c’est comme la mer qui
+baisse : tout d’un coup les épaves apparaissent — qu’il va y avoir des pertes,
+mais personne ne peut savoir sur qui elles vont peser. Et évidemment cela
+stresse tout le monde, cela stresse le système. En fait, c’est ce qu’on appelle
+un risque systémique : le système dans son ensemble, le système bancaire dans
+son ensemble, va voir apparaître des pertes et ne sait pas où, quand et combien.
+
+Évidemment, cela a une conséquence : les banques n’osent plus se prêter. Elles
+ne se prêtent plus parce qu’il y a un souci dans le système bancaire.
+Souvenez-vous, on parlait — je crois que c’est la deuxième séance — du marché
+interbancaire. Le marché interbancaire, c’est les banques qui se prêtent les
+unes aux autres pour couvrir leurs besoins de liquidité, et cela les banques le
+font tout le temps, cela fait partie des opérations de base de tout banquier.
+Mais si une banque fait faillite pendant la nuit et qu’on lui a prêté, même à
+deux jours, de l’argent, et que le lendemain matin elle est en situation de
+faillite, et bien on a perdu son argent. Donc les banques vont arrêter de se
+prêter entre elles, et cela va bloquer ce qu’on appelle le marché interbancaire
+: le principe de liquidité qui circule entre les banques ne circule plus. Toutes
+les banques vont chercher à garder devant elles, en quelque sorte, un matelas de
+sécurité de liquidité pour faire face à leurs opérations de paiement classiques,
+plutôt que de chercher à gagner un tout petit peu d’argent en prêtant à d’autres
+banques qui pourraient faire faillite dans la nuit.
+
+## La crise de liquidité et l’intervention des banques centrales
+
+Donc c’est le premier problème : comment faire pour résoudre cette crise de
+liquidité ? Cette crise de liquidité apparaît dès le communiqué de BNP que je
+vous ai montré, c’est-à-dire au moment où les choses éclatent. À ce moment-là,
+les banques arrêtent de se prêter. Alors vous comprenez ce qui se passe : c’est
+la banque centrale qui, en tant que banque centrale, a pour rôle de garantir la
+liquidité des banques, du système bancaire. C’est elle qui va commencer à
+prêter, mais elle va prêter beaucoup plus que ce qu’elle a l’habitude de faire,
+parce qu’en général elle ne prête que marginalement ; l’essentiel des liquidités
+sont transférées d’une banque à l’autre. Mais là, ce qui se passe en août 2007,
+c’est qu’il y a beaucoup de banques qui ne veulent plus prêter à d’autres
+banques et, au contraire, veulent garder un matelas de liquidité. Donc la banque
+centrale est obligée de prêter des centaines de milliards d’euros — enfin je
+parle ici en Europe, mais c’est vrai aux États-Unis —, des centaines de
+milliards sont prêtés aux banques en quelques jours pour qu’elles puissent
+accumuler des stocks de liquidité et simplement fonctionner.
+
+À ce propos, petite parenthèse : si certains d’entre vous ont vu la série
+espagnole *La Casa de Papel*, la maison de papier, celle où on imprime les
+billets, l’impression nationale, et puis ils veulent des billets, et à la fin de
+la série, vous vous souvenez, ils justifient leur action en disant : « Mais
+nous, on ne fait que voler de l’argent de la banque centrale. » Mais les banques
+ne sont pas privées de voler des centaines de milliards d’euros à la banque
+centrale. C’est comme cela que se termine la série. Il y a une erreur dans ce
+raisonnement, parce que les banques n’ont pas volé l’argent de la banque
+centrale et ne l’ont même pas reçu en don : c’était des prêts à court terme, des
+mécanismes classiques de refinancement. Ce qui s’est passé pendant l’été 2007,
+c’est que les banques centrales ont déversé effectivement beaucoup d’argent dans
+les banques pour augmenter leur liquidité, leurs réserves de liquidité, sans —
+comment dire ? — en allégeant considérablement les procédures des guichets
+ouverts, plus besoin de rendre des comptes, de mettre en pension des actifs, et
+encore que sur ce dernier point je ne suis pas sûr qu’ils aient supprimé la mise
+en pension. Mais en tout cas, il y a eu un principe : vous avez besoin de 100
+milliards, et bien je vous donne 100 milliards. Mais ce n’était pas du don au
+sens strict ; évidemment, il n’y a jamais de don, c’est toujours des prêts. Donc
+cela n’a rien à voir avec le fait de voler de l’argent. C’est pour dire que
+beaucoup de gens n’ont pas les bonnes informations pour comprendre ce qui s’est
+passé en 2007.
+
+En fait, il ne s’est pas passé grand-chose — je veux dire par là que cela n’a
+pas eu beaucoup d’effet de prêter des liquidités à des banques —, pourquoi ?
+Parce que ces banques avaient peut-être peu de liquidité avant parce qu’elles
+savaient qu’elles pouvaient toujours compter sur les autres, sur les collègues
+banques, pour emprunter. Donc elles n’avaient pas besoin de garder beaucoup de
+liquidité. Tout d’un coup, on a un risque : le risque que quelques banques
+fassent faillite parce qu’on sait qu’il va y avoir des pertes et on ne sait pas
+sur qui elles vont tomber. Donc, par mesure de sécurité — c’est bien logique —,
+les banques arrêtent de prêter. Du coup, toutes les banques se retrouvent avec
+des besoins de liquidité. La banque centrale, c’est son rôle, elle donne les
+liquidités aux banques pour que le système puisse fonctionner.
+
+Autre petite parenthèse : vous entendez qu’il y a deux semaines il y a eu une
+faillite retentissante, la faillite de la Silicon Valley Bank. On a dit qu’il y
+a eu un bank run, c’est-à-dire que les gens sont courus au guichet pour demander
+de retirer leur argent. Ils n’ont pas couru physiquement au guichet, mais ils
+ont donné des ordres de virement à la banque. Quand on fait passer un ordre de
+virement à la banque, et bien il faut que la banque ait de l’argent.
+Souvenez-vous, j’ai dit : de l’argent, c’est ce qu’elle a en réserve dans la
+banque centrale. Bon, comme tout le monde demandait de retirer son argent, la
+banque s’est très vite trouvée à court de liquidité, on va dire. Mais la banque
+centrale, pourquoi n’est-elle pas intervenue comme elle est censée le faire pour
+garantir la liquidité ? Parce que les taux d’intérêt ne sont plus à 0 %. Les
+taux d’intérêt sont à 4 %, 4,75 % aux États-Unis. Et le problème de la Silicon
+Valley Bank, c’est qu’elle n’avait pas les moyens de payer les intérêts.
+C’est-à-dire qu’elle était dans une situation tellement précaire à la base que
+le fait d’emprunter à la banque centrale, même à court terme, pour avoir de la
+liquidité à ces taux-là, la rendait immédiatement en faillite. Donc elle a voulu
+revendre des obligations publiques plutôt que d’emprunter à la banque centrale,
+mais elle les a revendues à perte, et cela fait les mêmes pertes, parce que tout
+taux d’intérêt, enfin la valeur des obligations... Elle était coincée.
+C’est-à-dire qu’elle n’a pas eu un problème comme on le dit de liquidité —
+puisqu’une banque peut toujours demander la liquidité à la banque centrale —,
+mais un problème de solvabilité, parce que le coût de la liquidité n’était pas
+du tout 0 et que, comme elle avait besoin de beaucoup de liquidité parce qu’on
+n’avait pas assez gardé en réserve, et bien elle se retrouvait à devoir perdre
+de l’argent pour continuer de donner à ses clients l’argent qu’ils voulaient
+récupérer. Donc pour vous dire que la liquidité, cela coûte quand même pour une
+banque, et c’est pour cela qu’il faut aussi faire des réserves.
+
+## L’année 2007-2008 : taux d’intérêt, faillites et TARP
+
+Donc on a eu cette crise de liquidité à l’été 2007, qui s’est poursuivie,
+pourquoi ? Parce que pendant un certain temps, pendant plusieurs mois, on est
+retrouvé dans cette situation. Le marché immobilier s’est retourné en 2006. Une
+forme de compte à rebours s’enclenche : il va y avoir des défaillances, combien
+on ne sait pas, quand, sur qui cela va tomber, on ne sait pas. Et donc pendant
+tout l’été 2007, puis l’automne 2007, puis le début 2008, on sait qu’il va y
+avoir des pertes, mais elles vont arriver progressivement, au fur et à mesure
+que les crédits subprimes vont s’avérer subprimes, c’est-à-dire non rentables,
+c’est-à-dire frauduleux, etc. Tout cela va paraître avec retard à cause de ce
+principe de taux d’intérêt décalé et de traites pas importantes qui deviennent
+importantes après. Donc évidemment le système est un peu angoissé, on va dire,
+si je peux me permettre cette analogie.
+
+Que font les banques centrales à ce moment-là ? À part ouvrir grand leur
+liquidité, elles ne font rien. Elles se disent : on ne va pas baisser le coût de
+l’argent parce que quelle est la nature de ce problème ? C’est qu’on a trop
+prêté. Souvenez-vous, là aussi deuxième séance : comment fait-elle pour réguler
+le système bancaire et financier, la banque centrale ? Elle décide des taux
+d’intérêt. Quand elle décide de baisser ces taux, cela va augmenter le crédit.
+Là on est dans un état de surendettement global puisqu’on a prêté à n’importe
+qui. Donc logiquement les banques centrales ne veulent pas baisser les taux
+d’intérêt. Alors la banque centrale américaine le fait : elle baisse ses taux
+d’intérêt, on va le voir tout à l’heure. Mais la Banque centrale européenne ne
+baisse pas ses taux, parce qu’elle veut freiner la spéculation, elle veut
+freiner l’achat de biens immobiliers, parce que les biens immobiliers il y en a
+aussi en Europe. Donc l’objectif des banques centrales, c’est d’assurer la
+solvabilité du système financier et de garantir des taux d’intérêt suffisamment
+élevés pour éviter de poursuivre la logique de spéculation qui avait enflammé le
+marché immobilier. Donc elle maintient des taux d’intérêt à peu près
+suffisamment élevés, et en même temps elle garantit les liquidités.
+
+Ce que je veux dire ici, c’est que le fait qu’elle permette à toutes les banques
+d’emprunter à court terme pour avoir des liquidités ne veut pas forcément dire
+qu’elles vont alléger leur politique monétaire. Ce sont deux choses différentes
+: elles ne vont pas forcément baisser les taux pour inciter à l’emprunt, parce
+qu’il n’y a pas encore de crise économique à ce moment-là. Bon, alors elles vont
+tenir un an, et même à l’été 2008 — un an plus tard —, en juillet 2008, la
+Banque centrale européenne monte d’un quart de point son taux d’intérêt, parce
+qu’elle se dit : quand tout ce système-là, bon, crédit immobilier, il y a 20 %
+des créances en 2006 qui étaient subprimes, et bon, il y a un risque bien sûr,
+mais le vrai risque, cela serait qu’on continue dans l’accélération de
+l’endettement global. Donc maintenant, des taux d’intérêt élevés, et puis soyons
+confiants sur l’avenir.
+
+Et puis les banques font faillite les unes après les autres. On a Northern Rock,
+je crois, qui fait faillite en Angleterre. On a les banques spécialisées en
+crédit immobilier Freddie Mac et Fannie Mae, qui elles aussi doivent être
+sauvées par le gouvernement américain. Et puis on a un certain nombre de banques
+qui ont des pertes et qui font des faillites. Et puis on se dit : bon, on va
+laisser le système s’assainir tout seul, et puis ensuite tout reviendra normal.
+Jusqu’au 15 septembre 2008, où là, et bien c’est la faillite de Lehman Brothers.
+
+Ce n’est pas la première banque qui fait faillite, mais celle-ci, contrairement
+aux autres, n’est pas rachetée, n’est pas sauvée, et donc elle fait vraiment
+faillite. Le gouvernement américain est au courant qu’il y avait une faillite,
+et donc il a un choix simple à faire : soit on trouve quelqu’un pour la
+reprendre et éviter la faillite, soit on la laisse faire. Ce qui s’est passé en
+Suisse cette semaine [NDLR : allusion au Crédit Suisse], au bout d’un moment
+cela ne va pas les inciter à être un peu responsables. Assurez-vous pour la
+Silicon Valley Bank et pour le Crédit Suisse : les actionnaires vont tout perdre
+et pas les clients. On ne va pas sauver tout le monde, mais cela coûte cher
+aussi, et ce n’est pas toujours bien vu par l’opinion.
+
+Donc là, pour Lehman Brothers, on s’est dit : est-ce qu’on laisse Lehman
+Brothers faire faillite ? Est-ce qu’on trouve un repreneur ? Est-ce qu’on la
+nationalise pour éviter les pertes ? C’est un gros mot, mais bon, les Américains
+peuvent faire cela, ils peuvent nationaliser au moment où il y a besoin, ils
+sont assez pragmatiques. Bon, le ministre des Finances de l’époque, Paulson,
+s’est dit : finalement, on ne va rien faire, on va laisser faire, cela donnera
+le ton à tout le monde, et comme cela on fera en sorte que les banquiers ne
+soient pas toujours sauvés de leur turpitude. Alors pourquoi est-ce qu’il a
+décidé de laisser Lehman Brothers faire faillite ? Sans doute pour cette
+raison-là, et sans doute aussi parce que finalement ce n’est pas une banque si
+importante que cela. Pourquoi ? Parce que c’est une banque d’affaires, cela veut
+dire que ce n’est pas une banque de dépôt. Quand c’est une banque de dépôt qui
+fait faillite, il faut assurer des clients, et cela c’est problématique parce
+que cela coûte très cher. Mais quand c’est une banque d’affaires, les gens qui
+donnaient de l’argent — comment dire ? — qui demandaient d’investir à cette
+banque d’affaires, dans ces banques d’affaires, ils sont conscients des risques
+qu’ils prennent. Donc cela ne concerne pas directement la sécurité des paiements
+: ce n’est pas une banque qui fait des paiements classiques, c’est une banque
+d’investissement qui est là pour investir sur les marchés financiers.
+
+Deuxième raison : le bilan total de Lehman Brothers, c’est 600 milliards de
+dollars. Alors c’est beaucoup, mais le gouvernement américain s’est dit :
+d’accord, c’est beaucoup, mais sur ces 600 milliards il ne va pas y avoir 600
+milliards de pertes, pourquoi ? Parce qu’il y a des actifs qui sont rentables.
+C’est-à-dire que quand on va faire la procédure de faillite, il y a des choses
+qui vont valoir de l’argent, par exemple les immeubles que possède la banque.
+Quand on dit d’un bilan de 600 milliards, cela veut dire qu’un total d’actifs a
+priori et de passifs qui est égal à 600 milliards. Sur ces 600 milliards, il n’y
+a pas que des actifs immobiliers risqués, forcément il y en a, puisque la banque
+fait faillite, mais il n’y a pas que cela : il y a aussi des immeubles, il y a
+aussi plein de trucs. Donc à la fin les pertes finales ne vont pas être de 600
+milliards, cela peut être 50 milliards, 100 milliards. Si les passifs sont
+supérieurs à ses actifs, donc cela veut dire que globalement on sait qu’on va
+perdre et on ne va pas perdre la totalité. Donc sans doute que cela passera,
+s’est dit le gouvernement américain, surtout que les actifs sont répartis dans
+le monde entier, ils ne sont pas tous aux États-Unis, tout ne va pas peser sur
+l’économie américaine. Donc il a fait le pari de laisser Lehman Brothers faire
+faillite.
+
+Et là, en fait, ce n’est pas facile du tout : ce qui était prévu, cela a été la
+panique totale. La panique, pourquoi ? D’abord parce que le système bancaire
+était déjà très fortement fragilisé, même un an après, encore par — non pas les
+pertes, il y avait des pertes bien sûr, mais ce n’est pas tant les pertes le
+problème — le problème, c’est l’incertitude. On n’a pas encore terminé de régler
+cette histoire de subprimes, on ne sait pas encore combien valent nos crédits
+subprimes. Il y a une perte de confiance globale dans le système financier qui
+pèse sur tout le monde. Et puis là on rajoute 600 milliards d’actifs qu’il va
+falloir liquider, et cela rajoute de l’incertitude. En réalité, parce que le
+temps de la liquidation d’une entreprise comme Lehman Brothers, cela ne va pas
+se faire en quelques jours, cela veut dire que tous ceux qui ont prêté à Lehman
+Brothers ne savent pas combien ils vont pouvoir récupérer comme argent à ce
+moment-là. Et donc cela rajoute de l’incertitude. Comprenez, on est comme un
+subprimes multiplié par deux en quelque sorte : avant on avait des centaines de
+milliards de crédits immobiliers pourris qui se baladent dans le système
+bancaire, et là on rajoute 600 milliards d’actifs dont on ne sait pas exactement
+combien ils valent. Donc cela rajoute de l’incertitude.
+
+## AIG, les CDS et l’effet domino
+
+Et là, quand il y a la faillite de Lehman Brothers, il y a un autre organisme
+financier qui est tout d’un coup mis sur le grill : c’est un assureur américain
+qui s’appelle AIG, American International Group — j’ai oublié ce que cela veut
+dire, peu importe. En émettant des CDS — souvenez-vous, les CDS, j’en ai parlé
+la semaine dernière, credit default swap —, qu’est-ce que cela veut dire ? Cela
+veut dire que c’est une assurance, souvenez-vous, qui garantit un remboursement
+en cas de défaillance sur un titre obligataire. Or, souvenez-vous, les titres
+immobiliers dont on parle, les créances titrisées, les titres, c’est quoi ?
+C’est des titres d’obligation. Et donc pour se couvrir du risque, il y a un
+certain nombre — c’est normal — de fonds, et puis quand la crise a commencé à
+exploser, il y a aussi des gens qui se sont amusés à spéculer en achetant des
+CDS. Alors pourquoi ils ont acheté des CDS ? Pas parce qu’ils se sont dit : oh
+là là, le marché immobilier ça ne va pas bien, donc rachetons des garanties de
+remboursement s’il y a une défaillance de ces titres immobiliers, et bien on
+sera remboursé. Souvenez-vous, on peut émettre autant de CDS qu’on veut, et on
+peut en acheter autant qu’on veut, même si on n’a rien à garantir. Et donc il se
+trouve que l’assureur AIG s’est spécialisé dans l’émission de CDS, donc dans les
+émissions de CDS sur ces titres immobiliers. Et donc quand Lehman Brothers a
+fait faillite, et bien les pertes pour AIG ont tout d’un coup explosé.
+C’est-à-dire la potentialité de devoir rembourser des CDS, en quelque sorte,
+pour la perte, non seulement du titre immobilier, mais aussi — si vous voulez —
+de Lehman Brothers, et aussi de titres qui eux aussi avaient des CDS. Donc cela
+veut dire qu’en fait, ce qui s’est passé, c’est que quelques jours après la
+faillite de Lehman Brothers, AIG était en situation de quasi-faillite parce
+qu’elle devait rembourser des CDS, n’ayant pas les capacités en fait de
+rembourser ce qu’elle avait promis de rembourser.
+
+Mais AIG, ce n’est plus 600 milliards de dollars, c’est 1 000 milliards
+d’actifs. Et alors si AIG fait faillite, tous ceux qui ont prêté à AIG — et
+beaucoup de banques — subissent des pertes. Et là vous avez l’effet domino,
+l’effet de faillite systémique. Qu’est-ce que cela veut dire, l’effet domino ici
+? Cela veut dire qu’en fait, quand vous avez un banquier qui fait n’importe
+quoi, il peut faire faillite. Mais dans ce cas-là, s’il fait faillite, tous ceux
+qui ont prêté à ce banquier subissent des pertes. Et s’il y a une grande banque
+qui fait faillite, alors des petites banques qui lui ont prêté peuvent avoir
+beaucoup de pertes, et donc elles aussi, même si elles n’ont pas fait n’importe
+quoi, peuvent s’effondrer. Et donc c’est ce qu’on appelle une faillite
+systémique.
+
+Alors cela, c’est un truc que j’ai appris quand j’étais étudiant en économie,
+qui à l’époque était considéré comme théorique : en théorie, tout peut
+s’effondrer, toutes les banques peuvent s’effondrer d’un coup parce qu’une
+grosse banque fait faillite et puis toutes celles qui ont prêté subissent des
+pertes, et si le système est un peu fragile, et bien hop, tout s’effondre. Des
+risques, des événements systémiques comme cela, cela ne s’est pas beaucoup
+produit dans l’histoire en fait, mais en 2008 cela se produit partout. L’Islande
+fait faillite, toutes les banques islandaises font faillite. L’Irlande : toutes
+les banques irlandaises, c’est plus gros, l’Irlande déjà, cela fait faillite.
+Chypre pareil, alors c’est arrivé un peu plus tard, Chypre.
+
+Pour l’Irlande, c’est très simple : comment a-t-on résolu le problème ? À chaque
+fois, comment résoudre le problème ? Et bien on met en faillite les banques, et
+puis on construit une nouvelle banque, et on rembourse ou pas les déposants.
+Alors en Irlande, les banques irlandaises ont remboursé tout le monde. Cela a
+coûté très cher : cette année-là, l’Irlande a fait 35 % de déficit public. Et
+oui, nous on dit 5 % de déficit public et c’est énorme ; l’Irlande 35 % en un
+an, ils ont remboursé tous les déposants de leur système bancaire.
+
+Pour l’Islande, et bien l’Islande c’est un pays d’un peu plus de 300 000
+habitants. Les déposants étaient beaucoup, beaucoup, beaucoup d’entre eux
+étrangers. Donc les banques islandaises ont fait faillite ; le gouvernement
+islandais a fait un accord avec les gouvernements des déposants, en quelque
+sorte, pour dire qu’il allait rembourser. Mais alors, s’il allait rembourser,
+cela veut dire que chaque Islandais devait payer 100 dollars par mois pendant 20
+ans ou 30 ans pour rembourser les déposants étrangers. Donc ils ont fait un
+référendum, et devinez quoi : les Islandais ont décidé de ne pas payer. Alors
+cela a créé évidemment des tensions diplomatiques. Du coup, à ce moment-là,
+l’Islande a décidé qu’elle ne rejoindrait plus l’Union européenne, parce que les
+déposants en question c’étaient les ménages néerlandais et anglais. Alors cela,
+c’est pratique pour un gouvernement : si on laisse les banques faire faillite et
+que la majorité des déposants sont étrangers, alors on peut ne pas rembourser,
+cela va faire subir des pertes à d’autres. Alors des pertes par ailleurs étaient
+énormes, puisque encore une fois l’Islande c’est un tout petit pays. Mais bon,
+cela a eu des conséquences quand même : des vrais ménages qui avaient déposé de
+l’argent dans ces fonds, dans ces banques islandaises, en toute confiance. Bon,
+alors les banques promettaient 7 % d’intérêt, évidemment. À l’époque c’était
+supérieur, aujourd’hui quand même, mais évidemment si on vous propose de mettre
+de l’argent et qu’on vous dit que vous allez gagner 7, 8, 10 % d’intérêt, vous
+êtes certain que c’est une arnaque, cela ne peut pas fonctionner. Voilà, donc
+bon, à l’époque il y a quand même eu des gens un peu naïfs — mais on ne veut pas
+leur reprocher — qui ont déplacé leur argent sur ces fonds d’épargne islandais.
+Quand tout ce système a fait faillite, et bien le gouvernement aurait dû prendre
+à sa charge les pertes. Il a dit qu’il le ferait ; quand il a vu la facture, il
+a fait un référendum ; quand les gens ont vu la facture, ils ont dit non, pas
+question. Et voilà.
+
+Il faut savoir d’ailleurs — du coup cela permet d’expliquer — que beaucoup de
+gens prennent pour modèle le système islandais en disant : il faut faire comme
+les Islandais, il faut mettre les banquiers en prison, laisser les banques faire
+faillite et puis vous verrez, cela marchera mieux. Mais il faut bien comprendre
+que si vous laissez les banques faire faillite et que vous ne remboursez pas les
+déposants, et bien c’est les gens qui perdent leur argent. Je ne suis pas sûr
+qu’ils soient d’accord avec cela. Donc ce n’est pas si facile que cela. Cela a
+été possible en Islande que parce que ceux qui ont perdu de l’argent c’étaient
+les étrangers, parce que le gouvernement islandais, je vous rassure, il a
+remboursé tous les Islandais ; il a juste pas accepté de rembourser les
+étrangers.
+
+Voilà, donc Chypre c’est un peu la même chose que l’Islande : c’était des Russes
+qui avaient beaucoup mis d’argent, c’était aussi un système un peu mafieux, et
+là aussi il y a une faillite avec des pertes pour les déposants qui ont été
+actées, parce que le gouvernement chypriote ne pouvait simplement pas du tout
+rembourser l’ensemble des dépôts des banques.
+
+C’est la raison pour laquelle d’ailleurs, en Europe, on a une garantie des
+dépôts de 100 000 euros. Donc cela c’est officiel, tous les pays ont ce niveau,
+ce plafond, c’est un accord européen, parce qu’avant c’était 50 000 euros, puis
+les Irlandais ont dit non, nous c’est 100 000, parce qu’ils voulaient garder la
+confiance, et puis finalement on s’est entendu pour 100 000. Mais le principe de
+l’Union bancaire aujourd’hui, c’est qu’il ne faut pas aller au-delà de 100 000.
+C’est pour cela, vous voyez, il y a aussi sur Internet des gens qui disent : ah,
+au-delà de 100 000, c’est les déposants qui vont perdre. Bah oui, en fait, mais
+on ne peut pas vouloir tout et son contraire. On ne peut pas à la fois dire
+qu’il ne faut pas sauver les banques et en même temps dire qu’il faut tout
+rembourser, parce qu’en fait tout rembourser, cela veut dire en quelque sorte
+sauver les banques. Alors les actionnaires perdent toujours en général, mais
+parfois cela coûte moins cher de donner de l’argent à une banque pour éviter
+qu’elle fasse faillite plutôt que de rembourser tous les déposants. Vous voyez,
+donc le calcul n’est pas simple pour un gouvernement, donc ce n’est pas facile.
+Par exemple, pour la Silicon Valley Bank, le gouvernement américain aurait pu
+soutenir la Silicon Valley Bank ; cela lui aurait épargné le fait de rembourser
+tous les dépôts, mais cela n’aurait pas été juste parce que ceux qui ont fait
+n’importe quoi finalement s’en seraient encore sortis indemnes en quelque sorte.
+Donc vous voyez, ce n’est pas simple, cette histoire de comment on fait pour
+gérer une faillite bancaire, et encore mieux une faillite systémique. Alors
+quand c’est une faillite systémique, ce n’est pas compliqué : tous ces cas, et
+dans ce cas-là il faut tout remettre à zéro, il faut remplir. Et alors en
+général, pour l’Irlande, l’Irlande a pu rembourser les gens, sauver ses banques,
+mais Chypre et l’Islande ne pouvaient pas. Voilà.
+
+Donc qu’est-ce qui s’est passé maintenant ? Reprenons : on est aux États-Unis,
+Lehman Brothers fait faillite, très bien, mais juste après, et bien on a AIG qui
+menace de faire faillite, et puis derrière AIG, tout le système bancaire
+américain, et donc un risque de crise systémique. Alors là, on n’est pas sur
+l’Islande quoi ; c’est les États-Unis quand même, donc on ne peut pas laisser
+tout cela s’effondrer. En fait, parce que sinon ce ne sont pas seulement les
+Américains qui perdent, c’est le monde entier. Bon, Paulson a fait la seule
+chose qu’il pouvait faire : il a trouvé un système pour rembourser les banques.
+Avant cela, vous avez promis, je vais vous montrer un peu ce qui s’est passé au
+niveau des banques centrales.
+
+Sur ce graphique, on voit les niveaux de taux d’intérêt des banques centrales en
+2007 et 2008. Comme vous pouvez le constater, on a la Banque d’Angleterre, qui
+est le trait sombre en haut, ensuite la Réserve fédérale américaine, puis en
+pointillés la Banque du Canada, la BCE et la Banque du Japon. La Banque du
+Japon, on en parlera tout à l’heure, c’est un cas un peu particulier : ses taux
+d’intérêt sont toujours inférieurs à 1 %. Ensuite les autres banques : on a des
+taux d’intérêt qui, avant la crise mi-2007, se trouvent entre 3,5 % pour la
+Banque centrale européenne, et puis à plus de 5 % pour la Banque d’Angleterre et
+la Réserve fédérale. Alors vous voyez que quand il y a eu la crise de liquidité
+de 2007, et bien la BCE a augmenté son taux d’intérêt, la Banque du Canada a
+augmenté son taux d’intérêt, et la Banque d’Angleterre a augmenté. Pourquoi ils
+ont fait cela ? Parce qu’elles veulent justement limiter le crédit bancaire. À
+l’inverse, aux États-Unis on s’est dit : voilà, cela va être des grosses pertes,
+tu vas voir un problème, donc on commence à baisser les taux, et on les baisse
+pendant toute l’année 2007 puis jusqu’au début de l’année 2008, jusqu’à ce
+qu’ils arrivent à 2 %. 2 %, ce n’est pas très élevé en réalité, c’est au même
+niveau que l’inflation, cela fait quasiment du zéro quoi. Pour les autres
+banques, on les baisse un peu là aussi, en suivant ce que font les Américains.
+Et puis la BCE dit : moi je ne serai pas touchée, je laisse au pareil, je ne les
+baisse pas. Il n’y a pas eu de baisse du tout, et puis même l’été 2008 une
+petite hausse de 0,25 %.
+
+Tout d’un coup on a la faillite Lehman Brothers, donc là on est en septembre
+2008, c’est le trait gris que je vous montre. Et là tout le monde comprend que
+cela ne va pas aller, et donc toutes les banques centrales baissent très vite
+leur taux d’intérêt. Pourquoi elles sont mises à baisser leur taux d’intérêt ?
+Et bien parce que les banques subissent cette fois-ci de lourdes pertes, et
+cette fois-ci elles sont avérées : ce n’est pas juste un risque, ce n’est pas
+juste lié à l’incertitude, c’est des pertes fortes. Alors elles vont arrêter de
+prêter, et là on a ce qu’on appelle un credit crunch, c’est-à-dire un
+effondrement du crédit bancaire. S’il y a effondrement du crédit bancaire, et
+bien il y a tout un ensemble de conséquences qui vont se produire sur l’économie
+réelle. Première conséquence : les gens vont arrêter d’emprunter puisque les
+banques ne vont plus leur prêter. Ces gens se sont des ménages qui consomment,
+donc cela veut dire que la consommation de véhicules par exemple, l’automobile —
+parce que c’est souvent acheté à crédit —, s’effondre, et c’est ce qui se passe.
+Donc cela veut dire que le secteur automobile va subir une énorme crise, et
+c’est ce qui va se passer. Évidemment le crédit immobilier va continuer de
+s’effondrer, bon, cela c’était déjà le cas, mais cela va s’accélérer. Et puis
+qui emprunte également ? Et bien les entreprises pour leurs investissements.
+Alors non seulement elles vont voir leur demande baisser, donc elles ne vont pas
+forcément vouloir investir, mais en plus le coût de l’investissement va
+augmenter — pardon —, et donc leur capacité d’investir et d’emprunter pour
+investir va être aussi limitée. Donc les banques vont restreindre tout
+l’ensemble des crédits ; cela va évidemment avoir un impact considérable sur
+l’activité économique. Et donc les banques centrales essaient de compenser cela
+en baissant les taux d’intérêt pour favoriser tout de même le crédit bancaire,
+pour éviter que cet effondrement du crédit bancaire soit trop fort. Donc c’est
+logique : on voit les taux d’intérêt baisser tous ensemble au cours de l’année
+2008, jusqu’à arriver à des taux qu’on n’avait jamais vus, parce que 1 % c’est
+le taux le plus élevé de la Banque centrale européenne, les autres elles sont
+toutes au niveau de la Banque du Japon quasiment.
+
+Bon, cela c’est ce qu’on appelle une politique de relance. Mais cela ne va pas
+suffire, parce que c’est une grave crise : en 2008 tout s’effondre en même
+temps, l’industrie automobile, le secteur bancaire, le marché immobilier, même
+les paiements internationaux et le commerce international s’effondrent. Parce
+que le commerce international suppose un système bancaire solide, des garanties.
+On ne sait pas si la banque à qui on va prêter — parce que quand vous faites du
+commerce international il y a des flux bancaires entre différents pays — est
+fiable. Et le problème qu’on a aperçu, c’est qu’il y a certains pays qui ne sont
+pas fiables : l’Irlande, l’Espagne également, et d’autres. On ne sait pas
+lesquels. On peut avoir des pays entiers dont le système bancaire s’effondre. Le
+Portugal non, parce que le Portugal ce n’est pas un système bancaire, il me
+semble, qui a fait faillite ; c’est plutôt d’autres choses. Mais en fait, on ne
+sait pas. On sait qu’il peut y avoir des faillites systémiques ; cette fois-ci
+ce n’est plus théorique, c’est réel. Donc oui, il faut éviter les risques : on
+évite tout ce qui est en dehors de la régulation, tout ce qui n’est pas régulé
+par son régulateur. En gros, on ne fait pas confiance au système bancaire d’un
+autre pays parce que, si cela se trouve, il y a l’Irlande avant qu’elle
+s’effondre. Deuxièmement, l’Irlande, avant qu’elle s’effondre, n’était pas
+considérée comme un pays à risque ; cela devient un pays à risque au moment où
+les pertes apparaissent. Et puis surtout, le pays à risque qui s’effondre, c’est
+les États-Unis, c’est le système bancaire et financier américain. Donc là il
+faut faire quelque chose.
+
+## Le plan Paulson et le TARP
+
+Que fait Paulson ? Entre le moment de la faillite de Lehman Brothers, le 15
+septembre, et les jours qui suivent, avec AIG, tout un ensemble de banques,
+Fannie Mae, Freddie Mac, etc., des banques spécialisées dans le marché
+immobilier, la titrisation, quand tout cela, qui pèse quand même des milliards
+de dollars, menace de s’effondrer, il faut arrêter la machine, il faut arrêter
+les effets dominos, sinon tout va s’effondrer en même temps. Donc comment
+fait-il ? Et bien il propose un plan, le plan Paulson, qui est décidé quelques
+jours après — mais vraiment quelques jours après — la faillite de Lehman
+Brothers, au moment où on voit que cela ne va pas aller. Il s’intitule Troubled
+Assets Relief Program, donc programme de soutien aux actifs troublés. Je ne sais
+pas comment on pourrait traduire cela. Son plan, au début, est très simple : il
+dit : puisque manifestement il y a des actifs dont personne ne veut, qui n’ont
+plus de valeur parce qu’on reste sur le même problème — cela n’a plus de valeur,
+plus personne n’en veut acheter, le marché est complètement bloqué, donc il n’y
+a plus de prix de ces actifs.
+
+Et puis il y a un autre problème d’ailleurs, dont je n’ai pas parlé et qu’il
+faut que je mentionne maintenant : les normes de comptabilité imposent aux
+banques et aux sociétés financières, à n’importe quelle entreprise, de valoriser
+leurs actifs au prix de marché. C’est ce qu’on appelle le mark-to-market :
+marquer dans les comptes ce que cela vaut sur le marché. Et vous voyez bien le
+problème. Avant, quelques décennies auparavant, on évaluait la valeur des actifs
+d’une entreprise au prix d’achat. Alors cela, on connaît toujours le prix
+d’achat. Mais vous comprenez bien le problème : si vous avez des immeubles et
+que le marché immobilier s’effondre, la réalité c’est que ces immeubles que vous
+possédez ne valent pas exactement le prix auquel vous les avez achetés, ils
+valent beaucoup moins. Donc pour faire une comptabilité qui soit la plus juste
+possible, on a imposé une norme de comptabiliser la valeur des actifs qu’une
+entreprise possède par sa valeur de marché. Et vous voyez bien le problème :
+quand le marché s’arrête, et bien il n’y a plus de prix, et donc on ne sait plus
+comment comptabiliser la valeur des actifs. Est-ce que cela veut dire que le
+prix est zéro ? Non, mais comment fait-on ? En fait on le dévalue, on le
+dévalorise. On va souvent — ça a pensé — si on veut un expert-comptable valide
+les comptes, à dire : bon, cela vaut quelque chose, je ne sais pas combien, je
+suis bien obligé de marquer quelque chose sur mon bilan. Mais cela vaut
+peut-être... L’expert-comptable va dire : non, mais vous ne pouvez pas valoriser
+cela au prix d’achat, il va falloir le dévaloriser beaucoup, et on ne sait pas
+de combien. Donc vous voyez que c’est un problème encore une fois systémique.
+C’est-à-dire que si la valeur de vos actifs baisse trop, à un moment vous êtes
+insolvable, vous êtes en situation de faillite virtuelle. Si vous n’arrivez plus
+à récupérer de l’argent, de la liquidité, alors vous êtes en faillite. Pour être
+en faillite, il faut réunir deux conditions : ne plus avoir de liquidité,
+c’est-à-dire ne plus faire face à ses obligations de paiement, et avoir une
+valeur de son passif supérieure à la valeur de ses actifs, c’est-à-dire être
+insolvable. Et donc le problème qui se pose pour une banque, c’est que la valeur
+de ses actifs se réduit à cause du principe de mark-to-market, du principe de la
+valeur de marché qu’on met dans les bilans. Et comme ces actifs valent de moins
+en moins, sa situation comptable peut faire apparaître une situation
+d’insolvabilité. Et dans ce cas, plus personne ne vous prête, donc là vous
+n’avez plus accès à la liquidité, vous êtes virtuellement en faillite.
+
+Alors souvenez-vous, je vous ai dit : le principe du néolibéralisme, c’est
+d’organiser la société autour du principe du prix de marché. Et là on voit le
+problème : quand le marché s’arrête, on ne peut plus rien faire. Donc la
+priorité du gouvernement américain, c’est de recréer des prix. Et comment
+fait-on pour recréer des prix ? Et bien on rachète. Et donc ce que fait Paulson
+avec ce plan, c’est qu’il met 700 milliards sur la table et il dit : écoutez,
+voilà, tous ces actifs risqués, ces subprimes, dont on ne sait pas trop combien
+ils valent, et bien moi je vais les racheter avec l’argent du contribuable. Et
+puis comme cela, vous verrez que puisque je les rachète, et bien ils ont une
+valeur, et c’est des produits standardisés, donc ceux qui les possèdent pourront
+savoir maintenant et mettre quelque chose dans leur bilan qui a une vraie
+valeur.
+
+Alors quand il annonce cela, les banques sont soulagées et les gens sont
+furieux. Bah oui, parce que comment allez-vous utiliser notre argent, nous,
+contribuables, pour sauver les banquiers ? Encore en plus, les prix que vous
+allez décider, c’est des prix que vous avez négociés avec les banques de manière
+à éviter de leur faire faillite, c’est très bien, mais ce n’est pas des vrais
+prix, ce n’est pas des prix de marché. Donc les néolibéraux ne sont pas contents
+non plus. D’un autre côté, qu’est-ce qu’on peut faire ? On ne va pas laisser le
+système faire faillite.
+
+Alors pendant ce temps, le Parlement américain, la Chambre des représentants et
+le Sénat, ne sont pas d’accord, ils refusent. Paulson est obligé de négocier
+avec les démocrates, avec les républicains, pour essayer de trouver une
+solution. Au début son plan fait trois pages, à la fin il en fait 110. Et
+finalement il se laisse convaincre : en novembre, donc début novembre 2008, il
+arrive à trouver un accord. Mais cette fois-ci il va falloir changer de méthode
+: on ne va pas racheter les actifs risqués, on va prendre des parts de capital
+dans les entreprises, dans les banques. Alors en fait cela revient un peu au
+même, c’est-à-dire que l’État américain va racheter des actions aux banques,
+voire augmenter du capital aux banques. Alors en général il va le faire — parce
+que vous comprenez bien qu’on ne peut pas nationaliser les banques aux
+États-Unis —, donc ce qu’on va faire, c’est qu’on va souscrire à des
+augmentations de capital. Cela va renforcer le bilan. Ces obligations de
+capital, ces actions que l’État américain va racheter en quelque sorte, elles
+seront prioritaires en termes de remboursement, mais il n’y aura pas de droit de
+vote. Cela évite l’influence politique dans les banques américaines. Le montant
+reste le même : 700 milliards. Alors attention, c’est une enveloppe, c’est un
+plafond ; en fait il ne va pas dépenser 700 milliards, mais il va dépenser à peu
+près 350 milliards quand même pour soutenir le secteur financier.
+
+Alors il y a des choses : il va racheter parce qu’il y aura quand même des
+actifs qui vont être achetés par le gouvernement américain, et puis il y a
+surtout — on va dire — il va surtout mettre de l’argent dans le bilan
+directement, dans le bilan des banques, sans avoir droit de vote. Mais là aussi
+se pose le même problème : combien cela vaut, une action d’une entreprise dont
+on ne sait pas si elle a failli ou non ? Vous voyez, donc en fait quand je vous
+dis c’est un peu la même chose, c’est un peu la même chose parce que vous leur
+achetez des actifs à un prix négocié, ou vous participez à une augmentation de
+capital avec un prix de l’action qui est lui aussi négocié. Bon, j’ai envie de
+dire, c’est un peu la même chose. Mais du point de vue des contribuables
+américains et du Parlement américain, c’est moins risqué. Enfin, c’est moins...
+c’est considéré comme moins... voilà, vous rentrez dans le capital, vous ne
+rachetez pas des actifs pourris en quelque sorte, donc cela passe mieux auprès
+des parlementaires et auprès de l’opinion publique. Reste que ces actifs
+risqués, du coup, ils restent dans les bilans des banques, et cela c’est un
+problème.
+
+## Le quantitative easing de la Fed
+
+Et c’est là qu’on va avoir une nouvelle idée, celle de la Réserve fédérale, la
+banque centrale américaine, qui va donc lancer le 28 novembre 2008 un plan de
+rachat des titres, des obligations des entreprises semi-publiques liées au
+logement et des crédits adossés à des créances hypothécaires garantis par
+Freddie Mac et Fannie Mae. Bah tiens, maintenant c’est la banque centrale
+américaine qui rachète les actifs pourris. Cela crée même des prix, et là cela
+ne coûte rien au contribuable. C’est là le tour de force qui a été réalisé,
+l’innovation extraordinaire qui produit cette crise subprimes : plutôt que de
+racheter, de faire acheter des titres risqués par l’État américain soutenu par
+le contribuable, c’est maintenant directement la banque centrale américaine qui
+va racheter ces titres risqués et qui va du coup leur redonner un prix. On va
+résoudre le problème, et ce n’est pas par hasard que cela arrive en novembre,
+après que Paulson ait changé d’avis, enfin changé son plan : c’est que le vrai
+problème, le vrai problème de ce système, c’était l’absence de prix pour des
+actifs financiers dont on avait besoin de connaître le prix.
+
+Alors en fait on transforme la banque centrale américaine en espèce de bad bank,
+c’est ce que disent les critiques : c’est-à-dire on va remettre tous les actifs
+pourris dans la banque centrale, et puis comme cela on ne va plus les voir, ces
+actifs qui posent problème dans le système financier américain. Alors évidemment
+cela apparaît comme une opération magique, parce qu’on dit : oui, mais du coup,
+alors c’est génial, mais alors du coup la banque centrale va faire les pertes.
+Oui, mais ce n’est pas grave, la banque centrale ne peut pas faire faillite.
+Cela ne va pas... Alors bien sûr la banque centrale cherche à racheter à un prix
+convenable, elle ne rachète pas n’importe comment. L’objectif, ce n’est pas que
+les banques gagnent beaucoup d’argent, de la même façon que Paulson n’avait pas
+racheté n’importe quoi à n’importe quel prix.
+
+Alors je ne sais pas quel est le bilan pour la banque centrale américaine de ces
+opérations de rachat, parce qu’en plus après ils vont se multiplier, je vais
+expliquer pourquoi. Mais par contre, on a le Sénat américain qui tous les ans,
+depuis la crise, fait un bilan du plan Paulson, du rachat, de l’investissement,
+du sauvetage du système financier américain. Je vous ai dit : il a mis à peu
+près — je donne les chiffres de mémoire — 350 milliards pour sauver le système
+financier ; il a mis aussi des dizaines de milliards pour sauver l’industrie
+automobile ; il a mis aussi des dizaines de milliards pour sauver les ménages
+américains qui perdaient leur maison quand même ; et puis d’autres fonds qui
+sont allés à d’autres secteurs de l’économie. Si on regarde juste la partie aide
+au secteur financier, et bien le rapport — alors c’est dans mon bouquin, mais je
+regarde, j’ai un peu la flemme, mais le rapport final dit que — il y a eu
+finalement plus de gains que de pertes. L’État américain a gagné de l’argent en
+sauvant le système financier. C’est-à-dire qu’il a récupéré plus que sa mise,
+pas beaucoup, quelque chose comme 15, 20 milliards, un truc comme cela. Là aussi
+je dois regarder sur mon bouquin, je le ferai pas, tant pis. C’est-à-dire que la
+partie sauvetage du système financier du plan Paulson n’a rien coûté au
+contribuable américain. Cela ne veut pas dire que le plan n’a pas coûté : il a
+coûté sur le sauvetage de l’industrie automobile et bien sûr des ménages
+américains qui étaient en difficulté. Donc globalement il a coûté, mais pas sur
+la partie sauvetage du système financier. Ce qui veut dire que les prix de
+rachat, à la fois des actifs financiers qu’il a rachetés et aussi des prises de
+participation qu’il a faites dans les banques, finalement cela n’a rien coûté :
+les prix étaient corrects. Et en plus il n’a même pas gagné beaucoup d’argent.
+Donc vraiment on peut penser qu’il a acheté pile-poil au bon prix. Et là aussi
+c’est une leçon à mon avis très importante : le marché parfois n’arrive plus à
+créer des prix, mais le gouvernement il arrive très bien. Il suffit d’aller voir
+un peu dans les comptes et puis de réfléchir un peu, je veux dire de manière —
+comment dire ? — avoir un peu de bon sens quoi. On sait que toutes les créances
+immobilières n’étaient pas pourries ; on avait déjà à l’époque une idée de
+l’évaluation finale. Donc on pouvait prévoir à peu près bien, en septembre 2008
+ou en octobre 2008, combien valaient les choses. Le marché n’arrivait plus à
+créer des prix parce qu’il n’y avait plus d’acheteurs ; le gouvernement, en
+négociant avec les banques, pouvait trouver des prix convenables et qui en fait
+sont avérés exacts sur la véritable valeur de ce qu’il a racheté. Cela aussi
+c’est un truc intéressant du point de vue théorique : cela veut dire que parfois
+l’État arrive, parvient mieux à trouver les bons prix que le marché.
+
+Alors bien sûr, le quantitative easing de la Banque centrale américaine... Je ne
+sais pas quelle heure il est. Ah oui, c’est fini. Alors encore 5 minutes, je ne
+vous ai pas trop fatigué. Bon, alors oui, mais du coup je n’ai pas dit plein de
+choses que je voulais dire, je continuerai là-dessus après. Mais pour conclure
+cette séance : la banque centrale américaine a donc été mise à racheter des
+titres financiers aux banques pour les soulager d’une part, et pour recréer des
+prix d’autre part. Et à mon avis, la deuxième idée était la plus importante :
+c’est-à-dire que vous savez maintenant de combien vous pouvez mettre dans votre
+bilan, quelle est la valeur de ce que vous avez acheté, parce que ce sont des
+titres standardisés bien sûr. Et donc si la banque centrale en rachète
+quelques-uns, on sait combien cela vaut, on sait combien on peut les revendre,
+parce que ces opérations de rachat se faisaient bien sûr avec l’accord des
+banques. Les banques récupéraient la liquidité, hop, elles revendaient à la
+banque centrale des titres, et la banque centrale garantissait qu’elle les
+rachèterait à un certain prix. Donc cela recréait du prix et cela permettait de
+sécuriser le système financier américain. Bien sûr, la banque centrale
+américaine savait qu’en faisant cela elle sortait de son mandat — et cela c’est
+une question qu’on traitera la semaine prochaine —, parce que je ne sais pas si
+elle sortait de son mandat, mais en tout cas elle inventait un nouvel instrument
+qui n’existait pas auparavant et qui pouvait difficilement se justifier par la
+seule question de l’inflation. Néanmoins elle savait aussi — pardon — que
+c’était une forme de récompense pour les banques qui n’avaient pas forcément agi
+correctement. Et donc il y a un effet, on va dire — comment dire ? — à la
+rapidité, ce n’est pas cela le terme économique, alors j’ai perdu mes termes
+économiques, mais c’est... On appelle cela une sélection adverse, c’est-à-dire
+qu’on va donner plus à ceux qui ont mal agi en quelque sorte, on va sauver ceux
+qui ont pris le plus de risques. Et donc ce n’est pas un bon mécanisme incitatif
+en quelque sorte.
+
+Alors du coup elle a posé quelques garanties et quelques conditions. D’abord la
+première condition, c’est que l’enveloppe de rachat était prédéfinie :
+c’est-à-dire que la banque centrale américaine, lorsqu’elle lançait une
+politique de rachat d’actifs, et bien elle disait combien elle allait mettre
+d’argent et elle ne dépassait pas cette enveloppe. Premièrement. Deuxièmement,
+l’opération de rachat est limitée dans le temps. Troisièmement, elle dit
+exactement quels actifs elle va acheter : elle ne rachète pas n’importe quoi,
+n’importe comment ; il y a des actifs qu’elle rachète et d’autres qu’elle ne
+rachète pas. Et puis quatrièmement, et cela c’est le plus important, seules les
+banques régulées par la Réserve fédérale peuvent revendre leurs titres à la
+Réserve fédérale. C’est-à-dire qu’il y a un impératif de se soumettre à la
+réglementation de la Réserve fédérale. Et c’est d’ailleurs à ce moment-là que
+toutes les banques d’affaires se sont mises à dire : finalement, on veut bien se
+soumettre à la réglementation de la Réserve fédérale. C’est-à-dire qu’avant, les
+banques d’investissement étaient totalement libres de faire ce qu’elles
+voulaient, et là la banque centrale dit : maintenant, si vous voulez que je vous
+rachète vos titres financiers, alors il va falloir que vous acceptiez la
+réglementation.
+
+Ah oui, alors du coup je vous montre quand même pour terminer — mais je vous
+parlerai après des autres QE, parce que ça c’est le premier QE, celui de 2008.
+C’est le quantitative easing, QE 1. Le quantitative easing, donc en français
+assouplissement quantitatif, qui a lieu en 2008. Et vous voyez, ce graphique
+montre le bilan de la banque centrale en milliards de dollars. Donc en 2007 le
+bilan de la banque centrale était stable, c’était aux alentours de 1 000
+milliards de dollars. Et bien au moment de la crise, et bien il double, il fait
+plus que doubler : on rachète 1 000 milliards de dollars d’actifs et on les met
+en échange de la liquidité. C’est cela que cela veut dire. Et puis cela reste
+pendant un certain temps un peu au-dessus de 2 000, puis ensuite voyez, cela
+augmente jusqu’à aujourd’hui — ou enfin un peu avant aujourd’hui —, là au début
+2022, il y a un an, on était à 9 000 milliards à peu près, un peu moins de 9 000
+milliards de dollars d’actifs de la Banque centrale américaine.
+
+Alors nous reviendrons là-dessus la semaine prochaine. Je vous remercie pour
+votre attention.

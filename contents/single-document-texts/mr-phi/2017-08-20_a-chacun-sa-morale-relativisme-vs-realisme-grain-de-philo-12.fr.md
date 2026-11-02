@@ -1,0 +1,124 @@
+---
+source_url: https://www.youtube.com/watch?v=7KmAKVaO-Xc
+video_title: "À CHACUN SA MORALE ? | Relativisme vs. réalisme | Grain de philo #12"
+generated_at: 2026-09-19T09:28:38.478Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 68.6
+  input_tokens: 4938
+  cached_input_tokens: 4928
+  output_tokens: 2123
+  estimated_cost_usd: 0.00061
+  finish_reason: stop
+---
+
+# À CHACUN SA MORALE ? | Relativisme vs. réalisme | Grain de philo #12
+
+## Introduction : une expérience de pensée
+
+Un narrateur présente une expérience de pensée fictive : il imagine avoir
+renversé deux cyclistes, un adulte qui en meurt sur le coup, et un enfant laissé
+sur place avec une jambe cassée. Pour ne pas être pris, il s'imagine avoir fait
+une marche arrière pour achever l'enfant. Il demande à son public de juger cette
+action. Il présume que tous considéreront qu'il a mal agi. Il imagine ensuite un
+double maléfique qui soutiendrait au contraire que son action était correcte, le
+seul tort étant de se faire prendre. Le narrateur interroge son interlocuteur :
+n'est-ce pas avoir tort, non seulement d'agir ainsi, mais aussi de juger cette
+action bonne ? La réponse semble évidente : oui, c'est une mauvaise action, donc
+la trouver bonne est une erreur.
+
+## Le relativisme moral
+
+Le narrateur introduit alors un exemple concret pour nuancer ce jugement. Il
+parle du « gae bul », un plat coréen qu'il trouve mauvais, mais que sa femme et
+beaucoup de Coréens trouvent bon. Est-ce que l'un a tort ? Non, car ici les
+termes « bon » et « mauvais » ne renvoient pas à une propriété objective du
+plat, mais simplement à des goûts subjectifs et relatifs. Il n'y a pas de
+désaccord objectif.
+
+Il étend ce raisonnement au domaine moral. Une position philosophique, le
+relativisme moral, soutient que nos jugements moraux sont analogues : ils sont
+relatifs à chacun. « Bon » et « mal » ne désignent pas des propriétés objectives
+des actions, mais des préférences subjectives. Le narrateur imagine qu'il
+pourrait dire que rouler sur sept enfants est « bon » pour lui, tandis que son
+interlocuteur trouve cela « mauvais ». Le relativiste considérerait qu'ils ne
+sont pas en véritable désaccord, car chacun parle de sa propre réaction
+subjective. On pourrait dire « à chacun sa morale ».
+
+Cependant, le narrateur exprime une forte intuition contraire. Si quelqu'un
+soutenait sérieusement que rouler sur des enfants puis repartir est « bon », on
+aurait envie de lui dire qu'il a objectivement tort, qu'il est objectivement une
+ordure. Si l'on ressent que les désaccords moraux sont de véritables désaccords,
+où l'on peut avoir objectivement tort, alors on n'est pas relativiste, mais
+réaliste quant à la morale. Le réalisme moral soutient qu'il existe des vérités
+morales objectives.
+
+## Le problème du réalisme moral
+
+Le narrateur reconnaît alors que le réalisme moral pose des problèmes profonds.
+Parler d'actions « bonnes » ou « mauvaises » de manière absolue, dans l'absolu,
+semble difficile à justifier. Il prend l'exemple d'une route : quelle est la «
+bonne » route pour aller de Alençon à Paris ? La question ne peut se comprendre
+que relative à un objectif (aller à Paris). Sans cette condition, la notion de «
+bonne route » n'a pas de sens.
+
+En philosophie morale, quand on dit « tu dois faire x », cela a-t-il toujours un
+sens ? Souvent, l'impératif est hypothétique : « si tu veux y, alors tu dois
+faire x ». Par exemple, « tu dois tuer cet enfant » pourrait se justifier par la
+condition « si tu veux éviter des ennuis judiciaires ». Mais quand on dit « tu
+ne dois pas tuer des enfants », la condition semble absente. On pose cela comme
+un devoir absolu, un « tu dois » inconditionnel.
+
+## L'impératif catégorique et la déontologie
+
+Cet impératif absolu, sans condition hypothétique, est ce que le philosophe
+Emmanuel Kant appelle un impératif catégorique. Pour lui, la loi morale
+s'exprime nécessairement sous cette forme : « tu dois absolument », s'appliquant
+à tous, tout le temps. Cette conception intuitive de la morale comme un ensemble
+de règles à suivre parce qu'il le faut est une éthique déontologique. Les
+déontologues s'accordent sur la forme (des devoirs absolus) mais pas toujours
+sur le contenu.
+
+Le problème fondamental est que, tandis qu'un impératif hypothétique peut se
+justifier par des faits (« tu dois prendre la N12 car c'est le chemin le plus
+court pour Paris »), un impératif catégorique ne semble correspondre à aucun
+fait. On peut décrire le meurtre et le dégoût qu'il inspire, mais cela reste une
+description de faits. Ces faits peuvent justifier un impératif hypothétique («
+si tu ne veux pas être mal vu, alors tu ne dois pas tuer »), mais pas
+l'impératif catégorique « tu ne dois pas tuer ». Comme le dit Hume, on ne peut
+pas dériver un « devoir-être » d'un « être ».
+
+## La crise de sens et les alternatives
+
+L'impératif catégorique, un « tu dois » qui ne renvoie à rien dans le monde,
+semble alors vide de sens. L'intuition initiale — qu'il n'a pas de sens de
+parler d'une route qu'on doit suivre absolument — pourrait être plus profonde.
+La question déontologique « que dois-je faire ? » serait peut-être mal posée,
+voire absurde, comme poser « quelle est la différence entre un oiseau ? » (un
+oiseau n'a pas de différence avec lui-même). L'idée d'un devoir absolu (un
+impératif non hypothétique) serait dénuée de sens, relevant d'un usage incorrect
+du langage, comme l'a montré le philosophe Wittgenstein.
+
+Le narrateur conclut en avouant son malaise face à ces questions de fondement de
+la morale. Aucune position n'est confortable. Ni le relativisme, ni le
+déontologisme ne lui conviennent pleinement. Il mentionne une troisième option,
+le conséquentialisme, qu'il promet de traiter dans une prochaine vidéo.
+
+## Note finale sur le financement de la chaîne
+
+Le narrateur fait ensuite un aparté pour répondre à des commentaires concernant
+le vote sur les sujets de vidéos, réservé aux « Tipeurs » (contributeurs
+financiers sur la plateforme Tipeee). Il explique que sa situation financière a
+changé : après avoir quitté son poste d'enseignant pour pouvoir continuer à
+faire des vidéos, Tipeee est devenue sa principale source de revenus. Offrir des
+contreparties, comme le droit de voter pour un sujet, est un levier incitatif
+pour encourager le soutien financier. Ouvrir ce vote à tous lui coûterait
+financièrement, ce qu'il ne peut pas se permettre actuellement. Il regrette que
+cette décision ait été perçue comme injuste par certains, qui invoquent un
+principe d'égalité de traitement. Il plaide pour une approche conséquentialiste
+: réfléchir aux conséquences de chaque action. L'important, selon lui, est que
+les vidéos restent disponibles gratuitement pour tous.
+
+Il remercie chaleureurement ses soutiens financiers et invite les spectateurs à
+likinguer et partager la vidéo, tout en s'excusant de ne pas pouvoir appeler
+cela un « devoir absolu », après le sujet traité.

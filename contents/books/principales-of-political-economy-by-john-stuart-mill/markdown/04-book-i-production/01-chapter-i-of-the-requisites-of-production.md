@@ -1,0 +1,161 @@
+---
+title: Chapter I. Of The Requisites Of Production.
+path: 04-book-i-production/01-chapter-i-of-the-requisites-of-production
+ancestors:
+  - Book I. Production.
+href: 1129008759595750428_30107-h-3.html.xhtml#pgepubid00007
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter I. Of The Requisites Of Production.
+
+## § 1. The Requisites of Production are Two: Labor, and Appropriate Natural Objects.
+
+There is a third requisite of production, capital (see page [58](1129008759595750428_30107-h-3.html.xhtml#Pg058)). Since
+the limitation to only two requisites applies solely to a primitive condition of existence, so soon as the element of
+_time_ enters into production, then a store of capital becomes necessary; that is, so soon as production requires such a
+term that during the operation the laborer can not at the same time provide himself with subsistence, then capital is a
+requisite of production. This takes place also under any general division of labor in a community. When one man is
+making a pin-head, he must be supplied with food by some person until the pins are finished and exchanged.
+
+Labor is either bodily or mental; or, to express the distinction more comprehensively, either muscular or nervous; and
+it is necessary to include in the idea, not solely the exertion itself, but all feelings of a disagreeable kind, all
+bodily inconvenience or mental annoyance, connected with the employment of one's thoughts, or muscles, or both, in a
+particular occupation.
+
+The word “sacrifice” conveys a just idea of what the laborer undergoes, and it corresponds to the abstinence of the
+capitalist.
+
+\[pg 054\]
+
+Of the other requisite—appropriate natural objects—it is to be remarked that some objects exist or grow up
+spontaneously, of a kind suited to the supply of human wants. There are caves and hollow trees capable of affording
+shelter; fruits, roots, wild honey, and other natural products, on which human life can be supported; but even here a
+considerable quantity of labor is generally required, not for the purpose of creating, but of finding and appropriating
+them.
+
+Of natural powers, some are unlimited, others limited in quantity. By an unlimited quantity is of course not meant
+literally, but practically unlimited: a quantity beyond the use which can in any, or at least in present circumstances,
+be made of it. Land is, in some newly settled countries, practically unlimited in quantity: there is more than can be
+used by the existing population of the country, or by any accession likely to be made to it for generations to come.
+But, even there, land favorably situated with regard to markets, or means of carriage, is generally limited in quantity:
+there is not so much of it as persons would gladly occupy and cultivate, or otherwise turn to use. In all old countries,
+land capable of cultivation, land at least of any tolerable fertility, must be ranked among agents limited in quantity.
+Coal, metallic ores, and other useful substances found in the earth, are still more limited than land.
+
+For the present I shall only remark that, so long as the quantity of a natural agent is practically unlimited, it can
+not, unless susceptible of artificial monopoly, bear any value in the market, since no one will give anything for what
+can be obtained gratis. But as soon as a limitation becomes practically operative—as soon as there is not so much of the
+thing to be had as would be appropriated and used if it could be obtained for asking—the ownership or use of the natural
+agent acquires an exchangeable value.
+
+Rich lands in our Western Territories a few years ago could be had practically for the asking; but now, since railways
+and an increase of population have brought them nearer to the markets, they have acquired a distinct exchange value. The
+value \[pg 055\] of a commodity (it may be anticipated) is the quantity of other things for which it can be exchanged.
+
+When more water-power is wanted in a particular district than there are falls of water to supply it, persons will give
+an equivalent for the use of a fall of water. When there is more land wanted for cultivation than a place possesses, or
+than it possesses of a certain quality and certain advantages of situation, land of that quality and situation may be
+sold for a price, or let for an annual rent.
+
+## § 2. The Second Requisite of Production, Labor.
+
+It is now our purpose to describe the second requisite of production, labor, and point out that it can be either direct
+or indirect. This division and subdivision can be seen from the classification given below. Under the head of indirect
+labor are to be arranged all the many employments subsidiary to the production of any one article, and which, as they
+furnish but a small part of labor for the one article (e.g., bread), are subsidiary to the production of a vast number
+of other articles; and hence we see the interdependence of one employment on another, which comes out so conspicuously
+at the time of a commercial depression.
+
+“We think it little to sit down to a table covered with articles from all quarters of the globe and from the remotest
+isles of the sea—with tea from China, coffee from Brazil, spices from the East, and sugar from the West Indies; knives
+from Sheffield, made with iron from Sweden and ivory from Africa; with silver from Mexico and cotton from South
+Carolina; all being lighted with oil brought from New Zealand or the Arctic Circle. Still less do we think of the great
+number of persons whose united agency is required to bring any one of these \[pg 056\] finished products to our homes—of
+the merchants, insurers, sailors, ship-builders, cordage and sail makers, astronomical-instrument makers, men of
+science, and others, before a pound of tea can appear in our market.”[^101]
+
+The labor[^102] which terminates in the production of an article fitted for some human use is either employed directly
+about the thing, or in previous operations destined to facilitate, perhaps essential to the possibility of, the
+subsequent ones. In making bread, for example, the labor employed about the thing itself is that of the baker; but the
+labor of the miller, though employed directly in the production not of bread but of flour, is equally part of the
+aggregate sum of labor by which the bread is produced; as is also the labor of the sower, and of the reaper. Some may
+think that all these persons ought to be considered as employing their labor directly about the thing; the corn, the
+flour, and the bread being one substance in three different states. Without disputing about this question of mere
+language, there is still the plowman, who prepared the ground for the seed, and whose labor never came in contact with
+the substance in any of its states; and the plow-maker, whose share in the result was still more remote. We must add yet
+another kind of labor; that of transporting the produce from the place of its production to the place of its destined
+use: the labor of carrying the corn to market, and from market to the miller's, the flour from the miller's to the
+baker's, and the bread from the baker's to the place of its final consumption.
+
+Besides the two classes of indirect laborers here mentioned, those engaged in producing materials and those in
+transportation, there are several others who are paid fractions out of the bread. Subsidiary to the direct labor of the
+bread-maker is the labor of all those who make the instruments employed in the process (as, e.g., the oven). Materials
+are completely changed in character by one use, as when the coal is burned, or the flour baked into bread; while an
+instrument, like an oven, is \[pg 057\] capable of remaining intact throughout many operations. The producer of
+materials and the transporter are paid by the bread-maker in the price of his coal and flour when left at his door, so
+that the price of the loaf is influenced by these payments. Those persons, moreover, who, like the police and officers
+of our government, act to protect property and life, are also to be classed as laborers indirectly aiding in the
+production of the given article, bread (and by his taxes the bread-maker helps pay the wages of these officials).
+Shading off into a more distant, although essential, connection is another class—that of those laborers who train human
+beings in the branches of knowledge necessary to the attainment of proper skill in managing the processes and
+instruments of an industry. The acquisition of the rudiments of education, and, in many cases, the most profound
+knowledge of chemistry, physics and recondite studies, are essential to production; and teachers are indirect laborers
+in producing almost every article in the market. In this country, especially, are inventors a class of indirect laborers
+essential to all ultimate production as it now goes on. The improvements in the instruments of production are the
+results of an inventive ability which has made American machinery known all over the world. They, too, as well as the
+teacher, are paid (a small fraction, of course) out of the ultimate result, by an indirect path, and materially change
+the ease or difficulty, cheapness or dearness, of production in nearly every branch of industry. In the particular
+illustration given they have improved the ovens, ranges, and stoves, so that the same or better articles are produced at
+a less cost than formerly. All these indirect laborers receive, in the way of remuneration, a fraction, some more, some
+less (the farther they are removed from the direct process), of the value of the final result.
+
+## § 3. Of Capital as a Requisite of Production.
+
+But another set of laborers are to be placed in distinct contrast with these, so far as the grounds on which they
+receive their remuneration is concerned. These are the men engaged previously in providing the subsistence, and articles
+by which the former classes of labor can carry on their operations.
+
+The previous employment of labor is an indispensable condition to every productive operation, on any other than the very
+smallest scale. Except the labor of the hunter and fisher, there is scarcely any kind of labor to which the returns are
+immediate. Productive operations require to be continued a certain time before their fruits are obtained. Unless the
+laborer, before commencing his work, possesses a \[pg 058\] store of food, or can obtain access to the stores of some
+one else, in sufficient quantity to maintain him until the production is completed, he can undertake no labor but such
+as can be carried on at odd intervals, concurrently with the pursuit of his subsistence.
+
+The possession of capital is thus a third requisite of production, together with land and labor, as noted above. Henry
+George (“Progress and Poverty,” chap. iv) holds an opposite opinion: “The subsistence of the laborers who built the
+Pyramids was drawn, not from a previously hoarded stock” (does he not forget the story of Joseph's store of corn?), “but
+from the constantly recurring crops of the Nile Valley.”
+
+He can not obtain food itself in any abundance; for every mode of so obtaining it requires that there be already food in
+store. Agriculture only brings forth food after the lapse of months; and, though the labors of the agriculturist are not
+necessarily continuous during the whole period, they must occupy a considerable part of it. Not only is agriculture
+impossible without food produced in advance, but there must be a very great quantity in advance to enable any
+considerable community to support itself wholly by agriculture. A country like England or the United States is only able
+to carry on the agriculture of the present year because that of past years has provided, in those countries or somewhere
+else, sufficient food to support their agricultural population until the next harvest. They are only enabled to produce
+so many other things besides food, because the food which was in store at the close of the last harvest suffices to
+maintain not only the agricultural laborers, but a large industrious population besides.
+
+The claim to remuneration founded on the possession of food, available for the maintenance of laborers, is of another
+kind; remuneration for abstinence, not for labor. If a person has a store of food, he has it in his power to consume it
+himself in idleness, or in feeding others to attend on him, or to fight for him, or to sing or dance for him. If,
+instead of these things, he gives it to productive laborers to support \[pg 059\] them during their work, he can, and
+naturally will, claim a remuneration from the produce. He will not be content with simple repayment; if he receives
+merely that, he is only in the same situation as at first, and has derived no advantage from delaying to apply his
+savings to his own benefit or pleasure. He will look for some equivalent for this forbearance:[^103] he will expect his
+advance of food to come back to him with an increase, called, in the language of business, a profit; and the hope of
+this profit will generally have been a part of the inducement which made him accumulate a stock, by economizing in his
+own consumption; or, at any rate, which made him forego the application of it, when accumulated, to his personal ease or
+satisfaction.
+
+\[pg 060\]
+
+* * *
+
+[^101]: Bowen, “American Political Economy,” p. 25.
+
+[^102]: This is the beginning of Chapter II in the original treatise.
+
+[^103]: This is his “sacrifice,” which corresponds to the exertion of the laborer.

@@ -1,0 +1,270 @@
+---
+source_url: https://www.youtube.com/watch?v=Ffd55-hAaGE
+video_title: "LA RELIGION NOUS EMPÊCHE-T-ELLE D'ÊTRE MORAUX ? - Religion et morale (2/2) - Grain de philo #3"
+generated_at: 2026-09-19T09:19:58.185Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 112.8
+  input_tokens: 4713
+  cached_input_tokens: 4672
+  output_tokens: 4356
+  estimated_cost_usd: 0.001239
+  finish_reason: stop
+---
+
+# LA RELIGION NOUS EMPÊCHE-T-ELLE D'ÊTRE MORAUX ? - Religion et morale (2/2) - Grain de philo #3
+
+## La religion nous empêche-t-elle d'être moraux ?
+
+Imaginez que, alors que je me balade près d'un lac, il y ait un enfant qui se
+noie et qui appelle au secours. Du coup, n'écoutant que mon devoir, je plonge et
+je vais le sauver. Qu'est-ce que vous pensez de mon action ? Bah je dirais que
+tu as bien fait, hein, c'est sûr, c'est une belle action. Bravo.
+
+Maintenant, même scénario, sauf qu'à côté du lac il y a une sorte de
+milliardaire tout-puissant qui, pour je ne sais quelle raison, ne peut pas aller
+sauver lui-même l'enfant, et qui, avant que je fasse quoi que ce soit, me dit :
+« Et toi là, si tu passes ton chemin sans sauver l'enfant, j'ai des potes qui
+vont te retrouver et te péter les genoux. Et par contre, si tu le sauves, là je
+te donne un million de dollars cash, et même si tu veux, je fais tuer une star.
+Si tu veux un rôle dans le prochain Star Wars, il y a pas de problème. » Donc
+voilà, tu es prévenu : soit tu sauves l'enfant et tu es riche et célèbre, soit
+tu passes ton chemin et on te pète les genoux. Bon, maintenant, tu fais ce que
+tu veux, tu es libre. Et on va admettre que j'ai vraiment toutes les raisons de
+croire ce type, et aussi que l'enfant s'est pas noyé pendant qu'il me racontait
+tout ça. Qu'est-ce que je fais du coup ?
+
+Bah, je tiens à mes genoux, et je vous avoue que je dirais pas non à un million
+de dollars et à un rôle dans le prochain Star Wars. Du coup, je plonge et je
+sauve l'enfant. Et cette fois, qu'est-ce que vous pensez de mon action ? Je
+pense que tu avais juste pas le choix et que tu as gagné un million de dollars
+de façon un petit peu facile. Tu pourrais pas me féliciter tout simplement ?
+J'ai quand même sauvé un enfant dans l'historique. Ouais, bravo, bravo, mais tu
+vas quand même jouer dans le prochain Star Wars et ça, ça me fout les glandes.
+
+Et voilà, on va penser que j'ai agi par intérêt, pour pas me faire péter les
+genoux et pour devenir riche et célèbre. Et honnêtement, c'est vrai : peut-être
+que j'aurais plongé même si le milliardaire m'avait rien dit, mais une fois
+qu'il me menace de me péter les genoux et me promet un million de dollars et un
+rôle dans Star Wars, bah oui, c'est aussi à ça que je pense au moment où je vais
+plonger pour sauver l'enfant. J'y peux rien, la menace et la récompense sont
+juste trop grandes, trop importantes pour que je puisse en faire abstraction. Du
+coup, effectivement, je peux pas dire que je n'écoutais que mon devoir au moment
+où je plonge pour sauver l'enfant.
+
+### Le parallèle avec la religion
+
+Bon, mais en fait, c'est quoi le rapport avec la religion ? Je pense que c'est
+pas trop difficile à deviner. En fait, la religion fait qu'on est
+systématiquement dans un scénario qui ressemble plutôt au second avec un
+milliardaire qu'au premier, sauf qu'à la place d'un milliardaire qui menace de
+vous péter les genoux et vous promet des richesses, on a un Dieu qui fait mieux
+encore : il vous promet un bonheur éternel si vous agissez comme il faut, et
+sinon, ce sera une éternité de souffrance. Subtile.
+
+### L'intention derrière l'action
+
+Alors, c'est curieux parce que dans le premier cas, quand il y a pas de
+milliardaire pour me menacer ou me promettre quoi que ce soit, on est d'accord
+pour dire que mon action de sauver l'enfant elle est belle, elle est noble, elle
+est vraiment morale. Tandis que dans le second cas, on voit juste un type qui
+agit en fonction de ses intérêts, et du coup, ça donne pas vraiment l'impression
+d'avoir agi moralement. Et pourtant, là, dans les deux cas, c'est bien
+exactement la même chose : je plonge et je vais sauver l'enfant, et c'est la
+bonne chose à faire dans tous les cas.
+
+Ce qui change entre les deux scénarios, en fait, c'est l'intention d'après
+laquelle j'agis. Dans le second scénario, j'ai un intérêt très grand à sauver
+l'enfant, j'en tire de grands bénéfices, et du coup, il est clair que ça
+participe à mon intention de sauver l'enfant. Tandis que dans le premier
+scénario, non, il ne semble pas que j'aie un intérêt particulier à sauver
+l'enfant : si je le fais, c'est juste parce que je me dis que c'est la bonne
+chose à faire.
+
+Et ça nous amène à une idée très importante : pour savoir si une action est
+vraiment bonne, il est important de regarder l'intention d'après laquelle on a
+agi. Il faut que cette intention ou cette volonté soit bonne. Une bonne action,
+c'est avant tout une action issue d'une bonne intention, d'une bonne volonté.
+
+Alors honnêtement, tous les philosophes ne sont pas d'accord sur ce point, mais
+il faut avouer que c'est une idée qui est très intuitive, tellement intuitive
+que c'est passé dans le langage courant. Quand on dit « c'est l'intention qui
+compte » — ah oui, quand on reçoit un cadeau tout pourri et qu'on dit « bah,
+c'est l'intention qui compte » — voilà, l'idée c'est que l'action d'offrir est
+une bonne action dès lors qu'elle était faite dans une bonne intention, dans
+l'intention de faire plaisir, peu importe que le cadeau fasse effectivement
+plaisir ou pas.
+
+### Kant et la bonne volonté
+
+Le philosophe qui a défendu cette idée sur la morale, c'est le philosophe
+allemand des Lumières Emmanuel Kant, ou Kant si on le dit à l'allemande. Son
+grand texte sur la morale, *Fondements de la métaphysique des mœurs*, commence
+justement par cette phrase : « De tout ce qu'il est possible de concevoir dans
+le monde, et même en général hors du monde, il n'est rien qui puisse sans
+restriction être tenu pour bon, si ce n'est seulement une bonne volonté. » En
+gros, le seul truc vraiment bon, c'est une bonne volonté.
+
+Mais une bonne volonté, c'est quoi ? Pour l'expliquer, revenons aux deux
+scénarios où je sauve l'enfant. Dans le scénario où un milliardaire me menace et
+me promet des récompenses faramineuses, on a vu qu'il est clair que mon intérêt
+entre en jeu dans ma décision de sauver l'enfant. C'est-à-dire que j'agis
+d'après ce que Kant appelle un **impératif hypothétique** : je me dis, « si je
+veux garder mes genoux et si je veux gagner un million de dollars, alors il faut
+que je sauve l'enfant. » Ça, c'est agir d'après une volonté intéressée, une
+volonté égoïste au fond, et non une volonté bonne. C'est un peu comme rendre un
+service en ayant seulement en tête l'idée de demander ensuite un service en
+retour : à ce moment-là, on agit pas par bonne volonté, c'est juste un calcul
+intéressé.
+
+Une bonne volonté, ce serait donc au contraire une volonté qui ne fait pas un
+tel calcul, une volonté désintéressée. Et justement, dans le premier scénario,
+je sauvais l'enfant sans que personne me menace de rien ni ne me promette rien.
+Mais du coup, pourquoi je le faisais ? Eh bien, on peut croire que je le faisais
+seulement par devoir, parce que je me disais que c'est la bonne chose à faire.
+Autrement dit, j'agissais d'après ce que Kant appelle un **impératif absolu**.
+Je me disais pas « il faut que je sauve l'enfant pour avoir telle ou telle
+récompense », je me disais seulement « il faut que je sauve l'enfant, je dois
+sauver l'enfant, je le dois tout court. » En somme, la volonté est bonne parce
+qu'elle est désintéressée, c'est-à-dire qu'on n'agit que par devoir.
+
+### Dieu et le problème de la récompense
+
+Bon, je vais pinailler, mais quand même, il y a une question qui me turlupine :
+comment tu sais que c'est ton devoir de sauver l'enfant ? C'est une bonne
+question. Qu'est-ce qui détermine exactement le contenu du devoir ? À vrai dire,
+c'est très compliqué, et les philosophes sont loin de s'accorder sur ce genre de
+question et d'y répondre de façon précise. Même simplement présenter le point de
+vue de Kant ça demanderait beaucoup plus qu'un épisode. Mais en tout cas, ça
+paraîtra clair à tous — du moins je l'espère — que dans la situation du lac, il
+est de notre devoir de sauver l'enfant. Admettons ce point et laissons pour une
+autre fois la question de savoir comment déterminer ce qui est en notre devoir.
+
+Et je voudrais maintenant revenir à Dieu et à la religion. On a vu la dernière
+fois que, dans les religions monothéistes, Dieu commande toute sorte de choses,
+et notamment il nous commande globalement de nous comporter de façon morale.
+Donc si tu crois en Dieu, tu crois que Dieu te commande de sauver l'enfant dans
+la situation du lac. Et le truc, c'est que quand Dieu commande, il tient une
+énorme carotte et un énorme bâton : il peut te promettre un bonheur éternel si
+tu obéis, et des souffrances éternelles si tu désobéis.
+
+Du coup, si tu crois que Dieu existe et qu'il te commande de sauver l'enfant, et
+si tu vois derrière ce commandement cette menace et cette récompense, tu vas pas
+juste dire qu'il faut sauver l'enfant parce que c'est la bonne chose à faire. Tu
+vas surtout te dire que tu dois le sauver pour éviter de te retrouver en enfer
+et pour garder une chance d'aller au paradis. Du coup, l'action de sauver
+l'enfant elle devient intéressée, puisque tu vois Dieu derrière qui agite sa
+carotte et son bâton.
+
+On pourrait se dire qu'on y pense pas forcément, mais si tu crois vraiment en
+Dieu, si tu es convaincu de son existence, l'enjeu est tellement énorme que tu
+ne peux pas en faire abstraction. On a vu avec l'exemple du milliardaire que la
+punition et la récompense qu'il promettaient étaient déjà tellement grandes
+qu'on voyait mal comment ça ne pourrait pas influencer notre décision de sauver
+l'enfant, et ça faisait que l'action nous semblait immédiatement intéressée. Et
+si on admet que Dieu existe, c'est un peu comme si ce milliardaire était
+toujours là, au moment de tous nos choix, et qu'il nous menace de nous péter les
+genoux mais pour l'éternité si on se conduit mal, et de nous rendre
+éternellement heureux si on se conduit bien. De toute évidence, ça fout encore
+plus la pression et ça influe encore plus sur nos décisions.
+
+Du coup, dans une vision religieuse des choses, chaque fois qu'on fait une
+action qui est conforme au devoir, en fait on ne l'a fait pas par devoir mais
+par intérêt. L'action vient donc d'une volonté intéressée et non d'une volonté
+bonne, et donc l'action n'est pas vraiment morale. Pour être capable d'une
+action morale, c'est-à-dire d'une action accomplie par devoir seulement, il faut
+ne pas se représenter Dieu qui récompense et qui punit. Il faut ne pas croire
+que Dieu existe. Donc seuls les athés, ou tout au moins ceux qui doutent
+raisonnablement de l'existence de Dieu, sont en mesure d'agir vraiment
+moralement. C'est, au fond, une conséquence directe de la pensée de Kant, selon
+laquelle une volonté bonne, c'est une volonté désintéressée.
+
+### Kant et l'athéisme
+
+Mais tu ferais pas un peu dire à Kant ce qu'il ne dit pas ? C'est quand même pas
+un défenseur de l'athéisme. Alors, c'est vrai qu'il le dit pas comme ça, mais
+cette idée, on peut quand même en trouver des traces ici ou là. Par exemple,
+j'aime citer cet extrait savoureux des *Leçons sur la théorie philosophique de
+la religion* : « Supposons que nous puissions atteindre une connaissance de
+l'existence de Dieu par l'expérience, alors toute moralité disparaîtrait : dans
+chaque action, l'homme se représenterait immédiatement Dieu comme celui qui
+récompense ou qui venge ; cette image s'imprimerait involontairement dans son
+âme, et à la place des motivations morales interviendraient l'espoir d'une
+récompense et la crainte d'une punition. »
+
+L'idée de connaître Dieu par une expérience directe, ça peut vraiment faire
+penser à l'expérience de la foi. Du coup, ce que dit cet extrait, c'est très
+clairement que si vous avez la foi, eh bien vous n'êtes plus en mesure d'agir
+moralement. L'idée que Dieu récompense et punit vos actions sera toujours
+présente, et donc vous ne pouvez plus agir que par intérêt, par crainte d'une
+punition et par espoir d'une récompense.
+
+### La charité comme placement
+
+Ce côté intéressé de l'action morale dans la religion est vraiment très présent
+si on y prend garde. Et pour l'illustrer, j'ai envie de vous citer non pas la
+Bible, mais un tweet du pape François. Oui, le pape est moderne, il est sur
+Twitter. Le 10 juillet 2014, le pape a tweeté : « Ne craignez pas de vous jeter
+dans les bras de Dieu, quoi qu'il vous demande, il vous le rendra au centuple. »
+Au centuple, c'est-à-dire multiplié par cent.
+
+Et cette idée n'a rien d'original : on en trouve des traces dans des tas de
+passages des textes sacrés. D'ailleurs, c'est presque passé dans le langage
+populaire, comme la réponse que fait le mendiant à celui qui lui donne l'aumône
+: « Tiens, maintenant, oh merci, Dieu vous le rendra au centuple. »
+
+Si vous prenez cette idée au sérieux, vous vous rendez compte que donner aux
+œuvres de charité, c'est comme un placement, en fait, et un placement super
+rentable : dix mille pour cent de rendement, c'est énorme. Même Bernard Madoff
+il osait pas promettre autant. Vous faites l'aumône d'un euro pour vous faire
+rendre cent euros par Dieu, c'est cool. « Oui, on a les meilleurs taux. » « Bah
+attends, je suis tout-puissant quand même, c'est la moindre des choses. »
+
+Quand vous y réfléchissez, l'idée que Dieu rendra au centuple ça annule
+complètement le côté moral, le côté généreux des actes de charité. En somme,
+qu'y a-t-il de si beau, de si sublime, de si moral dans les actions des saints,
+si ceux-ci avaient la foi et donc étaient persuadés que par leurs actions ils
+étaient en train de gagner une place au paradis ? Le martyre, c'est rien de plus
+qu'un calcul égoïste : souffrir sur terre un temps limité pour s'assurer une
+éternité de bonheur et s'éviter une éternité de souffrance.
+
+### Conclusion
+
+En conclusion, la religion nous force certes à agir de façon conforme à nos
+devoirs moraux, mais elle fait aussi que ce n'est pas seulement par respect
+envers ses devoirs moraux que nous nous conduisons ainsi. La crainte de la
+punition divine et la promesse de la récompense sont des leviers si puissants
+qu'ils mettent forcément un intérêt égoïste au cœur de toute action.
+
+Voilà pourquoi, si comme Kant vous pensez qu'agir moralement, c'est avant tout
+agir de façon désintéressée, eh bien croire en Dieu — être persuadé que Dieu
+existe et nous juge pour nos actes, et ça, c'est grosso modo un point commun à
+toutes les religions — ça nous empêche d'agir moralement. En un sens, il n'y a
+que les athés pour se poser des questions morales. Tu vas peut-être pas te faire
+que des amis en disant ça.
+
+### Un résultat amusant
+
+Voilà pour ce grand grain de philo sur la religion et la morale. J'aurais bien
+voulu parler aussi d'une étude qui a été faite il y a quelques années pour
+comparer les effets d'une éducation religieuse par rapport à une éducation non
+religieuse sur le développement du sens moral chez les enfants. Ce qui est
+marrant, c'est que les gens qui finançaient cette étude le faisaient plutôt dans
+l'espoir de montrer que les athés sont des monstres dénués de toute morale. Mais
+les faits sont têtus, et les résultats obtenus étaient finalement tout à fait
+contraires à cette idée. En gros, les enfants issus d'une éducation non
+religieuse avaient tendance à être naturellement plus altruistes que ceux issus
+d'une éducation religieuse. Bon, la différence était assez légère honnêtement,
+mais ça reste amusant. Je mettrai le lien dans la description de la vidéo pour
+ceux que ça intéresse.
+
+Merci d'avoir regardé cet épisode. Si ça vous a plu, n'hésitez pas à partager
+sur les réseaux sociaux comme Facebook ou Twitter. Et oui, comme le pape, je
+suis sur Twitter maintenant. Est-ce qu'on pourrait pas dire qu'il est moral de
+partager la vidéo si vous l'avez aimée ? Je sais pas, je vais quand même pas me
+promettre le bonheur éternel si vous le faites, mais en tout cas, ça fait pas de
+mal.
+
+On reparlera de morale sans doute sous peu, parce que c'est un sujet passionnant
+et riche. En attendant, je vous dis à bientôt, en espérant que Dieu d'ici là ne
+s'amuse pas à me foudroyer pour prouver qu'il existe.

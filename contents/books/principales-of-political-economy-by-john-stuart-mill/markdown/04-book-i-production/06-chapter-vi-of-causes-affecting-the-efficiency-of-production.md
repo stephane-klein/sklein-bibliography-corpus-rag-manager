@@ -1,0 +1,311 @@
+---
+title: Chapter VI. Of Causes Affecting The Efficiency Of Production.
+path: 04-book-i-production/06-chapter-vi-of-causes-affecting-the-efficiency-of-production
+ancestors:
+  - Book I. Production.
+href: 1129008759595750428_30107-h-3.html.xhtml#pgepubid00030
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter VI. Of Causes Affecting The Efficiency Of Production.
+
+## § 1. General Causes of Superior Productiveness.
+
+The most evident cause of superior productiveness is what are called natural advantages. These are various. Fertility of
+soil is one of the principal. The influence of climate \[is another advantage, and\] consists in lessening the physical
+requirements of the producers.
+
+In spinning very fine cotton thread, England's natural climate gives in some parts of the country such advantages in
+proper moisture and electric conditions that the operation can be carried on out-of-doors; while in the United States it
+is generally necessary to create an artificial atmosphere. In ordinary spinning in our country more is accomplished when
+the wind is in one quarter than in another. The dry northwest wind in New England reduces the amount of product, while
+the dry northeast wind in England has a similar effect, and it is said has practically driven the cotton-spinners from
+Manchester to Oldham, where the climate is more equably moist. The full reasons for these facts are not yet ascertained.
+
+Experts in the woolen industry, also, explain that the quality and fiber of wool depend upon the soil and climate where
+the sheep are pastured. When Ohio sheep are transferred to Texas, in a few years their wool loses the distinctive
+quality it formerly possessed, and takes on a new character belonging to the breeds of Texas. The wool produced by one
+set of climatic conditions is quite different from that of another set, and is used by the manufacturers for different
+purposes.
+
+In hot regions, mankind can exist in comfort with less perfect housing, less clothing; fuel, that absolute necessary of
+life in cold climates, they can almost dispense with, except for industrial uses. They also require less aliment. Among
+natural advantages, besides soil and climate, must be \[pg 100\] mentioned abundance of mineral productions, in
+convenient situations, and capable of being worked with moderate labor. Such are the coal-fields of Great Britain, which
+do so much to compensate its inhabitants for the disadvantages of climate; and the scarcely inferior resource possessed
+by this country and the United States, in a copious supply of an easily reduced iron-ore, at no great depth below the
+earth's surface, and in close proximity to coal-deposits available for working it. But perhaps a greater advantage than
+all these is a maritime situation, especially when accompanied with good natural harbors; and, next to it, great
+navigable rivers. These advantages consist indeed wholly in saving of cost of carriage. But few, who have not considered
+the subject, have any adequate notion how great an extent of economical advantage this comprises.
+
+As the second of the \[general\] causes of superior productiveness, we may rank the greater energy of labor. By this is
+not to be understood occasional, but regular and habitual energy. The third element which determines the productiveness
+of the labor of a community is the skill and knowledge therein existing, whether it be the skill and knowledge of the
+laborers themselves or of those who direct their labor. That the productiveness of the labor of a people is limited by
+their knowledge of the arts of life is self-evident, and that any progress in those arts, any improved application of
+the objects or powers of nature to industrial uses, enables the same quantity and intensity of labor to raise a greater
+produce. One principal department of these improvements consists in the invention and use of tools and machinery.[^114]
+
+The deficiency of practical good sense, which renders the majority of the laboring-class such bad calculators—which
+makes, for instance, their domestic economy so improvident, lax, and irregular—must disqualify them for any but a low
+grade of intelligent labor, and render their industry far less productive than with equal energy it otherwise might be.
+\[pg 101\] The moral qualities of the laborers are fully as important to the efficiency and worth of their labor as the
+intellectual. Independently of the effects of intemperance upon their bodily and mental faculties, and of flighty,
+unsteady habits upon the energy and continuity of their work (points so easily understood as not to require being
+insisted upon), it is well worthy of meditation how much of the aggregate effect of their labor depends on their
+trustworthiness.
+
+Among the secondary causes which determine the productiveness of productive agents, the most important is Security. By
+security I mean the completeness of the protection which society affords to its members.
+
+## § 2. Combination and Division of Labor Increase Productiveness.
+
+In the enumeration of the circumstances which promote the productiveness of labor, we have left one untouched, which is
+co-operation, or the combined action of numbers. Of this great aid to production, a single department, known by the name
+of Division of Labor, has engaged a large share of the attention of political economists; most deservedly, indeed, but
+to the exclusion of other cases and exemplifications of the same comprehensive law. In the lifting of heavy weights, for
+example, in the felling of trees, in the sawing of timber, in the gathering of much hay or corn during a short period of
+fine weather, in draining a large extent of land during the short season when such a work may be properly conducted, in
+the pulling of ropes on board ship, in the rowing of large boats, in some mining operations, in the erection of a
+scaffolding for building, and in the breaking of stones for the repair of a road, so that the whole of the road shall
+always be kept in good order: in all these simple operations, and thousands more, it is absolutely necessary that many
+persons should work together, at the same time, in the same place, and in the same way. \[But\] in the present state of
+society, the breeding and feeding of sheep is the occupation of one set of people; dressing the wool to prepare it for
+the spinner is that of another; spinning it into thread, of a third; weaving the thread into broadcloth, of a fourth;
+dyeing the cloth, of a fifth; making it into a coat, of a sixth; without \[pg 102\] counting the multitude of carriers,
+merchants, factors, and retailers put in requisition at the successive stages of this progress.
+
+Without some separation of employments, very few things would be produced at all. Suppose a set of persons, or a number
+of families, all employed precisely in the same manner; each family settled on a piece of its own land, on which it
+grows by its labor the food required for its own sustenance, and, as there are no persons to buy any surplus produce
+where all are producers, each family has to produce within itself whatever other articles it consumes. In such
+circumstances, if the soil was tolerably fertile, and population did not tread too closely on the heels of subsistence,
+there would be, no doubt, some kind of domestic manufactures; clothing for the family might, perhaps, be spun and woven
+within it, by the labor, probably, of the women (a first step in the separation of employments); and a dwelling of some
+sort would be erected and kept in repair by their united labor. But beyond simple food (precarious, too, from the
+variations of the seasons), coarse clothing, and very imperfect lodging, it would be scarcely possible that the family
+should produce anything more.
+
+Suppose that a company of artificers, provided with tools, and with food sufficient to maintain them for a year, arrive
+in the country and establish themselves in the midst of the population. These new settlers occupy themselves in
+producing articles of use or ornament adapted to the taste of a simple people; and before their food is exhausted they
+have produced these in considerable quantity, and are ready to exchange them for more food. The economical position of
+the landed population is now most materially altered. They have an opportunity given them of acquiring comforts and
+luxuries. Things which, while they depended solely upon their own labor, they never could have obtained, because they
+could not have produced, are now accessible to them if they can succeed in producing an additional quantity of food and
+necessaries. They are thus incited to increase the productiveness \[pg 103\] of their industry. The new settlers
+constitute what is called a _market_ for surplus agricultural produce; and their arrival has enriched the settlement,
+not only by the manufactured articles which they produce, but by the food which would not have been produced unless they
+had been there to consume it.
+
+There is no inconsistency between this doctrine and the proposition we before maintained,[^115] that a market for
+commodities does not constitute employment for labor. The labor of the agriculturists was already provided with
+employment; they are not indebted to the demand of the new-comers for being able to maintain themselves. What that
+demand does for them is to call their labor into increased vigor and efficiency; to stimulate them, by new motives, to
+new exertions.
+
+From these considerations it appears that a country will seldom have a productive agriculture unless it has a large town
+population, or, the only available substitute, a large export trade in agricultural produce to supply a population
+elsewhere. I use the phrase “town population” for shortness, to imply a population non-agricultural.
+
+It is found that the productive power of labor is increased by carrying the separation further and further; by breaking
+down more and more every process of industry into parts, so that each laborer shall confine himself to an ever smaller
+number of simple operations. And thus, in time, arise those remarkable cases of what is called the division of labor,
+with which all readers on subjects of this nature are familiar. Adam Smith's illustration from pin-making, though so
+well known, is so much to the point that I will venture once more to transcribe it: “The business of making a pin is
+divided into about eighteen distinct operations. One man draws out the wire, another straights it, a third cuts it, a
+fourth points it, a fifth grinds it at the top for receiving the head; to make the head requires two or three distinct
+operations; to put it on, is a peculiar business; \[pg 104\] to whiten the pins is another; it is even a trade by itself
+to put them into the paper.... I have seen a small manufactory where ten men only were employed, and where some of them,
+consequently, performed two or three distinct operations. But though they were very poor, and therefore but
+indifferently accommodated with the necessary machinery, they could, when they exerted themselves, make among them about
+twelve pounds of pins in a day. There are in a pound upward of four thousand pins of a middling size. Those ten persons,
+therefore, could make among them upward of forty-eight thousand pins in a day. Each person, therefore, making a tenth
+part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day. But if they
+had all wrought separately and independently, and without any of them having been educated to this peculiar business,
+they certainly could not each of them have made twenty, perhaps not one pin in a day.”
+
+## § 3. Advantages of Division of Labor.
+
+The causes of the increased efficiency given to labor by the division of employments are some of them too familiar to
+require specification; but it is worth while to attempt a complete enumeration of them. By Adam Smith they are reduced
+to three: “First, the increase of dexterity in every particular workman; secondly, the saving of the time which is
+commonly lost in passing from one species of work to another; and, lastly, the invention of a great number of machines
+which facilitate and abridge labor, and enable one man to do the work of many.”
+
+(1.) Of these, the increase of dexterity of the individual workman is the most obvious and universal. It does not follow
+that because a thing has been done oftener it will be done better. That depends on the intelligence of the workman, and
+on the degree in which his mind works along with his hands. But it will be done more easily. This is as true of mental
+operations as of bodily. Even a child, after much practice, sums up a column of figures with a rapidity which resembles
+intuition. The act of speaking any language, of \[pg 105\] reading fluently, of playing music at sight, are cases as
+remarkable as they are familiar. Among bodily acts, dancing, gymnastic exercises, ease and brilliancy of execution on a
+musical instrument, are examples of the rapidity and facility acquired by repetition. In simpler manual operations the
+effect is, of course, still sooner produced.
+
+(2.) The second advantage enumerated by Adam Smith as arising from the division of labor is one on which I can not help
+thinking that more stress is laid by him and others than it deserves. To do full justice to his opinion, I will quote
+his own exposition of it: “It is impossible to pass very quickly from one kind of work to another, that is carried on in
+a different place, and with quite different tools. A country weaver, who cultivates a small farm, must lose a good deal
+of time in passing from his loom to the field, and from the field to his loom. When the two trades can be carried on in
+the same workhouse, the loss of time is no doubt much less. It is even in this case, however, very considerable. A man
+commonly saunters a little in turning his hand from one sort of employment to another.” I am very far from implying that
+these considerations are of no weight; but I think there are counter-considerations which are overlooked. If one kind of
+muscular or mental labor is different from another, for that very reason it is to some extent a rest from that other;
+and if the greatest vigor is not at once obtained in the second occupation, neither could the first have been
+indefinitely prolonged without some relaxation of energy. It is a matter of common experience that a change of
+occupation will often afford relief where complete repose would otherwise be necessary, and that a person can work many
+more hours without fatigue at a succession of occupations, than if confined during the whole time to one.[^116]
+Different occupations employ different muscles, or different energies of the mind, some of which rest and are refreshed
+while \[pg 106\] others work. Bodily labor itself rests from mental, and conversely. The variety itself has an
+invigorating effect on what, for want of a more philosophical appellation, we must term the animal spirits—so important
+to the efficiency of all work not mechanical, and not unimportant even to that.
+
+(3.) The third advantage attributed by Adam Smith to the division of labor is, to a certain extent, real. Inventions
+tending to save labor in a particular operation are more likely to occur to any one in proportion as his thoughts are
+intensely directed to that occupation, and continually employed upon it.
+
+This also can not be wholly true. “The founder of the cotton manufacture was a barber. The inventor of the power-loom
+was a clergyman. A farmer devised the application of the screw-propeller. A fancy-goods shopkeeper is one of the most
+enterprising experimentalists in agriculture. The most remarkable architectural design of our day has been furnished by
+a gardener. The first person who supplied London with water was a goldsmith. The first extensive maker of English roads
+was a blind man, bred to no trade. The father of English inland navigation was a duke, and his engineer was a
+millwright. The first great builder of iron bridges was a stone-mason, and the greatest railway engineer commenced his
+life as a colliery engineer.”[^117]
+
+(4.) The greatest advantage (next to the dexterity of the workmen) derived from the minute division of labor which takes
+place in modern manufacturing industry, is one not mentioned by Adam Smith, but to which attention has been drawn by Mr.
+Babbage: the more economical distribution of labor by classing the work-people according to their capacity. Different
+parts of the same series of operations require unequal degrees of skill and bodily strength; and those who have skill
+enough for the most difficult, or strength enough for the hardest parts of the labor, are made much more useful by being
+employed solely in them; the operations which everybody is capable of being left to those who are fit for no others.
+
+\[pg 107\]
+
+The division of labor, as all writers on the subject have remarked, is limited by the extent of the market. If, by the
+separation of pin-making into ten distinct employments, forty-eight thousand pins can be made in a day, this separation
+will only be advisable if the number of accessible consumers is such as to require, every day, something like
+forty-eight thousand pins. If there is only a demand for twenty-four thousand, the division of labor can only be
+advantageously carried to the extent which will every day produce that smaller number. The increase of the general
+riches of the world, when accompanied with freedom of commercial intercourse, improvements in navigation, and inland
+communication by roads, canals, or railways, tends to give increased productiveness to the labor of every nation in
+particular, by enabling each locality to supply with its special products so much larger a market that a great extension
+of the division of labor in their production is an ordinary consequence. The division of labor is also limited, in many
+cases, by the nature of the employment. Agriculture, for example, is not susceptible of so great a division of
+occupations as many branches of manufactures, because its different operations can not possibly be simultaneous.
+
+(5.) “In the examples given above the advantage obtained was derived from the mere fact of the separation of
+employments, altogether independently of the mode in which the separated employments were distributed among the
+_persons_ carrying them on, as well as of the _places_ in which they were conducted. But a further gain arises when the
+employments are of a kind which, in order to their effective performance, call for special capacities in the workman, or
+special natural resources in the scene of operation. There would be a manifest waste of special power in compelling to a
+mere mechanical or routine pursuit a man who is fitted to excel in a professional career; and similarly, if a branch of
+industry were established on some site which offered greater facilities to an industry of another sort, a waste,
+analogous in character, would be incurred. In a word, while a great number of the occupations in which men engage are
+such as, with proper preparation for them, might equally well be carried on by any of those engaged in them, or in any
+of the localities in which they are respectively established, there are others which demand for \[pg 108\] their
+effective performance special personal qualifications and special local conditions; and the general effectiveness of
+productive industry will, other things being equal, be proportioned to the completeness with which the adaptation is
+accomplished between occupation on the one hand and individuals and localities on the other.”[^118]
+
+## § 4. Production on a Large and Production on a Small Scale.
+
+Whenever it is essential to the greatest efficiency of labor that many laborers should combine, the scale of the
+enterprise must be such as to bring many laborers together, and the capital must be large enough to maintain them. Still
+more needful is this when the nature of the employment allows, and the extent of the possible market encourages, a
+considerable division of labor. The larger the enterprise the further the division of labor may be carried. This is one
+of the principal causes of large manufactories. Every increase of business would enable the whole to be carried on with
+a proportionally smaller amount of labor.
+
+As a general rule, the expenses of a business do not increase by any means proportionally to the quantity of business.
+Let us take as an example a set of operations which we are accustomed to see carried on by one great establishment, that
+of the Post-Office. Suppose that the business, let us say only of the letter-post, instead of being centralized in a
+single concern, were divided among five or six competing companies. Each of these would be obliged to maintain almost as
+large an establishment as is now sufficient for the whole. Since each must arrange for receiving and delivering letters
+in all parts of the town, each must send letter-carriers into every street, and almost every alley, and this, too, as
+many times in the day as is now done by the Post-Office, if the service is to be as well performed. Each must have an
+office for receiving letters in every neighborhood, with all subsidiary arrangements for collecting the letters from the
+different offices and redistributing them. To this must be added the much greater number of superior officers \[pg 109\]
+who would be required to check and control the subordinates, implying not only a greater cost in salaries for such
+responsible officers, but the necessity, perhaps, of being satisfied in many instances with an inferior standard of
+qualification, and so failing in the object.
+
+Whether or not the advantages obtained by operating on a large scale preponderate in any particular case over the more
+watchful attention and greater regard to minor gains and losses usually found in small establishments, can be
+ascertained, in a state of free competition, by an unfailing test. Wherever there are large and small establishments in
+the same business, that one of the two which in existing circumstances carries on the production at greatest advantage
+will be able to undersell the other. The power of permanently underselling can only, generally speaking, be derived from
+increased effectiveness of labor; and this, when obtained by a more extended division of employment, or by a
+classification tending to a better economy of skill, always implies a greater produce from the same labor, and not
+merely the same produce from less labor; it increases not the surplus only, but the gross produce of industry. If an
+increased quantity of the particular article is not required, and part of the laborers in consequence lose their
+employment, the capital which maintained and employed them is also set at liberty, and the general produce of the
+country is increased by some other application of their labor.
+
+A considerable part of the saving of labor effected by substituting the large system of production for the small, is the
+saving in the labor of the capitalists themselves. If a hundred producers with small capitals carry on separately the
+same business, the superintendence of each concern will probably require the whole attention of the person conducting
+it, sufficiently, at least, to hinder his time or thoughts from being disposable for anything else; while a single
+manufacturer possessing a capital equal to the sum of theirs, with ten or a dozen clerks, could conduct the whole of
+their amount of business, and have leisure, too, for other occupations.
+
+\[pg 110\]
+
+Production on a large scale is greatly promoted by the practice of forming a large capital by the combination of many
+small contributions; or, in other words, by the formation of stock companies. The advantages of the principle are
+important, \[since\] (1) many undertakings require an amount of capital beyond the means of the richest individual or
+private partnership. \[Of course\] the Government can alone be looked to for any of those works for which a great
+combination of means is requisite, because it can obtain those means by compulsory taxation, and is already accustomed
+to the conduct of large operations. For reasons, however, which are tolerably well known, government agency for the
+conduct of industrial operations is generally one of the least eligible of resources when any other is available. Of
+\[the advantages referred to above\] one of the most important is (2) that which relates to the intellectual and active
+qualifications of the directing head. The stimulus of individual interest is some security for exertion, but exertion is
+of little avail if the intelligence exerted is of an inferior order, which it must necessarily be in the majority of
+concerns carried on by the persons chiefly interested in them. Where the concern is large, and can afford a remuneration
+sufficient to attract a class of candidates superior to the common average, it is possible to select for the general
+management, and for all the skilled employments of a subordinate kind, persons of a degree of acquirement and cultivated
+intelligence which more than compensates for their inferior interest in the result. It must be further remarked that it
+is not a necessary consequence of joint-stock management that the persons employed, whether in superior or in
+subordinate offices, should be paid wholly by fixed salaries. In the case of the managers of joint-stock companies, and
+of the superintending and controlling officers in many private establishments, it is a common enough practice to connect
+their pecuniary interest with the interest of their employers, by giving them part of their remuneration in the form of
+a percentage on the profits.
+
+\[pg 111\]
+
+The possibility of substituting the large system of production for the small depends, of course, in the first place, on
+the extent of the market. The large system can only be advantageous when a large amount of business is to be done: it
+implies, therefore, either a populous and flourishing community, or a great opening for exportation.
+
+In the countries in which there are the largest markets, the widest diffusion of commercial confidence and enterprise,
+the greatest annual increase of capital, and the greatest number of large capitals owned by individuals, there is a
+tendency to substitute more and more, in one branch of industry after another, large establishments for small ones.
+These are almost always able to undersell the smaller tradesmen, partly, it is understood, by means of division of
+labor, and the economy occasioned by limiting the employment of skilled agency to cases where skill is required; and
+partly, no doubt, by the saving of labor arising from the great scale of the transactions; as it costs no more time, and
+not much more exertion of mind, to make a large purchase, for example, than a small one, and very much less than to make
+a number of small ones. With a view merely to production, and to the greatest efficiency of labor, this change is wholly
+beneficial.
+
+A single large company very often, instead of being a monopoly, is generally better than two large companies; for there
+is little likelihood of competition and lower prices when the competitors are so few as to be able to agree not to
+compete. As Mr. Mill says in regard to parallel railroads: “No one can desire to see the enormous waste of capital and
+land (not to speak of increased nuisance) involved in the construction of a second railway to connect the same places
+already united by an existing one; while the two would not do the work better than it could be done by one, and after a
+short time would probably be amalgamated.” The actual tendency of charges to diminish on the railways, before the matter
+of parallel railways was suggested is clearly seen by reference to Chart V (p.
+[137](1129008759595750428_30107-h-3.html.xhtml#Pg137)).
+
+\[pg 112\]
+
+* * *
+
+[^114]: See Mr. Babbage's “Economy of Machinery and Manufactures.”
+
+[^115]: [Book i, chap. iv, § 6](1129008759595750428_30107-h-3.html.xhtml#Book_I_Chapter_IV_Section_6).
+
+[^116]: Constant use of the same muscles, as by gold-beaters or writers, very often produces paralysis.
+
+[^117]: Hearn's “Plutology,” p. 279.
+
+[^118]: Cairnes, “Leading Principles,” pp. 299, 300.

@@ -1,0 +1,613 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.380 --> 00:00:02.800
+Aujourd'hui on va parler d'une idée qui me semble cruciale en démocratie :
+
+00:00:02.800 --> 00:00:04.780
+le principe de Condorcet.
+
+00:00:12.260 --> 00:00:14.980
+Vous pourriez avoir l'impression que c'est juste une façon un peu compliquée d e dire que
+
+00:00:15.000 --> 00:00:17.000
+dans une élection, la majorité doit l'emporter.
+
+00:00:17.200 --> 00:00:19.400
+Bah oui, c'est juste la base en démocratie, j'vois pas trop le problème...
+
+00:00:19.500 --> 00:00:20.680
+Je suis bien d'accord ! Et pourtant...
+
+00:00:20.680 --> 00:00:21.180
+ 
+
+00:00:21.180 --> 00:00:26.000
+Non seulement les résultats des élections dans les pays démocratiques semblent bien rarement respecter ce critère
+
+00:00:26.140 --> 00:00:29.660
+mais en outre j'ai remarqué que beaucoup de gens qui se disent pourtant attachés à la démocratie
+
+00:00:29.680 --> 00:00:34.520
+seraient tout à fait opposés à ce que l'on mette en place un mode de scrutin respectant ce principe.
+
+00:00:34.800 --> 00:00:38.700
+Autant de raisons qui font qu'il me parait tout à fait important de me pencher de près sur le principe de Condorcet
+
+00:00:38.960 --> 00:00:40.960
+et son rapport à la démocratie.
+
+00:00:42.660 --> 00:00:45.600
+Vous avez peut-être remarqué, surtout en ces temps d'élection,
+
+00:00:45.740 --> 00:00:48.440
+qu'à l'échelle d'un pays, tout le monde n'est pas d'accord sur tout.
+
+00:00:48.440 --> 00:00:49.580
+C'est un euphémisme.
+
+00:00:49.700 --> 00:00:52.940
+Or vivre en société, c'est vivre sous des lois communes, qui s'appliquent à tous
+
+00:00:53.040 --> 00:00:55.220
+Et lorsqu'il faut ainsi prendre des décisions qui  s'appliquent à tous
+
+00:00:55.220 --> 00:00:57.100
+et que personne n'est d'accord sur rien
+
+00:00:57.100 --> 00:00:58.900
+On a comme un problème !
+
+00:00:58.960 --> 00:01:02.320
+On peut le résoudre en ayant un chef qui impose à tous sa loi sans demander l'avis de personne
+
+00:01:02.320 --> 00:01:04.800
+mais ce ne serait pas très... démocratique ! N'est-ce pas ?
+
+00:01:04.960 --> 00:01:08.960
+Or aujourd'hui on va se demander justement : "Qu'est-ce qui fait qu'une décision est démocratique ?"
+
+00:01:09.000 --> 00:01:11.000
+Mais avant d'aller plus loin, deux avertissements :
+
+00:01:11.120 --> 00:01:15.020
+Je ne veux pas discuter ici de la question de savoir si la démocratie en elle-même est une bonne chose
+
+00:01:15.180 --> 00:01:17.640
+Ni si elle permet de prendre de bonnes décisions
+
+00:01:17.820 --> 00:01:21.360
+Autrement dit, je ne veux pas discuter de la question de la valeur ou de l'utilité de la démocratie.
+
+00:01:21.440 --> 00:01:25.420
+Je ne veux pas non plus discuter de  la question de savoir quelle genre de chose on doit soumettre à un choix démocratique
+
+00:01:25.580 --> 00:01:28.940
+Est-ce qu'il faut voter pour des personnes, pour des partis, pour des idées par exemple
+
+00:01:29.140 --> 00:01:31.960
+Non. Tout ça est intéressant, mais ce n'est pas mon sujet ici.
+
+00:01:32.220 --> 00:01:35.640
+La question que je veux discuter ici est plus simple et plus fondamentale
+
+00:01:35.840 --> 00:01:38.420
+Et au fond, c'est un préalable à toute autre discussion sur la démocratie
+
+00:01:38.880 --> 00:01:40.880
+Qu'est-ce qu'une décision prise démocratiquement ?
+
+00:01:41.320 --> 00:01:44.280
+Par exemple, si pour choisir notre président, nous voulons faire ça de façon démocratique
+
+00:01:44.560 --> 00:01:48.000
+Qu'est-ce que ça impose exactement quant à l'organisation de la prise de décision ?
+
+00:01:48.380 --> 00:01:50.820
+Bah... Faut faire une élection... Ya rien de bien mystérieux !
+
+00:01:51.080 --> 00:01:53.080
+C'est loin d'être aussi simple que ça, je t'assure.
+
+00:01:53.280 --> 00:01:55.940
+J'pourrais vous faire l’étymologie du mot "démocratie" juste parce que je suis prof de philo
+
+00:01:55.940 --> 00:01:57.540
+et que c'est le genre de trucs qu'on fait.
+
+00:01:57.760 --> 00:02:01.940
+Ca vient de deux racines grecques : "dêmos" qui veut dire "peuple" et "kratos" qui renvoie au pouvoir.
+
+00:02:02.140 --> 00:02:05.180
+Donc, de même qu'une décision est monarchique si c'est un monarque qui la prend
+
+00:02:05.380 --> 00:02:08.380
+On pourrait se dire qu'une décision est démocratique si c'est un peuple qui la prend.
+
+00:02:08.520 --> 00:02:11.660
+En somme, il s'agit de faire ce que le peuple veut, rien de plus simple !
+
+00:02:11.820 --> 00:02:15.540
+Sauf que... seuls les individus ont une volonté, à strictement parler
+
+00:02:15.700 --> 00:02:19.480
+Et un peuple, et je ne veux pas rentrer dans une discussion sémantique sur ce qu'est un peuple,
+
+00:02:19.720 --> 00:02:22.080
+Mais en tous cas, ça n'est pas comme un gros individu !
+
+00:02:22.360 --> 00:02:25.860
+C'est plutôt quelque chose comme la réunion d'une multitude d'individus très différents
+
+00:02:26.160 --> 00:02:30.260
+aux volontés très diverses, et souvent inconciliables sur à peu près tous les sujets.
+
+00:02:30.260 --> 00:02:31.640
+Du coup, comment faire ?
+
+00:02:31.920 --> 00:02:34.920
+Bah, c'est comme j'ai dit ! On vote, on fait des élections, c'est pas si compliqué !
+
+00:02:35.040 --> 00:02:39.360
+Oui, ça semble une bonne idée : on va se renseigner sur ce que veut chacun, par le biais d'un bulletin de vote par exemple,
+
+00:02:39.500 --> 00:02:42.060
+on agrège tout ça, et on suivra la préférence de la majorité.
+
+00:02:42.220 --> 00:02:48.060
+C'est ce qu'on peut appeler le principe de majorité, et ça parait absolument fondamental pour le fonctionnement de la démocratie.
+
+00:02:48.360 --> 00:02:51.740
+Et il me parait raisonnable d'y voir la norme démocratique par excellence
+
+00:02:51.820 --> 00:02:56.700
+Une décision est démocratique avant tout dans la mesure où elle respecte ce principe de majorité.
+
+00:02:56.760 --> 00:02:59.520
+Juste pour faire un peu de mauvais esprit et pour citer un philosophe,
+
+00:02:59.660 --> 00:03:04.280
+je ne résiste pas à l'envie de faire remarquer avec Rousseau qu'un tel principe n'a rien d'absolument légitime, en fait !
+
+00:03:22.360 --> 00:03:25.160
+En somme Rousseau demande : si le principe de majorité ne fait pas l'unanimité,
+
+00:03:25.380 --> 00:03:28.500
+quelle est sa légitimité à s'imposer à ceux qui l'ont refusé ?
+
+00:03:28.700 --> 00:03:31.320
+Ah quand même... Si vraiment tous les autres sont d'accords...
+
+00:03:31.540 --> 00:03:36.660
+Donc pour justifier le principe selon lequel la majorité l'emporte, tu fais valoir qu'une majorité est d'accord avec ce principe
+
+00:03:36.880 --> 00:03:40.160
+Huum oui, dit comme ça, ça parait un peu circulaire mais...
+
+00:03:40.420 --> 00:03:44.420
+Mais passons là dessus ! Pour la suite, admettons que nous sommes entre démocrates de bonne compagnie.
+
+00:03:44.580 --> 00:03:51.200
+Et nous sommes donc tous d'accords pour admettre qu'une décision est démocratique avant tout dans la mesure où elle respecte le principe de majorité.
+
+00:03:51.200 --> 00:03:52.220
+Maintenant, voyons où ça nous mène :
+
+00:03:52.420 --> 00:03:57.060
+Qu'est-ce qu'un tel principe impose exactement quant au fonctionnement d'un scrutin démocratique ?
+
+00:03:57.240 --> 00:03:59.340
+L'idée que la majorité doit l'emporter reste en fait très vague
+
+00:03:59.340 --> 00:04:00.960
+et du coup difficile à appliquer !
+
+00:04:01.220 --> 00:04:05.740
+Comment passe-t-on d'une somme de préférences individuelles à l'expression d'une préférence collective ?
+
+00:04:06.300 --> 00:04:08.600
+C'est un problème... De mathématiques, au fond !
+
+00:04:08.800 --> 00:04:11.540
+Pour un tour d'horizon des principaux travaux et résultats sur ce sujet,
+
+00:04:11.740 --> 00:04:14.900
+je vous renvoie entre autre à toutes ces vidéos excellentes dont les liens sont dans la description
+
+00:04:14.900 --> 00:04:16.500
+et dont je vous reparlerai dans la conclusion de cette vidéo.
+
+00:04:16.760 --> 00:04:20.440
+Maintenant, prenons un exemple, mais pour éviter de parler politique pour l'instant, je vais parler FROMAGE
+
+00:04:20.640 --> 00:04:25.580
+Supposons que nous devons élire un fromage, et que nous avons le choix seulement entre le roquefort et la mimolette.
+
+00:04:25.940 --> 00:04:28.420
+Et il y a du coup seulement deux types de préférences électorales :
+
+00:04:28.600 --> 00:04:31.920
+un électeur peut préférer la mimolette au roquefort, ou le roquefort à la mimolette.
+
+00:04:32.240 --> 00:04:37.520
+Si les électeurs ayant le premier type de préférence sont en majorité par rapport aux électeurs ayant le second type de préférence,
+
+00:04:37.660 --> 00:04:39.900
+alors c'est la mimolette qui doit être choisie.
+
+00:04:40.240 --> 00:04:46.400
+Voilà tout ! Ici, c'est simple, clair et net : la décision démocratique dans ce type de cas, ça ne peut pas être autre chose que ça.
+
+00:04:46.800 --> 00:04:49.780
+Mais souvent nous avons à choisir entre bien plus que deux options
+
+00:04:49.780 --> 00:04:51.280
+Et c'est rarement des fromages...
+
+00:04:51.460 --> 00:04:54.120
+Considérons un cas un tout petit peu plus compliqué avec trois options :
+
+00:04:54.280 --> 00:04:56.960
+roquefort, mimolette et...camembert
+
+00:04:57.200 --> 00:05:02.180
+Supposez le cas suivant : il y a 9 électeurs.4 électeurs préfèrent le roquefort au camembert et le camembert à la mimolette.
+
+00:05:02.440 --> 00:05:06.240
+3 électeurs préfèrent la mimolette au camembert et le camembert au roquefort
+
+00:05:06.460 --> 00:05:09.720
+2 électeurs préfèrent le camembert à la mimolette et la mimolette au roquefort
+
+00:05:10.160 --> 00:05:15.880
+Pourriez-vous, à partir de ces préférences électorales, me dire quel fromage ce groupe devrait démocratiquement élire ?
+
+00:05:16.640 --> 00:05:19.120
+Heuuuu... Oui, tout de suite, c'est plus compliqué...
+
+00:05:19.620 --> 00:05:21.620
+On pourrait déjà regarder ce qu'il se passerait si on organisait un scrutin
+
+00:05:21.780 --> 00:05:24.380
+selon les systèmes les plus courants dans les démocraties actuelles
+
+00:05:24.720 --> 00:05:28.660
+Par exemple, en Corée du Sud, le président est élu à un scrutin uninominal à 1 tour
+
+00:05:28.900 --> 00:05:30.900
+Ici, ce scrutin donnerait  le résultat suivant :
+
+00:05:31.240 --> 00:05:34.660
+4 voix pour le roquefort, 3 voix pour la mimolette, 2 voix pour le camembert
+
+00:05:34.880 --> 00:05:37.860
+Donc, le roquefort est élu : tout le monde au roquefort
+
+00:05:37.920 --> 00:05:42.160
+Qu'en serait-il si on préférait le scrutin à 2 tours, comme aux élections présidentielles en France ?
+
+00:05:42.480 --> 00:05:45.520
+Le camembert, arrivé dernier du 1er tour, serait éliminé
+
+00:05:45.680 --> 00:05:48.400
+et le second tour verrait donc s'affronter le roquefort et la mimolette
+
+00:05:48.620 --> 00:05:53.000
+Les deux électeurs du camembert préférant la mimolette au roquefort reporteraient leurs voix sur la mimolette
+
+00:05:53.340 --> 00:05:57.560
+si bien qu'au second tour, ce serait la mimolette qui l'emporte avec 5 voix contre 4
+
+00:05:58.360 --> 00:06:01.560
+Mais quel mode de scrutin respecte vraiment les préférences de la majorité ?
+
+00:06:01.720 --> 00:06:04.880
+Autrement dit : qui des deux fromages mérite de gagner l'élection ?
+
+00:06:05.040 --> 00:06:07.040
+Bah.. la mimolette ! ... ou le roquefort !
+
+00:06:07.200 --> 00:06:09.600
+Et bien dans cette situation, en fait, il y a une réponse claire et nette
+
+00:06:09.600 --> 00:06:10.280
+Le roquefort !
+
+00:06:10.280 --> 00:06:11.160
+Aucun des deux !
+
+00:06:11.320 --> 00:06:16.820
+Pourquoi ? Parce qu'il existe une 3ème alternative qu'une majorité d'électeurs préfère à toutes les autres
+
+00:06:16.880 --> 00:06:18.500
+Le camembert !
+
+00:06:18.700 --> 00:06:21.420
+En effet, si on faisait s'affronter en duel le camembert au roquefort,
+
+00:06:21.680 --> 00:06:25.740
+le camembert l'emporterait par 5 voix contre 4 grâce au report de voix de la mimolette
+
+00:06:26.020 --> 00:06:29.580
+cela signifie donc qu'une majorité préfère le camembert au roquefort
+
+00:06:29.780 --> 00:06:34.840
+Et de la même façon, en duel contre la mimolette, le camembert l'emporterait par 6 voix contre 3
+
+00:06:35.100 --> 00:06:37.260
+grâce au report de voix du roquefort cette fois
+
+00:06:37.460 --> 00:06:40.500
+Là aussi, une majorité préfère le camembert à la mimolette
+
+00:06:40.760 --> 00:06:44.720
+Autrement dit : même si le camembert n'est pas le premier choix du plus grand nombre,
+
+00:06:45.000 --> 00:06:49.020
+C'est le seul des 3 fromages candidats qui, quelque soit l'alternative qu'on lui oppose,
+
+00:06:49.180 --> 00:06:51.440
+aura pour lui une majorité de suffrages.
+
+00:06:51.660 --> 00:06:57.440
+Et donc, si la majorité doit l'emporter en démocratie, il faut que le camembert l'emporte dans ce cas précis !
+
+00:06:57.680 --> 00:07:01.960
+On appelle un tel candidat, un candidat qui est préféré à une majorité face à n'importe quelle autre alternative,
+
+00:07:01.960 --> 00:07:03.940
+le vainqueur de Condorcet
+
+00:07:04.080 --> 00:07:07.480
+On le définit aussi souvent en disant que le vainqueur de Condorcet, c'est le candidat qui gagne tous les duels
+
+00:07:07.480 --> 00:07:08.980
+Qu'est-ce qu'il vient faire là Condorcet, en fait ?
+
+00:07:09.120 --> 00:07:11.700
+Condorcet est un philosophe et mathématicien brillant du XVIIIème siècle
+
+00:07:11.920 --> 00:07:16.280
+qui a notamment beaucoup étudié les modes de scrutin, et on lui doit ce principe auquel il a associé son nom :
+
+00:07:22.460 --> 00:07:27.720
+Et c'est pourquoi on appelle "vainqueur de Condorcet" cette alternative préférée par une majorité à toute autre alternative.
+
+00:07:28.560 --> 00:07:34.340
+On peut voir dans ce principe une façon de préciser le sens du principe de majorité, dont la formulation initiale restait trop vague
+
+00:07:36.440 --> 00:07:38.440
+Très bien, mais c'est quoi "la préférence de la majorité" ?
+
+00:07:38.720 --> 00:07:41.240
+Surtout quand il y a plus de 2 candidats !
+
+00:07:41.480 --> 00:07:43.680
+Et bien assurément, quand il y en a un, c'est le vainqueur de Condorcet
+
+00:07:43.960 --> 00:07:46.920
+puisqu'il est préféré par une majorité à toute autre alternative.
+
+00:07:49.800 --> 00:07:54.000
+J'y vois vraiment une sorte de norme démocratique au sens où si une élection ne respecte pas cette norme,
+
+00:07:54.240 --> 00:08:00.680
+l'alternative élue est forcément un peu "mal élue" puisque ça veut dire que une majorité lui préfère un autre candidat
+
+00:08:01.040 --> 00:08:05.240
+Mais encore une fois, ce n'est qu'une norme démocratique. Je ne veux pas dire par là que le candidat élu selon cette norme là
+
+00:08:05.560 --> 00:08:07.880
+est forcément bon et prendra de bonnes décisions.
+
+00:08:08.280 --> 00:08:12.160
+Ca veut seulement dire que la décision a bien été prise démocratiquement. Ni plus, ni moins.
+
+00:08:14.560 --> 00:08:19.160
+Bon... C'est vrai que ça parait plutôt correct ton truc de Condorcet, mais j'suppose qu'il y a un problème sinon t'en parlerais pas.
+
+00:08:19.320 --> 00:08:23.880
+L'objection sur laquelle les mathématiciens se sont cassés les dents, c'est le paradoxe de Condorcet.
+
+00:08:24.360 --> 00:08:29.320
+Il réside en ceci que dans certains cas, il n'y a pas de vainqueur de Condorcet. C'est un problème...
+
+00:08:29.720 --> 00:08:34.800
+Par exemple, si trois électeurs sont tels que le premier préfère le roquefort au camembert et le camembert à la mimolette
+
+00:08:35.160 --> 00:08:38.160
+Le deuxième préfère le camembert à la mimolette et la mimolette au roquefort
+
+00:08:38.400 --> 00:08:41.400
+Et le troisième préfère la mimolette au roquefort et le roquefort au camembert
+
+00:08:41.800 --> 00:08:48.360
+Chaque électeur a bien des préférences déterminées, on les connait toutes, mais on ne peut pas dégager une préférence de la majorité pour l'une des trois options
+
+00:08:48.640 --> 00:08:51.480
+En effet, une majorité préfère le roquefort au camembert
+
+00:08:51.720 --> 00:08:54.400
+mais une majorité préfère le camembert à la mimolette
+
+00:08:54.680 --> 00:08:57.200
+et une majorité préfère la mimolette au roquefort.
+
+00:08:57.560 --> 00:09:00.720
+Les préférences majoritaires sont cycliques si bien qu'aucune ne domine toutes les autres.
+
+00:09:01.360 --> 00:09:06.720
+Tout se passe comme si, collectivement, rien n'était préféré à rien alors que, individuellement, chacun a bien des préférences.
+
+00:09:06.720 --> 00:09:08.480
+Mais c'est peut-être pas si grave.
+
+00:09:08.840 --> 00:09:11.440
+D'abord parce qu'on peut croire qu'en pratique, et notamment pour des élections politiques,
+
+00:09:11.680 --> 00:09:13.960
+ce genre de configuration serait en fait très rare.
+
+00:09:14.280 --> 00:09:20.680
+Et ensuite, et surtout, parce que ce problème en fait ne remet absolument pas en cause le principe de Codorcet comme norme démocratique.
+
+00:09:21.080 --> 00:09:24.600
+Ce principe ne dit pas que seul le vainqueur de Condorcet mérite de gagner l'élection.
+
+00:09:25.160 --> 00:09:29.720
+Ce principe dit seulement que s'il y a un vainqueur de Condorcet, alors il mérite de gagner l'élection.
+
+00:09:30.080 --> 00:09:35.720
+S'il n'y en a pas, c'est que la situation électorale est franchement bien embrouillée, et ça va être difficile de trouver une solution.
+
+00:09:35.960 --> 00:09:39.480
+Le vainqueur qu'on désignera sera moins légitime qu'un vainqueur de Condorcet, c'est sûr,
+
+00:09:39.800 --> 00:09:42.360
+mais on peut sans doute quand même bricoler quelque chose de convenable.
+
+00:09:42.720 --> 00:09:48.040
+En somme on peut imaginer toutes sortes de modes de scrutin qui, s'il y a un vainqueur de Condorcet, élise le vainqueur de Condorcet,
+
+00:09:48.440 --> 00:09:52.120
+et au cas où il n'y en a pas, résolve le conflit d'une façon ou d'une autre.
+
+00:09:52.400 --> 00:09:55.200
+Et sur ce point les mathématiciens ont été vraiment très inventifs.
+
+00:09:55.520 --> 00:09:58.320
+On dit de tels modes de scrutin que ce sont des "méthodes de Condorcet"
+
+00:09:58.600 --> 00:10:05.000
+Et si vous considérez que le principe de Condorcet exprime la norme démocratique fondamentale, à savoir que la majorité doit l'emporter,
+
+00:10:05.240 --> 00:10:10.280
+et bien vous devriez vous attendre à ce que, dans nos démocraties, les modes de scrutin soient des méthodes de Condorcet.
+
+00:10:10.520 --> 00:10:16.480
+Pourtant, comme on l'a vu avec mon petit exemple de fromages, les scrutins les plus utilisés peuvent faire perdre un vainqueur de Condorcet
+
+00:10:16.600 --> 00:10:19.360
+autrement dit, ce ne sont pas des méthodes de Condorcet.
+
+00:10:19.680 --> 00:10:24.560
+Et pour autant que je sache, aucune démocratie n'organise d'élection nationale selon une méthode de Condorcet.
+
+00:10:24.800 --> 00:10:29.720
+Mais en fait ça voudrait dire que des candidats qui seraient vainqueur de Condorcet, en fait perdent des élections démocratiques ?
+
+00:10:29.720 --> 00:10:33.160
+Bah.. oui ! Et ça arrive tout le temps ! Et on prendra quelques exemples de ça la prochaine fois
+
+00:10:33.400 --> 00:10:35.920
+mais pour l'instant je préfère qu'on considère les choses d'un point de vue général.
+
+00:10:36.160 --> 00:10:39.760
+Nous vivons dans une démocratie et nous sommes attachés à l'idée de démocratie.
+
+00:10:39.960 --> 00:10:44.680
+La norme démocratique fondamentale pour une élection, c'est que la préférence de la majorité doit l'emporter.
+
+00:10:44.840 --> 00:10:48.640
+Le principe de Condorcet est une expression précise de cette norme
+
+00:10:48.640 --> 00:10:52.120
+Or nos scrutins ne garantissent pas le respect de ce principe.
+
+00:10:52.360 --> 00:10:56.440
+Et en fait on verra même qu'ils tendent plutôt à faire perdre les vainqueurs de Condorcet qu'à les faire gagner.
+
+00:10:56.720 --> 00:11:02.160
+N'est-ce pas quelque chose contre quoi, si nous étions vraiment attachés à la démocratie, nous devrions nous révolter ?
+
+00:11:02.160 --> 00:11:03.960
+Bah... si !
+
+00:11:04.160 --> 00:11:06.880
+Et bien, de fait, j'ai l'impression que ça ne révolte pas grand monde, non.
+
+00:11:07.120 --> 00:11:10.440
+Et surtout pas celles et ceux qui, justement, s'intéressent à la politique.
+
+00:11:10.720 --> 00:11:14.800
+J'observe en effet beaucoup de personnes qui, tout en se disant bien sûr attachés à la démocratie,
+
+00:11:14.960 --> 00:11:19.680
+sont clairement hostiles à l'idée qu'une méthode de Condorcet puisse être utilisée lors de nos élections.
+
+00:11:19.680 --> 00:11:21.840
+N'y a-t-il pas une forme de contradiction là dedans ?
+
+00:11:22.280 --> 00:11:27.480
+Et bien je parie que vous aller en discuter longuement dans les commentaires et en tous cas je poursuivrai cette discussion dans le prochain épisode
+
+00:11:27.680 --> 00:11:33.120
+où on se demandera donc : dans quelle mesure un vainqueur de Condorcet peut-il être mal élu ?
+
+00:11:36.400 --> 00:11:40.000
+Si toutes ces histoires de scrutins vous intéressent du point de vue mathématique en particulier,
+
+00:11:40.160 --> 00:11:43.120
+il y a  beaucoup de choses que vous pouvez aller lire ou voir sur Internet
+
+00:11:43.400 --> 00:11:45.800
+Le YouTube français est particulièrement riche à ce sujet
+
+00:11:46.120 --> 00:11:51.720
+Pour ma part, j'aime tout particulièrement les vidéos de "Science4All", qui m'a quasiment convaincu avec son scrutin de Condorcet randomisé
+
+00:11:51.720 --> 00:11:53.360
+et ainsi que celle de "Science étonnante"
+
+00:11:53.600 --> 00:12:00.280
+Ce qui me frappe dans la plupart des contenus scientifiques qui parlent des modes de scrutin, c'est que le principe de Condorcet est généralement présenté comme une évidence
+
+00:12:00.520 --> 00:12:03.320
+une sorte de point de départ que l'on doit accepter.
+
+00:12:03.440 --> 00:12:06.160
+Et je partage complètement cette idée, mais en même temps j'ai conscience du fait que justement,
+
+00:12:06.280 --> 00:12:11.960
+ça ne paraît pas du tout aussi évident à beaucoup de gens, et notamment celles et ceux qui sont intéressés par la politique
+
+00:12:12.200 --> 00:12:16.320
+Et c'est du coup une source de résistance très profonde à l'idée qu'il faut changer nos modes de scrutin.
+
+00:12:16.600 --> 00:12:23.720
+Voilà du coup pourquoi j'ai voulu faire ces vidéos sur ce point précis, la légitimité du principe de Condorcet comme norme démocratique.
+
+00:12:25.000 --> 00:12:31.320
+Ca me semble vraiment difficile à nier, et surtout si vous niez, il faut expliquer quelle norme démocratique vous mettriez au-dessus de celle-ci.
+
+00:12:31.680 --> 00:12:37.240
+Et encore une fois j'insiste sur l'importance qu'il y a à dissocier ça à la question de la valeur ou de l'efficacité de la démocratie
+
+00:12:37.520 --> 00:12:42.600
+Si vous objectez que le principe de Condorcet tend à favoriser les candidats qui défendront des idées que vous jugez mauvaises,
+
+00:12:42.840 --> 00:12:47.400
+ça ne fait pas en soit une objection au principe de Condorcet en tant que norme démocratique
+
+00:12:47.440 --> 00:12:53.640
+Autrement dit, ça ne prouve pas que des élections respectant ce principe ne sont pas ou sont moins démocratiques que nos élections actuelles.
+
+00:12:53.800 --> 00:13:01.120
+Après tout, vous pourriez fort bien arriver à la conclusion que si une élection est vraiment démocratique, et bien elle tend forcément à élire des candidats qui sont mauvais
+
+00:13:01.280 --> 00:13:05.920
+et ce serait à ce moment là une objection contre la démocratie, pourquoi pas ? Mais c'est un autre débat.
+
+00:13:07.480 --> 00:13:11.400
+Bref, la prochaine fois on ira un peu plus loin dans toutes ces choses. Je m'en tiens là pour le moment.
+
+00:13:11.920 --> 00:13:17.080
+N'hésitez pas à commenter, à liker, à vous abonner, et puis bien sûr à partager sur des réseaux sociaux
+
+00:13:17.320 --> 00:13:22.480
+Faites connaître le principe de Condorcet, ça serait sympa. Et utile, peut-être.
+
+00:13:22.680 --> 00:13:27.320
+Sur ce, portez-vous bien et à bientôt ! Voilà !
+

@@ -1,0 +1,1439 @@
+---
+source_url: https://www.youtube.com/watch?v=96CNc0vgT50
+video_title: HFE Séance 9 du vendredi 2 avril
+generated_at: 2026-09-20T18:18:46.680Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 116.7
+  input_tokens: 32468
+  cached_input_tokens: 0
+  output_tokens: 30733
+  estimated_cost_usd: 0.02331
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# HFE Séance 9 du vendredi 2 avril
+
+Bonjour à tous et bienvenue dans cette nouvelle session, avant-dernière session
+du cours d’histoire des faits économiques. J’espère que vous allez bien en cette
+fin de semaine, en ce nouveau confinement. Vous voyez que toute cette année aura
+été rythmée par la maladie et par les mesures sanitaires. Pour nous, cela ne
+change pas trop : depuis septembre, vous avez ces vidéos, et depuis le mois de
+novembre tous les cours magistraux sont en vidéo. N’hésitez pas quand même à
+faire des commentaires si vous avez des questions, parce qu’évidemment ce qu’on
+perd avec ces cours en ligne, c’est en grande partie l’interactivité ; et moi,
+ce que je perds, c’est la capacité à vérifier que vous comprenez ce que je dis,
+simplement par des échanges de regards qui sont la base du fonctionnement d’un
+cours magistral.
+
+## Chapitre IV : les effets de la colonisation
+
+Je vais donc, sans trop perdre de temps, reprendre le cours là où je l’avais
+laissé. Nous étions dans le chapitre IV, sur les effets de la colonisation : les
+modalités de la colonisation, puis les effets de la colonisation sur l’économie.
+On avait vu le président, et j’étais en train de voir l’Inde, le cas de l’Inde.
+
+### Le cas de l’Inde
+
+L’Inde est un cas très important, puisque c’est quand même aujourd’hui plus d’un
+milliard d’habitants. À l’époque, c’était beaucoup moins, mais c’est une grande
+civilisation, un ensemble de pays. Il n’y a pas une unité nationale indienne, il
+n’y a pas une unité linguistique en Inde, mais il y a tout de même une culture
+commune et des religions communes. C’est donc un pays complexe, avec une grande
+diversité.
+
+Le Royaume-Uni a commencé à coloniser l’Inde en 1757, et cette colonisation est
+le fait essentiellement de la Compagnie des Indes orientales, qui va en fait
+administrer assez rapidement les territoires qu’elle contrôle, de manière à
+produire les produits que faisait l’Inde à l’époque. Ces produits étaient
+extrêmement populaires en Europe : les fameuses indiennes, ces tissus en coton
+teints de couleur, qui avaient beaucoup de succès en Europe, qui valaient donc
+très cher, et qui faisaient la fortune de la Compagnie anglaise des Indes
+orientales.
+
+Puis ce qu’on voit, c’est comment le commerce avec l’Inde a finalement basculé,
+à partir du XIXe siècle. Cette bascule se fait plutôt au milieu du XIXe siècle.
+Vous voyez qu’en 1850, l’Inde va commencer à exporter bien davantage de coton
+brut et à importer des cotonnades, des tissus en coton qui vont être fabriqués
+en Angleterre. On a donc un commerce qui passe d’un commerce essentiellement
+tourné vers les produits manufacturés, les indiennes, puis progressivement, au
+cours du XIXe siècle, tout cela bascule dans un autre rapport commercial où
+l’Inde va produire du coton et où l’Angleterre va ensuite vendre des tissus en
+coton faits avec le coton indien. Évidemment, cela se voit dans les chiffres :
+la valeur des tissus en coton, des cotonnades, est bien plus importante que la
+valeur du coton brut. Cela va donc dégrader la balance commerciale indienne,
+puisqu’en 1700 c’est l’Inde qui exporte, donc elle est en excédent commercial
+important. Cela reste vrai en 1770, cela reste vrai en 1800, et cela commence à
+changer en 1850. À partir de 1900, la situation s’inverse : l’Inde devient
+importatrice nette, parce qu’elle ne produit plus les cotonnades, les indiennes,
+qu’elle vendait en Angleterre.
+
+Comment cela s’est-il passé ? C’est le fait de l’industrialisation et de la
+révolution industrielle anglaise. On a vu qu’elle commence au milieu du XVIIIe
+siècle, mais ce qui va changer les choses au XIXe siècle, c’est la mécanisation
+de la filature puis du tissage, qui fait que les ouvriers anglais deviennent
+beaucoup plus performants que les ouvriers indiens, qui restent sur des
+modalités de production traditionnelles. On a vu aussi que, pour développer son
+industrie textile, l’Angleterre avait besoin de coton, puisque c’était la fibre
+la plus adaptée à l’industrialisation et à la mécanisation du tissage. Or le
+problème du coton, c’est que cela ne pousse pas en Angleterre : il faut le
+produire à l’étranger, dans des zones tropicales. Au début, on le produit dans
+les colonies américaines, mais après l’indépendance des États-Unis, puis avec la
+guerre anglo-américaine de 1812-1815, il va y avoir véritablement un besoin de
+trouver d’autres sources de coton pour continuer à faire tourner les usines
+textiles anglaises. C’est là que l’Angleterre va s’intéresser à l’Inde, qui
+produit traditionnellement du coton.
+
+Pour réussir à organiser cela, il va falloir un peu forcer la main à la
+Compagnie anglaise des Indes orientales. C’est important de le comprendre :
+souvenez-vous, c’est la Compagnie anglaise des Indes orientales qui organise en
+quelque sorte la colonisation de l’Inde pour ses intérêts marchands. À partir du
+commerce, on a besoin de développer l’industrialisation, enfin de développer des
+administrations qui vont permettre aux commerces de se faire correctement, de
+développer les infrastructures, les ports, etc. Mais quand cela devient un
+intérêt important pour le Royaume-Uni d’importer non plus des cotonnades mais du
+coton brut d’Inde, la Compagnie anglaise des Indes orientales ne va pas accepter
+ce genre de chose. Pourquoi ? Parce que le coton brut, comme je l’ai dit, est
+moins valorisé : on fait moins d’affaires en exportant du coton qu’en exportant
+des tissus indiens. La réponse du gouvernement britannique sera donc d’essayer
+de contrer l’influence de la Compagnie anglaise des Indes orientales en
+supprimant le monopole commercial. C’est la première étape, de manière à trouver
+des personnes qui acceptent d’importer du coton, parce que la Compagnie ne
+souhaitait pas importer du coton, moins rentable que les indiennes.
+
+Puis progressivement, les conflits vont continuer entre le gouvernement
+britannique et la Compagnie, jusqu’à ce que la Compagnie soit expulsée d’Inde en
+1860 et que l’Inde passe sous le contrôle de la Couronne britannique. C’est là
+qu’on voit que la démarche de colonisation aboutit finalement : maintenant,
+c’est le gouvernement britannique qui contrôle l’Inde, et non plus les
+compagnies commerciales.
+
+Tout cela va avoir un effet dévastateur sur l’industrie indienne. L’Inde va se
+voir transformer son économie pour produire de plus en plus de coton pour
+l’industrie anglaise, et elle va être en concurrence avec les tissus en coton
+anglais, beaucoup moins chers, tout simplement parce que, grâce à la
+mécanisation, un ouvrier anglais va produire 10 à 14 fois plus de fils de coton
+qu’un ouvrier indien travaillant dans une filature traditionnelle. Les Indiens
+n’ont pas accès aux machines ; l’industrie indienne va donc s’effondrer, et les
+exportations indiennes vont elles aussi s’effondrer. Les exportations anglaises
+vers l’Inde vont passer de 1 million en 1814 à 13 millions en 1820, puis à 20
+millions en 1890. L’Inde ne produit plus les tissus pour sa population : elle a
+besoin de l’industrie britannique pour s’habiller. L’activité traditionnelle
+s’effondre en Inde, l’industrie traditionnelle de production de tissus en coton
+s’effondre, de même que l’activité économique indienne traditionnelle, qui n’est
+pas en mesure de contrebalancer la concurrence britannique. Et bien sûr, les
+Britanniques ne souhaitent pas développer une industrie concurrente : c’est l’un
+des éléments du pacte colonial qu’on a vu la semaine dernière.
+
+Que fait donc l’Inde ? Elle est réduite à produire toujours davantage de coton.
+La production de coton brut est multipliée par 6 entre 1810 et 1914. Le
+problème, c’est que pour produire beaucoup de coton, il faut beaucoup de terre.
+Les exploitations de coton vont donc être organisées sous la forme de grandes
+plantations contrôlées par des commerçants, des industriels, afin d’aider les
+Anglais. Ces plantations de coton vont se faire au détriment des cultures
+vivrières. Sachant qu’en même temps la population indienne continue d’augmenter,
+on va se retrouver avec une insuffisance structurelle de production alimentaire
+en Inde et l’apparition, à partir de la fin du XIXe siècle, de famines de plus
+en plus importantes. On considère qu’entre 1875 et 1901, 26 millions d’Indiens
+meurent du fait de la sous-nutrition et des famines, et cela va continuer
+ensuite au XXe siècle. Il faut bien voir cela comme un élément d’une forme de
+concurrence entre les cultures pour l’exportation, organisées très souvent par
+des commerçants et des colons britanniques, parfois d’ailleurs par des colons
+indiens. Il ne faut pas croire que seuls les Britanniques ont des exploitations
+de coton, mais ceux qui en ont disposent d’un pouvoir économique extrêmement
+puissant et transforment de fait des terres cultivables consacrées à la culture
+vivrière, au riz, etc., en production de coton, ce qui diminue évidemment la
+capacité de la population à se nourrir.
+
+Au début du XXe siècle, la situation de l’Inde est donc catastrophique : c’est
+un pays largement désindustrialisé, qui n’est plus capable de produire ses
+propres vêtements. D’ailleurs, cela fait partie de la contestation importante
+des Indiens dans leur quête d’indépendance. L’une des choses qui va faire
+connaître Gandhi, l’une des figures les plus importantes de la décolonisation
+indienne, c’est de demander à ses concitoyens de ne plus acheter de vêtements
+fabriqués en Angleterre, de brûler même les vêtements anglais. C’est une action
+non violente, mais qui correspond finalement aux actions d’activistes qu’on
+connaît aujourd’hui, très médiatisée, pour faire prendre conscience aux Indiens
+du problème que posent les importations de vêtements et de tissus anglais.
+L’Inde finit par obtenir son indépendance assez tôt, en 1947, mais la situation
+du pays est à peu près catastrophique : c’est un pays extrêmement misérable, qui
+avait été riche et qui est devenu misérable avec cette désindustrialisation et
+le développement de la culture du coton.
+
+Les gouvernements qui succèdent à la décolonisation vont chercher à tout prix à
+se réindustrialiser. C’est très dur. L’industrialisation va se faire de manière
+un peu autonome avant la décolonisation, au début du XXe siècle, mais c’est bien
+sûr la décolonisation qui va accélérer le rythme. Ce que vont faire les
+dirigeants indiens, c’est pratiquer une politique extrêmement protectionniste,
+bien plus que dans d’autres pays, parce qu’ils auront été en quelque sorte
+traumatisés par l’effondrement industriel lié au libre-échange entre guillemets
+— libre entre guillemets, parce que quand on est colonie, on n’est pas vraiment
+libre. Ils cherchent à reconstruire leurs industries nationales, ce qui va
+prendre du temps. L’ouverture de l’économie indienne mettra du temps à venir ;
+elle arrivera à la fin des années 80, à la faveur d’un changement politique,
+puisque c’était le parti du Congrès, plutôt de gauche voire un peu marxiste, qui
+était au pouvoir, puis des partis plus nationalistes, et aujourd’hui encore un
+parti nationaliste au pouvoir, plus libéraux sur le plan économique, qui vont
+commencer à ouvrir l’Inde. Depuis, l’industrie indienne s’est largement
+développée : c’est l’un des premiers pôles pharmaceutiques au monde, elle
+produit des voitures, et Mittal, l’industriel indien, a racheté les hauts
+fourneaux de Lorraine en 2002. Il y a donc eu un développement fort de
+l’industrie indienne après la Seconde Guerre mondiale, qui va permettre une
+réouverture du pays dans les années 90.
+
+### Le cas de la Chine
+
+Le dernier cas avant de passer au chapitre suivant est un cas de colonisation
+qui, dans les livres d’histoire, n’est pas une vraie colonisation, mais on verra
+que nous n’en sommes pas loin : c’est le cas de la Chine. La Chine est un cas
+très particulier et très symptomatique, que les historiens adorent analyser,
+puisque c’est une civilisation qui est l’une des plus puissantes au monde depuis
+très longtemps, depuis l’Antiquité, qui reste la plus puissante au monde au
+Moyen Âge, extrêmement bien organisée, extrêmement peuplée, avec une succession
+dynastique qui va produire de bons résultats. C’est aussi un pays qui connaît
+beaucoup de guerres civiles, de conflits politiques internes, mais qui n’a pas
+de rivaux sur le plan international et qui possède donc une forme de stabilité
+structurelle de sa civilisation, avec un contenu technologique innovant du point
+de vue de l’organisation.
+
+On pense que l’une des dynasties les plus importantes de Chine, les Song,
+correspond vraiment à l’apogée de la civilisation chinoise. Elle invente tout un
+ensemble de choses, notamment le système du mandarinat, c’est-à-dire un système
+qui permet de recruter par concours des fonctionnaires compétents. Cela change
+par rapport aux systèmes traditionnels où les fonctionnaires sont les membres de
+l’aristocratie, des fils de, parfois des fonctions héréditaires ; en France,
+c’est plus ou moins cela jusqu’à la Révolution française. Mais voyez qu’au Moyen
+Âge, en Chine, on a déjà des systèmes de sélection des élites beaucoup plus
+égaux, parce que pour réussir à passer le concours de mandarin, il faut avoir
+suffisamment de temps, venir d’un milieu cultivé, mais au minimum cela permet
+quand même de sélectionner des gens qui sont vraiment au service de l’État et
+pas au service d’eux-mêmes. Ensuite, il y a la domination mongole, qui
+finalement ne va pas vraiment changer le système. Le système continue de
+fonctionner, la Chine ne va pas vraiment s’affaiblir en tant que civilisation.
+Les Mongols vont très vite s’intégrer aux Chinois et, au contraire, vont
+permettre de développer le commerce avec l’Ouest. Les Ming, qui succèdent aux
+Mongols, vont aussi développer une politique d’ouverture au commerce. Ils vont
+lancer de grandes expéditions maritimes qui vont aller jusqu’en Afrique, et qui
+sont beaucoup plus précoces que celles des Européens : on est au début du XVe
+siècle, et ils vont développer des flottes beaucoup plus importantes que la
+pauvre flotte de Christophe Colomb. La Chine avait vraiment une avance sur
+l’Europe à tous points de vue, y compris sur la navigation. Ils vont faire ces
+expéditions, développer des ambassades, établir des cartes, etc., mais ils ne
+vont pas faire de ces expéditions le début d’une forme de développement
+commercial. Cela se comprend parce qu’ils n’ont pas forcément la culture d’aller
+vers les autres, de développer le commerce avec l’Occident, et surtout il n’y
+avait pas grand-chose que produisait l’Occident. Quand je parle de l’Occident du
+point de vue chinois, c’est le Moyen-Orient ; l’Europe, c’est encore plus loin,
+le grand Occident. Cela ne les intéresse pas trop : ni au Moyen-Orient ni en
+Europe il n’y avait beaucoup de choses qui les intéressaient vraiment. Alors que
+l’inverse était vrai : les Européens et les populations du Moyen-Orient, les
+Arabes, les Iraniens, avaient intérêt à commercer avec la Chine, parce que la
+Chine produisait des choses qui les intéressaient : la porcelaine, la soie, etc.
+Il y avait donc un intérêt commercial d’un côté, mais pas de l’autre. D’où le
+fait que ces expéditions n’ont pas débouché sur un véritable développement suivi
+de relations commerciales. Par ailleurs, cela coûtait cher, et après 1433 il n’y
+a plus d’expéditions chinoises. La Chine va de nouveau se refermer à partir de
+la fin du XVe siècle. Les Portugais vont obtenir le droit de commercer avec la
+Chine au large de Macao. Macao a été concédée aux Portugais, comme Hong Kong a
+pu être concédée aux Anglais, mais ce n’était pas grand-chose : c’était une île
+et une foire annuelle, et les marchands portugais ne pouvaient commercer qu’avec
+les marchands chinois. Globalement, la Chine se referme, ne souhaite plus
+commercer avec le reste du monde, et cette fermeture va même se renforcer avec
+la dynastie Qing, une dynastie un peu particulière en Chine puisqu’elle vient de
+Mandchourie. Les Qing ne parlaient pas chinois, ils étaient mandchous.
+
+La Chine n’est pas totalement coupée du monde, bien sûr : on ne peut pas couper
+un pays de cette taille du monde. On va voir progressivement se développer de
+nouvelles cultures, notamment la patate douce, le maïs, etc., qui sont
+originaires d’Amérique mais qui finissent par arriver jusqu’en Chine. Il y a
+aussi des progrès dans la culture, qui vont faire passer la population chinoise
+de 250 à 320 millions au cours du XVIIIe siècle. On a donc en Chine une forme de
+révolution agricole, pas la même que celle de l’Europe, ce ne sont pas les mêmes
+cultures, on peut la comparer à la culture du blé et à la culture du riz, qui
+sont des technologies différentes, mais l’usage de nouvelles plantes et
+l’amélioration des techniques agricoles vont faire plus que doubler la
+population en un siècle. La dynastie Qing n’est donc pas faible ; le
+gouvernement chinois n’était pas plus mauvais qu’ailleurs. Mais ce qui va se
+passer, c’est l’effondrement progressif de l’économie chinoise après la
+confrontation avec l’Angleterre.
+
+Comme je le disais, la Chine était un pays fermé, et la fermeture ne cesse de se
+poursuivre, en particulier après 1757, c’est-à-dire au moment où les Anglais
+commencent à coloniser l’Inde et à contrôler davantage le commerce avec
+l’Occident. Il va commencer à y avoir des troubles politiques, des
+désorganisations politiques après l’abdication de l’empereur Qianlong en 1796,
+avec des problèmes de succession, des problèmes de cour, beaucoup de dynasties,
+de luttes pour savoir qui doit diriger le pays. Le pouvoir central chinois perd
+en capacité d’agir au pire moment, au moment où la pression occidentale pour le
+commerce devient de plus en plus importante. Cette pression occidentale pour le
+commerce va prendre la forme de la Compagnie anglaise des Indes orientales.
+Souvenez-vous, cette Compagnie anglaise des Indes orientales est toute-puissante
+en Inde, mais son objectif est de s’étendre, de développer le commerce avec
+d’autres pays. L’un des pays qui l’intéressent en particulier, c’est la Chine,
+puisque les produits chinois sont extrêmement intéressants et prisés en
+Occident, donc ils valent très cher. Il faut chercher à commercer avec la Chine,
+mais c’est difficile parce que la Chine a tout ce qu’elle veut : elle est
+autosuffisante sur le plan de sa production. On ne sait donc pas quoi lui vendre
+en échange. C’est là que la Compagnie anglaise des Indes orientales va s’appuyer
+sur le fait qu’elle dispose de terres en Inde, notamment au Bengale, pour
+essayer de développer la culture de l’opium et vendre aux Chinois de l’opium.
+L’opium, c’est une drogue, c’est avec cela qu’on fait de l’héroïne, donc cela
+crée une accoutumance. C’est très bien d’en vendre quand on est une compagnie
+commerciale, parce qu’on a des clients dépendants qui vont tout faire pour en
+racheter. Mais bien sûr, les Chinois, voyant cela, interdisent le commerce de
+l’opium en 1776. Évidemment, cela n’arrête pas la Compagnie anglaise des Indes
+orientales, qui n’est pas qu’une simple compagnie commerciale avec des bateaux
+qui fait du commerce gentiment : c’est aussi une administration, une armée, un
+véritable pouvoir, y compris militaire. C’est presque comme une mafia, et c’est
+d’ailleurs de fait une mafia puisqu’elle fait du commerce illégal d’opium après
+qu’il a été interdit. Le trafic d’opium ne va cesser d’augmenter : on passe de
+40 tonnes en 1770 à 3 000 tonnes au début du XXe siècle, malgré l’interdiction
+de la Chine.
+
+Ce trafic d’opium va d’autant plus augmenter que, progressivement, la Compagnie
+anglaise des Indes orientales va se trouver expulsée d’Inde, puisqu’on ne veut
+plus qu’elle commerce les indiennes ; on veut qu’elle commerce du coton brut, ce
+qui ne l’intéresse pas. Elle veut donc trouver des choses plus rémunératrices.
+Du coup, elle essaie d’intégrer la Chine et de forcer les Chinois à acheter son
+opium. Mais comme c’est illégal, les Chinois vont réagir à ces ventes d’opium :
+ils vont détruire des bateaux de la Compagnie anglaise des Indes orientales,
+brûler les marchandises, emprisonner ou tuer les capitaines et les gens qui
+organisent ce trafic. Cela va entraîner une réaction des autorités britanniques,
+qui vont réagir contre les autorités chinoises. C’est le début de la première
+guerre de l’opium, une guerre qui oppose les Anglais et les Chinois, où
+l’administration chinoise est dans un conflit relatif au fait que la Compagnie
+anglaise des Indes orientales veut commercer de l’opium et que les Chinois
+refusent. Les navires britanniques remportent une victoire militaire, et cela
+conduit le gouvernement chinois à négocier le traité de Nankin. C’est le premier
+traité inégal qui va organiser les rapports entre l’Occident et la Chine. C’est
+un traité signé uniquement par les Anglais — on verra qu’après les Français vont
+arriver — qui ouvre cinq ports chinois aux navires britanniques, accorde aux
+Britanniques la liberté commerciale, réduit les tarifs douaniers et leur accorde
+le droit de s’installer à Hong Kong. C’est là que Hong Kong devient britannique.
+C’est évidemment un traité très lourd pour les Chinois. Néanmoins, ils
+n’autorisent toujours pas le commerce de l’opium, mais les compagnies des Indes
+orientales vont continuer à commercer de l’opium.
+
+Il va donc y avoir une seconde guerre de l’opium, cette fois-ci menée beaucoup
+plus par les Occidentaux, puisque c’est une expédition franco-britannique. Les
+Français veulent aussi leur part du gâteau : ils veulent aussi leur droit de
+commercer avec les Chinois, avoir des facilités commerciales. Nouvelle victoire
+des Occidentaux : on ouvre 11 nouveaux ports au commerce, on accorde des
+préférences aux marchands occidentaux. C’est là que cela va entraîner des
+inégalités dans le commerce. Pire que tout, les petits navires britanniques vont
+pouvoir surveiller que l’accord soit bien respecté, pour faciliter le commerce,
+et vont pouvoir naviguer sur les fleuves chinois. Les fleuves chinois sont les
+artères de la Chine, ce qui permet le commerce au sein de la Chine ; ils sont
+évidemment navigables. Pour surveiller que tout se passe bien, ces navires vont
+être armés : c’est une flotte militaire anglaise qui va pouvoir naviguer dans
+les terres chinoises, sur les fleuves. C’est ce qu’on appelle la politique de la
+canonnière, puisque la canonnière, c’est justement ces petits bateaux avec des
+canons qui naviguent et qui peuvent surveiller que les navires
+franco-britanniques ne soient pas attaqués par des pirates ou par les autorités
+chinoises. Évidemment, après ce nouveau traité, les Anglais obtiennent le
+contrôle des droits de douane chinois ; ils parviennent en quelque sorte à
+décider ce qui rentre ou pas dans l’économie chinoise. C’est à ce moment-là
+qu’on peut dire que la Chine est une semi-colonie : concrètement, il n’y a plus
+de souveraineté, les navires militaires britanniques peuvent sillonner son
+territoire, les marchands occidentaux peuvent vendre tout ce qu’ils veulent.
+C’est une humiliation extrêmement importante pour la Chine, mais cela va aussi
+commencer à produire les effets qu’on a vus en Inde, c’est-à-dire
+progressivement une désindustrialisation de la Chine. Elle ne va pas aller aussi
+loin que la désindustrialisation de l’Inde, mais elle va tout de même affecter
+durablement la richesse des Chinois.
+
+Les troubles ne sont pas terminés. Il va y avoir en 1899-1901 la révolte des
+Boxers. Les Boxers sont des sociétés secrètes chinoises qui se révoltent à la
+fois contre l’invasion des Occidentaux sur leur territoire et contre leur propre
+gouvernement, incapable de contrecarrer la puissance occidentale. Du coup, ils
+attaquent les bateaux et les Occidentaux. Les Occidentaux réagissent, les
+Anglais en particulier, et participent à la guerre aux côtés du gouvernement
+chinois, parce que c’est une révolte contre aussi le gouvernement chinois. Ils
+imposent aux gouvernants chinois de nouvelles réparations, de nouvelles
+facilités pour les commerçants. On voit bien que globalement la Chine va perdre
+totalement le contrôle de sa propre économie et va déléguer en quelque sorte le
+contrôle de son économie aux Anglais. C’est cela qu’on appelle les traités
+inégaux : des traités signés sous la force, qui accordent des avantages à une
+partie et pas à l’autre.
+
+La désindustrialisation est moindre que celle de l’Inde parce que la période de
+colonisation va être courte, et puis progressivement il y a aussi un retrait des
+Anglais. Après 1906, on va vers une interdiction de l’opium. Le commerce va
+évidemment continuer pendant le XXe siècle, mais les Britanniques finissent par
+se rendre compte que ce commerce de l’opium pose un problème aux Chinois. On
+estime qu’en 1907 plus d’un quart des hommes adultes fument de l’opium : plus
+d’un quart des hommes adultes, ce n’est pas plus d’un quart de la population
+chinoise, c’est déjà énorme, d’autant plus quand on pense que l’opium était
+quand même une drogue dure. Les Britanniques vont donc réduire le commerce de
+l’opium. Puis il y aura des troubles importants en Chine : c’est l’époque des
+seigneurs de la guerre, puis la guerre civile, l’invasion japonaise, la guerre
+civile. C’est pourquoi en 1949 le communisme apparaît. Le début du XXe siècle
+est vraiment un moment très très dur dans l’histoire chinoise. La reconstruction
+de la Chine prendra du temps. C’est un grand pays, mais beaucoup de choses ont
+été détruites entre les difficultés politiques et les difficultés économiques
+liées au fait que l’État n’a plus la capacité de contrôler sa propre économie.
+Il y a un effondrement du pouvoir politique chinois : la dynastie Qing disparaît
+en 1916 avec la fin d’un empereur. Cela crée évidemment un vide, et c’est là où
+s’élabore une réorganisation politique, la guerre civile, un contrôle japonais,
+etc. Si vous pouvez, lisez Tintin et le Lotus bleu : cela raconte tout cela, à
+la fois l’arrogance et la puissance des Occidentaux, l’invasion progressive des
+Japonais en Chine, le délitement de la société chinoise, et cela parle aussi
+beaucoup de l’opium. C’est important de connaître cette histoire parce que les
+Chinois s’en souviennent : ils sont élevés dans la culture de ce qui s’est passé
+au début du XXe siècle, qui est effectivement une humiliation dans leur
+histoire, et qui a causé d’énormes souffrances et beaucoup de pauvreté. La Chine
+du début du XXe siècle, et même jusqu’aux années 80, est un pays extrêmement
+pauvre, et encore aujourd’hui elle reste pauvre dans de nombreuses régions.
+C’est aussi le produit de cette désorientation politique et économique venue de
+l’extérieur, avec deux défaites militaires et la guerre des Boxers, puis des
+traités d’ouverture forcée au commerce.
+
+### Bilan de la colonisation
+
+Si on fait un bilan de la colonisation, j’ai trouvé un tableau dans le tome 2 de
+Paul Bairoch, page 611, qui montre un peu ce qu’est la colonisation en termes de
+structuration de l’économie. Pour essayer de construire ce tableau, Paul Bairoch
+a regardé, au sein des métropoles, quelle était la part du commerce consacrée
+aux colonies, d’un côté en exportations et importations, et du point de vue des
+colonies, quelle était la part du commerce avec les métropoles. Pourquoi faire
+cela ? Parce que cette comparaison permet de voir l’inégalité des rapports
+commerciaux. Souvenez-vous, l’inégalité vient du pacte colonial dont on a parlé
+la semaine dernière, qui stipule que le commerce est entièrement entre les mains
+de la métropole, organisé par la métropole et par des citoyens de la métropole,
+et qui explique aussi que le cœur du rapport colonial, c’est que la colonie doit
+commercer exclusivement avec sa métropole, alors que la métropole commerce avec
+qui elle veut. C’est ce rapport inégal.
+
+Quand on regarde la manière d’organiser le commerce en 1913 entre colonies, on
+voit ces éléments. Prenons un exemple assez typique : la France. La France avait
+un volume total de commerce de 2 328, et ses colonies, essentiellement en
+Afrique et en Asie, 320. On voit bien que la France est plus puissante
+économiquement que ses colonies. Ce n’est pas forcément le cas du Royaume-Uni,
+où le rapport est beaucoup plus équilibré, mais la part des colonies dans le
+commerce français est très faible : 13 %, 9 % par exemple. Par ailleurs, les
+colonies servent de lieux de débouchés : on exporte davantage qu’on n’importe.
+L’inverse pour la colonie : pour la France, c’est plus de la moitié de son
+commerce, exactement la moitié de ses exportations et 61 % de ses importations.
+Cela veut dire qu’on a aussi un rapport commercial déséquilibré. On va trouver
+ces mêmes choses partout. Voyez les États-Unis : 75 et 29, donc là c’est plutôt
+des colonies pour trouver derrière des matières premières. Le Japon aussi a des
+colonies ; on voit bien que c’est la même chose : les colonies ne représentent
+pas grand-chose dans le commerce japonais, mais par contre le Japon représente
+beaucoup dans le commerce des colonies. On va voir un peu la même chose en
+Allemagne, etc. En Belgique, c’est aussi absolument incroyable : certes, en
+valeur ce n’est pas beaucoup, mais on voit que ces colonies ne commercent
+quasiment qu’avec la métropole, notamment les exportations sont entièrement
+tournées vers la Belgique et les pays voisins, ni bien sûr vers d’autres
+puissances économiques. Pareil pour l’Espagne, c’est moins important.
+
+Et puis il y a le cas de l’Angleterre, du Royaume-Uni, qui est un cas
+particulier. Certes, on retrouve toujours cet écart, mais il est beaucoup moins
+fort. La part du commerce avec les colonies est de 37 %, 22 % pour le
+Royaume-Uni, 42 % pour la métropole, enfin la part du commerce des colonies avec
+le Royaume-Uni est de 42 %. Cela ne doit plus sur les importations : les
+colonies importent beaucoup plus de l’Angleterre, la moitié de leurs
+importations viennent de l’Angleterre, alors que du point de vue du Royaume-Uni,
+les colonies ne sont que marginales. Vous voyez aussi que ce sont des lieux de
+débouchés, des colonies surtout d’exportation, comme pour la France, et du point
+de vue des colonies, il y a plus d’importations du Royaume-Uni que
+d’exportations. Pourquoi est-ce un cas particulier ? Parce qu’on a un rapport
+beaucoup plus équilibré entre le Royaume-Uni et les colonies. C’est normal :
+certes les colonies sont très pauvres et certains Anglais sont très pauvres,
+mais on a l’Inde, on a la moitié de l’Afrique, on a une grande partie de ce
+qu’on a aussi en Angleterre. En 1913, les colonies ont déjà l’Inde, c’est
+énorme. Je ne sais pas si on a beaucoup en Asie en fait, parce qu’on a plus
+là-bas la France et les Pays-Bas. Je ne compte pas ici la Chine comme colonie,
+parce que ce n’est pas une colonie formelle. On va voir l’Irak, etc. Parmi les
+colonies, on a déjà un empire colonial britannique extrêmement important,
+beaucoup plus important que les autres, ce qui explique que du point de vue de
+l’empire colonial, il y a beaucoup de commerce entre colonies britanniques
+elles-mêmes, et pas seulement avec la métropole. Il faut penser aussi aux
+colonies : l’Australie, le Canada, la Nouvelle-Zélande, l’Afrique du Sud, une
+colonie également anglaise, qui ne sont pas des colonies dès qu’ils sont des
+colonies, mais avec des gouvernements autonomes, beaucoup plus que les colonies
+d’Afrique par exemple, puisqu’il y a un peuplement d’Anglais dans ces colonies
+de peuplement.
+
+Pourquoi je vous montre ce tableau ? C’est pour faire comprendre les problèmes
+qu’il va y avoir ensuite avec la décolonisation. La décolonisation, c’est un
+processus dans lequel les pays recouvrent leur autonomie, mais très souvent ce
+qui va se passer dans ces pays, c’est que les structures commerciales tournées
+vers l’exportation ne vont pas changer. On l’a vu tout à l’heure pour le Brésil
+: après l’indépendance, le Brésil va continuer à agir comme une colonie
+d’exploitation, il va continuer à produire des matières premières pour les
+puissances occidentales. Pourquoi ? Parce que sa structure économique ne va pas
+changer du fait de l’indépendance. De la même façon, les anciennes colonies,
+lorsqu’elles auront pris leur indépendance, vont continuer à commercer de
+manière prioritaire avec leur ancienne métropole. Il faudra beaucoup de temps
+pour que la décolonisation politique se traduise par une décolonisation
+économique, et parfois cela ne va même pas vraiment fonctionner. C’est aussi
+quelque chose qu’il faut noter : la manière dont s’organise l’économie ne va pas
+radicalement changer après l’indépendance. On a vu par exemple que pour l’Inde,
+il leur a fallu beaucoup de décennies pour reconstruire leur industrie, à base
+de protectionnisme, à l’inverse de ce qui se passait pendant la période
+coloniale. Beaucoup de pays vont rester dans ce schéma, et certains auront du
+mal à se détacher totalement des rapports coloniaux parce que les élites locales
+peuvent avoir intérêt à maintenir des rapports commerciaux avec l’ancienne
+métropole. Parfois, ce qu’on va voir, c’est une forme de néocolonialisme, un
+rapport économique avec un gouvernement a priori autonome, en théorie en tout
+cas autonome, mais avec des élites locales, notamment dans l’économie, qui
+continuent de poursuivre la logique d’avant parce qu’elles y gagnent
+suffisamment. Évidemment, des commerçants français — je pense à la France parce
+que je pense là aux pays africains — ont continué après l’indépendance : les
+pays africains ont eu leur indépendance, mais les rapports coloniaux et
+commerciaux entre la métropole et les anciennes colonies ont perduré, puisque
+c’était un débouché important pour la France et une source d’approvisionnement
+en matières premières importante, et que l’économie de ces pays avait été
+totalement restructurée pour servir à cela. Une fois l’indépendance acquise, on
+ne change pas les rapports économiques immédiatement.
+
+Est-ce que cette forme de néocolonialisme persiste toujours ? Oui, elle persiste
+toujours. On ne peut pas dire qu’elle ne persiste pas, pour plein de raisons. Je
+ne vais pas rentrer dans le détail parce qu’il y aurait beaucoup de choses à
+dire, mais en Afrique francophone par exemple, on a toujours des rapports
+privilégiés de la France avec ses anciennes colonies. Mais il y a des choses qui
+changent également : d’abord parce qu’il y a certains pouvoirs qui vont être
+beaucoup plus souverainistes, avec une attitude plus importante ; ensuite il y a
+l’effet de la Chine et des concurrences, d’autres puissances, notamment la
+Chine, qui va chercher à supplanter les anciens colonisateurs en développant des
+rapports commerciaux qui l’intéressent. Beaucoup de gouvernants africains vont
+voir cela avec bienveillance, parce que pour eux cela permet de casser les
+relations privilégiées avec leurs anciens colonisateurs et de trouver d’autres
+partenaires d’échange. Pendant les années 70 aussi, parfois des rapports
+néocoloniaux ont pu changer en raison par exemple de l’influence que pouvait
+exercer l’URSS sur un ensemble de pays : c’était parfois une manière de se
+décoloniser en ayant des gouvernements marxistes soutenus par l’Union
+soviétique, qui cassaient un peu les modalités néocoloniales. Mais il faudrait
+voir les pays les uns après les autres et regarder dans le détail. Je ne vais
+pas faire ce travail, je vous invite à le faire si cela vous intéresse. Dans
+l’histoire économique, il faut comprendre que des choses changent, et sur le
+long terme elles finissent toujours par changer profondément, mais ce changement
+se fait parfois avec du temps. Parfois les anciens rapports économiques
+persistent alors même qu’on a changé les structures politiques. Souvenez-vous de
+cette réflexion des marxistes qu’on a vue dans le chapitre introductif sur la
+superstructure et l’infrastructure : la superstructure peut changer, mais
+l’infrastructure va rester la même ; ou inversement, la superstructure va
+changer, mais cela ne va pas changer les soubassements, l’économie elle-même va
+changer. C’est pour cela qu’une décolonisation, un changement politique, une
+nouvelle élection, un nouveau pouvoir, une révolution, peut toujours changer des
+choses et en même temps en maintenir d’autres. C’est cela qui est intéressant de
+regarder.
+
+## Chapitre V : la deuxième révolution industrielle
+
+Je ferme la parenthèse et je reviens sur le chapitre V. Il y a des changements
+importants à la fin du XIXe siècle, qu’on appelle très souvent la deuxième
+révolution industrielle, mais il faut bien comprendre qu’il s’agit d’une
+appellation. Il y a d’autres appellations qui peuvent exister. Je suis en train
+de lire un livre sur l’histoire du capitalisme qui parle de l’âge de l’usine
+après l’âge du commerce, ce qui se comprend aussi, et qui dit à peu près la même
+temporalité : dans la deuxième moitié du XIXe siècle, à partir de 1880, il y a
+tout un ensemble de changements dans l’organisation, des innovations
+technologiques, des transformations dans le commerce très importantes, et même
+des transformations politiques.
+
+Pour essayer de comprendre ce changement, je vous propose de regarder ce petit
+tableau qui montre les taux annuels de croissance des pays développés. On est en
+pays développés, en dollars, on essaie avec Paul Bairoch, et on regarde quel a
+été le taux annuel de croissance. Ce qu’on constate, c’est qu’en général, au
+cours du XIXe siècle jusqu’en 1923 — alors 1923 inclut la Première Guerre
+mondiale, de la même façon que 1945 inclut la Seconde Guerre mondiale,
+évidemment ce sont des moments où le PIB va baisser par rapport à la période
+d’avant — mais globalement jusque vers 1945, les taux de croissance ne sont
+jamais supérieurs à 2 %. Souvenez-vous, je vous l’avais dit : pendant la
+première révolution industrielle, on n’a pas eu d’explosion de la croissance
+économique, contrairement à ce que beaucoup de gens croient. Mais vous voyez ce
+qui se passe après 1945 : là, on a un taux de croissance qui explose, notamment
+jusqu’en 1973, après quoi ils vont à nouveau diminuer. On voit des taux de plus
+de 4 %, voire quasiment 4 %. Entre 1945 et 1950, c’est la reconstruction ;
+ensuite on est sur une phase de cinq ans, donc ce n’est pas très significatif.
+Après, on voit que malgré le fait que la reconstruction soit à peu près achevée,
+on va avoir 23 ans de croissance importante, qui va entraîner un taux de
+croissance annuel moyen pour les pays développés d’environ 4 %, ce qui n’a
+jamais existé dans l’histoire de l’humanité à ce moment-là. Après, on va voir
+d’autres pays connaître une très forte croissance, mais ce sera bien après,
+surtout des pays en voie de développement. Et même pendant la période dite de
+crise entre 1973 et 1990, on a encore une croissance extrêmement élevée, plus
+élevée que dans les années précédentes, environ 2 %. Là aussi je prends
+l’ensemble des pays développés, qui inclut d’ailleurs, pour Paul Bairoch, à ce
+moment-là les pays communistes, qui eux entrent en crise dans les années 80.
+Donc si on exclut ces pays-là, on aurait une croissance encore supérieure pour
+les pays occidentaux.
+
+Pourquoi je vous montre ces chiffres ? Parce que c’est justement ce mystère
+qu’il faut comprendre à partir de cette révolution industrielle qui apparaît à
+la fin du XIXe siècle. Il faut comprendre aussi que la deuxième révolution
+industrielle commence à la fin du XIXe siècle, mais elle ne va produire
+véritablement ses effets qu’après les deux guerres mondiales. On va expliquer
+pourquoi. En partie parce qu’il y a la guerre, mais aussi parce que les
+changements mettent forcément du temps avant d’arriver.
+
+Une autre manière de présenter la croissance économique, cette fois avec des
+chiffres plus récents : j’ai pris les chiffres de la Banque mondiale, et vous
+voyez une croissance quand même assez forte. Entre 1970 et 2018, on passe à peu
+près du simple au quadruple pour le PIB mondial. Cette fois j’ai inclus les pays
+en voie de développement, et on a cette croissance. Quand vous voyez la courbe,
+vous voyez qu’elle est exponentielle, avec des courbes comme cela. Vous voyez
+également — excusez-moi, je n’ai jamais mis un petit truc — mais ici la crise de
+2008 : cette énorme crise finalement ne change pas grand-chose à la forme de la
+courbe. On peut même avoir l’impression que si on prolonge, on aurait eu la même
+chose : on a une croissance trop forte, une baisse, puis cela reprend comme
+avant. Évidemment là-dessus je n’ai pas mis ce qui s’est passé avec la crise
+actuelle ; il faudrait attendre un peu encore pour voir ce qu’il va se passer.
+Ce sera intéressant, dans dix ans, quand je referai ce cours, de voir le petit
+moment de 2020, enfin petit ou pas d’ailleurs, ce qui va se passer.
+
+Ce que je vais vous faire comprendre, c’est que les taux de croissance que les
+pays développés ont connus après la Seconde Guerre mondiale sont inédits. Il ne
+faut pas les confondre avec les taux de croissance de la Chine dans les années
+80-90 ou de la Corée du Sud, parce que les taux de croissance d’un pays en
+rattrapage sont forcément beaucoup plus importants que ceux d’un pays qui est le
+plus développé. Les potentialités de croître quand on est moins développé sont
+beaucoup plus importantes que quand on est parmi les pays les plus développés.
+Ce qu’on constate, c’est que les pays développés vont avoir un taux de
+croissance extrêmement important pendant la période des Trente Glorieuses.
+
+### Productivité, mécanisation et théorie du déversement
+
+Qu’est-ce qui explique cette croissance ? La première chose qui explique les
+taux de croissance importants, c’est la productivité du travail, le fait qu’elle
+soit améliorée dans tous les secteurs économiques, en grande partie dans le
+secteur industriel. Si elle est améliorée, c’est à cause des progrès
+technologiques. En effet, la croissance économique est généralement le produit
+d’une meilleure capacité de produire. C’est cela qu’on appelle l’amélioration de
+la productivité : cette meilleure capacité de produire vient de la mécanisation.
+C’est ce qu’on va voir : il va y avoir des innovations qui vont améliorer la
+mécanisation, notamment l’apparition de nouvelles sources d’énergie que sont le
+pétrole et l’électricité, qui vont faciliter énormément la mécanisation. Ces
+nouvelles technologies vont également entraîner un changement dans
+l’organisation du travail. C’est là que vont apparaître vraiment les grandes
+usines, les grandes unités de production, où on va rationaliser le travail bien
+plus qu’auparavant. Tout cela va aussi améliorer la productivité.
+
+Cette amélioration de la productivité va continuer de se faire dans
+l’agriculture, on va avoir de nouveaux progrès dans la culture, j’y reviendrai,
+mais elle va surtout se faire dans l’industrie, puisque les emplois dans
+l’industrie sont les emplois les plus faciles à mécaniser. Par contre, elle va
+moins toucher ce qu’on appelle le secteur tertiaire, le secteur des services.
+Pourquoi ? Parce que les services sont beaucoup moins mécanisables que
+l’agriculture et l’industrie. Pensez aux profs : on nous sort un cours mécanisé,
+au sens où vous regardez un ordinateur, ce que vous êtes en train de regarder,
+et non pas moi directement, puisque grâce aux nouvelles technologies on peut
+faire des cours à distance. Mais vous conviendrez avec moi que cela n’a pas
+augmenté notre productivité. Je dois toujours faire un cours, le préparer avec
+des diaporamas, je dois toujours expliquer les choses, je passe autant de temps
+à faire du cours maintenant qu’auparavant. Si je devais faire des cours
+entièrement automatisés, il faudrait que je fasse des MOOC, des cours en ligne :
+vous iriez regarder des vidéos vous-même, puis vous valideriez vos cours avec
+des QCM corrigés automatiquement. Mais on comprend bien que ce n’est pas du tout
+la même force et la même capacité d’apprentissage que les cours en présentiel et
+les dissertations corrigées par le regard humain. Donc pour l’instant on ne sait
+pas faire des cours automatisés. C’est la même chose pour de très nombreux
+services : pensez aux coiffeurs, il n’y a pas de progrès de productivité
+possible chez les coiffeurs qui coupent avec des ciseaux. Bien sûr, on pourrait
+dire qu’il y a la tondeuse, mais la tondeuse ne supprime pas les coiffeurs. Je
+ne dis pas que cela ne marche pas, je dis simplement que ce n’est pas le service
+comme les cours automatisés. On peut continuer comme cela : les vendeurs, c’est
+pareil. On peut avoir des aides dans la médecine, mais pas beaucoup. La justice
+nécessite toujours des enquêtes et des juges humains. Donc en fait, quand on
+regarde la plupart des emplois de type tertiaire, ils sont assez peu
+mécanisables.
+
+Ce qui va se passer, c’est que dans le cadre d’une économie où certains secteurs
+voient la productivité progresser et d’autres secteurs ne voient pas de progrès
+de productivité, les secteurs qui vont croître en productivité, qui vont être
+mécanisés, automatisés, dans lesquels les travailleurs vont devenir beaucoup
+plus productifs, ces secteurs-là vont perdre des emplois, parce qu’on a besoin
+de moins d’employés pour produire. Et ces employés, où vont-ils aller ? Dans les
+secteurs les moins productifs, ceux qui ont moins gagné en productivité du
+travail. On s’est dit qu’on va avoir besoin de plus en plus de gens dans les
+services et de moins en moins de gens dans l’industrie et dans l’agriculture.
+C’est ce qu’on appelle la théorie du déversement, proposée par Alfred Sauvy, qui
+dit que la croissance généralisée d’une économie n’est pas la même selon le
+secteur : elle va toucher un secteur mais pas d’autres, et les secteurs où la
+croissance de la productivité sera la plus faible sont les secteurs qui vont
+absorber l’emploi qui disparaît dans les secteurs à forte productivité.
+
+Voyez ce tableau : dans les services, il y a des activités qui sont
+automatisables, pensez par exemple aux caisses automatiques dans les
+supermarchés, des choses comme cela. Je ne dis pas que tous les services ne sont
+pas automatisables : la banque en ligne par exemple, c’est tout un ensemble de
+services qui sont totalement automatisés maintenant. On n’a plus besoin d’aller
+chez son banquier, de remplir des formulaires pour faire des virements, vous le
+faites directement depuis internet, vous pouvez acheter et vendre des actions
+sur internet. Donc tout un ensemble de services peuvent être totalement
+mécanisés, automatisés. Pareil, on pourrait penser au cybercommerce. Cependant,
+il y a un souci : certes la procédure d’achat se fait de manière dématérialisée,
+mais il faut quelqu’un qui vous apporte physiquement votre colis. Donc là il y a
+forcément des emplois qui ne sont pas automatisables. On est encore loin du
+fantasme du drone qui va automatiquement aller chercher votre colis dans un
+entrepôt et qui va vous l’amener dans votre jardin. Cela ne marche toujours pas,
+même si plein de gens pensent que cela peut marcher un jour. Dans le jardin,
+cela n’a pas marché ; quand vous êtes dans un immeuble, c’est déjà plus
+compliqué, le robot ne va pas faire le code pour entrer. Sans compter que si on
+avait des drones partout, cela risquerait de rencontrer des accidents, des vols,
+des choses comme cela. Bref, tout cela pour vous dire qu’il y a des secteurs,
+dont les services, qui sont partiellement mécanisables et automatisables, et
+puis en grande partie non automatisables. Pensez aussi à la médecine, à la
+sécurité, à la police. Vous imaginez qu’un jour la police ait Robocop, avec des
+automates qui maintiennent l’ordre, mais on n’en est pas encore là. D’ailleurs,
+ce qui est intéressant dans les films Robocop, c’est que cela montre aussi que
+cela ne marche pas très bien en fait.
+
+Tout cela pour vous dire que dans une économie, il y a des secteurs qui ont plus
+ou moins de capacité à augmenter la productivité du travail. Quand on regarde la
+répartition de la population active totale — parfois ce sont des estimations,
+parfois des chiffres officiels, évidemment ce n’est pas toujours pareil — j’ai
+toujours la même source, Paul Bairoch. J’ai trois secteurs : le secteur
+agricole, le secteur industriel et le secteur des services. On regarde comment
+la répartition de la population active se fait. D’après Paul Bairoch, au moment
+de la population active des pays développés à économie de marché — on est
+globalement sur l’Europe et l’Amérique du Nord — on avait en 1500 environ 25
+millions d’actifs sur la population totale, uniquement population active. Paul
+Bairoch nous dit donc qu’en Europe à l’époque, on avait 80 % des gens dans
+l’agriculture, 10 % environ dans les services et 10 % environ dans l’industrie.
+En 1750, 250 ans plus tard, pas grand-chose n’a changé, à part que la population
+a augmenté : on est passé de 25 millions à 50 millions, et globalement
+l’agriculture a un peu baissé mais pas beaucoup. On commence à voir les effets
+de la révolution agricole, mais cela arrive lentement. Les services ont peu
+augmenté, l’industrie a augmenté.
+
+Après, on commence à voir des chiffres plus fiables, et là on voit, au cours du
+XIXe siècle, l’effondrement de la population active agricole. Cette population
+va véritablement fondre. Cela veut dire que la productivité agricole s’améliore,
+c’est-à-dire que chaque travailleur va pouvoir produire beaucoup plus, d’autant
+plus qu’en même temps la population augmente. Il va bien falloir nourrir tous
+ces gens, donc l’agriculture n’est pas moins efficace ; si elle perd de
+l’emploi, c’est l’inverse, c’est parce qu’elle est très efficace qu’elle
+parvient à baisser les emplois dans l’agriculture. Où ces emplois vont-ils aller
+? Essentiellement dans l’industrie, et un peu également dans les services.
+Pourquoi essentiellement ? Parce que vous voyez que l’industrie augmente. On va
+se retrouver à partir de 1913 avec une population active industrielle supérieure
+à un tiers, qui va commencer à baisser après les années 70, et une population
+agricole qui disparaît. Les services, eux, continuent d’augmenter, parce que les
+débouchés industriels sont énormes, il y a un énorme besoin de mécanisation. On
+a donc un double fait dans l’industrie : à la fois hausse de la mécanisation,
+donc de la productivité industrielle, et en même temps très forte hausse de la
+demande de produits industriels, ce qui entraîne un double effet : plus de
+population dans l’industrie et chaque employé qui produit toujours davantage.
+Puis après, on arrive à un pic d’emploi dans l’industrie en 1970. Très vite, la
+demande et la production industrielle vont augmenter moins vite que la
+productivité du travail. Donc après 1970, le nombre d’emplois dans l’industrie
+va baisser. Attention : le nombre d’emplois détruits baisse, mais cela ne
+signifie pas que la production industrielle diminue. Cela signifie que la
+productivité du travail augmente plus vite que la production.
+
+Vous pouvez marquer cela dans vos notes : lorsque l’emploi industriel, ou
+l’emploi dans un secteur économique, augmente, cela signifie que la production
+totale augmente plus vite que la productivité du travail. Lorsque l’emploi dans
+un secteur diminue, cela signifie en général que la production augmente moins
+vite que la productivité du travail. C’est ce qu’on voit ici. Pendant la période
+1800-1900, on peut dire que la production d’objets manufacturés augmente plus
+vite que la productivité du travail. Cela veut dire que si vous avez une
+productivité du travail qui augmente de 10 % par an et que l’emploi augmente,
+alors forcément la production totale va augmenter de plus de 10 % par an, près
+de 15 à 20 % par an. Puis après, ce qui va se passer, c’est peut-être la
+faiblesse des débouchés, simplement, ou de la troisième voiture : peut-être
+qu’on se lasse d’acheter des voitures. Donc les capacités qu’on a de produire de
+nouveaux biens industriels vont baisser. La production va moins augmenter, elle
+n’augmente plus que de 5 % par an par exemple. C’est quand même considéré comme
+une forte croissance, mais comme la productivité du travail augmente de 10 % par
+an, cela veut dire qu’il faut chaque année 5 % d’emplois en moins. Donc cela
+fait baisser les besoins d’employés. Où ces gens-là vont-ils aller ? Dans le
+secteur des services, qui va absorber l’essentiel. Pourquoi va-t-il absorber ?
+Parce que la production dans les services augmente, mais la productivité du
+travail y augmente très peu, puisqu’il y a un défaut de mécanisation et
+d’automatisation. Ces emplois des services qui ne sont pas automatisables sont
+souvent des emplois relationnels, des emplois qui impliquent une relation, un
+temps consacré à l’autre. Par exemple, l’enseignement est un emploi de type
+relationnel, on peut penser aux soins, aux services à la personne, etc. Comme
+c’est du temps qu’on vend, on ne peut pas augmenter vraiment beaucoup la
+productivité du travail. Pensez aussi aux musiciens : un orchestre ne va pas se
+mettre à jouer plus vite, ce ne serait pas forcément bien vu par l’auteur de la
+musique et pas forcément satisfaisant pour ceux qui écoutent. Si vous réduisez
+une symphonie de Mozart en trois minutes, on ne vous dira pas « vous êtes super
+productif, c’est génial », on vous dira que c’est n’importe quoi, on n’y
+comprend rien. Donc là aussi on a des emplois qui ne peuvent pas être mécanisés.
+
+Ce qu’il faut bien comprendre, c’est que la productivité va augmenter dans
+certains secteurs. Ces secteurs vont bénéficier du coup d’une forte hausse des
+salaires, puisque la productivité augmente, on va pouvoir gagner davantage de
+revenus. Mais très vite, ces salaires augmentent dans l’industrie, ce qui attire
+les gens. Très vite on comprend bien que le marché du travail est unifié : le
+prix du travail ne va pas augmenter autant dans les secteurs sans hausse de
+productivité. Cela va entraîner par exemple que les musiciens d’aujourd’hui
+restent mieux payés, en tout cas seraient payés décemment, alors même qu’ils
+n’ont pas augmenté leur productivité du travail, parce que finalement, si on
+veut toujours voir les musiciens, il faut bien les payer comme les autres, comme
+ceux qui ont vu leur productivité du travail augmenter. D’ailleurs cela pose des
+problèmes, parce que justement les musiciens, les artistes, les profs, les
+infirmiers, etc., comme ils sont dans un rapport relationnel dans lequel il n’y
+a pas de possibilité d’augmenter la productivité du travail, on voit toujours
+des coûts qui augmentent : le coût salarial augmente, mais la production
+n’augmente pas vraiment. Alors elle augmente en valeur, on augmente les prix,
+alors qu’on a plutôt baissé les prix des produits manufacturés. Voilà, ce
+phénomène de société de services apparaît après 1970 : on va voir que le nombre
+d’emplois dans l’industrie va baisser et inversement le nombre d’emplois dans
+les services va augmenter. Je me suis arrêté en 1995 parce que je n’ai pas de
+chiffres après Paul Bairoch, puisqu’il est publié en 1997. Par ailleurs, je n’ai
+pas envie de prolonger le tableau parce qu’il y a des problèmes de méthodologie
+: c’est lui qui a fait avec sa méthode, si je rajoute des chiffres avec une
+autre méthode je risque de trouver des choses incohérentes. Je préfère vous
+montrer la série telle quelle. Ce n’est pas important de regarder ce qui se
+passe après ; ce qu’on est en train de regarder, c’est ce qui s’est passé au XXe
+siècle. Voyez qu’au XIXe siècle se prépare cette transformation de l’économie,
+avec d’une part la hausse très forte de l’industrie et d’autre part, dans un
+deuxième temps, le déversement des emplois de l’agriculture vers l’industrie,
+puis de l’industrie vers les services.
+
+### Les innovations de la deuxième révolution industrielle
+
+Essayons de comprendre comment ces mécanismes ont pu se produire. Qu’est-ce qui
+est à l’origine de cette seconde révolution industrielle ? Déjà, il y a les
+nouvelles technologies dont j’ai parlé. Ces technologies sont de deux ordres.
+D’abord, il y a une révolution dans les transports : les coûts de transport au
+kilomètre vont être divisés par 10 entre 1800 et 1900, ce qui est absolument
+considérable. Il faut bien comprendre qu’en 1800, le transport se fait toujours
+avec les technologies du Moyen Âge : c’est toujours le cheval ou les bœufs qui
+tirent des carrioles pour le transport terrestre, et pour le transport maritime,
+ce sont toujours des bateaux à voile. Il n’y a pas de changement dans la
+technologie qui va faire basculer le commerce mondial et la baisse des coûts de
+transport : c’est quand on passe de la marine à voile à la marine à vapeur.
+L’usage des bateaux à vapeur va se produire lentement au cours du XIXe siècle et
+va vraiment s’accélérer après l’ouverture du canal de Suez en 1869. On l’a vu
+récemment, le canal de Suez est extrêmement important aujourd’hui dans le
+commerce, parce qu’il permet d’éviter de contourner l’Afrique. C’est une voie
+vraiment utile. Il fonctionne aussi avec un péage : les bateaux doivent payer
+pour utiliser le canal. C’est là en fait que tous les bateaux à vapeur
+commencent à être beaucoup plus rentables que les bateaux à voile, puisque ce
+qui limite le transport par voile, c’est que la taille est forcément limitée :
+un voilier a une puissance de traction qui dépend du vent et donc de ses voiles,
+mais on ne peut pas avoir un tonnage trop important parce qu’au bout d’un moment
+la masse transportée va être trop importante par rapport à la portance des
+voiles. À l’inverse, il n’y a pas cette limite pour les navires à vapeur, donc
+très vite les navires à vapeur vont pouvoir devenir énormes. Pensez au Titanic :
+on est déjà au début du XXe siècle, mais le Titanic est un navire énorme,
+gigantesque, le plus gros bateau à vapeur de l’époque, un paquebot de transport
+de personnes, pas un cargo qui transporte des marchandises, mais cela montre que
+la taille des bateaux n’a plus aucune importance dans le transport par vapeur.
+Du coup, le coût d’usage du canal de Suez est diminué par la taille du navire :
+si vous faites payer un péage proportionnel à la taille, mais si vous êtes un
+énorme navire et que vous transportez beaucoup de marchandises, le coût par
+marchandise du péage du canal sera beaucoup plus faible que si vous êtes un
+petit navire avec peu de marchandises. C’est en fait l’avantage des bateaux à
+vapeur : en proportion, le canal de Suez va être très intéressant pour eux.
+
+L’autre chose qui va révolutionner les transports, c’est le chemin de fer, le
+transport terrestre. La première ligne de chemin de fer commence en 1825, puis
+cela va se généraliser progressivement à partir de la deuxième moitié du XIXe
+siècle : on va développer des chemins de fer partout en Europe. Là aussi, cela
+va considérablement diminuer le coût de transport. Puis on va améliorer les
+routes également, progressivement, mais dans un deuxième temps on va aussi
+développer les camions avec les moteurs à explosion. Ce qui est clair, c’est que
+l’on passe de 100 000 kilomètres de voies ferrées dans le monde en 1860 à plus
+d’un million de kilomètres de voies ferrées exploitées en 1913, soit dix fois
+plus en 53 ans, essentiellement en Europe et aux États-Unis. Cela commence avant
+1860 bien sûr, mais cela va complètement exploser après 1860.
+
+Évidemment, lorsque les coûts de transport diminuent, cela va susciter
+l’agrandissement des entreprises, puisque les coûts de transport ont diminué.
+Cela veut dire que si les coûts de transport sont divisés par dix, avec un même
+prix de transport on peut aller dix fois plus loin. Mais cela veut dire que la
+zone de chalandise, le potentiel de consommateurs, va être multiplié par 100.
+Pour comprendre l’idée, c’est la différence entre une ligne et une surface.
+Imaginez que vous êtes dans un monde uniforme — ce n’est jamais le cas, bien
+sûr, mais peu importe — avec des populations uniformément réparties. Vous faites
+un cercle de rayon 10 autour de votre usine : vous avez un certain nombre de
+consommateurs potentiels. Vous multipliez par dix la taille du rayon, et la
+surface que vous aurez autour de vous sera multipliée non pas par dix mais par
+110, au carré. On passe d’une ligne, d’une distance, à une surface, donc on met
+au carré. Si on avait un volume, on mettrait au cube, mais là il n’y a pas de
+volume puisque la Terre est une sphère du point de vue de la géographie ; cela
+veut dire qu’on ne va pas avoir des consommateurs en l’air ou en bas, donc on
+n’a que des consommateurs sur une surface plane. Donc lorsque les coûts de
+transport sont divisés par dix, pour le même prix on va pouvoir avoir 100 fois
+plus de clients potentiels. Qu’est-ce que cela signifie ? Cela signifie qu’il va
+falloir produire beaucoup plus dans chaque entreprise, donc les entreprises vont
+augmenter en taille. C’est cela qui va être l’un des phénomènes les plus
+marquants de cette deuxième révolution industrielle : on va se retrouver avec
+des entreprises beaucoup plus importantes, beaucoup plus grosses. Pourquoi ?
+Parce qu’avant, le coût du transport faisait qu’on avait plutôt intérêt à
+multiplier les petites unités de production près du consommateur pour éviter des
+coûts de transport. Bien sûr, il va aussi y avoir des transformations dans
+l’entreprise qui vont permettre la croissance de la taille des entreprises : de
+nouveaux modes de gestion, le taylorisme, qui va être au cœur de cette
+rationalisation de la production dans les entreprises, mais aussi la
+mécanisation, rendue possible par les nouvelles technologies que sont le moteur
+à explosion, l’électricité, etc. On a plusieurs phénomènes, mais le premier
+phénomène qu’il faut voir, c’est bien la baisse des coûts de transport, qui
+augmente la capacité qu’on a de vendre loin. Plus on a une capacité de vendre
+loin sans coût supplémentaire, plus on va pouvoir grossir en taille.
+
+Le deuxième élément qui explique le déversement de l’agriculture vers
+l’industrie qu’on a vu tout à l’heure, c’est la nouvelle révolution agricole.
+Souvenez-vous, au XVIIIe siècle il y avait déjà une première révolution
+agricole, qui a supprimé la jachère, amélioré les rendements, etc. Mais au début
+du XIXe siècle, on a la ferme traditionnelle qu’on connaît, qui produit un peu
+de tout, qui a de l’élevage, du blé, des légumineuses, etc., qui organise un
+système un peu complexe pour avoir des rendements croissants de la terre, avec
+des effets d’externalités positives, comme on dit en économie. Mais très vite,
+cela s’arrête : une fois qu’on a réorganisé la ferme de la façon la plus
+productive possible, c’est terminé. Au XIXe siècle, et notamment dans la
+deuxième moitié du XIXe siècle, d’autres éléments vont améliorer la culture,
+notamment l’industrie chimique, qui va développer des engrais chimiques. Cela va
+faire exploser les rendements de la terre et donc la capacité de production de
+l’agriculture, puisqu’on ne sera plus obligé de développer une forme de
+complémentarité entre l’élevage et l’agriculture. On va même pouvoir se
+spécialiser et concentrer la production dans des espaces plus importants. La
+spécialisation, c’est le fait qu’au lieu d’avoir des fermes qui produisent un
+peu de tout parce qu’elles ont besoin de légumineuses, de fumier, donc de
+troupeaux pour avoir de l’engrais, de blé pour avoir la paille pour les
+troupeaux, et pour organiser les assolements, donc de cultiver différentes
+choses, on avait ce qu’on appelle la ferme intégrée, la ferme de la fin du
+XVIIIe siècle. Quand on a des engrais, on pense différemment : on va cultiver
+par exemple toujours du blé, on n’a plus besoin de faire des assolements
+différents, on n’a plus besoin de la jachère, bien sûr, et plus besoin de faire
+de rotation des cultures, puisqu’on aura toujours une terre fertile puisqu’on
+lui rajoutera de l’engrais chimique. Cela arrive dès la deuxième moitié du XIXe
+siècle. C’est une forme de deuxième révolution agricole, et cela va encore faire
+disparaître de l’emploi puisqu’on va devenir beaucoup plus efficace.
+
+Ensuite, il y a aussi d’autres choses qui vont encore plus affecter l’emploi
+agricole : la mécanisation. On va avoir des tracteurs pour labourer, pour
+moissonner, pour semer, donc là aussi beaucoup plus efficace. Et puis on va
+avoir aussi des pesticides : au lieu de désherber à la main ou mécaniquement, on
+va traiter les herbes avec des produits, et là aussi cela va améliorer notamment
+la productivité du travail et les rendements de la terre. Cette révolution
+agricole se poursuit : les innovations culturales continuent, donc on a de moins
+en moins de main-d’œuvre nécessaire et un travail qui devient de plus en plus
+moderne. La mécanisation commence dans les années 20-30 aux États-Unis, les
+tracteurs, et en Europe c’est plutôt après les années 50, après la guerre.
+Pareil pour les pesticides : cela commence plutôt au XXe siècle ; par contre les
+engrais, eux, permettent déjà de faire beaucoup de choses, d’augmenter les
+rendements de la terre et du coup de changer la structure de la ferme.
+Aujourd’hui, vous avez des céréaliers qui se spécialisent dans les céréales, des
+éleveurs dans l’élevage, etc., mais ce n’est pas le cas au début du XIXe siècle,
+où chacun fait un peu tout parce qu’on a besoin d’avoir du fumier pour cultiver
+les terres, on a besoin de faire des rotations des cultures. C’était la manière
+d’envisager l’agriculture au début du XIXe siècle : tout faire à la fois. Alors
+qu’aujourd’hui on se spécialise davantage ; dès le XIXe siècle on commence à se
+spécialiser.
+
+Le troisième élément de transformation économique, bien sûr, ce sont les
+innovations industrielles, extrêmement importantes, qui relèvent de la question
+de l’énergie, essentiellement la maîtrise de la production de l’électricité
+d’une part et des moteurs à explosion d’autre part. Commençons par
+l’électricité. L’électricité n’est pas une technologie nouvelle au XIXe siècle :
+on la connaissait, on savait globalement l’utiliser. Ce qu’on ne savait pas
+faire, c’est la produire de manière efficace. On commence à pouvoir la produire
+de manière efficace lorsqu’on invente la dynamo. Ce n’est pas une invention
+unique : on va progressivement l’améliorer. C’est pour cela que je vous dis
+1860, 1870 : il y a plein d’innovations qui se font sur la dynamo. La dynamo,
+c’est la transformation d’énergie mécanique en énergie électrique. C’est le même
+principe que la dynamo d’un vélo, qui alimente parfois les phares, mais c’est
+aussi le même principe pour les turbines qu’on a dans les barrages
+hydroélectriques ou même dans les centrales nucléaires : vous avez de l’eau, par
+exemple, qui passe et fait tourner une turbine, et la turbine transforme
+l’énergie mécanique en énergie électrique. C’est toujours comme cela qu’on
+produit l’électricité. Dans une centrale nucléaire, on fait bouillir de l’eau
+avec la chaleur du nucléaire, il y a une pression qui se crée, et les turbines
+vont tourner pour faire échapper la pression et permettre de produire
+l’électricité. C’est le mécanisme de base de production d’électricité.
+
+C’est à ce moment où l’on vante la production d’électricité que vraiment on peut
+avoir le développement de moteurs électriques. Au début, la première utilisation
+de l’électricité, c’est l’éclairage, en 1875. On commence à inventer l’éclairage
+électrique, mais pas avec les ampoules à incandescence qu’on a connues et qui
+ont quasiment disparu, puisque l’ampoule à incandescence est inventée par
+Edison, l’inventeur américain, et devient véritablement une manière performante
+d’utiliser l’électricité pour l’éclairage. C’est très important, parce que
+jusqu’à la fin du XIXe siècle, l’éclairage se faisait à la bougie, au gaz, donc
+avec du feu. Évidemment c’était dangereux, il y avait des incendies possibles :
+vous faites des bougies, et le gaz, c’était l’éclairage public dans les rues.
+C’est moins dangereux, on va dire, mais cela consomme quand même beaucoup
+d’énergie. L’électricité est une manière beaucoup plus simple de produire de
+l’éclairage que la bougie, le gaz ou la lampe à huile, qu’on utilisait aussi
+parfois mais qui coûtait cher, donc on ne l’utilisait pas trop. On va commencer
+à produire de l’hydroélectricité, et puis surtout on va pouvoir inventer des
+appareils qui, dans un deuxième temps, vont utiliser l’électricité pour faire
+l’inverse de la dynamo, c’est-à-dire transformer de l’énergie électrique en
+énergie mécanique, puisqu’on sait le faire dans un sens et dans l’autre. Du
+coup, on va voir se développer plein de petits appareils électriques qui vont
+faire naître, à la fin du XIXe siècle, l’électroménager.
+
+Qu’est-ce qu’on va inventer ? Déjà, grâce à l’électricité, avant même qu’on
+perfectionne la dynamo, on avait un usage important : le télégraphe électrique.
+Le télégraphe, c’est un moyen de communication — là aussi, référence à la bande
+dessinée Le Fils qui chante, Lucky Luke — mais globalement c’est un moyen de
+communication : le télégraphe électrique, avec les débuts du morse, en fait un
+langage électrique spécifique, le morse, qui permet de communiquer des textes à
+distance, et bien sûr à la vitesse de la lumière, parce que les signaux
+électriques vont à la vitesse de la lumière. Ce n’est pas comme les emails,
+donc. Du coup, on a ce mécanisme de communication qui est très utilisé à partir
+des années 1850 et qui va se développer de manière considérable, puisque le
+premier câble transatlantique est tiré en 1858. Pensez à ce que cela veut dire :
+on a traversé l’océan Atlantique dès 1858 avec des câbles qui permettaient
+d’avoir des messages qui passent de part et d’autre de l’Atlantique. C’est
+extrêmement important dans la reconfiguration du monde. En gros, à la fin du
+XIXe siècle, on pouvait communiquer instantanément quasiment partout dans le
+monde développé. C’est quelque chose qui va permettre aussi de faciliter le
+commerce, évidemment, et la communication d’une entreprise avec ses propres
+filiales situées sur d’autres continents. Vous pouvez avoir une maison mère aux
+États-Unis ou en Europe, une filiale dans un autre pays, et lui donner des
+ordres simplement par des télégrammes. On appelait cela un télégramme, et
+c’était finalement presque aussi efficace que nos emails d’aujourd’hui.
+Évidemment, cela coûtait un peu cher, mais cela permettait quand même de
+communiquer, et les coûts sont décroissants au bout d’un moment, quand les
+infrastructures sont payées. Des câbles transatlantiques, il y en a plein qui
+vont être faits, parce que ce premier câble n’a pas vraiment fonctionné ; on va
+avoir d’autres câbles qui vont arriver. Mais voyez que très vite on arrive à
+développer cette communication. Une autre forme de communication, c’est tout un
+monde à part et électrique : on va aussi inventer la TSF, le téléphone sans fil.
+Le téléphone est aussi inventé à ce moment-là, donc c’est la voix, au début du
+XXe siècle. La TSF, téléphone sans fil, c’est aussi au début du XXe siècle :
+c’est la radio. Il y a aussi le phonographe, qui permet d’écouter la musique par
+exemple, les réfrigérateurs, les premiers biens d’électroménager extrêmement
+utiles, les machines à laver, au début du XXe siècle. Bien sûr, tous les ménages
+n’ont pas accès à ces choses : il faudra attendre plutôt la deuxième moitié du
+XXe siècle, après la Seconde Guerre mondiale, mais dès les années 30 les classes
+moyennes américaines sont équipées de machines à laver, de réfrigérateurs et
+d’aspirateurs également. Si vous avez lu Le Meilleur des mondes, écrit dans les
+années 1920, on y parle des aspirateurs : c’est devenu un objet du quotidien.
+C’est un roman d’anticipation, donc il extrapole un peu, mais les aspirateurs
+existent, ils sont utilisés dès cette époque-là.
+
+Si je vous dis tout cela, c’est pour vous faire comprendre que, bien sûr, dans
+les usines, l’invention de l’électricité va totalement révolutionner le rapport
+à l’automatisation, puisque maintenant on va voir des outils qui ne sont pas des
+outils à énergie mécanique manuelle, mais des outils qu’on va pouvoir brancher
+sur une prise. Ce que permet de faire l’électricité, c’est de centraliser la
+production d’énergie quelque part et de l’utiliser où on veut après transport.
+C’est ce que fait l’électricité : elle transporte l’énergie des lieux de
+production vers les lieux de consommation. Ce que la machine à vapeur ne pouvait
+pas faire : la machine à vapeur est une énorme machine qui produit une énergie
+mécanique, mais c’est dans un espace donné qu’elle se produit, là où se trouve
+la machine. Cela veut dire que les usines du XIXe siècle, avant l’électricité,
+sont des usines centralisées autour d’une machine à vapeur. Cette machine à
+vapeur produit une énergie mécanique, et ensuite, parfois, vous pouvez la
+transmettre avec des systèmes de poulies, d’engrenages, vous pouvez la
+transmettre plus loin dans l’usine, mais très souvent vous êtes condamné à
+devoir utiliser l’énergie mécanique en allant vous-même vous déplacer, parce que
+le transport de l’énergie est beaucoup plus difficile. D’ailleurs, c’est pour
+cela que toutes les usines avaient leur propre machine à vapeur, avec beaucoup
+de fumée, avec la cheminée. Alors que quand on a une usine organisée avec la
+production électrique, on n’a plus besoin d’une machine à vapeur : il n’y a donc
+plus de fumée qui sort de l’usine, on va juste se brancher sur le courant
+produit par une centrale électrique, qui peut produire d’ailleurs au début
+surtout de l’énergie hydraulique — d’où le terme « houille blanche » — donc ce
+n’était pas trop polluant. On a commencé par produire de l’électricité beaucoup
+avec des barrages, puisque la moitié de la production électrique est d’origine
+hydraulique. Et puis bien sûr, comme on n’a pas partout des barrages qu’on peut
+installer, parfois on a des centrales électriques qui sont des centrales à
+vapeur, qui transforment la production de vapeur en énergie mécanique, puis
+l’énergie mécanique en énergie électrique. Ensuite cette électricité va se
+retrouver dans les usines, et du coup cela veut dire que dans les usines on n’a
+plus besoin d’avoir une machine à vapeur. Bien sûr, cela est resté dans beaucoup
+d’usines pendant très longtemps, mais l’histoire des cheminées qui fument, tout
+cela disparaît. D’ailleurs, la représentation qu’on a d’une usine, c’est souvent
+la cheminée à vapeur : à la fin, la vapeur, le résidu de charbon, c’est ce qui
+sort de l’usine, c’est pour cela que c’est noir plutôt que comme de la fumée.
+Vous avez aussi ces toits en pente : à quoi cela sert-il ? Cela sert en fait à
+mettre des vitres de manière à éclairer. Parce qu’on n’a pas d’électricité, donc
+plus au XIXe siècle, pour avoir de la lumière pour que les ouvriers puissent
+travailler le jour, il faut bien de la lumière. Mais si on mettait un toit tout
+en verre, ce serait extrêmement cher et très fragile. Donc ce qu’on fait, c’est
+un toit en pente qui s’arrête et qui laisse passer la lumière. On a des toits
+qui sont comme cela. C’est le principe de l’usine avec ces toits un peu
+particuliers : c’est pour faire entrer la lumière dans l’atelier.
+
+La deuxième innovation, c’est le moteur à explosion moderne, une autre
+technologie que la vapeur, qui permet de développer des petits moteurs
+extrêmement performants. Qu’est-ce que c’est qu’un moteur à explosion ? En fait,
+on fait exploser de l’essence avec un mélange détonnant, donc cela a un rapport
+avec le pétrole. Cette explosion va pousser un piston, qui va entraîner un
+système de mouvements mécaniques. Quel est l’intérêt du moteur à explosion ? Ce
+n’est pas qu’il soit très efficace : en vérité, il n’est pas très efficace. Il
+va gagner en efficacité au fur et à mesure des progrès technologiques, mais il
+n’est pas plus efficace que la machine à vapeur. C’est d’ailleurs pour cela
+qu’au début on va regarder les machines à vapeur pour les locomotives, et
+qu’après on va le transformer en diesel, qui est un moteur à explosion. Mais il
+a un avantage tout à fait particulier : le moteur à explosion, c’est sa
+petitesse. Ses petits moteurs à explosion peuvent être performants en étant
+petits, ce que ne peut pas faire la machine à vapeur. La vapeur, c’est forcément
+gros, parce qu’on a besoin d’une source d’énergie, donc de faire chauffer de
+l’eau, on a besoin d’eau, c’est un peu compliqué. Du coup, quand on a voulu
+faire les premières voitures autonomes, on a pu inventer à la fin du XVIIIe
+siècle des voitures à vapeur, mais elles étaient lentes et lourdes, parce que le
+moteur était énorme, et donc ce n’était pas très pratique. Quand on invente le
+moteur à explosion, on a une nouvelle technologie qui permet de réduire la masse
+du moteur, et donc la capacité de transporter une voiture devient beaucoup plus
+efficace. Si je vous dis cela, c’est pour souligner le fait que, dans ces deux
+technologies — la production d’électricité et les moteurs électriques d’un côté,
+les moteurs à explosion de l’autre — elles ont en commun la capacité de
+miniaturiser les instruments. Prenez une tronçonneuse : une tronçonneuse se
+porte à bras d’homme, est extrêmement lourde, sert à couper des arbres. Bien sûr
+ce n’est pas électrique, parce que dans la forêt on ne veut pas brancher son
+outil quelque part, donc c’est un moteur à explosion. La même chose pour la
+tondeuse à gazon : moteur à explosion. Ces outils permettent de transporter le
+moteur dans la forêt ou dans sa pelouse pour tondre le gazon. Ils n’ont de sens
+que parce qu’ils ont été miniaturisés. Cela n’aurait aucun sens de couper un
+arbre avec une machine à vapeur : elle serait intransportable. On ne peut pas
+avoir ce genre d’outil sans une technologie particulière, soit le moteur
+électrique lorsqu’on est en intérieur, soit le moteur à explosion lorsqu’on est
+en extérieur. C’est la même chose pour une usine : pouvoir avoir des scies
+électriques par exemple, ou tout un ensemble d’outils électriques. En fait, ce
+que cela permet, c’est d’avoir des tout petits moteurs qui peuvent être
+transportés à bras d’homme et qui permettent de mécaniser des outils. C’est ce
+que ne pouvait pas faire la vapeur. C’est très important dans le cadre de la
+deuxième révolution industrielle, parce que du coup on va transformer la
+production de l’usine et faciliter la mécanisation, donc la productivité du
+travail.
+
+### Concentration, management et nouvelles organisations
+
+Ce qui va nous occuper jusqu’à la fin de ce chapitre, c’est justement le fait
+que ces transformations technologiques, notamment dans le domaine de l’énergie
+et des moteurs, et la portabilité accrue des moteurs — des moteurs plus petits,
+plus simples à utiliser — vont entraîner un nouveau système de production et
+donc de nouvelles formes d’organisation des entreprises. Ce nouveau système de
+production va être aussi avantagé par l’apparition de nouvelles politiques,
+notamment de nouvelles politiques commerciales. Après 1846, souvenez-vous, le
+Royaume-Uni se tourne vers le libre-échange : il supprime tous les droits de
+douane et milite pour que d’autres pays suivent ses politiques de libre-échange.
+La France va commencer au mieux dans les années 1860 avec les libre-échangistes,
+et on va voir une période de très fort développement commercial, de
+libre-échange, qui commence entre 1846 et 1880. Le libre-échange va avoir les
+mêmes effets que la baisse des coûts de transport : il va favoriser la
+concentration industrielle et le développement de zones de chalandise de plus en
+plus lointaines, et donc expliquer aussi le développement d’entreprises de plus
+en plus grandes.
+
+Ce qui va aussi permettre d’avoir des entreprises plus grandes, ce sont les
+sociétés par actions qui vont se développer. L’intérêt de la société par
+actions, c’est qu’on va voir des sources de financement très variées. Elles
+existaient avant, dès le XVIIe siècle il y avait des sociétés par actions, mais
+elles vont beaucoup se développer, notamment pour des grandes entreprises qui ne
+sont pas du domaine commercial mais du domaine industriel, parce que la finance
+était déjà beaucoup plus grosse. On va donc voir progressivement une
+augmentation de la taille des entreprises. Ces entreprises vont augmenter en
+taille pendant tout le XIXe siècle, mais à la fin du XIXe siècle cela explose
+vraiment. Vous voyez l’exemple de la Belgique : si on prend la taille moyenne
+des unités de production de fonte dans la sidérurgie, combien il faut d’ouvriers
+pour produire de la fonte ? En 1560, on avait dix ouvriers. Dix ouvriers, cela
+veut dire qu’on n’a pas besoin de trop s’embêter sur l’organisation du travail,
+la supervision directe : on connaît les gens, il n’y a pas de manager, juste un
+patron et des ouvriers. En 1860, cent ans plus tard, on reste avec des petites
+entreprises, puisqu’on est à 54 ouvriers. 54, c’est un peu plus gros, c’est plus
+compliqué, il y a une organisation un peu plus technique. Mais voyez que
+cinquante ans plus tard on arrive à 262, 134, etc. C’est pour les unités de
+production, et pour une série d’entreprises, c’est la taille des usines. Les
+usines peuvent avoir plusieurs origines, avec des entreprises beaucoup plus
+grosses. Mais 234 ouvriers, il faut rationaliser la production, on a besoin
+d’une organisation, d’un management. C’est cela qui va progressivement se
+développer dans les entreprises.
+
+Autre chose qui va se développer dans l’entreprise, c’est la concentration
+d’entreprises sous un même pouvoir. Cela va prendre différentes formes selon les
+pays, mais en gros l’idée est de concentrer horizontalement ou verticalement la
+propriété des entreprises entre les mains d’une seule personne. Aux États-Unis,
+cela va prendre la forme de trusts. Un trust est un outil juridique qui permet à
+une personne de contrôler différentes entreprises qui sont autrement autonomes :
+on met sous le même contrôle des entreprises qui sont dans différents États. Ces
+trusts vont progressivement chercher à devenir des monopoles. C’est ce qu’on
+appelle des systèmes de concentration horizontale. La concentration horizontale,
+cela veut dire que, sur les mêmes segments du marché — par exemple la production
+et la vente de sucre — on va racheter tous ses concurrents et constituer un
+monopole, qui aura la capacité de contrôler toute la vente de sucre sur un
+territoire donné. Dans ce cas, on supprime la concurrence et du coup on peut
+faire des profits.
+
+Lorsqu’on parle de concentration verticale, c’est une autre manière de faire :
+on va chercher à racheter ses fournisseurs et ses clients. Par exemple, si je
+reprends l’exemple du sucre, on ne va pas seulement revendre du sucre : on va
+aussi racheter non pas ses concurrents qui vendent du sucre, mais son
+fournisseur qui produit le sucre raffiné qu’on va vendre. Puis après, on peut
+encore remonter : on va racheter le producteur de matières premières qui fournit
+le producteur de sucre raffiné. Comme cela, on a ce qu’on appelle une
+concentration verticale : on va de l’amont vers l’aval, c’est-à-dire contrôler
+toute la chaîne de production. Là aussi, cela permet de faire des marges,
+puisque du coup on va concentrer les marges sur une seule entité. Ce que
+permettent donc ces trusts, ou ces cartels — qui eux arrivent en Allemagne —
+c’est-à-dire des ententes entre entreprises, c’est finalement de monopoliser ou
+de gagner du pouvoir économique pour contrôler les prix et donc gagner en
+puissance économique. On va avoir ces concentrations. Les cartels, dans certains
+secteurs en Allemagne, notamment la chimie, qui est un secteur d’avenir à
+l’époque à la fin du XIXe siècle, où on fait les engrais, etc., ont pour idée de
+contrôler l’organisation de la production horizontalement, c’est-à-dire de
+s’entendre entre différents producteurs sur les prix pour éviter de se faire
+concurrence. On va avoir le même phénomène dans la sidérurgie en France avec le
+Comité des forges, un organisme qui rassemble toute l’industrie sidérurgique et
+dans lequel les gens vont chercher à s’entendre sur les prix pour gagner
+davantage de profits. Ce cartel va durer jusqu’en 1940 en France. Aux
+États-Unis, les trusts vont parfois devenir extrêmement puissants à la fin du
+XIXe siècle et contrôler des marchés entiers. Le plus fameux, ce n’est pas le
+plus fameux, c’est la Standard Oil de Rockefeller, qui contrôle la production,
+la vente de pétrole et le raffinage, en passant par le raffinage, et tous les
+acteurs pétroliers. Évidemment, cela a posé problème, parce que du coup les prix
+pouvaient très fortement monter, et l’industrie automobile américaine n’aurait
+sans doute pas pu se développer si on avait laissé un tel monopole d’une telle
+puissance fournir le carburant pour toutes ces voitures. Les Américains ont donc
+réagi en produisant des lois antitrust et en forçant le démantèlement de la
+Standard Oil en partie, mais d’autres entreprises également, après la loi de
+1890, une loi antimonopole. On va développer cette législation antimonopole
+qu’on connaît encore aujourd’hui.
+
+Autre phénomène : le développement de firmes multinationales ou transnationales,
+les deux. Ce sont des firmes qui existent dans différents pays et qui sont
+parfois sous le contrôle d’une maison mère, donc une société et des filiales.
+Ces entreprises transnationales vont notamment se développer après 1880, en
+raison de la montée du protectionnisme. Souvenez-vous, le libre-échange a duré
+de 1846 à 1880 et a suscité l’augmentation de la taille des entreprises. Mais
+ces entreprises produisent toujours au même endroit, là où elles sont. Quand on
+commence à voir se développer le protectionnisme, elles ont intérêt à créer des
+filiales dans des pays pour éviter les droits de douane. Vous êtes une
+entreprise américaine, vous voulez vendre : vous êtes General Electric par
+exemple, vous voulez vendre des phonographes en Allemagne. Soit vous produisez
+les phonographes aux États-Unis et vous les vendez en Allemagne, mais dans ce
+cas vous payez des droits de douane. Qu’est-ce qu’il vaut mieux pour vous ?
+Créer une filiale en Allemagne. Donc vous créez une usine en Allemagne, qui vous
+rapportera des profits à vous bien sûr, c’est votre usine, votre capital, mais
+elle vendra directement en Allemagne pour les Allemands, et du coup vous ne
+paierez pas de droits de douane, vous pourrez vendre à des prix plus faibles.
+Les conséquences du protectionnisme, c’est finalement que les entreprises vont
+commencer à développer des filiales dans tous les pays du monde pour produire
+sur place et éviter ainsi les droits de douane. Cela va entraîner l’apparition
+de firmes multinationales. C’est d’autant plus facilité — il faut le dire — par
+le télégraphe, qui permet la communication. Évidemment, au début du XXe siècle,
+c’est compliqué de créer une filiale dans un autre pays parce que comment
+fait-on pour donner des ordres et avoir l’information ? Si c’est long, il faut
+que le courrier soit transporté physiquement de l’endroit à l’autre, cela prend
+des semaines. Au moment où, à la fin du XIXe siècle, le monde entier communique
+instantanément par le télégraphe, la capacité de communiquer avec ses filiales
+est bien plus importante. Là aussi, cela suscite le développement de ces firmes
+multinationales.
+
+Autre chose qui va évidemment marquer la fin du XIXe siècle, ce sont les modes
+d’organisation, qui vont devoir s’adapter à des entreprises de taille bien plus
+importante. La taille, encore une fois, explose : les entreprises disposent de
+la fin du XIXe siècle, et il va falloir gérer tout ce tissu, ces centaines de
+salariés qu’on a dans une unité de production. C’est à ce moment-là que va
+naître l’organisation scientifique du travail, aussi appelée taylorisme, de
+Taylor. Vous avez dû le voir dans d’autres cours, je ne vais pas trop
+développer, mais vous savez que l’organisation scientifique du travail, le
+taylorisme, est fondée sur l’idée de division du travail horizontale et
+verticale. On avait déjà vu cette idée en cours puisque on a parlé de la
+division du travail chez Adam Smith en 1776 : ce n’est pas des choses nouvelles.
+Mais là, ce qu’on fait, c’est qu’on va aller beaucoup plus loin dans la division
+du travail. Au lieu de diviser les tâches uniquement, on va vraiment spécialiser
+très très spécifiquement les ouvriers jusqu’à faire faire des gestes extrêmement
+simples. Et on va également faire quelque chose que n’avait pas pensé Adam Smith
+: on va diviser verticalement le travail. Cela veut dire quoi ? Cela veut dire
+qu’on va séparer totalement la conception de la production. Souvenez-vous, chez
+Smith, il disait que la division des tâches, la division du travail, est
+importante parce que cela permet au salarié de penser aux phénomènes
+d’innovation. Mais cela veut dire que le salarié est à la fois l’agent qui
+produit et en même temps le concepteur de sa production, le penseur. Dans le
+taylorisme, cela, c’est fini : l’ouvrier ne produit plus en pensant. Il produit
+selon les préceptes et les directives envoyées par le bureau des méthodes,
+c’est-à-dire l’ingénieur qui va déterminer la manière de produire. Cela veut
+dire que l’ouvrier va être en quelque sorte dépossédé de ses capacités de
+raisonnement, de ses capacités d’amélioration : il devra simplement respecter
+les consignes qui lui sont données. C’est la division verticale du travail. Le
+taylorisme va produire tout cela : une hyperspécialisation des ouvriers
+horizontalement et, en même temps, il va faire des ouvriers des êtres qui ne
+vont pas avoir la capacité de décider de la manière dont ils produisent,
+puisqu’il y a une division verticale du travail, la conception est déléguée à
+d’autres, aux ingénieurs. Évidemment, on a des chronométrages, des façons de
+faire imposées par la hiérarchie, par l’ingénieur. Du coup, l’ouvrier va
+finalement devenir ce qu’on appelle un ouvrier spécialisé, OS. Il ne faut
+surtout pas confondre l’ouvrier spécialisé avec l’ouvrier qualifié. L’ouvrier
+qualifié, c’est un ouvrier qui a des compétences, qui utilise ses compétences
+pour produire des choses difficiles ; on peut parler de CAP, de BEP, de diplômes
+d’ouvrier qualifié en quelque sorte. Les ouvriers spécialisés n’ont aucune
+compétence a priori. D’ailleurs, très souvent, les OS seront des immigrés qui
+parfois ne parlent même pas la langue de leur patron. Ils vont arriver
+directement en France, on va les faire venir du Maghreb ; aux États-Unis,
+voyez-vous venir de Chine ou du Mexique, et donc ils ne parlent pas anglais,
+mais peu importe : on va les mettre au travail pour faire un truc simple, et ils
+vont faire la même chose simple toute la journée. L’ouvrier spécialisé, c’est un
+ouvrier hyperspécialisé sur une seule tâche. Cela va d’autant plus se développer
+qu’à partir de 1913, dans les usines Ford, on va voir apparaître ce qu’on
+appelle le travail à la chaîne.
+
+Le travail à la chaîne, qu’est-ce que c’est ? Ce sont des ouvriers spécialisés
+côte à côte devant un tapis roulant, avec les pièces qui arrivent. Vous avez
+toujours l’image — si vous ne la connaissez pas, je vous invite à voir le film
+de Charlie Chaplin, Les Temps modernes, film de 1933, donc vingt ans plus tard,
+qui montre évidemment de manière caricaturale comment fonctionne la chaîne et
+l’ouvrier spécialisé. Ce qu’il faut bien comprendre, c’est que ce travail à la
+chaîne est une conséquence de l’invention de l’électricité. Sans électricité, il
+n’y a pas de chaîne de montage, parce qu’on a besoin de produire en étant assis
+devant sa chaîne de montage, donc d’avoir une source d’énergie qui nous arrive
+jusqu’à chez nous, et cela ne peut se faire que par l’électricité. Donc le
+principe même du travail à la chaîne et de l’hyperspécialisation est bien la
+conséquence de la révolution technologique de l’électricité. On a là une
+transformation des modalités de travail liée à une nouvelle technologie qui le
+permet.
+
+Le problème du fordisme, c’est que certes il est très efficace, extrêmement
+efficace, notamment parce qu’il permet la production de masse et donc de réduire
+considérablement les coûts. Mais attention, la contrepartie de cette réduction
+des coûts, c’est d’une part qu’il faut vendre en masse pour produire en masse,
+donc il faut faire baisser les prix, sinon on n’arrive pas à vendre
+suffisamment. D’autre part, la grande fragilité du système fordiste, c’est
+l’interdépendance extrêmement forte des ouvriers. Souvenez-vous, on a des
+ouvriers spécialisés. L’ouvrier spécialisé, c’est Charlie Chaplin sur cette
+chaîne de montage, qui passe son temps à visser un écrou, toujours le même
+geste. C’est un travail hautement idiot. Le problème, c’est que les ouvriers
+sont tellement spécialisés qu’ils ne peuvent pas se remplacer : quand l’un est
+absent de son poste de travail, toute la chaîne s’effondre, parce que la chaîne
+est extrêmement rigide. Il faut donc surtout éviter ce qu’on appelle le
+turnover, la rotation des ouvriers, le fait que les ouvriers ne viennent pas le
+matin, ne sont pas là, et qu’il faut trouver des remplaçants. Le problème, c’est
+que même si les gestes sont simples, il faut quand même qu’ils s’habituent à ces
+gestes. Le souci qu’on a chez Ford, c’est de garder ses ouvriers, qu’ils ne
+partent pas, qu’ils ne travaillent pas une semaine puis ne viennent pas la
+semaine d’après, puis reviennent. Or ce système de travail un peu à la tâche
+était le système de rémunération des ouvriers pendant la révolution
+industrielle, pendant le XIXe siècle : on laissait les ouvriers autonomes, ils
+faisaient un peu ce qu’ils voulaient, on les payait en fonction de la tâche
+qu’ils avaient accomplie, et on ne s’embêtait pas, dans le cas traditionnel des
+usines du XIXe siècle, à rationaliser, et même on ne cherchait pas à avoir des
+contrats de long terme avec les ouvriers. Ils venaient, c’était bien ; ils ne
+venaient pas, ce n’était pas grave, on prenait quelqu’un d’autre. Dans la chaîne
+de montage, on a un nombre de postes fixes : il faut que chacun soit à son
+poste. S’il y a deux personnes qui manquent, cela peut poser problème. Donc il
+faut que les gens reviennent. Or le travail n’est pas marrant, donc pour qu’ils
+reviennent, il faut les fidéliser. Comment fait-on pour les fidéliser ? On les
+paye davantage. C’est-à-dire que chez Ford, on dit : venez, maintenant vous
+allez être ouvrier chez Ford, on fait un contrat de long terme, vous venez, vous
+restez, on vous garantit une bonne rémunération que vous ne pourrez pas trouver
+ailleurs. Donc si vous commencez à ne pas venir le matin, à faire un peu ce que
+vous voulez, vous serez virés, et dans ce cas vous perdrez tous ces salaires qui
+sont nettement supérieurs. C’était les 5 dollars par jour chez Ford, un salaire
+extrêmement élevé à l’époque, bien plus élevé que les autres, parce qu’on
+voulait fidéliser ses ouvriers : on avait besoin qu’ils soient tous là, qu’ils
+ne partent pas en vacances quand ils veulent, etc. Autre chose qu’on va
+inventer, c’est le paiement mensuel au lieu du paiement à la tâche. Surtout que
+la tâche, dans le travail à la chaîne, est sur un tapis roulant : le rythme de
+travail, ce n’est plus l’ouvrier qui le décide, c’est l’employeur. Donc pas
+besoin de chercher à ce que les ouvriers travaillent plus vite, puisque si
+l’ouvrier en amont n’a pas terminé sa pièce, moi je ne pourrai pas faire la
+mienne. Le rythme de travail n’est plus du tout décidé par l’ouvrier lui-même,
+mais par la vitesse du tapis roulant et par le système de fonctionnement de la
+chaîne de montage. Du coup, on est payé au mois, un salaire fixe, mais on va le
+donner à la fin du mois. Pourquoi ? Parce que comme cela, pendant tout le mois,
+si vous ne revenez pas le lendemain, vous n’êtes pas payé. Cela contraint aussi
+la fidélisation du salarié : contrat de long terme, paiement au mois, et
+paiement à la fin du mois pour vous obliger en quelque sorte à rester fidèle à
+Ford. Et puis bien sûr, il faut le noter parce que c’est important, il y a des
+hausses salariales. C’est pour cela qu’on parle d’un deal, en quelque sorte,
+d’un compromis fordiste : d’un côté vous avez un travail un peu abrutissant,
+dans lequel vous êtes devenu un ouvrier spécialisé, vous n’avez plus aucune
+compétence, plus aucune autonomie dans votre poste de travail ; mais en échange
+vous êtes bien payé.
+
+Bien sûr, Ford ne payait pas ses ouvriers pour qu’ils achètent les voitures
+qu’il produisait : cela, c’est un mythe. Les ouvriers de Ford n’avaient pas de
+voiture, en tout cas en 1913. Après, ils vont en acheter, vingt ans plus tard,
+quand les salaires ont suffisamment augmenté et que le prix des voitures a
+baissé, mais au départ non. L’objectif de Ford n’a jamais été que ses ouvriers
+achètent ses propres voitures ; l’objectif de Ford a été de fidéliser ses
+ouvriers, parce que la chaîne de montage était un mécanisme extrêmement rigide,
+très sensible au fait que s’il manquait trois ouvriers, la chaîne ne marchait
+plus. Il y a une autre conséquence de la chaîne de montage : elle est très
+sensible également à la grève. Quand vous avez une grève, n’importe quel site,
+vous avez toujours, comme d’habitude, des gens qui vont suivre et puis la
+majorité qui ne va pas suivre. Mais si vous faites une grève avec 15 % de
+grévistes, ce n’est pas énorme. Si c’est dans un atelier traditionnel, ce n’est
+rien : vous ne serez pas payé les 15 %, et puis voilà, on s’en fiche. Mais si
+c’est une entreprise qui travaille avec le travail à la chaîne, alors là, si
+vous avez 15 % d’ouvriers qui font grève, la chaîne ne marche plus : tous les
+ouvriers sont au chômage technique, qu’ils soient en grève ou non. Évidemment,
+vous devez absolument éviter les grèves. Que faites-vous ? Là aussi, vous êtes
+obligés de faire des accords avec les syndicats, vous êtes obligés de négocier
+avec vos ouvriers et les syndicats pour éviter les grèves. Cela participe du
+compromis fordiste, avec d’ailleurs un taux de syndicalisation qui va augmenter,
+puisque les ouvriers commencent à avoir du pouvoir : il suffit qu’une grève soit
+suivie par 10 ou 15 % des ouvriers pour que tout s’effondre, donc cela leur
+donne un pouvoir énorme sur leur employeur.
+
+### Transformations sociales et démographiques
+
+Il me reste encore des diapositives, j’essaie de le faire quand même en cinq
+minutes, désolé, il faut terminer le chapitre. Le deuxième élément à la suite de
+ce que je viens de dire, ce sont les changements sociaux. Ce qui va se passer
+avec la deuxième révolution industrielle, c’est une amélioration des conditions
+de vie qui va entraîner une transition démographique, donc une baisse de la
+natalité après 1810, sauf en France où la baisse de la natalité arrive après les
+guerres napoléoniennes. Là aussi c’est une grande question pour les démographes,
+mais cette baisse de la natalité est aussi le produit de changements
+sociologiques. Premièrement, dans l’éducation : on sait que dès que les femmes
+sont éduquées dans un pays, elles font moins d’enfants, sont plus autonomes,
+plus libres, plus libérées, et donc elles vont faire moins d’enfants. Là on va
+voir l’instruction primaire devenir obligatoire dans un ensemble de pays, mais
+la plupart du temps après 1910, donc voyez très en retard après la révolution
+industrielle. Cela vient aussi du fait que les technologies nouvelles
+nécessitent des populations ouvrières plus instruites. Après 1870, le premier
+pays avec l’instruction primaire obligatoire, c’est le Massachusetts en 1852,
+ensuite l’Italie, le Royaume-Uni, la France, la Belgique en 1914, c’est très
+tard. Là on parle juste lire, écrire, compter ; on ne parle pas de culture
+générale. Cela, c’est l’instruction secondaire et supérieure, et cela n’arrive
+qu’au XXe siècle.
+
+Deuxième élément important, lié à tout cela, c’est le développement des partis
+communistes et le développement des droits sociaux. Pendant toute la première
+partie du XIXe siècle, il y a eu très peu de droits sociaux accordés aux
+travailleurs. Mais les travailleurs sont un peu plus éduqués, ils commencent à
+être un peu plus organisés, on a vu que la grève commence à être plus efficace
+pour entraver la chaîne. Dans la deuxième moitié du XIXe siècle, les luttes
+sociales s’intensifient. On a le Manifeste du parti communiste publié en 1848,
+les grèves à ce moment-là, les révoltes du printemps des peuples. On a la
+fondation de l’Association internationale des travailleurs à Londres en 1866,
+l’Internationale ouvrière, un parti politique fondé en 1864. On a donc une
+pression politique de plus en plus forte pour avoir des lois sociales plus en
+faveur des ouvriers. Cela va arriver dans tous les pays à différents moments :
+en Allemagne sous Bismarck dans les années 1860, en France après la Troisième
+République, après la libération des syndicats — les syndicats ne sont reconnus
+qu’en 1884 — et le droit de grève date du Second Empire, en 1864. À partir de
+là, on va voir se développer de nouvelles protections sociales : la journée de
+huit heures instaurée en 1919, les congés payés en 1936, les lois sociales de
+protection sociale, notamment la retraite, et puis la Sécurité sociale en 1945
+après la Seconde Guerre mondiale. Mais avant cela, on avait quand même des
+droits sociaux conquis par les ouvriers eux-mêmes dans les filières de
+production : on a commencé à voir la retraite, l’assurance chômage. La retraite
+d’ailleurs et l’assurance maladie sont les deux choses qui vont se développer.
+Tous ces régimes qui vont arriver progressivement dans un secteur et pas
+d’autres vont être unifiés avec la Sécurité sociale, qui va généraliser des
+choses qui existaient auparavant. La même chose en Allemagne et même au
+Royaume-Uni : à partir du XXe siècle on va voir des premières lois sociales.
+
+Je termine sur les dernières transformations démographiques et sociales, qui
+sont aussi la conséquence de tout ce qu’on vient de voir : l’exode rural.
+L’exode rural est lié à la hausse de la productivité agricole, il est lié aussi
+à la concentration industrielle, qui fait disparaître les petites usines qui
+existaient dans les campagnes, puisqu’elles ne sont plus rentables. On va donc
+voir toutes les industries rurales progressivement disparaître, l’emploi avec
+elles va lui aussi disparaître, et donc les départements ruraux vont, à partir
+de la fin du XIXe siècle, commencer à perdre de la population. Je vous ai mis un
+petit graphique qui est issu de La Famille européenne, un livre que j’ai coécrit
+avec Coralie Delaume, et dans lequel j’ai regardé six départements ruraux.
+Pendant que la population française augmente, puisqu’elle augmente pendant tout
+le XIXe siècle, on voit que ces départements voient globalement leur population
+augmenter jusqu’en 1866 à peu près, puis après tous voient arriver une pente
+descendante. Cette baisse est liée à la disparition de l’emploi dans ces
+régions-là, puisque l’emploi agricole disparaît, mais aussi la petite industrie
+rurale disparaît. Maintenant, c’est la grande industrie urbaine qui prend le
+relais, et cela va évidemment entraîner des transformations sociales
+importantes, puisque l’exode rural fait que les gens qui arrivent ne sont pas
+forcément très bien accueillis.
+
+Je suis désolé, j’ai un peu débordé. Il est 15h29, et donc j’ai terminé à 15h29.
+Nous verrons le dernier chapitre consacré à la crise des années 30 pour notre
+dernier cours. Au revoir à tous, j’espère que cela vous a intéressés. Vous
+n’êtes pas très nombreux, 24, mais j’espère que vous regarderez le cours sur
+YouTube pour les autres. À bientôt et à la prochaine pour le dernier cours.

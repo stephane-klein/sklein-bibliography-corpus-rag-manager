@@ -1,0 +1,255 @@
+---
+source_url: https://www.youtube.com/watch?v=u3lapME67VI
+video_title: Libre ou déterminé ?
+generated_at: 2026-09-19T09:25:51.042Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 118.7
+  input_tokens: 4895
+  cached_input_tokens: 4864
+  output_tokens: 4505
+  estimated_cost_usd: 0.001279
+  finish_reason: stop
+---
+
+# Libre ou déterminé ?
+
+## Libre ou déterminé ?
+
+Aujourd'hui, ça rigole pas, on va parler déterminisme et liberté.
+
+Au spectateur innocent, as-tu librement cliqué sur cette vidéo ou y as-tu été
+déterminé par des forces qui te dépassent ? Les conditions initiales de
+l'univers contenaient-elles déjà ton petit clic ou bien viens-tu à l'instant de
+troubler l'ordre cosmique par la seule force de ta volonté herculéenne ? Je
+préfère ne pas répondre à tout ça pour l'instant car j'ai d'abord un compte à
+régler. Aujourd'hui, toi, je te prends à pile ou face.
+
+Les règles sont simples. Je lance la pièce, elle tourne en l'air, elle retombe
+et si c'est face, j'ai gagné.
+
+Stop. À cet instant précis, tandis que la pièce tourne en l'air, puis-je déjà
+savoır si elle va tomber sur face et si donc je vais gagner ? Non. Tout ce que
+je peux dire, c'est qu'il y a en gros une chance sur deux pour que je gagne. Je
+saurai le résultat seulement quand la pièce sera retombée. Pour l'instant, c'est
+incertain. Mais cela veut-il dire que le résultat du lancer est indéterminé ?
+Réfléchissons un peu à ce que fait la pièce. Elle suit une certaine trajectoire
+dans l'espace. Elle tourne sur elle-même en montant et redescendant. Et si elle
+fait tout ça, c'est en raison des forces qui s'exercent sur elle suite à
+l'impulsion que je lui ai transmise avec mon pouce et à l'attraction de la
+terre, etc. Tout son mouvement est déjà déterminé par les conditions initiales
+du lancé plus les lois de la nature. Et donc le résultat du lancé est déjà
+déterminé, même s'il reste incertain pour moi comme pour n'importe qui. Cet
+exemple simple nous montre une chose importante. L'incertitude n'implique pas
+l'indétermination.
+
+Notez qu'il y a souvent un peu de confusion sur ce point en raison de
+l'ambiguïté de la notion de possible. Enfin, je pourrais dire qu'encore à cet
+instant, il semble possible que la pièce tombe sur pile aussi bien que sur face.
+Par là, je veux seulement dire que c'est incertain. Peut-être que ce sera pile,
+peut-être que ce sera face. Ça, c'est ce qu'en philosophie on appelle le
+possible épistémique. Ça vient du grec *episteme* qui signifie connaissance. Le
+possible épistémique c'est en gros tout ce qui est compatible avec l'état de nos
+connaissances. Le peu que je sais du mouvement de la pièce ne me permet ni de
+dire si elle va tomber sur pile, ni si elle va tomber sur face. Et donc, les
+deux éventualités sont épistémiquement possibles. Mais en fait, le résultat du
+lancé est déjà déterminé, ce qui signifie qu'une seule des deux éventualités est
+réellement possible. L'autre éventualité est déjà impossible, réellement
+impossible, même si à nous qui n'avons pas une connaissance parfaite, cela
+semble encore épistémiquement possible.
+
+En somme, la pièce n'a pas le choix de tomber sur pile ou face. Le choix est
+déjà fait, même si nous nous ne le connaissons pas encore.
+
+Maintenant, supposons qu'on n'ait pas de pièce pour jouer à pile ou face. Bah,
+ça c'est très con. Mais tu tombes bien, tu vas faire la pièce. Voilà, dis ce que
+tu veux. Pile ou face, c'est pas très réglementaire mais OK. Alors, est-ce que
+je vais dire pile ou face ? Stop. À cet instant-là, ce que tu vas choisir de
+dire, pile ou face, est-il déjà déterminé ? Bah non, j'ai pas encore choisi donc
+tu sais pas. Et d'ailleurs, même moi, je sais pas, hein, parfois je me
+surprends. Mais ça ça montre seulement que personne n'est certain de ce que tu
+vas choisir de la même façon que personne n'est certain du résultat de la pièce
+pendant qu'elle tourne encore en l'air. Et pourtant, on a vu que le résultat du
+lancé est déjà déterminé. Donc pourquoi ce serait pas la même chose avec toi ?
+Bah non, justement, je suis pas comme une pièce. La pièce elle a pas le choix.
+Elle tombe comme elle doit tomber. Elle peut pas tomber comme elle veut, soit
+sur face, soit sur pile. Moi au contraire, je fais ce que je veux. Je peux
+vraiment choisir soit face, soit pile. Ah, je vois ce que tu veux dire. Tu as un
+super pouvoir en fait, tu crois ? Oui. C'est le super pouvoir que les
+philosophes appellent liberté. Tu veux dire que tu es libre de choisir pile ou
+face. Ah oui, voilà, c'est ça. Je suis libre. Je suis super libre.
+
+Quand j'écris au tableau le mot liberté, que je le souligne, que je me tourne
+vers ma classe, je me dis toujours waouh, je ressemble tellement à l'idée qu'on
+se fait d'un prof de philo. La liberté. Homme libre, toujours, tu chériras la
+mère. Alors, on va essayer d'éviter les vertiges métaphysiques et de mettre un
+peu d'ordre dans tout ça. Qu'est-ce que tu veux dire quand tu dis que tu es
+libre ? Et par exemple quand tu dis que tu choisis librement entre dire pile et
+dire face, il y a je pense au moins deux idées sous-jacentes.
+
+D'une part, tu te considères comme libre en ceci que tu estimes pouvoir dire
+face aussi bien que pouvoir dire pile. Ta liberté ferait que ces deux événements
+sont également possibles. Et je parle bien de possibilités réelles, pas
+seulement épistémiques. En effet, si tu ne pouvais pas réellement dire pile, si
+ta seule possibilité en fait c'était de dire face, cela reviendrait à dire qu'il
+est nécessaire et donc déjà déterminé que tu vas dire face. Et cette absence
+d'autres possibles te donnerait l'impression de ne pas être libre. Du coup,
+voilà pour la première idée. Être libre suppose que l'on fait face à une
+multitude d'actions réellement possibles entre lesquelles donc nous avons
+réellement le choix.
+
+Mais du coup, qu'est-ce qui va déterminer ton choix parmi toutes ces options
+possibles ? Est-ce qu'une action libre serait une action aléatoire ? Mais non,
+pas du tout. Au contraire, ce qui va déterminer ton choix, c'est ta volonté, une
+volonté libre comprise comme la faculté de se déterminer soi-même à agir. Quand
+tu dis que tu es libre de choisir de dire pile ou de dire face, tu veux dire que
+rien ne te détermine à choisir l'un plutôt que l'autre, sinon toi-même, ta
+propre volonté, toute seule comme une grande. Tu t'autodétermines à ce choix. Il
+y a une formule de Rousseau qui résume joliment cette idée : « L'obéissance à la
+loi qu'on s'est prescrite est liberté. » C'est sympa. Voilà donc pour la
+deuxième idée. La liberté résiderait dans l'autonomie de la volonté. Être libre,
+c'est agir par soi-même. C'est s'autodéterminer à agir. Alors, notez que tous
+les philosophes sont loin d'être d'accord sur la définition de la liberté, mais
+en général, ça tourne bien autour d'au moins un de ces deux aspects. Le rapport
+à une multitude de choix possibles ou le rapport à l'autodétermination.
+
+Bon alors, ça ce serait un agent libre qui s'apprête à faire usage de sa liberté
+pour choisir de dire pile ou de dire face. Bon maintenant, supposons qu'on fasse
+une copie physique parfaite de cet agent et puis en fait même on va faire une
+copie physique du monde entier auquel il appartient. C'est une expérience de
+pensée, ça coûtera pas plus cher de toute façon. On a donc maintenant deux
+agents libres, appelons-les A et B. Et chacun s'apprête à faire son choix libre
+entre dire pile et dire face. A et B sont dans exactement les mêmes conditions
+initiales du point de vue physique. Ils ont le même corps, le même cerveau et
+ils sont entourés d'exactement le même univers physique à la particule près.
+Cependant, si l'on prend au sérieux l'idée qu'ils sont libres, il faudrait
+admettre que ceci pourrait tout à fait se passer. [Pile], [Face]. Qui a gagné du
+coup ?
+
+En effet, d'après ce qu'on a dit sur la liberté, si A et B sont libres, ça veut
+dire que chacun a réellement le choix, chacun a réellement la possibilité de
+dire pile et aussi réellement la possibilité de dire face. Donc rien ne s'oppose
+à ce que dans un monde, c'est la possibilité de dire pile qui se réalise tandis
+que dans l'autre monde, c'est la possibilité de dire face qui se réalise. Ça
+c'est si l'on considère la possibilité sous l'angle des possibles. Maintenant,
+si on la regarde sous l'angle de l'autodétermination, on arrivera à une
+conclusion similaire. En effet, si étant donné des conditions initiales, la
+volonté d'un agent se détermine toujours de la même façon, pile hmm et c'est
+vraiment ma volonté et rien d'autre qui me détermine, ça semble bien indiquer
+que ce qui détermine son choix en fait, ce sont les conditions initiales où il
+est placé. Et donc sa volonté, au lieu d'être autonome, au lieu d'être
+véritablement libre, est en fait déterminée par ses conditions initiales. On en
+revient ainsi à l'idée qu'une volonté vraiment libre doit être telle que dans
+les mêmes conditions initiales, elle puisse déterminer différentes actions. En
+l'occurrence soit dire pile, soit dire face.
+
+Mais en y réfléchissant un petit peu, qu'est-ce qui pourrait justifier une telle
+variation ? Eh bien, réfléchissons un petit peu. Le corps de A et le corps de B
+sont régis par les mêmes lois de la nature. Et en tout cas, à l'échelle d'un
+corps vivant, nous pouvons croire que ces lois sont parfaitement déterministes.
+C'est-à-dire qu'étant donné les mêmes conditions initiales, ces lois produiront
+les mêmes effets. C'est d'ailleurs précisément la raison pour laquelle au
+commencement de cette vidéo, on était arrivé à la conclusion que le résultat du
+lancé de la pièce est déjà déterminé lorsque la pièce est en train de tourner en
+l'air. C'est qu'on suppose que les lois physiques qui régissent son mouvement
+sont déterministes. Et en effet, si je copie le monde à cet instant, il ne fait
+aucun doute que le résultat du lancé serait le même dans tous les mondes copiés.
+
+Ici, je sens se lever le vent d'une objection à base d'indétermination
+quantique, de chat de Schrödinger et tout ça. Et comme j'ai pas envie de faire
+ce détour maintenant, je vais simplement dire à ceux que ça chatouille d'aller
+se gratter en allant voir ce que j'ai écrit dans la description pour expliquer
+pourquoi en fait c'est pas tout à fait pertinent par rapport à la liberté. Donc
+passons. Maintenant, si vous rejetez l'idée qu'il y a une âme ou un esprit
+immatériel qui serait aux commandes du corps, et on a vu dans d'autres vidéos
+pourquoi c'est une position en effet difficile, très difficile à soutenir.
+Autrement dit, si vous êtes un temps soit peu matérialiste au sujet de l'esprit,
+et bien dans ce cas, puisque A et B ne sont jamais que deux objets strictement
+identiques du point de vue physique et mis dans les mêmes conditions initiales
+et soumis aux mêmes lois fondamentales, il devrait être impossible que l'un
+fasse une action que ne fera pas l'autre. Pas plus que deux pièces parfaitement
+identiques et lancées exactement de la même façon ne pourraient tomber l'une sur
+pile et l'autre sur face.
+
+Supposer le contraire, supposer une véritable liberté en l'homme, c'est lui
+conférer un véritable superpouvoir, celui d'enfreindre les lois de la nature.
+
+Au fond, supposer en l'homme une liberté telle qu'on l'a définie plus haut,
+c'est implicitement admettre une forme de dualisme avec tous les problèmes que
+ça comporte. En effet, l'idée sous-jacente, c'est que l'homme n'est pas qu'un
+corps, c'est surtout un esprit, une âme, un truc immatériel. Et c'est ce truc
+immatériel et presque divin qui est le siège de la volonté et la source de notre
+liberté. Et en un sens, oui, cela nous confère une sorte de pouvoir surnaturel
+grâce auquel un événement physique peut se produire sans cause physique,
+littéralement comme un miracle. Je suis comme un petit dieu qui crée un nouvel
+ordre causal par chacune de mes volontés. Pour user de la belle formule de
+Spinoza, cela revient à considérer l'homme dans la nature comme « un empire dans
+un empire ». Au sens où dans l'univers régi par les lois de la nature, l'homme
+serait comme une sorte de petite enclave indépendante rebelle ou on ne sait trop
+pourquoi, ces lois ne s'appliquent plus.
+
+Mais je vous avoue que tout ça sent un petit peu trop l'orgueil humain à mon
+goût. Je ne me sens pas l'âme à faire des miracles à tout bout de champ. Et si
+vous avez comme moi la simplicité de ne pas vous considérer comme autre chose
+qu'un organisme vivant doté d'un système nerveux très complexe certes, mais tout
+ce qu'il y a de plus matériel, il vous faudra bien arriver à la conclusion
+suivante : nous ne sommes pas réellement libres de nos actions. En tout cas, pas
+au sens où nous avons défini la liberté. L'idée que nous nous déterminons
+nous-même à agir, l'idée que nous avons réellement la possibilité de faire une
+chose plutôt qu'une autre, tout cela n'est qu'une illusion produite par
+l'ignorance des causes qui nous déterminent. En effet, comme je ne perçois pas
+vraiment ce qui me détermine à agir, je peux avoir l'impression que c'est moi
+seul qui m'y détermine. Et comme je ne sais pas à l'avance quelle action il est
+déterminé que je fasse, et bien je peux croire qu'il est possible que je fasse
+une action plutôt qu'une autre. Mais ce n'est qu'un possible épistémique qui
+marque mon ignorance. En réalité, tout cela est déjà aussi bien déterminé que le
+résultat du lancer lorsque la pièce est en train de tourner en l'air.
+
+Voilà, toutes nos actions futures sont déjà entièrement déterminées. C'est pas
+un peu déprimant ? Pas forcément non et en tout cas c'est pas une objection.
+
+Bon alors, j'ai quelques petits points à ajouter rapidement. D'abord, en fait il
+y a énormément de discussions en philosophie autour de la question de savoir
+dans quelle mesure le déterminisme est compatible avec l'idée d'une volonté
+libre. Ça semble plutôt incompatible certes et c'est ce que j'ai voulu montrer
+dans cette vidéo, mais certains philosophes trouvent ça vraiment trop triste et
+s'en sont donc trouvé un moyen de montrer que en fait non c'est compatible.
+Exercice d'équilibriste amusant mais que je n'ai jamais trouvé très convaincant
+honnêtement.
+
+Deuxième chose, ne pensez pas que dire que tout était déterminé revient à dire
+que tout est prévu à l'avance, ni même prévisible. C'est pas du tout le cas.
+Personne au monde ne peut savoir à l'avance si vous allez dire pile ou face. Et
+à l'inverse, ne commettez pas l'erreur de croire que le fait que tout ne soit
+pas prévisible est une preuve du fait que tout n'est pas déterminé. En faisant
+cela, vous confondez la notion d'incertitude et la notion d'indétermination ou
+pour le dire autrement, la notion de possible épistémique et la notion de
+possible réel. On a vu dans la vidéo pourquoi c'est différent et c'est vraiment
+très important pour ne pas se faire une fausse idée du déterminisme.
+
+Dernière chose, un conseil judiciaire. Si vous êtes dans un tribunal accusé d'un
+crime et que vous cherchez à vous en disculper en disant que vous n'aviez pas le
+choix, ce sont les conditions initiales de l'univers qui vous ont déterminé à ce
+crime. Vous ne pouviez pas vous opposer à un ordre causal qui s'impose à toute
+chose depuis 13 milliards d'années. Et bien, ce n'est pas une bonne stratégie de
+défense. Le déterminisme le plus rigoureux n'annule en aucun cas la
+responsabilité de vos actes. En tout cas, je le soutiens et c'est un point qui
+mériterait d'être plus longuement développé. J'espère que j'aurai l'occasion de
+le faire dans un autre épisode.
+
+Voilà. Il y aurait encore 1000 choses à dire sur la liberté et notamment du
+point de vue politique, point de vue très différent et dont je n'ai pas du tout
+parlé ici. J'y reviendrai sans doute dans d'autres grains de philo, mais je m'en
+tiens là pour aujourd'hui. Si tout ça vous a plu, n'hésitez pas à le dire, à
+commenter, à liker, à vous abonner si ce n'est déjà fait et à partager sur
+Facebook, Twitter ou tout autre réseau qui auraient votre préférence. J'aimerais
+faire encore plus de vidéos honnêtement en faire plus souvent mais ça demande un
+temps et une énergie folle, fou, du coup. Donc voilà, en tout cas ça me fait
+toujours immensément plaisir de voir que mes vidéos sont partagées, que la
+chaîne soit de plus en plus visible et cetera et cetera. Merci d'y contribuer.
+Merci à tous. À très bientôt et d'ici là, n'enfreignez pas les lois de la nature
+s'il vous plaît, sinon c'est le bordel.
+
+J'avais dit pile mais j'aurais pu dire pile.
+
+Bon, on va dire égalité.

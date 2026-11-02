@@ -1,0 +1,649 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.240 --> 00:00:03.880
+Pour prendre une décision démocratiquement, il faut s'en remettre au principe de majorité.
+
+00:00:04.160 --> 00:00:09.760
+Et il y a un cas où ce principe ne souffre aucune ambiguïté : lors d'un duel, une élection opposant seulement deux alternatives.
+
+00:00:09.920 --> 00:00:13.040
+Si une alternative est préférée par une majorité absolue d'électeurs,
+
+00:00:13.280 --> 00:00:18.000
+alors elle est démocratiquement plus légitime que l'autre alternative, et donc elle doit être élue.
+
+00:00:18.120 --> 00:00:23.280
+Le principe de Condorcet, dont on a parlé dans l'épisode précédent, n'est en somme qu'une conséquence de ce premier principe.
+
+00:00:23.560 --> 00:00:27.600
+Dans une élection, si une alternative l'emporte en duel contre n'importe quelle autre,
+
+00:00:27.720 --> 00:00:32.000
+ça signifie qu'elle est plus légitime démocratiquement que chacune des autres alternatives,
+
+00:00:32.200 --> 00:00:35.120
+donc c'est LA plus légitime, et elle doit l'emporter.
+
+00:00:35.240 --> 00:00:38.440
+En un mot, le vainqueur de Condorcet doit gagner !
+
+00:00:38.520 --> 00:00:41.200
+Ca devrait être la norme démocratique par excellence.
+
+00:00:41.520 --> 00:00:46.920
+Or dans nos démocraties, nos modes de scrutin tendent tout au contraire à faire perdre le vainqueur de Condorcet.
+
+00:00:47.160 --> 00:00:51.320
+En outre nous pourrions être tentés de penser que c'est tout à fait normal, et même souhaitable.
+
+00:00:51.520 --> 00:00:54.640
+C'est bizarre, et aujourd'hui on va justement discuter de tout ça.
+
+00:00:58.760 --> 00:01:03.520
+Voyons d'abord un peu pourquoi nos modes de scrutin tendent à empêcher l'élection du vainqueur de Condorcet.
+
+00:01:03.580 --> 00:01:07.240
+Je vais parler surtout du scrutin uninominal à deux tours que nous utilisons beaucoup en France,
+
+00:01:07.360 --> 00:01:11.980
+mais par exemple celui à un tour, utilisé dans bien d'autres démocraties, pose des problèmes tout à fait similaires.
+
+00:01:12.060 --> 00:01:16.260
+Pour vous expliquer ce qu'il se passe, je vais décrire le fonctionnement du scrutin d'une façon un peu imagée.
+
+00:01:16.400 --> 00:01:20.740
+Supposez que les électeurs sont répartis sur une plage et que les candidats sont des marchands de glace.
+
+00:01:20.880 --> 00:01:24.260
+Chaque électeur veut avoir un marchand de glace au plus près, évidemment.
+
+00:01:24.380 --> 00:01:30.020
+Dans nos élections à deux tours seront qualifiés au second tour les marchands de glaces ayant fait le plus grand nombre de ventes au premier tour.
+
+00:01:30.200 --> 00:01:34.440
+Et le vainqueur de l'élection sera celui qui aura fait le plus grand nombre de ventes au second tour.
+
+00:01:34.800 --> 00:01:35.380
+Voilà.
+
+00:01:35.640 --> 00:01:38.680
+Pour remporter l'élection, donc, il faut d'abord se qualifier pour le second tour,
+
+00:01:38.840 --> 00:01:42.560
+et cela exige surtout de ne pas avoir de concurrent attractif trop proche sur la plage.
+
+00:01:42.700 --> 00:01:47.440
+En effet, deux marchands trop proches se partageront les électeurs alentours et donc diminueront leurs chances.
+
+00:01:47.720 --> 00:01:53.880
+Pour passer le premier tour, il faut s'arranger pour être en gros le seul marchand sur une partie de la plage suffisamment large et riche en électeurs.
+
+00:01:54.120 --> 00:01:56.120
+Et c'est à ça que servent les partis en somme.
+
+00:01:56.260 --> 00:02:03.220
+Un parti s'efforce d'occuper idéologiquement un large bout de plage, et il s'arrange pour désigner un seul marchand de glaces très attractif pour toute cette zone.
+
+00:02:03.400 --> 00:02:05.640
+Evidemment, d'autres petits marchands essaieront de leur voler des clients,
+
+00:02:05.960 --> 00:02:09.880
+mais les électeurs au premier tour auront tendance à privilégier les gros marchands pas trop éloignés d'eux
+
+00:02:10.200 --> 00:02:13.680
+s'ils ont une chance d'arriver au second tout et de l'emporter. C'est ce qu'on appelle le vote utile.
+
+00:02:13.920 --> 00:02:16.720
+Aussi, jusqu'aux dernières élections, le scénario était généralement le suivant :
+
+00:02:17.000 --> 00:02:19.240
+un gros marchand à gauche, un gros marchand à droite,
+
+00:02:19.440 --> 00:02:23.880
+d'autres petits marchands éparpillés un peu partout, trop faibles et trop peu attractifs pour atteindre le second tour,
+
+00:02:24.160 --> 00:02:29.200
+et quand tout va bien, le second tour est effectivement un affrontement entre les deux gros marchands : gauche contre droite.
+
+00:02:29.400 --> 00:02:32.440
+Et tantôt l'un l'emporte, tantôt l'autre. Et tout est dans l'ordre !
+
+00:02:32.800 --> 00:02:36.040
+Or est-ce un vainqueur de Condorcet qui l'emporte dans ce genre de scénario ?
+
+00:02:36.480 --> 00:02:42.040
+Probablement pas ! S'il y a un vainqueur de Condorcet, ce serait plutôt ce marchand de glaces, placé au centre, coincé entre les deux mastodontes.
+
+00:02:42.400 --> 00:02:49.120
+En effet, toute la partie gauche de la plage et une partie du centre droit préférera acheter ses glaces à lui plutôt qu'au gros marchand de droite,
+
+00:02:49.400 --> 00:02:56.640
+et inversement, toute la partie droite de la plage et une partie du centre gauche préférera lui acheter ses glaces à lui plutôt qu'au gros marchand de gauche.
+
+00:02:56.960 --> 00:03:00.840
+Il bat bien l'un et l'autre en duel, et il bat probablement aussi tous les autres petits marchands.
+
+00:03:01.120 --> 00:03:06.000
+Son seul tort, en fait, est de ne pas être assez attractif et isolé pour réussir à se hisser au second tour.
+
+00:03:06.120 --> 00:03:08.560
+Mais en fait, les deux alternatives entre lesquelles on choisit au second tour,
+
+00:03:08.840 --> 00:03:11.840
+sont des alternatives minoritaires par rapport à ce candidat.
+
+00:03:12.480 --> 00:03:16.280
+OK... mais si on arrête de parler de glaces, ça donne quoi ? Parce que je ne suis pas sûr de bien comprendre...
+
+00:03:16.440 --> 00:03:19.440
+Substitue au marchand de gauche Ségolène Royal ou François Hollande,
+
+00:03:19.760 --> 00:03:22.960
+à celui de droite Nicolas Sarkozy et au marchand du centre François Bayrou.
+
+00:03:23.240 --> 00:03:26.680
+Et on a en gros les élections présidentielles de 2007 et 2012..
+
+00:03:26.920 --> 00:03:32.160
+En effet, c'est un point souvent souligné, les sondages semblaient bien indiquer que Bayrou était le vainqueur de Condorcet de ces deux élections.
+
+00:03:32.360 --> 00:03:36.400
+Au lendemain de ces deux scrutins, si un référendum avait proposé Bayrou contre le président nouvellement élu,
+
+00:03:36.640 --> 00:03:39.680
+Bayrou l'aurait vraisemblablement emporté dans les deux cas.
+
+00:03:39.880 --> 00:03:43.480
+Et aucun autre candidat n'aurait été capable de l'emporter contre lui en duel.
+
+00:03:43.600 --> 00:03:48.720
+Ainsi, vainqueur de Condorcet, Bayrou méritait de gagner. C'est un peu notre président alternatif.
+
+00:03:49.040 --> 00:03:51.640
+Bayrou était quand même pas super super populaire...
+
+00:03:52.000 --> 00:03:55.640
+Il avait peut-être 15 % d'électeurs, ça ne fait pas beaucoup pour remporter une élection, non ?
+
+00:03:55.840 --> 00:04:00.520
+Cette façon de parler des électeurs comme attachés à un seul candidat est, je crois, la source de beaucoup de confusions.
+
+00:04:00.520 --> 00:04:02.080
+J'y reviendrai un peu plus loin.
+
+00:04:02.280 --> 00:04:07.800
+Ceci dit, j'admets volontiers qu'il y aie quelque chose de bizarre à penser que Bayrou, vainqueur de Condorcet en 2007 et 2012,
+
+00:04:08.040 --> 00:04:10.880
+était le vainqueur légitime de ces élections.
+
+00:04:11.120 --> 00:04:15.960
+Notre culture démocratique nous incite à penser que le vainqueur légitime d'une élection doit venir plutôt d'un grand parti,
+
+00:04:16.200 --> 00:04:20.760
+soit de gauche, soit de droite, capable de faire un gros score d'adhésion au premier tour.
+
+00:04:21.240 --> 00:04:25.680
+L'élection de 2017 s'est déroulée selon un scénario tout à fait différent et imprévisible.
+
+00:04:25.960 --> 00:04:29.120
+Le candidat de droit s'est torpillé, ceux de gauche se sont entre-dévorés,
+
+00:04:29.400 --> 00:04:35.360
+tout cela a créé un vide suffisant au centre, qui a permis pour une fois à un centriste de passer au second tour
+
+00:04:35.360 --> 00:04:36.480
+et l'emporter.
+
+00:04:36.840 --> 00:04:42.320
+Et si l'on en croit les sondages, face à n'importe quel autre candidat au second tour, Macron l'emportait confortablement.
+
+00:04:42.600 --> 00:04:48.040
+Son positionnement au centre faisait bien de lui un vainqueur de Condorcet, tout comme Bayrou dans les élections précédentes.
+
+00:04:48.360 --> 00:04:53.680
+Ainsi, pour une fois, il semble que ce soit un vainqueur de Condorcet qui aie remporté l'élection.
+
+00:04:54.680 --> 00:04:55.180
+(David Louapre &lt;3)
+
+00:04:56.240 --> 00:04:59.760
+En fait, j'ai compris, c'est nul ton truc de Condorcet : ça veut dire que c'est toujours le centre qui doit gagner !
+
+00:04:59.960 --> 00:05:01.960
+C'est pas très démocratique, ça !
+
+00:05:02.160 --> 00:05:05.680
+Voilà en effet ce qui motive beaucoup d'opposition au principe de Condorcet.
+
+00:05:05.920 --> 00:05:11.640
+Cela favorise les candidats du centre, ou tout au moins les candidats modérés, les candidats du consensus
+
+00:05:11.840 --> 00:05:14.360
+au détriment des candidats radicaux ou clivants.
+
+00:05:14.600 --> 00:05:19.120
+Et forcément quand on soutient plutôt un candidat radical ou clivant, ou tout au moins excentré,
+
+00:05:19.280 --> 00:05:21.880
+l'idée de ce principe est accueillie plutôt froidement.
+
+00:05:21.960 --> 00:05:26.200
+Mais nous devrions essayer de faire la part des choses entre ce que nous voulons nous personnellement que le résultat soit,
+
+00:05:26.440 --> 00:05:30.600
+et ce que nous considérons comme résultat démocratiquement légitime.
+
+00:05:30.840 --> 00:05:37.680
+Que le centre doive l'emporter généralement selon le critère de Condorcet, est-ce une objection contre le caractère démocratique du résultat ?
+
+00:05:37.800 --> 00:05:44.920
+Après tout, la démocratie invite effectivement plutôt au consensus puisqu'une décision prise doit emporter l'assentiment d'une majorité.
+
+00:05:45.120 --> 00:05:48.720
+Pour y arriver, il faut bien que l'alternative choisie soit perçue comme plutôt... consensuelle
+
+00:05:48.880 --> 00:05:52.800
+et le centre, justement, c'est ce qui en général représente le mieux ce consensus.
+
+00:05:52.880 --> 00:05:56.480
+Oui mais ça veut dire qu'un type comme Mélenchon ne pourrait jamais gagner... et je ne suis pas d'accord !
+
+00:05:56.720 --> 00:06:02.960
+Non, ça veut dire qu'il ne sera légitime à remporter l'élection qu'au moment où lui-même représentera une certaine forme de consensus.
+
+00:06:03.080 --> 00:06:05.280
+Quand il sera en gros au centre du jeu politique.
+
+00:06:05.520 --> 00:06:07.600
+Mélenchon devenir centriste ? Non mais ça va pas ?!
+
+00:06:07.600 --> 00:06:09.360
+Tu voudrais qu'il renonce à ses idées pour être élu !
+
+00:06:09.560 --> 00:06:13.840
+Mais non pas du tout ! Regarde : il y a deux façons pour un marchand de glaces de se retrouver au centre des électeurs.
+
+00:06:14.040 --> 00:06:18.360
+Soit il se déplace idéologiquement pour se retrouver de fait au centre, là où sont les électeurs,
+
+00:06:18.680 --> 00:06:25.080
+mais il peut aussi, à l'inverse, faire en sorte d'attirer les électeurs à lui, de façon à ce que le centre se décale vers lui.
+
+00:06:25.240 --> 00:06:29.760
+N'oubliez pas que la plage est vaste, et que l'expression "centre" n'en désigne aucune zone déterminée.
+
+00:06:30.120 --> 00:06:33.800
+C'est une notion purement relative aux positions idéologiques des électeurs,
+
+00:06:33.840 --> 00:06:35.960
+et celles-ci, heureusement, ne sont pas figées.
+
+00:06:36.160 --> 00:06:39.440
+Si les opinions de "La France insoumise" gagnaient du terrain jusqu'à devenir tout à fait consensuelles,
+
+00:06:39.680 --> 00:06:44.680
+si du coup les deux grands partis se divisant les élections en France devenaient "Lutte ouvrière" à gauche et le PS à droite,
+
+00:06:45.040 --> 00:06:48.600
+Mélenchon apparaîtrait entre les deux comme un candidat centriste, modéré,
+
+00:06:48.800 --> 00:06:51.320
+et est-ce que ce ne serait pas ça finalement, la victoire de ses idées ?
+
+00:06:51.600 --> 00:06:56.880
+Qu'elles s'imposent si largement qu'elles se retrouvent au centre du jeu politique, et non plus à un bord extrême.
+
+00:06:57.120 --> 00:07:01.440
+Donc au fond, quand tu milites pour Mélenchon, tu fais tout ce que tu peux pour qu'il devienne centriste !
+
+00:07:01.440 --> 00:07:03.200
+C'est une drôle de façon de voir les choses...
+
+00:07:03.360 --> 00:07:07.160
+Le combat politique d'un groupe dont les idées sont aujourd'hui minoritaires et clivantes
+
+00:07:07.480 --> 00:07:12.720
+ne devrait pas consister à trouver un moyen de remporter le jeu de l'élection demain tout en restant minoritaire et clivant.
+
+00:07:13.000 --> 00:07:20.480
+Leur combat devrait plutôt consister à ce que demain beaucoup d'électeurs les rejoignent dans ses idées, de façon à ce qu'elles deviennent majoritaires et consensuelles.
+
+00:07:20.680 --> 00:07:22.880
+Et donc légitimes à remporter des élections.
+
+00:07:23.120 --> 00:07:29.600
+Et donc, adopter un mode de scrutin qui favorise le vainqueur de Condorcet, c'est une façon de mettre l'accent sur cette seconde forme de combat politique
+
+00:07:29.800 --> 00:07:32.800
+qui me paraît bien plus légitime démocratiquement que la première.
+
+00:07:32.840 --> 00:07:35.440
+Quand on sait qu'on représente une part vraiment minoritaire de l'électorat,
+
+00:07:35.720 --> 00:07:40.240
+trouver un moyen de remporter quand même l'élection en profitant des failles du mode de scrutin,
+
+00:07:40.480 --> 00:07:42.480
+ça me paraît pas trop trop démocratique.
+
+00:07:42.760 --> 00:07:47.200
+Mais si on enlève le vote utile pour Macron au premier tour, Macron il avait peut-être 15 % d'électeurs...
+
+00:07:47.320 --> 00:07:49.520
+C'est pas très démocratique non plus de l'emporter !
+
+00:07:49.680 --> 00:07:54.880
+C'est intéressant, on parle souvent des électeurs d'untel, comme si chaque électeur était attaché à un et un seul candidat.
+
+00:07:55.040 --> 00:07:57.480
+Et c'est une façon très discutable de décrire les électeurs.
+
+00:07:57.800 --> 00:08:00.400
+Vous avez un parfum de glace préféré, par exemple la vanille.
+
+00:08:00.520 --> 00:08:04.400
+Mais, est-ce que en tant que mangeur de glaces, vous n'êtes rien d'autre qu'un mangeur de glaces à la vanille ?
+
+00:08:04.600 --> 00:08:08.800
+Non ! Vous avez des préférences diverses pour bien d'autres parfums de glaces. Peut-être que vous aimez aussi beaucoup le chocolat
+
+00:08:09.040 --> 00:08:14.040
+même si c'est à moindre degré, et dans ce cas vous êtes aussi, à un moindre degré, un mangeur de glaces au chocolat !
+
+00:08:14.040 --> 00:08:15.960
+Et il en va de même de nos préférences politiques.
+
+00:08:16.120 --> 00:08:19.360
+En somme, il faudrait préciser le sens de l'expressions "être électeur de".
+
+00:08:19.600 --> 00:08:25.560
+Plutôt qu'une notion absolue, je pense que c'est une notion relative : on est toujours électeur d'une alternative contre une autre.
+
+00:08:25.640 --> 00:08:28.640
+Par exemple, si tes préférences électorales aux dernière présidentielles étaient en gros :
+
+00:08:28.760 --> 00:08:31.400
+Mélenchon, Hamon, Macron, Fillon, Le Pen
+
+00:08:31.680 --> 00:08:34.880
+Alors on peut dire que tu étais un électeur de Mélenchon contre tous les autres,
+
+00:08:35.160 --> 00:08:39.880
+mais on peut aussi dire que tu étais un électeur de Hamon contre Macron, Fillon et Le Pen,
+
+00:08:39.920 --> 00:08:43.640
+et aussi un électeur de Macron contre Fillon et Le Pen,
+
+00:08:43.920 --> 00:08:47.040
+et même un électeur de Fillon contre Le Pen.
+
+00:08:47.040 --> 00:08:48.400
+Moi, électeur de Fillon ?!
+
+00:08:48.640 --> 00:08:55.320
+Contre Le Pen, oui ! Si effectivement tu préfères quand même Fillon à Le Pen, alors tu es effectivement un peu un électeur de Fillon.
+
+00:08:55.480 --> 00:08:57.920
+Ah bon OK mais alors vraiment un peu. Un tout petit peu !
+
+00:08:58.240 --> 00:09:03.840
+Voilà pourquoi il me paraît peu convaincant de remettre en cause la légitimité du vainqueur de Condorcet en faisant valoir qu'il a "peu d'électeurs",
+
+00:09:04.040 --> 00:09:06.040
+et en particulier moins d'électeurs que ses concurrents.
+
+00:09:06.160 --> 00:09:09.640
+C'est se focaliser indûment sur les premières préférences des électeurs.
+
+00:09:09.840 --> 00:09:14.840
+Or si on regarde l'ensemble de leurs préférences, on se rendra compte au contraire que le vainqueur de Condorcet a beaucoup d'électeurs,
+
+00:09:15.040 --> 00:09:18.760
+et pour cause, il a même une majorité d'électeurs face à n'importe quel autre candidat.
+
+00:09:18.920 --> 00:09:22.200
+J'ajouterais que cette façon de considérer les électeurs comme étant les électeurs d'un seul candidat
+
+00:09:22.320 --> 00:09:25.880
+est sans doute liée et renforcée par le fait que nos scrutins sont uninominaux.
+
+00:09:26.120 --> 00:09:28.520
+Nous ne mettons qu'un seul nom dans le bulletin de  vote.
+
+00:09:28.760 --> 00:09:34.080
+Si au contraire nos scrutins nous demandaient, ou au moins nous permettaient, de mettre plusieurs noms dans chaque bulletin de vote,
+
+00:09:34.200 --> 00:09:40.840
+nous serions sans doute moins enclins à penser les électeurs de cette façon... caricaturale, comme s'ils étaient les "hooligans" de leur candidat.
+
+00:09:40.960 --> 00:09:44.720
+Mais après tout, est-ce que c'est pas quand même légitime de donner plus d'importance au premier choix ?
+
+00:09:44.720 --> 00:09:46.400
+Au moins c'est un vrai vote d'adhésion !
+
+00:09:46.680 --> 00:09:51.240
+Tandis que le vainqueur de Condorcet en général c'est le candidat du second, troisième choix de beaucoup d'électeurs
+
+00:09:51.240 --> 00:09:53.200
+et c'est juste un vote par défaut.
+
+00:09:53.440 --> 00:09:58.720
+Tu dis que c'est la préférence de la majorité. Moi j'ai plus l'impression que c'est le moins détesté des candidats... pas le préféré !
+
+00:09:58.920 --> 00:10:03.040
+Note bien que "le moins détesté", c'est juste une façon négative de dire "le préféré".
+
+00:10:03.040 --> 00:10:04.760
+Mais ceci dit, j'entends l'objection.
+
+00:10:05.000 --> 00:10:09.360
+Tu penses qu'il faut quantifier les degrés d'adhésion et qu'une adhésion positive, celle du premier choix,
+
+00:10:09.600 --> 00:10:13.600
+est plus importante que l'adhésion par défaut des deuxième, troisième, quatrième choix.
+
+00:10:13.720 --> 00:10:16.640
+Oui voilà exactement. Il faudrait donner plus de poids au vote d'adhésion.
+
+00:10:16.800 --> 00:10:23.440
+Donc il faudrait que le vote mesure la force, le degré d'adhésion des électeurs pour les différentes alternatives pour lesquelles ils votent.
+
+00:10:23.520 --> 00:10:27.120
+Un candidat qui suscite une forte adhésion, même minoritaire, pourrait ainsi l'emporter
+
+00:10:27.240 --> 00:10:32.080
+contre un candidat mou et tiédasse qui n'est que le moins détesté par une majorité.
+
+00:10:32.080 --> 00:10:33.840
+Pourquoi pas ? On peut y réfléchir.
+
+00:10:34.080 --> 00:10:37.480
+Pour mesurer ces degrés d'adhésion, on pourrait recourir à un système de notes.
+
+00:10:37.720 --> 00:10:41.800
+Au lieu d'un bulletin de vote, on aurait une sorte de bulletin de notes attribuées à chaque candidat.
+
+00:10:42.080 --> 00:10:48.440
+Ainsi, un bulletin de vote permettrait d'exprimer à quels candidats on adhère vraiment, et à quels candidats on n'adhère que par défaut.
+
+00:10:48.720 --> 00:10:54.920
+Si tu voulais marquer une très forte différence entre ton adhésion positive à Mélenchon et ton adhésion par défaut à Hamon et Macron,
+
+00:10:54.920 --> 00:10:56.240
+et bien tu pourrais les noter ainsi.
+
+00:10:56.440 --> 00:11:01.960
+Et si vraiment il y avait chez les électeurs une volonté de marquer une telle différence entre leur premier choix, leur vote d'adhésion,
+
+00:11:02.040 --> 00:11:06.960
+et le reste, leur vote par défaut, les bulletins de vote devraient assez souvent ressembler à ça.
+
+00:11:07.200 --> 00:11:09.440
+Maintenant, comment s'en servir pour dégager un vainqueur ?
+
+00:11:09.680 --> 00:11:14.040
+Une idée simple serait de faire la somme des points et d'élire le candidat ayant la plus grosse somme.
+
+00:11:14.400 --> 00:11:20.560
+Une autre idée serait de regarder la médiane, c'est-à-dire en gros la note du milieu, et de choisir le candidat ayant la plus haut médiane.
+
+00:11:20.720 --> 00:11:25.960
+Cette méthode de la médiane donne en gros le scrutin qu'on appelle "Le jugement majoritaire" et il a beaucoup de propriétés intéressantes
+
+00:11:26.160 --> 00:11:30.360
+qui sont exposées dans d'excellentes vidéos auxquelles je vous renvoie si vous ne les connaissez pas.
+
+00:11:30.560 --> 00:11:35.160
+Et du coup avec ce scrutin, si les gens vraiment expriment leur adhésion, ça ne devrait pas être le centriste mou qui l'emporte.
+
+00:11:35.320 --> 00:11:38.640
+Ca va être vraiment le candidat qui aura su susciter la plus forte adhésion, quitte à être radical.
+
+00:11:38.880 --> 00:11:43.320
+En théorie, oui, il est possible que le vainqueur de Condorcet perde avec ce mode de scrutin.
+
+00:11:43.520 --> 00:11:48.440
+En particulier si les électeurs marquaient toujours une très forte différence entre leur premier choix et tous les autres,
+
+00:11:48.440 --> 00:11:50.240
+ça devrait arriver très souvent.
+
+00:11:50.520 --> 00:11:57.440
+En particulier si tous les électeurs mettent le score maximal à leur candidat préféré, et zéro à tous les autres, on revient en fait à un scrutin uninominal à un tour.
+
+00:11:57.720 --> 00:12:04.760
+Mais les expériences menées sur ce type de scrutins avec notes tendent à montrer que généralement les électeurs ne notent pas de cette façon là, justement.
+
+00:12:05.000 --> 00:12:10.920
+Ils ont plutôt tendance à étaler leurs notes sur toute l'échelle, et c'est pourquoi il me paraît erroné de donner tant de poids, tant d'importance,
+
+00:12:11.120 --> 00:12:17.840
+à l'idée d'un vote d'adhésion, représenté par le premier choix, contre le vote par défaut, représenté par le deuxième, troisième choix.
+
+00:12:18.040 --> 00:12:22.920
+En pratique, une majorité d'électeurs, lorsqu'on leur donne l'occasion de quantifier cette différence d'adhésion,
+
+00:12:23.080 --> 00:12:25.440
+ne marque pas une différence très prononcée.
+
+00:12:25.640 --> 00:12:28.960
+Et c'est pourquoi les modes de scrutin qui tiennent compte du degré d'adhésion des électeurs
+
+00:12:29.200 --> 00:12:34.880
+tendent eux aussi en fait à avantager les candidats du consensus, les candidats plutôt centristes et modérés,
+
+00:12:35.080 --> 00:12:40.120
+et donc à favoriser le vainqueur de Condorcet quand il y en a un, même si sa victoire n'est pas garantie.
+
+00:12:46.080 --> 00:12:50.880
+Qu'est-ce qu'il reste en fin de compte pour justifier pourquoi un vainqueur de Condorcet peut être perçu comme "mal élu" ?
+
+00:12:51.080 --> 00:12:54.520
+Pourquoi, même en admettant que Macron l'emportait en duel face à tous ses concurrents,
+
+00:12:54.680 --> 00:12:58.840
+on garde cette impression tenace qu'il a un petit peu "volé" l'élection ?
+
+00:12:58.960 --> 00:13:01.320
+Et ceci pas seulement parce que ce n'est pas notre candidat préféré.
+
+00:13:01.520 --> 00:13:08.280
+Je pense que ça tient beaucoup à nos habitudes politiques, à nos attentes vis-à-vis d'une élection, en particulier présidentielle.
+
+00:13:08.520 --> 00:13:14.080
+L'usage du scrutin à deux tours nous a habitué à l'affrontement idéologique gauche / droite au second tour.
+
+00:13:14.200 --> 00:13:17.960
+Et on finit par aimer un peu ça, on veut que ce match ait lieu.
+
+00:13:18.200 --> 00:13:23.160
+Or il n'a pas eu lieu, et c'est ce qui nous frustre, c'est ce qui nous donne l'impression d'une élection un peu ratée.
+
+00:13:23.240 --> 00:13:28.480
+A la place, on a élu un centriste, un candidat tiède qui ne plaît ni ne déplaît trop à personne,
+
+00:13:28.680 --> 00:13:32.840
+celui qui normalement n'a rien à faire au second tour, mais qui, une fois qu'il y est,
+
+00:13:32.840 --> 00:13:34.640
+ne peut perdre contre personne.
+
+00:13:34.920 --> 00:13:38.840
+Bah oui, c'est le vainqueur de Condorcet, c'est la définition même de ne pas pouvoir perdre au second tour.
+
+00:13:39.000 --> 00:13:43.920
+En somme si nous avons l'impression que Macron est mal élu, ce n'est pas parce qu'il n'est pas la préférence de la majorité,
+
+00:13:44.080 --> 00:13:50.440
+mais tout au contraire parce qu'il l'est, et que notre élection présidentielle en deux tours n'est pas censé élire la préférence de la majorité.
+
+00:13:50.600 --> 00:13:56.280
+Elle est censée être là pour constituer un bon vieux match "gauche contre droite"... qui n'a pas eu lieu.
+
+00:13:57.080 --> 00:14:01.240
+Mais à bien y réfléchir, ce stupide scrutin à deux tours est une mauvaise habitude à perdre
+
+00:14:01.360 --> 00:14:06.480
+et si nous sommes attachés à la démocratie plus qu'à nos mauvaises habitudes, nous devrions vraiment essayer.
+
+00:14:10.920 --> 00:14:13.720
+Bon mais entre nous, c'est quoi ton mode de scrutin préféré ?
+
+00:14:14.080 --> 00:14:18.480
+Alors même s'il n'est pas parfait, le jugement majoritaire me paraît être un excellent compromis
+
+00:14:18.640 --> 00:14:22.800
+et si on devait changer le notre pour celui-là, je serais vraiment très content.
+
+00:14:23.120 --> 00:14:29.880
+Ne serait-ce que pour avoir des résultats électoraux qui ressemblent à ça ! C'est quand même beaucoup plus joli et beaucoup plus riche en informations !
+
+00:14:30.560 --> 00:14:35.480
+Mais le jugement majoritaire n'est pas une méthode de Condorcet. Et ça, ça me pose quand même un problème.
+
+00:14:35.640 --> 00:14:39.040
+Et en fait c'est l'idée même de tenir compte non plus seulement de l'ordre de préférence,
+
+00:14:39.280 --> 00:14:47.320
+mais des forces d'adhésion, des degrés d'adhésion pour les différents candidats qui me paraît très discutable dans la mesure où en fait, si on y regarde plus près,
+
+00:14:47.720 --> 00:14:50.800
+elle implique de rejeter carrément le principe de majorité.
+
+00:14:50.880 --> 00:14:53.360
+Et du coup, est-ce que c'est vraiment démocratique ?
+
+00:14:53.600 --> 00:14:57.720
+Mais ça ferait sujet d'une toute autre vidéo. J'en parlerai peut-être une autre fois.
+
+00:14:58.880 --> 00:15:02.840
+Merci en tous cas d'avoir suivi cette vidéo, et j'espère que ça vous aura fait réfléchir.
+
+00:15:03.280 --> 00:15:07.720
+Changer notre mode de scrutin, c'est à la fois démocratiquement légitime, voire nécessaire,
+
+00:15:08.000 --> 00:15:15.040
+c'est relativement facile à mettre en oeuvre, ça n'a rien d'utopique, et c'est potentiellement très transformateur pour la pratique de la politique.
+
+00:15:15.240 --> 00:15:23.680
+Est-ce qu'on peut raisonnablement espérer que cette rocambolesque élection de 2017 aura été la dernière élection selon ce mode de scrutin abracadabrantesque ?
+
+00:15:23.680 --> 00:15:24.840
+Abracadabrantesque !
+
+00:15:25.040 --> 00:15:29.120
+Et en partageant cette vidéo, vous contribuez à cette modeste révolution.
+
+00:15:29.400 --> 00:15:32.560
+Alors n'hésitez pas, diffusez, partagez, faites-vous plaisir.
+
+00:15:32.680 --> 00:15:39.120
+Merci à tous les premiers tipeurs ! Evidemment, j'enregistre ça alors que je n'ai pas encore lancé mon Tipeee, mais j'espère qu'il y en aura !
+
+00:15:42.120 --> 00:15:46.040
+Sur ce, je vous dis "A bientôt pour de nouvelles aventures !"
+

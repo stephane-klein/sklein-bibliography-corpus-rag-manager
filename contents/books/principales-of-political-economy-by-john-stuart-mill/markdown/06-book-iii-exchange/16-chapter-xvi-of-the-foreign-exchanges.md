@@ -1,0 +1,189 @@
+---
+title: Chapter XVI. Of The Foreign Exchanges.
+path: 06-book-iii-exchange/16-chapter-xvi-of-the-foreign-exchanges
+ancestors:
+  - Book III. Exchange.
+href: 1129008759595750428_30107-h-7.html.xhtml#pgepubid00175
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter XVI. Of The Foreign Exchanges.
+
+## § 1. Money passes from country to country as a Medium of Exchange, through the Exchanges.
+
+We have thus far considered the precious metals as a commodity, imported like other commodities in the common course of
+trade, and have examined what are the circumstances which would in that case determine their value. But those metals are
+also imported in another character, that which belongs to them as a medium of exchange; not as an article of commerce,
+to be sold for money, but as themselves money, to pay a debt, or effect a transfer of property.
+
+Money is sent from one country to another for various purposes: the most usual purpose, however, is that of payment for
+goods. To show in what circumstances money actually passes from country to country for this or any of the other purposes
+mentioned, it is necessary briefly to state the nature of the mechanism by which international trade is carried on, when
+it takes place not by barter but through the medium of money.
+
+In practice, the exports and imports of a country not only are not exchanged directly against each other, but often do
+not even pass through the same hands. Each is separately bought and paid for with money. We have seen, however, that,
+even in the same country, money does not actually pass from hand to hand each time that purchases are made with it, and
+still less does this happen between different countries. The habitual mode of paying and receiving payment for
+commodities, between country and country, is by bills of exchange.
+
+A merchant in the United States, A, has exported American \[pg 411\] commodities, consigning them to his correspondent,
+B, in England. Another merchant in England, C, has exported English commodities, suppose of equivalent value, to a
+merchant, D, in the United States. It is evidently unnecessary that B in England should send money to A in the United
+States, and that D in the United States should send an equal sum of money to C in England. The one debt may be applied
+to the payment of the other, and the double cost and risk of carriage be thus saved. A draws a bill on B for the amount
+which B owes to him: D, having an equal amount to pay in England, buys this bill from A, and sends it to C, who, at the
+expiration of the number of days which the bill has to run, presents it to B for payment. Thus the debt due from England
+to the United States, and the debt due from the United States to England, are both paid without sending an ounce of gold
+or silver from one country to the other.[^274]
+
+![Illustration.](images/687523173863510570_foreign-exchange.png)
+
+This implies (if we exclude for the present any other international payments than those occurring in the course of
+commerce) that the exports and imports exactly pay for one another, or, in other words, that the equation of
+international demand is established. When such is the fact, the international transactions are liquidated without the
+passage of any money from one country to the other. But, if there is a greater sum due from the United States to England
+than is due from England to the United States, or vice versa, the debts can not be simply written off against one
+another. After the one has been applied, as far as it will go, toward covering the other, the balance must be
+transmitted in the precious metals. In point of fact, the merchant who has the amount to pay will even then pay for it
+by a bill. When a person has a remittance to make to a foreign country, he does \[pg 412\] not himself search for some
+one who has money to receive from that country, and ask him for a bill of exchange. In this, as in other branches of
+business, there is a class of middle-men or brokers, who bring buyers and sellers together, or stand between them,
+buying bills from those who have money to receive, and selling bills to those who have money to pay. When a customer
+comes to a broker for a bill on Paris or Amsterdam, the broker sells to him perhaps the bill he may himself have bought
+that morning from a merchant, perhaps a bill on his own correspondent in the foreign city; and, to enable his
+correspondent to pay, when due, all the bills he has granted, he remits to him all those which he has bought and has not
+resold. In this manner these brokers take upon themselves the whole settlement of the pecuniary transactions between
+distant places, being remunerated by a small commission or percentage on the amount of each bill which they either sell
+or buy. Now, if the brokers find that they are asked for bills, on the one part, to a greater amount than bills are
+offered to them on the other, they do not on this account refuse to give them; but since, in that case, they have no
+means of enabling the correspondents on whom their bills are drawn to pay them when due, except by transmitting part of
+the amount in gold or silver, they require from those to whom they sell bills an additional price, sufficient to cover
+the freight and insurance of the gold and silver, with a profit sufficient to compensate them for their trouble and for
+the temporary occupation of a portion of their capital. This premium (as it is called) the buyers are willing to pay,
+because they must otherwise go to the expense of remitting the precious metals themselves, and it is done cheaper by
+those who make doing it a part of their especial business. But, though only some of those who have a debt to pay would
+have actually to remit money, all will be obliged, by each other's competition, to pay the premium; and the brokers are
+for the same reason obliged to pay it to those whose bills they buy. The reverse of all this happens, if, on the
+comparison of exports and imports, the country, \[pg 413\] instead of having a balance to pay, has a balance to receive.
+The brokers find more bills offered to them than are sufficient to cover those which they are required to grant. Bills
+on foreign countries consequently fall to a discount; and the competition among the brokers, which is exceedingly
+active, prevents them from retaining this discount as a profit for themselves, and obliges them to give the benefit of
+it to those who buy the bills for purposes of remittance.
+
+When the United States had the same number of dollars to pay to England which England had to pay to her, one set of
+merchants in the United States would want bills, and another set would have bills to dispose of, for the very same
+number of dollars; and consequently a bill on England for $1,000 would sell for exactly $1,000, or, in the phraseology
+of merchants, the exchange would be at par. As England also, on this supposition, would have an equal number of dollars
+to pay and to receive, bills on the United States would be at par in England, whenever bills on England were at par in
+the United States.
+
+If, however, the United States had a larger sum to pay to England than to receive from her, there would be persons
+requiring bills on England for a greater number of dollars than there were bills drawn by persons to whom money was due.
+A bill on England for $1,000 would then sell for more than $1,000, and bills would be said to be at a premium. The
+premium, however, could not exceed the cost and risk of making the remittance in gold, together with a trifling profit;
+because, if it did, the debtor would send the gold itself, in preference to buying the bill.
+
+If, on the contrary, the United States had more money to receive from England than to pay, there would be bills offered
+for a greater number of dollars than were wanted for remittance, and the price of bills would fall below par: a bill for
+$1,000 might be bought for somewhat less than $1,000, and bills would be said to be at a discount.
+
+When the United States has more to pay than to receive, England has more to receive than to pay, and vice versa. \[pg
+414\] When, therefore, in the United States, bills on England bear a premium, then, in England, bills on the United
+States are at a discount; and, when bills on England are at a discount in the United States, bills on the United States
+are at a premium in England. If they are at par in either country, they are so, as we have already seen, in both.[^275]
+
+Thus do matters stand between countries, or places which have the same currency. So much of barbarism, however, still
+remains in the transactions of the most civilized nations, that almost all independent countries choose to assert their
+nationality by having, to their own inconvenience and that of their neighbors, a peculiar currency of their own. To our
+present purpose this makes no other difference than that, instead of speaking of _equal_ sums of money, we have to speak
+of _equivalent_ sums. By equivalent sums, when both currencies are composed of the same metal, are meant sums which
+contain exactly the same quantity of the metal, in weight and fineness.
+
+The quantity of gold in the English pound is equivalent to $4.8666+ of our gold coins. If the bills offered are about
+equal to those wanted, a claim to a pound in England will sell for $4.86. If many are wanted, and but few to be had,
+their price will go up, of course; but it can not go more than a small fraction beyond $4.90, since about 3-¼ cents is
+sufficient to cover the brokerage, insurance, and freight per pound sterling in a shipment of gold to London. Therefore,
+in order to get money to a creditor in London, no one will pay more for a pound in the form of a bill than he will be
+obliged to pay for sending it across in the form of bullion. Bills of exchange, then, can not rise in price beyond the
+point ($4.90 +) since, rather than pay a higher sum for a bill, gold will be sent. This point is called the
+“shipping-point” of gold. When the exchanges are at $4.90, it will be found that gold is going abroad. On the other
+hand, when the supply of bills is greater than the demand, their price will fall. A man having a bill on London to
+sell—i.e., a claim to a pound in London—will not sell it at a price here lower than $4.86, by more than the expense of
+bringing the gold itself across. Since this expense is about 3-¼ cents, bills can not fall below about $4.83. When
+exchange is at that price, it will be \[pg 415\] found that gold is coming to the United States from England. This price
+is the “shipping-point” for imports of gold. This, of course, applies to sight-bills only.
+
+Formerly, we computed exchange on a scale of percentages, the real par being about 109. This was given up after the war.
+
+When bills on foreign countries are at a premium, it is customary to say that the exchanges are against the country, or
+unfavorable to it. In order to understand these phrases, we must take notice of what “the exchange,” in the language of
+merchants, really means. It means the power which the money of the country has of purchasing the money of other
+countries. Supposing $4.86 to be the exact par of exchange, then when it requires more than $1,000 to buy a bill of
+£205, $1,000 of American money are worth less than their real equivalent of English money: and this is called an
+exchange unfavorable to the United States. The only persons in the United States, however, to whom it is really
+unfavorable are those who have money to pay in England, for they come into the bill market as buyers, and have to pay a
+premium; but to those who have money to receive in England the same state of things is favorable; for they come as
+sellers and receive the premium. The premium, however, indicates that a balance is due by the United States, which must
+be eventually liquidated in the precious metals; and since, according to the old theory, the benefit of a trade
+consisted in bringing money into the country, this prejudice introduced the practice of calling the exchange favorable
+when it indicated a balance to receive, and unfavorable when it indicated one to pay; and the phrases in turn tended to
+maintain the prejudice.
+
+## § 2. Distinction between Variations in the Exchanges which are self-adjusting and those which can only be rectified through Prices.
+
+It might be supposed at first sight that when the exchange is unfavorable, or, in other words, when bills are at a
+premium, the premium must always amount to a full equivalent for the cost of transmitting money. But a small excess of
+imports above exports, or any other small amount of debt to be paid to foreign countries, does not usually affect the
+exchanges to the full extent of the cost and risk of transporting bullion. The length of credit allowed generally
+permits, on the part of some of the debtors, a postponement \[pg 416\] of payment, and in the mean time the balance may
+turn the other way, and restore the equality of debts and credits without any actual transmission of the metals. And
+this is the more likely to happen, as there is a self-adjusting power in the variations of the exchange itself. Bills
+are at a premium because a greater money value has been imported than exported. But the premium is itself an extra
+profit to those who export. Besides the price they obtain for their goods, they draw for the amount and gain the
+premium. It is, on the other hand, a diminution of profit to those who import. Besides the price of the goods, they have
+to pay a premium for remittance. So that what is called an unfavorable exchange is an encouragement to export, and a
+discouragement to import. And if the balance due is of small amount, and is the consequence of some merely casual
+disturbance in the ordinary course of trade, it is soon liquidated in commodities, and the account adjusted by means of
+bills, without the transmission of any bullion. Not so, however, when the excess of imports above exports, which has
+made the exchange unfavorable, arises from a permanent cause. In that case, what disturbed the equilibrium must have
+been the state of prices, and it can only be restored by acting on prices. It is impossible that prices should be such
+as to invite to an excess of imports, and yet that the exports should be kept permanently up to the imports by the extra
+profit on exportation derived from the premium on bills; for, if the exports were kept up to the imports, bills would
+not be at a premium, and the extra profit would not exist. It is through the prices of commodities that the correction
+must be administered.
+
+Disturbances, therefore, of the equilibrium of imports and exports, and consequent disturbances of the exchange, may be
+considered as of two classes: the one casual or accidental, which, if not on too large a scale, correct themselves
+through the premium on bills, without any transmission of the precious metals; the other arising from the general state
+of prices, which can not be corrected without the subtraction \[pg 417\] of actual money from the circulation of one of
+the countries, or an annihilation of credit equivalent to it.
+
+It remains to observe that the exchanges do not depend on the balance of debts and credits with each country separately,
+but with all countries taken together. The United States may owe a balance of payments to England; but it does not
+follow that the exchange with England will be against the United States, and that bills on England will be at a premium;
+because a balance may be due to the United States from Holland or Hamburg, and she may pay her debts to England with
+bills on those places; which is technically called arbitration of exchange. There is some little additional expense,
+partly commission and partly loss of interest in settling debts in this circuitous manner, and to the extent of that
+small difference the exchange with one country may vary apart from that with others.
+
+A common use of bills of exchange is that by which, when three countries are concerned, two of them may strike a balance
+through the third, if both countries have dealings with that third country. New York merchants may buy of China, but
+China may not be buying of New York, although both may have dealings with London.
+
+![Illustration.](images/687523173863510570_balance-of-debts.png)
+
+A, we will suppose, is a buyer of £1,000 worth of tea from F, in Hong-Kong; B is an exporter of wheat (£1,000) to C in
+London; D has sent £1,000 worth of cotton goods to E in Hong-Kong. A can now pay F through London without the
+transmission of coin. A buys B's claim on C for £1,000, and sends it to F. E wishes to pay D in London for the cotton
+goods he bought of him; therefore, he buys from F for £1,000 the claim he now holds (i.e., a bill of exchange on London)
+against C for £1,000. E sends it to D, and, when D collects it from C, the whole circle of exchanges is completed
+without the transmission of the precious metals.
+
+\[pg 418\]
+
+* * *
+
+[^274]: I have also changed the illustrations in this chapter so as to apply to the United States.
+
+[^275]: The examples in this and the next section have been altered so as to apply to the United States.

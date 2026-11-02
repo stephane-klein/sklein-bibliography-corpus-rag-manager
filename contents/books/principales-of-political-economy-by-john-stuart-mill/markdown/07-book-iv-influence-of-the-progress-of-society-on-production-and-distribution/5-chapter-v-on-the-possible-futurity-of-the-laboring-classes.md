@@ -1,0 +1,475 @@
+---
+title: Chapter V. On The Possible Futurity Of The Laboring-Classes.
+path: 07-book-iv-influence-of-the-progress-of-society-on-production-and-distribution/5-chapter-v-on-the-possible-futurity-of-the-laboring-classes
+ancestors:
+  - Book IV. Influence Of The Progress Of Society On Production And Distribution.
+href: 1129008759595750428_30107-h-9.html.xhtml#pgepubid00228
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter V. On The Possible Futurity Of The Laboring-Classes.
+
+## § 1. The possibility of improvement while Laborers remain merely receivers of Wages.
+
+There has probably never been a time when more attention has been called to the material and social conditions of the
+working-classes than in the last few years. The great increase of literature and the extension of the newspaper has
+brought to every reader, even where public and private charities have not sent eye-witnesses into direct contact with
+distress, a more explicit knowledge of the working-classes than ever before. The revelation of existing poverty and
+misery is, often wrongly, taken to be a proof of the increasing degradation of the working-men, and the cause has been
+ascribed to the grasping cruelty of capitalists. Instances of injustice arising from the relations of employers and
+employed will occur so long as human nature remains imperfect. But the world hopes that some other relation than that of
+master and workman may be evolved in which not only many admitted wrongs may be avoided, but also new forces may be
+applied to raise the laborer out of his dependence on other classes in the community.
+
+We are, at present, living under a régime of private property and competition. But certainly the progress of the laborer
+is not that which can excite enthusiastic hopes for the future, so long as he remains a mere receiver of wages. The
+progress of industrial improvements has resulted, says Mr. Cairnes, in “a temporary improvement of the laborer's
+condition, followed by an increase of population and an enlarged demand for the cheapened commodity.... Laborers'
+commodities, however, are for the most part commodities of raw produce, or in which the raw material constitutes the
+chief element of the value (clothing is, in truth, the only important exception); and of all such commodities it is the
+well-known law that an augmentation of quantity can only be obtained, other things being the same, at an increasing
+proportional cost. Thus, it has happened that the gain in productiveness obtained by improved processes has, after a
+generation, to a great extent been lost—lost, \[pg 519\] that is to say, for any benefit that can be derived from it in
+favor of wages and profits.... The large addition to the wealth of the country has gone neither to profits nor to wages,
+nor yet to the public at large \[as consumers\], but to swell a fund ever growing even while its proprietors sleep—the
+rent-roll of the owners of the soil.... The aggregate return from the land has immensely increased; but the cost of the
+costliest portion of the produce, which is that which determines the price of the whole, remains pretty nearly as it
+was. Profits, therefore, have not risen at all, and the real remuneration of the laborer, taking the whole field of
+labor, in but a slight degree—at all events in a degree very far from commensurate with the general progress of
+industry.”[^306]
+
+Under these conditions, it seems that the only hope of an improvement for the laboring-classes lies in the limitation of
+population—or at least in an increase of numbers less than the increase of capital and improvements. It is possible,
+however, that Mr. Cairnes, with many others, has failed to recognize the full extent of the improvement which is taking
+place in the wages of the laborer under the existing social order. Although we hear much of the wrongs of the
+working-men—and they no doubt exist—yet it is unquestionable that their condition has vastly improved within the last
+fifty years; largely, in my opinion, because improvements have outstripped population, and because wide areas of fertile
+land in new and peaceful countries have drawn off the surplus population in the older countries, and because the
+available spots in the newer countries like the United States have not yet been covered over with a population
+sufficiently dense to keep real wages anything below a relatively high standard. The facts to substantiate this opinion,
+so far as regards Great Britain, are to be found in a recent investigation[^307] by Mr. Giffen, the statistician of the
+English Board of Trade. For a very considerable reduction in hours of daily labor, the workman now receives wages on an
+average about 70 per cent higher than fifty years ago, as may be seen by the following table:
+
+\[pg 520\]
+
+| Occupation. | Place. | Wages fifty years ago, per week. | Wages, present time, per week. | Increase or decrease, amount, per cent. |
+| --- | --- | --- | --- | --- |
+| Carpenters | Manchester | 24 0 | 34 0 | 10 0 (+) 42 |
+|  | Glasgow | 14 0 | 26 0 | 12 0 (+) 85 |
+| Bricklayers | Manchester[^308] | 24 0 | 36 0 | 12 0 (+) 50 |
+|  | Glasgow | 15 0 | 27 0 | 12 0 (+) 80 |
+| Masons | Manchester[^309] | 24 0 | 29 10 | 5 10 (+) 24 |
+|  | Glasgow | 14 0 | 23 8 | 9 8 (+) 69 |
+| Miners | Staffordshire | 2 8[^310] | 4 0[^311] | 1 4 (+) 50 |
+| Pattern-weavers | Huddersfield | 16 0 | 25 0 | 9 0 (+) 55 |
+| Wool-scourers | " | 17 0 | 22 0 | 5 0 (+) 30 |
+| Mule-spinners | " | 25 6 | 30 0 | 4 6 (+) 20 |
+| Weavers | " | 12 0 | 26 0 | 14 0 (+) 115 |
+| Warpers and beamers | " | 17 0 | 27 0 | 10 0 (+) 58 |
+| Winders and reelers | " | 6 0 | 11 0 | 5 0 (+) 83 |
+| Weavers (men) | Bradford | 8 3 | 20 6 | 12 3 (+) 150 |
+| Reeling and warping | " | 7 9 | 15 6 | 7 9 (+) 100 |
+| Spinning (children) | " | 4 5 | 11 6 | 7 1 (+) 160 |
+
+With increased wages, prices are not much higher than fifty years ago. But the clearest evidence as to their bettered
+material condition is to be found in the following table, which shows the amount of food consumed per head by the total
+population of Great Britain:
+
+| Articles. | 1840. | 1881. |
+| --- | --- | --- |
+| Bacon and hams, Pounds. | 0.01 | 13.93 |
+| Butter, Pounds. | 1.05 | 6.36 |
+| Cheese, Pounds. | 0.92 | 5.77 |
+| Currants and raisins, Pounds. | 1.45 | 4.34 |
+| Eggs, No. | 3.63 | 21.65 |
+| Potatoes, Pounds. | 0.01 | 12.5 |
+| Rice, Pounds. | 0.90 | 16.32 |
+| Cocoa, Pounds. | 0.08 | 0.31 |
+| Coffee, Pounds. | 1.08 | 0.89 |
+| Corn, wheat, and wheat-flour, Pounds. | 42.47 | 216.92 |
+| Raw sugar, Pounds. | 15.20 | 58.92 |
+| Refined sugar, Pounds. | Nil. | 8.44 |
+| Tea, Pounds. | 1.22 | 4.58 |
+| Tobacco, Pounds. | 0.86 | 1.41 |
+| Wine, Gallons. | 0.25 | 0.45 |
+| Spirits, Gallons. | 0.97 | 1.08 |
+| Malt, Bushels. | 1.59 | 1.91[^312] |
+
+The question then at once arises, whether capital has been shown by the statistics to have gained accordingly, or
+whether there has been a proportionally less increase than in wages. \[pg 521\] Says Mr. Giffen: “If the return to
+capital had doubled, as the wages of the working-classes appear to have doubled, the aggregate income of the capitalist
+classes returned to the income-tax would now be £800,000,000 instead of £400,000,000.... The capitalist, as such, gets a
+low interest for his money, and the aggregate returns to capital is not a third part of the aggregate income of the
+country, which may be put at not less than £1,200,000,000.” It is found, moreover—as a suggestion that property is more
+generally diffused—that while there were 25,368 estates entered to probate in 1838, of an average value of £2,160 each,
+there were 55,359 estates in 1882 of an average value of £2,500 each.
+
+But yet the vast increase of wealth made possible by improvements and the growth of capital would have bettered the
+condition of all still more had population been somewhat more limited. As it is, the material gain has been large in
+spite of an increase in the population from 16,500,000 in 1831 to nearly 30,000,000 in 1881. In other words, the
+landlords have been great gainers, while the laborers have intercepted much more than Mr. Cairnes supposed.
+
+There are at hand some very striking data relating to the United States which point in the same direction as those of
+Mr. Giffen. Charts No. [XIX](1129008759595750428_30107-h-11.html.xhtml#Chart_XIX) and
+[XX](1129008759595750428_30107-h-11.html.xhtml#Chart_XX) show vividly how far the increased productiveness of an
+industry, arising from greater skill and greater efficiency of labor in the connection of improved machinery, has
+enabled manufacturers to steadily lower the price of their goods, and yet increase the wages paid to their operatives.
+What was true of these two cotton-mills was true of others within New England; for the rate of wages paid by these mills
+was the rate current in the country in 1830 and in 1884. While each spindle and loom has become vastly more effective,
+we see by Chart No. [XIX](1129008759595750428_30107-h-11.html.xhtml#Chart_XIX) that the average production of each
+operative constantly increased from 4,321 yards per year in 1830, to 28,032 yards in 1884; and this it was which made
+possible the corresponding increase in the rate of wages from $164 in 1830, to $290 in 1884. The sum of $290 a year as
+an average for each operative, is a stipend too small to cause any general satisfaction; but he must be gloomy indeed
+who does not see that $290 is a cheerful possession as compared with $164. There is, then, abundant ground for believing
+that in the past fifty years the condition of the working-classes in the United States has been materially improved. The
+diminishing proportion of the price which goes to the capital is a significant fact, and illustrates the tendency of
+profits to fall with the increase of capital.[^313] The same truth seems to be \[pg 522\] seen in the table given in a
+previous chapter,[^314] where the wages have been increased, but the hours have fallen per day from thirteen to eleven
+since 1840.
+
+## § 2.—through small holdings, by which the landlord's gain is shared.
+
+So far we have considered the chances for improvement in an industrial order in which the present separation of
+capitalists from laborers is maintained. But this does not take into account that future time when cultivation in the
+United States shall be forced down upon inferior land, and no more remains to be occupied, and when capital may no
+longer increase as fast as population. What must be the ultimate outlook for wages-receivers? Or, more practically, what
+is the outlook now for those who are wages-receivers, and for whom a more equitable distribution of the product seems
+desirable? How can they escape the thralldom of dependence on the accumulations of others?
+
+In this connection, and of primary importance, is the avenue opened to all holders of small properties to share in the
+increase which goes to owners of land. It has been seen that owners of the soil constantly gain from the inevitable
+tendencies of industrial progress. If one large owner gains, why should not the increment be the same if ten owners held
+the property instead of one? The more the land is subdivided, the more the vast increase arising from rent will be
+shared by a larger number. This, in my opinion, is the strongest reason for the encouragement of small holdings in every
+country. The greater the extension of small properties among the working-class, the more will they gain a share of that
+part of the product which goes to the owner of land by the persistent increase of population. If, then, the gain arising
+from improvements is largely passed to the credit of land-owners, as Mr. Cairnes believes, it should be absolutely
+necessary to spread among the working-classes the doctrine that if they own their own homes, and buy the land they live
+on, to that extent will they “grow rich while they sleep,” independently of their other exertions. Land worth $500
+to-day when bought by the savings of a laborer, besides the self-respect[^315] it gives him, will increase in value with
+the \[pg 523\] density of population, and become worth $600 or more without other sacrifice of his.
+
+## § 3. —through co-operation, by which the manager's wages are shared.
+
+It will be found, however, that, of the various industrial rewards, profits tend to diminish, meaning by “profits” only
+the interest and insurance given for abstinence and risk in the use of capital; but that the manager's wages (wages of
+superintendence) are larger than is commonly supposed in relation to other industrial rewards, owing to the position of
+monopoly practically held by such executive ability as is competent to successfully manage large business interests. To
+the laborer this large payment to the manager seems to be paid for the possession of capital. This we now know to be
+wrong. The manager's wages are payments of exactly the same nature as any laborer's wages. It makes no difference
+whether wages are paid for manual or mental labor. The payment to capital, purely as such, known as interest (with
+insurance for risk), is unmistakably decreasing, even in the United States. And yet we see men gain by industrial
+operations enormous rewards; but these returns are in their essence solely manager's wages. For in many instances, as
+hitherto discussed, we have seen that the manager is not the owner of the capital he employs. To what does this lead us?
+Inevitably to the conclusion that the laborer, if he would become something more than a receiver of wages, in the
+ordinary sense, must himself move up in the scale of laborers until he reaches the skill and power also to command
+manager's wages. The importance of this principle to the working-man can not be exaggerated, and there flows from it
+important consequences to the whole social condition of the lower classes. It leads us directly to the means by which
+the lower classes may raise themselves to a higher position—the actual details of which, of course, are difficult, but,
+as they are not included in political economy, they must be left to sociology—and forms the essential basis of hope for
+any proper extension of productive co-operation. In short, co-operation owes its existence to the possibility of
+dividing the manager's wages, to a greater or less degree, among the so-called wages-receivers, or the “laboring-class.”
+And it is from this point of view that co-operation is seen more truly and fitly than in any other way. For it is to be
+said that in some of its forms co-operation gives the most promising economic results as regards the condition of the
+laborer which have yet been reached in the long discussion upon the relations of labor and capital.
+
+## § 4. Distributive Co-operation.
+
+It will be my object, then, to describe the chief forms in which the co-operative principle has manifested itself. These
+may be said, in general, to be four: (1) distributive co-operation, by which goods already produced are bought and sold
+to \[pg 524\] members without the aid of retail dealers; (2) productive co-operation, by which associations are formed
+for producing and manufacturing goods for the market; (3) partial productive co-operation in the form of industrial
+partnerships between laborers and employers, without dispensing with the latter; and (4) co-operative, or People's,
+banks. There are, of course, many other forms in which the principle of co-operation has been applied; but these four
+are probably the most characteristic.
+
+Distributive co-operation is at once the simplest and the most successful form, not merely because it requires less for
+capital than any other for its inception, but also because it calls for less business and executive capacity. The number
+of persons capable of managing a small retail store is vastly greater than the class fit to assume control of the very
+complex duties involved in the care of wholesale houses—or, at all events, of mills and factories. Distributive
+co-operation has its origin in the fact that the expenses of a middle-man between the producer and consumer may be
+entirely dispensed with, and in the fact that more capital had collected in the business of distribution than could
+economically be so employed. Its educating power on the men concerned in teaching them to save, in showing the need of
+business methods, and in instilling the elements of industrial management, is of no little importance. It is, therefore,
+the best gateway to any further or more difficult co-operative experiments—such experiments as can be attempted only
+after the proper capital is saved, and the necessary executive capacity is discovered, or developed by training. In
+England co-operation began its history in distributive stores, and has finally led to such a stimulus of self-help in
+the laborer, that now co-operative gymnasiums, libraries, gardens, and other results have proved the wisdom of calling
+upon the laborers for their own exertions. Under the system which separates employers and the employed, high wages are
+not found to be the only boon which the receivers could wish; for it is sometimes found that the best-paid workmen are
+the most unwise and intemperate.[^316] For the most ignorant and unskilled of the workmen in the lowest strata the
+object would seem to be to give not merely more wages, but give more in such a way as might excite new and better
+motives, a desire as well as a possibility of improvement. Self-help must be stimulated, not deadened by stifling
+dependence on a class of superiors, or on the state. The extraordinary growth of co-operation is one of the most
+cheering signs of modern times. Distributive co-operation originated in Rochdale, in England, about 1844, with a few
+laborers desirous of saving themselves from the high prices paid for poor provisions. By uniting, they purchased \[pg
+525\] tea by the chest, sugar by the hogshead, which they sold to each member at market prices. They were surprised to
+find a large profit by the operation, which they divided proportionally to the capital subscribed. Others soon joined
+them; they took a store-room, and in 1882 there were 10,894 members, with a share capital of $1,576,215, and with
+realized profits in that year of $162,885. They have erected expensive steam flour-mills, and the society occupies
+eighteen branch establishments in Rochdale. Libraries containing more than 15,000 volumes, and classes in science,
+language, and the technical arts, attended by 500 students, have been maintained. The extension of the Rochdale store
+led to the necessity of a wholesale establishment of their own. It is now a large institution with branches in London
+and Newcastle. “It owns manufactories in London, Manchester, Newcastle, Leicester, Durham, and Crumpsall; and it has
+depots in Cork, Limerick, Kilmallock, Waterford, Tipperary, Tralee, and Armagh, for the purchase of butter, potatoes,
+and eggs. It has buyers in New York and Copenhagen, and it owns two steamships. It has a banking department with a
+turn-over of more than £12,000,000 annually.”[^317]
+
+The following figures for England and Wales tell their own story as to the progress of co-operation:[^318]
+
+|  | 1862. | 1881. |
+| --- | --- | --- |
+| Number of members | 90,000 | 525,000 |
+| Capital: Share | 428,000 | 5,881,000 |
+| Capital: Loan | 55,000 | 1,267,000 |
+| Sales | 2,333,000 | 20,901,000 |
+| Net profit | 165,000 | 1,617,000 |
+
+Several persons each subscribe a sum to make up the share capital of a store, and a person is selected to take charge of
+the purchase and care of the goods. The advantages of the plan are: (1) A division among the co-operators of all the net
+profits of the retail trade; (2) a saving in advertisements, since members are always purchasers without solicitation;
+(3) no loss by bad debts, since only cash sales are permitted; and (4) security against fraud as to the character of the
+goods, because there is no inducement to make gains by adulterations. It is often found that the capital is turned over
+ten times in the course of a year; while the cost of management in the wholesale Rochdale stores does not amount to one
+per cent on the returns.
+
+\[pg 526\]
+
+The arrangement of obligations in due order of their priority, which has been recommended by Mr. Holyoake,[^319] is as
+follows: of funds in the store, payment should be made, (1) of the expenses of management; (2) of interest due on all
+loans; (3) of an amount equivalent to ten per cent of the value of the fixed stock to cover the annual depreciation from
+wear and tear; (4) of dividends on the subscribed capital of the members;[^320] (5) of such a sum as may be necessary
+for an extension of the business; (6) of two and a half per cent of the remaining profit, after all the above items are
+provided for, for educational purposes; (7) of the residue, and that only, among all the persons employed, and members
+of the store, in proportion to the amount of their wages, or of their respective purchases during the quarter.[^321] The
+payment of dividends to customers on their purchases seems now to be considered an essential element of success.
+
+## § 5. Productive Co-Operation.
+
+Productive co-operation presents many serious difficulties, the chief of which is the need of managing ability. Some one
+in the association must know the wholesale markets well, the expectation of crops connected with his materials used, the
+proper time to buy; he must know the processes of the special production thoroughly, the best machinery, the best
+adaptation of labor to the given end; he must know the whims of purchasers, and be ready to change his products
+accordingly—in short, a man eminently fitted for success in his own factory is essential to the profitable management of
+one belonging to a body of co-operators. It has been already seen how large a variation in profit is due to manager's
+wages; and it is very often only his skill, prudence, and experience that make the difference between a failure and a
+success in business. Unless co-operators are willing to pay as large a sum for the services of a good manager as he
+could get in his own \[pg 527\] establishment, they can not secure the talent which will make their venture
+succeed.[^322]
+
+In France the national workshops of Louis Blanc, established in 1848, were a failure. Nowhere has it been more clearly
+seen that state help has been disastrous than in France, where the Constituent Assembly voted 3,000,000 francs for
+co-operative experiments, all of which failed. Curiously enough, distributive co-operation has not succeeded in France,
+because, owing to a wide-spread dislike of the wages system, workmen will try nothing less than productive schemes. And
+their success in this has been no greater than might be expected, when inexperience is put to a task beyond its
+powers.[^323]
+
+In Great Britain and the United States there have been some successful experiments in production; and Mr. Holyoake[^324]
+holds that, although workmen certainly do begrudge the manager's salary, productive associations are possible when
+managed by a board of elected directors. He urges, moreover, that, as in distributive co-operation, if profits are
+shared with customers, there will be insured both popularity and continuity of custom without the cost of advertising,
+and such expenses as those of travelers and commissions. The plan of actual operations upon which successes have been
+reached in England seems to be briefly this: (1) To save capital, chiefly through co-operative associations; (2) to
+purchase or lease premises; (3) to engage managers, accountants, and officers at the ordinary salaries which such men
+can command in the market according to their ability; (4) to borrow capital on the credit of the association; (5) to pay
+upon capital subscribed by members the same rate of interest as that upon borrowed capital; (6) to regard as profit only
+that which remains after making payment for rent, materials, wages, all business outlays, and interest on capital; and
+(7) to divide the profits according to the salaries of all officers, wages of workmen, and purchases of customers. Those
+mills and factories which have sprung out of the extension of distributive associations, as at Rochdale, seem, and
+naturally so, to have been most successful. They have gradually trained themselves somewhat for the work, and their
+customers were beforehand secured. That is, where the difficulties of the manager's function have been lessened, they
+have a better chance of success. And yet it must be said that productive associations will gain largely from the
+efficiency of the labor when working for its own interest; and this is an important consideration to be urged in favor
+of such associations.
+
+\[pg 528\]
+
+The Sun Mill,[^325] at Oldham, England, was established for spinning cotton in 1861 by the exertions of some
+co-operative bodies. Beginning with a share capital of $250,000, and a loan capital of a like amount, it set 80,000
+spindles in operation. In 1874 they had a share capital of $375,000 (all subscribed except $1,000), and an equal amount
+of loan capital, while the whole plant was estimated as worth $615,000. Two and a half per cent per annum has been set
+apart for the depreciation in the value of the mill, and seven and a half per cent for the machinery; so that in the
+first ten years a total sum of $160,000 was set aside for depreciation of the property. The profits have varied from two
+to forty per cent; and, while only five per cent interest was paid on the loan capital, large dividends were made on the
+share capital. During the last few years the Sun Mill has on an average realized a profit of 12-½ per cent, although it
+is known that the cotton trade has suffered during this time from a serious depression.
+
+Many experiments, however, have proved failures; and sometimes, when they are successful (as in the case of the Hatters'
+Association in Newark, New Jersey[^326]), the workmen have no desire to share their benefits with others, and
+practically form a corporation by themselves. The mere fact that they do sometimes succeed is an important thing. Then,
+too, they have an opportunity of securing by salaries that executive ability in the community which exists separate from
+the possession of capital. And in these days, in large corporations, the manager is not necessarily (although he often
+is) a large owner of capital. The last annual report of the Co-operative Congress (1882) shows the existence in England
+and Scotland of productive associations for the manufacture of cloth, flannel, fustian, hosiery, quilts, worsted, nails,
+watches, linen, and silk, as well as those for engineering, printing, and quarrying; and these were but a few of
+them.[^327]
+
+In the United States there have been some successes as well as failures. In January, 1872, a number of machinists and
+other working-men organized in the town of Beaver Falls, Pennsylvania, a Co-operative Foundry Association for the
+manufacture of stoves, hollow-ware, and fine castings. On a small capital of only $4,000 they have steadily prospered,
+paid the market rate of wages, and also paid annual dividends, over and above all expenses and interest on the plant, of
+from twelve to fifteen per cent. In 1867 thirty workmen started a co-operative foundry in Somerset, Massachusetts, with
+a capital of about $14,000. \[pg 529\] In the years 1874-1875 the company spent $5,400 for new flasks and patterns, and
+yet showed a net gain of $11,914. In 1876 it had a capital of $30,000, and a surplus fund of $28,924.[^328]
+
+## § 6. Industrial Partnership.
+
+The difficulties of productive co-operation arising from the need of skilled management, together with the existing
+unsatisfactory relation between employers and laborers when wholly separate from each other, have led to a most
+promising plan of industrial partnership by which the manager retains the control of the business operations, but shares
+his profits with the workmen. The gain through increased efficiency, greater economy, and superior workmanship, recoups
+the manager for the voluntary subtraction from his share, and yet the laborers receive an additional share; but more
+than this, it educates the laborer in industrial methods, discloses the difficulties of management, and stimulates him
+to saving habits and greater regularity of work. This system is particularly adapted to reaching those laborers who
+would not themselves rise to the demands of productive co-operation.
+
+The principle was tried on one of the Belgian railways. “Ninety-five kilogrammes of coke were consumed for every league
+of distance run, but this was known to be more than necessary; but how to remedy the evil was the problem. A bonus of
+3-½d. on every hectolitre of coke saved on this average of ninety-five to the league was offered to the men concerned,
+and this trifling bonus worked the miracle. The work was done equally well, or better, with forty-eight kilogrammes of
+coke instead of ninety-five; just one half, or nearly, saved by careful work, at an expense of probably less than one
+tenth of the saving.”[^329]
+
+The experiment which has attracted most attention in the past has been that of the Messrs. Briggs, at their collieries
+in Yorkshire, England.[^330] The relations between the owners and the laborers were as bad as they could well be. “All
+coal-masters is devils, and Briggs is the prince of devils,” ran the talk of the miners, when they did not choose to
+send letters threatening to shoot the owners. In 1865 Messrs. Briggs tried the plan of an industrial partnership with
+their men, purely from business considerations. Seventy per cent of the cost of raising coal consisted of wages, and
+fully fifteen per cent of materials which were habitually wasted. The whole property \[pg 530\] was valued, and divided
+into shares of $50 each, of which the owners retained two thirds, together with the control of the business. The
+remaining one third of the shares was offered to the employés. If any subscriber was too poor to pay $50 for a share,
+the subsequent dividends and payments were to be applied to purchasing the share. After reserving a fair allowance for
+expenses, like the redemption of capital, whenever the remaining profits exceeded ten per cent on the capital, that
+excess was to be divided into two equal parts, one of which was to be distributed among all persons employed by the
+company in proportion to their wages, and the other was to be retained by the capital. In previous years but once had
+they made ten per cent profit on their capital, and twice only five per cent. In the first year after the new system
+came into operation, the total profits were fourteen per cent, and the four per cent of excess was divided, two to the
+laborers' bonus, and two to the capital, so that capital received twelve per cent. In the second year the profits were
+sixteen per cent, in the third year seventeen per cent; the first year the work-people received in addition to their
+wages $9,000, in the second $13,500, in the third $15,750. The moral effect was striking. Work was done regularly,
+forbearance was exercised, habits improved, and the faces of the men were set toward improvement in life. The scheme
+worked successfully for years, but was finally ended by the pressure of the outside trades-unions, who compelled the
+workmen to give up the arrangement.
+
+A similar experiment was tried by the Messrs. Brewster, carriage-manufacturers, of New York. They offered to their
+workmen ten per cent of their profits, before any allowance was made for interest on the capital invested, or before any
+payment was made for the services of the firm as managers. In one year as much as $11,000 was divided among the
+laborers. Again, as in the case of the Briggs colliery, the experiment was brought to an end by an unreasoning
+submission to the pressure of outside workmen during a strike.[^331]
+
+But, all in all, industrial partnership[^332] offers a great field for \[pg 531\] that kind of improvement which is
+worth more than a mere increase of wages, and seems to make it possible to reach the heavy weight of sluggishness among
+the lower and more hopeless strata of society. And it is possible that it will stir in them the powers which may
+afterward find employment in the harder problems of productive co-operation.[^333]
+
+\[pg 532\]
+
+## § 7. People's Banks.
+
+In Germany the struggle between the two theories—self-help and state-help—was fought out by Schultze-Delitsch—that is,
+Schultze of Delitsch, a town in Saxony—and Lasalle, and the victory given to the former. Schultze-Delitsch, as a
+consequence, was successful in directing the co-operative principle in Germany to giving workmen credit in purchasing
+tools, etc., when he had no security but his character. This form of co-operation works to give the energetic and
+industrious workmen a lever by which, through the possession of credit, they can raise themselves to the position of
+small capitalists, and thus widen the field of possible improvement. While the former schemes of co-operation described
+above have given the wages-receivers a share of the unearned increment from land, and tend to give them a share of the
+manager's wages, the plan of Schultze was to assist them to gain a share in the advantages belonging to the possession
+of capital. The capital was to be accumulated by their own exertions, and, in his scheme depended on the principle of
+self-help. The following is the plan of banks adopted:
+
+“Every member is obliged to make a certain weekly payment into the common stock. As soon as it reaches a certain sum he
+is allowed to raise a loan exceeding his share in the inverse ratio of the amount of his deposit. For instance, after he
+has deposited one dollar, he is allowed to borrow five or six; but, if he had deposited twenty dollars, he is allowed
+only to borrow thirty. The security he is compelled to offer is his own and that of two other members of the
+association, who become jointly and severally liable. He may have no assets whatever beyond the amount of his deposits,
+nor may his guarantors; the bank relies simply on the character of the three, and the two securities rely on the
+character of their principal; and the remarkable fact is, that the security has been found sufficient, that the interest
+of the men in the institutions and the fear of the opinion of their fellows has produced a display of honesty and
+punctuality such as perhaps is not to be found in the history of any other banking institutions. Such is the confidence
+inspired by these institutions that they hold on deposit, or as loans from third parties, an amount exceeding by more
+than three fourths the total amount of their own capital. The \[pg 533\] monthly contributions of the members may be as
+low as ten cents, but the amount which each member is allowed to have in some banks is not more than seven or eight
+dollars, in none more than three hundred dollars. He has a right to borrow to the full amount of his deposit without
+giving security; if he desires to borrow a larger sum, he must furnish security in the manner we have described. The
+liability of the members is unlimited. The plan of limiting the liability to the amount of the capital deposited was
+tried at first, but it inspired no confidence, and the enterprise did not succeed till every member was made generally
+liable. Each member, on entering, is obliged to pay a small fee, which goes toward forming or maintaining a reserve
+fund, apart from the active capital. The profits are derived from the interest paid by borrowers, which amounts to from
+eight to ten per cent, which may not sound very large in our ears, but in Germany is very high. Not over five per cent
+is paid on capital borrowed from outsiders. All profits are distributed in dividends among the members of the
+association, in the proportion of the amount of their deposits—after the payment of the expenses of management, of
+course—and the apportionment of a certain percentage to the reserve-fund. Every member, as we have said, has a right to
+borrow to the extent of his deposit without security; but then, if he seeks to borrow more, whether he shall obtain any
+loan, and, if so, how large a one, is decided by the board of management, who are guided in making their decision just
+as all bank officers are—by a consideration of the circumstances of the bank as well as those of the borrower. All the
+affairs of the association are discussed and decided in the last resort by a general assembly composed of all the
+members.”[^334] The main part of the capital loaned by the banks is obtained from outside sources on the credit of the
+associations. In 1865 there were 961 of these institutions in Germany; in 1877 there were 1,827, with over 1,000,000
+members, owning $40,000,000 of capital, with $100,000,000 more on loan, and doing a business of $550,000,000.[^335]
+
+\[pg 537\]
+
+* * *
+
+[^306]: “Leading Principles,” pp. 278-280.
+
+[^307]: “Progress of the Working-Classes in the Last Half-Century” (1884), being his inaugural address as President of the London Statistical Society, November 20, 1883.
+
+[^308]: 1825.
+
+[^309]: 1825.
+
+[^310]: Wages per day.
+
+[^311]: Wages per day.
+
+[^312]: Year 1878.
+
+[^313]: These mills have not been able to pay ten per cent regularly, as mentioned in Chart No. [XIX](1129008759595750428_30107-h-11.html.xhtml#Chart_XIX), but it has merely been supposed that ten per cent were demanded by capital, in order to show that, for such a dividend, it required a diminishing proportion of the price to meet that estimate.
+
+[^314]: [Book II, Chap. V, § 5](1129008759595750428_30107-h-4.html.xhtml#Book_II_Chapter_V_Section_5); see also “North American Review,” May, 1884, p. 517.
+
+[^315]: For the influences of small properties in restraining an undue increase of population, see supra, p. [119](1129008759595750428_30107-h-3.html.xhtml#Pg119). For a more general account of the benefits arising from such holdings, consult Mill's original work, Book II, Chaps. VI and VII, and T. E. Cliffe Leslie's “Land Systems.”
+
+[^316]: Cf. E. L. Godkin, “North American Review,” 1868, p. 150.
+
+[^317]: Fawcett, “Manual of Political Economy” (last edition), chapter on Co-operation.
+
+[^318]: Giffen, “Progress of the Working-Classes in the Last Half-Century,” p. 19.
+
+[^319]: “History of Co-operation in England” (2 vols., 1879), p. 105.
+
+[^320]: Mr. Holyoake (“History of Co-operation in England,” p. 99) quotes as follows from another's experience: “My own pass-book shows that I paid on November 3d, of last year (1860), £1 to become a member of a co-operative store. I have paid nothing since, and I am now credited with £3 16s. 6d., nearly three hundred per cent on my capital in a single year. Of course, that arises from my purchases having been large in proportion to my investment. In a co-operative store you get five per cent upon the money which you invest as a shareholder; and, if the store be well conducted, you will get seven and a half per cent addition.”
+
+[^321]: For a full account of the proper steps to be taken in establishing a store, with many practical details, see Charles Barnard's “Co-operation as a Business,” p. 119.
+
+[^322]: Cf. Walker, “Wages Question,” p. 276.
+
+[^323]: Godkin, “North American Review,” 1868.
+
+[^324]: “History of Co-operation,” vol. ii, chap. ix.
+
+[^325]: Holyoake, “History of Co-operation,” p. 131.
+
+[^326]: Godkin, “North American Review,” 1868.
+
+[^327]: Pp. 27, 31, 32.
+
+[^328]: Barnard, “Co-operation as a Business,” pp. 150-152.
+
+[^329]: Holyoake, “History of Co-operation,” p. 235.
+
+[^330]: See Thornton, “On Labor,” p. 370. Also see “Parliamentary Documents,” 1868, 1869, xxxi; “Trades-Unions of England,” by the Count de Paris; Brassey's “Work and Wages,” chap. xiii.
+
+[^331]: See Walker, “Wages Question,” p. 283. Also see Mill, Book IV, Chap. VII, § 5, for an account of M. Leclaire's experiments in France with house-painters.
+
+[^332]: See also Von Böhmert, “Gewinnbetheiligung,” second edition, 1878, and Jevons's “Methods of Social Reform” (1883). Professor Jevons (“The State in Relation to Labor,” pp. 146, 147) has given a brief bibliography, which I reproduce here:
+
+    Charles Babbage, “Economy of Manufactures,” chap. xxvi; H. C. Briggs, “Social Science Association,” 1869; H. C. and A. Briggs, “Evidence before the Trades-Union Commission,” March 4, 1868, Questions 12,485 to 12,753 \[Parliamentary Documents\]; “The Industrial Partnerships Record”; Pare, “Co-operative Agriculture” (Longmans) 1870; Jean Billon, “Participation des Ouvriers aux Bénéfices des Patrons,” Genève, 1877; Fougerousse, “Patrons et Ouvriers de Paris” (Chaix), 1880; Sedley Taylor, “Society of Arts Journal,” February 18, 1881, vol. xxix, pp. 260-270; also in “Nineteenth Century,” May, 1881, pp. 802-811, “On Profit-Sharing”; J. C. Van Marken, “La Question Ouvrière: Essai de Solution Pratique” (Chaix) 1881.
+
+[^333]: In his last edition of his “Manual,” Professor Fawcett thus describes a co-operative experiment in agriculture: “The one that has attracted the most attention was made nearly forty years since by Mr. Gurdon, on his estate at Assington, near Sudbury, in Suffolk. Mr. Gurdon was so much impressed with the miserable condition of the agricultural laborers who were employed on his estate, that he was prompted to do something on their behalf. When, therefore, one of his farms became vacant, he offered to let it at the ordinary rent, £150 a year, to the laborers who worked upon it. As they, of course, had not sufficient capital to cultivate it, he in the first instance loaned them the requisite stock and implements. The laborers were, in fact, formed into a company in which there were eleven shares, and no laborer was permitted to hold more than one share. The plan was so eminently successful that in a few years sufficient had been saved out of the profits to repay all that had been advanced, and the stock and implements became the property of the laborers. Each share greatly increased in value. Mr. Gurdon was so much encouraged, not only by the pecuniary advantages secured to the laborers, but also by the general improvement effected in their condition, that some years afterward he let another and a larger farm on similar terms. Although no statement of accounts has ever been published, the remarkable pecuniary advantages secured to the laborers is proved by the fact that, after enjoying at least as high wages as were paid in the district, they were able in a few years to become the owners of a valuable property, consisting of the stock and implements on the farms. One of the most significant and hopeful circumstances connected with the experiment is, that it was not carried out by a picked body of men; and if so much could be done by laborers who were probably among the worst educated in the country, it maybe fairly concluded, that when the intelligence of our rural population has been better developed, co-operation may be applied in a more complete form to agriculture, and with even more striking results than were obtained at Assington.... In the description which has been frequently given of the system of peasant proprietorship, it is shown how powerfully the industry of the laborer is stimulated by the feeling of property. When he cultivates his own plot of ground, he exerts himself to the utmost, because he knows that he will enjoy all that is yielded by his labor. Each year, with the extended use of machinery in agriculture, it is becoming more advantageous to carry on farming on a large scale. When, therefore, co-operative agriculture becomes practicable, land may be cultivated by associations of laborers, and thus many of the advantages associated with the system of peasant proprietorship may be secured, while at the same time the disadvantages of small farming may be avoided. The progress toward co-operative agriculture will no doubt be slow and gradual.”
+
+[^334]: Godkin, “North American Review,” 1868. Also see Hermann Schultze-Delitsch, “Die Entwickelung des Genossenschaftswesens in Deutschland” (1870). This eminent philanthropist died April 29, 1883. For other forms of co-operation, building associations, etc., see Barnard, “Co-operation as a Business”; Pajot, “Du Progrès par les Sociétés de Secours Mutuels” (1878).
+
+[^335]: See “Economics of Industry,” by Mr. and Mrs. Marshall, p. 223.

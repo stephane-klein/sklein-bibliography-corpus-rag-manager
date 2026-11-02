@@ -1,0 +1,219 @@
+---
+source_url: https://www.youtube.com/watch?v=c86BtYw21RM
+video_title: LE PARADOXE DE BERTRAND - Axiome 3 (extraits)
+generated_at: 2026-09-19T09:30:13.608Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 114.9
+  input_tokens: 4506
+  cached_input_tokens: 4480
+  output_tokens: 3760
+  estimated_cost_usd: 0.001069
+  finish_reason: stop
+---
+
+# LE PARADOXE DE BERTRAND - Axiome 3 (extraits)
+
+## Le paradoxe de Bertrand (variante) et les probabilités a priori
+
+Vous le savez peut-être, le quatrième épisode d'Axiome est sorti sur la chaîne
+que nous avons créée. Il y a du lourd dans cet épisode : on y dit du mal des
+moustiques, de la démocratie et même de la théorie des ensembles. C'est une
+émission engagée. Je voulais donc vous faire un petit montage d'extraits, comme
+je le fais généralement une fois par mois. Mais pour une fois, je ne vais pas le
+faire à partir de ce dernier épisode. Je voulais plutôt revenir sur un bon petit
+paradoxe des familles, dont on avait parlé dans l'axiome précédent, dans
+l'AXIOME 3. C'est le paradoxe de Bertrand, ou en fait une variante du paradoxe
+de Bertrand. Je parle aussi un moment d'un paradoxe bien connu des
+épistémologues : le paradoxe du bleu de Goodman. Enfin, bref, vous voyez que
+l'on s'amuse bien. Je vous laisse découvrir tout ça, et si ça vous plaît,
+n'hésitez pas à aller sur la chaîne Axiome pour regarder nos podcasts en entier.
+
+### Le problème des cubes et des paris
+
+Je vais présenter une variante un peu différente de celle qui est dans la vidéo,
+mais qui lui ressemble beaucoup dans l'esprit. L'idée est la suivante : imaginez
+que vous avez une machine qui fabrique des cubes. La seule chose que vous savez
+à propos des cubes que fait cette machine, c'est que ce sont des cubes dont
+l'arête est comprise entre 1 et 10. C'est le seul truc que vous savez.
+
+Maintenant, on vous propose un pari. Vous devez parier sur le fait que le
+prochain cube qui sort de la machine ait soit une arête comprise entre 1 et 7,
+soit une arête comprise entre 7 et 10. Qu'est-ce que vous allez parier ? Je
+pense qu'à peu près tout le monde a envie de dire qu'il faut parier sur l'arête
+étant entre 1 et 7. Visuellement, vous pouvez vous dire : entre 1 et 7, il y a
+6, et entre 7 et 10, il n'y a que 3. Donc, même temps, on aurait presque envie
+de dire qu'il y a deux fois plus de chances que ça tombe sur un cube dont
+l'arête est comprise entre 1 et 7 plutôt qu'entre 7 et 10.
+
+Ensuite, deuxième question, deuxième pari. On vous propose un autre pari : cette
+fois, l'information donnée concerne son volume. On va dire que son volume est
+peut-être compris, a priori, entre 1 et 1000 (puisque 10^3 = 1000). Le pari
+qu'on propose, c'est : vous pariez sur le fait que le cube qui va sortir aura un
+volume compris soit entre 1 et 343 (car 7^3 = 343), soit entre 343 et 1000.
+C'est le même genre de pari. Et là, je pense que, intuitivement, on a envie de
+se dire, surtout si on ne vous a pas posé la question précédente (car le fait de
+vous avoir posé l'autre question influence évidemment votre jugement), qu'il
+vaut mieux parier sur le volume étant entre 1 et 343 plutôt que contre.
+
+### L'incohérence et le problème des lois de probabilité
+
+Le truc un peu curieux, c'est que les deux réponses ne sont pas cohérentes.
+Parce que j'ai décrit la *même situation* dans les deux cas, juste de façon
+différente. Dire qu'un cube a une arête comprise entre 1 et 10, c'est exactement
+la même chose que dire que son volume est compris entre 1 et 1000. Et dire que
+son arête sera comprise entre 1 et 7, ça revient à dire que le volume est
+compris entre 1 et 343, ce qui est strictement inférieur à 343. Donc, les plages
+343 et 1-1000 reviennent à la même chose que 7-10 pour l'arête.
+
+C'est ça qui est très curieux : on a l'impression que la façon dont on va
+décrire le cube qui sort de la machine va influencer notre perception des
+probabilités. En fin de compte, on ne sait pas quel est le meilleur des deux
+paris. Concrètement, maintenant que vous voyez tout ça, sur quoi vous pariez si
+je vous propose le même pari (il faudrait juste que je transforme 350 en 343
+dans le deuxième exemple) ? Sur quoi est-il rationnel de parier ? On a le
+sentiment que ce ne serait pas irrationnel de choisir l'un des deux, pourtant,
+il y a bien une probabilité *a priori* concernant la forme du cube.
+
+Toute la question est : qu'est-ce qu'est cette probabilité *a priori* ? La
+philosophie bayésienne, c'est justement essayer de déterminer quelles sont les
+lois de probabilité adéquates pour décrire les différents phénomènes. Dans notre
+exemple, quelle est la bonne loi de probabilité sur le côté du cube ou sur son
+volume ? En particulier, lorsqu'on dit qu'un nombre est "aléatoire" entre 1 et
+10 ou entre 1 et 1000, en fait on ne dit rien. Le mot "aléatoire" ne veut rien
+dire ; il ne décrit pas la loi de probabilité qui va se passer.
+
+### Le problème du choix de la mesure
+
+Si on me dit qu'il y a un cube dont le côté est compris entre 1 et 10, par
+défaut, j'ai envie de me dire : bon, ok, il est sans doute plus probable qu'il
+soit autour de 5 ou 6, qu'autour de 1 ou 10. Me dire que c'est "aléatoire entre
+1 et 10" ne me dit pas qu'il est uniformément distribué entre 1 et 10. C'est un
+concept important : la distribution uniforme. Si on dit que le cube a un côté
+entre 1 et 10 de façon *uniforme* (le côté est distribué uniformément), c'est
+une chose. Alors que si on dit que le *volume* est uniformément aléatoire, c'est
+une autre distribution qui lui correspond.
+
+Le saut est intéressant, c'est qu'on a l'impression que ça ruine un peu l'idée
+qu'on ait un sens à parler de probabilités a priori. Si je décris un cube et je
+vous donne une information circulaire ("entre 1 et 10"), quelle que soit
+l'information que je vous donne, il est difficile de se retenir de former des
+probabilités a priori à propos de la taille de ce cube.
+
+### L'approche bayésienne : l'incertitude sur l'incertitude
+
+Un des trucs intéressants dans l'histoire de la philosophie, c'est ce qu'a fait
+Laplace. Un des trucs marquants avec Laplace, c'est d'avoir décrit l'incertitude
+*sur* l'incertitude. C'est exactement ça : il faut faire, en fait, une hypothèse
+sur la loi de probabilité. Quelle est la distribution de probabilité la plus
+probable ? C'est exactement là-dessus que Laplace a travaillé.
+
+Laplace a imaginé un problème très simple : on a une urne, on saut qu'il y a des
+boules blanches et des boules noires dedans. On tire une boule blanche, par
+exemple, et on se demande quelle était la probabilité de tirer une boule
+blanche. Là, c'est une question *sur* la probabilité. C'est une incertitude sur
+la probabilité, et c'est vraiment le cœur du raisonnement bayésien. C'est de
+dire que les probabilités, on ne les connaît pas, mais on peut poser un a priori
+*sur* les probabilités, et on peut appliquer ensuite le théorème de Bayes.
+Imaginez que c'est beaucoup plus compliqué, parce qu'on fait pas juste un
+théorème de Bayes sur des propriétés, mais sur des probabilités elles-mêmes.
+
+### L'objection de la simplicité et le paradoxe du "bleu"
+
+Un autre chercheur, Solomonoff, a eu l'idée d'imaginer toutes les probabilités
+calculables possibles. L'idée est d'imaginer que chaque loi de probabilité est
+décrite, en fait, par une description, un algorithme. On appelle ça l'ensemble
+des théories possibles. Pour un bayésien, il faut lui redonner des priorités
+(des poids a priori) de telle façon que la somme des probabilités a priori soit
+égale à 1. Comme c'est une somme infinie de termes tous positifs, égale à 1 (qui
+est finie), ça implique que la probabilité d'une théorie donnée tend vers zéro.
+Plus une théorie est longue et complexe, moins elle est probable a priori.
+
+C'est intéressant, car ça renvoie bien à un autre paradoxe évoqué à la fin de la
+vidéo des deux philosophes : le paradoxe du "bleu" de Nelson Goodman, qui en
+parle dans un livre intitulé *Fact, Fiction, and Forecast*. Goodman renouvelle
+la façon de penser le problème classique de l'induction : pourquoi est-ce que si
+on observe plein d'émeraudes qui sont vertes, ça renforce notre croyance que les
+émeraudes en général sont vertes ? C'est un raisonnement qui n'est pas
+absolument valide.
+
+La façon dont Nelson Goodman a formulé ce problème était très intéressante. Il
+disait que nous utilisons pour décrire nos observations (les émeraudes que nous
+observons sont vertes) et pour formuler notre prédiction (toutes les émeraudes
+sont vertes) le prédicat "vert". Mais le fait même d'utiliser le prédicat "vert"
+est discutable. On pourrait tout à fait avoir un prédicat étrange, appelé "bleu"
+(*bleen* en anglais), qu'on pourrait décrire ainsi : il désigne tout ce qui est
+vert jusqu'à une certaine date, disons 2050, et à partir de 2050, ça se met à
+désigner tout ce qui est bleu.
+
+Ce qui est intéressant, c'est que toutes les observations passées d'émeraudes
+vertes, qu'on a rapportées ("les émeraudes sont vertes"), pourraient aussi bien
+être formulées en disant "les émeraudes sont *bleues*" (selon la définition du
+prédicat *bleen*). Et donc, par généralisation, on pourrait dire : "toutes les
+émeraudes sont *bleues*". Évidemment, ces deux prédictions sont différentes, car
+dire "toutes les émeraudes sont *bleues*" n'est vrai que si en 2050 les
+émeraudes cessent d'être vertes et deviennent *bleues*. C'est également cohérent
+avec les observations passées, mais ça fait une autre prédiction qui nous paraît
+fausse, évidemment.
+
+Voilà une tension dans le fait qu'il y a déjà de l'induction dans le choix du
+langage. C'est un truc super intéressant. Une objection classique est
+qu'évidemment, "bleu" est super compliqué et absurde. Donc, il faut privilégier
+des prédicats simples. La réponse intéressante de Goodman est : imaginons un
+second prédicat qui serait l'inverse du bleu, le "blair" (*blair*), qui désigne
+tout ce qui est bleu jusqu'à 2050, et à partir de 2050, tout ce qui est vert.
+Une fois qu'on a les prédicats "vert" et "bleu" d'un côté, et "blair" et "bleu"
+de l'autre, lesquels sont les plus simples ? Tu peux très bien décrire le
+prédicat "vert" en utilisant seulement les prédicats "blair" et "bleu", et
+réciproquement.
+
+Je n'ai jamais été totalement convaincu par cet argument, car on sent bien qu'il
+y a une complexité supplémentaire. Au fond, c'est ça le cœur du truc : "vert"
+est plus simple, il y a moins d'information, et donc c'est un meilleur prédicat
+pour cette raison-là. Mais c'est pas tout à fait satisfaisant.
+
+### Pour revenir à l'exemple du cube
+
+Pour revenir à l'histoire du pari sur la taille du cube, il y a un concept que
+je trouve très intéressant, mais avant d'y répondre : ce qui est intéressant
+avec l'approche de Laplace, c'est qu'on projette des probabilités sur des
+probabilités. C'est que je suis capable de mesurer mon incertitude sur le pari
+que je vais faire, et notamment sur un truc pour lequel je vais mettre à jour
+mes croyances en fonction du coup. Je vais parier, et même si je suis forcé de
+parier, je pourrai ensuite, si on me force à parier encore, faire des calculs
+bayésiens.
+
+Je pense qu'à priori, les probabilités seraient plus uniformes sur le côté que
+sur les volumes. Mais la réponse est sans doute dans le processus de
+fabrication, dans la façon dont l'usine est posée. Évidemment, il y a une
+réponse qui serait simplement : on va faire des statistiques sur les cubes qui
+sortent de l'usine, et à un moment donné, on connaîtra la loi de probabilité.
+C'est presque plus intéressant si on parle juste d'un cube, par exemple si je
+dessine un cube.
+
+Je peux prendre en compte le fait que ce soit toi qui me poses la question, que
+tu es en train de me piéger sur YouTube. C'est intéressant. Si tu me dis juste
+"j'ai fait un cube, son côté est compris entre 1 et 10", je sais que tu as un
+biais potentiel. Tu n'es pas sûr que ça va de soi, que la disposition sera
+uniforme. En fait, tu n'utilises pas seulement l'information que je te donne, tu
+utilises aussi tout le contexte. Ce n'est pas une information prise au hasard à
+propos de toutes les informations possibles. Tu utilises aussi le fait que tu es
+en train de me piéger, ton esprit malveillant, et le désir de me torturer sur
+des vidéos YouTube.
+
+### Conclusion
+
+Voilà pour ce petit montage d'extraits. Merci à l'équipe de se laisser torturer
+régulièrement. Pour résumer, on a parlé du "paradoxe du cube de Bertrand", qui
+est un paradoxe de type paradoxe de Bertrand, mais qui n'est pas le paradoxe de
+Bertrand originel. Le paradoxe proposé par le mathématicien Joseph Bertrand en
+1889 était en fait assez différent : il tournait autour de la notion de cordes
+prises au hasard dans un cercle. Sur ce paradoxe précis, il y a une très bonne
+vidéo de Professeur Culture Preciuse, qui n'est pas facile à trouver parce que
+le titre n'est pas du tout explicite. Ce serait bien, pour le référencement, de
+mettre "paradoxe de Bertrand" dans le titre – petite suggestion.
+
+Enfin, bref, si cet extrait vous plaît, pourquoi pas aller voir les podcasts
+complets qui sont beaucoup plus longs, vous abonner à la chaîne, commenter et
+liker. Enfin bref, vous connaissez tout ça. Je vous souhaite plein de bonnes
+choses. Au revoir.

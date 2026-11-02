@@ -1,0 +1,1151 @@
+---
+source_url: https://www.youtube.com/watch?v=nWD6bzcz0n8
+video_title: Les marchés financiers, la titrisation et les crédit subprimes
+generated_at: 2026-09-20T18:30:40.009Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 78.5
+  input_tokens: 27129
+  cached_input_tokens: 0
+  output_tokens: 21828
+  estimated_cost_usd: 0.017166
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Les marchés financiers, la titrisation et les crédit subprimes
+
+Nous allons reprendre aujourd'hui cette série de conférences intitulée « La
+monnaie, la dette et la crise ». Dans cette conférence, nous allons plus
+particulièrement nous intéresser à la crise des subprimes, à la crise financière
+de 2007-2008, qui va ensuite dégénérer en crise économique, puis, en Europe,
+avec la crise des dettes souveraines. L'objectif est d'expliquer ce moment de
+basculement, parce que c'est justement un moment où le monétarisme, qui était en
+vogue dans les décennies précédentes, va s'arrêter. Il va s'arrêter non pas
+parce que les gens ont changé d'opinion, mais parce que les événements vont
+obliger les banquiers centraux à changer leur politique. Cette crise des
+subprimes, nous allons donc l'expliquer, et nous allons revenir sur ce que sont
+les crédits subprimes qui ont commencé à engendrer la faillite.
+
+Mais avant cela, j'ai besoin de vous donner quelques éléments de compréhension
+du fonctionnement des marchés financiers, parce que ce sont ces éléments qui
+vont nous permettre de comprendre les mécanismes de la crise. Nous allons
+essayer de regarder deux choses. D'abord, nous allons répondre à une question
+qui est de savoir ce que sont les marchés financiers, parce qu'on parle des
+marchés financiers, mais en fait on ne distingue pas toujours les différentes
+formes de marchés financiers, les différents types de transactions et les
+différents types de titres qui s'échangent sur les marchés financiers. Ensuite,
+nous répondrons à une deuxième question qui paraît aussi un peu bizarre, mais
+qui est très intéressante : à quoi servent les marchés financiers ?
+
+Cette conférence est vraiment basée sur ce livre. Je vous en ai déjà parlé la
+semaine dernière, puisqu'il y a un chapitre consacré exclusivement à la crise
+des subprimes. Moi-même, pour refaire cette conférence, je suis revenu à ce que
+nous avons écrit, aux chiffres et tout cela, et je vais aussi m'appuyer, à
+certains moments, sur des graphiques que j'ai pu mettre dans le bouquin.
+
+Après avoir parlé de la nature et de la fonction des marchés financiers, nous
+verrons un peu plus dans le détail ce qui a déraillé en 2007, pourquoi, et
+quelles ont été les conséquences sur les banques. Nous évoquerons la question du
+risque systémique : qu'est-ce que c'est qu'un risque systémique ? D'où vient-il
+? Qu'est-ce que cela signifie ? Quelles en sont les implications ? Et nous nous
+arrêterons là. La semaine prochaine, nous parlerons des politiques des banques
+centrales durant cette crise, et de la manière dont elles ont été amenées à
+changer. J'ai décomposé en quelque sorte cette réflexion sur la crise financière
+en deux : d'abord la description de la crise, ensuite les réactions des banques
+centrales et des gouvernements à la crise.
+
+## Qu'est-ce que les marchés financiers ?
+
+Première question : qu'est-ce que les marchés financiers ? Il faut d'abord dire
+que le marché financier est un lieu d'échange, comme tous les marchés. Qu'est-ce
+qu'on échange sur les marchés financiers ? C'est un peu tautologique, mais on
+échange des titres financiers. Alors, qu'est-ce que c'est qu'un titre financier
+? Un titre financier, c'est un contrat, un contrat standardisé. Qu'est-ce que
+cela veut dire ? Cela veut dire que ce qu'on échange sur les marchés financiers,
+ce sont des contrats qui impliquent des engagements, mais comme ces contrats
+sont standardisés, c'est le détenteur du contrat qui doit s'engager à réaliser
+quelque chose.
+
+Par exemple, une chose qu'on échange souvent, ce sont des actions. Une action,
+qu'est-ce que c'est ? C'est une forme de contrat, puisque cela veut dire qu'avec
+cette action je dois bénéficier du dividende et je peux participer à l'assemblée
+générale des actionnaires. On peut échanger aussi des contrats d'un autre type,
+assez particuliers, que l'on appelle des titres dérivés.
+
+Ces marchés financiers ont aussi la particularité d'échanger ces titres à des
+prix négociables. Des prix négociables, cela veut dire que le prix peut varier
+en fonction des rapports de force entre l'offre et la demande à l'instant où ils
+sont échangés. Une des choses importantes dans le marché financier, c'est que
+tout ce qu'on échange, on en détermine le prix en même temps qu'on l'échange.
+
+Une fois qu'on a défini les marchés financiers comme un lieu d'échange de
+titres, qui sont des contrats standardisés et négociables, il y a deux manières
+d'organiser ces échanges. La première manière, ce sont les transactions de gré à
+gré. La transaction de gré à gré, c'est le principe d'un échange qui se fait
+sans aucune supervision entre deux entités, deux personnes. Cela veut dire :
+j'échange mon action avec quelqu'un d'autre, mais sans que cela passe par un
+marché qu'on appelle un marché organisé. Ces contrats de gré à gré, la plupart
+du temps, ce n'est pas comme cela qu'on échange un titre financier. En général,
+pour échanger un titre financier, on fait appel à un courtier qui va lui-même
+organiser des échanges. Ce courtier, c'est souvent une banque. Vous demandez à
+votre banque d'acheter tel titre et elle va le faire en passant par un marché
+organisé.
+
+Le marché organisé, c'est différent : il y a un prix de marché qui est déterminé
+par l'organisation qui organise le marché. Par exemple, la Bourse de Paris
+organise les échanges de titres, d'actions, entre différentes personnes.
+Attention : la Bourse de Paris n'est pas équivalent au CAC 40. Souvent, on
+résume le CAC 40 comme la Bourse de Paris, mais ce n'est pas vrai. Sur la Bourse
+de Paris, on peut échanger beaucoup d'actions, des actions de toutes les
+sociétés françaises par action, par action négociable. Attention, il y a
+quelques sociétés françaises dont les actions ne s'échangent pas, parce que
+toutes les actions, par exemple, sont détenues par une entité. Dans ce cas, il
+n'y a pas d'échanges. Mais dans beaucoup de sociétés par action, il y a une
+partie des titres qui sont dits flottants, c'est-à-dire qu'ils peuvent être
+échangés librement, qui ne sont pas détenus par un actionnaire majoritaire ou
+exclusif.
+
+Cela veut dire qu'à la Bourse de Paris, on peut échanger les actions de très
+nombreuses entreprises, beaucoup plus que 40. Le CAC 40 n'est que ce qu'on
+appelle un indice boursier, c'est-à-dire une sorte de poule des plus grandes
+sociétés françaises par action dans lesquelles il y a des échanges. Je dis bien
+« dans lesquelles il y a des échanges », parce que par exemple la SNCF est aussi
+une société par action, mais toutes les actions sont détenues par l'État.
+Forcément, si toutes les actions sont détenues par l'État, il n'y a pas
+d'échange, et donc la SNCF n'appartient pas à la Bourse de Paris. Elle n'est pas
+en bourse, mais c'est une société par action dans laquelle tout le capital est
+détenu par l'État. EDF, jusqu'à récemment, était détenu à 86 % par l'État, donc
+il y avait encore 16 % des actions qui s'échangeaient sur les marchés, et
+c'était suffisamment important pour qu'EDF appartienne à la Bourse de Paris.
+Depuis septembre, l'État a annoncé la nationalisation totale d'EDF, c'est-à-dire
+qu'il a racheté sur les marchés les actions qui lui manquaient, et maintenant
+l'État contrôle quasiment 100 % du capital d'EDF. Voilà ce qu'on va échanger sur
+les marchés organisés.
+
+Ces marchés organisés, on va les appeler les marchés boursiers. Le marché
+boursier, c'est le lieu où s'organisent les transactions des actions.
+
+## Le marché boursier, le marché obligataire et le marché des produits dérivés
+
+Voici comment on peut représenter les marchés financiers. On fait un grand
+rectangle, et on appelle cela les marchés financiers. On le découpe en deux :
+ici le gré à gré, ici les marchés organisés. Les marchés organisés sont
+organisés par une institution, souvent une entreprise privée. D'ailleurs, la
+Bourse de Paris, c'est une entreprise privée qui organise des transactions
+d'actions sur la place de Paris.
+
+Les marchés organisés eux-mêmes vont être découpés en deux. D'un côté, on a le
+marché boursier. Sur le marché boursier, on échange quoi ? Des actions. Une
+action, c'est un titre financier qui donne droit à une rémunération sous forme
+de dividendes. On est copropriétaire d'une entreprise et on a une voix à
+l'assemblée générale des actionnaires. Donc le marché boursier, c'est l'endroit
+où s'échangent ces actions, et on devient actionnaire. Si vous voulez acheter
+une action de Total par exemple — cela vaut cher en ce moment — vous devenez
+actionnaire de Total, vous pouvez assister à l'assemblée générale et vous
+bénéficiez d'un dividende. Évidemment, cette année, il a déjà été distribué ; il
+faudra attendre l'année prochaine, en espérant que Total continue de faire des
+profits.
+
+Ensuite, on a le marché obligataire. Les marchés obligataires, c'est là où on va
+échanger les obligations. Les obligations, c'est un autre type de titre. J'ai
+oublié de mentionner qu'il y avait trois cases. Donc le marché boursier, c'est
+là où on échange les actions. On a un autre marché, le marché obligataire. On a
+un troisième marché, le marché des titres dérivés, ou produits dérivés.
+J'expliquerai ce que c'est que les produits dérivés tout à l'heure. On a ensuite
+les marchés obligataires, et là on a trois cases : les obligations publiques à
+long terme, les obligations privées, et le marché monétaire.
+
+Les obligations publiques, qu'est-ce que c'est ? C'est l'État lorsqu'il veut se
+refinancer, se financer simplement : il va émettre des obligations. Vous voyez
+bien la différence entre l'État et l'entreprise : l'État ne fait pas de profit,
+il ne verse pas de dividende, donc il est obligé de s'endetter en promettant à
+ceux qui le financent non pas un revenu de type profit ou dividende, mais un
+revenu de type intérêt. Un État qui veut emprunter n'emprunte pas de petites
+sommes : il emprunte des dizaines de milliards, voire des centaines de
+milliards. Évidemment, c'est difficile d'aller voir une banque et de dire : «
+Tiens, j'ai besoin d'un milliard pour payer mes fonctionnaires aujourd'hui. » La
+banque peut tirer la gueule. Un milliard, cela ne se trouve pas, même pour une
+banque ce n'est pas si facile.
+
+Donc que fait l'État ? Il va diviser son emprunt en plein de petits coupons
+qu'on appelle les obligations. C'est-à-dire qu'au lieu de trouver un milliard
+d'euros avec un seul prêteur, il va diviser son milliard d'euros en 100 millions
+de coupons de 10 euros. Aujourd'hui, il fait même plutôt un milliard de coupons
+de 1 euro. C'est intéressant parce que si vous voulez prêter beaucoup à l'État,
+vous achetez plusieurs coupons. Mettons qu'on a des coupures de 10 euros : vous
+voulez prêter 1 000 euros à l'État, vous achetez 100 coupons de 10 euros, vous
+prêtez 1 000 euros. Ce sont ces obligations, cette division de l'emprunt en
+différents petits coupons, qui s'appellent les obligations. Une obligation,
+c'est un coupon. En général, il a une maturité. La maturité, cela veut dire
+qu'il va être remboursé dans certaines périodes. L'État va plutôt emprunter — il
+peut emprunter à court terme avec des bons du Trésor, mais très souvent il va
+emprunter à 10 ans, à 20 ans, voire plus long terme. Cela va dépendre de sa
+stratégie, parfois il a besoin d'emprunter à long terme, cela va dépendre des
+taux d'intérêt. Il y a une stratégie : est-ce qu'on veut une dette qu'on doit
+rembourser dans quelques années, dans très longtemps ou dans quelques mois ?
+Cela dépend. La maturité peut être différente.
+
+Il va y mettre un coupon. C'est un contrat, donc le contrat va dire à quel
+moment et sur quel rythme on va être remboursé. En général, l'obligation est
+remboursée à l'échéance ; on n'est pas remboursé au fur et à mesure. Par contre,
+on peut avoir un intérêt qui est versé chaque année : c'est ce qu'on appelle un
+coupon annuel. Ou alors il peut être versé à la fin de la maturité. C'est
+l'Agence France Trésor qui décide de créer des coupons en fonction des besoins
+de financement de l'État, et elle va les proposer au marché financier. En
+France, cela s'appelle une adjudication. Ce n'est pas un port, mais un moment où
+six banques françaises, toutes françaises, peuvent participer à l'achat de ces
+obligations. C'est-à-dire que l'État ne va pas vendre directement cela à des
+millions de personnes ; il va sélectionner six banques à qui il va vendre ses
+coupons, mais ces banques vont agir au nom de clients. Elles ne vont pas acheter
+pour leur propre compte les obligations, elles vont acheter les obligations pour
+d'autres clients qui ont envie d'avoir des obligations.
+
+Le mécanisme finalement est assez simple : je suis un État, je vais emprunter
+beaucoup d'argent, je divise mon emprunt en plein de coupons, je passe par six
+intermédiaires qui sont des banques pour inonder en quelque sorte le marché de
+tous mes coupons en fonction des besoins que j'ai. C'est à ce moment-là que
+l'État va décider d'un taux d'intérêt qui va être en quelque sorte le rapport
+entre l'offre et la demande. On sait à peu près à quel taux d'intérêt les gens
+vont acheter, parce que tout cela, ce sont des produits standardisés, et on sait
+aujourd'hui combien valent les obligations, quels sont les taux d'intérêt
+auxquels on peut prêter. Aujourd'hui, en France, et tout l'intérêt de l'État
+français, c'est entre 2 et 3 %. Je n'ai pas regardé ce matin, j'aurais dû
+regarder à combien on est. Évidemment, cela dépend de la maturité. Le format
+standard des obligations publiques, c'est 10 ans, mais cela peut être beaucoup
+plus, cela peut être des années très différentes. C'est souvent 10 ans, c'est le
+standard. Donc les obligations publiques sont des obligations à long terme.
+
+On a bien sûr des obligations privées. Comment cela marche pour les obligations
+privées ? Là, il s'agit en général de grandes entreprises qui ont besoin de
+beaucoup de financements. Vous comprenez bien que le PMU du coin ne va pas aimer
+les obligations pour emprunter : il va aller voir son banquier pour 50 000
+euros. On ne va pas s'embêter à faire une émission d'obligations sur les marchés
+financiers pour 50 000 euros. Par contre, si vous êtes une entreprise de
+télécoms et que vous avez besoin de financer votre réseau 5G en construisant des
+pylônes sur toute la France, c'est évident que cela coûte plus que 50 000 euros,
+cela va coûter des millions d'euros. Dans ce cas, comment faites-vous ? Vous
+allez voir une banque d'affaires, vous lui dites : « Voilà, j'aimerais émettre
+pour 50 millions ou 100 millions d'euros d'obligations, débrouillez-vous, faites
+en sorte d'émettre sur les marchés financiers des coupons de 10 euros, de 5
+euros, de 1 euro, cela n'a pas d'importance. » Ce sont des obligations. Bien
+sûr, les émetteurs privés vont devoir rémunérer par un intérêt les détenteurs
+d'obligations, ceux qui achètent les coupons. Ce taux d'intérêt sera en général
+supérieur au taux d'intérêt des obligations publiques. Pourquoi ? Parce qu'il y
+a un risque de faillite. Alors que pour l'État, il y a un risque — l'État peut
+souverainement décider de ne pas rembourser sa dette, cela est déjà arrivé dans
+l'histoire — mais on va dire que le risque est plus faible, surtout pour l'État
+français par exemple, qui n'a quasiment jamais fait défaut dans son histoire
+depuis la Révolution française. Je ne sais pas s'il y a déjà eu un défaut
+français depuis la Révolution ; je pense qu'au moment de la Révolution il y a eu
+quelques défauts, mais après, après l'époque Napoléon, etc., depuis le XIXe
+siècle, je ne suis pas sûr. Donc on a un émetteur considéré comme fiable, pour
+qu'on considère que prêter à l'État est sans risque. Sans risque au niveau du
+défaut — j'en avais parlé la semaine dernière — mais pas au niveau de
+l'inflation, parce que souvenez-vous, le gain réel qu'on peut avoir après avoir
+prêté de l'argent dépend du niveau d'inflation. Donc c'est assez peu risqué pour
+l'État français.
+
+Quand vous achetez une obligation d'une entreprise privée, même si c'est une
+entreprise qui aujourd'hui a très bonne réputation, on ne sait jamais, parce que
+vous prêtez sur 10 ans et vous ne savez pas ce qui va se passer d'ici 10 ans.
+Donc là, les taux d'intérêt sont généralement supérieurs au taux d'intérêt
+public, parce qu'on ajoute ce qu'on appelle une prime de risque : une
+probabilité que vous ne soyez pas remboursé du fait du défaut, de la faillite de
+l'entreprise à qui vous avez prêté.
+
+Et vous avez une troisième case : les obligations monétaires, c'est ce qu'on
+appelle le marché monétaire. En fait, ce marché monétaire, on le connaît déjà
+parce qu'on en a parlé la semaine dernière. C'est des emprunts, des obligations
+à très court terme. Très court terme, cela veut dire à quelques jours, quelques
+semaines. En fait, on dit souvent aux obligations à moins d'un an : c'est du
+marché, cela relève du marché monétaire. Mais la plupart des obligations
+gouvernementales sont à moins d'une semaine, même pas. Qui a besoin d'emprunter
+à quelques jours, quelques semaines ? Les banques. C'est essentiellement des
+obligations que les banques s'émettent les unes aux autres. C'est ce qu'on
+appelait souvenez-vous le marché interbancaire. Le marché interbancaire, c'est
+le marché des banques les unes par rapport aux autres. C'est essentiellement des
+obligations très court terme, et qui participent donc — j'ai mis ici « court
+terme » — au marché monétaire.
+
+Alors ce taux d'intérêt, ici, c'est un taux d'intérêt — on l'a vu la semaine
+dernière — qui est calqué sur le taux de refinancement de la Banque centrale,
+puisque une banque a la possibilité soit de se financer auprès de la Banque
+centrale, et dans ce cas-là le taux d'intérêt qu'elle paiera c'est le taux de
+refinancement de la Banque centrale, soit — on l'a vu — elle peut se financer
+auprès d'autres banques, et le taux d'intérêt sera évidemment très proche. On
+peut penser que le taux d'intérêt des autres banques sera un peu supérieur au
+taux d'intérêt de la Banque centrale, parce qu'il y a une facilité : c'est plus
+facile de se financer auprès d'une collègue banque. Mais en fait, ce sera très
+très proche. Donc le marché monétaire, c'est pour cela que cela s'appelle le
+marché monétaire, parce que souvenez-vous, c'est la valeur de la monnaie en
+quelque sorte. On considère qu'ici on parle des transactions des banques à
+banque, donc on est souvenez-vous sur la base monétaire, ce n'est pas la masse
+monétaire, c'est la possibilité, c'est ce qui se passe entre les banques et la
+Banque centrale, ce circuit au sommet.
+
+Donc les marchés financiers, c'est tout cela. Excusez-moi, ce n'est pas très
+beau, mais en gros on a donc les marchés organisés, les marchés de gré à gré.
+Ensuite, dans les marchés organisés, on a le marché boursier, le marché
+obligataire et le marché des produits dérivés. Et au sein du marché obligataire,
+on a des obligations publiques, les obligations privées et le marché monétaire,
+avec en gros les obligations que s'échangent les banques à très court terme pour
+leur propre refinancement.
+
+## Les produits dérivés
+
+Je voudrais dire deux choses à propos de ce graphique. D'abord, expliquer ce que
+sont les marchés dérivés. C'est ce que, en général, vous avez plus de mal à
+connaître, et d'ailleurs moi aussi, en tant qu'étudiant, j'ai eu un peu de mal à
+comprendre comment fonctionnaient les marchés dérivés. Qu'est-ce que c'est qu'un
+produit dérivé ? Un produit dérivé, c'est pareil, c'est un contrat, mais c'est
+un contrat un peu particulier puisqu'il est dit « dérivé ». Cela veut dire que
+c'est un contrat qui relève d'un titre financier. Autrement dit, c'est un
+contrat sur un contrat. Vous allez voir qu'on peut emboîter les boîtes dans les
+boîtes, un peu comme les poupées russes.
+
+Je prends un exemple très simple. Aujourd'hui, vous voulez acheter une action
+d'une entreprise, mais pas maintenant : vous voulez l'acheter dans 6 mois.
+Qu'est-ce que cela veut dire ? Cela veut dire que vous allez négocier
+aujourd'hui le prix de l'action dans 6 mois. Vous allez faire un contrat prenant
+une action — je prends Total, on en avait parlé — donc je veux acheter une
+action Total dans 6 mois, j'en ai besoin dans 6 mois. Cela veut dire que vous
+avez négocié aujourd'hui un contrat qui dit que vous achèterez dans 6 mois
+l'action Total, mais à quel prix ? Et bien ce prix, vous l'avez négocié
+aujourd'hui. C'est ce qu'on appelle un futur, c'est-à-dire une opération à
+terme. Autrement dit, vous allez négocier un contrat qui dit que vous allez
+acheter une action Total dans 6 mois, et vous allez trouver quelqu'un avec qui
+nouer ce contrat. Ce que vous détenez n'est donc pas une action Total, mais une
+promesse d'acheter l'action Total dans 6 mois. Et bien cela, c'est un produit
+dérivé. C'est un produit dérivé parce qu'il est dérivé de l'action Total, mais
+ce n'est pas l'action Total. Ce que vous allez acheter, c'est un contrat sur
+l'action Total. Comme c'est un contrat, c'est un titre.
+
+Des produits dérivés, on peut en faire plein, on peut imaginer plein de choses.
+Il n'y a pas de limite à l'imagination qu'on peut avoir en matière de produits
+dérivés. Tenez, je vais vous parler d'un autre produit dérivé qui va nous
+intéresser tout à l'heure quand on parlera de la crise des subprimes : ce qu'on
+appelle les CDS. Un CDS, c'est un credit default swap ; en français, cela veut
+dire dérivé sur événement de crédit. Qu'est-ce que cela veut dire ? C'est un
+contrat qui nous garantit que la faillite d'une entreprise dont je détiens
+l'obligation sera compensée. C'est une forme de contrat d'assurance. Autrement
+dit, quand je détiens un CDS, je détiens un contrat qui me rembourse une somme
+forfaitaire s'il y a un événement de crédit d'une entreprise quelconque qui a
+émis des obligations.
+
+On comprend que détenir un CDS, c'est intéressant quand on détient une
+obligation. Par exemple, vous avez une obligation Total. Vous dites : «
+Peut-être que Total ne va pas me rembourser, j'ai peur, il y a un risque. » Par
+exemple, on interdit les moteurs essence, on interdit l'exploitation de pétrole,
+il peut y avoir des événements qui peuvent arriver, on ne sait jamais. Si vous
+détenez un CDS, cela veut dire que quand l'événement va apparaître, vous serez
+remboursé d'une somme forfaitaire. Du coup, quelque part, vous vous couvrez
+contre le risque de perte liée à la faillite d'une entreprise dont vous détenez
+des obligations.
+
+Mais je n'ai pas tout dit : il est possible d'acheter un CDS sans détenir
+l'obligation. On peut acheter un CDS en imaginant que vous pariez que Total va
+faire faillite dans 6 mois. Vous n'allez pas lâcher d'obligation Total, mais par
+contre vous achetez des CDS, et vous en achetez autant que vous pouvez. On peut
+se couvrir contre un risque qui n'existe pas, et dans ce cas-là, quand le risque
+arrive, on gagne plein d'argent. C'est le mécanisme de la spéculation.
+
+Les CDS sont des contrats, des titres financiers, donc ils ont une valeur, une
+valeur qui varie dans le temps en fonction des risques. La valeur du CDS va
+augmenter ou baisser : si le risque que Total fasse faillite augmente, bien sûr
+la valeur de ce CDS va augmenter, cela coûtera plus cher d'assurer sa
+couverture. Donc un dérivé de dérivé, qu'est-ce que cela veut dire ? Cela veut
+dire que j'achète à terme, j'achète pour 6 mois à un prix négocié aujourd'hui un
+CDS Total, et je gagne de l'argent si la valeur du CDS monte ou descend. Et la
+valeur du CDS va monter ou descendre en fonction de la probabilité que Total
+fasse faillite. En fait, c'est cela, des produits dérivés.
+
+Pour généraliser les choses, en fait c'est tout ce qu'on veut. Un produit
+dérivé, c'est un contrat qui vise à organiser une action sur les marchés
+financiers : un achat, une vente, un événement de crédit dont on veut se
+couvrir. On peut aussi faire des contrats sur les taux d'intérêt, par exemple on
+veut se prémunir contre le risque d'une hausse des taux d'intérêt. Prenons un
+dérivé de taux : qu'est-ce qu'on fait ? On achète à terme un produit qui va
+varier en fonction du taux d'intérêt. De toute façon, on peut tout imaginer dans
+les contrats.
+
+Qui décide de créer ces contrats ? Ce sont les banques d'affaires. C'est leur
+rôle premier : ce qu'elles font, c'est qu'elles créent des contrats en fonction
+de ce qu'elles ressentent. Elles peuvent créer des contrats de deux manières
+différentes. La première manière, c'est à la demande d'un de leurs clients. Vous
+êtes une banque normale, non, commerciale ; vous êtes un grand investisseur,
+vous avez l'idée : « Tiens, je ferais bien un truc pour me protéger de telle
+chose ou pour spéculer sur telle chose. Par exemple, tiens, je vais aller voir
+Goldman Sachs et puis je vais lui demander de créer le contrat pour moi. » Et
+puis en fait, comme c'est un contrat standardisé, cela veut dire que n'importe
+qui peut l'acheter. C'est intéressant pour moi parce que si j'ai un contrat que
+j'ai demandé et si Goldman Sachs le vend partout, moi aussi je vais pouvoir le
+revendre et l'acheter quand je veux. Donc en fait, on va émettre des contrats,
+c'est cela que font les banques d'affaires sur le marché, et n'importe qui
+pourra les acheter. Dès que les gens pourront les acheter et les vendre, il va y
+avoir un marché qui va s'organiser tout seul.
+
+On peut penser à n'importe quoi, on peut faire des dérivés sur n'importe quoi.
+Je ne vais pas faire une liste parce qu'elle serait infinie. Essentiellement,
+dans les contrats, ce qui est important, ce sont donc les contrats à terme, les
+futurs, parce que cela c'est utile pour spéculer. On peut avoir 6 mois — j'ai
+mis 6 mois — on peut faire un an, deux ans. La durée, la maturité, c'est
+n'importe quoi. Ce qu'il faut quand même, c'est éviter de trop disperser, parce
+que si vous faites trop de contrats très spécifiques, vous allez avoir une
+profondeur de marché plus faible, vous allez avoir du mal à les revendre en
+quelque sorte. C'est pour cela aussi que les banques d'affaires essaient d'avoir
+des contrats assez standardisés : six mois par exemple, un an, mais pas non plus
+n'importe quoi. En général, il y a marqué la date dessus, parce que évidemment
+si moi c'est dans 6 mois par rapport à aujourd'hui, dans un mois ce sera plus
+que 5 mois. Bref, ce que je veux dire, c'est qu'il faut que chaque titre qu'on
+crée, chaque titre de produit dérivé qu'on crée, qu'on invente, tout ce qu'on
+veut, soit émis en suffisamment grand nombre pour qu'il y ait des achats et des
+ventes dessus, de manière à ce qu'il y ait un vrai prix. Parce que l'intérêt
+aussi, c'est d'avoir des dérivés ; les dérivés ont des prix, ont des prix de
+marché. Il peut y avoir des prix de marché que s'ils sont échangés sur les
+marchés financiers. On ne va pas tout faire, on peut tout théoriquement, on peut
+penser à plein de choses, mais il y a cette limite de la taille du marché
+minimal pour que cela vaille le coup de créer un titre dérivé.
+
+Deuxième chose : la banque, j'ai dit, peut créer des titres dérivés à la demande
+d'un client ; elle peut aussi le faire spontanément, de sa propre volonté, et
+puis trouvera des clients qui veulent acheter ces titres.
+
+## Le marché de gré à gré et le shadow banking
+
+Je vérifie que je n'ai rien oublié. Je vous ai parlé du marché de gré à gré. Le
+marché de gré à gré, c'est un marché non organisé. Cela comporte des risques. On
+dit aussi en anglais over the counter, « sous le comptoir » ou « par-dessus le
+comptoir » ; cela voudrait dire plutôt « sous la table » pour moi, mais bref. En
+gros, on ne dit pas aux gens, on s'achète, on fait des échanges entre nous. Cela
+pose des risques. Le premier risque, c'est qu'il n'y a pas de garantie, parce
+que vous avez acheté des titres financiers, cela demande quand même à une tierce
+personne, en général, pour superviser l'échange, de manière à ce qu'il n'y ait
+pas de malversation qui se passe. C'est-à-dire que vous allez quand même donner
+du vrai argent, puis vous allez recevoir des titres. Si vous ne recevez pas les
+titres, qu'est-ce qui se passe ? Donc il faut quand même un peu de confiance
+entre les opérateurs.
+
+Et puis cela permet aussi autre chose : cela permet de faire des transactions en
+dehors du prix de marché, parce que quand vous faites cela, vous ne dites à
+personne que vous le faites. Ce n'est pas le principe du marché de gré à gré.
+Donc c'est souvent des opérations qui relèvent de ce qu'on appelle le shadow
+banking, c'est-à-dire la finance de l'ombre. C'est quelque chose qui parfois
+peut être assez important quantitativement, mais qui échappe à la supervision
+des régulateurs, à la supervision des banques, et dans lequel il peut se passer
+des choses. Par exemple, on va acheter et vendre à un prix qui n'est pas celui
+du prix de marché. Là se pose évidemment une grande question : pourquoi échanger
+à un prix qui n'est pas celui de marché ? Parce que vous comprenez bien que si
+le prix de marché est à 10 et que vous échangez à 11, cela veut dire que le
+vendeur a gagné plus, mais l'acheteur a accepté d'acheter à 11 quelque chose qui
+vaut 10. Donc pourquoi ferait-il cela ? Peut-être parce qu'il a des informations
+qu'il ne veut pas que cela se sache. Vous voyez, des choses comme cela.
+
+Donc ce shadow banking est porteur de risques en soi. Je ne l'ai pas dit, mais
+on peut échanger tout cela, c'est-à-dire qu'on peut échanger tous les titres
+financiers, on ne le dit à personne, cela n'apparaît pas, cela n'a pas d'impact
+sur le prix des marchés financiers parce que ce n'est pas enregistré comme une
+transaction financière. Et cela peut donner lieu à des malversations. Donc il y
+a toute une question qui se pose sur la régulation du marché de gré à gré. On
+peut parfois trouver des systèmes dans lesquels on a des quasi-banques : ce ne
+sont pas des banques, mais elles font comme si elles étaient des banques. Et
+puis plein de choses. Ce n'est pas forcément criminel d'ailleurs, ce n'est pas
+forcément illégal par ailleurs. Oui, c'est cela. Bon, c'est de fait pas régulé
+ou mal régulé.
+
+On relève du marché de gré à gré. Effectivement, cela peut être aussi une
+question de cela : vous voulez acheter absolument un titre alors que la Bourse
+est fermée, et bien vous passez comme cela. Donc cela se comprend déjà un peu
+mieux.
+
+## Les niveaux de risque
+
+Quand on veut — ce que j'ai voulu faire dans le livre — c'est aussi montrer, par
+rapport à ce petit schéma, les niveaux de risque. On comprend bien que le risque
+le plus élevé est dans le marché de gré à gré. Le deuxième risque le plus élevé,
+c'est les marchés dérivés. Pourquoi ? Parce que le marché dérivé amplifie en
+fait les ajustements et les événements aussi. Ce sont des marchés qui par nature
+sont là pour la spéculation. Donc ils vont — oui, c'est paradoxal, parce que les
+dérivés parfois servent à se prémunir d'un risque, par exemple les CDS, cela
+sert officiellement à se prémunir d'un risque de défaut sur une obligation qu'on
+possède, et en même temps ce sont des choses qui sont très spéculatives et qui
+du coup engendrent des risques. Alors cela dépend comment vous l'utilisez. Si
+vous achetez autant de CDS que vous avez d'obligations, quelque part c'est au
+premier du risque des obligations dans ce cas, et pas de souci. Mais si vous
+achetez des CDS sans avoir d'obligation, là vous allez avoir un comportement
+spéculatif, et là vous risquez de perdre beaucoup parce que les variations des
+prix des CDS peuvent être très très importantes.
+
+Ensuite, les marchés boursiers sont plus risqués que les marchés obligataires.
+Les marchés des obligations privées sont moins risqués que les marchés boursiers
+a priori, mais plus risqués que les marchés aux obligations à long terme. Et ce
+qui est le moins risqué, c'est le marché monétaire à court terme. Moins risqué
+en général ; au moment de la crise de 2007, cela c'était plus risqué que le
+reste, parce que ce sont des marchés qui impliquent des banques, et en cas de
+crise bancaire, les banques deviennent des agents très risqués. Pourquoi est-ce
+moins risqué en général ? Parce que les taux d'intérêt sont garantis, on est sur
+quelques jours, donc en général on est remboursé.
+
+Alors, quel est le marché le plus gros, où il y a le plus de transactions ? Le
+marché le plus gros a priori, c'est celui des obligations publiques. Il y a
+beaucoup beaucoup d'obligations publiques aujourd'hui ; les États sont très en
+émission aujourd'hui. Il faut distinguer les stocks et les flux : ce sont deux
+choses différentes. C'est-à-dire quelle quantité de valeur il y a sous forme
+d'obligations publiques : beaucoup plus que le PIB en France par exemple. Donc
+c'est beaucoup plus en stock. C'est pas mal aussi en stock parce que les banques
+se prêtent beaucoup. Mais après, si on regarde en flux, forcément, si les
+obligations publiques ne sont pas beaucoup achetées, c'est-à-dire qu'elles sont
+gardées — et c'est souvent le cas — il y aura peut-être moins de flux là que là.
+
+Pour les marchés dérivés, c'est très compliqué à savoir, et il faut faire
+attention parce que parfois on a tendance à calculer la valeur des marchés
+dérivés en reprenant l'actif sous-jacent. Mais en fait c'est un peu de la
+triche, parce que ce n'est pas parce que vous avez un contrat d'achat de Total
+que cela vaut la valeur de l'action Total ; cela peut valoir beaucoup moins cher
+en fait. Donc cela dépend comment on quantifie les produits dérivés. Il y en a
+beaucoup, il y a beaucoup beaucoup de titres dérivés. Je ne sais pas. En valeur
+stock, moi je ne compte pas cela en général ; excusez-moi, je ne compte pas les
+produits dérivés. Je compte plutôt actions, obligations et les horizons publics.
+C'est ce qu'il y a de plus sympa, c'est ce qui est plus important. Pour les
+produits dérivés, honnêtement, je ne sais pas. Puis je ne sais pas combien de
+stocks il y a, c'est difficile parce que cela varie beaucoup : les prix varient
+beaucoup en fonction des aléas des contrats qui sont sous-jacents.
+
+## À quoi servent les marchés financiers ?
+
+Maintenant, deuxième question : à quoi servent les marchés financiers ? Cela
+paraît être une question naïve, parce qu'on se dit forcément : les marchés
+financiers, cela sert à financer l'économie. Mais en fait ce n'est pas
+complètement vrai, et moi je pense même — en tout cas c'est la thèse que je
+défends — que ce n'est pas pour cela qu'on a vraiment créé les marchés
+financiers, et ce n'est surtout pas pour cela qu'on en a étendu l'influence. Les
+marchés financiers, en fait, il y a des économistes très sérieux qui disent
+finalement qu'on pourrait les supprimer, cela ne changerait pas grand-chose à
+l'économie. Notamment Frédéric Lordon a écrit un article — vous allez me dire,
+c'est un économiste un peu militant, c'est vrai — il a écrit un article il y a
+quelques années dans Le Monde diplomatique, où il dit : « Fermons la Bourse. »
+Il a réaffirmé plusieurs fois : si on fermait la Bourse... Alors la Bourse, ce
+n'est pas l'ensemble du marché financier, c'est le marché action, mais en fait
+on pourrait étendre le raisonnement à d'autres marchés. C'est le marché action.
+
+Donc qu'est-ce qui se passerait ? Est-ce que les entreprises ne pourraient plus
+financer ? En fait, quand on regarde la manière dont les entreprises financent,
+la plupart du temps elles empruntent, ou même le plus souvent elles accumulent
+des réserves et s'autofinancent. La plupart des entreprises s'autofinancent.
+Ensuite, marginalement, elles empruntent auprès des banques. Et puis très très
+marginalement, elles empruntent auprès des marchés financiers en émettant de
+nouvelles obligations ou de nouvelles actions. Et plus généralement — là aussi
+Dominique Plihon par exemple l'a expliqué, et puis d'autres que lui aussi, des
+économistes de Paris 13 notamment — quand on regarde les flux financiers entre
+les marchés financiers et les entreprises, et bien l'argent va beaucoup plus des
+entreprises vers les marchés financiers que des marchés financiers vers les
+entreprises. C'est-à-dire que si c'était les marchés financiers qui servaient à
+financer les entreprises, alors on devrait voir des flux qui vont des marchés
+financiers vers les entreprises, mais on voit en fait l'inverse.
+
+Pourquoi on voit l'inverse ? Forcément parce que si les gens acceptent d'acheter
+une obligation ou d'acheter une action, c'est parce qu'ils attendent un
+remboursement, des intérêts ou des dividendes. Donc il est évident que pour
+l'acheteur d'un titre financier, l'objectif c'est de gagner de l'argent, ce
+n'est pas d'en perdre. Et si tous les acteurs des marchés financiers ont pour
+objectif de gagner de l'argent, c'est logique que l'argent aille des entreprises
+vers les marchés financiers et non l'inverse. Donc les marchés financiers,
+finalement beaucoup de gens disent que cela ne sert pas vraiment à financer
+l'économie.
+
+Alors vous allez me dire : oui, mais comment ferait l'État pour emprunter 100
+milliards ? C'est vrai que 100 milliards, c'est une somme, et là on ne voit pas
+la BNP arriver ou la BNP dire : « Bon écoute, voilà... » C'est quand même une
+énorme banque, la plus grande banque européenne, mais même cela, l'État ne peut
+pas arriver à avoir la BNP qui dise : « Tiens, ça serait bien qu'il me prête 100
+milliards, là j'en ai besoin pour payer mes fonctionnaires. » Cela ne peut pas
+fonctionner comme cela. Donc comment ferait l'État ? L'État pourrait tout à fait
+se financer autrement. Il pourrait se financer de manière soit — si on changeait
+les règles de financement de la Banque centrale — c'est-à-dire que la Banque
+centrale aujourd'hui a interdiction formelle de financer les États, elle
+pourrait financer les États. Ou alors, si on voulait refuser cela, on pourrait
+tout à fait organiser un financement par les dépôts bancaires, parce que du coup
+bancaire il y en a, de l'argent. Et d'ailleurs, c'est comme cela que cela a
+fonctionné pendant très longtemps : les banques étaient obligées d'avoir des
+réserves, des réserves obligatoires, qui servaient en fait à financer les États.
+C'est ce qu'on appelle le circuit du Trésor.
+
+Ce système a été supprimé en plusieurs étapes, et dans les traités européens, il
+est maintenant devenu interdit à la Banque centrale. On a voulu séparer le
+financement de l'État du système bancaire, et donc maintenant l'État ne peut se
+financer qu'à partir des marchés financiers, notamment les marchés obligataires
+publics. Mais cela n'a pas toujours été le cas. Donc ce que j'essaie de vous
+expliquer, c'est qu'il serait théoriquement possible d'avoir une économie
+capitaliste qui fonctionne sans le marché financier.
+
+Alors cela n'empêcherait pas d'avoir des actionnaires, d'ailleurs. Le problème,
+c'est que du coup je suis un actionnaire, mais je ne peux plus revendre mon
+action, comment je fais ? On pourrait avoir des systèmes — cela existe
+d'ailleurs — des sociétés par action où on n'a pas le droit de vendre ses
+actions sans l'accord des autres sociétaires. C'est notamment les SARL qui
+fonctionnent comme cela. Donc c'est tout à fait possible d'avoir des sociétés
+par action dans lesquelles il n'y a pas de marché financier ni de marché
+boursier. Mais là on n'est pas dans le financement de l'économie, enfin ce n'est
+pas... En général, ce sont des sociétés immobilières, donc ce n'est pas tout à
+fait la même chose.
+
+On pourrait aussi considérer qu'on peut laisser les marchés financiers mais
+réduire leur influence. Ce qu'on a beaucoup augmenté, c'est l'influence du
+marché financier. Donc la question est : pourquoi on a à la fois des marchés
+financiers et à la fois une financiarisation de l'économie ? Pourquoi on a voulu
+faire cela ? Pour une raison, à mon avis, qui n'a rien à voir avec l'idée qu'il
+faut financer l'activité économique, mais pour une raison qui est qu'il faut
+être capable de trouver un système d'évaluation de la valeur et du capital. Ma
+théorie — et je ne suis pas le seul, en fait beaucoup d'économistes de la
+finance le disent — c'est que le rôle premier des marchés financiers, c'est
+d'établir la valeur du capital, c'est-à-dire de déterminer combien vaut une
+entreprise, combien vaut l'action d'une entreprise. Et donc pour cela, on a
+besoin d'avoir des flux d'échange, c'est-à-dire que les flux d'échange sur les
+marchés financiers déterminent des prix, et ces prix représentent la valeur de
+l'entreprise.
+
+Vous avez peut-être entendu parler du fait que l'homme le plus riche du monde,
+depuis quelques semaines, quelques mois, ce n'est plus Elon Musk, c'est Bernard
+Arnault. Qu'est-ce qui s'est passé pour que Bernard Arnault passe devant Elon
+Musk ? Il est passé devant plein d'autres gens parce qu'il n'était pas au numéro
+2 non plus. Il y avait aussi le patron d'Amazon, et d'autres, beaucoup de gens
+qui étaient devant Bernard Arnault. Et bien en fait, comment fait-on pour savoir
+quel est l'homme le plus riche du monde ? On regarde son patrimoine. Et son
+patrimoine, comment on l'évalue ? En général, ces personnes ont essentiellement
+un patrimoine en actions. Donc on compte le nombre d'actions qu'elles ont, on
+regarde la valeur de marché de l'action, et on calcule ainsi le patrimoine :
+nombre d'actions multiplié par prix de l'action. Ce qui s'est passé, c'est que
+l'action de Tesla a baissé, donc comme le patrimoine est évalué sur les marchés
+financiers, comme elle a baissé, le patrimoine mobilier en actions d'Elon Musk a
+baissé. À l'inverse, LVMH a fait beaucoup de profits, a vu sa valeur d'action
+augmenter, et donc le patron de LVMH, Bernard Arnault, a vu sa fortune
+réévaluée. Donc les marchés financiers servent à quantifier la valeur.
+
+Imaginez qu'il n'y ait pas de marché financier : comment ferait-on pour savoir
+ce que vaut LVMH ? On ne saurait pas. Vous allez dire : oui, mais il y a des
+comptes bancaires, il y a des comptes, il y a une comptabilité. LVMH, on sait.
+Mais la comptabilité de LVMH détermine en quelque sorte le passé : elle dit ce
+qui s'est passé avant, mais elle ne dit pas ce qui va se passer à l'avenir. Or
+une entreprise vaut sur les profits à venir, pas sur les profits passés. Donc on
+compte sur le marché, à travers les transactions qui sont organisées sur ces
+marchés, pour déterminer en quelque sorte l'avenir, c'est-à-dire être capable de
+déduire ce que vaut aujourd'hui LVMH, les revenus qu'elle va donner à ses
+actionnaires dans les décennies qui viennent.
+
+Oui, exactement : Tesla était une entreprise qui a longtemps été déficitaire, et
+comme beaucoup d'entreprises du Net, alors qu'elle avait une très grande valeur,
+parce que ce n'est pas le passé qui importe, c'est l'avenir. Donc les marchés
+sont des systèmes d'évaluation de la valeur, des systèmes de constitution des
+prix. Marquez cela dans un point de vos têtes : cela va être très important pour
+la crise des subprimes.
+
+## L'efficience des marchés et la vision néolibérale
+
+Tout cela a été théorisé, bien sûr. C'était théorisé par un prix Nobel
+d'économie, Eugène Fama, en 1970. C'est un économiste américain qui écrit noir
+sur blanc qu'un marché est efficace s'il est capable de déterminer des prix qui
+reflètent toute l'information disponible. Autrement dit, du point de vue de
+Fama, ce qui fait qu'un marché financier est efficace, c'est que le prix de
+marché d'un titre reflète l'information disponible. L'information disponible,
+c'est l'information qu'ont les agents économiques sur la valeur de ce titre. Ils
+ont une information publique, ils peuvent avoir des informations privées, et ils
+vont utiliser cette information pour acheter et vendre. La combinaison de ces
+actions d'achat et de vente va aboutir à un prix. Et bien nous dit Fama, ce prix
+est pertinent si le marché est efficient. Et le marché est efficient si les prix
+reflètent bien la formation disponible à un moment donné. Voici ce qu'il dit :
+je le cite : « Un marché dans lequel les prix reflètent pleinement l'information
+disponible est dit efficient. »
+
+La question de savoir à quoi servent les marchés financiers n'est pas du tout
+stupide. Elle est au cœur du problème. Le problème, c'est la valeur : que vaut
+une chose ? Comment détermine-t-on la valeur d'une chose ? Et c'est là — je vais
+y venir plus tard — mais peu importe, je vais commencer maintenant. Le principe
+des néolibéraux, c'est d'essayer de trouver un système de fonctionnement de
+l'économie qui soit dégagé de toute subjectivité et dégagé de toute intervention
+de l'État. C'est-à-dire qu'un libéral pense qu'une économie qui fonctionne selon
+les désirs d'un chef d'État serait une économie qui ne pourrait pas être
+efficace et qui ne serait même pas rationnelle. Ce qu'il faut, c'est trouver la
+vraie valeur, ce qu'on appelle la valeur fondamentale. Or la valeur fondamentale
+ne veut pas procéder d'une personne ou d'un système de valeurs subjectif. Ah,
+mais que contribue la société, cette entreprise ? En quoi contribue-t-elle
+positivement au bonheur des gens ? Le problème, c'est qu'on ne va pas tous être
+d'accord : qu'est-ce que c'est que le bonheur ? En quoi ce qu'elle fait est
+pertinent ? Etc. Donc il faut trouver quelque chose d'objectif. Et en fait la
+solution qu'ils ont trouvée, c'est le marché. Le marché, c'est l'objectif.
+Pourquoi le marché ? Parce que le marché organise, il distille l'ensemble des
+agents économiques autour d'un lieu commun, le marché, dans lequel chacun va
+acheter et vendre en fonction de ses besoins, de ses envies, de ses valeurs
+aussi. Mais cela va combiner un ensemble très important de subjectivités.
+
+La population de manière générale, oui, mais sans acheter. Mais non, justement,
+ils disent : si vous risquez quelque chose... Parce qu'un sondage, finalement,
+on peut dire n'importe quoi, on peut mentir. Mais quand vous prenez un risque en
+achetant une action, c'est que vous la voulez vraiment. Donc quelque part, oui,
+ce n'est pas l'amour, il n'y a pas l'amour, il n'y a que des preuves d'amour.
+Vous aimez Total, vous achetez une action Total : cela démontre que vous aimez
+Total et donc que vous faites augmenter sa valeur. Vous n'aimez pas Total, vous
+vendez, et donc cela fait baisser sa valeur. Après, je ne dis pas que je suis
+d'accord avec cette théorie. Je vous explique la théorie néolibérale. Je n'en ai
+pas parlé, mais j'en parle beaucoup dans le livre, parce que c'est la matrice
+idéologique. C'est pour avoir un système objectif et déterminer une valeur
+objective qu'on a besoin du marché. Et donc ici on parle de la valeur des
+entreprises, donc la valeur du capital économique. Et bien il nous faut des
+marchés financiers pour évaluer la valeur d'entreprise. C'est pour cela, c'est à
+cela que servent les marchés financiers.
+
+Une question dans la salle porte sur les agences de notation. Les agences de
+notation évaluent la probabilité de défaut des emprunteurs. Ce n'est pas la même
+chose qu'évaluer une entreprise. Les agences de notation n'évaluent pas Tesla.
+Elles évaluent le risque de défaut ou le risque de faillite d'un emprunteur,
+donc elles s'intéressent aux obligations. Mais en fait, du point de vue
+néolibéral, tout cela participe de l'information, cela fait partie de
+l'information des marchés. Mais en fin de compte, ceux qui vont vraiment
+déterminer la valeur, ce sont les marchés. Et les marchés peuvent être plus ou
+moins bien informés. C'est pour cela que les néolibéraux sont pour avoir des
+agences de notation, et même la concurrence entre les agences de notation, parce
+que du coup si une analyse se trompe, il y a une forme d'arbitrage collectif en
+quelque sorte. C'est cela le principe fondamental qui a concouru à
+l'organisation progressivement de l'expansion du marché.
+
+Ce que je veux simplement dire, c'est que cette vision du marché comme
+institution dont l'objectif premier est d'évaluer le capital, de donner une
+valeur, de donner un prix au titre, et donc d'évaluer le capital, c'est une
+vision bien sûr extrêmement réductrice du marché. Le marché, au départ, c'est un
+lieu d'échange. Il faut comprendre que les néolibéraux vont étendre cette vision
+à tous les marchés, pas uniquement les marchés financiers. Moi je pense — enfin
+je pense, on peut penser, c'est légitime de penser — qu'un marché est efficace
+si par exemple il coordonne correctement les besoins des uns et les actions des
+autres, s'il maximise le nombre de transactions, si le prix est juste au niveau
+des propensions des uns et des autres à acheter et à vendre. On pourrait
+considérer l'efficacité d'un marché sous plein d'angles différents. Mais du
+point de vue néolibéral, le marché c'est un système d'évaluation, et donc il est
+efficace seulement s'il détermine des prix qui reflètent l'information
+disponible, des prix pertinents, des prix objectifs.
+
+Je prends un exemple que je prends beaucoup dans l'ouvrage. Dans les marchés
+traditionnels, on a souvent un processus de négociation. Si vous allez dans
+certains pays, cela fonctionne encore sous le principe du marchandage : vous
+allez dans un magasin, puis dans le magasin il n'y a aucun prix affiché. Vous
+arrivez, vous rentrez, vous voulez ce magnifique tapis persan, et on vous dit :
+« À combien vous êtes prêt à donner ? » En fait, le marchand essaie d'évaluer
+votre propension à acheter. Si vous avez un touriste, vous êtes bien habillé, il
+va dire : « Oh là là, je vais lui faire très cher. » Et puis si c'est un copain
+à lui, il ne va pas le vendre au même prix. Ce mécanisme-là, c'est un prix
+construit dans le rapport de marchandage, qui se construit au moment où on va
+acheter. Et dans les sociétés traditionnelles, en fait, il n'y a aucun prix
+affiché ; tous les prix sont le produit d'un marchandage.
+
+Du point de vue néolibéral, ce type de marché n'est pas du tout efficace, parce
+que finalement combien vaut un tapis ? En fait on n'a pas la valeur du tapis, il
+n'y a pas de valeur de l'objet. Il y a la valeur décidée dans un processus de
+négociation entre deux personnes, un qui veut vendre le plus cher possible et
+l'autre qui veut acheter le moins cher possible. Le prix se construit dans cet
+échange, cette relation individuelle. Cela veut dire qu'il n'y a pas de prix
+objectif, que des prix subjectifs. Du coup, si on voulait évaluer quelqu'un qui
+avait un patrimoine de tapis, on serait bien embêté, parce qu'il n'y a pas de
+prix attaché au tapis ; les prix sont construits dans la transaction.
+
+Du point de vue néolibéral, un marché comme cela n'est pas efficace, d'où
+aujourd'hui le fait que c'est interdit. C'est interdit de négocier une
+marchandise. Pourquoi je vous dis que c'est interdit ? Parce que les prix sont
+affichés et c'est tout, et donc il n'y a plus de négociation. Mais on pourrait
+aussi se dire que lorsque les prix sont construits dans le processus de
+marchandage, peut-être qu'il y a de la subjectivité, mais peut-être qu'il y a
+aussi une forme d'efficacité. Pourquoi il y a une forme d'efficacité ? Parce que
+la personne moins riche, plus pauvre, va avoir tendance à pouvoir acheter des
+choses, et la personne plus riche ne va pas pouvoir acheter des choses plus
+chères, et on va voir des prix s'adapter aux proportions, à la capacité de
+chacun à acheter. Et cela peut être plus efficace. Je veux dire, si on réfléchit
+d'un point de vue social : mettons vous avez le tapis et vous avez un fiche, le
+prix est supérieur à ce que peut acheter cette personne ; bon, elle ne
+l'achètera pas. Maintenant vous avez le prix qui n'est pas un fiche, vous avez
+un riche et un pauvre : et bien le riche, vous allez le vendre cher, et du coup,
+avec le fait que vous avez vendu cher, vous allez pouvoir vous rendre moins cher
+au pauvre, et en fait vous allez avoir vendu deux tapis au lieu d'un seul.
+Quelque part, le fait d'avoir construit des prix subjectifs en fonction de
+l'acheteur permet d'écouler davantage de marchandises et permet de rendre le
+marché plus efficace.
+
+Ce que je veux dire ici, c'est que l'idée selon laquelle un marché est efficace
+lorsqu'il arrive à déterminer un prix objectif à toutes les marchandises ne va
+pas de soi. On pourrait penser qu'un marché est efficace parce qu'il maximise le
+nombre de transactions, et maximiser le nombre de transactions peut signifier
+avoir des prix qui varient en fonction de l'acheteur. Je ne me prononce pas, je
+ne dis pas que le marché traditionnel est meilleur, parce qu'on peut dire aussi
+: oui, mais c'est injuste ; si moi j'ai les bonnes capacités à négocier, je suis
+plus convaincant, j'aurai toujours des prix plus faibles que lui, voilà, qui a
+une sale tête et qui ne sait pas parler peut-être. Mais peut-être que non,
+d'ailleurs, peut-être que le vendeur lui-même prend en compte cela : le pauvre
+type qui ne sait pas parler a quand même besoin d'un tapis. Je veux dire, il y a
+plein de choses qui peuvent se passer. Mais voyez bien que on est plus dans
+l'objectivité, dans tous les cas on est dans un marché qui s'imbrique dans la
+société et dans les valeurs qu'on peut avoir.
+
+Bref, c'était un peu une parenthèse pour faire comprendre cette idée que l'idée
+néolibérale — Fama — qui est un système de marché : un marché est efficace
+lorsque il a des prix qui sont objectifs, qui reflètent l'information
+disponible, et un bien égal un prix. Tout cela n'est qu'une vision des choses ;
+on pourrait tout à fait avoir d'autres visions.
+
+## Conséquences sur la réglementation des marchés financiers
+
+Quelles conséquences cette vision des marchés a-t-elle eues sur la
+réglementation des marchés financiers ? Plein de choses. D'abord, elle a
+entraîné le monétarisme des banques centrales, dont j'ai parlé la semaine
+dernière. Le monétarisme, c'est lutter contre l'inflation. Là on comprend bien
+que si l'objectif d'un marché c'est d'avoir un prix efficace, en quelque sorte
+pertinent, lié à l'information, on ne peut pas avoir une inflation trop forte
+parce que l'inflation dénature la valeur des prix en quelque sorte. Cela change
+la valeur de la monnaie. Or si la monnaie est unité de compte, si la valeur de
+la monnaie est instable, alors l'unité de compte devient instable. Donc un des
+éléments structurants dans les politiques néolibérales, cela a été le
+monétarisme, avec la lutte contre l'inflation comme objectif des banques
+centrales.
+
+Deuxième chose : si on veut éviter d'avoir trop de subjectivité dans les prix,
+il faut que les marchés déterminent l'essentiel des transactions. Donc il ne
+faut pas que l'État intervienne trop. Donc il faut déréglementer. La
+déréglementation est une composante essentielle également de cette idée que les
+marchés ont pour fonction de déterminer les prix, parce que du coup les marchés
+sont purs, ils ne sont pas empêchés par tout un ensemble de réglementations qui
+va artificiellement augmenter les prix de certaines choses et baisser les prix
+d'autres choses.
+
+Troisième élément, je fais la liste : premier élément, monétarisme des banques
+centrales ; deuxième élément, déréglementation, approfondissement donc des
+réglementations ; troisième élément, élargissement. Parce qu'un marché étroit,
+je l'ai dit tout à l'heure, est moins efficace qu'un marché large. Comment
+fait-on pour élargir la taille du marché ? Et bien on supprime les frontières,
+donc on libéralise aussi les flux de capitaux entre les différents pays. Et cela
+va être au cœur de la crise des subprimes, d'ailleurs. L'un des éléments de
+l'élargissement, cela a été aussi en Europe la création de la monnaie unique,
+qui en plus avait un autre effet. On peut rajouter un quatrième effet : la
+suppression des coûts de transaction, parce que les coûts de transaction
+dénaturent, rajoutent, rendent les transactions moins efficaces. En gros, on ne
+va pas acheter des titres financiers parce qu'on doit payer un coût de
+transaction, donc on va renoncer à l'achat alors que sinon on aurait acheté,
+donc on aurait fait augmenter la valeur du titre. Donc les coûts de transaction
+sont aussi un problème.
+
+La monnaie unique avait tous ces objectifs. Elle avait l'objectif d'élargir le
+marché. Cela est très important parce qu'avant on avait des marchés financiers
+qui étaient cloisonnés dans leur pays. Si on voulait acheter — alors vous
+pouviez acheter des titres financiers en Allemagne quand on était français —
+mais il fallait supporter un risque de change. Le risque de change, c'est la
+valeur du marc qui fluctue par rapport à la valeur du franc. Bien sûr, on avait
+rattaché le franc au marc à l'époque, mais il y avait toujours la possibilité de
+sortir du SME, une crise du SME, des choses comme cela. Et puis en plus il y
+avait des frais de change, donc des coûts de transaction. Avec la monnaie
+unique, on a créé un grand marché européen en mutualisant tous les marchés
+financiers. C'est la raison pour laquelle maintenant les gens s'affolent en
+disant : « Mais regardez, la République française est détenue par les étrangers.
+» Bah oui, mais en fait nous aussi on détient la République allemande. C'est le
+principe même de l'euro : supprimer toutes les cloisons monétaires et supprimer
+toutes les cloisons financières qui existaient entre différents pays de la zone
+euro, pour faire un marché européen. Il y a encore des petites préférences : les
+États français vendent d'abord à des banques françaises ces obligations
+publiques, mais les banques françaises ont des clients dans toute l'Europe, dans
+toute la zone euro essentiellement. Monétarisme, un mandat axé sur la lutte
+contre l'inflation, pour la stabilité des prix — c'est le terme qui est utilisé
+— et puis une indépendance extrêmement forte vis-à-vis du pouvoir politique.
+
+## Le Glass-Steagall Act et la déréglementation
+
+Cette déréglementation va prendre plusieurs formes. Premièrement, une chose qui
+va se faire progressivement mais qui va être achevée en 1999 : l'abrogation
+d'une loi de régulation très importante prise en 1933 par Roosevelt, qui est le
+Glass-Steagall Act. La loi Glass-Steagall, je peux vous l'écrire. C'est le nom
+de sénateurs, ou de membres de la Chambre des représentants ; ce sont des
+législateurs américains qui ont défendu cette loi en 1933. C'est une loi qui
+vise à séparer les banques d'affaires des banques de dépôt. Vous avez déjà parlé
+des banques d'affaires : je vous ai expliqué que c'est des banques qui émettent
+des titres sur les marchés financiers, qui opèrent sur les marchés financiers,
+qui opèrent aussi pour leurs clients ou pour leur compte propre, et qui
+investissent ; ce sont des acteurs des marchés financiers. Les banques de dépôt,
+on les a vues aussi la semaine dernière : ce sont les banques qui accueillent
+des dépôts des ménages.
+
+L'une des choses dont on s'est aperçu pendant la crise de 29, c'est que quand il
+y avait une crise boursière, cela affectait les banques de dépôt, et cela
+entraînait des faillites de banques de dépôt. Or si une banque de dépôt fait
+faillite, c'est l'argent des déposants qui risque d'être mis en danger. Donc en
+1933, on a séparé les activités, enfin même les banques. On a fait ce qu'on
+appelle la muraille de Chine entre la banque traditionnelle, qui fait des
+crédits à partir des dépôts, et puis les banques qui opèrent sur le marché
+financier, les banques d'affaires. On a dit : voilà, on va séparer les deux,
+comme cela l'argent qui va dans les marchés financiers il y va en connaissance
+de cause. Ce n'est pas parce qu'on a déposé son argent dans sa banque qu'on veut
+que cet argent aille s'investir et spéculer sur les marchés financiers. Oui,
+c'est cela l'idée.
+
+Dès les années 80, voire même avant, on a progressivement troué cette
+législation en accordant des dérogations et puis en multipliant les passerelles,
+jusqu'à l'abrogation définitive en 1999 par Bill Clinton. Pour moi, c'est là
+qu'on a libéralisé complètement la finance américaine. C'est cela qui va
+entraîner — on va voir après — le problème des subprimes. Ces mécanismes de
+dérégulation financière ont aussi eu un impact sur le crédit bancaire
+traditionnel et sur la manière de le refinancer. Alors ici, on va commencer à
+parler des subprimes.
+
+## Du crédit bancaire à la titrisation
+
+Quand vous êtes une banque, vous avez des actifs. Maintenant, vous n'avez plus
+le Glass-Steagall, donc vous avez des actifs financiers et des actifs bancaires.
+Un actif financier, c'est que vous détenez des actions, des obligations, des
+titres. Un actif bancaire, c'est quoi ? Vous avez accordé un crédit à un ménage
+ou à une entreprise. On va directement rentrer sur le marché immobilier. Vous
+êtes une banque, vous avez prêté à un ménage, à une personne, de manière à ce
+qu'il puisse acheter une maison.
+
+Vos titres financiers, donc, dans votre bilan de banque, vous avez ces titres
+financiers et ces créances. Les titres financiers, vous savez combien ils valent
+à tout moment, puisque vous n'avez qu'à consulter les marchés financiers. Vous
+savez que les obligations que vous possédez, les actions que vous possédez, ont
+des valeurs bien définies par les marchés. Par contre, les créances que vous
+possédez, et bien vous ne savez pas trop ce qu'elles valent. En fait, que vaut
+une créance ? Elle vaut en fonction de la probabilité que la personne à qui vous
+avez prêté vous rembourse ou non. Les ménages peuvent faire faillite. On sait
+qu'il y a à peu près en moyenne 2 % de taux de défaut. À l'époque, dans les
+années 90, on avait 2 % de taux de défaut sur les crédits immobiliers aux
+États-Unis, jamais plus de 2 %, en fait inférieur à cela, mais cela c'était un
+futur entre 0 et 2 %, cela dépend des crises. Donc vous avez un risque.
+
+Mais vous savez que ce risque statistique ne veut rien dire par rapport à la
+personne que vous avez comme client, que vous connaissez. Si elle perd son
+emploi, si elle travaille dans un secteur qui est en difficulté, si elle
+divorce, elle peut avoir du mal à rembourser son crédit immobilier. Donc en fait
+l'évaluation du risque dépend de la personne que vous connaissez. Donc il n'y a
+pas de processus standardisé pour évaluer la valeur de votre créance. La valeur
+de votre créance dépend de la qualité de l'emprunteur, et même cela dépend aussi
+d'autres choses : de la maison, de la valeur de la maison, parce que si
+l'emprunteur fait défaut, ce n'est pas grave, vous avez un crédit hypothécaire,
+donc vous récupérez sa maison. Mais si sa maison est invendable parce que le
+marché immobilier est en baisse, ce n'est pas pareil. Donc il faut savoir la
+valeur de la créance, il faut connaître la qualité de la personne, son métier,
+ses revenus, est-ce qu'elle a divorcé, plein de trucs. Il faut connaître même ce
+qu'elle fait de sa maison, parce que si jamais elle fait faillite et que vous
+récupérez sa maison, et que sa maison est dégradée, vous ne pourrez pas la
+vendre, vous avez perdu. Il faut être capable de savoir aussi comment va être le
+marché immobilier si jamais on revend la maison. Donc la valeur d'une créance
+dépend de plein de facteurs.
+
+Qu'est-ce que font les banques ? Chaque année, elles envoient les conseillers
+voir si ce débiteur est fiable, si sa maison a l'air jolie, si elle est bien
+entretenue. Vous êtes passé devant, vous avez vérifié. Puis si vous voyez que la
+maison est mal entretenue, cela vous inquiète un peu. Donc la valeur d'une
+créance est impossible à déterminer, et les banques essaient d'évaluer avec des
+mécanismes subjectifs. Vous voyez bien le problème que cela pose : finalement,
+dans une banque traditionnelle, il y a beaucoup de créances auprès des ménages,
+auprès des entreprises, dont on ne sait pas trop combien elles valent. On a une
+évaluation interne, mais cette évaluation interne repose sur des éléments
+subjectifs. Donc on n'est pas dans le néolibéralisme, et donc cela pose
+problème.
+
+C'est là que, grâce à la libéralisation, à la déréglementation des marchés
+financiers, on a trouvé une solution. La solution, c'est quoi ? On va faire la
+titrisation. Un titre... La titrisation, c'est un processus qui consiste à
+regrouper l'ensemble des créances d'un même type, par exemple les créances
+immobilières, dans une société, et cette société va émettre des obligations. On
+appelle cela des obligations collatéralisées — la collatéralisation, on fait du
+collatéral ; c'est ma dyslexie qui revient. En fait, cela veut dire quoi ? Vous
+émettez une obligation en fonction du montant de créances que vous possédez.
+
+Donc en fait ce qui va se passer, c'est que les banques commerciales, donc
+classiques, vont revendre leurs créances à une entité extérieure qui va se
+mettre à racheter des créances de toutes les banques des États-Unis. Elle va
+mettre cela dans un pool et elle va émettre des obligations en échange. Quelle
+est l'idée derrière ? L'idée, c'est de standardiser. C'est-à-dire que vous savez
+que chaque créance est unique, elle dépend d'un emprunteur, d'un ménage. Mais si
+vous rajoutez dans un même pot les créances de tous les États-Unis, alors vous
+pouvez dire qu'en moyenne le taux de défaut de ces créances sera celui du taux
+des fonds nationaux. Vous savez qu'en moyenne, s'il y a des maisons qui ne
+pourront pas se revendre parce que localement le marché immobilier est en crise,
+et bien il y a aussi d'autres endroits où le marché immobilier sera en hausse,
+donc cela pourra se revendre, et cela va se compenser. Donc vous êtes capable de
+calculer la rentabilité de ce pool de milliers de créances immobilières, de
+dizaines de milliers ou de centaines de milliers de créances immobilières que
+vous avez rachetées aux banques.
+
+C'est cela qu'on appelle la titrisation. Pourquoi ? Parce qu'on transforme des
+créances uniques, subjectives, en titres financiers standardisés. Qui a fait
+cela ? Les banques d'affaires. Elles sont allées démarcher les banques de
+crédit, les banques, les petites banques, les banques régionales, donc des
+villes, et puis elles ont dit : « Écoutez, oh là là, vous avez plein de créances
+dans vos comptes, mais dites-moi, ce n'est pas un peu compliqué de gérer toutes
+ces créances dont on ne sait pas combien elles valent, d'aller voir si la maison
+de votre débiteur — de votre créancier, de votre débiteur, pardon — est bien
+entretenue, de risquer de voir un jour un ménage ne pas rembourser ? Mais moi,
+je vous la rachète. Je la rachète et puis j'en fais mon gâteau en quelque sorte,
+j'en fais un titre financier. » Et cela était intéressant pour les banques parce
+que du coup elles pouvaient continuer de faire des crédits, parce qu'elles
+revendaient le crédit directement à la société.
+
+Concrètement, cette société qui rachetait des crédits n'était pas la banque
+d'affaires. En fait, la banque d'affaires crée une société, une société dans un
+paradis fiscal par exemple, pudiquement offshore, au-delà de la mer, et on
+appelle cela un special purpose vehicle, véhicule à but spécial. Cela veut dire
+en gros que c'est une entité financière offshore qui rachète les créances de
+tous les États-Unis. Donc c'est la banque d'affaires qui va aller démarcher les
+banques pour racheter les créances. Cette entité offshore possède maintenant
+toutes les créances, et elle va émettre pour se financer des obligations
+publiques ou privées. Ces obligations auront un risque, mais un risque
+finalement qui sera un peu standardisé, puisque le risque c'est que bien sûr on
+sait qu'il va y avoir des débiteurs qui vont faire défaut — des ménages qui ne
+vont pas rembourser — on sait qu'il va y avoir des maisons qui ont du mal à se
+vendre, mais on sait que tout cela va se moyenner. Et comme il y a une
+rentabilité — parce que bien sûr les gens payent leurs traites de remboursement
+— donc il y a des revenus réguliers qui vont dans le special purpose vehicle. Et
+en fait, ce qu'il faut, c'est ensuite aller voir une agence de notation — dont
+on a parlé tout à l'heure — qui valide le système, qui dit : « Très bien, ces
+obligations ont une rentabilité assez élevée et globalement le risque est très
+faible. » Mais il existe. On n'a pas diminué le risque, parce qu'on a transféré
+le risque, on ne l'a pas diminué.
+
+## La structuration et les CDO
+
+C'est là qu'on va voir une deuxième idée : un processus de structuration.
+Qu'est-ce que cela veut dire ? Cela veut dire que la banque d'affaires va avoir
+cette idée d'émettre non pas une obligation unique qui moyennise le risque, mais
+trois obligations différentes. Trois obligations différentes, cela veut dire
+quoi ? Souvenez-vous, les titres sont des contrats, et bien par exemple toutes
+les pertes iront à 5 % des obligations. Ces obligations évidemment sont très
+risquées, parce que si toutes les pertes, quand il y a des pertes dans les
+créances qu'on a achetées, abaissent la rentabilité, la valeur des obligations
+de ces 5 % d'obligations, et bien il est clair que ces obligations sont très
+risquées. Mais du coup, en échange, elles vont être très rentables.
+
+Souvenez-vous, le taux de défaut c'est 2 %. Mais pensez que quand il y a un
+défaut de 2 %, il n'y a pas une perte de 2 %, parce que quand il y a un défaut,
+vous récupérez la maison, vous la revendez, donc vous ne perdez pas tout. Et
+puis tout ce qui a été déjà remboursé, vous ne le perdez pas. Cela dépend si le
+taux de défaut arrive au début de l'emprunt ou à la fin. Si le défaut arrive à
+la fin de l'emprunt, je veux dire, vous ne perdez pas grand-chose, vous n'avez
+aucun risque. Si cela arrive au début, vous avez plus de risques. Comprenez bien
+le truc : donc taux de défaut 2 %, on va dire perte de 2 %. Donc si vous prenez
+5 % des obligations et que toutes les pertes vont à ces 5 % d'obligations, vous
+pourrez raisonnablement vous dire qu'elles ne vont pas avoir zéro, ces
+obligations : elles vont absorber une partie des pertes, mais il y a une partie
+des pertes qui restera. Et puis du coup, cela veut dire que cela protège les
+autres obligations. Donc une partie de la rentabilité que vous avez sur les
+autres obligations, vous l'avez à répartir sur ces 5 %. Donc cette tranche — on
+appelle cela des tranches, des tranches d'obligations — ces 5 % d'obligations,
+c'est ce qu'on appelle la tranche equity.
+
+C'est très intéressant parce que des fonds spéculatifs, des fonds
+d'investissement qui maximisent la rentabilité, vont être super contents d'avoir
+ces obligations : il y a des risques élevés, mais la rentabilité est très élevée
+aussi. Et si le marché immobilier se passe bien, si ça se trouve, malgré les
+défauts qu'il doit forcément y avoir, il n'y aura pas forcément de perte, parce
+que les maisons se revendront bien, donc pas de souci, et on aura une
+rentabilité élevée.
+
+Alors est-ce que si on met 5 % — toutes les pertes sur 5 % des actions — est-ce
+que cela garantit que les 95 % n'auront aucun risque ? Non. Du coup, on a fait
+une deuxième tranche, une tranche à 15 %, qui absorbe les pertes si la tranche à
+5 % n'arrive pas à absorber les pertes. On comprend bien que cette tranche-là
+est quand même assez sécurisée, mais pas complètement sécurisée. C'est ce qu'on
+appelle la tranche mezzanine. Elle a une rentabilité moyenne et un niveau de
+risque moyen. Du coup, il nous reste 80 % de l'obligation avec zéro risque.
+Elles sont notées AAA, la meilleure note, par les agences d'évaluation, les
+agences de notation. Et alors, c'est là où c'est magique : elles parviennent à
+avoir le tour de force d'être considérées aussi peu risquées que les obligations
+allemandes par exemple, même note, et en même temps d'avoir une rentabilité
+supérieure. Mais pourquoi ? Parce qu'elles sont adossées à des actifs risqués,
+des crédits immobiliers. Mais elles ont réussi par le mécanisme de la
+structuration, on a réussi par ce mécanisme à faire en sorte que, malgré le fait
+que beaucoup de rentabilité va dans les 20 % des obligations les plus risquées,
+il reste une marge pour vendre plus cher, pour avoir un taux d'intérêt plus
+élevé — pardon — que les taux d'intérêt des obligations allemandes, avec le même
+niveau de risque.
+
+Du coup, les Américains, grâce à ce mécanisme — c'est ce qu'on appelait
+l'ingénierie financière — cela s'est développé, vous comprenez bien, dans les
+années 2000, après la disparition, l'abrogation définitive de la loi
+Glass-Steagall. Et dans ces années 2000, il est apparu quelque chose : les
+États-Unis ont eu une balance commerciale qui n'a cessé de se creuser. Alors les
+gens disent : mais pourquoi tout d'un coup la balance commerciale des Américains
+se creuse autant dans les années 2000 ? Il y a deux manières de l'interpréter.
+Une manière : l'industrie américaine n'est pas assez efficace, n'arrive pas à
+exporter. Une autre manière de l'analyser, c'est qu'en fait les Américains,
+comme ils ont mis ces obligations structurées adossées à du crédit immobilier
+avec des taux d'intérêt supérieurs à toutes les obligations sans risque, et en
+même temps qui étaient sans risque, ils ont réussi à créer la pierre
+philosophale de la finance : maximiser le revenu tout en minimisant le risque.
+Encore une fois, ce ne sont pas des revenus énormes, on n'est pas à 10 %
+d'intérêt, évidemment, mais on est un peu supérieur à tout ce qui se fait pour
+des actions sans risque. Et bien ils ont pu exporter ces obligations publiques,
+ces obligations privées, ces obligations titrisées adossées — excusez-moi,
+adossées — en fait cela s'appelle des CDO, des obligations de dettes
+collatéralisées avec des crédits immobiliers.
+
+Comme ils avaient réussi à créer cela, tout le monde en a voulu, et en
+particulier toutes les agences d'assurance, les fonds d'assurance européens, qui
+se sont dit : « Tiens, plutôt que d'acheter des obligations allemandes ou
+françaises, et bien je vais acheter ces machins, ça me rapportera plus, et le
+risque est évalué comme étant nul. » Donc cela a apporté beaucoup d'argent aux
+États-Unis, et cet argent, ils l'ont utilisé en achetant des produits
+manufacturés étrangers. C'est cela qui a creusé la balance commerciale
+américaine : ils se sont fait financer par les Européens, en particulier par les
+banques et les assureurs européens, qui se sont mis à racheter massivement ces
+CDO parce que c'était ce qui était le plus rentable. Et comme toutes les banques
+sont en concurrence les unes avec les autres, si elles voient que la voisine
+fait cela et que du coup elle va gagner plus d'argent, on est obligé de faire
+cela aussi.
+
+## Le risque subprime et les prêts frauduleux
+
+Je vais vous laisser, ça va être l'heure. La suite va arriver évidemment, à ce
+moment-là, et vous allez voir que tout cela va éclater. Mais du coup, comme il
+est 56, je ne me sens pas de commencer cela, et j'en suis vraiment navrée.
+Est-ce que vous avez déjà des questions quand même, parce que là on est rentré
+un peu dans la technique ? Est-ce que vous voyez bien ce dont je parlais ?
+
+Attendez, je veux dire un truc très important, mais on va en parler plus après :
+ce mécanisme avait quand même un effet pervers qu'on peut assez facilement
+comprendre. Vous voyez, cela promet un truc génial : plus de rendement, moins de
+risques. Mais les risques, ils sont quoi ? Ils sont le risque que des ménages
+américains ne remboursent pas, alors que l'immobilier... Or les ménages
+américains, pourquoi tout d'un coup ? On sait qu'il y a 2 % de défaut sur les
+crédits, maximum 2 %, on n'est jamais dépassé 2 % de défaut, de défaillance, sur
+les crédits. Donc on se dit : le risque est bien connu quand même. Mais il y a
+une petite truque qui ne va pas. Qu'est-ce qui ne va pas ? Ce qui ne va pas,
+c'est que les banques qui font des crédits se débarrassent du risque en
+revendant leur crédit à cette banque d'affaires. Donc plus elles accordent des
+crédits immobiliers, plus elles gagnent de l'argent. Et en même temps, vous
+comprenez bien le problème d'une banque : c'est qu'au bout d'un moment, quand on
+a ratissé tous les gens qui ont les moyens de payer, d'acheter une maison, et
+que dans son secteur on n'a plus aucun client qui a un moyen de s'acheter une
+maison, on se dit : et pourquoi je ne prêterais pas à quelqu'un qui n'a pas les
+moyens d'acheter une maison ?
+
+Alors vous allez me dire : mais comment ça, une banque qui prête à quelqu'un qui
+n'a pas les moyens de rembourser, mais c'est de la folie. Mais oui, mais
+attendez : j'accorde un crédit à ce ménage pauvre, en situation de précarité, et
+après je le revends immédiatement. Donc ce n'est pas grave, ce n'est pas moi qui
+porte le risque. Le risque, il est porté par le special purpose vehicle, et il
+finit par être porté par les personnes qui ont acheté des titres émis par ce
+special purpose vehicle. Donc en fait, bien sûr, les gens qui rachètent les
+crédits demandent à voir les papiers, à qui vous avez prêté, ce n'est pas
+n'importe quoi.
+
+Donc qu'est-ce qu'on va faire ? On va démarcher, on va passer par des courtiers.
+Les courtiers vont aller sur les marchés, voir des gens, et dire : « Regardez,
+vous allez devenir propriétaire, c'est le rêve américain. » Et : « Oui, mais moi
+je suis salarié chez McDo, je gagne le salaire minimum, comment voulez-vous que
+j'achète cette maison ? » « Attendez, on ne va pas mettre que vous êtes salarié
+chez McDo, on va dire que vous êtes trader et vous gagnez 5 000, 5 000 dollars
+par mois, et puis vous allez pouvoir acheter. » Donc en fait, ce qui s'est
+passé, c'est qu'ils ont fait des faux. C'est pas juste. Oui, parce que sinon
+comment le special purpose vehicle voudrait racheter votre créance ? Il va
+vérifier à qui vous avez emprunté, donc on fait des fausses. Et en fait, on
+s'est aperçu — c'est cela le problème de la crise — c'est qu'on a multiplié des
+crédits donc frauduleux. Les banques se sont mises à prêter à n'importe qui en
+remplissant n'importe comment les papiers pour revendre cela aux banques
+d'affaires, qui elles-mêmes revendaient les titres aux Européens. Et aussi,
+vous, Américains, vous avez aussi beaucoup aimé, beaucoup aimé, aussi aux
+Européens quand même. C'est pour cela qu'on a été touchés, et que la première
+banque touchée par la crise des subprimes, c'est la BNP. Et c'est là-dessus que
+je commencerai l'année prochaine, voilà, c'est la semaine prochaine.

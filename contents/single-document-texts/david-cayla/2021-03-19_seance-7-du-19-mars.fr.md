@@ -1,0 +1,1427 @@
+---
+source_url: https://www.youtube.com/watch?v=lL9SGytHNLs
+video_title: Séance 7 du 19 mars
+generated_at: 2026-09-20T18:14:35.174Z
+llm:
+  model: deepseek-flash
+  chunks: 1
+  duration_seconds: 193.6
+  input_tokens: 30739
+  cached_input_tokens: 0
+  output_tokens: 56130
+  estimated_cost_usd: 0.038289
+  finish_reason: stop
+  pricing:
+    source: litellm
+    peak: false
+---
+
+# Séance 7 du 19 mars
+
+Bonjour à tous et bienvenue à cette nouvelle session, la septième séance du
+cours d'histoire des faits économiques. Je vais attendre de vérifier qu'il y a
+bien des auditeurs. Aujourd'hui j'utilise un micro un peu différent, un
+micro-cravate, j'espère que cela améliorera le son. Si vous avez le moindre
+problème de son, n'hésitez pas à me le dire.
+
+Je suis toujours un peu embêté parce que vous êtes censés être 200 à suivre ce
+cours, en général vous êtes plutôt une trentaine. Je sais que beaucoup d'entre
+vous vont suivre ensuite le cours sur YouTube. Faites attention : il ne faut pas
+commencer à regarder le cours 48 heures avant l'examen. L'examen n'est pas si
+simple, il y a beaucoup de choses à savoir, beaucoup de concepts, et il faut un
+peu de temps pour digérer le contenu de l'enseignement.
+
+## Rappel : les conséquences sociales de la révolution industrielle
+
+Je vais reprendre le cours à la diapositive où on s'est arrêté la dernière fois.
+Souvenez-vous, nous étions en train de regarder et d'analyser les conséquences
+sociales de la révolution industrielle, c'est-à-dire de la mécanisation du
+travail, qui est elle-même liée aux innovations qui ont eu lieu avec la machine
+à vapeur, avec les machines à filer et à tisser le coton, et puis aussi dans la
+sidérurgie avec les progrès dans la production de fer et d'acier. Je vous avais
+dit que le temps de travail était très long et que la situation sociale des
+ouvriers était en réalité très difficile.
+
+Pourquoi est-ce comme ça ? On a vu que globalement il y a une population très
+pauvre qui vient des zones rurales et qui va dans les villes, qui en allant dans
+les villes va chercher à trouver n'importe quel travail. Ce bouleversement qu'on
+constate en premier lieu en Angleterre, puis ensuite au 19e siècle dans le reste
+de l'Europe, puis dans d'autres pays, cette situation va fragiliser le tissu
+social. Auparavant, vous aviez un système économique et politique fondé sur des
+petites agglomérations, notamment rurales, puisque 80% de la population vivait
+dans les campagnes, et la très grande majorité d'entre eux étaient des
+agriculteurs. Avec la révolution industrielle, on va concentrer ces populations
+dans des villes, pas forcément de grandes villes, cela peut être des petites
+villes, mais on va avoir un tissu industriel qui va se propager dans tout le
+pays. Le passage de la campagne à la ville, de l'exploitation agricole à
+l'usine, change profondément les conditions de travail et transforme aussi les
+rapports sociaux. C'est cela qui va marquer le 19e siècle : ces bouleversements
+topologiques. Auparavant on vivait dans une petite communauté villageoise où
+tout le monde se connaissait, et on va commencer à vivre dans des grands centres
+urbains, parfois un grand centre pour l'époque de dix mille habitants, ce qui
+correspond déjà à un grand centre urbain, mais aussi à une taille de ville où
+finalement on se connaît moins, voire plus du tout, et du coup on a moins à
+faire les uns avec les autres, il y a moins de sentiment d'appartenance et de
+relations sociales entre les gens. Tout cela va évidemment accentuer les effets
+de misère.
+
+L'une des choses qu'il faut dire aussi, c'est que les enfants sont mis au
+travail dans cette révolution industrielle et leurs conditions de vie vont elles
+aussi se dégrader. Dans l'économie traditionnelle, en général les enfants ne
+travaillent jamais avant 10 ans, et le plus souvent ils deviennent apprentis à
+partir de 12, 13, 14 ans. Là, on va commencer à embaucher des enfants très
+jeunes, de 5, 6, 7 ans, donc vraiment des tout petits enfants, qui ont l'âge
+d'être en grande section d'école primaire, en maternelle ou même au CP. Pourquoi
+les embauche-t-on ? Parce qu'avec la mécanisation du travail on n'a plus besoin
+de force physique, et parce que la misère ouvrière est telle que si on veut
+trouver à manger pour ses enfants, il faut trouver des sources de revenus, et
+donc on les envoie sans aucun souci, parfois un peu forcé. Je ne pense pas que
+les parents aient envie d'envoyer leurs enfants dans les mines ou dans les
+usines de gaieté de cœur, ils le font parce que c'est le seul moyen d'avoir un
+complément de revenu pour nourrir la famille. Leur salaire est très faible, ici
+c'est marqué six fois inférieur au salaire des adultes, sachant que les adultes,
+les femmes sont moins payées que les hommes, et donc les salaires des enfants ne
+suffisent pas à les nourrir en réalité.
+
+Ces enfants sont parfois exploités directement par les industriels, parfois ils
+sont exploités par des marchands qui vont prendre leur travail. Cette annonce,
+dans le Manchester de 1784, on est quelques années, huit ans après La Richesse
+des nations, donc en pleine période, Adam Smith est encore vivant, il n'habite
+pas Manchester mais pas très loin. Dans cette annonce, on trouve : « À louer le
+travail de 260 enfants avec un emplacement et tout comme unité pour l'activité
+de cotonnière... » Donc voilà, le travail d'enfants. Vous voyez bien qu'il y a
+un intermédiaire, en plus il s'agit de 260 enfants. On ne sait pas trop comment
+il a mis la main sur eux, mais c'est ce qui témoigne d'une exploitation
+absolument terrible de ces enfants.
+
+Cette question du travail des enfants va évidemment poser des problèmes
+politiques, en tout cas être mise sur le devant de la scène, puisque encore une
+fois cela n'existait pas avant la révolution industrielle. On va s'interroger
+sur l'amélioration de ce travail des enfants. On ne va pas l'interdire en
+réalité, pourquoi ? Parce que les niveaux de salaires sont tellement faibles que
+si on interdit le travail des enfants, les ouvriers ne peuvent plus nourrir leur
+famille. On va donc chercher à le réglementer. Réglementer, cela veut dire durée
+maximale du jour, en général douze heures de travail par jour maximum, donc vous
+voyez c'est considérable, et puis limitation d'âge. Mais la limitation d'âge va
+être très faible : à neuf ans on pourra travailler. On va interdire le travail
+des enfants de moins de 11 ans en 1893, donc très très tard. Le Royaume-Uni a
+été l'un des pays où le travail des enfants était le pire. Vous pouvez lire
+aussi des livres de Dickens, c'est assez considérable.
+
+Par ailleurs, on va aussi réglementer l'instruction, c'est-à-dire qu'en même
+temps qu'on autorise le travail des enfants de moins de 11 ans, entre 9 et 11
+ans, on va obliger l'employeur à donner au moins deux heures de cours
+d'instruction par jour. Donc parfois c'est le seul moyen avant l'école
+obligatoire qui arrivera à la toute fin du 19e siècle, parfois le seul moyen
+qu'ont les enfants de s'instruire, c'est en fait d'aller travailler.
+
+## Croissance économique et progrès social : trois raisons
+
+Alors la question qu'on peut se poser après avoir vu tout ça, c'est :
+économiquement parlant, comment peut-on expliquer que la révolution industrielle
+fait naître deux phénomènes a priori contradictoires ? Le premier, c'est une
+augmentation de la croissance économique. Rappelez-vous, on ne parle pas
+d'explosion de la croissance économique, on parle d'une augmentation,
+c'est-à-dire qu'on parle d'une croissance quasi-nulle, 1 à 2% maximum, et en
+moyenne plutôt 0,2%, donc rien du tout. Si on regarde le temps long, une
+croissance qui va être aux alentours de 1,5% en général, pas beaucoup plus. Sur
+du long terme, il y a des périodes plus fortes, puis il y a aussi les crises où
+on a des récessions. Cela veut quand même dire que sur une génération, sur 50
+ans, sur 100 ans, on devrait avoir un progrès social. Or ce progrès social
+n'arrive pas, il n'arrive pas pendant les cent premières années de la révolution
+industrielle, et même vous voyez qu'il y a bien une dégradation sociale,
+notamment des classes populaires.
+
+Ces dégradations sociales, on les expliquait tout à l'heure : quand on passe de
+zones rurales où les gens se soutiennent, se connaissent, à des zones urbaines
+où les conditions d'hygiène sont déjà déplorables, où la concurrence entre les
+travailleurs fait que les salaires sont très faibles, il n'y a pas de
+solidarité. Tout ça explique. Mais vous voyez qu'en général on a tendance à dire
+que quand il y a une croissance économique, mécaniquement il va y avoir
+également une amélioration du niveau de vie de l'ensemble des populations. En
+fait, ce n'est pas ce qui se passe, et ce n'est pas ce qui se passe non pas sur
+une période courte comme 10 ou 15 ans, mais sur une période très longue. Je vous
+parle ici de la période 1750-1850, c'est-à-dire d'un siècle dans lequel il y a
+quasiment aucun progrès social. En tout cas on va commencer par une régression
+au Royaume-Uni, ensuite une légère progression du niveau de vie, mais
+globalement en 1850 les plus pauvres ne sont pas à des niveaux de vie tellement
+supérieurs à ce qu'ils avaient en 1750, alors que la croissance a été forte sur
+un siècle, a été de 1% sur un siècle, ça fait beaucoup de croissance.
+
+Alors comment on explique ça ? On l'explique par deux raisons. D'abord en raison
+de l'accroissement des inégalités. Évidemment, quand vous avez une croissance
+économique mais que cette croissance économique bénéficie surtout à une partie
+de la population, la plus riche, vous n'avez pas de progrès dans la population
+la plus pauvre. Vous pouvez tout à fait avoir des phénomènes comme ça sur le
+long terme : une croissance économique qui va améliorer les revenus que d'une
+petite partie de la population, en général celle qui a le plus de pouvoir
+économique, c'est-à-dire celle qui est déjà la plus riche. C'est des choses
+qu'on constate aujourd'hui par exemple aux États-Unis ces quarante dernières
+années : depuis les années 80, le niveau de vie réel, pas monétaire, pas en
+dollars, mais en capacité de pouvoir d'achat, le niveau de vie réel de la moitié
+de la population la plus pauvre n'a en fait pas progressé, et même parfois il a
+régressé, alors que le PIB américain entre 1990 et 2020 a globalement progressé.
+Donc là on a un effet qui existe dans d'autres pays, et aux États-Unis c'est
+sans doute le plus flagrant, de croissance économique qui va se concentrer que
+sur une partie de la population. Mais quarante ans c'est beaucoup, et là on
+parle de 100 ans ou quasiment.
+
+Donc pendant cent ans on va avoir de fait une croissance économique qui va aller
+essentiellement vers les catégories les plus favorisées. On a des statistiques,
+encore une fois reconstruites a posteriori, d'après Williamson 1983, article
+cité par Paul Bairoch : en Angleterre, les 40% de la population à plus faible
+revenu ont vu leur part dans le total des revenus régresser. Le PIB par habitant
+a augmenté de moins de 20% entre 1757 et 1802, c'est-à-dire 45 ans, ce qui fait
+moins de 1% par an, une croissance très faible. Donc quand on parle de
+croissance par habitant, la croissance globale du Royaume-Uni était bien plus
+élevée parce que la population a beaucoup augmenté. Quand on regarde les revenus
+des plus pauvres, on s'aperçoit qu'ils vont commencer à progresser après les
+années 1810-1820 en Angleterre, en France après les années 1850, et globalement
+ils ne vont retrouver leur niveau d'avant la révolution industrielle que vers
+les années 1860. Donc j'ai un chiffre qui vient de Paul Bairoch, 1867 : on va
+retrouver le niveau de vie de 1757, donc là on a 110 ans d'écart. Mais ça, on
+parle des plus pauvres. Pour les plus riches, le progrès est considérable : les
+4% les plus riches possèdent 46% du total des revenus, donc quasiment la moitié
+des revenus. C'est une inégalité à la fin de la deuxième moitié du 19e siècle
+qui est considérable. On va retrouver ces niveaux d'inégalité très forts au
+début du 20e siècle, c'est les années folles, la période 1900-1930. Là je vous
+renvoie au livre de Thomas Piketty, Le Capital au 21e siècle. Vous pouvez aussi
+lire le tout dernier, Capital et idéologie, mais je vous conseille plutôt le
+premier qui est à mon avis le meilleur, qui montre bien la croissance
+d'inégalité très forte à la fin du 19e et au début du 20e siècle dans quasiment
+tous les pays développés.
+
+Alors une autre explication, c'est le niveau d'investissement. Toute croissance
+économique nécessite une accumulation de capital, qui nécessite un
+investissement. Les investissements ici, c'est quoi ? En termes de biens
+d'investissement, de machines, mais c'est aussi les investissements en termes
+d'infrastructures : le réseau de chemin de fer, les ports, les routes qui
+s'améliorent, tout un ensemble de choses qui nécessitent beaucoup de ressources.
+En réalité, le passage d'une société sans croissance à une société avec
+croissance ne peut se faire qu'avec une hausse de l'investissement.
+Souvenez-vous, au premier semestre, on a utilisé une équation dont je vous ai
+dit qu'elle est extrêmement importante, fondamentale : l'équation
+ressources-emplois. Les ressources, c'est l'origine de la richesse, et la
+richesse est le produit par le PIB, Y, et par les importations. Toute la
+richesse d'une économie, soit importée, soit produite, cette richesse va ensuite
+se transformer en emplois, c'est-à-dire en utilisation, et là il y a quatre
+formes d'utilisation : la consommation finale des ménages, l'investissement, les
+dépenses publiques et les exportations. Si on veut analyser les choses de
+manière encore plus simple, on peut supprimer la balance commerciale qui, à la
+fin du 18e siècle, a une importance assez faible. Elle existe bien sûr, on a vu
+dans les schémas de dynamique de la révolution industrielle que l'extérieur
+apportait beaucoup de choses au Royaume-Uni, en particulier le coton, mais en
+termes de volumes et de richesse c'est en fait assez simple. On peut aussi
+supprimer l'intervention publique parce qu'on a des États qui dépensent très peu
+dans l'économie, et les infrastructures sont souvent un travail privé. Tout à
+l'heure je vous parlais des voies de chemin de fer : c'est de l'investissement
+privé, ce n'est pas du tout des missions publiques. Les voies de chemin de fer
+ont été construites par des sociétés qui ont très souvent fait faillite parce
+que c'était beaucoup moins rentable que ce qu'elles espéraient. Donc si on
+enlève X et M d'un côté et G de l'autre, on peut arriver à une équation
+simplifiée : Y = C + I. Alors c'est quoi cette équation simplifiée ? Pourquoi
+elle m'intéresse ? Elle dit la chose suivante : il y a un arbitrage à faire
+entre consommation et investissement. On retrouve cette équation quand on
+réfléchit sur l'utilisation de l'argent : un arbitrage à faire entre
+consommation, dépenses de consommation, et épargne. D'ailleurs, souvenez-vous,
+je ne répète pas, renvoyez à vos cours d'introduction à l'analyse économique :
+l'épargne est égale à l'investissement. Donc dans une société, l'usage de la
+richesse produite peut être globalement de deux ordres : soit il va bénéficier à
+la consommation, c'est-à-dire au niveau de vie des individus, soit il va être
+utilisé dans un cadre d'accumulation du capital, et dans ce cas-là on va
+investir, accumuler des machines. Or vous comprenez bien que les machines, les
+usines, c'est très joli, enfin ça produit de la richesse, mais ça n'améliorera
+pas directement le niveau de vie des gens. Et en fait, l'accroissement des
+inégalités d'une part et cette logique capitaliste qui est la logique
+d'accumulation de capital, d'investissement, de réinvestissement des revenus –
+souvenez-vous, je vous ai expliqué que les entreprises tendent à acheter du
+capital, à épargner leurs revenus pour réinvestir – tout cela signifie qu'une
+grande partie des richesses n'est pas, et de moins en moins, consacrée à la
+consommation. Donc le gâteau réel auquel les citoyens ont droit, c'est-à-dire
+leur capacité à consommer, en proportion se réduit. C'est-à-dire qu'avant la
+consommation était sans doute – je dis n'importe quoi, il faudrait regarder les
+chiffres plus précisément – mais sans doute que le volume de consommation devait
+être près de 90% du PIB, donc l'investissement était très faible. On renouvelle
+globalement le capital usagé, on n'augmente pas le capital. Avec 90-10, pour
+parvenir à une révolution industrielle, c'est-à-dire à des investissements qui
+vont être de plus en plus onéreux, qui vont, vu la taille moyenne des
+entreprises, ne cesser de croître pendant le 19e siècle, on a les nouveaux
+investissements, le chemin de fer, on a tout un ensemble de nouvelles machines
+de plus en plus sophistiquées, des hauts fourneaux de plus en plus grands, tout
+ça nécessite forcément de l'investissement, de l'argent. Donc si vous passez
+d'une société avec 90% de la richesse consacrée à la consommation et 10% à
+l'investissement à un stade de capitalisme industriel qui nécessite beaucoup
+plus d'investissement, vous risquez de passer à 70-30 ou 60-40. Quand vous êtes
+à 60-40, cela veut dire que quand vous produisez de la richesse, 40% vont à
+l'investissement et 60% à la consommation, et ça aussi ça altère le niveau de
+vie. C'est-à-dire que si vous avez une croissance économique de 1,2% par an mais
+que cette croissance de mettons 1% par an s'appuie sur une augmentation de
+l'investissement de 1% par an, vous refaites tous les calculs : 1% du PIB, le
+niveau de vie global n'augmente pas. C'est-à-dire que non seulement vous avez
+des riches qui s'enrichissent, mais si tout l'accroissement de la consommation,
+tout l'accroissement de la richesse va produire des usines et des biens
+d'investissement, forcément les classes populaires s'appauvrissent.
+
+Donc pour résumer, il y a deux raisons – c'est ça que vous notiez si vous êtes
+en train de prendre note, ce que je vous conseille – il y a deux raisons
+principales pour lesquelles malgré la croissance économique – j'en rajoutais 3,
+désolé, je change mon cours en même temps – il y a trois raisons pour lesquelles
+la croissance économique du 19e siècle, de la première période de la révolution
+industrielle, ne va pas améliorer le niveau de vie des classes populaires. La
+première, c'est un taux de croissance faible. N'oublions pas, ce n'est pas une
+très forte croissance. Ça rompt avec certaines images qu'on peut avoir de la
+révolution industrielle : oui, c'est une croissance, pour la première fois on a
+une croissance, mais elle n'est pas si forte. Deuxième raison, l'accroissement
+des inégalités : une grande partie de la croissance va en fait aux plus riches.
+Et troisièmement, une grande partie de cette croissance va aller vers
+l'investissement et pas vers la consommation, donc une part grandissante de
+l'investissement dans le PIB, qui va du coup réduire la part de la consommation.
+Cet investissement est essentiellement de l'investissement privé, qui est
+lui-même le produit des classes supérieures, des capitalistes. C'est la raison
+pour laquelle c'est tout à fait logique de voir à la fois les revenus des
+classes supérieures augmenter et le niveau d'investissement augmenter, puisque
+ce sont elles qui investissent, ce sont elles qui vont acheter des hauts
+fourneaux, qui vont acheter des machines, qui vont construire des chemins de
+fer, etc. Mais on n'a pas beaucoup d'investissements publics à l'époque. OK,
+c'est clair.
+
+## La propagation de la révolution industrielle dans le monde
+
+Alors je commence maintenant à continuer de réfléchir sur la manière dont la
+révolution industrielle s'est propagée dans le reste du monde, et en particulier
+en Europe. Puis ensuite nous verrons – alors nous verrons dans le prochain
+chapitre, je vais essayer de commencer aujourd'hui – comment la révolution
+industrielle s'est propagée dans les pays en voie de développement, c'est-à-dire
+les futurs pays en voie de développement, c'est-à-dire très vite ça va devenir
+des colonies. On a bien ici un pays qui est en avance, l'Angleterre, très vite,
+enfin très vite à l'échelle de l'histoire, mais en réalité ça prend quand même
+plusieurs dizaines d'années. On va voir un certain nombre de pays qui vont eux
+aussi entrer avec un certain retard, avec quelques dizaines d'années de retard,
+voire plus, dans la révolution industrielle, à tel point qu'au bout de 150 ans,
+à la fin du 19e siècle, pratiquement l'ensemble du monde aura été touché d'une
+manière ou d'une autre par la révolution industrielle anglaise. C'est ce que
+certains auteurs appellent la première mondialisation. Pourquoi ? Parce qu'on va
+avoir un monde qui va profondément s'unir – attention, le monde va devenir de
+plus en plus interdépendant d'un point de vue économique, en ce sens on peut
+parler d'une mondialisation – par contre le monde va diverger, et c'est ça qui
+est intéressant, c'est ça que je voudrais voir maintenant avec vous.
+C'est-à-dire qu'il y a ici un paradoxe, presque un mystère de l'histoire
+économique, qui est qu'un même processus, la révolution industrielle, va avoir
+des effets totalement différents selon le pays qu'elle va toucher. Pour certains
+pays, la révolution industrielle va être l'occasion d'un développement similaire
+à celui du Royaume-Uni, c'est-à-dire une augmentation de la production
+industrielle, un enrichissement global, avec tous les problèmes qu'on vient de
+discuter : l'enrichissement global ne va pas forcément signifier
+l'enrichissement de tous. Et puis à d'autres pays, notamment les pays qui vont
+être colonisés, les futurs pays en voie de développement, dans lesquels la
+révolution industrielle, lorsqu'elle va les toucher, va les appauvrir, elle va
+les appauvrir et même les laisser rentrer dans un processus de
+sous-développement. Et là je voudrais dire une chose extrêmement importante pour
+votre culture générale et pour vos connaissances du monde : quand je parle d'un
+processus de sous-développement, je veux bien dire qu'il ne s'agit pas d'un
+retard de développement mais bien d'un processus de sous-développement,
+c'est-à-dire que des régions vont s'appauvrir, et quand je dis des régions je
+parle de pays entiers et pas n'importe quel pays, les plus grands pays du monde
+que sont l'Inde et la Chine en particulier, qu'on verra, mais d'autres pays
+aussi bien sûr, vont rentrer dans un processus de sous-développement. Et ça
+c'est extrêmement important de comprendre parce que l'idée qu'on a très souvent
+de la situation des pays en voie de développement, c'est plutôt l'idée du retard
+: en gros les pays sont rentrés avec retard dans la révolution industrielle,
+donc c'est normal qu'ils soient plus pauvres aujourd'hui. Non, non, non, il n'y
+a pas de retard, il y a une désindustrialisation, il y a une destruction du
+tissu économique de ces pays-là. Et c'est ça qu'on va essayer de comprendre, ce
+qui signifie que les pays vont être confrontés à ces processus cumulatifs
+hétérogènes, c'est-à-dire qu'on va avoir en gros deux voies qui vont s'ouvrir à
+chaque pays : une voie de la croissance économique et de l'industrialisation qui
+va conduire à des pays qui vont être développés au début du 20e siècle, et une
+autre voie de la désindustrialisation et de sous-développement qui va entraîner
+à devenir des pays sous-développés. Et évidemment, si vous choisissez l'une,
+vous êtes en quelque sorte les gagnants, et si vous choisissez l'autre, vous
+êtes les perdants. À ce propos, c'est repris – parce que les pages ne sont pas
+relevées de mon bureau – ce livre-là, Les Deux Premières Victoires et Déboires,
+c'est bien ça la thèse principale du livre de Paul Bairoch : Victoires et
+déboires. Chaque pays est spécifique, chaque pays a une histoire particulière,
+chaque pays a des institutions particulières. Basculer d'un système à l'autre,
+d'une logique à l'autre, est quelque chose de complexe, y compris d'ailleurs en
+Europe. On va avoir des pays qui vont s'appauvrir, on verra le cas du Portugal
+par exemple. Donc ce n'est pas juste un problème de continent, ce n'est pas
+juste un problème de colonisation : le Portugal n'a pas été colonisé, au
+contraire c'est lui qui a colonisé sept autres pays. La thèse que défend Paul
+Bairoch, avec laquelle je suis globalement d'accord, c'est l'effet des
+politiques commerciales, c'est-à-dire que globalement les processus de
+désindustrialisation vont être la conséquence d'une ouverture commerciale à des
+pays beaucoup plus puissants industriellement, ce qui va conduire à la
+destruction des industries locales, et cette désindustrialisation va conduire,
+par un effet de réaction en chaîne, à l'appauvrissement global des sociétés.
+Pourquoi certains pays vont choisir de s'ouvrir au commerce international et
+d'autres non ? Parfois ils vont le faire souverainement, parfois ils vont le
+faire sous la contrainte. Ils vont réagir différemment par rapport à ça.
+Certains vont réussir, d'autres moins. Il y a tous les cas de figure. Une chose
+qui est extrêmement intéressante, c'est que l'un des petits pays asiatiques les
+plus éloignés d'Europe, qui a priori a une culture – voilà, l'origine mais pas
+plus que ses voisines – va devenir une grande puissance industrielle du monde :
+c'est le Japon. Là aussi la puissance japonaise va être d'abord – très
+rapidement ils vont devenir l'une des grandes puissances industrielles du monde,
+et puis surtout elle va être manifeste dès 1905 avec la défaite de la Russie
+face au Japon, puis pendant la Première Guerre mondiale, et puis ensuite le
+Japon va devenir une énorme puissance industrielle qui va quand même menacer les
+États-Unis, c'est quand même eux qui sont allés attaquer les États-Unis à Pearl
+Harbor. Donc vous avez ici un phénomène tout à fait unique dans l'histoire :
+l'un des pays qui va devenir le plus puissant industriellement – et qui encore
+aujourd'hui est l'un des pays les plus puissants industriellement – est un
+archipel très éloigné de l'Europe, qui va réussir à faire le tour de force
+d'utiliser la révolution industrielle qui vient d'Angleterre pour la convertir
+en puissance économique, et ça aussi par des méthodes qu'on verra.
+
+Alors voilà ce tableau-là. C'est un tableau qui vient toujours de la même
+source, et qui montre ici la production manufacturière par habitant. Ce qui est
+intéressant ici – je ne sais pas si vous voyez ma souris – voilà, ces devoirs
+sont classés par ordre dans lequel on arrive, on commence la révolution
+industrielle. Donc en 1800, quand on regarde la production manufacturière par
+habitant, avec le Royaume-Uni à 1920 – ce sens – c'est-à-dire que c'est un
+rapport entre le Royaume-Uni en 1900 par exemple et la Belgique en 1800 : on a
+10% de la production manufacturière du Royaume-Uni de 1901. Voilà, donc ça
+montre aussi les progrès. On peut dire d'ailleurs que ce chiffre-là, 10, c'est
+le chiffre qui va permettre d'identifier le moment du basculement dans la
+révolution industrielle. Voyez qu'en 1800 la Suisse et la Belgique ont déjà
+commencé la révolution industrielle. Le Royaume-Uni est largement avancé. Voyez
+qu'en moyenne dans le monde on est à 6, et d'ailleurs les futurs pays en voie de
+développement sont dans la moyenne du monde. Alors évidemment il y a beaucoup de
+territoires – c'est un futur pays en voie de développement – c'est-à-dire
+quasiment tout ce qui est en dehors de l'Europe et de l'Amérique du Nord, sauf
+le Japon spécifiquement. Vous voyez d'ailleurs que le Japon en 1800 est à 7,
+c'est-à-dire un peu au-dessus de la moyenne mondiale. Il va être encore en 1830
+à la moyenne mondiale, qui est à 7, et puis la Banque mondiale va globalement –
+voilà comment il va être dans la moyenne entre 1830 et 1860. On voit bien qu'au
+Japon il n'y a aucun progrès a priori de la production manufacturière par
+habitant jusqu'en 1860. Après on voit quelque chose apparaître en 1880. Bon,
+l'Allemagne à 8 en 1800, la Suède à 8, on est dans les eaux conformes des
+sociétés traditionnelles, là il n'y a rien qui a commencé. D'ailleurs on va
+entre 8 et 9 ici pendant 30 ans, ça progresse quasiment pas. Ça va commencer à
+progresser en 1860, donc on voit que l'Allemagne a commencé à rentrer dans la
+révolution industrielle après 1830, la France avant 1830, puis comme ils sont en
+tournée à 12,1, donc sans doute aux alentours – voilà, d'après la Révolution
+française – aux États-Unis voilà à peu près au même moment qu'en France. On va
+voir des pays qui vont s'industrialiser lentement : la Russie, qui était
+finalement l'un des pays d'Europe les moins industrialisés par rapport aux
+autres pays européens. La Russie, c'est un cas très particulier, c'est un pays
+qui a menacé – à vrai dire en 1800 va avoir une progression très faible, en
+1860, et puis à partir de 1880 on va dire que la Russie rentre dans la
+révolution industrielle. Voyez donc c'est intéressant, ça permet de voir les
+moments, les phases où on commence à rentrer dans la révolution industrielle en
+regardant la production manufacturière par habitant.
+
+Alors ce que je voudrais dire ici, c'est qu'il s'agit d'abord du PIB par
+habitant, c'est bien la production manufacturière par habitant, donc ce n'est
+pas la richesse globale, c'est uniquement la capacité à produire des richesses
+manufacturières, c'est-à-dire des objets manufacturés, des objets qu'on peut
+vendre. Ce n'est pas les services en gros, ni l'agriculture. Vous voyez –
+excusez-moi – vous voyez quelque chose ici d'extrêmement intéressant : les
+futurs pays en voie de développement voient leur production manufacturière par
+habitant divisée par trois entre 1800 et 1900. Donc au cours du 19e siècle, il
+va se passer quelque chose d'extrêmement important qu'on va analyser dans le
+chapitre suivant, qui est la désindustrialisation de la majorité du monde. Et
+c'est ça qui est paradoxal : la révolution industrielle va entraîner
+l'industrialisation de tous ces pays-là qu'on voit là, alors que vous voyez le
+Portugal – bon, pas beaucoup par rapport aux autres pays – on va avoir une
+révolution industrielle enfin très très lente, notamment par rapport à la Russie
+par exemple. Vous voyez le Portugal commence à 7, la Russie à 6,1, donc plus
+riche a priori en production manufacturière en 1800, aussi riche que
+l'Autriche-Hongrie, aussi riche que le Japon, et en 1913 le Portugal est à 14,1,
+c'est-à-dire le plus faible de tous, tandis que la Russie, qui est quand même un
+pays beaucoup plus vaste avec beaucoup plus de population, va avoir 20 en
+production manufacturière par habitant, alors que le Portugal va à peine rentrer
+dans la révolution industrielle au début du 20e siècle. Bref, je ne veux pas
+rentrer là-dedans, ce que je voulais souligner surtout c'est l'évolution des
+pays en voie de développement. Donc on a bien ici une régression, ce n'est pas
+donc un retard. Ce qui se passe dans les pays en voie de développement, dans les
+futurs pays en voie de développement, c'est une régression de la production
+manufacturière, c'est-à-dire de l'industrie dans ces pays-là pendant tout le 19e
+siècle. C'est là qu'on va analyser, qui est intéressante à l'échelle du monde.
+Bien sûr la production industrielle va augmenter, elle va augmenter à 21 – voyez
+on est – alors ça permet de voir que la Russie et le Japon en 1913 sont
+inférieurs à la moyenne du monde, et l'Italie aussi à 20, on est globalement
+dans à peu près dans la moyenne. Voilà, alors le pays le plus riche en 1913, ce
+sont les États-Unis à 126. Voyez d'ailleurs c'est chose intéressante, la France
+– enfin là l'Allemagne va dépasser la France et va rattraper la Suisse et la
+Belgique en 1913 et quasiment rattrapé – alors pas encore mais le Wyoming ? Donc
+l'Allemagne qui est partie avec retard, vous voyez, va doubler la France en
+termes de production manufacturière par habitant entre 1900 et 1913 : 1952
+contre 56 – est-ce que c'est moi, c'est 56-30 ? Non, non, pardon, il a doublé
+après midi son contrat et j'aimerais te plaire dans les chiffes 52 contre la
+France passait juste au-dessus en fait 39 et 85 25 entre 28 52 temps s est
+ensuite 80 50 59. La France va avoir finalement une révolution industrielle un
+peu heurtée par rapport à d'autres régions du monde, même si ça n'a pas empêché
+la France de devenir notamment dans la deuxième moitié du 20e siècle une grande
+puissance industrielle. Donc du coup ce tableau permet quand même de vérifier
+qu'il y a différentes phases de propagation de la révolution industrielle. Donc
+les pays en avance sont ceux qui en 1830 ont déjà dépassé les 10 : c'est la
+France, la Suisse, la Belgique, les États-Unis. Ensuite on a la deuxième vague,
+qu'on peut dire l'Allemagne, la Suède, l'Autriche-Hongrie, l'Italie, voire la
+troisième vague de la Russie et le Japon. Voilà, donc globalement on a tout un
+ensemble de pays qui vont suivre à peu près les mêmes processus de révolution
+industrielle, qui vont un peu suivre la même ornière mais avec retard.
+
+## Les pays de la première vague
+
+Alors dans ces pays de première vague, le processus de révolution industrielle
+va se faire quand même un peu différemment de ce qui s'est passé au Royaume-Uni,
+et en fait on a bien ici un phénomène de propagation, c'est-à-dire que c'est par
+imitation de ce qui se passe au Royaume-Uni, mais qui dit imitation dit
+nécessairement des machines qu'on va essayer d'importer pour les imiter, et puis
+aussi des techniciens pour nous expliquer comment fonctionnent ces machines.
+Donc ces pays – ce n'est pas pour rien la Belgique, la France, les États-Unis,
+la Suisse étant un cas un peu à part – ce n'est pas pour rien que ces pays
+voient la révolution industrielle arriver chez eux en premier, c'est parce qu'en
+fait ils ont des liens très forts avec le Royaume-Uni, des liens géographiques
+et culturels. Bien sûr les États-Unis sont éloignés géographiquement du
+Royaume-Uni, mais en fait c'est peuplé en partie par des Anglais, et donc les
+Anglais n'ont pas de mal à propager les technologies qu'ils ont apprises ou les
+savoirs qu'ils ont acquis aux États-Unis avec les migrations. D'ailleurs l'une
+des raisons pour lesquelles les Anglais émigrent aux États-Unis, c'est pour la
+liberté religieuse, donc c'est aussi ça qui va faire développer les migrants.
+Les Belges, voilà, ils ne sont pas loin non plus géographiquement. Les Français,
+pas loin aussi, on a beaucoup d'échanges avec les Anglais. Donc la Suisse, comme
+j'ai dit, c'est un peu à part, mais on voit bien que la Suisse aussi bénéficie
+via – alors c'est aussi un pays qui va attirer des gens. On est quand même dans
+ces moments-là en pleine guerre éclair, à la fin du 18e et au début du 19e,
+beaucoup de guerres, donc la Suisse est un peu épargnée par ces guerres, donc ça
+peut être aussi une explication, même si elle a déjà aussi une guerre civile en
+Suisse à ce moment-là, donc bon ce n'est pas non plus très paisible comme pays.
+Alors voilà, donc ce qui fait que ces pays rentrent dans la révolution
+industrielle, c'est qu'ils ont une proximité culturelle ou géographique avec
+l'Angleterre, et aussi ils ont quasiment tous, sauf la Suisse – elle a aussi un
+peu d'exceptions – une puissance publique qui se met au service de
+l'industrialisation. C'est-à-dire que l'État va – chacun de ces pays cherche à
+développer l'industrialisation – donc il y a une vraie politique. Les
+gouvernements français vont voir – sans forcément – enfin le développement
+anglais, c'est un peu le rival stratégique de la France, l'Angleterre. Donc bien
+sûr si l'Angleterre commence à avoir de meilleurs navires et des machines à
+produire de l'acier bien plus efficaces que les nôtres, il faut qu'on arrive à
+développer notre production d'acier. Voilà, c'est le rival stratégique de la
+France à l'époque. Souvenez-vous que ça se passe dans les guerres
+napoléoniennes, voilà, le grand méchant c'est bien le Royaume-Uni, donc il faut
+tout faire pour imiter sa puissance. Ce ne sera pas du tout le cas pour l'Italie
+par exemple, la Russie, qui sont beaucoup plus éloignés de ces questions
+géostratégiques. L'autre élément important, c'est bien sûr qu'il faut attirer
+des industriels, il faut attirer des capitaux, c'est-à-dire être capable de
+trouver les machines, de trouver des financements pour ces machines, et
+connaître et savoir faire. Et là aussi bien les Anglais voyagent quand même
+beaucoup en France à cette époque. Alors bien sûr l'Angleterre n'a pas du tout
+envie que ses voisins et ses rivaux géostratégiques comme notamment la France
+acquièrent ces technologies, donc elle va chercher à interdire les migrations de
+techniciens jusqu'en 1825. Interdit, donc ça veut dire quoi ? Ça veut dire que
+si vous allez émigrer en France pour apprendre aux Français comment faire de
+l'acier de manière plus efficace, vous êtes interdit de rentrer chez vous en
+Angleterre – enfin, vous avez bien sûr des sanctions qui pèsent sur vous –
+interdiction d'exporter des machines, notamment des machines à vapeur, etc.,
+jusqu'en 1843. Bien sûr il y a des importations qui se font quand même
+illégalement, et c'est comme ça que la technologie anglaise va se propager dans
+le reste du continent. Globalement on a des politiques très protectionnistes
+jusqu'au milieu du 19e siècle partout dans le monde, en particulier aux
+États-Unis, et c'est aussi ces politiques protectionnistes qui visent à
+développer l'industrie localement, puisque si on commence à souffrir de la
+concurrence, on importe pas cher les produits anglais et soi-même on a du mal à
+les produire de manière efficace et compétitive. Voilà, donc on copie les
+Anglais globalement, et on a une véritable politique stratégique de copier les
+Anglais, et on a besoin aussi de techniciens, etc. Notons que pour ces pays de
+la première phase, l'accès aux technologies anglaises et aux techniciens anglais
+est extrêmement important. Après, en fait on aura des sources plus diversifiées
+de techniciens et de machines, mais pour le début c'est ça le problème. Et de
+toute façon les Anglais vont tout faire pour éviter les exportations de leurs
+techniciens, éviter que ces techniciens quittent leur pays et partagent leurs
+secrets, et on va tout faire pour éviter l'exportation de ces machines.
+
+La France va être évidemment perturbée par la Révolution française, par les
+guerres, par les changements de régime. On est quand même en France, c'est une
+période où on a quatre révolutions, je ne sais combien de guerres. Donc quatre
+révolutions : 1789, 1830, 1848 et la Commune en 1870, donc ça fait quand même
+beaucoup de révolutions, avec la première République, la monarchie
+constitutionnelle, la première République, le Consulat, l'Empire, le Premier
+Empire, la Restauration, ensuite la monarchie de Juillet, ensuite la Deuxième
+République, ensuite le Second Empire, ensuite la Troisième République. Ça fait
+quand même beaucoup de régimes, et une instabilité institutionnelle qui
+évidemment ne favorise pas la dynamique économique. Malgré tout la France va
+être quand même un des pays les plus développés, on l'a vu dans les chiffres. Sa
+croissance est plus faible que celle de l'Allemagne par exemple, qui va avoir un
+État beaucoup plus stable. En fait, sa constitution – comment dire – c'est la
+Prusse qui va globalement construire une unité allemande par les accords et par
+les guerres, et sur une base institutionnelle qui va rester là même, qui n'a pas
+changé jusqu'à la Première Guerre mondiale.
+
+## Les pays de la deuxième vague
+
+Les pays de la seconde vague, le bloc germanique, c'est-à-dire l'Europe centrale
+– on inclut la République tchèque, bon OK pas tout à fait germanique au sens où
+elle ne parle pas allemand – l'Autriche, etc., l'Autriche-Hongrie à l'époque.
+Donc on a ces empires centraux, on a l'Italie, on a la Russie, et puis on a un
+pays, le Japon. Donc on verra spécifiquement. Quand on regarde les empires
+centraux, donc l'Allemagne, l'Autriche et la République tchèque, ces pays ont
+des révolutions agricoles également. Souvenez-vous, la révolution agricole reste
+très importante parce que c'est ce qui permet de libérer de la main-d'œuvre. Si
+on n'a pas la main-d'œuvre libérée, on ne peut pas développer
+l'industrialisation. Qu'est-ce que c'est que cette révolution agricole ? Je ne
+vais pas y revenir, c'est globalement la suppression de la jachère,
+l'amélioration des techniques agricoles, la culture de plantes nouvelles, tout
+ce qu'on a vu auparavant. Tout ça se fait bien sûr de manière latente dans tous
+les pays, mais il y a un moment où ça s'accélère, et au moment où on va faire
+des réformes agraires – soutenues par des réformes agraires, c'est une réforme
+de la propriété des terres, c'est surtout ça, pour qu'elles soient mieux
+cultivées. Ces pays qui arrivent un peu trop tard, donc voilà, ils commencent la
+révolution agricole dans les années 1800-1820, ils vont voir leur révolution
+industrielle se lancer vers les années 1840-1860. C'est aussi pour l'Allemagne
+un moment, et même pour l'Autriche-Hongrie, de reconstruction institutionnelle
+également. Donc ces moments où on va dire des États modernes vont se construire
+– modernes, mais ce n'est pas de la démocratie, ça reste des royaumes ou des
+empires, pas nécessairement – même pour l'Allemagne et pour l'Autriche-Hongrie,
+mais il y a des institutions parlementaires, des syndicats. Donc ce ne sont pas
+des monarchies absolues, ce ne sont pas des régimes totalement dictatoriaux au
+sens où la monarchie absolue française existait, et ce sont des régimes ni
+démocratiques ni totalement des autocraties. Donc c'est pour cette raison qu'on
+parle à peu près d'État moderne : il va se développer toute une bureaucratie,
+une administration qui va être aussi beaucoup plus efficace. Alors ces pays,
+pareil – excusez-moi, pareil pour l'Italie – l'Italie va aussi se moderniser, va
+aussi se constituer en nation, va regrouper tous ces royaumes italiens dispersés
+en un seul pays. C'est là que l'Italie va exister en tant que – là aussi une
+unité politique – dans les années 1860. Vous voyez, c'est tout ce moment-là où
+on a à la fois une articulation entre progrès économiques, industrialisation et
+modernisation des systèmes politiques.
+
+Alors pour les progrès économiques, on a besoin là aussi de techniciens, de
+savoir-faire, et là on va pouvoir les trouver ailleurs qu'au Royaume-Uni,
+notamment en France, en Belgique, en Suisse. La Suisse est intéressante parce
+qu'il y a une Suisse francophone et puis une Suisse alémanique, germanophone.
+Donc là aussi on pourra trouver en Suisse, qui est un des pays de la première
+vague, des techniciens, des savoir-faire, avec des gens qui parlent allemand. On
+a aussi des industriels qui vont très très rapidement commencer à développer
+leur industrie ailleurs que dans leur propre pays. Les Cockerill, qui sont des
+industriels anglais, vont commencer à développer des usines en Belgique, en
+Allemagne, et c'est dans le textile. Donc on va voir ainsi des capitaux qui vont
+nourrir les investissements dans ces pays. Autre particularité de cette deuxième
+phase de la révolution industrielle, c'est qu'elle va s'appuyer sur de nouvelles
+institutions qui vont prendre un rôle actif. D'abord le chemin de fer – ce n'est
+pas une institution, c'est une infrastructure – mais le chemin de fer a deux
+effets. D'abord un effet d'amélioration de la circulation des marchandises,
+c'est ce qu'on va appeler la révolution des transports. On va voir tout à
+l'heure, très brièvement, puisqu'on reverra après dans le chapitre 5,
+concrètement ce qui se passe avec le chemin de fer : on va commencer à pouvoir
+étendre ce qu'on appelle la zone de chalandise, c'est-à-dire à qui on va pouvoir
+vendre sa production. Parce que dans les coûts, quand les coûts de transport
+sont très très élevés, on est très vite limité dans la taille de son marché par
+les coûts de transport. Si on va vendre à 100 km, bon, parce qu'au-delà ça va
+tellement augmenter le coût de sa production que ça ne sera plus rentable. Quand
+vous avez le chemin de fer, tout d'un coup vous pouvez vendre plus loin, donc
+vous pouvez être plus gros, et donc vous pouvez aussi parfois être plus
+performant parce que vous pourrez acheter des machines plus chères, de meilleure
+qualité, etc. Mais aussi le chemin de fer va aider l'industrialisation – alors
+là on est dans les années 1840, je viens de faire – oui ça commence en 1820 mais
+ça commencera vraiment à être important dans la deuxième moitié du 19e siècle.
+C'est aussi de la demande d'acier, et donc ça va susciter l'industrialisation,
+parce que pour produire ce chemin de fer il faut du fer, il faut des
+locomotives, il faut des machines à vapeur très performantes, il faut être
+capable d'avoir de l'acier moderne. Donc là aussi on a un effet
+d'industrialisation par l'intermédiaire de la demande. Souvenez-vous, on avait
+vu que l'agriculture en Angleterre avait nécessité une plus grosse demande de
+fer pour réparer les charrues, refaire des charrues, des outils, et c'est aussi
+pour les chevaux, la ferrure était très importante, demande de fer en Angleterre
+au 18e siècle. Bon, au 19e siècle tout ça devient marginal, par contre le chemin
+de fer lui va demander beaucoup beaucoup de fer et donc développer des usines
+sidérurgiques assez importantes.
+
+Autre élément qui va permettre d'améliorer le processus d'industrialisation,
+c'est le secteur bancaire. En 1750, le secteur bancaire ne s'intéressait pas
+beaucoup au financement de l'industrie, il était plutôt géré par des
+commerciaux, par des gens qui font des affaires dans les compagnies des Indes,
+etc. À partir des années 1840 – du centre en 1840 – on a commencé à comprendre
+qu'on peut faire beaucoup d'argent avec l'industrie, et donc on va pouvoir
+financer beaucoup plus facilement les entrepreneurs industriels, ce qui va
+permettre d'avoir une croissance industrielle bien plus forte avec l'effet de
+levier. Qu'est-ce que c'est ? En gros, j'ai besoin de 100, j'emprunte 80, en
+fait j'emprunte en fonction de ce que j'avais au départ, c'est-à-dire quatre
+fois plus : ici 20 à 80, c'est x4. Donc ça c'est ce qu'on appelle l'effet de
+levier. Vous pouvez tout de suite faire des grosses usines, et si vous avez en
+plus des frais de transport continus et que les grosses usines seront plus
+performantes, vous voyez tout ça va ensemble. Quand on a une industrie bien plus
+puissante, bien plus grande, qui va exporter ou vendre bien plus loin, eh bien
+vous avez besoin de plus de capitaux, donc vous avez besoin de l'appui du
+secteur bancaire. Et ça c'est la particularité de l'industrialisation de
+l'Europe centrale et de l'Allemagne en particulier, c'est avec des banques qui
+vont vraiment soutenir l'activité industrielle par rapport à ce qui s'est passé
+en Angleterre voire même en France. Le développement allemand va être très
+rapide, plus rapide que les autres pays, plus rapide que l'Autriche-Hongrie,
+plus rapide que l'Italie, plus rapide que la France, et même plus rapide en fait
+en valeur absolue que l'Angleterre. C'est là qu'on va avoir un énorme succès.
+Alors pourquoi ? Parce qu'il y a les banques qui vont les aider, parce qu'il y a
+un niveau d'éducation de la population allemande qui est plus important que dans
+d'autres pays, en particulier le Royaume-Uni. On considère qu'en 1850, il n'y a
+que 15 à 20% des personnes de plus de 15 ans qui sont illettrées en Allemagne,
+contre 41% au Royaume-Uni, 46% en France, 48% en Belgique. L'Allemagne a aussi
+un réseau d'écoles techniques et d'apprentissage qui aujourd'hui encore fait la
+force de l'Allemagne, c'est-à-dire que l'industrie a besoin de ces techniques.
+On a besoin d'ouvriers qualifiés, on a besoin de techniciens, on a besoin
+d'ingénieurs, et donc là aussi en Allemagne on a un réseau d'écoles techniques
+qui va accompagner l'industrialisation du pays. Je ne l'ai pas dit ici dans la
+diapositive, mais l'Allemagne bénéficie aussi de ressources minières, aussi bien
+en termes de fer qu'en termes de charbon, beaucoup de charbon en Allemagne. On
+va avoir des régions industrialisées : la Ruhr, et puis aussi – j'ai oublié – la
+Saxe, qui sont des régions minières, et donc qui bénéficient d'avantages
+territoriaux que n'aura pas par exemple l'Italie, qui n'a pas de charbon. Donc
+là aussi ça va accentuer le développement.
+
+Pourquoi les Allemands sont-ils plus éduqués que les Français ou les Anglais ?
+Et bien parce qu'ils sont protestants et qu'ils ont été touchés par la Réforme
+protestante. L'idée de – j'en ai parlé – mais voilà, avec la Réforme
+protestante, les fidèles protestants doivent avoir accès directement à la Bible.
+En fait, l'idée même du protestantisme, c'est de ne pas laisser un prêtre
+décider de l'interprétation des Écritures, il faut que chacun puisse avoir une
+relation personnelle avec Dieu. Donc tout le monde doit savoir lire.
+L'Allemagne, majoritairement protestante, va donc construire davantage son
+éducation, ce qui va évidemment favoriser la transition économique et la
+performance. Et puis voilà, l'unification d'un État central, terminée en 1871 –
+ça a commencé avant en fait pour l'Allemagne – ce qui se passe, on a la Prusse,
+un État – il y avait plein d'États, l'Allemagne était très divisée, c'était une
+kyrielle d'États, les restes en fait du Saint-Empire germanique – et la Prusse,
+qui a l'avantage d'avoir un État moderne et une bureaucratie efficace.
+Bureaucratique veut dire qui n'est pas soumis à l'arbitraire. Oui, c'est ça la
+bureaucratie, l'exercice est un grand avantage pour un État, c'est-à-dire vous
+allez traiter vos sujets, vos citoyens également, vous allez leur donner des
+règles. Vous avez un État qui va suivre des règles, c'est le début de l'État de
+droit. En fait la bureaucratie, ça veut dire qu'il n'y a pas d'arbitraire, ce
+n'est pas le président qui décide comme il veut tout le temps. Voyez par exemple
+typiquement – j'y pense parce qu'on est en plein dedans – l'épidémie de Covid,
+le confinement en France, on voit bien qu'il y a un côté arbitraire dans les
+mesures qui sont prises. Ça c'est le contraire en fait de ce que doit faire un
+État qui fonctionne correctement. Un État qui fonctionne correctement, par
+exemple justement on prend l'Allemagne, on a une concertation, on a tout un
+ensemble de représentants des différents Länder, des scientifiques, et tout ça,
+puis on va avoir un consensus qui va prendre la décision. Voilà, on est dans une
+situation exceptionnelle, mais l'idée de la bureaucratie, c'est essayer d'avoir
+un État qui fonctionne à partir d'un certain nombre de règles et qui traite ces
+sujets de manière indifférenciée, ce qui permet à chacun de pouvoir faire des
+prévisions et d'investir en fait dans l'industrie. À l'inverse, un État qui
+pratique l'arbitraire, dans lequel le dirigeant finalement fait un peu ce qu'il
+veut comme il veut sans aucune règle, c'est un État qui ne va pas favoriser
+l'investissement et les industriels n'auront pas envie par exemple de se lancer
+dans des activités parce qu'ils savent qu'à tout moment on peut leur piquer
+leurs investissements. Donc la Prusse construit sous – voulaient un État moderne
+et bureaucratique, un État performant – et donc cet État, ces institutions vont
+progressivement, au fur et à mesure que la Prusse va soit par des guerres soit
+par des alliances intégrer l'ensemble de l'Allemagne, on va avoir un pays qui en
+1871 va être extrêmement puissant. Un État – à la dernière élection de la Prusse
+– c'est l'Alsace et la Moselle qui sont intégrées au territoire allemand au
+prétexte qu'ils parlent allemand. Ce pays va aussi développer une politique très
+pensée de développement industriel autour de plusieurs axes. C'est Bismarck,
+donc le chancelier de 1862-1890 – Bismarck, donc c'est évidemment – voilà on
+parle ici de quoi, de 28 ans pendant lesquels Bismarck a été chancelier d'abord
+de la Prusse puis de l'Allemagne, du deuxième Empire allemand. Il va mener à la
+fois ce qu'on appelle une realpolitik – donc en allemand Realpolitik – ça veut
+dire politique de la réalité en quelque sorte, ça veut dire pragmatisme. Un
+pragmatisme, ça veut dire en gros que l'Allemagne à l'époque ne se voit pas
+comme une grande puissance, elle se voit comme une puissance d'équilibre dans
+les grandes puissances. La France, les États-Unis ont des empires coloniaux, qui
+commencent à développer beaucoup les empires coloniaux, qui sont très puissants.
+Donc petit équilibre, et puis politique de développement interne en essayant de
+ne pas trop au départ être menaçant pour ses voisins, et progressivement en
+développant l'industrie avec une politique protectionniste. Donc là les uns des
+grands intellectuels, un grand penseur économiste allemand qui a nourri la
+pensée de Marx : Friedrich List. List, qui écrit au début du 19e siècle, évoque
+l'idée d'avoir un protectionnisme éducateur. Donc la question de List, c'est
+comment en partant d'une économie moins puissante que l'Angleterre on peut
+développer cette puissance économique ? Il part du principe que pour cela il
+faut être capable de protéger son économie des productions industrielles trop
+performantes. Alors il faut les laisser rentrer pour que ça puisse inspirer les
+industriels domestiques, mais en les taxant pour que l'industrie domestique
+puisse très rapidement devenir produire à moindre coût. Troisième élément de la
+realpolitik, donc realpolitik c'est au niveau diplomatique pragmatisme, pas de
+confrontations directes – sauf voyez en 1870 où là il va y avoir guerre, mais
+qui va être gagnée par les Allemands. Pragmatisme donc sur le plan diplomatique,
+politique protectionniste pour développer l'industrie, et puis troisièmement, et
+ça c'est très nouveau, c'est des avancées sociales. Là très nouveau parce que
+l'Angleterre comme j'ai dit n'a quasiment pas d'avancées sociales au cours du
+19e siècle. Or Bismarck lui il veut acheter la paix sociale, il veut en quelque
+sorte que la croissance profite aussi aux ouvriers, et donc on va développer des
+régimes de retraite, des formes d'assurances, et puis voilà, accompagner
+socialement la croissance économique. C'est ce qu'on appelle la politique
+bismarckienne, le système bismarckien d'assurance sociale. C'est un peu le
+système qui a produit celui qu'on a aujourd'hui : la Sécurité sociale, le modèle
+de sécurité sociale français, idée inspirée par Bismarck. Et Bismarck il le fait
+– voilà on va partir des années 1860 – donc très très en avance par rapport à
+d'autres pays. Ça va dire les économies – beaucoup s'interroger sur ces
+politiques bismarckiennes – les libéraux sont absolument contre. Au début du 20e
+siècle, quand on regarde les débats qui avaient lieu notamment chez les libéraux
+de type – du type d'hommes misère – au début du 20e siècle ou d'autres
+économistes libéraux, ces économistes étaient très arqueboutés contre le modèle
+social allemand qu'ils estimaient perturber l'équilibre du marché. Bon,
+finalement ce système allemand va pas si mal fonctionner puisque l'Allemagne va
+très vite devenir l'une des premières puissances industrielles européennes.
+
+Le dernier pays – pas dernier pays, on verra ensuite la Russie et le Japon –
+l'Italie. L'Italie en fait c'est un peu la même situation que l'Allemagne à la
+base, c'est-à-dire une société divisée, un pays divisé entre plein d'États
+indépendants, et qui va chercher à s'unifier, et là aussi à développer des
+institutions étatiques modernes avec quand même quelques différences par rapport
+à l'Allemagne. On a notamment l'Italie du Nord un tissu industriel dense –
+industriel, pardon, urbain, très dense – on a beaucoup de villes, une
+agriculture qui est très efficace, mais du coup comme l'agriculture est très
+efficace, elle va avoir du mal à rentrer dans les progrès de la première
+révolution agricole parce qu'en fait l'Italie a déjà plus ou moins fait sa
+révolution agricole, ce qui va limiter la capacité de l'Italie à
+s'industrialiser parce qu'elle n'a pas beaucoup de réserve de main-d'œuvre.
+L'Italie, c'est aussi un pays qui a fait le choix depuis très très longtemps,
+notamment les villes du Nord, du développement commercial. Donc on a aussi des
+villes assez grandes, très riches, mais dans lesquelles l'activité principale
+n'est pas l'industrie, ou pas spécialement l'industrie, c'est aussi beaucoup le
+commerce. Donc le problème c'est comment on peut développer l'industrie si on
+n'a pas de réserve de main-d'œuvre. Je réponds à la question qui m'a été posée :
+ce qui a moins d'inégalités en Allemagne du coup qu'en Angleterre ? Oui
+clairement il y a un modèle social qui a été inventé en même temps que la
+révolution industrielle, donc on ne va pas avoir les mêmes niveaux d'inégalités
+au début du 20e siècle. Après il va y avoir une hausse des inégalités tout de
+même, ce qui par définition la révolution industrielle crée des inégalités, mais
+on va dire qu'elles vont être moins fortes en Allemagne qu'elles ne l'ont été en
+Angleterre.
+
+L'Italie donc a ce problème de ne pas avoir beaucoup de réserve de main-d'œuvre,
+mais elle a aussi un autre problème qui est qu'elle n'a pas de mine de charbon,
+elle n'a pas de charbon. Or à l'époque l'industrie, c'est notamment la
+sidérurgie, ça fonctionne avec le charbon. Sans charbon, la sidérurgie,
+difficile de développer, de produire de l'acier, difficile donc d'avoir des
+voies de chemin de fer, etc. Ou alors on importe bien sûr l'acier, mais du coup
+c'est moins efficace, c'est beaucoup plus cher. L'Italie va surtout
+s'industrialiser après la révolution des transports, c'est-à-dire à la fin du
+19e siècle. Cette révolution des transports, je vous en ai déjà parlé tout à
+l'heure, on va peut-être un peu maintenant la détailler. C'est évidemment le
+moment, après 1860 en fait, où on va commencer à avoir un vrai réseau de chemin
+de fer, qu'ils soient suffisamment importants pour permettre des grands voyages.
+Donc le chemin de fer, c'est l'une des composantes de la révolution des
+transports. Deuxième composante extrêmement importante : les navires à vapeur,
+le fait qu'on va passer des bateaux à voile aux bateaux à vapeur pour le
+transport de marchandises, et là ça va augmenter considérablement l'efficacité
+du transport maritime. Et puis très vite, à partir des années 1890-1900, on va
+commencer à voir des véhicules à moteur à explosion, qui vont là aussi améliorer
+progressivement le transport de marchandises sur la route. Globalement on va
+voir le coût de transport qui va être divisé par dix en un siècle. Ça va finir
+par avantager l'Italie parce que l'Italie comme j'ai dit n'a pas de charbon,
+donc elle est limitée dans une ressource extrêmement importante, mais quand à
+partir de la fin du 19e siècle on va voir les coûts de transport diminuer, elle
+va pouvoir importer du charbon, mais là pouvoir aussi s'appuyer sur d'autres
+sources d'énergie que le charbon, parce qu'en même temps on va avoir l'essence,
+qui va devenir importante, le pétrole, et puis également l'électricité. Donc on
+va pouvoir développer – l'Italie va commencer à développer non pas une industrie
+lourde à base de charbon et de mines de fer, mais plutôt une industrie légère,
+c'est-à-dire des biens de consommation, qui sont encore aujourd'hui le cœur du
+tissu industriel italien. Les Italiens sont en fait restés plus industrialisés
+que les Français quand on regarde la part de l'industrie dans le PIB, et des
+supérieurs en qualité. Il y a plus d'ouvriers en Italie qu'en France, la France
+est beaucoup moins industrialisée. Ce qui fait la force de l'industrie
+italienne, ce sont ces biens de consommation, alors ça peut être dans le textile
+bien sûr, mais ça peut être aussi dans le mobilier, ça peut être plein de
+petites choses comme ça qui font que l'Italie à partir du 20e siècle – nous
+avons près la seconde révolution industrielle, après la Seconde Guerre mondiale
+pardon – après la Seconde Guerre mondiale va commencer à devenir très
+performante au niveau de l'industrie, ce qu'on appelle l'industrie légère de
+produits de consommation. En 1962 l'Italie est le sixième exportateur mondial et
+elle va dépasser le Royaume-Uni en 1992. Alors depuis les années 2000 l'Italie
+connaît une grave crise économique, mais l'industrie est relativement protégée
+par rapport aux autres secteurs d'activité.
+
+### La Russie
+
+Alors la Russie. La Russie, le développement russe est aussi assez intéressant.
+Je vois qu'il est 14h35. Si vous voulez faire une pause, vous pouvez aussi faire
+une pause et puis reprendre après, voilà c'est tout à fait autorisé. Moi je vais
+continuer jusqu'à 20h15 à 20h. La Russie voit son développement entravé par le
+fait qu'il s'agit d'un État très archaïque, très archaïque, pas du tout moderne
+pour le coup. C'est un empire, un empire rural, un empire extrêmement vaste
+puisqu'il intègre aussi l'Ukraine, aujourd'hui la Biélorussie, enfin tout ça
+fait partie de l'Empire russe, et il va jusqu'en Extrême-Orient, jusqu'à
+Vladivostok. Il y a une extension russe pendant tout le 19e siècle, avec
+notamment la colonne vertébrale de l'extension russe qui est le Transsibérien,
+qui va justement être la ligne de chemin de fer qui va relier Moscou à
+Vladivostok et qui va se construire à la fin du 19e siècle. Les Russes sont
+allés jusqu'en Alaska, ils vont ensuite revendre l'Alaska aux États-Unis, mais
+voyez ils sont très très très loin à l'est, et ils vont en quelque sorte
+coloniser les peuples qui sont là-bas et les transformer en peuple russe.
+Sachant que voilà, si vous allez en Russie aujourd'hui – enfin bon je n'y suis
+pas allé donc je ne peux pas vous dire – mais ceux qui y sont allés savent que
+quand vous franchissez l'Oural vous avez certaines villes clairement blanches,
+qui sont issues de populations russes qui sont parties notamment le long du
+Transsibérien. Quand vous vous éloignez du Transsibérien, vous avez des villes
+qui sont des villes asiatiques en fait, avec des populations autochtones qui ont
+été russifiées si je puis dire. Donc quand on regarde comment la Russie s'est
+étendue, elle s'est étendue par la colonisation. Les gens sont arrivés jusqu'à
+Vladivostok, les Russes – Vladivostok c'est une ville blanche peuplée de Russes,
+mais autour vous avez beaucoup de villes peuplées d'autochtones qui ont été
+russifiés si je puis dire, et parfois il y a encore des langues locales et des
+coutumes locales qui n'ont absolument rien de russe. Comment l'État russe s'est
+développé ? Par l'armée en fait, parce qu'on a un empire dans un empire
+militaire avec une structure féodale. Donc c'est une puissance démographique –
+la Russie aussi c'est le pays le plus peuplé d'Europe – mais cette puissance
+militaire et démographique n'est pas très moderne, pas très moderne parce que
+l'État est archaïque, c'est une monarchie absolue globalement. Les seigneurs
+russes pratiquent encore le servage, qui a disparu en Europe occidentale au
+14e-15e siècle, après la grande peste, la peste noire, il n'y a quasiment plus
+de féodalisme, enfin de servage pardon, en Europe. Souvenez-vous, le servage
+c'est très particulier, c'est quand même un rapport de domination puisque les
+serfs appartiennent à la terre, et donc comme ils appartiennent à la terre ils
+sont soumis aux propriétaires de la terre, qui est le seigneur local, à une
+énorme inégalité aussi de propriété foncière. La propriété foncière est
+concentrée chez les aristocrates russes qui ne l'exploitent pas très bien leur
+terre parce qu'ils s'en fichent, ils laissent les serfs la reproduire pour eux,
+et puis voilà ils récupèrent ensuite par l'impôt, par la taxe, par le loyer des
+terres, en fait ils récupèrent l'essentiel de la richesse créée par leurs serfs
+ou leurs paysans. Le servage en 1861, ça représente un tiers de la population,
+soit 25 millions de personnes. Donc on a à la louche un tiers, 25 millions de
+personnes, ça veut dire que les deux tiers de l'ensemble de la Russie, c'est
+60-75 millions de personnes, ce qui fait vraiment un pays peuplé pour l'époque.
+Bon, le problème du servage, c'est que c'est totalement incompatible avec la
+révolution agricole, c'est incompatible avec l'amélioration de la performance
+agricole, puisque en réalité – comme vous le savez, j'ai compris maintenant – à
+chaque fois qu'on a une révolution agricole, tout l'intérêt de la révolution
+agricole c'est de libérer la main-d'œuvre, d'augmenter la productivité agricole
+pour que la main-d'œuvre puisse aller dans les villes. Sauf que justement les
+serfs, ils ne veulent pas bouger de leur terre, ils sont attachés à la terre, et
+donc en fait il n'y a aucun moyen ni aucun intérêt à développer la productivité
+agricole. Donc il faut une réforme, et c'est Alexandre II qui abolit le servage
+en 1861, donc un début de modernisation de l'État russe. Bon, en fait l'État va
+rester très archaïque dans de nombreux points, et c'est la révolution russe de
+1917 qui va accélérer la modernisation de l'État. Je parle ici de la
+modernisation de l'appareil d'État, la bureaucratisation, sous ce que j'ai dit
+tout à l'heure, je ne parle pas de la question démocratique qui est une question
+qui se pose différemment. Par ailleurs la révolution russe entraîne une forme de
+– je ne vais pas dire démocratie – mais il y a une forme de progrès démocratique
+tout de même parce qu'on a un parlement qui devient un peu plus puissant, on a
+un parti qui intègre tout le monde, ce n'est pas un système de monarchie
+héréditaire comme on avait auparavant. Il y a une bureaucratie russe qui va être
+plus performante sous les Soviétiques que ce qu'elle n'était évidemment dans un
+régime autocratique avec une monarchie absolue. Donc il faut abolir le servage.
+Quand on a aboli le servage, et bien on va pouvoir lancer la révolution
+agricole, on va pouvoir libérer la main-d'œuvre, et cette main-d'œuvre va
+pouvoir aller enfin dans les villes. Je fais encore une parenthèse : vous parler
+de l'un des romans que j'ai lus qui est le plus intéressant au niveau de ce
+servage tardif, c'est Les Âmes mortes de Nicolas Gogol. Je vous invite à le
+lire, c'est un roman inachevé – ça au moins c'est particulier – où en fait ça
+raconte comment un escroc va chercher à racheter les âmes mortes, c'est-à-dire
+les serfs morts qui sont considérés comme vivants par l'administration mais qui
+sont morts du point de vue du fait qu'ils ne sont plus là. Donc en fait on voit
+ici que les serfs étaient quasiment des esclaves, on pouvait quasiment les
+acheter, en tout cas s'en prévaloir. Donc tout le problème de ce livre, c'est
+d'expliquer que ce personnage principal va chercher à aller voir tous les
+seigneurs des campagnes pour leur racheter leurs serfs décédés depuis le dernier
+recensement, donc ils sont considérés comme vivants par l'administration mais
+qui sont morts. En fait dans le livre on ne sait jamais pourquoi il fait ça,
+mais ça illustre l'archaïsme à la fois de la bureaucratie russe et en même temps
+des rapports sociaux, puisque en fait on va racheter des gens comme s'ils
+étaient inscrits, et puis là le côté arriéré des campagnes qui est extrêmement
+arriéré en Russie, voilà c'est la misère la plus totale dans les campagnes
+russes de l'époque.
+
+Alors évidemment la Russie n'est pas un très bon candidat pour engager la
+révolution industrielle. Cet archaïsme des institutions empêche la capacité du
+pays à se développer, mais on a un État qui veut se développer, qui a une
+volonté de modernisation qui est très forte dans le pouvoir. Et donc qu'est-ce
+qu'on fait quand on a ça ? C'est quand on n'a pas une population éduquée – par
+ailleurs le niveau d'éducation est très très faible en Russie – quand on n'a pas
+d'institutions qui permettent le développement de la révolution de l'école,
+etc., quand on n'a pas la mentalité d'entrepreneur en fait dans le pays – cette
+mentalité là aussi nécessite quand même un certain nombre de progrès, on a
+besoin d'un progrès de l'éducation – bon, qu'est-ce qu'on fait ? On va chercher
+à trouver à l'étranger les ressources qui nous manquent. Et donc les Russes ils
+vont ouvrir leur pays aux capitaux étrangers en disant aux entrepreneurs
+européens de l'Ouest : venez investir chez nous, venez créer vos hauts
+fourneaux, vos usines textiles, venez vous emparer de nos mines pour les
+exploiter correctement parce qu'en réalité la société russe n'est pas capable de
+le faire correctement. Et donc le capital étranger va s'investir en Russie, sur
+le territoire russe, et de manière considérable. C'est sans doute le pays qui va
+le plus faire appel au capital étranger pour se développer. Donc quelques
+chiffres, là aussi tirés de Paul Bairoch : plus de 90%, 91% des mines
+appartiennent à des étrangers. La Russie représente 30% du capital européen
+investi à l'étranger. La France est le premier investisseur en Russie,
+puisqu'elle fournit un tiers des capitaux étrangers. Ça aussi ça vient de
+l'amitié franco-russe traditionnelle de l'époque, au 19e siècle, parce que les
+Russes sont en quelque sorte des alliés contre l'Allemagne. C'est-à-dire que
+quand on veut entourer son adversaire, ses adversaires et notamment ses rivaux,
+et que l'Allemagne devient une rivale au 19e siècle, et bien c'est intéressant
+de pouvoir s'appuyer sur la Russie. Donc voilà, le tropisme pro-russe de la
+France explique une grande partie du fait que la France va beaucoup investir en
+Russie. La Belgique va investir encore plus que la France en termes de
+proportion par rapport à son économie. Alors ces investissements, on parle bien
+ici d'investissements directs à l'étranger, c'est-à-dire des gens qui soit
+financent des investissements locaux, soit en fait très souvent achètent
+eux-mêmes des mines ou vont construire eux-mêmes des usines sur le territoire
+russe. Ce n'est pas la même chose que ce qu'on a appelé les emprunts russes. Les
+emprunts russes sont souvent des emprunts publics, c'est-à-dire que c'est l'État
+russe qui emprunte, notamment pour construire ou moderniser ses infrastructures,
+notamment pour financer le Transsibérien. Et on a aussi des entreprises qui vont
+emprunter aussi, là aussi pour investir. Ce n'est pas la même chose que des IDE
+où on rachète directement des sociétés privées ou on construit des sociétés afin
+d'aider des usines, des infrastructures économiques.
+
+Alors cette volonté d'industrialisation de la Russie qui vient du plus haut
+niveau se heurte quand même à des difficultés institutionnelles, se heurte à un
+régime politique pas du tout moderne. Alexandre II – entre parenthèses,
+Alexandre II, celui qui a aboli le servage, il va se faire assassiner par les
+opposants. Les opposants, c'est les aristocrates russes qui ont vu, comme ça,
+perdre le pouvoir sur leurs propres serfs. Donc c'est compliqué de moderniser la
+Russie à cette époque. On va voir d'ailleurs à la fin du régime du tsar une
+petite ouverture démocratique avec la Douma, qui va venir après la défaite
+contre les Japonais en 1905 et une période révolutionnaire qui précède un peu de
+quelques années 1917. L'empereur, le tsar, va commencer à accepter de composer
+un peu avec le reste de la société, ça se fait lentement. Donc tout ça explique
+pourquoi la Russie ne progresse pas très vite dans son industrialisation. Il
+faut aussi voir que c'est très très vaste et là aussi ça crée des difficultés,
+on va avoir des régions russes qui vont peut-être être européennes – la ville la
+plus européenne de Russie c'est Saint-Pétersbourg, c'est-à-dire Petrograd à
+l'époque, qui est dans le nord, près de la Finlande – voilà, cette ville va
+chercher à se mettre très moderne, mais en fait on va aussi avoir plein de
+campagnes russes qui vont être très très arriérées. Néanmoins, notamment après
+1860 où on a l'abolition du servage, après 1880 où on va commencer à voir des
+réformes qui vont produire leurs effets, on va voir la Russie qui va commencer à
+émerger du point de vue industriel. En 1910 – en 1910 pardon – la Russie dispose
+de 9% de la capacité européenne en filature de coton, soit une multiplication
+par quatre de 1860 à 1910. Donc là on voit une véritable décollage. Mais vous
+voyez très tardivement dans le 19e siècle. On a une production de fer qui elle
+aussi est multipliée par dix entre 1881 et 1913, et en 1913 la Russie produit
+plus de fer que la France, de fer et d'acier, c'est la même chose. Voilà, donc
+là ça veut dire qu'enfin la Russie commence à se développer vraiment au début du
+20e siècle, au moment où en fait le régime tsariste est un peu à l'agonie,
+puisque les institutions politiques deviennent elles aussi très archaïques, ce
+qui va expliquer la révolution russe. Premier producteur mondial ? Quatrième
+producteur mondial devant la France, mais attention avec une population bien
+plus nombreuse, presque deux fois plus de population qu'en France, donc par
+habitant ce n'est pas beaucoup.
+
+### Le Japon
+
+Le dernier pays qui s'est industrialisé sur lequel il me semble important de
+revenir, c'est le Japon. Le Japon c'est quand même une exception, c'est le
+premier pays non européen qui va s'industrialiser, c'est aussi l'un des pays qui
+va échapper à cette malédiction du sous-développement. Donc on peut se poser la
+question de savoir comment ça s'est fait et pourquoi finalement le Japon
+parvient à s'extraire notamment de la colonisation, puisque c'est aussi l'un des
+rares pays traditionnels qui ne va pas être colonisé par les Européens, ou que
+par une forte influence des Européens. Alors Bairoch explique l'aspect cité
+japonaise par trois raisons – vous allez voir qu'elles paraissent un peu
+bizarres quand on les lit, et ensuite je vais expliquer. La première c'est que
+le Japon se trouve dans une zone climatique tempérée. La deuxième c'est que
+c'est le pays d'Asie le plus éloigné de l'Europe. Et la troisième c'est que les
+produits manufacturés du Japon traditionnel n'étaient pas les plus avancés
+d'Asie, ni les plus intéressants. Et donc pour Bairoch, ces trois raisons
+expliquent l'industrialisation du Japon. Bon, alors si je dis ça comme ça
+évidemment c'est un peu surprenant, et je vais maintenant expliquer : en fait
+ces trois raisons expliquent en une seule chose, le désintérêt des Européens
+pour le Japon. Désintérêt parce que même climat, même zone climatique, donc
+aucun intérêt de faire des plantations de canne à sucre ou de coton au Japon, il
+n'y a pas de climat différent qui vous intéresserait. Pas de climat tropical qui
+permettrait de rendre cela efficace, il vaut beaucoup mieux faire la canne à
+sucre dans les Antilles par exemple. Deuxième élément, le Japon est très
+éloigné, très éloigné, très très éloigné de l'Europe, ce qui veut dire que les
+coûts de transport sont très élevés, donc le commerce avec le Japon n'est pas
+extrêmement intéressant pour les pays européens. Troisièmement, désintérêt des
+Européens également parce qu'il n'y a rien de spécial, rien d'exceptionnel
+produit au Japon. Si vous voulez de la porcelaine, il vaut mieux aller en Chine.
+Si vous voulez de la soie, là aussi en Chine. Voilà, autant de pays plus
+proches. Si vous voulez des magnifiques tissus en coton, il faut aller en Inde.
+Bon, il n'y a rien au Japon qui attire vraiment les Européens, à part le fait
+que c'est très très loin, et donc notamment mythologique. Je vous rappelle que
+les trésors que Colomb, quand il arrive dans les Antilles, à son premier voyage,
+quand il découvre l'Amérique, lui il cherche l'empereur du Japon parce qu'il est
+persuadé d'être au Japon. Pour lui tous les gens qui se comportent, toutes les
+populations du Nouveau Monde, il ne voit pas de contradiction avec le fait que
+ce soit des Japonais. On a une connaissance extrêmement mauvaise du Japon au
+début du 19e, 18e-début 19e, et cette connaissance va augmenter au fur et à
+mesure qu'on va rentrer en contact avec le Japon, notamment par des guerres et
+des conflits. Alors justement, à partir du 17e siècle, le Japon va chercher à
+s'isoler, et ça a aussi expliqué le fait qu'on n'aura pas une très grande
+connaissance du Japon. Il va s'isoler des populations étrangères. Le Japon c'est
+un archipel, donc c'est sûr, l'isolement. En fait le Japon ne va commercer
+qu'avec trois nations : les Coréens, les Chinois – bon proximité géographique et
+culturelle, les caractères japonais sont les caractères chinois – et grâce à –
+comment dire – la tradition commerciale extrêmement développée des Pays-Bas, les
+Japonais vont accepter de commercer avec les Hollandais. Alors attention, quand
+on dit accepter de commercer, ça veut dire qu'on accepte de temps en temps les
+navires marchands pour faire du commerce localement dans certains ports
+particuliers, notamment à Nagasaki, qui est ouvert aux Hollandais pendant
+quelques périodes de l'année. C'est-à-dire que les Hollandais peuvent évidemment
+pas aller et venir au Japon, ils ne vont pas commercer comme ils veulent. Ça va
+être soumis au pouvoir du Japon. Pareil pour les Coréens, les Chinois. Donc
+c'est un volume de commerce qui est limité, qui est très régulé, mais c'est
+possible. Et puis c'est tout. Les Portugais, ils vont chercher à commercer avec
+les Japonais, et non seulement on ne va pas les laisser commercer, mais on va
+les quasiment tous décapiter, et on va envoyer les trois qui restent, trois
+marins qui restent, avec un message : dites à l'Occident qu'il fasse comme si
+nous n'existions plus en 1640. Donc voilà, volonté assumée de n'avoir aucun
+contact, aucune relation avec l'extérieur. Cet isolement va durer longtemps, il
+va durer deux siècles, et il va être cassé par la puissance militaire non pas
+des Européens mais d'abord des Américains. Les Américains en 1848 conquièrent la
+Californie – ils la conquièrent sur l'Espagne, c'est une colonie espagnole,
+enfin oui au départ c'est une colonie espagnole mais après c'est devenu un
+royaume hindou enfin c'était un peu compliqué, mais en gros en 1848 la
+Californie devient un État américain. Et donc ça leur ouvre le Pacifique. Du
+coup ils se disent : comme à l'époque tout le monde voulait développer des
+relations avec la Chine à partir de San Francisco, la baie de San Francisco,
+avec des conditions naturelles qui permettent le commerce, on va pouvoir lancer
+des navires jusqu'en Chine. Or au passage, il y a le Japon entre les deux. Donc
+on essaie de commercer avec les Japonais, et les Japonais, et bien voilà ils ne
+veulent pas commercer. Donc il y a un conflit commercial, conflit militaire
+pardon, et la flotte militaire américaine va envoyer quelques navires au Japon,
+et sous la contrainte les Japonais vont être obligés de signer le traité de
+Kanagawa qui ouvre les ports japonais au commerce avec les Américains. Et ça
+évidemment c'est une humiliation pour le Japon qui avait voulu s'isoler du reste
+du monde mais qui comprend bien que le développement technologique de l'Occident
+et des États-Unis est tellement important qu'ils vont finir par se soumettre –
+pas risquer de se soumettre – à l'Occident. Donc cette défaite du régime des
+shoguns – alors les shoguns ce sont des militaires, en fait un des généraux qui
+gouvernait en fait de fait, il y avait le pouvoir réel, il y avait aussi un
+empereur du Japon mais l'empereur japonais n'avait quasiment pas de pouvoir à
+part un pouvoir spirituel. Et en fait cette défaite du shogunat va entraîner un
+changement de régime. Ce changement de régime c'est ce qu'on appelle l'ère
+Meiji, qui va commencer en 1868, une forme de révolution au Japon, qui va
+remettre au cœur du pouvoir politique l'empereur. C'est là qu'on va voir le
+Japon se transformer en empire, qui va assez vite en fait devenir un empire
+conquérant, expansionniste dans les années 1920-1930. C'est ce qui va entraîner
+derrière la Seconde Guerre mondiale. L'intérêt d'un seul grand bien du Japon,
+mais il faut comprendre que cette transformation du Japon elle est aussi le
+produit d'une confrontation avec l'Occident, avec les États-Unis en particulier,
+de cette petite guerre qui va obliger en quelque sorte les Japonais à s'ouvrir
+alors qu'ils voulaient rester fermés au commerce occidental, et qui va pousser
+le Japon à transformer l'ensemble de son système et de sa société. Et l'ère
+Meiji, c'est le retour de l'empereur en fait, non seulement comme pouvoir
+spirituel mais aussi comme pouvoir temporel.
+
+Alors comment le Japon va-t-il se développer ? Et bien il va se développer en
+regardant ce qui s'est passé en Europe, très très précisément ce qui s'est passé
+en Europe, et donc mener des politiques sur le même principe qu'on a vu,
+c'est-à-dire d'abord une révolution agricole, ensuite une politique industrielle
+et une transformation sociale. Premier élément : la réforme agricole. Qu'est-ce
+que c'est la réforme agricole au Japon ? Ça tient lieu d'une réforme agraire. La
+réforme agraire, c'est deux choses. D'une part un nouveau système d'accession :
+au lieu d'avoir un système de taxation proportionnelle comme c'est d'ailleurs en
+général le cas, on va faire maintenant une taxe fixe. La taxe fixe, ça permet en
+fait de pousser les agriculteurs à devenir plus performants parce qu'en gros
+tout ce qu'ils gagnent au-delà de la taxe, et bien c'est pour eux. Deuxième
+élément : une redistribution des terres, notamment éviter ce qui parfois nuit à
+la culture, une trop forte concentration des terres dans un faible nombre de
+mains. Donc les paysans qui cultivent la terre, c'est eux qui doivent la
+posséder, de manière à pouvoir là aussi développer les investissements. Au
+départ on va jusqu'à interdire la vente de terres pour éviter justement la
+concentration, mais en vérité on s'aperçoit que ce n'est pas très performant
+parce que justement si on veut libérer la main-d'œuvre il faut que des terres se
+vendent, il faut aussi une forme de concentration mais une concentration
+efficace. Donc après 1872 on permet à nouveau les reventes de terre. Deuxième
+élément : la politique industrielle. Alors le problème du Japon c'est un peu
+comme le problème des Russes : on n'a pas de culture autonome
+d'industrialisation, et donc c'est l'État qui va chercher à investir, à
+transformer sa société. Comme on ne peut pas se reposer sur l'initiative privée,
+il va donc créer des entreprises publiques puis il va les privatiser. Donc
+l'État est vraiment au cœur de l'industrialisation du Japon. Il va même importer
+des machines européennes, il va les faire circuler dans les provinces, il va
+montrer aux gens comment faire fonctionner ces machines, comment les réparer,
+comment les construire. Il va donc, j'ai dit, nationaliser des entreprises pour
+les rendre performantes, pour les réorganiser, les rendre performantes, voire
+parfois les créer ex nihilo. Donc en 1880 l'État japonais possède 54 entreprises
+industrielles, dont trois centres de chantiers de construction navale. Vous
+voyez, c'est l'État qui va directement investir pour réussir à développer
+l'industrie. Il faut des techniciens. On ne va pas demander à un Anglais ou un
+Français ou un Néerlandais de venir s'installer au Japon, c'est une société qui
+est totalement fermée aux étrangers. Et donc qu'est-ce qu'on fait ? Mais on
+envoie des Japonais à l'étranger, en Europe, notamment en Allemagne – d'ailleurs
+on va avoir des liens culturels assez forts entre le Japon et l'Allemagne à la
+fin du 19e siècle, début 20e siècle. Si vous avez vu le film de Miyazaki Le Vent
+se lève, c'est l'histoire de l'aviation et de la Seconde Guerre mondiale vue par
+les Japonais, on voit un ingénieur japonais qui va chercher à faire de l'avion,
+et où est-ce qu'il va ? En Allemagne se former. Donc on a envoyé – tradition à
+la fin 19e siècle début 20e siècle – on allait envoyer des Japonais en Europe
+pour se former et pour ensuite refaire venir les techniques. Donc on a ici un
+exemple d'une industrialisation qui se fait par la décision et sous l'impulsion
+de l'État, par la décision du pouvoir politique, dans le cadre d'une rivalité
+stratégique avec les États-Unis en particulier mais avec l'Europe et l'Occident
+en général, qui s'appuie très fortement sur des ressources autochtones,
+c'est-à-dire qu'on ne va pas du tout chercher à apporter des étrangers, on va au
+contraire envoyer des Japonais à l'étranger se former et les faire revenir.
+Pareil, on ne va pas utiliser du capital comme en Russie, du capital étranger,
+on va se fonder sur ses propres ressources. Donc il n'y a ni capitaux ni
+main-d'œuvre étrangers au Japon, ce qui explique la révolution industrielle
+japonaise : tout s'est fait de manière autochtone, avec bien sûr une stratégie
+d'imitation. La seule chose quand même qu'ils ne vont pas inventer, ce sont les
+machines, qui vont sortir de l'Occident. Évidemment tout cela nécessite une
+amélioration du niveau d'instruction, donc on va aussi transformer
+l'enseignement, et là aussi on va copier le système d'enseignement européen avec
+le principe des trois niveaux : primaire, secondaire, tertiaire, avec l'école
+primaire obligatoire en 1872, avant la France. On s'applique quand même sur
+l'alphabétisation – savoir-faire, fabrication, ce n'était pas le bon mot – pour
+le Japon qui n'a pas une écriture en fin de l'alphabet, mais en gros le niveau
+d'instruction va augmenter, sachant qu'il était déjà assez élevé dans la société
+traditionnelle. On considère qu'avant donc l'ère Meiji on avait un taux
+d'alphabétisation de 50% pour les hommes, 15% pour les femmes, ce qui est
+relativement bon – souvenez-vous, on n'était pas mieux en Occident à l'époque.
+Mais avec l'instruction obligatoire, le niveau scientifique et culturel et le
+niveau d'alphabétisation de la société japonaise et les connaissances en général
+vont très vite progresser, et le Japon va très vite dépasser l'Europe. Le
+décollage se fera beaucoup au 20e siècle vraiment, et notamment pendant la
+Première Guerre mondiale. Au cours de la Première Guerre mondiale, le Japon va
+vraiment – 110 crise – se renforcer très fortement, ce qui va en faire une
+puissance militaire et industrielle très forte dans les années 20 et 30. Alors
+je ne sais pas si c'est – oui bon il n'y a que deux diapos sur le Japon, on
+pourrait dire plein de choses, mais ce qui est intéressant c'est de voir que les
+modalités du Japon sont tout à fait spécifiques et ça vient du fait que le Japon
+a fait et a développé sa politique d'industrialisation de manière totalement
+autonome.
+
+## Les cas du Portugal et du Danemark
+
+Deux cas intéressants là aussi et qui vont dans des sens très différents : le
+cas du Portugal et le Danemark. Paul Bairoch les étudie tous les deux parce
+qu'ils vérifient une chose, c'est qu'on peut tout à fait ne pas s'industrialiser
+et être riche au 19e siècle. C'est le cas du Danemark, qui est un peu une
+exception là aussi. Ou alors on peut être un pays très riche au début du 19e
+siècle et s'appauvrir considérablement, en tout cas relativement, pendant tout
+le 19e siècle. C'est le cas du Portugal. Alors qu'est-ce qui caractérise le
+Portugal et le Danemark ? Qu'est-ce qu'ils ont comme point commun ? Eh bien ils
+ont comme point commun d'être liés par des accords commerciaux avec le
+Royaume-Uni. Ce sont deux économies complémentaires du Royaume-Uni. Tout d'abord
+le Portugal. Le Portugal est lié depuis 1703 à l'Angleterre par le traité de
+Methuen. Le traité de Methuen, c'est un des plus courts traités commerciaux,
+plus court traité international du monde. Il tient en une phrase ou deux, vous
+pouvez regarder ça sur Wikipédia, c'est assez amusant. C'est le traité qui dit
+en gros que l'Angleterre achètera tout le vin portugais et le Portugal achètera
+tous les tissus textiles anglais sans aucune restriction. Alors c'est – vous
+souvenez si vous avez fait un peu de – si vous avez vu de la littérature
+économique, Smith et Ricardo après lui prennent l'exemple du Portugal et de
+l'Angleterre en prenant justement ces biens comme le principe de l'échange
+commercial, c'est-à-dire les draps anglais exportés au Portugal et le vin
+portugais importé en Angleterre ou exporté en Angleterre. Et en fait ce n'est
+pas pour rien qu'on a pris ces deux pays et ces biens, c'est parce que ce sont
+des biens qui sont soumis au libre-échange. Alors le problème c'est qu'en 1700
+ce traité avait du sens, et progressivement avec la révolution industrielle les
+Portugais vont connaître des difficultés de plus en plus importantes dans leur
+économie, tout simplement parce qu'ils vont être victimes de la concurrence des
+tissus anglais qui va faire globalement s'effondrer l'industrie locale. Ils vont
+rentrer dans une dépendance de plus en plus forte avec l'Angleterre et une
+spécialisation dans le vin qui ne va pas leur permettre de développer leur
+économie. Lorsque le Brésil devient indépendant en 1822, ils vont perdre l'accès
+à ces débouchés, et donc ils vont se replier en quelque sorte sur l'Angleterre
+comme leur partenaire commercial le plus important. Le Royaume-Uni représente
+60% des exportations portugaises en 1810, alors même que du point de vue du
+Royaume-Uni le Portugal ne représente que 1% des exportations. Qu'est-ce que ça
+signifie ? Ça signifie qu'il y a une relation commerciale déséquilibrée. En
+gros, sans le Royaume-Uni le Portugal ne peut plus exporter, notamment bien sûr
+du vin, parce que c'est la moitié de toute l'exportation portugaise, alors que
+le Royaume-Uni n'a pas vraiment besoin du Portugal pour développer son
+industrie. Donc là, le caractère inégal en fait de ce type de relations
+commerciales. Comme le textile est absolument indispensable dans la dynamique
+industrielle de la première révolution industrielle, et que le textile portugais
+– comment dire – le Portugal ne va pas pouvoir se lancer dans l'activité textile
+parce qu'il va en fait privilégier les importations de textile britannique. Et
+donc ce traité commercial va casser la dynamique d'industrialisation du Portugal
+en ne suscitant pas une production autonome de biens textiles. Donc on va voir
+que si le vin représente la moitié des exportations portugaises, les biens
+manufacturés ne représentent que 10% de ses exportations. Donc en fait la
+spécialisation dans le vin, dans la production de vins du Portugal, va nuire à
+son dynamisme industriel. On peut dire aussi d'autres choses sur cette
+spécialisation, que je ne vais pas mettre trop longtemps, mais le problème du
+vin c'est que pour en produire davantage il faut davantage de terres qui sont
+capables de produire de la vigne. Or le capital terre est limité, on ne peut pas
+accumuler des terres pour produire plus de vin, et donc le Portugal se voit
+limité dans sa croissance économique et dans son potentiel de produire du vin. À
+l'inverse les Anglais ont une capacité de produire des textiles de manière
+quasiment illimitée parce qu'on n'a pas besoin de terre, on a besoin de
+main-d'œuvre, besoin d'une usine, d'une bonne machine, et donc tout ça on peut
+l'accumuler facilement, beaucoup plus qu'on ne peut accumuler la terre. Et là
+aussi ça explique pourquoi la spécialisation dans le vin ne suscite pas – la
+spécialisation dans le textile, dernier élément : le vin ne suscite pas de
+progrès technologiques. Le vin est bon parce qu'il est produit de manière
+artisanale, traditionnelle, en respectant plein de voies, la terre et tout ça.
+Alors que le textile lui est soumis à l'innovation, aux progrès de la
+mécanisation. Et c'est donc bien sûr le dynamisme économique que permet la
+spécialisation dans le vin qui n'est pas du tout le même que le dynamisme
+économique qu'apporte la spécialisation dans le textile. C'est la raison pour
+laquelle le Portugal, qui était l'un des pays les plus développés d'Europe au
+début du 18e siècle au moment de la signature du traité de Methuen, devient l'un
+des plus pauvres d'Europe à la fin de la Première Guerre mondiale. Et donc là
+aussi finalement une complémentarité économique du Portugal vis-à-vis du
+Royaume-Uni qui va se faire finalement au détriment du Portugal puisqu'il ne va
+pas réussir à se lancer dans l'industrialisation. L'industrialisation sera très
+faible, on l'a vu sur le tableau tout à l'heure.
+
+Maintenant prenons le cas du Danemark. Le Danemark aussi est lié avec
+l'Angleterre par des traités commerciaux. Le Danemark est proche – ou un film en
+Angleterre – il ne faut pas vendre du vin en Angleterre puisqu'il n'y a pas
+beaucoup de vin qu'on peut produire autant de marques, mais par contre il va
+pouvoir vendre du blé, des céréales, et ça depuis la fin du 17e siècle, c'est
+depuis très longtemps. Souvenez-vous, les Anglais produisent finalement assez
+peu de céréales. Dans la révolution industrielle, très vite ils vont voir leur
+production agricole disparaître, donc ils vont produire beaucoup de céréales au
+début, puis un moment la révolution agricole progresse, et progressivement au
+début du 20e siècle leur agriculture va un peu péricliter au profit de
+l'industrie. Les Danois eux ils vont se spécialiser au début du siècle dans la
+production de céréales pour l'exportation. Il va devenir très vite au milieu du
+19e siècle le premier pays exportateur en termes d'exportations par habitant au
+monde. Il va exporter 1350 kg de céréales par habitant contre 30 kg pour la
+Russie, 2 kg pour les États-Unis. Donc voilà cette spécialisation dans la
+production de céréales va amener en fait le Danemark à être assez riche.
+Néanmoins après 1860 le Danemark va être confronté à la révolution des
+transports. Souvenez-vous, la révolution des transports, j'en ai déjà parlé tout
+à l'heure, donc c'est le développement bien sûr du chemin de fer, mais c'est
+aussi le développement de la marine marchande à vapeur, des bateaux à vapeur, et
+ça va entraîner une baisse de 40% des prix des céréales aux États-Unis. Pourquoi
+? Parce que les pays du Nouveau Monde vont commencer à exporter en Angleterre.
+Le Nouveau Monde, c'est le prix d'Amérique, sur un bateau à voile, transporter
+du blé, faire traverser du blé, faire en sorte que le blé traverse l'Atlantique,
+ce n'est pas très rentable. À partir du moment où on commence à avoir des
+bateaux bien plus performants, qui surtout sont bien plus gros – parce qu'en
+fait ce qui change entre les navires à voile et les navires à vapeur c'est la
+taille du bateau. En fait très très vite vous êtes limité dans la taille par la
+voile. Concrètement, si votre bateau est trop lourd, le vent ne pourra pas le
+faire mouvoir suffisamment. Par contre quand vous avez une machine à vapeur, là
+vous n'avez plus aucune limite dans la taille des bateaux. C'est pour ça qu'on
+va voir des bateaux de plus en plus grands tout à la fin du 19e siècle, jusqu'au
+fameux Titanic au début du 20e siècle. Le bateau le plus grand du monde c'était
+un paquebot, ce n'était pas un cargo, mais c'est un peu la même idée :
+c'est-à-dire qu'en fait vous allez avoir des bateaux de plus en plus grands, et
+avec des bateaux de plus en plus grands vous allez avoir une augmentation de la
+productivité en fait du transport, qui va faire baisser le coût unitaire de
+transport. Et les céréales qui se gardent longtemps si elles sont bien
+entreposées vont pouvoir traverser l'Atlantique bien plus facilement. Donc
+comment le Danemark va agir face à cette concurrence des pays du Nouveau Monde ?
+Alors derniers éléments pour montrer pourquoi la concurrence est inégale, c'est
+que les États-Unis ont un coût du foncier qui est très très faible.
+Souvenez-vous, ça aussi on a déjà parlé, c'est-à-dire que la terre est très peu
+chère aux États-Unis, donc ça veut dire que les agriculteurs produisent à des
+coûts plus faibles que les Européens. Et donc si le prix de transport diminue,
+et bien les céréales d'Amérique, et des États-Unis en particulier, vont
+commencer à devenir plus compétitives que les céréales danoises. Bon, alors
+comment le Danemark va faire par rapport à ça ? Eh bien ils vont se reconvertir,
+et ils vont se reconvertir dans des produits où ils ne seront pas en concurrence
+avec les États-Unis, c'est-à-dire des produits frais, qui ne sont pas des
+céréales : du beurre, du lard, du jambon, des œufs. Donc en fait ils vont en
+quelque sorte reconvertir l'agriculture pour produire des biens plus qualitatifs
+et surtout des biens qui nécessitent de préserver – enfin qui ne peuvent pas
+être exportés sur des milliers de kilomètres par bateau, puisqu'ils ne se
+conservent pas aussi bien que les céréales. Et donc ces produits agricoles plus
+élaborés vont enrichir considérablement le Danemark. Regardez, on a ici le
+tableau qui montre l'exemple du beurre : exportation de beurre danois en
+milliers de tonnes – 1860, donc c'est rien, c'est marginal – 1872, donc douze
+ans plus tard, dix mille tonnes – et puis 1888, donc on est 22 ans plus tard, 50
+mille tonnes de beurre. Alors comment est-ce que la rupture danoise – comment ça
+se convertir d'une agriculture exportatrice de céréales à une agriculture
+exportatrice de beurre, de lait, de lard, de jambon ? Et bien parce que
+l'agriculture danoise est très performante, parce que la population danoise est
+extrêmement cultivée, extrêmement alphabétisée, et parce que les régulateurs –
+en fait – d'une marque, puisque toutes les futures – est fondée sur des
+coopératives agricoles, et ça aussi c'est soutenu par l'État. L'État danois va
+chercher à susciter ces transformations, ces reconversions dans la culture, et
+ils vont avoir une culture qui comme ça va devenir très performante. Très vite
+en fait ils vont être capables de se reconvertir très rapidement. Tout à l'heure
+je vous disais le problème du Portugal, c'est que dans le vin, quand on produit
+du bon vin, on n'a pas de capacité de s'améliorer, on a déjà un produit agricole
+très transformé. Pour les Danois, on voit qu'en fait ils peuvent assez
+facilement se reconvertir, on a toutes sortes de produits alimentaires et pas
+simplement du vin qui est produit par les Danois. La productivité agricole
+danoise en 1913 est deux fois et demie plus élevée que la moyenne européenne, et
+12 à 14% en dessous de celle des États-Unis. Donc souvenez-vous pourquoi ils
+sont moins productifs que les Américains : c'est parce qu'ils ont un accès à la
+terre plus difficile. Mais ils sont bien plus performants que le reste de
+l'Europe parce qu'ils se sont totalement réorganisés sous l'impulsion de l'État,
+sous l'impulsion des coopératives agricoles. Donc le taux d'alphabétisation,
+comme je voulais le dire, extrêmement fort : 97% en 1880. Donc le taux
+d'alphabétisation qu'on connaît aujourd'hui en France, c'est-à-dire un pays
+moderne développé, en 1881 – souvenez-vous, l'école n'est obligatoire en France
+qu'en 1881 – donc ils ont deux générations d'avance, c'est-à-dire que tout le
+monde, y compris les vieux, sait lire et écrire au Danemark en 1881. Ça facilite
+bien sûr les reconversions des coopératives agricoles. On va aussi développer la
+culture avec des réformes agraires, donc là aussi c'est la redistribution des
+terres. On va aussi partager les richesses avec un système social qui va se
+développer très fortement à la fin du 19e siècle, un peu ce modèle allemand mais
+sans l'industrie, c'est-à-dire un système de partage des richesses, d'assurance
+maladie, d'assurance chômage, d'assurance vieillesse, qui va se développer en
+s'appuyant sur le tissu économique et social coopératif. L'industrialisation du
+Danemark va se faire très tardivement, après 1880. Comment on sait que ce n'est
+pas – comment on sait que c'est – parce que c'est mon pays – ce n'est pas
+beaucoup industrialisé ? Parce qu'on regarde les importations de coton. Voilà,
+comme ça, l'industrialisation c'est souvent le textile, et le textile en général
+c'est souvent le coton. Or le coton ne se produit pas en Europe, donc il faut
+l'importer. Donc quand on voit un pays importer beaucoup de coton brut, on se
+dit tiens, il a déjà du textile. Et le Danemark, bah il n'importe pas beaucoup
+de coton brut, donc on sait qu'il n'y a pas beaucoup d'usines textiles. Donc on
+se dit, enfin, c'est un signe de faible industrialisation. Voilà, il n'a pas
+beaucoup de ressources minières, donc on ne peut pas produire du fer sur place.
+Qu'est-ce qu'il va importer du fer ? Là aussi on ne voit pas beaucoup
+d'importations de fer avant 1880, quand il commence à importer du fer, là on
+sait qu'il va avoir une industrie de transformation. Donc c'est un pays qui va
+s'industrialiser tardivement, mais qui contrairement au Portugal compense cette
+faible industrialisation par une agriculture extrêmement performante et très
+riche. Et c'est l'un des pays les plus riches du monde à la fin du 19e siècle :
+il fait partie des six ou sept pays les plus riches du monde en termes de PIB
+par habitant. Ce qui pour Bairoch démontre une chose, c'est que jusqu'à la fin
+du 19e siècle on pouvait être riche sans avoir de grosses industries. Après ça
+va changer, et le Danemark va bien sûr développer une industrie, mais dans des
+conditions très particulières, c'est-à-dire une capacité du Danemark à se
+renouveler, à être capable de vraiment investir très fortement dans la culture,
+et avant d'en fait aussi ses produits agricoles, à une société à la fois plus
+nombreuse et plus riche que lui, quelques soient les États-Unis, l'Italie, le
+Royaume-Uni.
+
+## Tableau récapitulatif
+
+Alors je voudrais dans ce tableau récapituler les modalités de la révolution
+industrielle des différents pays. À gauche, première colonne : la précocité.
+Quel est le pays qui s'allonge – en 1000 et plus d'émoi – un tableau que j'ai
+fait, j'ai construit pour synthétiser ce qu'on a vu. Précocité de la révolution
+industrielle, donc tu es plus des moins – des 0 0 c'est dans la moyenne, plus
+c'est au-dessus de la moyenne, et moins c'est en dessous de la moyenne. Plus
+plus – voilà. Un seul pays : l'Angleterre. Ensuite on a les pays de la première
+vague : Suisse, France, Belgique, USA. Donc évidemment entre ces pays on n'a pas
+une précocité – mais globalement c'est la moyenne. En Allemagne je mets 1,0
+voilà. Et puis en Italie, en Russie, au Japon, et même au Danemark, 1- –
+c'est-à-dire une industrialisation qui a – on va dire qu'elle est après les
+années 1860, plutôt 1880 même. Et le Portugal : voilà c'est celui qui arrive
+sans doute en dernier. Deuxième colonne : le rôle de l'État. Ça c'est
+intéressant parce que l'État n'a pas le même rôle d'intervention dans
+l'industrialisation. Pour l'Angleterre le rôle de l'État est quasiment
+inexistant, donc j'ai mis moins – alors je ne mets pas de moins parce que de
+moins ça veut dire que l'État va tout faire pour empêcher l'industrialisation,
+ce qui n'est clairement pas le cas de l'Angleterre. Non, on veut dire qu'il
+n'intervient pas. En Suisse non plus. En Italie pas vraiment, même si en Italie
+l'unification italienne pourrait être considérée comme positive, mais en fait il
+n'y a pas vraiment de dynamique industrielle menée par l'État – pas de
+conscience en fait – un de l'année site et d'industrialisation. Portugal non
+plus. Les autres pays avec un plus – ce n'est pas ici de zéro, il est payé qu'un
+plus. Alors un plus simple c'est la Belgique, la France, les États-Unis,
+l'Allemagne et le Danemark, qui ont un rôle de l'État important. Je mettrais
+comme en particulier peut-être à côté l'Allemagne – l'Allemagne a un État qui a
+une vraie conscience de la logique d'industrialisation, qui va vraiment
+accompagner l'industrie avec vraiment des pratiques protectionnistes. C'est un
+peu la même chose pour les États-Unis, plus que la France et la Belgique par
+exemple. La France a plutôt été – ah non – tout est libre-échange – le Second
+Empire à partir de 1860 qui va en fait pénaliser l'industrie française, alors
+que l'Allemagne et les États-Unis vont eux rentrer dans une démarche
+protectionniste qui va préserver davantage leur industrie. Et puis à des pays
+dans lesquels l'État est au cœur du processus d'industrialisation : c'est le cas
+de la Russie et du Japon comme on l'a vu. Rôle des banques : les banques vont
+jouer un rôle important en Allemagne, elles vont jouer des rôles un peu plus
+faibles en Belgique et au Japon, et puis elles ne vont quasiment jouer aucun
+rôle dans les autres pays. Libre-échange avant 1850 : aucun pays sauf le
+Portugal et le Danemark – capic d'euros – les capitaux étrangers. Alors 0 pour
+l'Angleterre bien sûr. Ensuite les autres, c'est moins. Ceux pour qui ça va être
+important, c'est la Russie. Ceux pour qui ça va être très très faible aussi,
+c'est le Japon – Japon aucun. Alors je n'ai pas de connaissances pour le
+Portugal et le Danemark sur le rôle des capitaux étrangers. Est-ce que
+l'éducation va plutôt favoriser la croissance ou le développement de la
+révolution industrielle ou au contraire la pénaliser ? Bon, le Danemark c'est le
+niveau d'éducation le plus important. Ensuite on a – en plus – on a la Suisse,
+l'Allemagne et le Japon, 1-0. On a l'Angleterre, la Belgique, la France – enfin
+– en moins, l'Italie, la Russie, le Portugal – et enfin le Portugal en moins
+moins, pas beaucoup d'investissements dans l'éducation. J'aurais pu – l'Italie
+1-0, d'ailleurs je ne sais pas – il faudrait que je refasse des recherches parce
+qu'il y a quand même une société urbaine qui est très – après ses balles – à
+l'Italie, ce n'est pas non plus un pays très homogène. Richesse globale en 1913
+: donc là aussi en gros – bon le pays le plus riche ce sont les États-Unis,
+ensuite on a des pays de Galles – richesse – mais bon la France est un peu moins
+riche que les autres ici. L'Italie 0. Le Danemark a un niveau de richesse très
+fort, niveau industriel faible mais richesse forte. Le pays le plus pauvre du
+groupe : le Portugal, le Japon, la Russie, qui sont en 1913 – même s'ils sont
+rentrés dans la révolution industrielle – ne sont encore pas très riches au
+niveau de la richesse par habitant. Alors ben écoutez, c'est l'heure, il est
+15h24, donc j'aborderai le chapitre IV la semaine prochaine. Voilà, merci à vous
+et puis bonne fin d'après-midi, bon week-end et à très bientôt.

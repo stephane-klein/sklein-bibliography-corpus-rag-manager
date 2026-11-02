@@ -1,0 +1,258 @@
+---
+source_url: https://www.youtube.com/watch?v=hI89r4LqaCc
+video_title: "LE PRINCIPE DE CONDORCET (1/2) Une norme démocratique - Grain de philo #9"
+generated_at: 2026-09-19T09:25:28.929Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 104.5
+  input_tokens: 4771
+  cached_input_tokens: 4736
+  output_tokens: 3698
+  estimated_cost_usd: 0.001054
+  finish_reason: stop
+---
+
+# LE PRINCIPE DE CONDORCET (1/2) Une norme démocratique - Grain de philo #9
+
+## Le principe de Condorcet : une norme démocratique
+
+Aujourd'hui, nous allons parler d'une idée qui semble cruciale en démocratie :
+le principe de Condorcet. On pourrait avoir l'impression que ce n'est qu'une
+façon un peu compliquée de dire que, dans une élection, la majorité doit
+l'emporter. C'est juste la base en démocratie, et on ne voit pas trop le
+problème. Et pourtant, non seulement les résultats des élections dans les pays
+démocratiques semblent bien rarement respecter ce critère, mais en outre,
+beaucoup de gens qui se disent attachés à la démocratie seraient tout à fait
+opposés à ce que l'on mette en place un mode de scrutin respectant ce principe.
+Autant de raisons qui font qu'il paraît important de se pencher de près sur le
+principe de Condorcet et son rapport à la démocratie.
+
+## Le problème de la décision collective
+
+On a peut-être remarqué, surtout en temps d'élection, qu'à l'échelle d'un pays,
+tout le monde n'est pas d'accord sur tout. Or, vivre en société, c'est vivre
+sous des lois communes qui s'appliquent à tous. Et lorsqu'il faut prendre des
+décisions qui s'appliquent à tous et que personne n'est d'accord sur rien, on a
+un problème. On pourrait le résoudre en ayant un chef qui impose à tous sa loi
+sans demander l'avis de personne, mais ce ne serait pas très démocratique.
+
+On se demande alors : qu'est-ce qui fait qu'une décision est démocratique ?
+
+Avant d'aller plus loin, deux avertissements. D'abord, on ne veut pas discuter
+ici de la question de savoir si la démocratie en elle-même est une bonne chose,
+ni si elle permet de prendre de bonnes décisions. Autrement dit, on ne traite
+pas de la valeur ou de l'utilité de la démocratie. Ensuite, on ne veut pas
+discuter non plus de la question de savoir quel genre de chose on doit soumettre
+à un choix démocratique — voter pour des personnes, pour des partis, pour des
+idées, etc. Tout ça est intéressant, mais ce n'est pas le sujet.
+
+La question est plus simple et plus fondamentale, et c'est un préalable à toute
+autre discussion sur la démocratie : qu'est-ce qu'une décision prise
+démocratiquement ? Par exemple, si pour choisir notre président on veut faire ça
+de façon démocratique, qu'est-ce que ça impose exactement quant à l'organisation
+de la prise de décision ?
+
+## Le principe de majorité
+
+L'étymologie du mot « démocratie » vient de deux racines grecques : *dêmos* (le
+peuple) et *kratos* (le pouvoir). De même qu'une décision est monarchique si
+c'est un monarque qui la prend, on pourrait se dire qu'une décision est
+démocratique si c'est un peuple qui la prend — faire ce que le peuple veut. Sauf
+que seuls les individus ont une volonté, à strictement parler, et un peuple
+n'est pas un gros individu. C'est plutôt la réunion d'une multitude d'individus
+très différents, aux volontés très diverses et souvent inconciliables sur à peu
+près tous les sujets.
+
+On pourrait alors procéder ainsi : on se renseigne sur ce que veut chacun, par
+le biais d'un bulletin de vote, on agrège tout ça, et on suit la préférence de
+la majorité. C'est ce qu'on appelle le principe de majorité, et il paraît
+absolument fondamental pour le fonctionnement de la démocratie. On peut y voir
+la norme démocratique par excellence : une décision est démocratique avant tout
+dans la mesure où elle respecte ce principe de majorité.
+
+Il faut toutefois remarquer, avec Rousseau, qu'un tel principe n'a rien
+d'absolument légitime : si le principe de majorité ne fait pas l'unanimité,
+quelle est sa légitimité à s'imposer à ceux qui l'ont refusé ? Pour justifier le
+principe selon lequel la majorité l'emporte, on fait valoir qu'une majorité est
+d'accord avec ce principe — ce qui paraît un peu circulaire. Mais passons
+là-dessus. Admettons que nous soyons tous d'accords pour admettre qu'une
+décision est démocratique avant tout dans la mesure où elle respecte le principe
+de majorité.
+
+## Application : l'exemple des fromages
+
+Qu'est-ce que tel principe impose exactement quant au fonctionnement d'un
+scrutin démocratique ? L'idée que la majorité doit l'emporter reste en fait très
+vague et difficile à appliquer. Comment passe-t-on d'une somme de préférences
+individuelles à l'expression d'une préférence collective ? C'est un problème de
+mathématiques, au fond.
+
+Prenons un exemple. Pour éviter de parler politique, on va parler fromage.
+Supposons que nous devons élire un fromage et que nous avons le choix seulement
+entre le roquefort et la mimolette. Il y a deux types de préférences : un
+électeur peut préférer la mimolette au roquefort, ou le roquefort à la
+mimolette. Si les électeurs ayant le premier type de préférence sont en
+majorité, alors c'est la mimolette qui doit être choisie. Dans ce cas simple,
+c'est clair et net.
+
+Mais souvent, nous avons à choisir entre bien plus que deux options. Considérons
+un cas un peu plus compliqué avec trois options : roquefort, mimolette et
+camembert. Supposez le cas suivant : il y a 9 électeurs. 4 électeurs préfèrent
+le roquefort au camembert et le camembert à la mimolette. 3 électeurs préfèrent
+la mimolette au camembert et le camembert au roquefort. 2 électeurs préfèrent le
+camembert à la mimolette et la mimolette au roquefort.
+
+Quel fromage ce groupe devrait-il démocratiquement élire ?
+
+### Les scrutins classiques
+
+Si on organise un scrutin uninominal à un tour, comme en Corée du Sud, le
+résultat serait : 4 voix pour le roquefort, 3 voix pour la mimolette, 2 voix
+pour le camembert. Le roquefort serait élu.
+
+Si on préfère le scrutin à deux tours, comme aux élections présidentielles en
+France, le camembert, arrivé dernier au premier tour, serait éliminé, et le
+second tour verrait s'affronter le roquefort et la mimolette. Les deux électeurs
+du camembert préférant la mimolette au roquefort reporteraient leurs voix sur la
+mimolette, et au second tour, ce serait la mimolette qui l'emporterait avec 5
+voix contre 4.
+
+### Le vainqueur de Condorcet
+
+Mais quel mode de scrutin respecte vraiment les préférences de la majorité ? En
+fait, il y a une réponse claire et nette : aucun des deux. Parce qu'il existe
+une troisième alternative qu'une majorité d'électeurs préfère à toutes les
+autres : le camembert.
+
+En effet, si on faisait s'affronter le camembert au roquefort, le camembert
+l'emporterait par 5 voix contre 4, grâce au report de voix des partisans de la
+mimolette. Une majorité préfère donc le camembert au roquefort. De même, en duel
+contre la mimolette, le camembert l'emporterait par 6 voix contre 3, grâce au
+report de voix des partisans du roquefort. Une majorité préfère le camembert à
+la mimolette.
+
+Autrement dit, même si le camembert n'est pas le premier choix du plus grand
+nombre, c'est le seul des trois fromages candidats qui, quelle que soit
+l'alternative qu'on lui oppose, aura pour lui une majorité de suffrages. Et
+donc, si la majorité doit l'emporter en démocratie, c'est le camembert qui doit
+gagner dans ce cas précis.
+
+On appelle un tel candidat — celui qui est préféré par une majorité face à
+n'importe quelle autre alternative — le **vainqueur de Condorcet**. On le
+définit aussi souvent en disant que le vainqueur de Condorcet est le candidat
+qui gagne tous les duels.
+
+Condorcet est un philosophe et mathématicien brillant du XVIIIᵉ siècle qui a
+notamment beaucoup étudié les modes de scrutin, et on lui doit ce principe
+auquel il a associé son nom.
+
+## Le principe de Condorcet comme norme démocratique
+
+On peut voir dans ce principe une façon de préciser le sens du principe de
+majorité, dont la formulation initiale restait trop vague. Qu'est-ce que « la
+préférence de la majorité » veut dire, surtout quand il y a plus de deux
+candidats ? Quand il y a un vainqueur de Condorcet, la réponse est claire :
+c'est le candidat préféré par une majorité à toute autre alternative.
+
+On y voit une sorte de norme démocratique, au sens où si une élection ne
+respecte pas cette norme, l'alternative élue est forcément un peu « mal élue »,
+puisque cela signifie qu'une majorité lui préfère un autre candidat. Mais c'est
+seulement une norme démocratique. Cela ne dit rien sur le fait que le candidat
+élu selon cette norme est forcement bon et prendra de bonnes décisions. Cela
+veut seulement dire que la décision a bien été prise démocratiquement — ni plus,
+ni moins.
+
+## Le paradoxe de Condorcet
+
+L'objection sur laquelle les mathématiciens se sont cassés les dents, c'est le
+**paradoxe de Condorcet**. Il réside en ceci que, dans certains cas, il n'y a
+pas de vainqueur de Condorcet.
+
+Par exemple, si trois électeurs sont tels que le premier préfère le roquefort au
+camembert et le camembert à la mimolette, le deuxième préfère le camembert à la
+mimolette et la mimolette au roquefort, et le troisième préfère la mimolette au
+roquefort et le roquefort au camembert. Chaque électeur a des préférences
+déterminées, mais on ne peut pas dégager une préférence de la majorité pour
+l'une des trois options. Une majorité préfère le roquefort au camembert, mais
+une majorité préfère le camembert à la mimolette, et une majorité préfère la
+mimolette au roquefort. Les préférences majoritaires sont cycliques si bien
+qu'aucune ne domine toutes les autres. Tout se passe comme si, collectivement,
+rien n'était préféré à rien, alors que, individuellement, chacun a bien des
+préférences.
+
+Mais ce n'est peut-être pas si grave. D'abord parce qu'en pratique, et notamment
+pour des élections politiques, ce genre de configuration serait en fait très
+rare. Et ensuite, et surtout, parce que ce problème ne remet absolument pas en
+cause le principe de Condorcet comme norme démocratique. Ce principe ne dit pas
+que seul le vainqueur de Condorcet mérite de gagner l'élection. Il dit seulement
+que s'il y a un vainqueur de Condorcet, alors il mérite de gagner. S'il n'y en a
+pas, c'est que la situation électorale est bien embrouillée, et il va être
+difficile de trouver une solution. Le vainqueur qu'on désignera sera moins
+légitime qu'un vainqueur de Condorcet, mais on peut sans doute bricoler quelque
+chose de convenable.
+
+On peut imaginer toutes sortes de modes de scrutin qui, s'il y a un vainqueur de
+Condorcet, élisent le vainqueur de Condorcet, et au cas où il n'y en a pas,
+résolvent le conflit d'une façon ou d'une autre. On dit de tels modes de scrutin
+que ce sont des **méthodes de Condorcet**.
+
+## Le décalage avec nos démocraties
+
+Si vous considérez que le principe de Condorcet exprime la norme démocratique
+fondamentale — la majorité doit l'emporter —, vous devriez vous attendre à ce
+que, dans nos démocraties, les modes de scrutiny soient des méthodes de
+Condorcet. Pourtant, comme on l'a vu avec l'exemple des fromages, les scrutins
+les plus utilisés peuvent faire perdre un vainqueur de Condorcet : ce ne sont
+pas des méthodes de Condorcet. Et autant qu'on le sache, aucune démocratie
+n'organise d'élection nationale selon une méthode de Condorcet.
+
+Des candidats qui seraient vainqueurs de Condorcet perdent donc des élections
+démocratiques — et cela arrive tout le temps.
+
+Nous vivons dans une démocratie et nous sommes attachés à l'idée de démocratie.
+La norme démocratique fondamentale pour une élection, c'est que la préférence de
+la majorité doit l'emporter. Le principe de Condorcet est une expression précise
+de cette norme. Or, nos scrutins ne garantissent pas le respect de ce principe,
+et ils tendent plutôt à faire perdre les vainqueurs de Condorcet qu'à les faire
+gagner. N'est-ce pas quelque chose contre quoi, si nous étions vraiment attachés
+à la démocratie, nous devrions nous révolter ?
+
+Et pourtant, ça ne révolte pas grand monde — et surtout pas celles et ceux qui
+s'intéressent à la politique. On observe en effet beaucoup de personnes qui,
+tout en se disant attachées à la démocratie, sont clairement hostiles à l'idée
+qu'une méthode de Condorcet puisse être utilisée lors des élections. N'y a-t-il
+pas une forme de contradiction là-dedans ?
+
+## Conclusion et suite
+
+La prochaine fois, on se demandera dans quelle mesure un vainqueur de Condorcet
+peut-il être mal élu, et on prendra quelques exemples concrets.
+
+Si toutes ces histoires de scrutins vous intéressent du point de vue
+mathématique, il y a beaucoup de choses à lire ou à voir sur Internet. Le
+YouTube français est particulièrement riche à ce sujet. On peut citer notamment
+les vidéos de Science4All, qui a été quasi convaincu par le scrutin de Condorcet
+randomisé, ainsi que celles de Science étonnante.
+
+Ce qui frappe dans la plupart des contenus scientifiques qui parlent des modes
+de scrutin, c'est que le principe de Condorcet est généralement présenté comme
+une évidence, un point de départ que l'on doit accepter. C'est une idée partagée
+ici, mais elle ne paraît pas du tout aussi évidente à beaucoup de gens, et
+notamment à celles et ceux qui sont intéressés par la politique. C'est une
+source de résistance très profonde à l'idée qu'il faut changer nos modes de
+scrutin.
+
+C'est pourquoi ces vidéos portent sur ce point précis : la légitimité du
+principe de Condorcet comme norme démocratique. Il est difficile de la nier, et
+surtout, si on la nie, il faut expliquer quelle norme démocratique on mettrait
+au-dessus.
+
+Il importe de dissocier cette question de celle de la valeur ou de l'efficacité
+de la démocratie. Si on objecte que le principe de Condorcet tend à favoriser
+les candidats qui défendent des idées jugées mauvaises, cela ne constitue pas en
+soi une objection au principe de Condorcet en tant que norme démocratique. Cela
+ne prouve pas que des élections respectant ce principe sont moins démocratiques
+que nos élections actuelles. On pourrait fort bien arriver à la conclusion que
+si une élection est vraiment démocratique, elle tend forcément à élire des
+candidats qui sont mauvais — et ce serait alors une objection contre la
+démocratie en général, mais c'est un autre débat.

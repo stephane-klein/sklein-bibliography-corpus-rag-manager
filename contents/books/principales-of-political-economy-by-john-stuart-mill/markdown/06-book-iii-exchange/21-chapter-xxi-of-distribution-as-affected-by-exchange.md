@@ -1,0 +1,167 @@
+---
+title: Chapter XXI. Of Distribution, As Affected By Exchange.
+path: 06-book-iii-exchange/21-chapter-xxi-of-distribution-as-affected-by-exchange
+ancestors:
+  - Book III. Exchange.
+href: 1129008759595750428_30107-h-8.html.xhtml#pgepubid00199
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter XXI. Of Distribution, As Affected By Exchange.
+
+## § 1. Exchange and money make no Difference in the law of Wages.
+
+The division of the produce among the three classes, laborers, capitalists, and landlords, when considered without any
+reference to exchange, appeared to depend on certain general laws. It is fit that we should now consider whether these
+same laws still operate, when the distribution takes place through the complex mechanism of exchange and money; or
+whether the properties of the mechanism interfere with and modify the presiding principles.
+
+The primary division of the produce of human exertion and frugality is, as we have seen, into three shares—wages,
+profits, and rents; and these shares are portioned out, to the persons entitled to them, in the form of money and by a
+process of exchange; or, rather, the capitalist, with whom in the usual arrangements of society the produce remains,
+pays in money, to the other two sharers, the market value of their labor and land. If we examine on what the pecuniary
+value of labor and the pecuniary value of the use of land depend, we shall find that it is on the very same causes by
+which we found that wages and rent would be regulated if there were no money and no exchange of commodities.
+
+It is evident, in the first place, that the law of wages is not affected by the existence or non-existence of exchange
+or money. Wages depend on the ratio between population and capital \[taking into account the nature of a country's
+industries\]; and would do so if all the capital in the world were the property of one association, or if the
+capitalists among \[pg 466\] whom it is shared maintained each an establishment for the production of every article
+consumed in the community, exchange of commodities having no existence. As the ratio between capital and population,
+everywhere but in new colonies, depends on the strength of the checks by which the too rapid increase of population is
+restrained, it may be said, popularly speaking, that wages depend on the checks to population; that, when the check is
+not death by starvation or disease, wages depend on the prudence of the laboring people; and that wages in any country
+are habitually at the lowest rate to which in that country the laborer will suffer them to be depressed rather than put
+a restraint upon multiplication.
+
+What is here meant, however, by wages, is the laborer's real scale of comfort; the quantity he obtains of the things
+which nature or habit has made necessary or agreeable to him: wages in the sense in which they are of importance to the
+receiver. In the sense in which they are of importance to the payer, they do not depend exclusively on such simple
+principles. Wages in the first sense, the wages on which the laborer's comfort depends, we will call real wages, or
+wages in kind. Wages in the second sense we may be permitted to call, for the present, money wages; assuming, as it is
+allowable to do, that money remains for the time an invariable standard, no alteration taking place in the conditions
+under which the circulating medium itself is produced or obtained. If money itself undergoes no variation in cost, the
+money price of labor is an exact measure of the cost of labor, and may be made use of as a convenient symbol to express
+it \[if the efficiency of labor also be supposed to remain the same\].
+
+The money wages of labor are a compound result of two elements: first, real wages, or wages in kind, or, in other words,
+the quantity which the laborer obtains of the ordinary articles of consumption; and, secondly, the money prices of those
+articles. In all old countries—all countries in which the increase of population is in any degree checked by the \[pg
+467\] difficulty of obtaining subsistence—the habitual money price of labor is that which will just enable the laborers,
+one with another, to purchase the commodities without which they either can not or will not keep up the population at
+its customary rate of increase. Their standard of comfort being given (and by the standard of comfort in a laboring
+class is meant that rather than forego which they will abstain from multiplication), money wages depend on the money
+price, and therefore on the cost of production, of the various articles which the laborers habitually consume: because,
+if their wages can not procure them a given quantity of these, their increase will slacken and their wages rise. Of
+these articles, food and other agricultural produce are so much the principal as to leave little influence to anything
+else.
+
+It is at this point that we are enabled to invoke the aid of the principles which have been laid down in this Third
+Part. The cost of production of food and agricultural produce has been analyzed in a preceding chapter. It depends on
+the productiveness of the least fertile land, or of the least productively employed portion of capital, which the
+necessities of society have as yet put in requisition for agricultural purposes. The cost of production of the food
+grown in these least advantageous circumstances determines, as we have seen, the exchange value and money price of the
+whole. In any given state, therefore, of the laborers' habits, their money wages depend on the productiveness of the
+least fertile land, or least productive agricultural capital: on the point which cultivation has reached in its downward
+progress—in its encroachments on the barren lands, and its gradually increased strain upon the powers of the more
+fertile. Now, the force which urges cultivation in this downward course is the increase of people; while the
+counter-force, which checks the descent, is the improvement of agricultural science and practice, enabling the same soil
+to yield to the same labor more ample returns. The costliness of the most costly part of the produce of cultivation is
+an exact expression of the state, at any given moment, of the race which population \[pg 468\] and agricultural skill
+are always running against each other.
+
+It will be noted, in this exposition, that Mr. Mill has in view an old country, with a population so dense that numbers
+are always pressing close upon subsistence; that their wages are so low as to give the laborers little more than the
+necessary wants of life. That these are not the economic conditions in the United States goes without saying. First of
+all, the margin of cultivation is high: only soils of high productiveness are in cultivation, and the returns to labor
+and capital are, consequently, very large. High wages are found together with low prices of food. The existing
+population is not so numerous as to require for the cultivation of food any but lands of a very high grade of fertility.
+The ability to command a high reward for labor (as compared with European industries), owing to the general prevalence
+of high returns in the United States, has resulted in the establishment of a higher standard for our laborers. The
+standard being relatively so high, there is no intimate connection between the increase of population here and the price
+of food; for, as a rule, wages are not so low that any change in the cost of producing food would require checks upon
+population. There is a considerable margin above necessaries, in the laborer's real wages in the United States, which
+may go for comforts, decencies, and amusements.
+
+## § 2. In the law of Rent.
+
+The degree of productiveness of this extreme margin is an index to the existing state of the distribution of the produce
+among the three classes, of laborers, capitalists, and landlords. When the demand of an increasing population for more
+food can not be satisfied without extending cultivation to less fertile land, or incurring additional outlay, with a
+less proportional return, on land already in cultivation, it is a necessary condition of this increase of agricultural
+produce that the value and price of that produce must first rise. The price of food will always on the average be such
+that the worst land, and the least productive installment of the capital employed on the better lands, shall just
+replace the expenses with the ordinary profit. If the least favored land and capital just do thus much, all other land
+and capital will yield an extra profit, equal to the proceeds of the extra produce due to their superior productiveness;
+and this extra profit becomes, by competition, the prize of the landlords. Exchange \[pg 469\] and money, therefore,
+make no difference in the law of rent: it is the same as we originally[^293] found it. Rent is the extra return made to
+agricultural capital when employed with peculiar advantages; the exact equivalent of what those advantages enable the
+producers to economize in the cost of production: the value and price of the produce being regulated by the cost of
+production to those producers who have no advantages; by the return to that portion of agricultural capital the
+circumstances of which are the least favorable.
+
+## § 3. —Nor in the law of Profits.
+
+Wages and rent being thus regulated by the same principles when paid in money, as they would be if apportioned in kind,
+it follows that Profits are so likewise. For the surplus, after replacing wages and paying rent, constitutes Profits.
+
+We found, in the last chapter of the Second Book, that the advances of the capitalist, when analyzed to their ultimate
+elements, consist either in the purchase or maintenance of labor, or in the profits of former capitalists; and that,
+therefore, profits in the last resort depend upon the Cost of Labor, falling as that rises, and rising as it falls. Let
+us endeavor to trace more minutely the operation of this law.
+
+There are two modes in which the Cost of Labor, which is correctly represented (money being supposed invariable as well
+as efficiency) by the money wages of the laborer, may be increased. The laborer may obtain greater comforts; wages in
+kind—real wages—may rise. Or the progress of population may force down cultivation to inferior soils and more costly
+processes; thus raising the cost of production, the value, and the price, of the chief articles of the laborer's
+consumption. On either of these suppositions the rate of profit will fall.
+
+If the laborer obtains more abundant commodities only by reason of their greater cheapness, if he obtains a greater
+quantity, but not on the whole a greater cost, real wages will be increased, but not money wages, and there will be \[pg
+470\] nothing to affect the rate of profit. But, if he obtains a greater quantity of commodities of which the cost of
+production is not lowered, he obtains a greater cost; his money wages are higher. The expense of these increased money
+wages falls wholly on the capitalist. There are no conceivable means by which he can shake it off. It may be said—it
+used formerly to be said—that he will get rid of it by raising his price. But this opinion we have already, and more
+than once, fully refuted.[^294]
+
+The doctrine, indeed, that a rise of wages causes an equivalent rise of prices, is, as we formerly observed,
+self-contradictory: for, if it did so, it would not be a rise of wages; the laborer would get no more of any commodity
+than he had before, let his money wages rise ever so much; a rise of real wages would be an impossibility. This being
+equally contrary to reason and to fact, it is evident that a rise of money wages does not raise prices; that high wages
+are not a cause of high prices. A rise of general wages falls on profits. There is no possible alternative.
+
+Having disposed of the case in which the increase of money wages, and of the Cost of Labor, arises from the laborer's
+obtaining more ample wages in kind, let us now suppose it to arise from the increased cost of production of the things
+which he consumes, owing to an increase of population unaccompanied by an equivalent increase of agricultural skill. The
+augmented supply required by the population would not be obtained, unless the price of food rose sufficiently to
+remunerate the farmer for the increased cost of production. The farmer, however, in this case sustains a twofold
+disadvantage. He has to carry on his cultivation under less favorable conditions of productiveness than before. For
+this, as it is a disadvantage belonging to him only as a farmer, and not shared by other employers, he will, on the
+general principles of value, be compensated by a rise of the price of his commodity; indeed, until this rise has taken
+\[pg 471\] place, he will not bring to market the required increase of produce. But this very rise of price involves him
+in another necessity, for which he is not compensated. He must pay higher money wages to his laborers \[if they retain
+the same quantity of real wages\]. This necessity, being common to him with all other capitalists, forms no ground for a
+rise of price. The price will rise, until it has placed him in as good a situation, in respect of profits, as other
+employers of labor; it will rise so as to indemnify him for the increased labor which he must now employ in order to
+produce a given quantity of food; but the increased wages of that labor are a burden common to all, and for which no one
+can be indemnified. It will be paid wholly from profits.
+
+Thus we see that increased wages, when common to all descriptions of productive laborers, and when really representing a
+greater Cost of Labor, are always and necessarily at the expense of profits. And by reversing the cases, we should find
+in like manner that diminished wages, when representing a really diminished Cost of Labor, are equivalent to a rise of
+profits. But the opposition of pecuniary interest thus indicated between the class of capitalists and that of laborers
+is to a great extent only apparent. Real wages are a very different thing from the Cost of Labor, and are generally
+highest at the times and places where, from the easy terms on which the land yields all the produce as yet required from
+it, the value and price of food being low, the cost of labor to the employer, notwithstanding its ample remuneration, is
+comparatively cheap, and the rate of profit consequently high, as at present in the United States. We thus obtain a full
+confirmation of our original theorem that Profits depend on the Cost of Labor: or, to express the meaning with still
+greater accuracy, the rate of profit and the cost of labor vary inversely as one another, and are joint effects of the
+same agencies or causes.
+
+\[pg 475\]
+
+* * *
+
+[^293]: [Book III, Chap. III, § 1](1129008759595750428_30107-h-5.html.xhtml#Book_III_Chapter_III_Section_1).
+
+[^294]: Supra, Book III, [Chap. II, § 2](1129008759595750428_30107-h-5.html.xhtml#Book_III_Chapter_II_Section_2), and [Chap. XX, § 4](1129008759595750428_30107-h-8.html.xhtml#Book_III_Chapter_XX_Section_4).

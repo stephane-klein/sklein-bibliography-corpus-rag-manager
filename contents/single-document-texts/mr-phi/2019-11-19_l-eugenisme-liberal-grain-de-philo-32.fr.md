@@ -1,0 +1,372 @@
+---
+source_url: https://www.youtube.com/watch?v=GsUsgx2oPYA
+video_title: "L'EUGÉNISME LIBÉRAL - Grain de philo #32"
+generated_at: 2026-09-19T09:37:31.978Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 147.3
+  input_tokens: 6246
+  cached_input_tokens: 0
+  output_tokens: 6093
+  estimated_cost_usd: 0.00258
+  finish_reason: stop
+---
+
+# L'EUGÉNISME LIBÉRAL - Grain de philo #32
+
+Aujourd'hui on va parler d'un sujet qui ne met pas du tout mal à l'aise : est-ce
+que l'eugénisme c'est cool ? Ou plus exactement, jusqu'à quel point c'est cool ?
+
+Si votre première réaction c'est de penser que l'eugénisme c'est juste un truc
+de nazis et de Mangemorts, et s'il y a bien un truc d'établi sur la Seconde
+Guerre mondiale et sur Harry Potter, c'est que les nazis et les Mangemorts sont
+les méchants de l'histoire, et donc l'eugénisme c'est mal, point. Et d'ailleurs
+c'est pour ça que nous ne sommes pas eugénistes, nous qui sommes plutôt des
+gentils. Si donc vous en êtes là de vos réflexions sur l'eugénisme, c'est
+probablement que vous n'avez pas encore vu cet excellent épisode de Dirty
+Biology qui sort en même temps que cette vidéo, et je vous recommanderais
+vivement de commencer par là. Vraiment c'est nécessaire pour apprécier la suite.
+
+Si par contre vous avez vu cet épisode, vous devriez comprendre d'une part
+pourquoi nous avons déjà bon nombre de pratiques qui ont une dimension
+eugéniste, et pourquoi ces pratiques pour devenir de plus en plus nombreuses,
+efficaces et accessibles. Si bien que le débat sur certaines formes d'eugénisme
+ne fait vraisemblablement que commencer. Ça va devenir un sujet de plus en plus
+crucial et un sujet sur lequel je parie que nos intuitions morales vont
+énormément bouger dans les décennies à venir.
+
+Et d'ailleurs ça rejoint ma dernière vidéo qui parlait justement de l'évolution
+des intuitions morales. Je rappelle par exemple qu'aux yeux de Kant, grand
+philosophe de la morale s'il en est, la masturbation constitue je cite : « l'un
+des pires manquements à la moralité », et c'était globalement le sentiment de
+son époque et de son milieu. Sentiment qui a bien changé depuis, on ne trouve
+plus si grave de se palucher de temps en temps. Et au-delà du côté ridicule de
+l'exemple, mon propos était de souligner que nous avons sans doute nous aussi
+aujourd'hui des obsessions morales similaires, qui sembleront rétrospectivement
+aussi ridicules que celles de Kant, ou en tout cas très disproportionnées et
+irrationnelles. Et donc de se demander si certaines de nos intuitions morales
+très fortes sur l'eugénisme et les manipulations génétiques en général sont de
+tels exemples. Serait-ce la masturbation de ce début de XXIe siècle ?
+
+En tout cas, et c'est déjà peut-être le signe d'une évolution, le débat sur la
+moralité de certaines formes d'eugénisme n'a rien de tabou dans la communauté
+philosophique depuis plusieurs décennies. Tout au contraire, c'est un débat
+ouvert et développé avec des positions nombreuses et nuancées, et ce qui en
+ressort ce n'est pas une condamnation sans réserve de l'eugénisme, ni une
+acceptation sans réserve non plus bien sûr. Ce qui en sort c'est plutôt que le
+problème est terriblement complexe et qu'il n'admet pas de solution simple. Il
+faut se résoudre à mettre les mains dans le cambouis moral même si ça tâche.
+
+## Un exemple troublant
+
+Pour vous donner une première idée du type de problème étrange sur lequel on
+peut être amené à réfléchir, je vais vous présenter un exemple très classique :
+un couple de femmes sourdes choisit d'avoir un enfant en faisant appel à un
+donneur dans la famille duquel on trouve un très grand nombre de cas de surdité
+congénitale. Et si elles choisissent ce donneur particulier, c'est bien avant
+tout parce qu'elles veulent avoir un enfant sourd comme elles. Notez que c'est
+pas un cas que j'invente en fait, ça s'est réellement produit aux États-Unis en
+2002, et ça fait partie des cas très souvent discutés dans la littérature
+récente sur l'eugénisme.
+
+Et donc, qu'est-ce que vous en pensez ? Est-ce moralement acceptable ou non que
+des parents sourds choisissent un donneur dans le but d'avoir un enfant sourd ?
+
+Il me semble que dans un premier temps la plupart des gens penchent plutôt du
+côté moralement inacceptable. Il semble que choisir ce donneur particulier et
+donc choisir délibérément de faire un enfant qui aura ce handicap, cela revienne
+à causer délibérément un tort à son enfant. Après tout, que penserait-on de
+parents qui, parce qu'ils veulent un enfant sourd, abîmeraient à la naissance le
+système auditif de leur bébé pour le rendre sourd ? On pourrait dire qu'en
+choisissant ce donneur particulier, ce couple a fait un peu la même chose. Elles
+ont seulement fait avant la naissance, ce qui est plus astucieux.
+
+Mais en fait la situation est bien plus complexe et délicate pour des tas de
+raisons. D'abord les parents de l'enfant, des thérapeutes spécialistes de la
+surdité, justifient leur choix en disant qu'elles comprendraient mieux le
+développement de leur enfant et pourront plus facilement l'orienter dans la vie
+s'il était sourd. Et il va de soi qu'on peut mener une vie très heureuse en
+étant sourd. Et elles ajoutaient à cela qu'elles font partie d'une génération
+qui voit la surdité non pas comme un handicap mais comme une identité
+culturelle. Ce sont en effet des arguments que l'on peut entendre… sans mauvais
+jeu de mot.
+
+Un autre point plus intéressant à voir est que si vous condamnez moralement ce
+cas où le donneur est extérieur au couple, que penseriez-vous du cas où ce même
+donneur ferait un enfant naturellement, en sachant tout aussi bien que l'enfant
+qui va naître sera très probablement sourd ? Iriez-vous dire aux personnes
+atteintes de surdité pour des raisons génétiques qu'il est immoral qu'elles
+fassent des enfants de façon générale ? Voilà le type de jugement avec lequel on
+sera tout de suite beaucoup moins à l'aise.
+
+Vous pourriez objecter que là c'est différent parce que c'est « naturel ». Mais
+d'une part dire « c'est naturel » est rarement un bon argument pour quoi que ce
+soit, d'autre part l'argument assez intuitif que j'ai présenté rapidement pour
+justifier de condamner moralement le cas du couple et du donneur semble bien
+s'appliquer aussi à ce cas-là. Après tout, tout le monde aujourd'hui a le choix
+de faire des enfants « naturellement » ou par d'autres moyens. Si un couple
+atteint de surdité pour des raisons génétiques choisit délibérément le moyen
+naturel pour faire un enfant, il est responsable de l'effet à savoir la surdité
+très probable de leur enfant, aussi bien que dans le cadre du premier couple.
+
+Enfin, dernier type d'argument que je trouve assez fascinant : quel tort a
+réellement été causé par ces deux femmes ? Si vous considérez qu'il est immoral
+pour ce couple d'avoir choisi ce donneur, vous avez sans doute l'intuition que
+c'est parce que ça a causé un tort à leur enfant. Un peu comme si ce choix avait
+causé sa surdité, comme si on l'avait rendu sourd alors qu'il aurait dû
+normalement ne pas l'être. Mais en fait, si le couple n'avait pas fait le choix
+de CE donneur, CET enfant particulier qui est né sourd ne serait tout simplement
+PAS né. L'alternative n'était pas pour lui d'être sourd ou de ne pas être sourd,
+c'était d'être sourd ou de ne pas être du tout. Et on ne voit pas bien en quoi
+le fait d'être plutôt que de ne pas être lui aurait causé un tort. Donc en fait,
+il ne semble vraiment pas si clair qu'il y ait bien eu un tort causé, car s'il y
+en a eu un, on ne voit tout simplement pas à qui.
+
+En fin de compte je dois confesser que je ne sais pas vraiment quoi penser de
+toute cette histoire du point de vue moral. Et tenez, je suis curieux d'avoir
+votre avis après ce petit exposé, donc si vous voulez, vous pouvez répondre au
+sondage qui s'affiche là-haut dans les fiches de la vidéo. Même un cas aussi
+simple que ça en apparence est en fait profondément troublant et complexe. Et
+c'est surtout ce trouble et cette complexité que je voulais vous faire sentir à
+travers cet exemple. Et ce qui nous attend avec tout ce dont a parlé Léo dans
+ces deux vidéos, nous promet de plus en plus de situations encore plus
+troublantes et complexes. Les débats éthiques et bioéthiques des prochaines
+décennies nous promettent d'interminables mind-fucks.
+
+## Qu'est-ce que l'eugénisme ?
+
+Et il est inévitable qu'on en vienne de plus en plus à se poser la question
+d'une certaine forme d'eugénisme. Mais qu'est-ce que c'est donc que l'eugénisme
+?
+
+L'eugénisme renvoie étymologiquement à l'idée de bons gènes ou de bonne
+naissance. Et la première chose cruciale à comprendre c'est que l'eugénisme dont
+on discute aujourd'hui en philosophie n'est pas l'eugénisme d'État autoritaire
+visant à créer une race supérieure ou à préserver la pureté de la race ou
+n'importe quelle autre connerie raciste de ce genre. Et le problème c'est que le
+mot eugénisme, qu'on le veuille ou non, continuera pour longtemps d'être associé
+avant tout à ce genre d'idées. C'est typiquement un mot dont la connotation
+négative est bien plus présente à l'esprit que son sens strict. Du coup,
+vaudrait-il mieux en utiliser un autre pour éviter les réactions instinctives
+liées à cette connotation ? Peut-être, mais je vais quand même continuer de
+parler d'eugénisme vu que c'est de fait le terme consacré notamment dans le
+débat en philosophie. Il faut juste essayer de mettre de côté cette connotation,
+qui a au moins le mérite de servir d'avertissement.
+
+## L'eugénisme libéral
+
+Mais donc, de quelle forme d'eugénisme parle-t-on aujourd'hui en philosophie ?
+Eh bien on parle surtout de ce que le philosophe Nicholas Agar a baptisé dans un
+livre de 2004 « eugénisme libéral ». Il résume de façon éloquente le but de ce
+livre en disant qu'il s'agit de montrer qu'ajouter le mot « libéral » à «
+eugénisme » transforme une doctrine maléfique en une doctrine moralement
+acceptable. Alors à première vue ça ne vous frappera sans doute pas, d'autant
+plus que « libéral » a en français des connotations presque aussi négatives pour
+beaucoup de gens. L'eugénisme libéral, ça doit sonner à peu près aussi bien dans
+vos oreilles que si je parlais de l'uberisation du nazisme. On voit pas bien ce
+que ça veut dire mais ça sent pas bon.
+
+Donc ok, Nicholas Agar n'a pas choisi la terminologie la plus sexy pour la
+position qu'il souhaitait défendre. Mais efforçons-nous de mettre ces
+connotations de côté pour se concentrer sur ce que cette expression signifie
+réellement. Et voyons en quoi ça se différencie bien de l'eugénisme autoritaire
+classique.
+
+L'eugénisme autoritaire à l'ancienne est un système mis en place par l'État qui
+use de moyens coercitifs, typiquement des stérilisations forcées, au nom
+d'objectifs et de valeurs avec lesquelles les individus concernés ne sont pas
+forcément d'accord, c'est peu de le dire. Et on peut ajouter à ces trois points
+que les principaux exemples de ce type d'eugénisme par le passé reposaient sur
+des conceptions biologiques totalement erronées. Tout ça donne un truc qui n'est
+pas terrible terrible du point de vue moral, on est d'accord.
+
+L'eugénisme libéral que défend notamment Nicholas Agar diffère heureusement sur
+ces quatre points. Pour vous en donner une illustration, considérez le cas
+suivant : disons qu'une part non négligeable d'une certaine population est
+porteuse d'une version d'un gène qui, s'il est transmis à un enfant par ses deux
+parents, lui causera une terrible maladie empêchant son développement et causant
+sa mort en général avant l'âge de cinq ans, après une vie aussi brève que
+douloureuse. Et là encore ce n'est pas un cas imaginaire : la maladie de
+Tay-Sachs correspond exactement à cette description. Et oui, la biologie ne vous
+réserve pas que des bonnes surprises.
+
+De là, un eugénisme autoritaire pourrait consister à rendre obligatoire la
+détection de ce gène et à stériliser ses porteurs, ou à leur interdire de se
+reproduire entre eux au moins. Et sachant que l'une des populations les plus
+concernées ce sont les juifs ashkénazes, ça rappellerait à très, très juste
+titre les heures les plus sombres de notre histoire comme on dit. Donc on va
+peut-être essayer d'éviter ça.
+
+Un eugénisme libéral par contre consiste plutôt à dire ceci : il faut informer
+les parents des risques et leur donner des moyens d'agir pour s'en prémunir.
+Ensuite c'est à eux que le choix appartient. Et c'est en fait exactement ce
+qu'on fait déjà pour cette maladie génétique et pour bien d'autres. Les
+populations à risque sont informées, il y a des tests pour les parents
+potentiels, et s'ils risquent bien de transmettre la maladie à leur enfant, ils
+ont toutes sortes d'options pour s'en prémunir : ils peuvent ne pas faire
+d'enfant tout simplement, passer par la procréation assistée pour sélectionner
+un embryon qui ne sera pas porteur de la maladie, ou encore concevoir un embryon
+naturellement et passer un test prénatal dans les premières semaines de
+grossesse pour déterminer s'il est porteur de la maladie, avec la possibilité
+d'un avortement si c'est le cas. Tout cela recèle bien une dimension eugéniste
+dans la mesure où cela aura un effet sur le type de patrimoine génétique des
+enfants qui vont effectivement naître. Et on peut considérer que cet effet est
+plutôt positif, et il est en tout cas considéré comme tel par les parents
+concernés.
+
+Et pour ce genre de cas, je pense qu'on peut tous comprendre pourquoi c'est
+légitime moralement. Ne pas informer les parents du risque de cette maladie de
+Tay-Sachs particulièrement horrible, ou bien les informer mais ne pas leur
+donner de moyens d'agir pour s'en prémunir, c'est ça qui serait profondément
+immoral. Tandis qu'à partir du moment où ces informations et ces moyens d'agir
+sont mis à disposition des parents, il en résulte forcément des effets
+eugénistes. Mais notez bien car c'est crucial, c'est un eugénisme qui se produit
+par un cumul de choix individuels, des choix qui n'ont pas besoin d'être
+contraints légalement. C'est dans cela qu'on peut parler d'un eugénisme libéral.
+
+Cette forme d'eugénisme diffère bien de l'eugénisme autoritaire classique sur
+les quatre points relevés plus tôt. D'abord ça ne provient pas de l'État mais
+des individus. Ensuite ça n'emploie pas de moyens coercitifs, au contraire ça
+s'ancre dans la liberté individuelle, puisqu'il s'agit de donner aux individus
+des informations et des moyens d'agir, pour qu'ils puissent faire le choix le
+plus large et le plus éclairé possible. Troisièmement, les choix que font ces
+individus dépendent en fin de compte de ce que eux-mêmes jugent bon, ça respecte
+leurs propres préférences, leurs propres valeurs. Et enfin, tout ça repose sur
+des connaissances scientifiques et des technologies fiables.
+
+Au moins pour des cas comme la maladie de Tay-Sachs, l'eugénisme libéral semble
+moralement tout à fait acceptable et même extrêmement souhaitable. Il s'agit
+d'éviter une maladie particulièrement horrible et ça ne pose de problème à
+personne. À la limite, c'est même un type de cas où certains pourraient vouloir
+soutenir des mesures eugénistes plus autoritaires en fait. De même qu'il y a une
+obligation non seulement morale mais même légale de soigner son enfant quand il
+tombe malade, on pourrait dire de même qu'il y a une obligation au moins morale
+de minimiser le risque de donner naissance à un enfant atteint d'une maladie
+grave quand c'est possible. Et pour le cas d'une maladie génétique comme la
+maladie de Tay-Sachs, c'est possible et facilement accessible.
+
+## Le mécanisme et ses implications
+
+Le point crucial à comprendre concernant l'eugénisme libéral c'est que le
+mécanisme par lequel il se produit ne nécessite que d'informer et donner le
+choix. Il suffit en effet que les parents puissent disposer d'informations quant
+au patrimoine génétique de leur progéniture et qu'ils disposent de moyens d'agir
+en fonction de ces informations, ensuite c'est juste la somme de leurs
+comportements individuels, les choix qu'ils font en tenant compte de tout ça,
+qui va produire des effets eugénistes. Donc plus ce choix sera large, accessible
+au plus grand nombre, et bien informé, plus il y aura de place pour cette forme
+libérale d'eugénisme.
+
+Et ce qui est certain c'est qu'à l'avenir ce choix sera de mieux en mieux
+informé et de plus en plus large et accessible à un plus grand nombre, à mesure
+que nos connaissances scientifiques et nos technologies s'amélioreront. Or si
+les informations disponibles pour les parents ne concernent plus seulement les
+maladies génétiques mais aussi des dispositions pour telle ou telle pathologie,
+ou sur tel ou tel trait physique ou cognitif, et s'ils ont vraiment les moyens
+de choisir ce qu'ils veulent dans tout ça pour leur progéniture, on voit se
+dessiner ici des effets eugénistes d'une nature assez différente.
+
+Et c'est le moment où s'impose la référence à *Bienvenue à Gattaca*, auquel la
+moitié d'entre vous pensait sans doute depuis le début. Et c'est très pertinent
+en effet : beaucoup d'aspects de ce très bon film semblent illustrer une dérive
+effrayante d'un eugénisme, et d'un eugénisme précisément plutôt libéral, même
+s'il y a aussi certains aspects autoritaires. Mais bref, j'y reviendrai un peu
+plus tard.
+
+## Comment lutter contre l'eugénisme ?
+
+D'abord je voudrais dire un dernier mot sur une question qui se pose forcément
+dès lors qu'on est effrayé devant une perspective eugéniste : comment lutter
+contre ? Eh bien c'est très différent selon qu'on considère la forme libérale ou
+autoritaire d'eugénisme.
+
+Si on pense à une forme autoritaire, typiquement la stérilisation forcée de tel
+ou tel groupe, lutter contre l'eugénisme alors c'est lutter pour la liberté
+procréative des individus et ça semble moralement très confortable. En général
+c'est cool de lutter pour la liberté. Mais quand il s'agit d'eugénisme libéral
+c'est tout à fait différent. On a vu que les effets eugénistes résultent
+seulement des choix éclairés que font des individus, et donc lutter contre cette
+forme d'eugénisme ça veut dire d'une façon ou d'une autre restreindre
+autoritairement cette liberté de choix éclairés.
+
+Concrètement il s'agirait de restreindre ou d'interdire pour les parents l'accès
+à certaines informations quant aux gènes transmis à leur progéniture, ou bien
+leur interdire de réaliser certains choix qu'ils pourraient faire en fonction de
+ces informations. Et c'est tout de suite moins confortable moralement. En somme,
+pour lutter contre un eugénisme libéral il faut une sorte d'anti-eugénisme
+autoritaire, qui peut d'ailleurs être aussi une forme d'eugénisme lui-même, au
+sens où on pourrait le faire ou non d'une idée de ce que doit être le patrimoine
+génétique de l'espèce humaine.
+
+Mais notez bien que de telles limitations sont évidemment nécessaires, aucun
+philosophe ne soutient qu'il serait légitime de permettre absolument tout et
+n'importe quoi au nom de la liberté procréative des individus. Des abus sont
+clairement possibles et même le partisan de l'eugénisme libéral le plus étendu
+reste soucieux de réfléchir aux limites qu'il faut imposer aux individus. De
+même qu'on ne peut pas refuser absolument toute forme d'eugénisme, toute forme
+n'est pas non plus a priori acceptable au simple nom de la liberté.
+
+Beaucoup de philosophes défendent par exemple qu'il faut maintenir le principe
+général suivant : on ne doit pas faire un choix qui limite délibérément les
+potentialités de l'enfant. Et du coup le cas dont j'ai parlé au début de cet
+épisode, du couple qui voulait un enfant sourd, est généralement critiqué sous
+cet angle-là. Ces femmes ont délibérément limité de façon importante les
+potentialités de leur enfant, même si en effet ce choix a été fait en accord
+avec leurs propres préférences et leurs propres valeurs particulières. Et pour
+le coup, les empêcher légalement de faire ce choix aurait été une forme
+d'eugénisme autoritaire en fait.
+
+## La question des limites
+
+Comme sur bien des questions dans nos sociétés libérales, il faut trouver un
+compromis entre l'autonomie des individus, le respect de leurs préférences et le
+respect de diverses autres normes ou principes moraux. Et c'est toujours le
+bordel pour justifier un tel compromis. D'ailleurs le cas de l'avortement dont
+je parlais dans cette vidéo fournissait déjà un bel exemple de ça. Jusqu'où
+peut-on laisser des parents choisir, et même modeler le patrimoine génétique de
+leur progéniture ? C'est LA question. Tracer la limite de ce qui est acceptable
+sur tout ce qui touche à la procréation et à l'eugénisme est une tâche
+extrêmement délicate et complexe. Et ça promet de le devenir de plus en plus
+dans les décennies à venir.
+
+La forme d'eugénisme qui nous intéresse et qui nous inquiète le plus c'est
+évidemment celle qui pourrait avoir pour effet, non pas seulement de diminuer
+l'incidence de telle ou telle maladie, mais bien d'augmenter les capacités
+cognitives ou physiques humaines. Un truc à la *Bienvenue à Gattaca* en somme.
+
+Alors il y aurait beaucoup, beaucoup à dire sur ce film et plus généralement sur
+ce débat philosophique autour d'un eugénisme libéral de ce type. Et en fait il y
+en a tellement à dire encore que je ne vais pas le faire maintenant. Je vais
+garder ça pour un prochain épisode. Ça vous laisse le temps de digérer déjà
+celui-là et je suis vraiment très curieux de lire vos réactions, dont je me
+servirai d'ailleurs sûrement pour écrire la suite. Donc voilà, n'hésitez pas en
+commentaire tant que ça reste cordial et argumentatif.
+
+Mon but dans cette vidéo était surtout de poser les bases du débat sur
+l'eugénisme libéral et j'espère que vous voyez maintenant pourquoi c'est un
+débat qui promet en effet d'être très compliqué du point de vue moral. Il reste
+évidemment bien des choses à développer, à préciser, à nuancer, et j'espère que
+j'y arriverai dans le prochain épisode et que vous serez là pour le suivre.
+
+Merci d'avoir regardé cet épisode et un très très grand merci à Léo pour m'avoir
+proposé cette collaboration sur un sujet aussi passionnant, je ne pouvais pas
+passer à côté. Et bienvenue à tous ceux qui découvrent ma chaîne par la même
+occasion ! Si vous avez envie de l'explorer et que vous ne savez pas par où
+commencer, je vous recommande de vous laisser guider par mes playlists
+thématiques. Vous trouverez bien de quoi vous satisfaire selon vos goûts et
+préférences. Et s'il y a des spectateurs de la chaîne qui ne connaîtraient pas
+encore l'excellente chaîne Dirty Biology, eh bien vous avez de quoi occuper vos
+prochaines soirées. Parce que le travail de Léo mérite vraiment, vraiment le
+détour. Et en particulier si vous aimez la philosophie, parce que beaucoup de
+ses vidéos ont une dimension philosophique je trouve. Ça va toujours plus loin
+que le simple fun fact scientifique, c'est toujours accompagné d'une réflexion
+sur tel ou tel sujet important, donc voilà : allez-y. Pour soutenir la chaîne
+vous pouvez commenter, liker, partager, etc. Et plus concrètement me soutenir
+financièrement sur Tipeee ou Utip car ce sont bien vos dons aujourd'hui qui
+constituent la principale source de financement de cette chaîne. Ces vidéos ne
+pourraient pas être produites sans cela, donc encore une fois un très grand
+merci à toutes celles et ceux qui me soutiennent par leurs dons.
+
+On se retrouve bientôt pour une nouvelle vidéo, en attendant portez-vous bien et
+n'hésitez pas à mettre de l'ambiance dans les dîners de famille en parlant un
+peu d'eugénisme. Entre le fromage et le dessert, ça occupe.

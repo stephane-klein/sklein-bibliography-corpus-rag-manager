@@ -1,0 +1,595 @@
+---
+source_url: https://www.youtube.com/watch?v=L2fGosqJp2Q
+video_title: « Tous les modèles sont faux, mais certains sont utiles » + reupload de LA VÉRITÉ NUE
+generated_at: 2026-09-19T09:48:07.102Z
+llm:
+  model: mimo-v2.5
+  duration_seconds: 271.3
+  input_tokens: 10329
+  cached_input_tokens: 10304
+  output_tokens: 9659
+  estimated_cost_usd: 0.002737
+  finish_reason: stop
+---
+
+# « Tous les modèles sont faux, mais certains sont utiles » + reupload de LA VÉRITÉ NUE
+
+Il y a deux ans, j'ai fait une vidéo qui s'appelait *La Vérité Nue* et qui a
+fini par se retrouver interdite aux moins de 18 ans sur YouTube, tout ça parce
+que j'ai eu le malheur d'utiliser ce tableau de Jérôme montrant la Vérité
+sortant du puits armée de son martinet pour châtier l'humanité — c'est le titre
+complet, j'aime beaucoup la petite vague de ringard qui se dégage de ce tableau.
+Visiblement, la nudité de la Vérité a déplu à YouTube. On veut vous cacher la
+vérité, on peut le dire, c'est un scandale.
+
+## Pourquoi cette reupload
+
+Blague à part, c'est quand même un peu embêtant d'avoir un épisode interdit aux
+moins de 18 ans, parce que ça diminue beaucoup sa visibilité. Notamment, elle
+est carrément inaccessible si vous n'êtes pas connecté à un compte YouTube, et
+je pense que ça fait qu'elle paraît beaucoup moins dans les recherches. En tout
+cas, elle paraît dans un autre type de recherches, du genre où on ne s'attend
+pas forcément à tomber sur l'affichage.
+
+Tout ça faisait que j'avais envie de faire un reupload de cette vidéo depuis un
+moment, et j'en ai profité pour rajouter un petit supplément — enfin pas si
+petit que ça, mais bon, ce n'est pas 50 minutes non plus. Donc je vais vous
+parler de la formule « tous les modèles sont faux, mais certains sont utiles »,
+une formule qu'on entend souvent et qui me semble plutôt fausse, et même pas
+vraiment utile. Si vous avez déjà vu la vidéo sur la vérité, vous pouvez sauter
+à ce timecode pour arriver au petit supplément. Sinon, je vous encourage quand
+même à la regarder d'abord, parce que je vais forcément, dans ce petit
+supplément, m'appuyer pas mal sur des points que je développe dans cette vidéo.
+Ce serait quand même mieux de l'avoir en tête pour bien en profiter.
+
+Sur ce, je vais laisser la parole à mon moi chevelu du passé, qui va déshabiller
+la vérité. Je m'excuse d'avance si la qualité technique n'est pas au top — elle
+n'est pas toute neuve, cette vidéo — mais au niveau du contenu, je reste tout à
+fait satisfait.
+
+## Qu'est-ce que la vérité ?
+
+Aujourd'hui, je vais dire toute la vérité, rien que la vérité, sur la vérité
+justement. Mais qu'est-ce que la vérité ? Ma foi, c'est une excellente question
+que déjà l'évangéliste Jean posait, et à laquelle ce dernier n'a pas eu la
+courtoisie de répondre. C'est malheureux. Et je vais me permettre de ne pas
+m'imiter sur ce point. Après avoir mis un peu d'ordre sur la notion de réalité
+dans les *Grains de philo*, je vais tâcher d'en faire autant dans ce v-et-unième
+épisode quant à la signification du terme ô combien galvaudé et mal compris de «
+vérité ».
+
+La vérité, c'est tout simple : c'est le caractère de ce qui est vrai. Voilà,
+merci, au revoir. — Tu l'as déjà fait la dernière fois, et non, je ne poserai
+pas la question que tu veux que je pose. Mais qu'est-ce qui est vrai ? me
+dis-tu. Voilà une excellente et bien meilleure question. Autrement dit : à quel
+genre de truc attribue-t-on la propriété d'être vrai, et qu'entendons-nous par
+là en le faisant ? Nous allons voir que c'est à la fois très simple et très
+compliqué.
+
+### L'usage trivial : les objets concrets
+
+On attribue parfois cette propriété d'être vrai à des objets concrets. Par
+exemple, lors de mon alliage, j'espère bien que c'est du vrai or et non pas du
+faux. Notez bien que, sauf subtilité particulière, « faux » signifie la négation
+du vrai : ce qui n'est pas vrai. Ou bien ce tableau qui est bien évidemment un
+vrai Kandinsky, en l'irritation de mon double maléfique. Jusque-là, peu de
+chances de trouver un candidat aussi sûr sur Leboncoin — après, tu as peut-être
+fait une super affaire.
+
+Mais quand j'attribue à une fleur la propriété d'être rouge, ou bien la
+propriété de ne pas être rouge, d'une part cela porte bien une information
+nouvelle sur la fleur, et d'autre part en aucun cas cela ne remet en cause le
+fait que c'est une fleur. Il y a simplement plusieurs types de fleurs : des
+fleurs rouges et des fleurs non rouges. Or, l'attribution à des objets concrets
+des propriétés d'être vrai ou d'être faux est très différente à cet égard. Les
+fleurs vraies et les fleurs fausses ne sont pas différents types de fleurs, pas
+plus que l'or vrai et l'or faux ne sont différents types d'or. Une fleur fausse
+ou de l'or faux, c'est juste pas une fleur et pas de l'or, tandis qu'une vraie
+fleur et du vrai or, hélas, en fait c'est juste une fleur et de l'or. Dire que
+ces choses sont vraies ne les caractérise pas, ça n'apporte aucune information
+supplémentaire. Il y a quelque chose de curieusement trivial et redondant dans
+cet usage du terme « vrai », comme s'il ne signifiait rien en fait.
+
+### Le vrai et le faux en logique : les propositions
+
+Je dirais que cet usage-là est plutôt douteux, et si je commence par l'évoquer,
+c'est justement pour l'écarter. Quand on parle de vrai et de faux en philosophie
+et en logique, ce n'est justement pas pour l'appliquer de cette façon à des
+objets concrets. Le vrai et le faux relèvent avant tout du langage : on peut
+l'attribuer typiquement à des phrases déclaratives. Il y a des phrases vraies,
+comme « j'ai deux mains », et des phrases fausses, comme « j'ai deux têtes ». On
+voit bien que c'est différent du cas de l'or en ceci qu'une phrase fausse est
+tout autant une phrase qu'une phrase vraie, et dire d'une certaine phrase que
+c'est une phrase vraie apporte bien une information supplémentaire par rapport à
+dire simplement que c'est une phrase. Ce sont des bons signes du fait que « vrai
+» et « faux » sont utilisés de façon plus pertinente.
+
+**Précision importante :** plutôt que de phrases, les logiciels et les
+philosophes parleront de *propositions*. Une proposition, c'est en gros la
+signification que l'on peut abstraire à partir d'une phrase ou d'une formule
+d'un langage quel qu'il soit. Par exemple, la phrase en français « deux et deux
+font quatre », ou son équivalent en anglais, en coréen, ou en élfidique, mais
+aussi la formule « 2 + 2 = 4 » en décimales ou « 10 + 10 = 100 » en binaire :
+toutes ces phrases et formules sont différentes, mais il semble raisonnable de
+penser qu'elles expriment tout de même la même chose, c'est-à-dire la même
+proposition.
+
+Savoir comment cette signification est abstraite à partir de simples suites de
+sons ou d'impressions visuelles, c'est un problème abyssal, aussi fascinant que
+décourageant, et je vais le laisser de côté pour aujourd'hui, admettant
+simplement qu'il y a des propositions. Je me contenterai de souligner que
+supposer cela semble être une condition de possibilité de la communication,
+voire du langage lui-même, puisque le nier reviendrait à nier que nous
+exprimions quoi que ce soit par les sons qui sortent de nos bouches — et c'est
+tout de même assez radical, d'autant plus difficile à soutenir et à argumenter
+que cela semble détruire le moyen par lequel nous soutenons et argumentons quoi
+que ce soit. Et je m'excuse pour le nœud que cela vient peut-être vous faire au
+cerveau. Bref, passons.
+
+Admettons donc qu'il y a des propositions, exprimées par les formules de nos
+diverses langues et langages. On peut du coup répondre à la première question
+que je posais : à quel genre de truc attribue-t-on la propriété d'être vrai ou
+d'être faux ? C'est d'abord et avant tout aux propositions. Le vrai et le faux
+ce sont des notions logiques, des notions qui relèvent du langage.
+
+### Attention à ne pas confondre vérité et croyance
+
+Notez qu'il est courant aussi d'attribuer la vérité et la fausseté à des choses
+comme des croyances ou des idées. Mais c'est un usage en fait dérivé : ces
+croyances, ces idées, contiennent des propositions — on croit que X, on a l'idée
+que X, et X est une proposition — et c'est parce que cette proposition est
+susceptible d'être vraie ou fausse que la croyance est elle-même susceptible
+d'être vraie ou fausse.
+
+J'ajouterais qu'il est très, très important de ne pas employer le mot « vérité »
+comme une sorte de synonyme de « croyance » ou de « connaissance ». Ça se révèle
+en particulier quand on parle de « la vérité pour Untel » ou qu'on dit quelque
+chose comme « à chacun sa vérité ». Ce qu'on veut dire par là, c'est toujours en
+fait « à chacun ses croyances » ou « à chacun ses idées ». Ce qu'on appelle « la
+vérité pour Untel », c'est toujours ce que Untel tient pour vrai, autrement dit
+ce qu'il croit ou ce qu'il prétend savoir.
+
+Même lorsqu'on parle de « vérité scientifique », la même remarque s'applique :
+ce n'est jamais que ce qui est tenu pour vrai ou pour le plus vraisemblable par
+la communauté scientifique, ou par la plus grande partie de celle-ci. Et c'est
+certes très, très bien justifié d'être tenu pour vrai, ou en tout cas
+vraisemblable. Mais il faut bien noter que « tenir pour vrai », « être justifié
+à tenir pour vrai » ou « être certain que c'est vrai », tout ça ce sont des
+notions *psychologiques* et *épistémologiques* — c'est-à-dire qu'elles renvoient
+à l'ordre de la pensée et de la connaissance.
+
+Et s'il y a une chose que je voudrais que vous reteniez de cette vidéo, c'est
+ceci : strictement parler, la vérité n'est justement *pas* une notion de cet
+ordre-là. La vérité est, déjà, une notion d'ordre *logique* qui relève du
+langage, et nous allons voir qu'elle relève du rapport du langage à la réalité.
+Donc si j'étais un peu snob, je pourrais dire que c'est une notion
+*logico-ontologique*, mais je trouvais que c'est pas un mot que j'utilise tous
+les jours. Bref : parler de vérité comme un synonyme de croyance ou de
+connaissance, c'est fondamentalement se mélanger les pinceaux.
+
+### Appeler son hamster « Vérité »
+
+Même l'expression « vérité scientifique » ne devrait pas être employée sans
+précaution. On peut aussi dire « tu as ta vérité, et puis j'ai la mienne, et
+chacun fait comme il veut, respectons nos différences. » Oui, bien sûr. Et tu
+peux aussi appeler ton hamster Vérité si ça te fait plaisir, mais je pense que
+ce n'est pas l'usage le plus légitime du terme. Et je vais essayer d'expliquer
+pourquoi.
+
+## Trois thèses raisonnables
+
+Considérons les trois thèses suivantes, qui me semblent plutôt raisonnables.
+
+**Premièrement : il y a une réalité.** Voilà, donc une réalité, au sens où j'en
+parlais dans l'épisode sur la notion de réalité. On y a vu que c'est une thèse
+vraiment minimale, au sens où la nier revient à embrasser le solipsisme le plus
+radical, selon lequel rien n'existe en dehors de mes seules expériences
+présentes, pas même quelque chose qui produise ces expériences. Elles surgissent
+là, spontanément, et il est quand même étonnant à quel point elles sont plutôt
+ordonnées en général. Bref, il est quand même difficile de nier sérieusement le
+réalisme métaphysique. Je veux bien d'accorder ce point, même si en tant que
+double maléfique je doute un peu de ma propre réalité.
+
+**Deuxièmement : nous avons des langages qui permettent d'exprimer toutes sortes
+de propositions.** Je pense aussi bien aux langues naturelles qu'aux langages
+formels. Comme je disais plus haut, ça me semble difficile de nier ce point,
+puisqu'on ne peut le faire qu'en exprimant des propositions dans un langage
+justement. La seule critique cohérente de cette thèse exigerait de se taire
+finalement, et c'est assez peu convaincant.
+
+**Troisièmement : certaines expressions de nos langages réfèrent, ou au moins
+sont censées référer, à certains aspects de la réalité.** Ça n'a rien d'étonnant
+dans la mesure où nous construisons nos langages en étant en interaction avec
+cette réalité. Par exemple, j'ai certaines sensations visuelles et tactiles que
+j'estime causées par un truc qui serait donc réel, et pour moi l'expression « le
+monstre vert » est censée avoir un certain lien avec ce truc réel, qui est sans
+doute en fait un assemblage de choses extraordinairement complexe. Mais peu
+importe : le fait que je juge que cette expression du langage renvoie à un
+certain aspect de la réalité, même si je ne sais pas exactement ce que c'est en
+soi — certes.
+
+### Parenthèse sur la référence
+
+Je me permets d'interrompre le monsieur, car sur la question de la référence,
+sur laquelle je passe un peu vite dans la vidéo, ce n'est pas si simple et c'est
+même assez crucial dans la question du rapport du langage à la réalité. J'ai
+fait plus tard ces deux vidéos qui donnent quelques solides bases, et la
+deuxième notamment explique comment la référence peut être constituée par des
+interactions causales entre des locuteurs du langage et la réalité qui les
+entoure. Si vous voulez un peu approfondir ce point, qui est plus compliqué
+qu'il en a l'air, ces deux vidéos sont particulièrement propices. Je referme
+cette parenthèse et je vous laisse profiter du spectacle.
+
+### L'analogie du plan de métro
+
+Prenons encore un autre exemple très différent, dont j'aime beaucoup me servir :
+on peut considérer les plans de métro comme une forme de langage très simple.
+Dans ce langage, chaque point réfère à un lieu — une station de métro — et le
+trait qui lie ces points est un symbole qui réfère à un certain type de relation
+entre ces lieux, en l'occurrence, en gros, au fait d'être relié par une voie
+ferroviaire. Et c'est tout. Vous le comprenez très bien en lisant, pas besoin de
+percer les mystères de la réalité pour déchiffrer un plan de métro.
+
+Il n'y a rien de plus extraordinaire que ça dans cette thèse selon laquelle
+certaines expressions de nos langages réfèrent à certains aspects de la réalité.
+Vous voyez, c'est tout simple. Autrement dit : les plans de métro parlent du
+métro. Waouh. Nier cet aspect-là est encore extrêmement radical, puisque cela
+supposerait a priori que le réel est absolument indicible et que nous ne
+cherchons pas, ou en tout cas que nous ne devrions pas chercher, à nous y
+référer de quelque façon que ce soit. Je ne doute pas que l'on puisse écrire
+quelques pages d'enthousiasme sur ce thème du langage impuissant à saisir, dans
+son ineffable singularité, puisque c'est le genre de posture qui donne un air
+profond, mais qui n'a finalement qu'un intérêt limité et me semble bien
+difficile à justifier rationnellement.
+
+Déjà, c'est bien sûr un homme de paille que d'exiger du langage qu'il saisisse
+parfaitement la réalité : il est clair qu'aucun langage ne peut satisfaire cette
+exigence exorbitante. Mais ce n'est pas pour autant qu'on ne peut pas parler de
+la réalité. Certes, nos langages sont largement approximatifs et presque tous
+les termes ont des frontières floues et imprécises, mais ça ne devrait pas nous
+empêcher de considérer que telle ou telle expression du langage peut référer de
+façon approximative, floue, imprécise, à tel ou tel aspect de la réalité. Encore
+une fois, ça ne vous paraît pas si sorcier quand vous lisez un plan de métro.
+
+### La correspondance à la réalité
+
+Donc, et je considère que l'expression « le monstre vert » renvoie à ce truc
+réel, dont les limites sont certes imprécises. Mais peu importe : tu es un peu
+flou et je n'ai pas accès à ta réalité en soi, mais je t'aime bien quand même,
+tu sais. C'est bon, tu peux appeler « monstre vert » ce bout de la réalité, je
+n'ai pas d'objection.
+
+Et bien, c'est parfait. Parce qu'une fois qu'on a accepté ces trois thèses, il
+est difficile de ne pas accepter aussi le point suivant, qui est le point
+crucial : **certaines propositions sont susceptibles de correspondre à la
+réalité.**
+
+Ce qu'il faut entendre exactement par « correspondre » pourra varier pas mal
+d'un auteur à un autre. Essayons de vous l'expliquer simplement à partir d'un
+exemple. Reprenons notre plan de métro. Disons donc qu'il y a juste quatre
+symboles dans notre langage : trois points qui réfèrent à des stations de métro,
+et le symbole trait qui réfère à l'idée d'une liaison ferroviaire. À partir de
+là, on peut assembler ces symboles de toutes sortes de façons. Certaines
+assemblages seront considérés comme mal formés, c'est-à-dire qu'ils n'ont pas de
+sens. Les autres seront bien formés, c'est-à-dire qu'ils ont un sens, ils
+expriment donc une proposition. Et parmi les propositions, je vais attirer votre
+attention sur un cas remarquable : c'est lorsque les symboles de la proposition
+sont dans le même rapport que les éléments de la réalité auxquels ils réfèrent.
+
+Ce que je veux dire, c'est que, en admettant que dans la réalité la station
+Châtelet soit liée par une voie ferroviaire à la station Cité, qui elle-même est
+liée à la station Saint-Michel, et à supposer que ces trois points désignent
+respectivement ces trois stations et que le trait désigne cette idée de liaison
+ferroviaire, alors en assemblant les symboles de cette façon, on a une
+proposition dont les symboles sont dans le même rapport que les choses
+auxquelles elle réfère en réalité. Il y a ce qu'on appellerait en mathématiques
+un *isomorphisme*, c'est-à-dire une identité de structures entre la proposition
+et la réalité. Et c'est en ce sens qu'on peut dire que la proposition
+*correspond* à la réalité. Par contre, quand j'assemble ces symboles de cette
+autre façon, on a toujours une proposition, ça a toujours un sens, mais cette
+fois ça ne correspond pas à la réalité.
+
+Voilà, c'est ça, juste ça, ce que je veux dire quand je parle de correspondance
+entre la proposition et la réalité. Et noter que, puisque mon exemple concerne
+le métro, il est bien sûr hilarant de parler de correspondance.
+
+### La vérité-correspondance
+
+Pour résumer : à supposer qu'il y ait une réalité, qu'il y ait un langage, et
+que des éléments de ce langage peuvent référer à des aspects de la réalité — et
+tout cela semble plutôt très raisonnable — alors il semble que certaines
+propositions du langage soient en mesure de correspondre à la réalité, au sens
+d'un isomorphisme entre la structure des éléments de la proposition et la
+structure des aspects de la réalité auxquels ces éléments réfèrent. Ça me paraît
+bien tenir, tout ça.
+
+Et parce que cette idée de correspondance ou d'isomorphisme à la réalité semble
+particulièrement importante et intéressante, mais que c'est quand même un petit
+peu long à dire, ne serait-ce pas tenté de lui donner un petit nom ? Que
+dirais-tu de « vrai » ? On dirait que ces propositions sont *vraies*, et que les
+autres, on va les appeler *fausses*. Ah bah oui, c'est bien trouvé ça, ça sonne
+bien.
+
+Et effectivement, réflexion faite, ça semble très bien se superposer à l'idée
+vague que je me faisais de la vérité. La vérité donc serait la correspondance,
+ou l'adéquation, ou l'isomorphisme d'une proposition à la réalité. Voilà, ça,
+c'est ce qu'on appelle la *vérité-correspondance*. Notez bien que ça ne désigne
+pas une théorie précise : c'est plutôt une large famille de conceptions de la
+vérité qui ont tout ceci en commun — considérer que la vérité réside dans le
+rapport du langage à la réalité. Et cela représente la principale conception de
+la vérité dans toute l'histoire de la philosophie, aussi bien que dans la
+philosophie contemporaine.
+
+### Le sentiment de trivialité
+
+Mais c'est quand même un peu décevant tout ça, non ? Je veux dire, en fin de
+compte, il me semble qu'on me dit que la phrase « la neige est blanche » est
+vraie en vertu du fait que la neige est blanche. Merci, Captain Obvious. Note
+par contre que ce n'est pas parce que la neige est blanche que la neige blanche
+est vraie, mais c'est parce que la neige est blanche que la magie blanche est
+vraie. Enfin, c'est vraiment pas compliqué ce que je dis, ah oui, effectivement,
+c'est très simple.
+
+J'aimerais que cette conception de la vérité ait bien quelque chose de décevant,
+de trop simple, de trivial. Et ça pose le problème : quand on essaie, comme on
+vient de le faire, de parler de la correspondance de la proposition à un fait,
+on voit mal comment parler de ce fait autrement qu'en répétant la proposition.
+Pour parler du fait que la neige est blanche, il est visible que je mentionne la
+proposition « la neige est blanche ». Et c'est pour ça que c'est si bizarre : il
+est bien difficile de s'extraire du langage pour étudier sa correspondance à la
+réalité — sauf en logique bien sûr, et c'est pour ça que la logique, c'est
+magnifique. Mais c'est une autre histoire.
+
+### La vérité-correspondance n'est pas dépassée
+
+Même si elle reste largement dominante aujourd'hui, la vérité-correspondance est
+curieusement méprisée par certains philosophes, comme si elle allait de soi, que
+c'est une théorie naïve et dépassée. Alors que non, ça n'est absolument pas
+dépassé. Et je pense même, en tant que musicien, que l'approche sémantique de
+Tarski, qui est la théorie des modèles, a permis de rendre cette conception
+beaucoup plus solide du point de vue formel. Ce n'est ni plus ni moins naïf que
+les trois thèses à partir desquelles j'ai argumenté : à savoir qu'il y a une
+réalité, qu'il y a des langages, et que ces langages nous permettent de parler
+de la réalité. C'est un peu décevant, certes, mais ce qui est naïf n'est pas
+forcément faux. C'est même souvent le signe que c'est plutôt raisonnable, en
+fait. Il faut se méfier de la séduction du paradoxe et du mépris du sens commun
+en philosophie.
+
+Je peux comprendre la fascination qu'exercent les thèses radicales, comme
+refuser qu'il y ait une réalité ou que le langage nous permette d'en parler.
+Cela donne facilement l'impression d'une position élevée et profonde. Mais en
+fin de compte, en les soutenant, vous vous condamnez surtout à refuser a priori
+toute discussion, ce qui n'est pas bête d'avoir une théorie sur laquelle il est
+impossible de discuter — ça permet de ne jamais avoir tort.
+
+Il faut sans doute réserver un traitement spécial à la vérité en ce qui concerne
+les propositions des mathématiques ou de la logique, et plus généralement pour
+tout ce qui est formel et méta. C'est là que l'idée d'une notion de vérité basée
+sur un critère de cohérence plutôt que de correspondance, par exemple, pourrait
+être pertinente. Ou bien on peut renoncer tout à fait à parler de vérité et
+préférer un autre terme comme « valide ». Peu importe. Mais en dehors de cela,
+pour toutes les propositions qui touchent au fait, il me semble raisonnable de
+donner au mot « vrai » son sens de vérité-correspondance. Une proposition de ce
+genre est vraie si et seulement si ce qu'elle dit est dans une certaine forme de
+correspondance avec ce qui est. En somme, il y a le niveau ontologique,
+c'est-à-dire le niveau de la réalité, avec les faits, et il y a le niveau
+logique, le niveau du langage avec les propositions. La vérité s'applique aux
+propositions et renvoie à un certain isomorphisme entre ce niveau logique et le
+niveau ontologique.
+
+### Autres conceptions
+
+Notez bien qu'en fin de compte, si vous voulez utiliser le mot « vrai »
+autrement, tant que c'est clairement convenu, pourquoi pas. Il y a certes
+d'autres conceptions de la vérité — typiquement les conceptions cohérentistes ou
+pragmatistes — mais je trouve pour ma part que se disputer sur la définition du
+mot « vrai » est en fin de compte assez vain, tant qu'on ne remet pas en cause
+l'idée d'un rapport entre le langage et la réalité. S'il y a un tel rapport, et
+en particulier s'il peut y avoir un isomorphisme entre une proposition et un
+fait, alors il ne sera pas incongru de souhaiter désigner ce rapport par un
+certain mot, et pourquoi pas le mot « vrai ». Il semble plutôt bien désigné pour
+cela. Mais si vraiment vous n'aimez pas qu'on emploie le mot vrai de cette façon
+— parce que c'est le nom de votre hamster, par exemple —, ou parce que vous
+considérez qu'il faut réserver le mot vrai à un autre usage, eh bien ne
+l'employez pas. Mais ça devient juste une querelle verbale sans grand intérêt.
+
+### L'objection épistémologique
+
+Ok, ok, mais à la réflexion, je me dis qu'il y a quand même un gros problème
+avec ta théorie de la vérité-correspondance : comment fait-on pour vérifier
+qu'il y a bien une correspondance entre la proposition et la réalité ? Parce
+qu'en fait, on n'a pas accès à la réalité en soi. Je dirais même, pour le cas du
+métro par exemple, je n'ai pas accès à la station de métro en soi : tout ce que
+j'obtiens, ce sont des perceptions de métro. Du coup, je ne puis jamais être sûr
+que le plan correspond vraiment à la réalité réelle, l'idée en soi. Et donc la
+notion de vérité-correspondance est pourrie.
+
+Ça, c'est l'objection la plus courante contre la vérité-correspondance. C'est
+celle que Kant formulait notamment dans un passage de la *Critique de la raison
+pure*, souvent convoqué en autorité pour montrer à quel point la
+vérité-correspondance est une notion absurde et dépassée. Mais ce n'est
+absolument pas pertinent, parce que c'est une objection *épistémologique* —
+c'est-à-dire une objection qui concerne la question de savoir comment être
+justifié à croire qu'une certaine proposition est vraie. On ne voit pas en quoi
+cela devrait remettre en cause la *notion* de vérité, qui de toute façon n'est
+pas une notion épistémologique. C'est typiquement un cas où l'on confond la
+notion de vérité avec les notions dérivées de « tenir pour vrai », « être
+justifié » ou « être certain » qu'une chose est vraie.
+
+Il n'y a rien d'absurde ou de contradictoire à ce que la définition de la
+vérité-correspondance ait pour conséquence que nous ne pouvons pas avoir de
+certitude absolue quant à la vérité de quoi que ce soit concernant la réalité
+extérieure. C'est peut-être tout simplement un signe du fait qu'il n'y a tout
+simplement pas de sens à viser une telle certitude absolue. Voilà, tout. Il faut
+juste se faire à cette idée.
+
+En somme, certes, la définition de la vérité comme correspondance à la réalité
+met en lumière des difficultés épistémologiques, puisque nous n'avons pas accès
+directement à la réalité et que nous ne pouvons pas constater directement cette
+correspondance. Mais ça n'est pas une objection à cette définition, tout au
+contraire. Espérer résoudre ces difficultés — ou plutôt les mettre sous le tapis
+— en changeant subrepticement le sens du mot « vérité », c'est aussi inutile que
+malhonnête.
+
+Oui, ce que nous cherchons à connaître, c'est la réalité, et donc nous espérons
+que nos théories sont vraies, ou au moins s'en rapprochent, c'est-à-dire
+qu'elles correspondent à la réalité autant que possible. Et oui, il est bien
+difficile de s'assurer de cela, puisque nous n'avons justement pas accès à cette
+réalité. La question intéressante est alors de savoir si un certain type de
+justification — typiquement celle que fournit le travail scientifique — nous
+permet de garantir, mieux que d'autres, que les propositions que l'on considère
+sont vraies ou plus vraisemblables que les autres. Tout cela sont des questions
+épistémologiques, qui ne relèvent plus de la notion de vérité seulement. Et ce
+sont d'excellentes questions, qui nous mènent tout droit à un sujet dont j'ai
+déjà parlé et que je compléterai bientôt d'un prochain épisode : c'est le sujet
+du réalisme scientifique. Mais ce sera donc pour une prochaine fois.
+
+## « Tous les modèles sont faux, mais certains sont utiles »
+
+Alors donc pour finir, je voudrais dire deux ou trois mots à propos de la
+formule que vous avez peut-être déjà entendue : « tous les modèles sont faux,
+mais certains sont utiles ». C'est une formule qu'on doit à George Box, un des
+plus grands statisticiens du vingtième siècle, et elle est devenue assez
+populaire, notamment dans la sphère de la vulgarisation scientifique en France —
+probablement en partie parce que dirtybiology en est un grand utilisateur de
+cette formule, et je pense qu'il n'est pas étranger au fait que je l'ai entendue
+ensuite dans la bouche de Hygiène Mentale ou de Eureka, que des excellentes
+chaînes.
+
+Alors donc, « tous les modèles sont faux, mais certains sont utiles » :
+qu'est-ce que ça veut dire en fait ? Et est-ce que tout ce que j'ai raconté sur
+la vérité peut nous éclairer là-dessus ?
+
+Revenons à mon plan de métro, vu que c'est mon exemple favori. Peut-être que
+certains ont envie de dire : « Oui, mais ça n'est pas un modèle ! » Mais déjà,
+définir précisément ce qu'on appelle un modèle est très compliqué. Quoi qu'il en
+soit, il semble que cette sentence sur les modèles — tous faux mais certains
+utiles — on l'entend le plus souvent de façon générale comme une sorte de mise
+en garde contre toute représentation simplificatrice de la reality. Et
+finalement, un plan de métro en est une, représentation simplificatrice de la
+réalité, donc pourquoi pas. Alors comme ça, tous les plans de métro seraient
+faux mais certains seraient utiles. Qu'est-ce que ça veut dire ? En quoi ce plan
+de métro par exemple est-il faux mais utile ?
+
+### Ce que la formule veut réellement dire
+
+L'idée sous-jacente, lorsqu'on dit ce genre de choses, c'est : soit une
+représentation est toujours plus simple, plus limitée que la réalité
+représentée. Il ne faut pas la prendre pour la réalité, elle en manque forcément
+des aspects. Et effectivement, il y a bien plus de richesses dans le réseau
+urbain ferroviaire de la ville de Paris que dans ce plan bassement schématique
+et réducteur. La carte n'est pas le territoire, tout ça, tout ça. Donc oui, ce
+plan n'exprime pas tout ce qu'on pourrait exprimer au sujet du métro parisien.
+Un feu-demande à Lorànt Deutsch si vous voulez savoir tout ce qui est vrai à
+propos du métro parisien.
+
+Mais pour autant, en quoi le plan exprimerait-il quelque chose de *positivement*
+faux ? Le plan ne *dit* pas « le métro parisien ». Ce n'est rien d'autre que ce
+que nous en disons, à le réduire. Le plan ne dit rien en lui-même : c'est nous
+qui lui faisons dire quelque chose en l'interprétant. Et l'interpréter
+correctement, c'est justement ne pas lui demander davantage que nous renseigner
+sur l'ordre des stations et comment elles sont liées à éventuellement d'autres
+lignes de métro. C'est très limité, mais il est important de voir que, tant
+qu'on reste dans les limites de cette interprétation correcte, tout ce que nous
+dit le plan correspond bien à la réalité. C'est juste *vrai*.
+
+J'aurais du mal à ne pas trouver assez agaçant quelqu'un à qui je demande si
+c'est bien le bon plan de la ligne et si c'est vrai que la station Cité est
+entre Châtelet et Saint-Michel, et qui me répondrait : « Tu sais, tous les plans
+de métro sont faux, mais certains sont utiles. » J'aurais juste envie de lui
+dire : non, mais moi, tout ce que nous avons, c'est l'ordre des stations indiqué
+sur le plan, et ça correspond bien à l'ordre des stations sur la ligne réelle.
+C'est ça, la différence entre un plan vrai et un plan faux.
+
+### Il ne faut pas tout mettre dans la case « faux »
+
+Après, pour qu'un plan me soit utile, tout ce que je demande, c'est qu'il soit
+vrai en ce sens-là, en fait. Après tout, c'est bien la ligne de métro réelle que
+je vais prendre, donc c'est forcément utile, de ce point de vue, que le plan du
+métro corresponde à cette réalité — autrement dit, qu'il soit vrai au sens de
+vérité-correspondance. Même si bien sûr, je peux pas en être absolument
+certains, parce que pas d'accès direct à la réalité. Mais encore une fois, ne
+confondons pas la question épistémologique de « comment être certain que c'est
+vrai » et la question simplement « qu'est-ce que ça veut dire que c'est vrai ».
+
+Notez bien que certes, ce n'est pas toujours le cas : il y a bien des modèles
+dont on admet la fausseté, au sens où l'on admet que ce qu'ils représentent ne
+semble pas correspondre à la réalité, mais qui contiennent quand même quelque
+chose d'utile, au sens où ils nous permettent de faire des prédictions correctes
+par ailleurs. Et il est important justement de ne pas confondre ces deux cas. Il
+est important de ne pas confondre tout ce qui est utile dans la même case du «
+faux ». Ça ne tient juste pas la route.
+
+Parmi les modèles ou les représentations utiles, il y en a pour lesquels on a de
+bonnes raisons de penser qu'ils le sont *précisément parce qu'ils sont vraies*.
+Le plan de métro encore une fois en est l'exemple typique. Et il y a d'autres
+modèles et représentations pour lesquels on a de bonnes raisons de penser que
+leur utilité provient d'une correspondance au moins approximative à la réalité —
+donc c'est plutôt approximativement vrai. Et je vous renvoie là-dessus à la
+vidéo sur le réalisme scientifique, qui finalement pose la question de savoir ce
+qu'il pourrait y avoir d'au moins approximativement vrai dans nos théories
+scientifiques, qui expliquerait qu'elles soient justement si utiles.
+
+Et puis effectivement, on peut aussi avoir des modèles, ou des aspects d'un
+modèle, dont on a de bonnes raisons de penser qu'ils ne correspondent pas du
+tout à la réalité mais qui sont néanmoins utiles parce qu'ils permettent de
+faire des prédictions correctes. Typiquement, la physique newtonienne avec son
+concept de force : on a de bonnes raisons de penser que ce concept de force ne
+représente rien, mais ça reste très utile.
+
+### Ce qu'il faudrait dire à la place
+
+En fin de compte, il paraît important, face à un modèle utile, de bien
+distinguer ces différents types de cas. Il ne faut pas décréter que parce que
+c'est « juste un modèle », alors tout est faux dedans. En général, c'est pas ça
+qu'on veut dire. La mise en garde que la plupart des gens veulent faire en
+disant « tous les modèles sont faux, mais certains sont utiles », c'est plutôt
+quelque chose comme : « OK, ce modèle est utile, mais n'allons pas croire que
+tout ce qu'il représente correspond à quelque chose en réalité, et bien sûr
+n'allons pas croire que la réalité n'est rien de plus que ce modèle. Bref,
+faisons la part des choses dans tout ça. » Alors c'est forcément un peu plus
+long à dire comme ça, et c'est moins sexy, mais ça me paraît plus responsable
+épistémologiquement. Ou si vous voulez quand même une formule un peu frappante,
+vous pourriez dire quelque chose comme : « un modèle peut être utile sans être
+vrai. » OK, bon, c'est pas fou, mais au moins c'est correct.
+
+### Attention à ce qu'on dit
+
+Certes, il y a aussi des personnes — et Clment09 en fait partie, par exemple —
+qui utilisent cette formule parce qu'elles sont par ailleurs opposées à toute
+forme de réalisme scientifique, et même de réalisme tout court. Et pourquoi pas,
+du coup, c'est à peu près approprié pour exprimer une position anti-réaliste —
+encore que pas mal d'anti-réalistes mettraient beaucoup de caveats avant
+d'utiliser ce genre d'expression. Mais de fait, en pratique, cette expression
+est très souvent, même chez eux, utilisée dans des contextes qui n'ont pas
+grand-chose à voir avec des questions sur l'anti-réalisme. Et en fin de compte,
+je pense que beaucoup de personnes — et peut-être même George Box lui-même au
+départ — utilisent un peu vite cette expression sans avoir le moins du monde
+l'intention de soutenir la position radicalement anti-réaliste qui semble
+sous-jacente si on la prend tout à fait au sérieux.
+
+Donc voilà : si vous n'avez pas d'idée particulière à défendre à propos du
+réalisme scientifique, ou si vous penchez plutôt du côté du réalisme
+scientifique — et ce n'est pas une position excentrée, c'est en comptant une
+position très consensuelle en épistémologie et en philosophie des sciences
+aujourd'hui —, eh bien je vous recommanderais un peu plus de prudence avant de
+dire « tous les modèles sont faux, mais certains sont utiles ». Vous êtes
+probablement en train de dire quelque chose avec quoi vous n'êtes pas du tout
+d'accord, en fait, à bien examiner. Et c'est un petit peu embêtant de dire par
+mégarde des choses avec lesquelles en fait on n'est pas d'accord.
+
+Merci d'avoir regardé et peut-être re regardé cette vidéo sur la vérité. Je vous
+remettrai aussi le lien vers l'article de blog qui contient pas mal de
+compléments. Ne vous inquiétez pas, je n'ai pas renoncé à faire la suite sur le
+paradoxe de la grenouille. Combien ça va venir, puisque ça faisait un moment que
+je voulais réaliser cette vidéo, et maintenant c'est chose faite.
+
+Je remercie du fond du cœur toutes celles et ceux qui soutiennent la chaîne sur
+YouTube et sur Tipeee. Vous êtes magnifiques et vous êtes ma principale source
+de rémunération en ce moment. La chaîne n'aurait pas survécu toutes ces années
+sans vous, donc vraiment, encore une fois, merci.
+
+On se retrouve bientôt pour une prochaine vidéo avec probablement du paradoxe de
+Newcombe et du dilemme du prisonnier, en veux-tu en voilà. En attendant,
+portez-vous bien, et j'espère que vous me direz « hello » en naviguant sur la
+beauté formelle des plans de métro.

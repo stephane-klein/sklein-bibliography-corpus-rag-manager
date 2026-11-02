@@ -1,0 +1,252 @@
+---
+title: Chapter IV. Of The Differences Of Wages In Different Employments.
+path: 05-book-ii-distribution/4-chapter-iv-of-the-differences-of-wages-in-different-employments
+ancestors:
+  - Book II. Distribution.
+href: 1129008759595750428_30107-h-4.html.xhtml#pgepubid00075
+source: principales-of-political-economy-by-john-stuart-mill.epub
+---
+
+# Chapter IV. Of The Differences Of Wages In Different Employments.
+
+## § 1. Differences of Wages Arising from Different Degrees of Attractiveness in Different Employments.
+
+In treating of wages, we have hitherto confined ourselves to the causes which operate on them generally, and en masse;
+the laws which govern the remuneration of ordinary or average labor, without reference to the existence of different
+kinds of work which are habitually paid at different rates, depending in some degree on different laws. We will now take
+into consideration these differences, and examine in what manner they affect or are affected by the conclusions already
+established.
+
+The differences, says \[Adam Smith\], arise partly “from certain circumstances in the employments themselves, which
+either really, or at least in the imaginations of men, make up for a small pecuniary gain in some, and counterbalance a
+great one in others.” These circumstances he considers to be: “First, the agreeableness or disagreeableness of the
+employments themselves; secondly, the easiness and cheapness, or the difficulty and expense of learning them; thirdly,
+the constancy or inconstancy of employment in them; fourthly, the small or great trust which must be reposed in those
+who exercise them; and, fifthly, the probability or improbability of success in them.”
+
+(1.) “The wages of labor vary with the ease or hardship, the cleanliness or dirtiness, the honorableness or
+dishonorableness of the employment. A journeyman blacksmith, though an artificer, seldom earns so much in twelve hours
+as a collier, who is only a laborer, does in eight. His work \[pg 206\] is not quite so dirty, is less dangerous, and is
+carried on in daylight and above ground. Honor makes a great part of the reward of all honorable professions. In point
+of pecuniary gain, all things considered,” their recompense is, in his opinion, below the average. “Disgrace has the
+contrary effect. The trade of a butcher is a brutal and an odious business; but it is in most places more profitable
+than the greater part of common trades. The most detestable of all employments, that of the public executioner, is, in
+proportion to the quantity of work done, better paid than any common trade whatever.”
+
+(2.) “Employment is much more constant,” continues Adam Smith, “in some trades than in others. In the greater part of
+manufactures, a journeyman may be pretty sure of employment almost every day in the year that he is able to work. A
+mason or brick-layer, on the contrary, can work neither in hard frost nor in foul weather, and his employment at all
+other times depends upon the occasional calls of his customers. He is liable, in consequence, to be frequently without
+any. What he earns, therefore, while he is employed, must not only maintain him while he is idle, but make him some
+compensation for those anxious and desponding moments which the thought of so precarious a situation must sometimes
+occasion.”
+
+“When (1) the inconstancy of the employment is combined with (2) the hardship, disagreeableness, and dirtiness of the
+work, it sometimes raises the wages of the most common labor above those of the most skillful artificers. A collier
+working by the piece is supposed, at Newcastle, to earn commonly about double, and in many parts of Scotland about three
+times, the wages of common labor. His high wages arise altogether from the hardship, disagreeableness, and dirtiness of
+his work. His employment may, upon most occasions, be as constant as he pleases. The coal-heavers in London exercise a
+trade which in hardship, dirtiness, and disagreeableness almost equals that of colliers; and from the unavoidable
+irregularity in the arrivals of coal-ships, the \[pg 207\] employment of the greater part of them is necessarily very
+inconstant. If colliers, therefore, commonly earn double and triple the wages of common labor, it ought not to seem
+unreasonable that coal-heavers should sometimes earn four or five times those wages. In the inquiry made into their
+condition a few years ago, it was found that, at the rate at which they were then paid, they could earn about four times
+the wages of common labor in London.”
+
+These inequalities of remuneration, which are supposed to compensate for the disagreeable circumstances of particular
+employments, would, under certain conditions, be natural consequences of perfectly free competition: and as between
+employments of about the same grade, and filled by nearly the same description of people, they are, no doubt, for the
+most part, realized in practice.
+
+But it is altogether a false view of the state of facts to present this as the relation which generally exists between
+agreeable and disagreeable employments. The really exhausting and the really repulsive labors, instead of being better
+paid than others, are almost invariably paid the worst of all, because performed by those who have no choice. If the
+laborers in the aggregate, instead of exceeding, fell short of the amount of employment, work which was generally
+disliked would not be undertaken, except for more than ordinary wages. But when the supply of labor so far exceeds the
+demand that to find employment at all is an uncertainty, and to be offered it on any terms a favor, the case is totally
+the reverse. Partly from this cause, and partly from the natural and artificial monopolies, which will be spoken of
+presently, the inequalities of wages are generally in an opposite direction to the equitable principle of compensation,
+erroneously represented by Adam Smith as the general law of the remuneration of labor.
+
+(3.) One of the points best illustrated by Adam Smith is the influence exercised on the remuneration of an employment by
+the uncertainty of success in it. If the chances are great of total failure, the reward in case of success must be \[pg
+208\] sufficient to make up, in the general estimation, for those adverse chances. Put your son apprentice to a
+shoemaker, there is little doubt of his learning to make a pair of shoes; but send him to study the law, it is at least
+twenty to one if ever he makes such proficiency as will enable him to live by the business. In a perfectly fair lottery,
+those who draw the prizes ought to gain all that is lost by those who draw the blanks. In a profession where twenty fail
+for one that succeeds, that one ought to gain all that should have been gained by the unsuccessful twenty. How
+extravagant soever the fees of counselors-at-law may sometimes appear, their real retribution is never equal to this.
+
+## § 2. Differences arising from Natural Monopolies.
+
+The preceding are cases in which inequality of remuneration is necessary to produce equality of attractiveness, and are
+examples of the equalizing effect of free competition. The following are cases of real inequality, and arise from a
+different principle.
+
+(4.) “The wages of labor vary according to the small or great trust which must be reposed in the workmen. The wages of
+goldsmiths and jewelers are everywhere superior to those of many other workmen, not only of equal but of much superior
+ingenuity, on account of the precious materials with which they are intrusted.” The superiority of reward is not here
+the consequence of competition, but of its absence: not a compensation for disadvantages inherent in the employment, but
+an extra advantage; a kind of monopoly price, the effect not of a legal, but of what has been termed a natural monopoly.
+If all laborers were trustworthy, it would not be necessary to give extra pay to working goldsmiths on account of the
+trust. The degree of integrity required being supposed to be uncommon, those who can make it appear that they possess it
+are able to take advantage of the peculiarity, and obtain higher pay in proportion to its rarity.
+
+This same explanation of a natural monopoly applies exactly to the causes which give able executive managers, who watch
+over productive operations, the usually high rewards for \[pg 209\] labor under the name of “wages of superintendence.”
+If successful managers of cotton or woolen mills were as plentiful, in proportion to the demand for them, as ordinary
+artisans, in proportion to the demand for them, then the former would get no higher rewards than the latter. Able
+executive and business managers secure high wages solely on the ground—as explained above—of monopoly; that is, because
+their numbers, owing to natural causes, are few relatively to the demand for them in every industry in the land.
+
+(5.) Some employments require a much longer time to learn, and a much more expensive course of instruction, than others;
+and to this extent there is, as explained by Adam Smith, an inherent reason for their being more highly remunerated.
+Wages, consequently, must yield, over and above the ordinary amount, an annuity sufficient to repay these sums, with the
+common rate of profit, within the number of years \[the laborer\] can expect to live and be in working condition.
+
+But, independently of these or any other artificial monopolies, there is a natural monopoly in favor of skilled laborers
+against the unskilled, which makes the difference of reward exceed, sometimes in a manifold proportion, what is
+sufficient merely to equalize their advantages. But the fact that a course of instruction is required, of even a low
+degree of costliness, or that the laborer must be maintained for a considerable time from other sources, suffices
+everywhere to exclude the great body of the laboring people from the possibility of any such competition. Until lately,
+all employments which required even the humble education of reading and writing could be recruited only from a select
+class, the majority having had no opportunity of acquiring those attainments.
+
+Here is found the germ of the idea, which has been elaborately worked out by Mr. Cairnes[^175] in his theory of
+non-competing groups of laborers: “What we find, in effect, is not a whole population competing indiscriminately for all
+occupations, but a series of industrial layers superposed on one another, within each of which the various candidates
+for employment \[pg 210\] possess a real and effective power of selection, while those occupying the several strata are,
+for all purposes of effective competition, practically isolated from each other.” (Mr. Mill certainly understood this
+fully, and stated it clearly again in [Book III, Chap. II, §
+2](1129008759595750428_30107-h-5.html.xhtml#Book_III_Chapter_II_Section_2).)
+
+The changes, however, now so rapidly taking place in usages and ideas, are undermining all these distinctions; the
+habits or disabilities which chained people to their hereditary condition are fast wearing away, and every class is
+exposed to increased and increasing competition from at least the class immediately below it. The general relaxation of
+conventional barriers, and the increased facilities of education which already are, and will be in a much greater
+degree, brought within the reach of all, tend to produce, among many excellent effects, one which is the reverse: they
+tend to bring down the wages of skilled labor.
+
+## § 3. Effect on Wages of the Competition of Persons having other Means of Support.
+
+A modifying circumstance still remains to be noticed, which interferes to some extent with the operation of the
+principles thus far brought to view. While it is true, as a general rule, that the earnings of skilled labor, and
+especially of any labor which requires school education, are at a monopoly rate, from the impossibility, to the mass of
+the people, of obtaining that education, it is also true that the policy of nations, or the bounty of individuals,
+formerly did much to counteract the effect of this limitation of competition, by offering eleemosynary instruction to a
+much larger class of persons than could have obtained the same advantages by paying their price.
+
+\[Adam Smith has pointed out that\] “whenever the law has attempted to regulate the wages of workmen, it has always been
+rather to lower them than to raise them. But the law has upon many occasions attempted to raise the wages of curates,
+and, for the dignity of the Church, to oblige the rectors of parishes to give them more than the wretched maintenance
+which they themselves might be willing to accept of. And in both cases the law seems to have been equally ineffectual,
+and has never been either able to raise \[pg 211\] the wages of curates or to sink those of laborers to the degree that
+was intended, because it has never been able to hinder either the one from being willing to accept of less than the
+legal allowance, on account of the indigence of their situation and the multitude of their competitors, or the other
+from receiving more, on account of the contrary competition of those who expected to derive either profit or pleasure
+from employing them.”
+
+Although the highest pecuniary prizes of successful authorship are incomparably greater than at any former period, yet
+on any rational calculation of the chances, in the existing competition, scarcely any writer can hope to gain a living
+by books, and to do so by magazines and reviews becomes daily more difficult. It is only the more troublesome and
+disagreeable kinds of literary labor, and those which confer no personal celebrity, such as most of those connected with
+newspapers, or with the smaller periodicals, on which an educated person can now rely for subsistence. Of these, the
+remuneration is, on the whole, decidedly high; because, though exposed to the competition of what used to be called
+“poor scholars” (persons who have received a learned education from some public or private charity), they are exempt
+from that of amateurs, those who have other means of support being seldom candidates for such employments.
+
+When an occupation is carried on chiefly by persons who derive the main portion of their subsistence from other sources,
+its remuneration may be lower almost to any extent than the wages of equally severe labor in other employments. The
+principal example of the kind is domestic manufactures. When spinning and knitting were carried on in every cottage, by
+families deriving their principal support from agriculture, the price at which their produce was sold (which constituted
+the remuneration of their labor) was often so low that there would have been required great perfection of machinery to
+undersell it. The amount of the remuneration in such a case depends chiefly upon whether the quantity of the commodity
+produced by this description of labor \[pg 212\] suffices to supply the whole of the demand. If it does not, and there
+is consequently a necessity for some laborers who devote themselves entirely to the employment, the price of the article
+must be sufficient to pay those laborers at the ordinary rate, and to reward, therefore, very handsomely the domestic
+producers. But if the demand is so limited that the domestic manufacture can do more than satisfy it, the price is
+naturally kept down to the lowest rate at which peasant families think it worth while to continue the production. Thus
+far, as to the remuneration of the subsidiary employment; but the effect to the laborers of having this additional
+resource is almost certain to be (unless peculiar counteracting causes intervene) a proportional diminution of the wages
+of their main occupation.
+
+For the same reason it is found that, cæteris paribus, those trades are generally the worst paid in which the wife and
+children of the artisan aid in the work. The income which the habits of the class demand, and down to which they are
+almost sure to multiply, is made up in those trades by the earnings of the whole family, while in others the same income
+must be obtained by the labor of the man alone. It is even probable that their collective earnings will amount to a
+smaller sum than those of the man alone in other trades, because the prudential restraint on marriage is unusually weak
+when the only consequence immediately felt is an improvement of circumstances, the joint earnings of the two going
+further in their domestic economy after marriage than before.
+
+This statement seems to be borne out by the statistics of wages[^176] both in England and the United States. In our
+cotton-mills, where women do certain kinds of work equally well with men, the wages of the men are lower than in outside
+employments into which women can not enter.
+
+Blacksmiths, per week: $16.74  
+Family of four: Drawers-in, cotton-mill—man, per week: $5.50  
+Family of four: Drawers-in, cotton-mill—woman, per week: $5.50  
+Family of four: Tenders, two boys: $4.50  
+Total: $15.50
+
+\[pg 213\]
+
+In this case the family of four all together receive only about the same as the wages of the single blacksmith alone.
+
+## § 4. Wages of Women, why Lower than those of Men.
+
+Where men and women work at the same employment, if it be one for which they are equally fitted in point of physical
+power, they are not always unequally paid. Women in factories sometimes earn as much as men; and so they do in hand-loom
+weaving, which, being paid by the piece, brings their efficiency to a sure test. When the efficiency is equal, but the
+pay unequal, the only explanation that can be given is custom. But the principal question relates to the peculiar
+employments of women. The remuneration of these is always, I believe, greatly below that of employments of equal skill
+and equal disagreeableness carried on by men. In some of these cases the explanation is evidently that already given: as
+in the case of domestic servants, whose wages, speaking generally, are not determined by competition, but are greatly in
+excess of the market value of the labor, and in this excess, as in almost all things which are regulated by custom, the
+male sex obtains by far the largest share. In the occupations in which employers take full advantage of competition, the
+low wages of women, as compared with the ordinary earnings of men, are a proof that the employments are overstocked:
+that although so much smaller a number of women than of men support themselves by wages, the occupations which law and
+usage make accessible to them are comparatively so few that the field of their employment is still more overcrowded.
+
+Yet within the employments open to women, such as millinery and dress-making, certain women are able to charge
+excessively high prices for work, because, having obtained a reputation for especial skill and taste, they can exact in
+the high prices of their articles what is really their high wages. Within these employments women are unable to earn a
+living not so much by the lack of work, as by not bringing to their occupation that amount of skill and those business
+qualities (owing, of course, to their being brought up unaccustomed to business methods) which are requisite for the
+success of any one, either man or woman.
+
+\[pg 214\]
+
+It must be observed that, as matters now stand, a sufficient degree of overcrowding may depress the wages of women to a
+much lower minimum than those of men. The wages, at least of single women, must be equal to their support, but need not
+be more than equal to it; the minimum, in their case, is the pittance absolutely requisite for the sustenance of one
+human being. Now the lowest point to which the most superabundant competition can permanently depress the wages of a man
+is always somewhat more than this. Where the wife of a laboring-man does not by general custom contribute to his
+earnings, the man's wages must be at least sufficient to support himself, a wife, and a number of children adequate to
+keep up the population, since, if it were less, the population would not be kept up.
+
+## § 5. Differences of Wages Arising from Laws, Combinations, or Customs.
+
+Thus far we have, throughout this discussion, proceeded on the supposition that competition is free, so far as regards
+human interference; being limited only by natural causes, or by the unintended effect of general social circumstances.
+But law or custom may interfere to limit competition. If apprentice laws, or the regulations of corporate bodies, make
+the access to a particular employment slow, costly, or difficult, the wages of that employment may be kept much above
+their natural proportion to the wages of common labor. In some trades, however, and to some extent, the combinations of
+workmen produce a similar effect. Those combinations always fail to uphold wages at an artificial rate unless they also
+limit the number of competitors. Putting aside the atrocities sometimes committed by workmen in the way of personal
+outrage or intimidation, which can not be too rigidly repressed, if the present state of the general habits of the
+people were to remain forever unimproved, these partial combinations, in so far as they do succeed in keeping up the
+wages of any trade by limiting its numbers, might be looked upon as simply intrenching round a particular spot against
+the inroads of over-population, and making the wages of the class depend upon their own rate of \[pg 215\] increase,
+instead of depending on that of a more reckless and improvident class than themselves.
+
+To conclude this subject, I must repeat an observation already made, that there are kinds of labor of which the wages
+are fixed by custom, and not by competition. Such are the fees or charges of professional persons—of physicians,
+surgeons, barristers, and even attorneys.
+
+\[pg 216\]
+
+* * *
+
+[^175]: “Leading Principles,” pp. 64-69.
+
+[^176]: See Young, “Labor in Europe.”
