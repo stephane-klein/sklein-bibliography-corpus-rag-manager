@@ -1,0 +1,594 @@
+{
+    "title": "SvelteKit App Metrics",
+    "uid": "sveltekit-metrics",
+    "version": 1,
+    "schemaVersion": 39,
+    "tags": ["sveltekit"],
+    "timezone": "browser",
+    "refresh": "10s",
+    "time": {
+        "from": "now-15m",
+        "to": "now"
+    },
+    "panels": [
+        {
+            "id": 17,
+            "type": "text",
+            "title": "",
+            "transparent": true,
+            "gridPos": {
+                "h": 4,
+                "w": 24,
+                "x": 0,
+                "y": 0
+            },
+            "options": {
+                "mode": "markdown",
+                "content": "# SvelteKit SSR Skeleton\n\n- **URL:** PLACEHOLDER_URL\n- **GitHub:** https://github.com/stephane-klein/sklein-bibliography-corpus-rag-manager\n- **Namespace:** PLACEHOLDER_NAMESPACE"
+            }
+        },
+        {
+            "id": 1,
+            "title": "Memory",
+            "type": "row",
+            "gridPos": {
+                "h": 1,
+                "w": 24,
+                "x": 0,
+                "y": 4
+            },
+            "description": "M\u00e9triques de m\u00e9moire du processus Node.js (V8)"
+        },
+        {
+            "id": 2,
+            "title": "Resident Memory",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 0,
+                "y": 5
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (process_resident_memory_bytes{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "RSS"
+                },
+                {
+                    "expr": "max by(container) (container_spec_memory_limit_bytes{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "Memory Limit"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "bytes",
+                    "decimals": 1,
+                    "thresholds": {
+                        "mode": "absolute",
+                        "steps": [
+                            {
+                                "color": "green",
+                                "value": null
+                            },
+                            {
+                                "color": "orange",
+                                "value": 209715200
+                            },
+                            {
+                                "color": "red",
+                                "value": 419430400
+                            }
+                        ]
+                    },
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                },
+                "overrides": [
+                    {
+                        "matcher": {
+                            "id": "byName",
+                            "options": "Memory Limit"
+                        },
+                        "properties": [
+                            {
+                                "id": "custom.fillOpacity",
+                                "value": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "M\u00e9moire r\u00e9sidente (RSS) du processus Node.js \u2014 quantit\u00e9 r\u00e9elle de RAM physique utilis\u00e9e par l'application. Inclut le heap V8, la m\u00e9moire externe (bindings natifs, buffers), le code, la pile d'appels et les librairies charg\u00e9es. Plus fiable que le heap seul pour mesurer l'empreinte m\u00e9moire r\u00e9elle."
+        },
+        {
+            "id": 3,
+            "title": "Heap Memory",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 8,
+                "y": 5
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (nodejs_heap_size_used_bytes{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "Used"
+                },
+                {
+                    "expr": "max by(container) (nodejs_heap_size_total_bytes{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "Total"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "bytes",
+                    "decimals": 1,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Used = objets JavaScript allou\u00e9s sur le heap V8 (vivants + en attente de GC). Total = espace r\u00e9serv\u00e9 par V8 (Used + m\u00e9moire inutilis\u00e9e mais pr\u00e9-allou\u00e9e). Le Total augmente par paliers quand V8 agrandit le heap. Surveiller Used pour d\u00e9tecter des fuites m\u00e9moire JS."
+        },
+        {
+            "id": 4,
+            "title": "External Memory",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 16,
+                "y": 5
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (nodejs_external_memory_bytes{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "External"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "bytes",
+                    "decimals": 1,
+                    "thresholds": {
+                        "mode": "absolute",
+                        "steps": [
+                            {
+                                "color": "green",
+                                "value": null
+                            },
+                            {
+                                "color": "orange",
+                                "value": 20971520
+                            },
+                            {
+                                "color": "red",
+                                "value": 52428800
+                            }
+                        ]
+                    },
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "M\u00e9moire allou\u00e9e en dehors du heap V8 \u2014 buffers Node.js (Buffer.alloc, Buffer.from), bindings natifs C++, libuv, etc. Si cette valeur augmente sans limite, cela peut indiquer une fuite de buffers non lib\u00e9r\u00e9s (ex: streams non consomm\u00e9s, requ\u00eates HTTP non termin\u00e9es)."
+        },
+        {
+            "id": 14,
+            "title": "CPU",
+            "type": "row",
+            "gridPos": {
+                "h": 1,
+                "w": 24,
+                "x": 0,
+                "y": 11
+            },
+            "description": "Utilisation CPU du conteneur Node.js"
+        },
+        {
+            "id": 15,
+            "title": "CPU Usage",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 0,
+                "y": 12
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (rate(process_cpu_seconds_total{namespace=\"PLACEHOLDER_NAMESPACE\",app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[$__rate_interval]))",
+                    "legendFormat": "CPU cores"
+                },
+                {
+                    "expr": "max by(container) (container_spec_cpu_quota{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"}) / ignoring(cpu) max by(container) (container_spec_cpu_period{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"}) * 1000",
+                    "legendFormat": "CPU Limit"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "millicores",
+                    "decimals": 1,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                },
+                "overrides": [
+                    {
+                        "matcher": {
+                            "id": "byName",
+                            "options": "CPU Limit"
+                        },
+                        "properties": [
+                            {
+                                "id": "custom.fillOpacity",
+                                "value": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Consommation CPU du conteneur en millicores (1 core = 1000 millicores). Correspond aux unit\u00e9s Kubernetes : 100m = 0.1 core, 500m = 0.5 core, 1000m = 1 core. Une app web au repos typiquement < 10 millicores. Une valeur proche de la limite d\u00e9finie dans resources.limits.cpu indique une saturation CPU."
+        },
+        {
+            "id": 16,
+            "title": "CPU Usage vs Limit",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 8,
+                "y": 12
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (rate(container_cpu_usage_seconds_total{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"}[5m])) / ignoring(cpu) (max by(container) (container_spec_cpu_quota{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"}) / ignoring(cpu) max by(container) (container_spec_cpu_period{namespace=\"PLACEHOLDER_NAMESPACE\",container=\"sklein-bibliography-corpus-rag-manager\"})) * 100",
+                    "legendFormat": "CPU % of limit"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "percent",
+                    "decimals": 1,
+                    "thresholds": {
+                        "mode": "absolute",
+                        "steps": [
+                            {
+                                "color": "green",
+                                "value": null
+                            },
+                            {
+                                "color": "orange",
+                                "value": 80
+                            },
+                            {
+                                "color": "red",
+                                "value": 95
+                            }
+                        ]
+                    },
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Pourcentage du quota CPU utilis\u00e9 par le conteneur (bas\u00e9 sur les limites k8s)"
+        },
+        {
+            "id": 5,
+            "title": "SQL Queries",
+            "type": "row",
+            "gridPos": {
+                "h": 1,
+                "w": 24,
+                "x": 0,
+                "y": 18
+            },
+            "description": "M\u00e9triques de requ\u00eates SQL PostgreSQL (via pg-promise)"
+        },
+        {
+            "id": 6,
+            "title": "SQL Duration p95 / p50",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 8,
+                "w": 12,
+                "x": 0,
+                "y": 19
+            },
+            "targets": [
+                {
+                    "expr": "histogram_quantile(0.95, sum by(le, query, container) (rate(sql_query_duration_seconds_bucket{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m])))",
+                    "legendFormat": "{{query}} p95"
+                },
+                {
+                    "expr": "histogram_quantile(0.5, sum by(le, query, container) (rate(sql_query_duration_seconds_bucket{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m])))",
+                    "legendFormat": "{{query}} p50"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "s",
+                    "decimals": 3,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "table",
+                    "placement": "right",
+                    "calcs": ["lastNotNull"]
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Latence des requ\u00eates SQL \u2014 percentile 95 et m\u00e9dian, par type de requ\u00eate"
+        },
+        {
+            "id": 7,
+            "title": "SQL Queries / s",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 8,
+                "w": 12,
+                "x": 12,
+                "y": 19
+            },
+            "targets": [
+                {
+                    "expr": "sum by(query, container) (rate(sql_query_duration_seconds_count{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m]))",
+                    "legendFormat": "{{query}}"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "cps",
+                    "decimals": 1,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "table",
+                    "placement": "right",
+                    "calcs": ["max"]
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "D\u00e9bit de requ\u00eates SQL par seconde, par type de requ\u00eate"
+        },
+        {
+            "id": 8,
+            "title": "SSR Render",
+            "type": "row",
+            "gridPos": {
+                "h": 1,
+                "w": 24,
+                "x": 0,
+                "y": 27
+            },
+            "description": "M\u00e9triques de rendu SSR SvelteKit"
+        },
+        {
+            "id": 9,
+            "title": "SSR Duration p95 / p50",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 8,
+                "w": 12,
+                "x": 0,
+                "y": 28
+            },
+            "targets": [
+                {
+                    "expr": "histogram_quantile(0.95, sum by(le, route, container) (rate(sveltekit_render_duration_seconds_bucket{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m])))",
+                    "legendFormat": "{{route}} p95"
+                },
+                {
+                    "expr": "histogram_quantile(0.5, sum by(le, route, container) (rate(sveltekit_render_duration_seconds_bucket{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m])))",
+                    "legendFormat": "{{route}} p50"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "s",
+                    "decimals": 3,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "table",
+                    "placement": "right",
+                    "calcs": ["lastNotNull"]
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Temps de rendu SSR \u2014 percentile 95 et m\u00e9dian, par route"
+        },
+        {
+            "id": 10,
+            "title": "SSR Renders / s",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 8,
+                "w": 12,
+                "x": 12,
+                "y": 28
+            },
+            "targets": [
+                {
+                    "expr": "sum by(route, container) (rate(sveltekit_render_duration_seconds_count{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"}[5m]))",
+                    "legendFormat": "{{route}}"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "cps",
+                    "decimals": 1,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "table",
+                    "placement": "right",
+                    "calcs": ["max"]
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "D\u00e9bit de rendus SSR par seconde, par route"
+        },
+        {
+            "id": 11,
+            "title": "Runtime",
+            "type": "row",
+            "gridPos": {
+                "h": 1,
+                "w": 24,
+                "x": 0,
+                "y": 36
+            },
+            "description": "M\u00e9triques d'ex\u00e9cution du runtime Node.js"
+        },
+        {
+            "id": 12,
+            "title": "Event Loop Lag",
+            "type": "timeseries",
+            "gridPos": {
+                "h": 6,
+                "w": 24,
+                "x": 0,
+                "y": 37
+            },
+            "targets": [
+                {
+                    "expr": "max by(container) (nodejs_eventloop_lag_seconds{namespace=\"PLACEHOLDER_NAMESPACE\", app_kubernetes_io_name=\"sklein-bibliography-corpus-rag-manager\"})",
+                    "legendFormat": "lag"
+                }
+            ],
+            "fieldConfig": {
+                "defaults": {
+                    "unit": "s",
+                    "decimals": 3,
+                    "custom": {
+                        "drawStyle": "line",
+                        "fillOpacity": 10,
+                        "lineWidth": 1,
+                        "showPoints": "never"
+                    },
+                    "min": 0
+                }
+            },
+            "options": {
+                "legend": {
+                    "displayMode": "list",
+                    "placement": "bottom"
+                },
+                "tooltip": {
+                    "mode": "multi"
+                }
+            },
+            "description": "Latence de la boucle d'\u00e9v\u00e9nements Node.js \u2014 doit rester sous 10ms"
+        }
+    ]
+}

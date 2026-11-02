@@ -1,0 +1,136 @@
+import { fail, redirect } from "@sveltejs/kit";
+import { createSession, createMagicLoginToken, setSessionCookie, verifyPassword } from "#lib/server/auth.js";
+import { isMailAvailable, sendMail } from "#lib/server/mailer.js";
+import { logger } from "#lib/server/logger.js";
+import { sql } from "#lib/server/pg.js";
+import { renderEmail } from "#lib/server/email/index.js";
+import { isAutheliaConfigured } from "#lib/server/oidc.js";
+import { clearLoginAttempts, isLoginThrottled, registerLoginAttempt } from "#lib/server/rate-limit.js";
+
+const THROTTLE_MESSAGE = "Too many sign-in attempts. Please try again later.";
+
+// Pre-computed argon2id hash of a random throwaway password. Used to equalize
+// the sign-in response time for unknown or deactivated accounts, so an attacker
+// cannot tell them apart from a wrong-password attempt via timing.
+const DUMMY_PASSWORD_HASH =
+    "$argon2id$v=19$m=19456,t=2,p=1$sENEdrILccNy8aqBBjVPJw$kS58d2BzFhnRKMWzNCOEYGNWgHzj5eiUU6glyw58hdg";
+
+export function load() {
+    return {
+        autheliaEnabled: isAutheliaConfigured,
+    };
+}
+
+export const actions = {
+    signIn: async ({ request, cookies, getClientAddress }) => {
+        const data = await request.formData();
+        const email = data.get("email");
+        const password = data.get("password");
+
+        if (!email || !password) {
+            return fail(400, { error: "Email and password are required." });
+        }
+
+        const ip = getClientAddress();
+
+        if (await isLoginThrottled({ ip, email, action: "password" })) {
+            return fail(429, { error: THROTTLE_MESSAGE });
+        }
+
+        const [user] =
+            await sql`SELECT id, email, display_name, password_hash, locale, is_active FROM users WHERE email = ${email}`;
+
+        // A single generic message for every failure path so attackers cannot
+        // enumerate valid accounts by distinguishing the responses.
+        const GENERIC_ERROR = "Invalid email or password or account deactivated.";
+
+        if (!user || !user.password_hash) {
+            // Equalize response time: run a real argon2 verification against a
+            // dummy hash so unknown accounts are indistinguishable from a
+            // wrong-password attempt on an existing account.
+            await verifyPassword(DUMMY_PASSWORD_HASH, password);
+            await registerLoginAttempt({ ip, email, action: "password", success: false });
+            return fail(400, { error: GENERIC_ERROR });
+        }
+
+        if (!user.is_active) {
+            await verifyPassword(DUMMY_PASSWORD_HASH, password);
+            await registerLoginAttempt({ ip, email, action: "password", success: false });
+            return fail(400, { error: GENERIC_ERROR });
+        }
+
+        const valid = await verifyPassword(user.password_hash, password);
+
+        if (!valid) {
+            await registerLoginAttempt({ ip, email, action: "password", success: false });
+            return fail(400, { error: GENERIC_ERROR });
+        }
+
+        await clearLoginAttempts({ ip, email });
+
+        const session = await createSession(user.id);
+
+        setSessionCookie(cookies, session.id);
+
+        if (user.locale) {
+            cookies.set("locale", user.locale, { path: "/", maxAge: 34560000, sameSite: "lax", httpOnly: false });
+        }
+
+        throw redirect(302, "/dashboard");
+    },
+
+    magicLink: async ({ request, getClientAddress }) => {
+        const data = await request.formData();
+        const email = data.get("email");
+
+        if (!email) {
+            return fail(400, { magicLinkError: "Email is required." });
+        }
+
+        const ip = getClientAddress();
+
+        if (await isLoginThrottled({ ip, email, action: "magic_link" })) {
+            return fail(429, { magicLinkError: THROTTLE_MESSAGE });
+        }
+
+        if (!isMailAvailable()) {
+            return { magicLinkUnavailable: true };
+        }
+
+        const raw = await createMagicLoginToken(email);
+
+        if (!raw) {
+            await registerLoginAttempt({ ip, email, action: "magic_link", success: false });
+            throw redirect(302, "/magic-link/sent?email=" + encodeURIComponent(email));
+        }
+
+        const origin = request.headers.get("origin") || "";
+        const magicLink = `${origin}/magic-login/callback?token=${raw}`;
+
+        try {
+            const [userLocale] = await sql`SELECT locale FROM users WHERE email = ${email}`;
+            const { subject, text } = renderEmail("magic-link", {
+                link: magicLink,
+                locale: userLocale?.locale || "en",
+            });
+
+            // Send the email in the background so existing and unknown accounts
+            // get the same response time, and never surface SMTP failures.
+            void (async () => {
+                try {
+                    await sendMail({ to: email, subject, text });
+                    logger.info({ email }, "Magic login email sent");
+                    await registerLoginAttempt({ ip, email, action: "magic_link", success: true });
+                } catch (err) {
+                    logger.error({ err, email }, "Failed to send magic login email");
+                    await registerLoginAttempt({ ip, email, action: "magic_link", success: false });
+                }
+            })();
+        } catch (err) {
+            logger.error({ err, email }, "Failed to prepare magic login email");
+            await registerLoginAttempt({ ip, email, action: "magic_link", success: false });
+        }
+
+        throw redirect(302, "/magic-link/sent?email=" + encodeURIComponent(email));
+    },
+};

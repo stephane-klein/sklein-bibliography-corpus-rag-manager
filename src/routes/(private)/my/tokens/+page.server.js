@@ -1,0 +1,48 @@
+import { fail } from "@sveltejs/kit";
+import { createApiToken, deleteApiToken, listUserApiTokens } from "#lib/server/auth.js";
+
+export async function load(event) {
+    const tokens = await listUserApiTokens(event.locals.user.id);
+
+    return { tokens };
+}
+
+export const actions = {
+    create: async ({ request, locals }) => {
+        const user = locals.user;
+        if (!user) return fail(401);
+
+        const data = await request.formData();
+        const name = data.get("name");
+        const expiresInDaysRaw = data.get("expiresInDays");
+
+        if (!name) {
+            return fail(400, { errorKey: "name_required" });
+        }
+
+        if (expiresInDaysRaw && (!Number.isInteger(Number(expiresInDaysRaw)) || Number(expiresInDaysRaw) <= 0)) {
+            return fail(400, { errorKey: "expiration_invalid" });
+        }
+
+        const expiresInDays = expiresInDaysRaw ? Number(expiresInDaysRaw) : null;
+        const token = await createApiToken(user.id, name, expiresInDays);
+
+        return { created: true, raw: token.raw, name: token.name };
+    },
+
+    delete: async ({ request, locals }) => {
+        const user = locals.user;
+        if (!user) return fail(401);
+
+        const data = await request.formData();
+        const tokenId = data.get("id");
+
+        if (!tokenId) {
+            return fail(400, { error: "Token ID is required." });
+        }
+
+        await deleteApiToken(tokenId);
+
+        return { deleted: true };
+    },
+};

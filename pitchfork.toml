@@ -1,0 +1,72 @@
+#:schema https://pitchfork.jdx.dev/schema.json
+namespace = "sklein-bibliography-corpus-rag-manager"
+
+[settings.general]
+mise = true
+
+[daemons.postgres]
+# SIGINT: podman-compose only traps that signal (and postgres fast-shutdowns on it).
+run = "podman compose up postgres"
+stop_signal = { signal = "SIGINT", timeout = "30s" }
+ready_cmd = { run = "mise x -- podman compose exec -T postgres pg_isready -U postgres", timeout = "60s" }
+auto = ["stop"]
+
+[daemons.migrate]
+run = "pnpm run migrate"
+oneshot = true
+depends = ["postgres"]
+
+[daemons.seed]
+run = "pnpm run seed"
+oneshot = true
+depends = ["migrate"]
+
+[daemons.mailpit]
+# Dev SMTP server + web UI from the mise-managed `mailpit` binary.
+# $PORT0 = SMTP, $PORT1 = web UI; both bump together when occupied.
+# The proxy routes to the web UI (`proxy_port`), SMTP is reached directly.
+# Pitchfork rewrites the Host header to `localhost:$PORT` and passes the real
+# one via X-Forwarded-Host, so Mailpit's same-origin CORS check fails. Allow
+# every origin (loopback-only listener) with --api-cors '*'.
+run = "mailpit --smtp 127.0.0.1:$PORT0 --listen 127.0.0.1:$PORT1 --api-cors '*'"
+port = { expect = [1025, 8025], bump = true }
+proxy_port = 8025
+ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT1/readyz", timeout = "30s" }
+auto = ["stop"]
+
+[daemons.webapp]
+run = "bash scripts/export-git-env.sh vite dev --port=$PORT"
+stop_signal = { signal = "SIGTERM", timeout = "10s" }
+depends = ["postgres", "seed", "mailpit"]
+env = { SMTP_PORT = "{{ daemons.mailpit.ports[0] }}" }
+auto = ["stop"]
+port = { expect = [5173], bump = true }
+ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/ready", timeout = "5s" }
+health_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/healthy", interval = "200s", timeout = "5s", retries = 3 }
+retry = 3
+
+[daemons.build]
+run = "CSRF_TRUSTED_ORIGINS='*' pnpm run build"
+oneshot = true
+
+[daemons.preview]
+run = "pnpm run preview --port=$PORT"
+stop_signal = { signal = "SIGTERM", timeout = "10s" }
+env = {
+    SMTP_PORT = "{{ daemons.mailpit.ports[0] }}"
+}
+depends = ["postgres", "seed", "mailpit", "build"]
+port = { expect = [4173], bump = true }
+auto = ["stop"]
+ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/ready", timeout = "5s" }
+health_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/healthy", interval = "200s", timeout = "5s", retries = 3 }
+retry = 3
+
+
+[daemons.grafana]
+dir = "victoriametrics-grafana-test-dev"
+run = "podman compose up"
+stop_signal = { signal = "SIGINT", timeout = "30s" }
+ready_port = 3001
+port = 3001
+auto = ["stop"]

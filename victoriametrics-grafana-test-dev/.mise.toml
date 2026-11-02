@@ -1,0 +1,14 @@
+[env]
+COMPOSE_PROJECT_NAME = "vm-grafana-test"
+
+[tasks.up]
+run = "podman compose up -d"
+
+[tasks.logs]
+run = "podman compose logs -f"
+
+[tasks.stop]
+run = "podman compose stop"
+
+[tasks.teardown]
+run = "podman compose down -v"

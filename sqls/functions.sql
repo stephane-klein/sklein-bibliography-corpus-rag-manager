@@ -1,0 +1,28 @@
+-- Stored functions, reloaded on every `pnpm migrate`.
+--
+-- This file MUST stay idempotent: DROP before CREATE. A migration that drops or
+-- renames a table used by a function here must ship the matching update of this
+-- file, otherwise the next `pnpm migrate` fails loudly here.
+--
+-- The idempotent `DROP FUNCTION IF EXISTS` statements emit
+-- "does not exist, skipping" NOTICEs, which the pino `onnotice` hook logs at
+-- debug. Wrap them in `SET LOCAL client_min_messages = warning` to silence them
+-- for the loading transaction only, then restore `notice` so the CREATE
+-- statements keep reporting.
+--
+-- Copy the template below, uncomment it, and adapt it. Nothing is created by
+-- default.
+--
+-- SET LOCAL client_min_messages = warning;
+--
+-- DROP FUNCTION IF EXISTS contacts_count();
+--
+-- SET LOCAL client_min_messages = notice;
+--
+-- CREATE FUNCTION contacts_count() RETURNS bigint
+-- LANGUAGE sql
+-- AS $$
+--     SELECT count(*) FROM contacts;
+-- $$;
+--
+-- COMMENT ON FUNCTION contacts_count() IS 'Example function — returns the number of rows in contacts.';

@@ -1,0 +1,28 @@
+apiVersion: postgresql.cnpg.io/v1
+kind: Cluster
+metadata:
+  name: {{ .Values.cnpg.clusterName }}
+  labels:
+    {{- include "sklein-bibliography-corpus-rag-manager.labels" . | nindent 4 }}
+spec:
+  instances: {{ .Values.cnpg.instances }}
+  imageName: {{ .Values.cnpg.imageName }}
+
+  storage:
+    size: {{ .Values.cnpg.storage.size }}
+
+  bootstrap:
+    initdb:
+      database: {{ .Release.Name }}
+      owner: {{ .Release.Name }}
+      {{- with .Values.cnpg.bootstrapPassword }}
+      secret:
+        name: {{ $.Release.Name }}-bootstrap
+      {{- end }}
+
+  managed:
+    roles:
+      - name: {{ .Release.Name }}
+        ensure: present
+        login: true
+        createdb: false

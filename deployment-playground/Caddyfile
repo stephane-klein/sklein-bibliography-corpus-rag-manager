@@ -1,0 +1,17 @@
+app.127.0.0.1.sslip.io {
+    tls internal
+    reverse_proxy app:3000 {
+        header_up Host {host}
+        header_up X-Forwarded-Proto https
+    }
+}
+
+auth.127.0.0.1.sslip.io {
+    tls internal
+    reverse_proxy authelia:9091
+}
+
+mailpit.127.0.0.1.sslip.io {
+    tls internal
+    reverse_proxy mailpit:8025
+}

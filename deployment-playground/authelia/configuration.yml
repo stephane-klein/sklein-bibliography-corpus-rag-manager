@@ -1,0 +1,103 @@
+server:
+  address: tcp://:9091/
+
+log:
+  level: debug
+
+theme: auto
+
+authentication_backend:
+  file:
+    path: /config/users.yml
+    password:
+      algorithm: argon2
+      argon2:
+        variant: argon2id
+        iterations: 3
+        memory: 65536
+        parallelism: 4
+        key_length: 32
+        salt_length: 16
+
+access_control:
+  default_policy: deny
+  rules:
+    - domain: auth.127.0.0.1.sslip.io
+      policy: one_factor
+
+identity_validation:
+  reset_password:
+    jwt_secret: reset-password-jwt-secret
+
+session:
+  name: authelia_session
+  secret: session-secret-password
+  cookies:
+    - domain: auth.127.0.0.1.sslip.io
+      authelia_url: https://auth.127.0.0.1.sslip.io
+  redis:
+    host: redis
+    port: 6379
+
+storage:
+  encryption_key: storage-encryption-password
+  local:
+    path: /data/db.sqlite3
+
+notifier:
+  disable_startup_check: true
+  filesystem:
+    filename: /data/notifications.yml
+
+identity_providers:
+  oidc:
+    hmac_secret: hmac-secret-password
+    jwks:
+      - algorithm: RS256
+        use: sig
+        key_id: authelia-key
+        key: |
+          -----BEGIN PRIVATE KEY-----
+          MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvgNUpR9SyEZKd
+          BKOU+eglMlgyXVv2MuN21tCQLCpOeKbJaVD8Km9oWurFe7Lsq3CaXplTq8f/vOLo
+          4Q/k2oKGgLaktEtDDReiKBUX5vuyWZrpmnJhRT8CsCrcYCuc33c/07ul/pXm6pbe
+          +YTKQLRrjixnd7RMjePFB12w3M7pOdzY5Opc1WPaOBY7PhmtotoTPaddlO0r3tjZ
+          XXKr18ulI8fpIV+99tjDi6euyy0xhtNKw5twHCxu8ubzM+CX10gOCSiDd5sEml6w
+          t1B6Mtr01WEZAyv3Uma6Zx7TfJ+/3oEgC9DqzSnME0amd2MOTwumspEGGpYUaIw8
+          bw8FndfBAgMBAAECggEAVcJeJzBfCm6U1p50MvGVU0vRFjdRnzJJvYIF41V5jOPf
+          GG+ar8Yqr3Mx4rNqAMVbnktYoC7CacDKnqKPqjRucLxHw58IYejtYgM1H3tzBblM
+          fhdHCioUusMMBqkF1r/J3UohGWGYrYB3ndiO32gT4bTVFPBFDd2N7fMGAM09XHBl
+          EhqpVPn4tNsQ6sHHuYcPFPkqAghpf6M6gr7C4u2AL2XUDJlBXlLhjjDRcAc7v0ZW
+          XCW0jX3dxocVDB/s40ySwC1fPGRyB/U1xZc+G07J3Z4vlpggktxIADY87G6nmV31
+          BP9WwtQzMsoy5qDNY5AA8dWbnewtsmWw+0qx1KYwIwKBgQD1Qkb+HNASd/7b1Sd3
+          iWSyxTBjDp7f5eB9Z8gPuVnpvZBfZfeQdHodJZ/xFpPNqq+cV4SpGna1m5NbkYpY
+          nMdawvOo7R3p2YL4Yjurd7Y6R9L1vi+vOaG/tJ3AsRhM1qNRPG/9mZTQFsMpIuKf
+          wDA31CUFPrMjp+++l6lTjC41fwKBgQC3MH09iery2XVEmbMGmSOWyIUkqLqjGCST
+          IyMuT12TA4jH406paVMqaVaI0aGHmJIH0YHXgGPogOS85d6Fwre42PJGKDu0IX4p
+          wi6qeiTgn6StbxfHE39c/9RJSPIcbr6Zb8hSQjxkH9YSOl8cokPNlaSkBix1jHjn
+          eNUmyx8SvwKBgEV6vy3h77grslGIsyOUEqjqX+jQDYYUU2JzciOyOJyVDT9ZXabY
+          uHdlX0gnQzvybMl3qadWTebo6ff45R5xW7CEpg5nDiBfdFD1Uz4iLceY7VScyllz
+          lDUA7+fUw7OQ4rdyza8kQRoqOKOAtH7ZLU/Dk7FGr+0b+DkgMeHvRm/1AoGBAKDF
+          mJTiruWVffrH3bvjuL1DnL5wquQqcycDBoRFOT2mM2wijU3XVxr4ue539IjZmQft
+          kkO8tXI/dQBnyaShILbFB9QUyVksr9ocRvJtImJVGaTww/B+px/KktgCgiH7+6ET
+          3r56zR+eZTU4L3Mk4dbTB1zA4lIEB7Q2cvOJ/upnAoGBAPQc1jBIiWQJkhqIHg8u
+          sDyuUdE312Y6lYe/OrNsaGDG7qtaUQjoSdEQpMKACDQdahBkfDrA9MCbMBCl7MYg
+          QSxykLIxtJRtaBtpJcZSOp9fy/UGAbP9lhQnNYP98R5H2Gnv/ZBP713BVg8OYo6x
+          Fb3/ZUvyuAQCnTQ7QUW5X0FZ
+          -----END PRIVATE KEY-----
+    clients:
+      - client_id: sklein-bibliography-corpus-rag-manager
+        client_name: My App
+        client_secret: client-secret-playground
+        authorization_policy: one_factor
+        redirect_uris:
+          - https://app.127.0.0.1.sslip.io/login/oidc/callback
+        scopes:
+          - openid
+          - profile
+          - email
+        grant_types:
+          - authorization_code
+        response_types:
+          - code
+        token_endpoint_auth_method: client_secret_basic

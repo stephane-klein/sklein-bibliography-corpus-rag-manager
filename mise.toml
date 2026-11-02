@@ -1,0 +1,193 @@
+[settings]
+experimental = true
+
+[deps.pnpm]
+auto = true
+
+[env]
+_.path = './node_modules/.bin'
+_.source = [
+  { path = '.envrc', cacheable = false },
+  { path = 'scripts/load_postgres_variables.sh', tools = true, cacheable = false },
+  { path = 'scripts/load_authelia_variables.sh', tools = true, cacheable = false }
+]
+
+[shell_alias]
+reload = "source scripts/load_postgres_variables.sh && source scripts/load_authelia_variables.sh"
+
+[tools]
+node = "26.13.0"
+pnpm = "12.16.1"
+"conda:postgresql" = "18.6" # to install PostgreSQL clients: psql, pg_dump, etc
+"aqua:gitleaks/gitleaks" = "8.30.1"
+helm = "4.3.1"
+pitchfork = "2.33.0"
+mailpit = "1.33.0"
+
+[tasks.build]
+run = "pnpm run build"
+
+[tasks.preview]
+run = "pnpm run preview"
+
+[tasks.preview-prod-build]
+description = "Build and run the production server with the OIDC callback origin set to http://localhost:3000"
+run = """
+pnpm run build
+SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ORIGIN=http://localhost:3000 node build/index.js
+"""
+
+[tasks.lint]
+run ="pnpm run lint"
+
+[tasks.format]
+run ="pnpm run format"
+
+[tasks.check]
+run ="pnpm run check"
+
+[tasks.lint-pkg]
+run = "pnpm run lint:pkg"
+
+[tasks.lint-helm]
+run = "helm lint helm/sklein-bibliography-corpus-rag-manager"
+
+[tasks.migrate]
+run = "node src/migrate.js"
+
+[tasks.seed]
+run = "node src/seed.js"
+
+[tasks.dump-schema]
+run = "./scripts/dump-schema.sh"
+
+[tasks.teardown]
+description = "Stop the supervised daemons, then remove containers and volumes (destructive)"
+run = """
+pitchfork stop --local
+podman compose down -v --remove-orphans
+"""
+
+[tasks.clean]
+run = "psql \"${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL}\" < sqls/clean.sql"
+
+[tasks.enter-in-pg]
+run = "psql \"${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL}\""
+
+[tasks.build-image]
+quiet = true
+run = """
+cd "{{ config_root }}"
+GIT_BRANCH=$(
+  jj log -r '::@ & bookmarks()' --no-graph -T 'bookmarks' 2>/dev/null ||
+  git rev-parse --abbrev-ref HEAD 2>/dev/null ||
+  echo "unknown"
+)
+GIT_BRANCH=${GIT_BRANCH:-unknown}
+[ "$GIT_BRANCH" = "HEAD" ] && GIT_BRANCH="unknown"
+podman build \\
+  --build-arg GIT_HASH=$(git rev-parse HEAD) \\
+  --build-arg GIT_BRANCH="$GIT_BRANCH" \\
+  --build-arg GIT_DATE="$(git show -s --format=%ci)" \\
+  --build-arg BUILD_STAMP="$(env TZ=Europe/Paris date '+%Y-%m-%d_%H:%M:%S-%Z')" \\
+  -t ghcr.io/stephane-klein/sklein-bibliography-corpus-rag-manager:latest .
+"""
+
+[tasks.login-ghcr]
+run = """
+if ! gh auth token &>/dev/null; then
+    echo "Error: gh not authenticated. Please run:"
+    echo "  gh auth login -s repo,write:packages,read:org"
+    exit 1
+fi
+podman logout ghcr.io 2>/dev/null || true
+podman login ghcr.io -u stephane-klein --password-stdin <<< "$(gh auth token)"
+"""
+description = "Login to GitHub Container Registry using gh CLI"
+
+[tasks.push-image]
+run = "podman push ghcr.io/stephane-klein/sklein-bibliography-corpus-rag-manager:latest"
+description = "Push the container image to GitHub Container Registry"
+
+[tasks.ci-build-push-image]
+description = "Trigger the build & push image GitHub Action workflow via gh CLI (manual CI)"
+run = """
+gh workflow run build-push-image.yml --ref "main"
+"""
+
+[tasks.build-dev-image]
+quiet = true
+run = """
+cd "{{config_root }}"
+GIT_BRANCH=$(
+  jj log -r '::@ & bookmarks()' --no-graph -T 'bookmarks' 2>/dev/null ||
+  git rev-parse --abbrev-ref HEAD 2>/dev/null ||
+  echo "unknown"
+)
+GIT_BRANCH=${GIT_BRANCH:-unknown}
+[ "$GIT_BRANCH" = "HEAD" ] && GIT_BRANCH="unknown"
+podman build \\
+  --build-arg GIT_HASH=$(git rev-parse HEAD) \\
+  --build-arg GIT_BRANCH="$GIT_BRANCH" \\
+  --build-arg GIT_DATE="$(git show -s --format=%ci)" \\
+  --build-arg BUILD_STAMP="$(env TZ=Europe/Paris date '+%Y-%m-%d_%H:%M:%S-%Z')" \\
+  -t ghcr.io/stephane-klein/sklein-bibliography-corpus-rag-manager:dev .
+"""
+
+[tasks.setup-git-hooks]
+run = "scripts/setup-git-hooks.sh"
+
+[tasks.gitleaks-check-push]
+run = "scripts/gitleaks-check-push.sh"
+
+[tasks.gitleaks-scan]
+run = "gitleaks dir --no-banner -v {{config_root}}"
+
+[tasks.login-ghcr-helm]
+description = "Authenticate Helm with GitHub Container Registry using gh CLI"
+run = """
+helm registry login ghcr.io -u stephane-klein --password-stdin <<< "$(gh auth token)"
+"""
+
+[tasks.deploy-helm-test]
+run = "scripts/deploy-helm-test.sh"
+
+[tasks.destroy-helm-test]
+run = "scripts/destroy-helm-test.sh"
+
+[tasks.publish-chart]
+description = "Package and push Helm chart to OCI registry (ghcr.io)"
+run = "scripts/publish-chart.sh"
+
+[tasks.send-test-mail]
+description = "Send a test email via POST /api/v1/admin/send-test-mail (uses TEST_EMAIL_TO)"
+run = """
+curl -s -X POST http://localhost:5173/api/v1/admin/send-test-mail \
+  -H "Authorization: Bearer ${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN}" \
+  -H "Content-Type: application/json" \
+  -d '{}' | jq
+"""
+
+[tasks.sync-users]
+description = "Sync users via PUT /api/v1/admin/users/sync using api-payloads-examples/users-sync.json"
+run = """
+curl -fsS -X PUT http://localhost:5173/api/v1/admin/users/sync \
+  -H "Authorization: Bearer ${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN}" \
+  -H "Content-Type: application/json" \
+  --data @api-payloads-examples/users-sync.json | jq
+"""
+
+[tasks.make-packages-public]
+description = "Print instructions to make GHCR packages publicly readable (no API available)"
+run = """
+echo "==> GitHub REST API does not support changing package visibility."
+echo "==> Manual steps required:"
+echo ""
+echo "1. Open in your browser:"
+echo "   https://github.com/users/stephane-klein/packages/container/sklein-bibliography-corpus-rag-manager/settings"
+echo "   -> Danger Zone > Change visibility > Public"
+echo ""
+echo "2. Open in your browser:"
+echo "   https://github.com/users/stephane-klein/packages/container/charts%2Fsklein-bibliography-corpus-rag-manager/settings"
+echo "   -> Danger Zone > Change visibility > Public"
+"""

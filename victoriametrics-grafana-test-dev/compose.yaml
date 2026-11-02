@@ -1,0 +1,42 @@
+services:
+  victoriametrics:
+    image: victoriametrics/victoria-metrics:v1.113.0
+    container_name: vm-test
+    ports:
+      - 8428:8428
+    volumes:
+      - ./victoriametrics/scrape-config.yml:/etc/victoriametrics/scrape-config.yml:ro
+      - vmdata:/storage
+    command:
+      - -storageDataPath=/storage
+      - -promscrape.config=/etc/victoriametrics/scrape-config.yml
+      - -retentionPeriod=30d
+    networks:
+      - monitoring-net
+
+  grafana:
+    image: grafana/grafana:11.6.0
+    container_name: grafana-test
+    ports:
+      - 3001:3000
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: admin123
+      GF_LIVE_ALLOWED_ORIGINS: "*"
+      GF_SECURITY_CSRF_ADDITIONAL_HEADERS: "X-Forwarded-Host"
+    volumes:
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - grafanadata:/var/lib/grafana
+    depends_on:
+      - victoriametrics
+    networks:
+      - monitoring-net
+
+volumes:
+  vmdata:
+  grafanadata:
+
+networks:
+  monitoring-net:
+    driver: bridge

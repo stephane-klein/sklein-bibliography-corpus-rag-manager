@@ -1,0 +1,131 @@
+# Default values for sklein-bibliography-corpus-rag-manager.
+# This is a YAML-formatted file.
+
+seed:
+  enabled: false
+
+app:
+  image:
+    repository: ghcr.io/stephane-klein/sklein-bibliography-corpus-rag-manager
+    tag: latest
+    pullPolicy: Always
+
+  replicaCount: 1
+
+# PostgreSQL connection — built from the CNPG app secret.
+postgresql:
+  schema: public
+
+# CloudNativePG cluster configuration — deployed in the same namespace as the app.
+cnpg:
+  clusterName: sklein-bibliography-corpus-rag-manager
+  namespace: ""
+  instances: 1
+  imageName: ghcr.io/cloudnative-pg/postgresql:18.6
+  storage:
+    size: 1Gi
+  # PostgreSQL `postgres` user password (auto-generated if empty)
+  # Used for bootstrap and superuser access.
+  bootstrapPassword: ""
+
+# HTTP server (SvelteKit adapter-node)
+port: 3000
+
+# Ingress — expose the HTTP service externally
+ingress:
+  enabled: false
+  host: ""
+  path: /
+  className: ""
+  annotations: {}
+  tls: []
+
+# SMTP configuration for outgoing emails (password reset, notifications, etc.)
+smtp:
+  host: ""
+  port: 587
+  secure: false
+  user: ""
+  # SMTP password — only used when secrets.existingSecret is NOT set.
+  # When secrets.existingSecret is set, the SMTP_PASS key of that Secret
+  # is injected into the container via envFrom.
+  pass: ""
+  from: noreply@example.com
+  # Default recipient for the send-test-mail admin endpoint
+  testTo: ""
+
+# Public origin URL (e.g. https://sklein-bibliography-corpus-rag-manager.example.com).
+# Auto-derived from ingress.host when ingress is enabled.
+# Explicitly set this value to override.
+origin: ""
+
+# Header used by adapter-node to resolve the real client IP (SvelteKit
+# getClientAddress()). Required behind a reverse proxy so login rate limiting
+# keys on the client IP instead of the proxy IP.
+# Defaults to "x-forwarded-for" when ingress is enabled. Set explicitly to
+# override, or to "" when the app is exposed without a proxy.
+addressHeader: ""
+
+# Admin API token — Bearer authentication for /api/v1/admin/* endpoints.
+# Must be at least 32 characters long.
+# Only used when secrets.existingSecret is NOT set; otherwise the
+# SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN key of that Secret is injected via envFrom.
+adminToken: ""
+
+# OpenID Connect / Authelia configuration
+oidc:
+  enabled: false
+  issuer: ""
+  clientId: ""
+  # AUTHELIA_CLIENT_SECRET — only used when secrets.existingSecret is NOT set.
+  # Otherwise the AUTHELIA_CLIENT_SECRET key of that Secret is injected via envFrom.
+  clientSecret: ""
+
+# Secrets injected into the container via envFrom.
+# When set, the three following values are taken from an existing Secret
+# instead of being passed as literal env vars:
+#   - oidc.clientSecret -> AUTHELIA_CLIENT_SECRET
+#   - adminToken        -> SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN
+#   - smtp.pass         -> SMTP_PASS
+# The referenced Secret must expose those three keys.
+secrets:
+  existingSecret: ""
+
+# Pod DNS policy — use ClusterFirstWithHostNet to resolve sklein.internal from pods
+dnsPolicy: ClusterFirst
+
+# Allow unauthorized TLS connections (e.g. self-signed CA for internal services)
+nodeTLSRejectUnauthorized: false
+
+# Enable V8 memory-size optimization (--optimize-for-size --max-semi-space-size=2).
+# These V8 flags cannot be passed via NODE_OPTIONS so a dedicated env var is used.
+optimizeForMemorySize: false
+
+# Node.js CLI options (e.g. "--max-old-space-size=128") passed via NODE_OPTIONS.
+# Only flags allowed by process.allowedNodeEnvironmentFlags are accepted.
+nodeOptions: ""
+
+# Resource limits
+resources:
+  requests:
+    cpu: 50m
+    memory: 64Mi
+  limits:
+    cpu: 200m
+    memory: 128Mi
+
+# Prometheus metrics — exposed at /metrics via prom-client.
+# The pod template is annotated with prometheus.io/* so that
+# Prometheus / VictoriaMetrics with kubernetes_sd_configs
+# auto-discovers and scrapes the targets.
+metrics:
+  enabled: false
+  # Grafana dashboard — ConfigMap labeled grafana_dashboard: "1" so
+  # the Grafana sidecar auto-imports it.
+  grafanaDashboard:
+    enabled: false
+
+# Node selector, tolerations, affinity (optional)
+nodeSelector: {}
+tolerations: []
+affinity: {}

@@ -1,0 +1,32 @@
+[tasks.sysctl-unprivileged-port]
+description = "Set net.ipv4.ip_unprivileged_port_start=80 to allow rootless Podman to bind ports 80 and 443"
+run = """\
+  sudo sysctl -w net.ipv4.ip_unprivileged_port_start=80 \
+  && echo 'net.ipv4.ip_unprivileged_port_start=80' | sudo tee /etc/sysctl.d/99-unprivileged-port-start.conf > /dev/null \
+  && echo 'OK: unprivileged port start set to 80' \
+"""
+
+[tasks.enter-in-app]
+run = "podman compose exec app bash"
+
+[tasks.enter-in-pg]
+run = "podman compose exec postgres psql -U postgres postgres"
+
+[tasks.show-url]
+description = "Display the external HTTPS URLs"
+quiet = true
+run = """\
+  echo "Open your browser on https://app.127.0.0.1.sslip.io" \
+  && echo "Authelia: https://auth.127.0.0.1.sslip.io" \
+"""
+
+[tasks.up]
+run = """
+mise run build-dev-image
+podman compose run --rm app seed
+podman compose up -d app caddy
+mise show-url
+"""
+
+[tasks.teardown]
+run = "podman compose down -v"

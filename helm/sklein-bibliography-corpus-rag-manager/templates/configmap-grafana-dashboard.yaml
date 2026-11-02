@@ -1,0 +1,18 @@
+{{- if and .Values.metrics.enabled .Values.metrics.grafanaDashboard.enabled }}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-grafana-dashboard
+  labels:
+    {{- include "sklein-bibliography-corpus-rag-manager.labels" . | nindent 4 }}
+    grafana_dashboard: "1"
+data:
+  sveltekit-metrics.json: |-
+{{- $origin := .Values.origin | default "" }}
+{{- if not $origin }}
+  {{- if and .Values.ingress.enabled .Values.ingress.host }}
+    {{- $origin = printf "https://%s" .Values.ingress.host }}
+  {{- end }}
+{{- end }}
+{{ .Files.Get "dashboards/sveltekit-metrics.json" | replace "PLACEHOLDER_NAMESPACE" .Release.Namespace | replace "PLACEHOLDER_URL" $origin | indent 4 }}
+{{- end }}

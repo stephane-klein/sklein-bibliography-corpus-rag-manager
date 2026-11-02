@@ -1,0 +1,9 @@
+apiVersion: v2
+name: sklein-bibliography-corpus-rag-manager
+description: A Helm chart for sklein-bibliography-corpus-rag-manager
+type: application
+version: 0.1.2
+appVersion: latest
+home: https://github.com/users/stephane-klein/packages/container/package/charts%2Fsklein-bibliography-corpus-rag-manager
+sources:
+  - https://github.com/stephane-klein/sklein-bibliography-corpus-rag-manager
