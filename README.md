@@ -36,6 +36,7 @@ $ pitchfork start webapp      # start postgres and mailpit,
                               # run migrate and seed,
                               # then the dev server
 $ pitchfork logs webapp --tail
+$ mise run upload-contents    # upload contents/ to rustfs local object storage server
 ```
 
 Open http://localhost:5173 in your browser.

@@ -11,6 +11,12 @@ stop_signal = { signal = "SIGINT", timeout = "30s" }
 ready_cmd = { run = "mise x -- podman compose exec -T postgres pg_isready -U postgres", timeout = "60s" }
 auto = ["stop"]
 
+[daemons.rustfs]
+run = "podman compose up rustfs"
+stop_signal = { signal = "SIGINT", timeout = "30s" }
+ready_cmd = { run = "curl -fsS http://127.0.0.1:9000/health", timeout = "60s" }
+auto = ["stop"]
+
 [daemons.migrate]
 run = "pnpm run migrate"
 oneshot = true
@@ -37,7 +43,7 @@ auto = ["stop"]
 [daemons.webapp]
 run = "bash scripts/export-git-env.sh vite dev --port=$PORT"
 stop_signal = { signal = "SIGTERM", timeout = "10s" }
-depends = ["postgres", "seed", "mailpit"]
+depends = ["postgres", "seed", "mailpit", "rustfs"]
 env = { SMTP_PORT = "{{ daemons.mailpit.ports[0] }}" }
 auto = ["stop"]
 port = { expect = [5173], bump = true }
@@ -55,7 +61,7 @@ stop_signal = { signal = "SIGTERM", timeout = "10s" }
 env = {
     SMTP_PORT = "{{ daemons.mailpit.ports[0] }}"
 }
-depends = ["postgres", "seed", "mailpit", "build"]
+depends = ["postgres", "seed", "mailpit", "build", "rustfs"]
 port = { expect = [4173], bump = true }
 auto = ["stop"]
 ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/ready", timeout = "5s" }
