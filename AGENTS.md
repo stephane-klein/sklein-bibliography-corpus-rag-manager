@@ -61,7 +61,7 @@ These files are marked with comments (`-- Example`) at the top. Replace or remov
 
 ## SvelteKit
 
-This project uses **SvelteKit 2** with `@sveltejs/adapter-node` for SSR.
+This project uses **SvelteKit 3** with `@sveltejs/adapter-node` for SSR.
 
 ### Standalone endpoints and authentication
 
