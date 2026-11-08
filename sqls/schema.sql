@@ -1,6 +1,15 @@
 -- Example schema — replace with your actual consolidated schema
+-- The executable path is migrations + functions.sql; this file is a reference.
+CREATE EXTENSION IF NOT EXISTS pgcrypto;
+
+-- generate_nanoid() is defined in sqls/functions.sql.
+
+CREATE DOMAIN nanoid AS TEXT
+    CONSTRAINT nanoid_format CHECK (VALUE ~ '^[0-9a-z]{10}$');
+
 CREATE TABLE contacts (
     id         BIGINT                   GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    nanoid     nanoid                   NOT NULL UNIQUE DEFAULT generate_nanoid(10),
     firstname  TEXT                     NOT NULL,
     lastname   TEXT                     NOT NULL,
     created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()

@@ -7,7 +7,7 @@ export async function load(event) {
     const offset = (page - 1) * PAGE_SIZE;
 
     const [contacts, countResult] = await Promise.all([
-        sql`SELECT id, firstname, lastname, created_at
+        sql`SELECT nanoid, firstname, lastname, created_at
               FROM contacts
              ORDER BY id
              LIMIT ${PAGE_SIZE} OFFSET ${offset}`,

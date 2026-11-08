@@ -2,9 +2,9 @@ import { redirect, fail } from "@sveltejs/kit";
 import { sql } from "#lib/server/pg.js";
 
 export async function load(event) {
-    const id = event.params.id;
+    const nanoid = event.params.nanoid;
 
-    const [contact] = await sql`SELECT id, firstname, lastname FROM contacts WHERE id = ${id}`;
+    const [contact] = await sql`SELECT firstname, lastname FROM contacts WHERE nanoid = ${nanoid}`;
 
     if (!contact) {
         throw redirect(302, "/contacts");
@@ -15,7 +15,7 @@ export async function load(event) {
 
 export const actions = {
     default: async ({ request, params }) => {
-        const id = params.id;
+        const nanoid = params.nanoid;
 
         const data = await request.formData();
         const firstname = data.get("firstname");
@@ -25,7 +25,7 @@ export const actions = {
             return fail(400, { error: "First name and last name are required." });
         }
 
-        await sql`UPDATE contacts SET firstname = ${firstname}, lastname = ${lastname} WHERE id = ${id}`;
+        await sql`UPDATE contacts SET firstname = ${firstname}, lastname = ${lastname} WHERE nanoid = ${nanoid}`;
 
         throw redirect(302, "/contacts");
     },

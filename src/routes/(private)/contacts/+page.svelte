@@ -27,7 +27,7 @@
                 <tr>
                     <th
                         class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
-                        >{m.contacts_column_id()}</th
+                        >{m.contacts_column_nanoid()}</th
                     >
                     <th
                         class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
@@ -45,10 +45,10 @@
                 </tr>
             </thead>
             <tbody>
-                {#each data.contacts as contact (contact.id)}
+                {#each data.contacts as contact (contact.nanoid)}
                     <tr class="hover:bg-gray-50">
                         <td class="py-1.5 pr-2 border-b border-gray-200 font-mono text-xs text-gray-500"
-                            >{contact.id}</td
+                            >{contact.nanoid}</td
                         >
                         <td class="py-1.5 pr-2 border-b border-gray-200">{contact.firstname}</td>
                         <td class="py-1.5 pr-2 border-b border-gray-200">{contact.lastname}</td>
@@ -57,13 +57,13 @@
                         >
                         <td class="py-1.5 border-b border-gray-200 text-right whitespace-nowrap">
                             <a
-                                href="/contacts/{contact.id}/edit"
+                                href="/contacts/{contact.nanoid}/edit"
                                 class="text-xs text-gray-500 no-underline hover:text-blue-600 hover:underline"
                                 >{m.contacts_action_edit()}</a
                             >
                             <span class="text-gray-300 mx-1">|</span>
                             <a
-                                href="/contacts/{contact.id}/delete"
+                                href="/contacts/{contact.nanoid}/delete"
                                 class="text-xs text-red-600 no-underline hover:underline"
                                 >{m.contacts_action_delete()}</a
                             >

@@ -415,11 +415,18 @@ export function GET() {
                     },
                 },
             },
-            "/api/v1/contacts/{id}": {
+            "/api/v1/contacts/{nanoid}": {
                 get: {
                     summary: "Get a contact",
                     security: [{ bearerAuth: [] }],
-                    parameters: [{ name: "id", in: "path", required: true, schema: { type: "integer" } }],
+                    parameters: [
+                        {
+                            name: "nanoid",
+                            in: "path",
+                            required: true,
+                            schema: { type: "string", pattern: "^[0-9a-z]{10}$" },
+                        },
+                    ],
                     responses: {
                         200: {
                             description: "Contact details",
@@ -442,7 +449,14 @@ export function GET() {
                 patch: {
                     summary: "Update a contact (partial)",
                     security: [{ bearerAuth: [] }],
-                    parameters: [{ name: "id", in: "path", required: true, schema: { type: "integer" } }],
+                    parameters: [
+                        {
+                            name: "nanoid",
+                            in: "path",
+                            required: true,
+                            schema: { type: "string", pattern: "^[0-9a-z]{10}$" },
+                        },
+                    ],
                     requestBody: {
                         required: true,
                         content: {
@@ -481,7 +495,14 @@ export function GET() {
                 delete: {
                     summary: "Delete a contact",
                     security: [{ bearerAuth: [] }],
-                    parameters: [{ name: "id", in: "path", required: true, schema: { type: "integer" } }],
+                    parameters: [
+                        {
+                            name: "nanoid",
+                            in: "path",
+                            required: true,
+                            schema: { type: "string", pattern: "^[0-9a-z]{10}$" },
+                        },
+                    ],
                     responses: {
                         204: { description: "Deleted (no content)" },
                         401: { $ref: "#/components/responses/Unauthorized" },
@@ -495,7 +516,7 @@ export function GET() {
                 Contact: {
                     type: "object",
                     properties: {
-                        id: { type: "integer", example: 1 },
+                        nanoid: { type: "string", pattern: "^[0-9a-z]{10}$", example: "a1b2c3d4e5" },
                         firstname: { type: "string", example: "Alice" },
                         lastname: { type: "string", example: "Martin" },
                         created_at: { type: "string", format: "date-time", example: "2026-07-11T09:00:00Z" },

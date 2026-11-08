@@ -68,7 +68,7 @@
   "contacts_title": "Contacts",
   "contacts_new_button": "+ New",
   "contacts_empty": "No contacts yet.",
-  "contacts_column_id": "ID",
+  "contacts_column_nanoid": "Nanoid",
   "contacts_column_firstname": "First name",
   "contacts_column_lastname": "Last name",
   "contacts_column_created": "Created",

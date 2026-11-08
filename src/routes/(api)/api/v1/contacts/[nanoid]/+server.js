@@ -2,9 +2,9 @@ import { sql } from "#lib/server/pg.js";
 import { problem } from "#lib/server/problem.js";
 import { requireUser } from "#lib/server/require-user.js";
 
-function contactLinks(id) {
+function contactLinks(nanoid) {
     return {
-        self: { href: `/api/v1/contacts/${id}` },
+        self: { href: `/api/v1/contacts/${nanoid}` },
         collection: { href: "/api/v1/contacts" },
     };
 }
@@ -13,13 +13,14 @@ export async function GET(event) {
     const authError = requireUser(event);
     if (authError) return authError;
 
-    const [contact] = await sql`SELECT id, firstname, lastname, created_at FROM contacts WHERE id = ${event.params.id}`;
+    const [contact] =
+        await sql`SELECT nanoid, firstname, lastname, created_at FROM contacts WHERE nanoid = ${event.params.nanoid}`;
 
     if (!contact) return problem(404, "Contact not found", event.request.url);
 
     return Response.json({
         data: contact,
-        _links: contactLinks(contact.id),
+        _links: contactLinks(contact.nanoid),
     });
 }
 
@@ -27,7 +28,7 @@ export async function PATCH(event) {
     const authError = requireUser(event);
     if (authError) return authError;
 
-    const [existing] = await sql`SELECT id FROM contacts WHERE id = ${event.params.id}`;
+    const [existing] = await sql`SELECT nanoid FROM contacts WHERE nanoid = ${event.params.nanoid}`;
 
     if (!existing) return problem(404, "Contact not found", event.request.url);
 
@@ -45,13 +46,13 @@ export async function PATCH(event) {
         UPDATE contacts
         SET firstname = COALESCE(${body.firstname?.trim() || null}, firstname),
             lastname  = COALESCE(${body.lastname?.trim() || null}, lastname)
-        WHERE id = ${event.params.id}
-        RETURNING id, firstname, lastname, created_at
+        WHERE nanoid = ${event.params.nanoid}
+        RETURNING nanoid, firstname, lastname, created_at
     `;
 
     return Response.json({
         data: contact,
-        _links: contactLinks(contact.id),
+        _links: contactLinks(contact.nanoid),
     });
 }
 
@@ -59,11 +60,11 @@ export async function DELETE(event) {
     const authError = requireUser(event);
     if (authError) return authError;
 
-    const [existing] = await sql`SELECT id FROM contacts WHERE id = ${event.params.id}`;
+    const [existing] = await sql`SELECT nanoid FROM contacts WHERE nanoid = ${event.params.nanoid}`;
 
     if (!existing) return problem(404, "Contact not found", event.request.url);
 
-    await sql`DELETE FROM contacts WHERE id = ${event.params.id}`;
+    await sql`DELETE FROM contacts WHERE nanoid = ${event.params.nanoid}`;
 
     return new Response(null, { status: 204 });
 }

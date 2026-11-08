@@ -24,8 +24,19 @@ copies `sqls/`) and why `entrypoint.sh` runs `src/migrate.js` before `serve`.
 
 ## Idempotence
 
-Because the file is reloaded on every run, it MUST be idempotent: each function
-is preceded by `DROP FUNCTION IF EXISTS`, then recreated with `CREATE FUNCTION`.
+Because the file is reloaded on every run, it MUST be idempotent. Prefer
+`CREATE OR REPLACE FUNCTION`. Use `DROP FUNCTION IF EXISTS` only when the
+signature changes (argument types or return type).
+
+A function referenced by a column `DEFAULT` cannot be dropped while the default
+depends on it: PostgreSQL raises `cannot drop function ... because default value
+... depends on it`. `CREATE OR REPLACE` updates the body without breaking the
+dependency.
+
+When a migration needs a function in a column `DEFAULT` before this file is
+loaded, the migration creates the function first. `sqls/functions.sql` then
+replaces it with `CREATE OR REPLACE`. The migration copy is a historical
+bootstrap, not the source of truth.
 
 A migration that drops or renames a table used by a function here must ship the
 matching update of `sqls/functions.sql`, otherwise the next `pnpm migrate` fails
@@ -58,13 +69,16 @@ $$;
 `SET LOCAL` applies to the current transaction only — the one opened by
 `sql.begin` in `src/migrate.js` — so the value is automatically restored
 afterwards. The `CREATE FUNCTION` statements still emit their own NOTICEs.
+`CREATE OR REPLACE FUNCTION` does not emit this NOTICE, so the wrapper is only
+needed around `DROP` statements.
 
 Do not silence NOTICEs globally: silence the ones you expect, keep the rest.
 
 ## Adding a function
 
 1. Uncomment/copy the template at the top of `sqls/functions.sql`.
-2. Keep the `DROP FUNCTION IF EXISTS` → `CREATE FUNCTION` order (idempotence).
+2. Use `CREATE OR REPLACE FUNCTION`. Keep `DROP FUNCTION IF EXISTS` for
+   signature changes only.
 3. Wrap the `DROP`s in `SET LOCAL client_min_messages = warning` /
    `... = notice` when they would emit NOTICEs.
 4. Prefer `LANGUAGE sql` over `LANGUAGE plpgsql` when the body is declarative
