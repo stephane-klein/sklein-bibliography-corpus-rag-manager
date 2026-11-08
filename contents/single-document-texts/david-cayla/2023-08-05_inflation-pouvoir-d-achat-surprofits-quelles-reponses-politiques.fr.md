@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=oO3rOAdF5pI
 video_title: Inflation, pouvoir d'achat, surprofits, quelles réponses politiques?
 generated_at: 2026-09-20T18:50:52.501Z
+authors:
+  - David Cayla
+original_published_date: 2023-08-05
 llm:
   model: deepseek-flash
   chunks: 1

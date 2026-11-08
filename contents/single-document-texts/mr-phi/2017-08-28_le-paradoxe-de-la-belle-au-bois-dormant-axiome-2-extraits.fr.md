@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=LocE6eog_z4
 video_title: LE PARADOXE DE LA BELLE AU BOIS DORMANT - Axiome 2 (extraits)
 generated_at: 2026-09-19T09:27:56.655Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-08-28
 llm:
   model: mimo-v2.5
   duration_seconds: 97.4

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=HaVWbdlAiCQ
 video_title: Cet argument probabiliste va changer votre point de vue sur l'ÉTHIQUE ANIMALE
 generated_at: 2026-09-19T09:33:53.690Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-09-01
 llm:
   model: mimo-v2.5
   duration_seconds: 134.9

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=8AecdWoS5sE
 video_title: HFE - Séance 10 du 9 avril
 generated_at: 2026-09-20T18:20:34.764Z
+authors:
+  - David Cayla
+original_published_date: 2021-04-09
 llm:
   model: deepseek-flash
   chunks: 1

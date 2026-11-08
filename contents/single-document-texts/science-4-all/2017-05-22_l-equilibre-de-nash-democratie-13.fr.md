@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=9dXCvjL04uw
 video_title: L'équilibre de Nash | Démocratie 13
 generated_at: 2026-09-19T09:12:42.210Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-05-22
 llm:
   model: mimo-v2.5
   duration_seconds: 107.2

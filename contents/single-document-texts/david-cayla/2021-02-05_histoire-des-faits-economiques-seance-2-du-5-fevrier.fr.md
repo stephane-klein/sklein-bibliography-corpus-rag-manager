@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=eiTvkmbOWsQ
 video_title: Histoire des faits économiques - séance 2 du 5 février
 generated_at: 2026-09-20T18:04:21.975Z
+authors:
+  - David Cayla
+original_published_date: 2021-02-05
 llm:
   model: deepseek-flash
   chunks: 1

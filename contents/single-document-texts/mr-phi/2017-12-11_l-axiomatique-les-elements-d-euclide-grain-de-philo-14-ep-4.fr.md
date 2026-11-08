@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=enZpq8jvFEs
 video_title: "L'AXIOMATIQUE - Les Éléments d'Euclide | Grain de philo #14 (Ep.4)"
 generated_at: 2026-09-19T10:05:52.816Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-12-11
 llm:
   model: mimo-v2.5
   duration_seconds: 144

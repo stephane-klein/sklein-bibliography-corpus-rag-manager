@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=RZH4zvyR6p4
 video_title: HFE -  Séance 6 du 12 mars
 generated_at: 2026-09-20T18:11:21.549Z
+authors:
+  - David Cayla
+original_published_date: 2021-03-12
 llm:
   model: deepseek-flash
   chunks: 1

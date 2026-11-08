@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=AtTTn7KMIys
 video_title: "SOMMES-NOUS DES SIMULATIONS ? L'argument de la simulation de Nick Bostrom - Argument frappant #1"
 generated_at: 2026-09-19T09:22:18.988Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-09-09
 llm:
   model: mimo-v2.5
   duration_seconds: 105.7

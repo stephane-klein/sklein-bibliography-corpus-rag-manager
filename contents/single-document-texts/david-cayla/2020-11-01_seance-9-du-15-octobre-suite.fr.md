@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=SNdKszoJn8s
 video_title: Séance 9 du 15 octobre (suite)
 generated_at: 2026-09-20T17:10:39.068Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 25.1

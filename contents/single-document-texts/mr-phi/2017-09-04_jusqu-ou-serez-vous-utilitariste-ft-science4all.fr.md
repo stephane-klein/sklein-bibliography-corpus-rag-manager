@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=AZBDMN5wZ-8
 video_title: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
 generated_at: 2026-09-19T08:57:47.976Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-09-04
 llm:
   model: mimo-v2.5
   duration_seconds: 165.3

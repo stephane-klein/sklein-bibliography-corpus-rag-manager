@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=bW-SMBs7Q_8
 video_title: Déclin et chute du néolibéralisme
 generated_at: 2026-09-20T19:11:02.494Z
+authors:
+  - David Cayla
+original_published_date: 2022-11-26
 llm:
   model: deepseek-flash
   chunks: 1

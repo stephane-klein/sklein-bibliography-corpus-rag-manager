@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=BVbAYIT92Ws
 video_title: L'étendue de mon ignorance | Démocratie 32
 generated_at: 2026-09-19T09:20:07.881Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-10-16
 llm:
   model: mimo-v2.5
   duration_seconds: 122

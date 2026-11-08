@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=KOOAAo1v9fE
 video_title: "Le sol accélère-t-il vraiment vers le haut ? #DébattonsMieux"
 generated_at: 2026-09-19T09:15:31.771Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2016-07-14
 llm:
   model: mimo-v2.5
   duration_seconds: 113.5

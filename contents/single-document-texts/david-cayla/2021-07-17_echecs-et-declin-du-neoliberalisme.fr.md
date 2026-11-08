@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=aE5dkCc7pkI
 video_title: Échecs et déclin du néolibéralisme
 generated_at: 2026-09-20T18:25:19.137Z
+authors:
+  - David Cayla
+original_published_date: 2021-07-17
 llm:
   model: deepseek-flash
   chunks: 1

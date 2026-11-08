@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=0IXcoP1-FBw
 video_title: Les 15 ans de la faillite de Lehman Brothers
 generated_at: 2026-09-20T18:54:02.119Z
+authors:
+  - David Cayla
+original_published_date: 2023-09-18
 llm:
   model: deepseek-flash
   chunks: 1

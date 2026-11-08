@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=JY3SAzlgBYY
 video_title: Ce principe sur lequel tout le monde s'entend
 generated_at: 2026-09-19T09:40:48.680Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-08-01
 llm:
   model: mimo-v2.5
   duration_seconds: 120.8

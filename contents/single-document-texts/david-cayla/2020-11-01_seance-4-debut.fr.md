@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Eoi_V3M_QdY
 video_title: Séance 4 (début)
 generated_at: 2026-09-20T15:18:04.632Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: mimo-v2.5
   duration_seconds: 116.9

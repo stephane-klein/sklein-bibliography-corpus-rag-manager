@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Ffd55-hAaGE
 video_title: "LA RELIGION NOUS EMPÊCHE-T-ELLE D'ÊTRE MORAUX ? - Religion et morale (2/2) - Grain de philo #3"
 generated_at: 2026-09-19T09:19:58.185Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-09-28
 llm:
   model: mimo-v2.5
   duration_seconds: 112.8

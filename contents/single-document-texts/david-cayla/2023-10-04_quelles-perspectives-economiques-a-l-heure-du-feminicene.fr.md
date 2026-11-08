@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=jBJbwqyVtvA
 video_title: Quelles perspectives économiques à l'heure du féminicène ?
 generated_at: 2026-09-20T18:58:28.738Z
+authors:
+  - David Cayla
+original_published_date: 2023-10-04
 llm:
   model: deepseek-flash
   chunks: 1

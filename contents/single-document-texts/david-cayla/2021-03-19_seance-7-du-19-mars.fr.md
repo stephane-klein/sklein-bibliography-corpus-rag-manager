@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=lL9SGytHNLs
 video_title: Séance 7 du 19 mars
 generated_at: 2026-09-20T18:14:35.174Z
+authors:
+  - David Cayla
+original_published_date: 2021-03-19
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=GsUsgx2oPYA
 video_title: "L'EUGÉNISME LIBÉRAL - Grain de philo #32"
 generated_at: 2026-09-19T09:37:31.978Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2019-11-19
 llm:
   model: mimo-v2.5
   duration_seconds: 147.3

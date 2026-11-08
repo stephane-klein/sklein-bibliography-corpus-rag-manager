@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=rNm2RV4b_Es
 video_title: Séance 10 du 21 octobre
 generated_at: 2026-09-20T17:13:56.128Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 122.9

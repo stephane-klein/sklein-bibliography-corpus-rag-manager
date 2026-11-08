@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=avTMg2THEvM
 video_title: Le problème de la chance morale 🎲
 generated_at: 2026-09-19T19:27:09.627Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2023-10-25
 llm:
   model: mimo-v2.5
   duration_seconds: 291.6

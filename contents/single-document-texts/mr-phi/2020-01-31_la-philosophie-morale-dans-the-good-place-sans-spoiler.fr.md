@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=9FFI9bwYuK0
 video_title: La philosophie morale dans _The Good Place_ (sans spoiler)
 generated_at: 2026-09-19T10:01:10.818Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2020-01-31
 llm:
   model: mimo-v2.5
   duration_seconds: 110

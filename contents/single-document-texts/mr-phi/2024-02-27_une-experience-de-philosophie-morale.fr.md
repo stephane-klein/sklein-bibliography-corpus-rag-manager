@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=GJAQCRJZmic
 video_title: Une expérience de philosophie morale
 generated_at: 2026-09-19T09:52:44.272Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2024-02-27
 llm:
   model: mimo-v2.5
   duration_seconds: 87.6

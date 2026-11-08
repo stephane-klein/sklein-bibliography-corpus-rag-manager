@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=rk437qgR4PY
 video_title: Séance 12 du 4 novembre
 generated_at: 2026-09-20T17:17:01.265Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-04
 llm:
   model: deepseek-flash
   duration_seconds: 103.6

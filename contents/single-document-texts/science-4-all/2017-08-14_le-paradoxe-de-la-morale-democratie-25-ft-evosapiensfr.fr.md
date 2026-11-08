@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=W-GAqomxGmo
 video_title: Le paradoxe de la morale | Démocratie 25 (ft. @EvoSapiensFR)
 generated_at: 2026-09-19T09:16:56.111Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-08-14
 llm:
   model: mimo-v2.5
   duration_seconds: 168.6

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=v8IIV9ZebzE
 video_title: Séance 19 du mercredi 2 décembre
 generated_at: 2026-09-20T17:53:14.730Z
+authors:
+  - David Cayla
+original_published_date: 2020-12-02
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=NpUcdhbcmuI
 video_title: « Il vaut mieux être Socrate insatisfait qu'un imbécile satisfait » John Stuart Mill | Dixit 2
 generated_at: 2026-09-19T09:32:22.227Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-07-27
 llm:
   model: mimo-v2.5
   duration_seconds: 111.2

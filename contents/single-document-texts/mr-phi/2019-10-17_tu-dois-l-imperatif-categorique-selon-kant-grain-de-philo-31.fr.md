@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Hj7JDMlJjJE
 video_title: "TU DOIS ! — l'impératif catégorique selon Kant | Grain de philo #31"
 generated_at: 2026-09-19T09:36:45.196Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2019-10-17
 llm:
   model: mimo-v2.5
   duration_seconds: 145.7

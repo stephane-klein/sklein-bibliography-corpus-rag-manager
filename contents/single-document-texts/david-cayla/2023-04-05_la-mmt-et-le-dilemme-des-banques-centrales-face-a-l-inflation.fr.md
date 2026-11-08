@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=VnvEOURu22Q
 video_title: La MMT et le dilemme des banques centrales face à l'inflation
 generated_at: 2026-09-20T18:38:44.029Z
+authors:
+  - David Cayla
+original_published_date: 2023-04-05
 llm:
   model: deepseek-flash
   chunks: 1

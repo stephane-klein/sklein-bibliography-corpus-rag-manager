@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=u3lapME67VI
 video_title: Libre ou déterminé ?
 generated_at: 2026-09-19T09:25:51.042Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-02-11
 llm:
   model: mimo-v2.5
   duration_seconds: 118.7

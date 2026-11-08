@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=FuqIY-Xf5Is
 video_title: Les philosophes ne comprennent rien à la LIBERTÉ
 generated_at: 2026-09-19T10:08:03.197Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-05-14
 llm:
   model: mimo-v2.5
   duration_seconds: 467.5

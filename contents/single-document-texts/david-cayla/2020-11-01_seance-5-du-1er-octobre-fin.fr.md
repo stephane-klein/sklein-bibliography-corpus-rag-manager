@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=oeYoe-VYAlI
 video_title: Séance 5 du 1er octobre (fin)
 generated_at: 2026-09-20T16:58:21.000Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 76.8

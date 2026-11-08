@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=g8JbEwjESsU
 video_title: Les limites de la société de marché
 generated_at: 2026-09-20T18:23:49.973Z
+authors:
+  - David Cayla
+original_published_date: 2021-06-11
 llm:
   model: deepseek-flash
   chunks: 1

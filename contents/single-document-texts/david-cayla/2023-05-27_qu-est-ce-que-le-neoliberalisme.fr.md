@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=SXBhp_KsKco
 video_title: Qu'est ce que le néolibéralisme ?
 generated_at: 2026-09-20T18:43:39.421Z
+authors:
+  - David Cayla
+original_published_date: 2023-05-27
 llm:
   model: deepseek-flash
   chunks: 1

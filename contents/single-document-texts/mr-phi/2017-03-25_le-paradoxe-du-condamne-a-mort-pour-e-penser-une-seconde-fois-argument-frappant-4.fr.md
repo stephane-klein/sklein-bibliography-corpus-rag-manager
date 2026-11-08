@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=8SOGL5abq1Y
 video_title: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4'
 generated_at: 2026-09-19T09:24:31.275Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-03-25
 llm:
   model: mimo-v2.5
   duration_seconds: 78.9

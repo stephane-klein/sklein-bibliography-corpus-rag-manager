@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=4kRY6vp99iY
 video_title: "NIETZSCHE : la morale des winners ? | Généalogie de la morale (1/2)"
 generated_at: 2026-09-19T09:26:11.566Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-08-04
 llm:
   model: mimo-v2.5
   duration_seconds: 100.3

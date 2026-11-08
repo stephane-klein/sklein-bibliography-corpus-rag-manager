@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=gnRkQHAZ1XU
 video_title: Séance 16 du jeudi 19 novembre
 generated_at: 2026-09-20T17:23:52.375Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-19
 llm:
   model: deepseek-flash
   duration_seconds: 110.9

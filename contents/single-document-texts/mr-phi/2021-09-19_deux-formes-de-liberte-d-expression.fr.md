@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=c5JfOHyfFP0
 video_title: Deux formes de liberté d'expression
 generated_at: 2026-09-19T09:45:48.599Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-09-19
 llm:
   model: mimo-v2.5
   duration_seconds: 190.2

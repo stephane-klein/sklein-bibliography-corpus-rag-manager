@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=2zZRFJ1oXHA
 video_title: Un point aveugle moral
 generated_at: 2026-09-19T09:45:56.669Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-10-17
 llm:
   model: mimo-v2.5
   duration_seconds: 127.9

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=_JT8gmCk6WE
 video_title: Histoire des faits économique - Séance 3 du 12 février
 generated_at: 2026-09-20T18:05:59.288Z
+authors:
+  - David Cayla
+original_published_date: 2021-02-12
 llm:
   model: deepseek-flash
   chunks: 1

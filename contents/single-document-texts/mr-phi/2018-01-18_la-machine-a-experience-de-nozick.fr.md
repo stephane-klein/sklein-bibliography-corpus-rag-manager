@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=2FVwXaNWPQ0
 video_title: La machine à expérience de Nozick
 generated_at: 2026-09-19T10:02:13.242Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-01-18
 llm:
   model: mimo-v2.5
   duration_seconds: 172.5

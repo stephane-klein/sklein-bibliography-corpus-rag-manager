@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=7KmAKVaO-Xc
 video_title: "À CHACUN SA MORALE ? | Relativisme vs. réalisme | Grain de philo #12"
 generated_at: 2026-09-19T09:28:38.478Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-08-20
 llm:
   model: mimo-v2.5
   duration_seconds: 68.6

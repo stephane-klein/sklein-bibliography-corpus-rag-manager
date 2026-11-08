@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=ImKM4zTqNII
 video_title: HFE   Séance 5 du 26 février
 generated_at: 2026-09-20T18:09:43.774Z
+authors:
+  - David Cayla
+original_published_date: 2021-02-26
 llm:
   model: deepseek-flash
   chunks: 1

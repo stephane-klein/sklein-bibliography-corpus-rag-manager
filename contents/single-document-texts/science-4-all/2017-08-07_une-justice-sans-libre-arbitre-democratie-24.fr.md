@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=QMIfjUerDzY
 video_title: Une justice SANS libre-arbitre ? Démocratie 24
 generated_at: 2026-09-19T09:17:12.464Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-08-07
 llm:
   model: mimo-v2.5
   duration_seconds: 180.9

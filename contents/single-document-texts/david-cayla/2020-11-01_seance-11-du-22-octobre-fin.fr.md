@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Ca9DmkJBPVo
 video_title: Séance 11 du 22 octobre (fin)
 generated_at: 2026-09-20T17:49:17.156Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=BCtATumJy58
 video_title: HFE Séance 1 du 29 janvier
 generated_at: 2026-09-20T18:02:37.803Z
+authors:
+  - David Cayla
+original_published_date: 2021-01-29
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=W0s3j9K-jTA
 video_title: "Souveraineté alimentaire: pour un nouveau modèle agricole"
 generated_at: 2026-09-20T18:49:54.629Z
+authors:
+  - David Cayla
+original_published_date: 2023-07-20
 llm:
   model: deepseek-flash
   chunks: 1

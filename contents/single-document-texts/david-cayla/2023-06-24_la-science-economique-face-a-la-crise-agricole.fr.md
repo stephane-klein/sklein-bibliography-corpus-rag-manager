@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=dB_hgSdYDi4
 video_title: La science économique face à la crise agricole
 generated_at: 2026-09-20T18:46:12.325Z
+authors:
+  - David Cayla
+original_published_date: 2023-06-24
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=m6IRl_xZf7w
 video_title: Séance 8 du 14 octobre
 generated_at: 2026-09-20T17:10:13.942Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 108.9

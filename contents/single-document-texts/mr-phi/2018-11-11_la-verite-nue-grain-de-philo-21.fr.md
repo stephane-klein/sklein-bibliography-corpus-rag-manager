@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=aUdshz5gD2s
 video_title: "La VÉRITÉ nue | Grain de philo #21"
 generated_at: 2026-09-19T10:05:49.325Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-11-11
 llm:
   model: mimo-v2.5
   duration_seconds: 192

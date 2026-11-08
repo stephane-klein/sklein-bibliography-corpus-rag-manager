@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=rgzWqAyZW7o
 video_title: Mais au juste, est-ce juste ? Démocratie 21
 generated_at: 2026-09-19T09:12:46.052Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-07-17
 llm:
   model: mimo-v2.5
   duration_seconds: 114.3

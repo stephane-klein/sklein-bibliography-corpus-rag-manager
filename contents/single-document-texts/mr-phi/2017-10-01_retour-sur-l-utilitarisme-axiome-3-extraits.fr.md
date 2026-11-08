@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=mPBC0OQKa2w
 video_title: Retour sur l'utilitarisme - Axiome 3 (extraits)
 generated_at: 2026-09-19T09:28:18.705Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-10-01
 llm:
   model: mimo-v2.5
   duration_seconds: 123.8

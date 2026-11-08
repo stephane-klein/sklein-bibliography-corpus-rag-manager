@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Aj7PKDTrbjQ
 video_title: Deux notions de JUSTICE (et pourquoi aucune ne justifie l'héritage)
 generated_at: 2026-09-19T09:44:38.374Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2022-02-27
 llm:
   model: mimo-v2.5
   duration_seconds: 130

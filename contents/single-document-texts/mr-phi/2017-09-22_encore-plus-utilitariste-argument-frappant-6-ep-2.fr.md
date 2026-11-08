@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=y2l8lxi-9aY
 video_title: "ENCORE PLUS UTILITARISTE ? | Argument frappant #6 (Ep.2)"
 generated_at: 2026-09-19T09:34:19.519Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-09-22
 llm:
   model: mimo-v2.5
   duration_seconds: 163.2

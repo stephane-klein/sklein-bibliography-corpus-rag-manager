@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=XAaPkiiUTeI
 video_title: NIETZSCHE contre les méchants | Généalogie de la morale (2/2)
 generated_at: 2026-09-19T09:27:16.986Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-08-14
 llm:
   model: mimo-v2.5
   duration_seconds: 154.8

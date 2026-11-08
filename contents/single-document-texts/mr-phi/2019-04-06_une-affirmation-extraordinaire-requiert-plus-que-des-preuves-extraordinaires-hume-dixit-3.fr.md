@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=8RwnrNSqa_A
 video_title: "Une affirmation extraordinaire requiert PLUS que des preuves extraordinaires | Hume - Dixit #3"
 generated_at: 2026-09-19T09:37:07.111Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2019-04-06
 llm:
   model: mimo-v2.5
   duration_seconds: 115.5

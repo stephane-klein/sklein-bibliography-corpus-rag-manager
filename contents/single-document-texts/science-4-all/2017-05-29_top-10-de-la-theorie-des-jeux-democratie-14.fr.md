@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=uijJJ2OczNs
 video_title: Top 10 de la théorie des jeux | Démocratie 14
 generated_at: 2026-09-19T09:11:40.252Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-05-29
 llm:
   model: mimo-v2.5
   duration_seconds: 169.7

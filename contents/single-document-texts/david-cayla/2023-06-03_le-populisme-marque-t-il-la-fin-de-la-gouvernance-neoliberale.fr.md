@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=W3Mns76ihsA
 video_title: Le populisme marque-t-il la fin de la gouvernance néolibérale ?
 generated_at: 2026-09-20T18:44:58.313Z
+authors:
+  - David Cayla
+original_published_date: 2023-06-03
 llm:
   model: deepseek-flash
   chunks: 1

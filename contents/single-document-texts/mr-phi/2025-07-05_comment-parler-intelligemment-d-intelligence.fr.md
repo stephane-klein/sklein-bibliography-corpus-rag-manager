@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=AwUpxjODogQ
 video_title: Comment parler intelligemment d'intelligence ?
 generated_at: 2026-09-19T09:54:46.673Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2025-07-05
 llm:
   model: mimo-v2.5
   duration_seconds: 307.3

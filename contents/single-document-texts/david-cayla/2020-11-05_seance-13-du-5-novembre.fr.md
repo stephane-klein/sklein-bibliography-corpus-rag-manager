@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=cNFaPoJGOF4
 video_title: Séance 13 du 5 novembre
 generated_at: 2026-09-20T17:18:42.463Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-05
 llm:
   model: deepseek-flash
   duration_seconds: 101.2

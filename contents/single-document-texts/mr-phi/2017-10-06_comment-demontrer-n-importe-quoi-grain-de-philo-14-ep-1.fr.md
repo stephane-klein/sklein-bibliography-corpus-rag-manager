@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=2DOYvDWZWwo
 video_title: "COMMENT DÉMONTRER N'IMPORTE QUOI | Grain de philo #14 (Ep.1)"
 generated_at: 2026-09-19T09:29:25.934Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-10-06
 llm:
   model: mimo-v2.5
   duration_seconds: 128.9

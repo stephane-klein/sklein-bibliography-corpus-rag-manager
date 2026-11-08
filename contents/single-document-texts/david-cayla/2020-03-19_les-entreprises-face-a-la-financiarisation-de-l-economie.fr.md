@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=9yhQ8RzEpk0
 video_title: Les entreprises face à la financiarisation de l'économie
 generated_at: 2026-09-20T19:09:48.648Z
+authors:
+  - David Cayla
+original_published_date: 2020-03-19
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=SXLHijQeYok
 video_title: "La théorie peut-elle réfuter l'expérience ? | Grain de philo #22"
 generated_at: 2026-09-19T09:35:04.639Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-11-27
 llm:
   model: mimo-v2.5
   duration_seconds: 123.7

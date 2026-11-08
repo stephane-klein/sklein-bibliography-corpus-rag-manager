@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=hBs9VWXw96Y
 video_title: Séance 6 du 7 octobre
 generated_at: 2026-09-20T17:02:37.014Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 107.6

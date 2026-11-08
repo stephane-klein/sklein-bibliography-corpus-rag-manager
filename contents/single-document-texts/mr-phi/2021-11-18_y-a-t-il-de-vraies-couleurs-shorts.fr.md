@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=KP56Vpzar2U
 video_title: "Y a-t-il de VRAIES couleurs ? | #Shorts"
 generated_at: 2026-09-19T09:42:10.444Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-11-18
 llm:
   model: mimo-v2.5
   duration_seconds: 38.2

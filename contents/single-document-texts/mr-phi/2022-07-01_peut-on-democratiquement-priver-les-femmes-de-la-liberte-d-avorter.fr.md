@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=5261f9uoeac
 video_title: Peut-on démocratiquement priver les femmes de la liberté d'avorter ?
 generated_at: 2026-09-19T09:44:01.368Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2022-07-01
 llm:
   model: mimo-v2.5
   duration_seconds: 90

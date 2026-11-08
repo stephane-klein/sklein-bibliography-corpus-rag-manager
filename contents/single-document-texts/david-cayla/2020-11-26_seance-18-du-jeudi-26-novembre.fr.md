@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=3ABy5V14B7w
 video_title: Séance 18 du jeudi 26 novembre
 generated_at: 2026-09-20T17:27:25.457Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-26
 llm:
   model: deepseek-flash
   duration_seconds: 100.5

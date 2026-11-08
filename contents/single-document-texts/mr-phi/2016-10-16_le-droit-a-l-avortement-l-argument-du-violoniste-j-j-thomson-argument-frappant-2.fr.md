@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=mt4JXMcxlwI
 video_title: "LE DROIT À L'AVORTEMENT - L'argument du violoniste (J.J. Thomson) - Argument frappant #2"
 generated_at: 2026-09-19T09:23:25.420Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-10-16
 llm:
   model: mimo-v2.5
   duration_seconds: 156.9

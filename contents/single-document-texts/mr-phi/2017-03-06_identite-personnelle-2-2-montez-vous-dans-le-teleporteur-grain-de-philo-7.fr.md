@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=HPWQufM2sAg
 video_title: "IDENTITÉ PERSONNELLE (2/2) - Montez-vous dans le téléporteur ? - Grain de philo #7"
 generated_at: 2026-09-19T09:24:58.098Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-03-06
 llm:
   model: mimo-v2.5
   duration_seconds: 122.4

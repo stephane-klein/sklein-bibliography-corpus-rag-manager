@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=sHXt0K1zIPI
 video_title: Séance 7 du 8 octobre (début)
 generated_at: 2026-09-20T16:59:09.173Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 48.2

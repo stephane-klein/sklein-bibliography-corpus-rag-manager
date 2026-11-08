@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=H5VnO59U42o
 video_title: "Philosophie, onanisme intellectuel ? (2/2) - UN RÉSIDU DE QUESTIONS INSOLUBLES - Grain de philo #1"
 generated_at: 2026-09-19T09:18:05.386Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-08-04
 llm:
   model: mimo-v2.5
   duration_seconds: 92.2

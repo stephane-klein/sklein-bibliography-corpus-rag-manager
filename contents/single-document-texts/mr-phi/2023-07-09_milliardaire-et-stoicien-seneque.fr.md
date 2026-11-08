@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=iE08wLRGPcQ
 video_title: Milliardaire et stoïcien | Sénèque
 generated_at: 2026-09-19T09:49:52.450Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2023-07-09
 llm:
   model: mimo-v2.5
   duration_seconds: 351.1

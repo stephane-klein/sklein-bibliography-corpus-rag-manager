@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=azNw7Vx1R8o
 video_title: "ADAM SMITH : Le paradoxe de la veste de laine"
 generated_at: 2026-09-19T09:23:56.979Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-12-23
 llm:
   model: mimo-v2.5
   duration_seconds: 130.5

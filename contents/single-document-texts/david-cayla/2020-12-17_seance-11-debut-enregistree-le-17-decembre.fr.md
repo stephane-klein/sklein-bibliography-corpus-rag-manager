@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=b4Q-RVOGRvg
 video_title: Séance 11 (début) enregistrée le 17 décembre
 generated_at: 2026-09-20T17:59:53.482Z
+authors:
+  - David Cayla
+original_published_date: 2020-12-17
 llm:
   model: deepseek-flash
   chunks: 1

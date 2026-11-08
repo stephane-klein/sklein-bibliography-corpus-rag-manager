@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=kefptSDi0Es
 video_title: Partager un gâteau, c'est pas du gâteau ! Démocratie 22
 generated_at: 2026-09-19T09:11:43.543Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-07-24
 llm:
   model: mimo-v2.5
   duration_seconds: 49.5

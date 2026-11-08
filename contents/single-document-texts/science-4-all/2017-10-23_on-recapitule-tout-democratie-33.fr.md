@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=QyrrvEuRNWU
 video_title: On récapitule TOUT | Démocratie 33
 generated_at: 2026-09-19T09:16:33.161Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-10-23
 llm:
   model: mimo-v2.5
   duration_seconds: 88.8

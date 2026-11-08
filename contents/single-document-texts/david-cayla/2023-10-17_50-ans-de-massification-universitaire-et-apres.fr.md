@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=iAR6izUGbrQ
 video_title: 50 ans de massification universitaire... et après ?
 generated_at: 2026-09-20T19:00:24.451Z
+authors:
+  - David Cayla
+original_published_date: 2023-10-17
 llm:
   model: deepseek-flash
   chunks: 1

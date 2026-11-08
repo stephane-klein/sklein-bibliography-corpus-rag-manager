@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=TM9R4tAIAP4
 video_title: Séance 20 jeudi 3 décembre
 generated_at: 2026-09-20T17:54:59.897Z
+authors:
+  - David Cayla
+original_published_date: 2020-12-03
 llm:
   model: deepseek-flash
   chunks: 1

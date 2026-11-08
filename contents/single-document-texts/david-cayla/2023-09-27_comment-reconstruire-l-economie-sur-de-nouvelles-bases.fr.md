@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=eg-TCx_Ra2E
 video_title: Comment reconstruire l'économie sur de nouvelles bases?
 generated_at: 2026-09-20T18:55:53.438Z
+authors:
+  - David Cayla
+original_published_date: 2023-09-27
 llm:
   model: deepseek-flash
   chunks: 1

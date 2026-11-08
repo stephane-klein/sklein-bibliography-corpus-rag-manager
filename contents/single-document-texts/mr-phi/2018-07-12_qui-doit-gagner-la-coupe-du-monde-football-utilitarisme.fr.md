@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Pn-2GQbgQhY
 video_title: Qui DOIT gagner la coupe du monde ? FOOTBALL & UTILITARISME
 generated_at: 2026-09-19T09:31:38.779Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2018-07-12
 llm:
   model: mimo-v2.5
   duration_seconds: 85.2

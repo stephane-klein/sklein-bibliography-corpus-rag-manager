@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=yXEdspuLHsY
 video_title: Le hobbitisme (extrait d'@Axiome 4) | Démocratie 34
 generated_at: 2026-09-19T09:20:37.467Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-11-20
 llm:
   model: mimo-v2.5
   duration_seconds: 118.6

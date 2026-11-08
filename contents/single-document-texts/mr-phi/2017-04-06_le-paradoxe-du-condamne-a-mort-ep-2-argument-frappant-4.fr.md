@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=ska8cx379XA
 video_title: "LE PARADOXE DU CONDAMNÉ À MORT - Ep.2 - Argument frappant #4"
 generated_at: 2026-09-19T09:24:42.140Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-04-06
 llm:
   model: mimo-v2.5
   duration_seconds: 76.7

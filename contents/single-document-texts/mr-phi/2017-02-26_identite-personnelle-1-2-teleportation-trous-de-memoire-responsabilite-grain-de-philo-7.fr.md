@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=EZmvdkNjev8
 video_title: "IDENTITÉ PERSONNELLE (1/2) - Téléportation, trous de mémoire & responsabilité - Grain de philo #7"
 generated_at: 2026-09-19T09:23:44.459Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-02-26
 llm:
   model: mimo-v2.5
   duration_seconds: 85.5

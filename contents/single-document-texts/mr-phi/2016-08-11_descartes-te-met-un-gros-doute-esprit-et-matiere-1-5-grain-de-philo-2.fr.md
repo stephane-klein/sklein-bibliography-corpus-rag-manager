@@ -1,3 +1,11 @@
+---
+source_url: https://www.youtube.com/watch?v=ixbZNpgHjig
+video_title: "DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2"
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-08-11
+---
+
 # DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2
 
 C'est le moment de semer un grain de philo dans vos esprits. On va justement

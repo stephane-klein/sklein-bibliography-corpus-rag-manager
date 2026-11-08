@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=lo7iJnq_U9M
 video_title: Pourquoi cette histoire de pilules nous rend fou
 generated_at: 2026-09-19T19:27:02.478Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2025-05-02
 llm:
   model: mimo-v2.5
   duration_seconds: 115.4

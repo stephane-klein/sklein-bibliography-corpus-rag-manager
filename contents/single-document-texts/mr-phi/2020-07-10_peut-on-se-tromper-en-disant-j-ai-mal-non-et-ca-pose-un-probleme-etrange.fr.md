@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=JlSXc9hf1bE
 video_title: Peut-on se tromper en disant "J'ai mal" ? (Non. Et ça pose un problème étrange.)
 generated_at: 2026-09-19T09:40:03.193Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2020-07-10
 llm:
   model: mimo-v2.5
   duration_seconds: 93.2

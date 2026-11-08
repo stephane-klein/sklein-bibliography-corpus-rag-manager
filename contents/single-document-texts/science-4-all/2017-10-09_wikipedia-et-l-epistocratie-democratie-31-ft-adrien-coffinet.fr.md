@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=7yztDRsarcY
 video_title: Wikipedia et l'épistocratie | Démocratie 31 (ft. Adrien Coffinet)
 generated_at: 2026-09-19T09:16:16.865Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-10-09
 llm:
   model: mimo-v2.5
   duration_seconds: 161.7

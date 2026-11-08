@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=l65eo0sOAf4
 video_title: Séance 17 du mercredi 25 novembre
 generated_at: 2026-09-20T17:51:12.306Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-25
 llm:
   model: deepseek-flash
   chunks: 1

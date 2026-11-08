@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Gqu6Di353ok
 video_title: "LE SCEPTICISME - Le trilemme d'Agrippa | Grain de philo #14 (Ep.2)"
 generated_at: 2026-09-19T09:29:30.313Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-10-13
 llm:
   model: mimo-v2.5
   duration_seconds: 93.7

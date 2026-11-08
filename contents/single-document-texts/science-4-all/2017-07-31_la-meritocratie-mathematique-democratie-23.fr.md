@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=DHw-dvrAv58
 video_title: La méritocratie mathématique | Démocratie 23
 generated_at: 2026-09-19T09:13:35.149Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-07-31
 llm:
   model: mimo-v2.5
   duration_seconds: 114.9

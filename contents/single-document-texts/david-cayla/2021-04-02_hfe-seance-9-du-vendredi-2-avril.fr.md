@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=96CNc0vgT50
 video_title: HFE Séance 9 du vendredi 2 avril
 generated_at: 2026-09-20T18:18:46.680Z
+authors:
+  - David Cayla
+original_published_date: 2021-04-02
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Ryh6zJQ1cJA
 video_title: "Le monétarisme: une doctrine pour dépolitiser la gestion de la monnaie"
 generated_at: 2026-09-20T18:29:21.453Z
+authors:
+  - David Cayla
+original_published_date: 2023-03-10
 llm:
   model: deepseek-flash
   chunks: 1

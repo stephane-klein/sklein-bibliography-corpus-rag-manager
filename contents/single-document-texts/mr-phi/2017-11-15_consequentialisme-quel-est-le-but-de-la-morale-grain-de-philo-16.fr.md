@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=3hCffvguLTQ
 video_title: "CONSÉQUENTIALISME - Quel est le but de la morale ? | Grain de philo #16"
 generated_at: 2026-09-19T09:30:30.995Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-11-15
 llm:
   model: mimo-v2.5
   duration_seconds: 112.5

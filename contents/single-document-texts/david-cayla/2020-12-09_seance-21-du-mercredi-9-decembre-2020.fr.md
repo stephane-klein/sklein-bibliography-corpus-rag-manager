@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=GfNOkIH_yts
 video_title: Séance 21 du mercredi 9 décembre 2020
 generated_at: 2026-09-20T17:58:42.826Z
+authors:
+  - David Cayla
+original_published_date: 2020-12-09
 llm:
   model: deepseek-flash
   chunks: 1

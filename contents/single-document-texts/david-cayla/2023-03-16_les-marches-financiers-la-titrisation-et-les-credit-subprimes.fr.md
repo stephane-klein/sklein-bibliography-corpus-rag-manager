@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=nWD6bzcz0n8
 video_title: Les marchés financiers, la titrisation et les crédit subprimes
 generated_at: 2026-09-20T18:30:40.009Z
+authors:
+  - David Cayla
+original_published_date: 2023-03-16
 llm:
   model: deepseek-flash
   chunks: 1

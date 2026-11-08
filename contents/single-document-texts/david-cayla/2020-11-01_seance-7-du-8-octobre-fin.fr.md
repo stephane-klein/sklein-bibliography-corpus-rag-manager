@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=ad3elk-yaug
 video_title: Séance 7 du 8 octobre (fin)
 generated_at: 2026-09-20T17:00:49.362Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-01
 llm:
   model: deepseek-flash
   duration_seconds: 100.2

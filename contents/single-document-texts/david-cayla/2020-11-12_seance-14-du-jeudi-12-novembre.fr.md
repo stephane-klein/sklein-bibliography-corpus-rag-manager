@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=-Q_uIl8rAdM
 video_title: Séance 14 du jeudi 12 novembre
 generated_at: 2026-09-20T17:20:13.770Z
+authors:
+  - David Cayla
+original_published_date: 2020-11-12
 llm:
   model: deepseek-flash
   duration_seconds: 91.3

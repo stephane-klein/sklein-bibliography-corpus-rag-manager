@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Uu6K0uR9bus
 video_title: "La morale des gens heureux : l'utilitarisme | Démocratie 28 (ft.@Monsieur Phi)"
 generated_at: 2026-09-19T09:14:09.901Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-09-04
 llm:
   model: mimo-v2.5
   duration_seconds: 87.7

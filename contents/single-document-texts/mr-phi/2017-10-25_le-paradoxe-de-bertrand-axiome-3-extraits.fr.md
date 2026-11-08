@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=c86BtYw21RM
 video_title: LE PARADOXE DE BERTRAND - Axiome 3 (extraits)
 generated_at: 2026-09-19T09:30:13.608Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-10-25
 llm:
   model: mimo-v2.5
   duration_seconds: 114.9

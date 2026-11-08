@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=mKte5W9zmbs
 video_title: "Une action peut-elle être PIRE parce qu'elle est BÉNÉFIQUE ? #shorts"
 generated_at: 2026-09-19T09:42:31.395Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2022-01-27
 llm:
   model: mimo-v2.5
   duration_seconds: 20.9

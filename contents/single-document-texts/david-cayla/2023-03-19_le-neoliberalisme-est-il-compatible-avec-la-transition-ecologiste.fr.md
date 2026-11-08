@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=Yaw6r72MBus
 video_title: Le néolibéralisme est-il compatible avec la transition écologiste?
 generated_at: 2026-09-20T18:32:31.399Z
+authors:
+  - David Cayla
+original_published_date: 2023-03-19
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=aU7EWwLtiOg
 video_title: "LA LOI DE BAYES (2/2) - Argument frappant #3"
 generated_at: 2026-09-19T09:22:55.700Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-12-07
 llm:
   model: mimo-v2.5
   duration_seconds: 138.2

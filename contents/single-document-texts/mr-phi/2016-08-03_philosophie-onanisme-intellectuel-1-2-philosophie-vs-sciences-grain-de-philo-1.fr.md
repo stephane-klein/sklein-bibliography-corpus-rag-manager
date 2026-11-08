@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=SR7DFabsU48
 video_title: "Philosophie, onanisme intellectuel ? (1/2) - PHILOSOPHIE vs. SCIENCES - Grain de philo #1"
 generated_at: 2026-09-19T09:17:45.599Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-08-03
 llm:
   model: mimo-v2.5
   duration_seconds: 88.7

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=hI89r4LqaCc
 video_title: "LE PRINCIPE DE CONDORCET (1/2) Une norme démocratique - Grain de philo #9"
 generated_at: 2026-09-19T09:25:28.929Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-05-24
 llm:
   model: mimo-v2.5
   duration_seconds: 104.5

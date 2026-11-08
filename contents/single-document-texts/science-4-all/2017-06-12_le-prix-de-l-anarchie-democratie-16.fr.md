@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=1onCF9PfiAo
 video_title: Le prix de l'anarchie | Démocratie 16
 generated_at: 2026-09-19T09:10:51.720Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-06-12
 llm:
   model: mimo-v2.5
   duration_seconds: 121.2

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=tikCjpr5Who
 video_title: La pensée économique contemporaine est-elle néolibérale?
 generated_at: 2026-09-20T18:22:04.815Z
+authors:
+  - David Cayla
+original_published_date: 2021-06-02
 llm:
   model: deepseek-flash
   chunks: 1

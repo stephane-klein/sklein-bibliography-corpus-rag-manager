@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=ZZb4TjvupkI
 video_title: "LE PRINCIPE DE CONDORCET (2/2) Macron a-t-il été mal élu ? - Grain de philo #9"
 generated_at: 2026-09-19T09:26:14.905Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2017-07-02
 llm:
   model: mimo-v2.5
   duration_seconds: 137.9

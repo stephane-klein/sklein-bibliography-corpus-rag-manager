@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=rI6_6kFlxb0
 video_title: Séance 8 du 26 mars
 generated_at: 2026-09-20T18:16:49.950Z
+authors:
+  - David Cayla
+original_published_date: 2021-03-26
 llm:
   model: deepseek-flash
   chunks: 1

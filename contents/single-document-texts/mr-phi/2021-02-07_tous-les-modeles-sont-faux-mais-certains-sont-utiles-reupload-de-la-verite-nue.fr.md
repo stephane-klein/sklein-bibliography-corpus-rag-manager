@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=L2fGosqJp2Q
 video_title: « Tous les modèles sont faux, mais certains sont utiles » + reupload de LA VÉRITÉ NUE
 generated_at: 2026-09-19T09:48:07.102Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2021-02-07
 llm:
   model: mimo-v2.5
   duration_seconds: 271.3

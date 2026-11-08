@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=fYioC7v1F3U
 video_title: 7 arguments CONTRE la démocratie | Démocratie 30
 generated_at: 2026-09-19T09:15:04.313Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-10-02
 llm:
   model: mimo-v2.5
   duration_seconds: 138.3

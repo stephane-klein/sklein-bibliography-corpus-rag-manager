@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=BT-ZsfT2Sn8
 video_title: '"Un peuple qui sacrifie un peu de liberté pour un peu de sécurité..."'
 generated_at: 2026-09-19T09:41:32.198Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2020-09-06
 llm:
   model: mimo-v2.5
   duration_seconds: 69.4

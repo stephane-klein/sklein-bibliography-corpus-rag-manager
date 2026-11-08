@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=LJ5s3Q8rFaw
 video_title: L’intégration économique européenne est-elle un facteur de désintégration sociale?
 generated_at: 2026-09-20T18:42:04.571Z
+authors:
+  - David Cayla
+original_published_date: 2023-05-13
 llm:
   model: deepseek-flash
   chunks: 1

@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=6U9WBN0Sck8
 video_title: "SI DIEU N'EXISTE PAS, TOUT EST PERMIS ? - Religion et morale (1/2) - Grain de philo #3"
 generated_at: 2026-09-19T09:21:57.891Z
+authors:
+  - Thibaut Giraud
+original_published_date: 2016-09-16
 llm:
   model: mimo-v2.5
   duration_seconds: 110.8

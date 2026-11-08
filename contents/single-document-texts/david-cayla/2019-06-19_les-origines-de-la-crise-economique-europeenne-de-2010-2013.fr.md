@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=nurQ-jxwM7s
 video_title: Les origines de la crise économique européenne de 2010-2013.
 generated_at: 2026-09-20T15:17:46.052Z
+authors:
+  - David Cayla
+original_published_date: 2019-06-19
 llm:
   model: mimo-v2.5
   duration_seconds: 98.4

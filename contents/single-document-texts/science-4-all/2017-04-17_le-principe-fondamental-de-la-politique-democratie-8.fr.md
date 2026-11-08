@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=4dxwQkrUXpY
 video_title: Le principe fondamental de la politique | Démocratie 8
 generated_at: 2026-09-19T09:10:53.999Z
+authors:
+  - Lê Nguyên Hoang
+original_published_date: 2017-04-17
 llm:
   model: mimo-v2.5
   duration_seconds: 123.5

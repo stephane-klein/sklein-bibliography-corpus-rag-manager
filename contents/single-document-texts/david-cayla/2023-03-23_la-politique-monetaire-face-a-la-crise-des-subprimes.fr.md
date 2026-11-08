@@ -2,6 +2,9 @@
 source_url: https://www.youtube.com/watch?v=McBl_XjZz5I
 video_title: La politique monétaire face à la crise des subprimes
 generated_at: 2026-09-20T18:34:32.511Z
+authors:
+  - David Cayla
+original_published_date: 2023-03-23
 llm:
   model: deepseek-flash
   chunks: 1
