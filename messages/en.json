@@ -57,6 +57,7 @@
   "magic_sent_different_email": "Try a different email",
   "magic_sent_go_home": "Go to homepage",
   "nav_dashboard": "Dashboard",
+  "nav_documents": "Documents",
   "nav_contacts": "Contacts",
   "nav_profile": "Profile",
   "nav_preferences": "Preferences",
@@ -65,6 +66,31 @@
   "dashboard_title": "Dashboard",
   "dashboard_welcome": "Welcome back, {name}.",
   "dashboard_signed_in_as": "You are signed in as {email}.",
+  "documents_title": "Documents",
+  "documents_count": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "{count} document",
+        "countPlural=other": "{count} documents"
+      }
+    }
+  ],
+  "documents_empty": "No documents yet.",
+  "documents_column_title": "Title",
+  "documents_column_authors": "Authors",
+  "documents_column_original_date": "Original publication date",
+  "documents_column_source": "Source",
+  "documents_source_link": "source",
+  "documents_back": "← Documents",
+  "documents_detail_source_label": "Source URL",
+  "documents_detail_content": "Content",
+  "documents_page_first": "« First",
+  "documents_page_prev": "‹ Prev",
+  "documents_page_info": "Page {page} of {total}",
+  "documents_page_next": "Next ›",
+  "documents_page_last": "Last »",
   "contacts_title": "Contacts",
   "contacts_new_button": "+ New",
   "contacts_empty": "No contacts yet.",

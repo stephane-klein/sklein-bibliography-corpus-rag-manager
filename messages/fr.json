@@ -57,6 +57,7 @@
   "magic_sent_different_email": "Utiliser un autre e-mail",
   "magic_sent_go_home": "Aller à l'accueil",
   "nav_dashboard": "Tableau de bord",
+  "nav_documents": "Documents",
   "nav_contacts": "Contacts",
   "nav_profile": "Profil",
   "nav_preferences": "Préférences",
@@ -65,6 +66,31 @@
   "dashboard_title": "Tableau de bord",
   "dashboard_welcome": "Bon retour, {name}.",
   "dashboard_signed_in_as": "Connecté en tant que {email}.",
+  "documents_title": "Documents",
+  "documents_count": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "{count} document",
+        "countPlural=other": "{count} documents"
+      }
+    }
+  ],
+  "documents_empty": "Aucun document pour le moment.",
+  "documents_column_title": "Titre",
+  "documents_column_authors": "Auteurs",
+  "documents_column_original_date": "Date de publication originale",
+  "documents_column_source": "Source",
+  "documents_source_link": "source",
+  "documents_back": "← Documents",
+  "documents_detail_source_label": "URL source",
+  "documents_detail_content": "Contenu",
+  "documents_page_first": "« Premier",
+  "documents_page_prev": "‹ Précédent",
+  "documents_page_info": "Page {page} sur {total}",
+  "documents_page_next": "Suivant ›",
+  "documents_page_last": "Dernier »",
   "contacts_title": "Contacts",
   "contacts_new_button": "+ Nouveau",
   "contacts_empty": "Aucun contact pour le moment.",

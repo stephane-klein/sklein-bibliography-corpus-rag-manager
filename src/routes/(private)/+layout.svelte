@@ -17,6 +17,11 @@
             >
             |
             <a
+                href="/documents"
+                class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline">{m.nav_documents()}</a
+            >
+            |
+            <a
                 href="/contacts"
                 class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline">{m.nav_contacts()}</a
             >
