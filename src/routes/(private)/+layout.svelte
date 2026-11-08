@@ -4,7 +4,7 @@
     let { children } = $props();
 </script>
 
-<header class="border-b border-gray-300">
+<header class="border-b border-gray-300 bg-white">
     <div class="page px-5 py-2 flex items-center justify-between">
         <a
             href="/dashboard"

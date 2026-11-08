@@ -8,7 +8,7 @@
     <title>{m.magic_sent_title()} — {m.app_name()}</title>
 </svelte:head>
 
-<header class="border-b border-gray-300">
+<header class="border-b border-gray-300 bg-white">
     <div class="page px-5 py-2">
         <a
             href="/"
@@ -17,7 +17,7 @@
     </div>
 </header>
 
-<main class="page px-5 pt-9 pb-24">
+<main class="page-narrow">
     <h1 class="text-xl font-bold mb-2 tracking-tight">{m.magic_sent_title()}</h1>
 
     <p class="text-sm mb-6 max-w-sm">

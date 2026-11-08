@@ -6,7 +6,7 @@
     <title>{m.home()} — {m.app_name()}</title>
 </svelte:head>
 
-<header class="border-b border-gray-300">
+<header class="border-b border-gray-300 bg-white">
     <div class="page px-5 py-2 flex items-center justify-between">
         <a
             href="/"
@@ -26,7 +26,7 @@
     </div>
 </header>
 
-<main class="page px-5 pt-12 pb-24">
+<main class="page-narrow">
     <h1 class="text-2xl font-bold mb-4 tracking-tight">{m.welcome_title()}</h1>
     <p class="text-gray-500 mb-6 max-w-lg">{m.welcome_subtitle()}</p>
     <a

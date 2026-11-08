@@ -10,12 +10,12 @@
     const localeTitles = { en: "Switch to English", fr: "Passer en français" };
 </script>
 
-<div class="page-wrap">
+<div class="page-wrap bg-gray-50">
     <div class="content">
         {@render children()}
     </div>
 
-    <footer class="border-t border-gray-300">
+    <footer class="border-t border-gray-300 bg-white">
         <div class="page px-5 py-3 text-xs text-gray-500 flex items-center justify-between">
             <nav class="flex items-center gap-1">
                 <a
@@ -61,7 +61,13 @@
 <style>
     .page-wrap {
         position: relative;
+        display: flex;
+        flex-direction: column;
         min-height: 100vh;
+    }
+
+    .content {
+        flex: 1;
     }
 
     .metrics-root {

@@ -15,7 +15,7 @@
     {/if}
 </svelte:head>
 
-<main class="page px-5 pt-12 pb-24">
+<main class="page-narrow">
     {#if page.status === 404}
         <p class="font-mono text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">404</p>
 

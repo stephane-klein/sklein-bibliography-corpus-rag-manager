@@ -8,7 +8,7 @@
     <title>{m.my_prefs_title()} — {m.app_name()}</title>
 </svelte:head>
 
-<main class="page px-5 pt-9 pb-24">
+<main class="page-narrow">
     <h1 class="text-xl font-bold mb-7 tracking-tight">{m.my_prefs_title()}</h1>
 
     <div class="mb-9">

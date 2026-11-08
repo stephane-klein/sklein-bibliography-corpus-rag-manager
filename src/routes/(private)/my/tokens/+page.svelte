@@ -24,7 +24,7 @@
     <title>{m.my_tokens_title()} — {m.app_name()}</title>
 </svelte:head>
 
-<main class="page px-5 pt-9 pb-24">
+<main class="page-narrow">
     <h1 class="text-xl font-bold mb-7 tracking-tight">{m.my_tokens_title()}</h1>
 
     {#if form?.created && form?.raw}

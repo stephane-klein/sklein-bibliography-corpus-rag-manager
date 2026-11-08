@@ -8,7 +8,7 @@
     <title>{m.dashboard_title()} — {m.app_name()}</title>
 </svelte:head>
 
-<main class="page px-5 pt-9 pb-24">
+<main class="page-narrow">
     <h1 class="text-xl font-bold mb-2 tracking-tight">{m.dashboard_title()}</h1>
     <p class="text-gray-500 text-sm mb-6">{m.dashboard_welcome({ name: data.user.display_name })}</p>
 

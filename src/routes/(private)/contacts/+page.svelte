@@ -8,7 +8,7 @@
     <title>{m.contacts_title()} — {m.app_name()}</title>
 </svelte:head>
 
-<main class="page px-5 pt-7 pb-16">
+<main class="page bg-white px-5 pt-7 pb-16">
     <div class="flex items-baseline gap-3 mb-5">
         <h1 class="text-xl font-bold">{m.contacts_title()}</h1>
         <span class="text-sm text-gray-500">{data.totalPages > 0 ? `${data.contacts.length} / 1000` : ""}</span>
