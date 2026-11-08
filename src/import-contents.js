@@ -113,7 +113,9 @@ const documents = await Promise.all(
             slug,
             title: titleOf(frontmatter, body, slug),
             content: body,
-            sourceUrl: typeof frontmatter.source_url === "string" ? frontmatter.source_url : null,
+            sourceUrl: normalizeSourceUrl(frontmatter.source_url),
+            authors: normalizeAuthors(frontmatter.authors),
+            originalPublishedDate: normalizeOriginalPublishedDate(frontmatter.original_published_date),
             markdownSourceFile: relativeToContents,
             markdownSourceFileHash: `sha256:${createHash("sha256").update(raw).digest("hex")}`,
             // Rough estimate: four characters per token, frontmatter excluded.
@@ -203,6 +205,8 @@ function toApiDocument(document) {
         title: document.title,
         content: document.content,
         source_url: document.sourceUrl,
+        authors: document.authors,
+        original_published_date: document.originalPublishedDate,
         markdown_source_file: document.markdownSourceFile,
         markdown_source_file_hash: document.markdownSourceFileHash,
         markdown_source_file_estimate_token_count: document.markdownSourceFileEstimateTokenCount,
@@ -221,6 +225,34 @@ function parseMarkdown(text) {
     const frontmatter = parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
 
     return { frontmatter, body: text.slice(match[0].length) };
+}
+
+function normalizeSourceUrl(value) {
+    return typeof value === "string" && value.trim() ? value.trim() : null;
+}
+
+function normalizeAuthors(value) {
+    if (Array.isArray(value)) {
+        return value.filter((author) => typeof author === "string" && author.trim()).map((author) => author.trim());
+    }
+
+    return typeof value === "string" && value.trim() ? [value.trim()] : [];
+}
+
+function normalizeOriginalPublishedDate(value) {
+    if (value instanceof Date) {
+        return value.toISOString().slice(0, 10);
+    }
+
+    if (typeof value === "string" && value.trim()) {
+        return value.trim();
+    }
+
+    if (Number.isInteger(value)) {
+        return String(value);
+    }
+
+    return null;
 }
 
 function titleOf(frontmatter, body, fallback) {

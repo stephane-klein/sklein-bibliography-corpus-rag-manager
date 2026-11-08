@@ -44,11 +44,33 @@ const relativeSlug = pipe(
     ),
 );
 
+const httpUrl = pipe(
+    string(),
+    check((value) => {
+        try {
+            const url = new URL(value);
+            return url.protocol === "http:" || url.protocol === "https:";
+        } catch {
+            return false;
+        }
+    }, "must be an http(s) URL"),
+);
+
+const partialIsoDate = pipe(
+    string(),
+    check(
+        (value) => /^[0-9]{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12][0-9]|3[01]))?)?$/.test(value),
+        "must be an ISO 8601 partial date: YYYY, YYYY-MM, or YYYY-MM-DD",
+    ),
+);
+
 export const contentNodeUpsertSchema = object({
     slug: relativeSlug,
     title: pipe(string(), minLength(1)),
     content: pipe(string(), minLength(1)),
-    source_url: optional(nullable(string())),
+    source_url: optional(nullable(httpUrl)),
+    authors: optional(array(pipe(string(), minLength(1)))),
+    original_published_date: optional(nullable(partialIsoDate)),
     markdown_source_file: relativeMarkdownPath(),
     markdown_source_file_hash: pipe(
         string(),

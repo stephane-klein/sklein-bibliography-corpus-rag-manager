@@ -27,12 +27,18 @@ CREATE TABLE hierarchical_content_nodes (
     title                                     TEXT NOT NULL,
     content                                   TEXT NOT NULL,
     source_url                                TEXT,
+    authors                                   TEXT[] NOT NULL DEFAULT '{}',
+    original_published_date                   TEXT
+        CHECK (original_published_date ~ '^[0-9]{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12][0-9]|3[01]))?)?$'),
     markdown_source_file                      TEXT NOT NULL UNIQUE,
     markdown_source_file_hash                 TEXT NOT NULL,
     markdown_source_file_estimate_token_count INTEGER NOT NULL
         CHECK (markdown_source_file_estimate_token_count >= 0),
     metadata                                  JSONB NOT NULL DEFAULT '{}'::jsonb
 );
+
+CREATE INDEX idx_hierarchical_content_nodes_original_published_date
+    ON hierarchical_content_nodes (original_published_date DESC NULLS LAST, id DESC);
 
 CREATE TABLE users (
     id              TEXT                     NOT NULL PRIMARY KEY,
