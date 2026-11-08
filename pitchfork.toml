@@ -41,9 +41,12 @@ depends = ["postgres", "seed", "mailpit"]
 env = { SMTP_PORT = "{{ daemons.mailpit.ports[0] }}" }
 auto = ["stop"]
 port = { expect = [5173], bump = true }
-ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/ready", timeout = "5s" }
+ready_cmd = { run = "./scripts/check-webapp-ready.sh", timeout = "5s" }
 health_cmd = { run = "curl -fsS http://127.0.0.1:$PORT/-/healthy", interval = "200s", timeout = "5s", retries = 3 }
 retry = 3
+
+[daemons.webapp.hooks]
+on_exit = "rm -f .pitchfork-webapp-port"
 
 [daemons.build]
 run = "CSRF_TRUSTED_ORIGINS='*' pnpm run build"

@@ -2,6 +2,7 @@ node_modules/
 dist/
 .svelte-kit/
 build/
+.pitchfork-webapp-port
 .secret
 NEXT_STEPS.md
 TODO.md

@@ -1,4 +1,5 @@
 import { toJsonSchema } from "@valibot/to-json-schema";
+import { contentNodeSyncSchema } from "#lib/schemas/content-node.js";
 import { userFieldsSchema, userPatchSchema } from "#lib/schemas/user.js";
 
 // Request-body schemas are derived from the valibot schemas that actually
@@ -45,6 +46,13 @@ const userPatchJson = annotate(stripSchemaMeta(toJsonSchema(userPatchSchema)), {
     required: [],
     props: { ...upsertAnnotations, is_active: { description: "Whether the account is active" } },
 });
+
+// The runtime schema uses `check` actions that have no JSON Schema equivalent.
+// `errorMode: "ignore"` keeps the structural schema and lets the handler enforce
+// the path and hash formats.
+const contentNodeSyncJson = stripSchemaMeta(
+    toJsonSchema(contentNodeSyncSchema, { target: "openapi-3.0", errorMode: "ignore" }),
+);
 
 export function GET() {
     return Response.json({
@@ -281,6 +289,43 @@ export function GET() {
                                         type: "object",
                                         properties: {
                                             data: { $ref: "#/components/schemas/AdminUserSyncResult" },
+                                            _links: { $ref: "#/components/schemas/Links" },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                        400: { $ref: "#/components/responses/BadRequest" },
+                        401: { $ref: "#/components/responses/Unauthorized" },
+                        409: { $ref: "#/components/responses/Conflict" },
+                        422: { $ref: "#/components/responses/Unprocessable" },
+                        500: { $ref: "#/components/responses/InternalError" },
+                    },
+                },
+            },
+            "/api/v1/admin/hierarchical-content-nodes/sync": {
+                put: {
+                    summary: "Upsert or prune content nodes (admin, idempotent)",
+                    description:
+                        "Upserts Markdown content nodes by markdown_source_file and optionally deletes rows under a scope that are not listed in prune.keep. The CLI sends one document per request, then a prune-only request.",
+                    security: [{ adminBearer: [] }],
+                    requestBody: {
+                        required: true,
+                        content: {
+                            "application/json": {
+                                schema: { $ref: "#/components/schemas/ContentNodeSyncRequest" },
+                            },
+                        },
+                    },
+                    responses: {
+                        200: {
+                            description: "Content nodes synchronized",
+                            content: {
+                                "application/json": {
+                                    schema: {
+                                        type: "object",
+                                        properties: {
+                                            data: { $ref: "#/components/schemas/ContentNodeSyncResult" },
                                             _links: { $ref: "#/components/schemas/Links" },
                                         },
                                     },
@@ -566,6 +611,49 @@ export function GET() {
                         },
                     },
                 },
+                ContentNodeSyncRequest: {
+                    ...contentNodeSyncJson,
+                },
+                ContentNodeSyncItem: {
+                    type: "object",
+                    properties: {
+                        nanoid: { type: "string", pattern: "^[0-9a-z]{10}$", example: "a1b2c3d4e5" },
+                        slug: {
+                            type: "string",
+                            example:
+                                "mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9",
+                        },
+                        markdown_source_file: {
+                            type: "string",
+                            example:
+                                "single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md",
+                        },
+                        action: {
+                            type: "string",
+                            enum: ["inserted", "updated", "unchanged"],
+                        },
+                    },
+                    required: ["nanoid", "slug", "markdown_source_file", "action"],
+                },
+                ContentNodeSyncResult: {
+                    type: "object",
+                    properties: {
+                        dry_run: { type: "boolean", example: false },
+                        inserted: { type: "integer", example: 1 },
+                        updated: { type: "integer", example: 0 },
+                        unchanged: { type: "integer", example: 0 },
+                        deleted: { type: "integer", example: 0 },
+                        items: {
+                            type: "array",
+                            items: { $ref: "#/components/schemas/ContentNodeSyncItem" },
+                        },
+                        deleted_paths: {
+                            type: "array",
+                            items: { type: "string" },
+                        },
+                    },
+                    required: ["dry_run", "inserted", "updated", "unchanged", "deleted", "items", "deleted_paths"],
+                },
                 ProblemDetail: {
                     type: "object",
                     properties: {
@@ -636,7 +724,8 @@ export function GET() {
                 adminBearer: {
                     type: "http",
                     scheme: "bearer",
-                    description: "Super admin token set via SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN environment variable",
+                    description:
+                        "Super admin token set via SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN environment variable",
                 },
             },
         },

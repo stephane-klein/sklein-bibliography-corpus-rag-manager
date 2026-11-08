@@ -58,6 +58,16 @@ run = "node src/migrate.js"
 [tasks.seed]
 run = "node src/seed.js"
 
+[tasks.import-contents]
+description = "Import a Markdown file or directory from contents/ into hierarchical_content_nodes"
+usage = '''
+arg "[path]" help="Markdown file or directory to import" default="contents/single-document-texts"
+flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
+flag "--dry-run" help="Report changes without writing to the database"
+flag "--prune" help="Delete rows whose source file no longer exists (directories only)"
+'''
+run = './scripts/import-contents.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}'
+
 [tasks.dump-schema]
 run = "./scripts/dump-schema.sh"
 

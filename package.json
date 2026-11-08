@@ -14,6 +14,7 @@
     "preview": "bash scripts/export-git-env.sh vite preview",
     "migrate": "node src/migrate.js",
     "seed": "node src/seed.js",
+    "import-contents": "node src/import-contents.js",
     "add-user": "node src/add-user.js",
     "create-api-token": "node src/create-api-token.js",
     "hash-password": "node src/hash-password.js"

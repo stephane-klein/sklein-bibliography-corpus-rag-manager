@@ -48,6 +48,25 @@ Default user (see [`./sqls/seeds/00002_users.sql`](./sqls/seeds/00002_users.sql)
 To send a test email, run `mise run send-test-mail`. Mailpit captures all the
 emails it sends: run `pitchfork proxy status` to get its URL.
 
+### Importing corpus contents
+
+`mise run import-contents` loads the Markdown files into
+`hierarchical_content_nodes`. The task accepts a directory or a single Markdown
+file:
+
+```bash
+$ mise run import-contents
+$ mise run import-contents contents/single-document-texts/mr-phi
+$ mise run import-contents contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md
+$ mise run import-contents contents/single-document-texts/mr-phi --dry-run
+```
+
+The webapp must be running. The CLI sends each document to
+`PUT /api/v1/admin/hierarchical-content-nodes/sync`.
+
+`--prune` removes rows whose source file no longer exists. It only works with a
+directory.
+
 ### Testing the built version of the webapp locally
 
 ```bash
@@ -63,7 +82,6 @@ $ pitchfork stop --local      # stop the daemons (PostgreSQL volume preserved)
 $ mise run teardown           # stop the daemons, remove containers and volumes (destructive, deletes PostgreSQL data)
 ```
 
-
 ## Local monitoring stack (VictoriaMetrics + Grafana)
 
 [`victoriametrics-grafana-test-dev/`](./victoriametrics-grafana-test-dev/)
@@ -75,4 +93,3 @@ $ pitchfork start grafana     # VictoriaMetrics + Grafana
 ```
 
 Go to Grafana: <http://localhost:3001> — `admin` / `admin123`.
-

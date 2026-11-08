@@ -15,6 +15,25 @@ CREATE TABLE contacts (
     created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
 );
 
+-- Flat content nodes imported from contents/. One row per Markdown file.
+-- Hierarchy columns (parent_id, level) will be added with the books import.
+-- markdown_source_file is relative to contents/; metadata stores the frontmatter.
+CREATE TABLE hierarchical_content_nodes (
+    id                                        SERIAL PRIMARY KEY,
+    created_at                                TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+    updated_at                                TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+    nanoid                                    nanoid NOT NULL UNIQUE DEFAULT generate_nanoid(10),
+    slug                                      TEXT NOT NULL UNIQUE,
+    title                                     TEXT NOT NULL,
+    content                                   TEXT NOT NULL,
+    source_url                                TEXT,
+    markdown_source_file                      TEXT NOT NULL UNIQUE,
+    markdown_source_file_hash                 TEXT NOT NULL,
+    markdown_source_file_estimate_token_count INTEGER NOT NULL
+        CHECK (markdown_source_file_estimate_token_count >= 0),
+    metadata                                  JSONB NOT NULL DEFAULT '{}'::jsonb
+);
+
 CREATE TABLE users (
     id              TEXT                     NOT NULL PRIMARY KEY,
     email           TEXT                     NOT NULL UNIQUE,
