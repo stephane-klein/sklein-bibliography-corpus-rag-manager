@@ -11,6 +11,23 @@ spec:
   storage:
     size: {{ .Values.cnpg.storage.size }}
 
+  postgresql:
+    shared_preload_libraries:
+      - pg_search
+    extensions:
+      - name: vector
+        image:
+          reference: {{ .Values.cnpg.extensions.vector.image }}
+      - name: pg_search
+        image:
+          reference: {{ .Values.cnpg.extensions.pgSearch.image }}
+        extension_control_path:
+          - share
+        dynamic_library_path:
+          - lib
+        ld_library_path:
+          - system
+
   bootstrap:
     initdb:
       database: {{ .Release.Name }}
@@ -19,6 +36,11 @@ spec:
       secret:
         name: {{ $.Release.Name }}-bootstrap
       {{- end }}
+      # The application runs migrations at startup and needs to create
+      # pg_search, which is not a trusted extension.
+      postInitApplicationSQL:
+        - |
+          ALTER ROLE "{{ .Release.Name }}" SUPERUSER;
 
   managed:
     roles:
@@ -26,3 +48,4 @@ spec:
         ensure: present
         login: true
         createdb: false
+        superuser: {{ .Values.cnpg.appRoleSuperuser }}

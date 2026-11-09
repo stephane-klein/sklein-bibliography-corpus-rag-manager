@@ -12,9 +12,9 @@ The container image is published on
 
 ## Prerequisites
 
-- **Kubernetes cluster** (tested on k3s)
+- **Kubernetes cluster** (tested on k3s 1.36)
 - **Helm** 3.8+
-- **CloudNativePG operator** installed in the cluster
+- **CloudNativePG operator** 1.28+ with Kubernetes image volume support
 
 ## Quick start
 
@@ -57,6 +57,20 @@ operator automatically generates an app secret named `<clusterName>-app`
 `password`. The connection URL is built at pod startup as
 `postgres://$(DB_USER):$(DB_PASSWORD)@$(DB_HOST):$(DB_PORT)/$(DB_NAME)` and
 exposed via `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL`.
+
+### PostgreSQL search extensions
+
+The cluster runs the CloudNativePG operand image with the ParadeDB extension
+image mounted through `spec.postgresql.extensions`. `shared_preload_libraries`
+includes `pg_search`. The application role is a superuser, so the migration can
+create the untrusted `pg_search` extension and its `pgvector` dependency. The
+BM25 index is created by the application migration; PostgreSQL maintains it
+automatically on every write.
+
+The `cnpg.extensions` values pin the pgvector and pg_search extension images.
+Keep them aligned with `paradedb/paradedb` used in development. ParadeDB
+Community does not replicate its index physically, so keep `cnpg.instances` at
+`1`.
 
 ### OpenID Connect (OIDC)
 

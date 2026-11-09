@@ -11,7 +11,7 @@ Based on the [SvelteKit SSR skeleton](https://github.com/stephane-klein/svelteki
 - Framework: SvelteKit 3 (SSR)
 - Bundler: Vite
 - Adapter: @sveltejs/adapter-node
-- Database: PostgreSQL 18
+- Database: PostgreSQL 18 with [ParadeDB pg_search (BM25)](https://github.com/paradedb/paradedb) and [pgvector](https://github.com/pgvector/pgvector)
 - SQL client: [postgres](https://github.com/porsager/postgres)
 - Migrations: [postgres-shift](https://github.com/porsager/postgres-shift)
 - Mail: [nodemailer](https://nodemailer.com/) over SMTP

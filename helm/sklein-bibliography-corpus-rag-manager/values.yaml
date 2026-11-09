@@ -21,7 +21,18 @@ cnpg:
   clusterName: sklein-bibliography-corpus-rag-manager
   namespace: ""
   instances: 1
-  imageName: ghcr.io/cloudnative-pg/postgresql:18.6
+  imageName: ghcr.io/cloudnative-pg/postgresql:18.6-minimal-trixie
+  # The application role owns the database and runs the migrations. It is a
+  # superuser so migrations can create untrusted extensions such as pg_search.
+  # This is acceptable because each application has its own CNPG cluster.
+  appRoleSuperuser: true
+  # Extension images mounted into the CNPG operand image by the operator.
+  # Keep these versions aligned with the ParadeDB image used in development.
+  extensions:
+    vector:
+      image: ghcr.io/cloudnative-pg/pgvector:0.8.6-18-trixie
+    pgSearch:
+      image: docker.io/paradedb/paradedb-extension:0.26.6-18-trixie
   storage:
     size: 1Gi
   # PostgreSQL `postgres` user password (auto-generated if empty)

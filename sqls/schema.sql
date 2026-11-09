@@ -1,6 +1,7 @@
 -- Example schema — replace with your actual consolidated schema
 -- The executable path is migrations + functions.sql; this file is a reference.
 CREATE EXTENSION IF NOT EXISTS pgcrypto;
+CREATE EXTENSION IF NOT EXISTS pg_search CASCADE;
 
 -- generate_nanoid() is defined in sqls/functions.sql.
 
@@ -39,6 +40,19 @@ CREATE TABLE hierarchical_content_nodes (
 
 CREATE INDEX idx_hierarchical_content_nodes_original_published_date
     ON hierarchical_content_nodes (original_published_date DESC NULLS LAST, id DESC);
+
+-- PostgreSQL maintains this index transactionally on every INSERT, UPDATE and
+-- DELETE. No application code is required in the sync endpoint.
+CREATE INDEX idx_hierarchical_content_nodes_bm25
+    ON hierarchical_content_nodes
+    USING paradedb (
+        id,
+        (content::pdb.simple('stemmer=french', 'ascii_folding=true')),
+        (authors::pdb.literal),
+        (original_published_date::pdb.literal),
+        created_at,
+        updated_at
+    );
 
 CREATE TABLE users (
     id              TEXT                     NOT NULL PRIMARY KEY,
