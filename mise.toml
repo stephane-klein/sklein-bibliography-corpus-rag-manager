@@ -23,6 +23,7 @@ pnpm = "12.16.1"
 helm = "4.3.1"
 pitchfork = "2.33.0"
 mailpit = "1.33.0"
+lnav = "0.14.1"
 
 [tasks.build]
 run = "pnpm run build"
@@ -67,6 +68,15 @@ flag "--dry-run" help="Report changes without writing to the database"
 flag "--prune" help="Delete rows whose source file no longer exists (directories only)"
 '''
 run = './scripts/import-contents.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}'
+
+[tasks.generate-sidecars]
+description = "Generate one .md.yaml sidecar per Markdown document in contents/single-document-texts"
+usage = '''
+arg "[path]" help="Markdown file or directory under contents/single-document-texts" default="contents/single-document-texts"
+flag "--dry-run" help="Report what would be written without writing"
+flag "--force" help="Regenerate sidecars even when the manifest matches"
+'''
+run = './scripts/generate-sidecars.sh --path "{{ usage.path }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.force %} --force{% endif %}'
 
 [tasks.dump-schema]
 run = "./scripts/dump-schema.sh"

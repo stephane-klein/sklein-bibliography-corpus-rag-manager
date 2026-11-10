@@ -15,6 +15,7 @@
     "migrate": "node src/migrate.js",
     "seed": "node src/seed.js",
     "import-contents": "node src/import-contents.js",
+    "generate-sidecars": "node src/generate-sidecars.js",
     "add-user": "node src/add-user.js",
     "create-api-token": "node src/create-api-token.js",
     "hash-password": "node src/hash-password.js"
@@ -28,6 +29,7 @@
     "@prometheus-io/client": "~0.16.1",
     "@scalar/sveltekit": "~0.3.33",
     "@valibot/to-json-schema": "~1.8.0",
+    "gpt-tokenizer": "~4.1.1",
     "js-yaml": "~5.5.0",
     "nanoid": "~6.0.2",
     "nodemailer": "~10.2.1",

@@ -20,6 +20,9 @@ importers:
       '@valibot/to-json-schema':
         specifier: ~1.8.0
         version: 1.8.0(valibot@1.5.0)
+      gpt-tokenizer:
+        specifier: ~4.1.1
+        version: 4.1.1
       js-yaml:
         specifier: ~5.5.0
         version: 5.5.0
@@ -1401,6 +1404,9 @@ packages:
   globby@11.1.0:
     resolution: {integrity: sha512-jhIXaOzy1sb8IyocaruWSn1TjmnBVs8Ayhcy83rmxNJ8q2uWKCAj3CnJY+KpGSXCueAPc0i05kVvVKtP1t9S3g==}
     engines: {node: '>=10'}
+
+  gpt-tokenizer@4.1.1:
+    resolution: {integrity: sha512-6yHFbXHA9K72ydpjAhYzcJFYTGROwj3RyKuSs0h4tdePoghkBj29vgSDn+nfEmOmKhhy1Mad2AiiVPRwGeaJRQ==}
 
   h3@2.0.8:
     resolution: {integrity: sha512-ENuKlF9kC6E6PrvY1PUyE0qkrnnPTIt2/v48uyEEfTVfgoiqBCE0uwwf++2XrWwT1gxjQBDLQ8PAsmZVniKvTw==}
@@ -3441,6 +3447,8 @@ snapshots:
       ignore: 5.3.2
       merge2: 1.4.1
       slash: 3.0.0
+
+  gpt-tokenizer@4.1.1: {}
 
   h3@2.0.8(crossws@0.4.17(srvx@1.0.8)):
     dependencies:

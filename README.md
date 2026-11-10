@@ -67,6 +67,41 @@ The webapp must be running. The CLI sends each document to
 `--prune` removes rows whose source file no longer exists. It only works with a
 directory.
 
+### Generating sidecars
+
+`mise run generate-sidecars` writes one `.md.yaml` sidecar next to each Markdown
+document under `contents/single-document-texts`. The task accepts a directory or
+a single Markdown file:
+
+```bash
+$ mise run generate-sidecars
+$ mise run generate-sidecars contents/single-document-texts/mr-phi
+$ mise run generate-sidecars contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md
+$ mise run generate-sidecars --dry-run
+$ mise run generate-sidecars --force
+```
+
+The command does not vectorize anything. It splits each document into
+paragraphs, counts tokens with the `cl100k_base` tokenizer, and stores the
+result in `source.md.yaml` next to `source.md`. The file contains a `manifest`
+section and a `chunks` list; each chunk has its heading path and token count.
+
+By default, the command skips a sidecar when its manifest has the same source
+hash, schema version, tokenizer, threshold and splitter, and when the number of
+chunks matches `chunk_count`. `--force` regenerates every sidecar. `--dry-run`
+reports what would be written without writing.
+
+`yq` reads the sidecars directly:
+
+```bash
+$ yq '.' contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md.yaml
+$ yq '.chunks[] | [.chunk_index, .content_token_count, .heading_path] | @tsv' contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md.yaml
+$ yq -o=json '.' contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md.yaml | jq .
+```
+
+The scope is limited to `contents/single-document-texts`. Books under
+`contents/books/` need hierarchy fields and will be handled later.
+
 ### Testing the built version of the webapp locally
 
 ```bash
