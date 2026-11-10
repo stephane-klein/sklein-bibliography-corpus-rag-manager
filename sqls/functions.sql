@@ -31,6 +31,22 @@
 --
 -- COMMENT ON FUNCTION contacts_count() IS 'Example function — returns the number of rows in contacts.';
 
+-- IMMUTABLE wrapper around unaccent() for the trigram GIN indexes on
+-- hierarchical_content_nodes (title, authors). PostgreSQL only accepts
+-- IMMUTABLE expressions in an index, and unaccent() is STABLE. The search query
+-- also calls it so both sides of the comparison are normalised the same way.
+CREATE OR REPLACE FUNCTION immutable_unaccent(input_text TEXT) RETURNS TEXT
+LANGUAGE sql IMMUTABLE PARALLEL SAFE STRICT
+SET search_path FROM CURRENT
+RETURN unaccent(input_text);
+
+-- array_to_string() is STABLE, and PostgreSQL rejects an index expression that
+-- calls any non-IMMUTABLE function. This wrapper joins authors with spaces for
+-- the trigram index on hierarchical_content_nodes.
+CREATE OR REPLACE FUNCTION immutable_authors_text(authors TEXT[]) RETURNS TEXT
+LANGUAGE sql IMMUTABLE PARALLEL SAFE STRICT
+RETURN array_to_string(authors, ' ');
+
 -- `contacts.nanoid` uses this function as a DEFAULT, so do not DROP it.
 -- `CREATE OR REPLACE` keeps the dependency intact.
 CREATE OR REPLACE FUNCTION generate_nanoid(

@@ -2,8 +2,11 @@
 -- The executable path is migrations + functions.sql; this file is a reference.
 CREATE EXTENSION IF NOT EXISTS pgcrypto;
 CREATE EXTENSION IF NOT EXISTS pg_search CASCADE;
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+CREATE EXTENSION IF NOT EXISTS unaccent;
 
--- generate_nanoid() is defined in sqls/functions.sql.
+-- generate_nanoid(), immutable_unaccent() and immutable_authors_text() are
+-- defined in sqls/functions.sql.
 
 CREATE DOMAIN nanoid AS TEXT
     CONSTRAINT nanoid_format CHECK (VALUE ~ '^[0-9a-z]{10}$');
@@ -53,6 +56,17 @@ CREATE INDEX idx_hierarchical_content_nodes_bm25
         created_at,
         updated_at
     );
+
+-- Accent- and typo-tolerant search on the bibliographic metadata. The `_q`
+-- filter searches titles and authors with word_similarity() and an OR between
+-- the words; these GIN indexes make the `<%` operator fast.
+CREATE INDEX idx_hierarchical_content_nodes_title_unaccent_trgm
+    ON hierarchical_content_nodes
+    USING GIN (immutable_unaccent(title) gin_trgm_ops);
+
+CREATE INDEX idx_hierarchical_content_nodes_authors_unaccent_trgm
+    ON hierarchical_content_nodes
+    USING GIN (immutable_unaccent(immutable_authors_text(authors)) gin_trgm_ops);
 
 CREATE TABLE users (
     id              TEXT                     NOT NULL PRIMARY KEY,

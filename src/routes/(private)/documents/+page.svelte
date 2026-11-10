@@ -21,35 +21,38 @@
 
     <form
         method="GET"
-        class="flex flex-wrap items-end gap-2 mb-5"
+        class="mb-5"
     >
-        <div class="grow">
-            <label
-                for="q"
-                class="block text-sm font-semibold mb-1">{m.documents_search_label()}</label
-            >
-            <input
-                type="search"
-                id="q"
-                name="q"
-                value={data.q}
-                placeholder={m.documents_search_placeholder()}
-                autocomplete="off"
-                class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
-            />
-        </div>
-        <button
-            type="submit"
-            class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 hover:border-blue-700"
+        <label
+            for="q"
+            class="block text-sm font-semibold mb-1">{m.documents_search_label()}</label
         >
-            {m.documents_search_submit()}
-        </button>
-        {#if data.q}
-            <a
-                href="/documents"
-                class="text-sm text-blue-600 hover:underline">{m.documents_search_clear()}</a
+        <div class="flex flex-wrap items-end gap-2">
+            <div class="grow">
+                <input
+                    type="search"
+                    id="q"
+                    name="q"
+                    value={data.q}
+                    placeholder={m.documents_search_placeholder()}
+                    autocomplete="off"
+                    class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
+                />
+            </div>
+            <button
+                type="submit"
+                class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 hover:border-blue-700"
             >
-        {/if}
+                {m.documents_search_submit()}
+            </button>
+            {#if data.q}
+                <a
+                    href="/documents"
+                    class="text-sm text-blue-600 hover:underline">{m.documents_search_clear()}</a
+                >
+            {/if}
+        </div>
+        <p class="text-xs text-gray-500 mt-1">{m.documents_search_help()}</p>
     </form>
 
     {#if data.documents.length === 0 && data.q}
