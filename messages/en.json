@@ -81,6 +81,7 @@
   "documents_column_title": "Title",
   "documents_column_authors": "Authors",
   "documents_column_original_date": "Original publication date",
+  "documents_column_published_on": "Published on",
   "documents_column_source": "Source",
   "documents_source_link": "source",
   "documents_back": "← Documents",
@@ -91,20 +92,48 @@
   "documents_page_info": "Page {page} of {total}",
   "documents_page_next": "Next ›",
   "documents_page_last": "Last »",
-  "documents_search_label": "Search the content",
+  "documents_search_label": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Search the content of the document",
+        "countPlural=other": "Search the content of the {count} documents"
+      }
+    }
+  ],
+  "documents_search_label_filtered": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Search the content of the filtered document",
+        "countPlural=other": "Search the content of the {count} filtered documents"
+      }
+    }
+  ],
   "documents_search_placeholder": "Content words",
   "documents_search_help": "BM25 search in the content. Quotes and AND/OR/NOT are supported.",
   "documents_search_submit": "Search",
   "documents_search_clear": "Clear search",
-  "documents_filters_label": "Restrict the selection",
+  "documents_filters_label": "Restrict the search to a selection of documents",
   "documents_filters_optional": "(optional)",
   "documents_filter_author": "Author",
   "documents_filter_title": "Title",
   "documents_filter_submit": "Filter",
-  "documents_filters_help": "Partial match, accents ignored. All words must match.",
+  "documents_filters_help": "The Author and Title fields define the selection. Partial match, accents ignored. All words must match.",
   "documents_selection_suffix": "in the selection",
   "documents_results_selection_suffix": "out of {selection}",
-  "documents_sorted_relevance": "Sorted by relevance",
+  "documents_sorted_relevance": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "sorted by relevance",
+        "countPlural=other": "sorted by relevance"
+      }
+    }
+  ],
   "documents_clear_filters": "Clear filters",
   "documents_clear_all": "Clear all",
   "documents_search_all_corpus": "Search the whole corpus",

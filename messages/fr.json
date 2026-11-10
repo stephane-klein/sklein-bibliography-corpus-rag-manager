@@ -81,6 +81,7 @@
   "documents_column_title": "Titre",
   "documents_column_authors": "Auteurs",
   "documents_column_original_date": "Date de publication originale",
+  "documents_column_published_on": "Publié le",
   "documents_column_source": "Source",
   "documents_source_link": "source",
   "documents_back": "← Documents",
@@ -91,20 +92,48 @@
   "documents_page_info": "Page {page} sur {total}",
   "documents_page_next": "Suivant ›",
   "documents_page_last": "Dernier »",
-  "documents_search_label": "Rechercher dans le contenu",
+  "documents_search_label": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Rechercher dans le contenu du document",
+        "countPlural=other": "Rechercher dans le contenu des {count} documents"
+      }
+    }
+  ],
+  "documents_search_label_filtered": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Rechercher dans le contenu du document filtré",
+        "countPlural=other": "Rechercher dans le contenu des {count} documents filtrés"
+      }
+    }
+  ],
   "documents_search_placeholder": "Mots du contenu",
   "documents_search_help": "Recherche BM25 dans le contenu. Guillemets et AND/OR/NOT acceptés.",
   "documents_search_submit": "Rechercher",
   "documents_search_clear": "Effacer la recherche",
-  "documents_filters_label": "Restreindre la sélection",
+  "documents_filters_label": "Restreindre la recherche à une sélection de documents",
   "documents_filters_optional": "(optionnel)",
   "documents_filter_author": "Auteur",
   "documents_filter_title": "Titre",
   "documents_filter_submit": "Filtrer",
-  "documents_filters_help": "Correspondance partielle, accents ignorés. Tous les mots doivent correspondre.",
+  "documents_filters_help": "Les champs Auteur et Titre définissent la sélection. Correspondance partielle, accents ignorés. Tous les mots doivent correspondre.",
   "documents_selection_suffix": "dans la sélection",
   "documents_results_selection_suffix": "sur {selection}",
-  "documents_sorted_relevance": "Triés par pertinence",
+  "documents_sorted_relevance": [
+    {
+      "declarations": ["input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "trié par pertinence",
+        "countPlural=other": "triés par pertinence"
+      }
+    }
+  ],
   "documents_clear_filters": "Effacer les filtres",
   "documents_clear_all": "Tout effacer",
   "documents_search_all_corpus": "Chercher dans tout le corpus",

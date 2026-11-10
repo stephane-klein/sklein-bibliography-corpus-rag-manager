@@ -90,6 +90,15 @@
     {/if}
 {/snippet}
 
+{#snippet selectionStatus()}
+    {m.documents_count({ count: data.selectionTotal })}
+    {m.documents_selection_suffix()} ·
+    <a
+        href={documentsHref({ author: "", title: "", page: "" })}
+        class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
+    >
+{/snippet}
+
 <main class="page px-5 pt-5 pb-10">
     <h1 class="sr-only">{m.documents_title()}</h1>
 
@@ -98,13 +107,13 @@
         action="/documents/"
     >
         <div class="mb-4">
-            <div class="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1 mb-1">
-                <label
-                    for="q"
-                    class="block text-sm font-semibold">{m.documents_search_label()}</label
-                >
-                <span class="text-xs text-gray-500">{m.documents_count({ count: data.corpusTotal })}</span>
-            </div>
+            <label
+                for="q"
+                class="block text-sm font-semibold mb-1"
+                >{data.filtered
+                    ? m.documents_search_label_filtered({ count: data.selectionTotal })
+                    : m.documents_search_label({ count: data.selectionTotal })}</label
+            >
             <div class="flex flex-wrap items-end gap-2">
                 <div class="grow">
                     <input
@@ -123,12 +132,6 @@
                 >
                     {m.documents_search_submit()}
                 </button>
-                {#if data.q}
-                    <a
-                        href={documentsHref({ q: "", page: "" })}
-                        class="text-sm text-blue-600 hover:underline">{m.documents_search_clear()}</a
-                    >
-                {/if}
             </div>
             <p class="text-xs text-gray-500 mt-1">{m.documents_search_help()}</p>
         </div>
@@ -139,7 +142,7 @@
                 <span class="font-normal text-gray-500">{m.documents_filters_optional()}</span></span
             >
             <div class="flex flex-wrap items-end gap-3">
-                <div class="grow">
+                <div class="w-56 shrink-0">
                     <label
                         for="author"
                         class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_author()}</label
@@ -153,7 +156,7 @@
                         class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
                     />
                 </div>
-                <div class="grow">
+                <div class="grow min-w-0">
                     <label
                         for="title"
                         class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_title()}</label
@@ -175,31 +178,32 @@
                 </button>
             </div>
             <p class="text-xs text-gray-500 mt-1">{m.documents_filters_help()}</p>
-            {#if data.filtered}
-                <p class="text-[13px] text-gray-600 mt-2">
-                    {m.documents_count({ count: data.selectionTotal })}
-                    {m.documents_selection_suffix()} ·
-                    <a
-                        href={documentsHref({ author: "", title: "", page: "" })}
-                        class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
-                    >
-                </p>
-            {/if}
         </div>
     </form>
 
     {#if data.hasQuery}
         {#if data.total > 0}
-            <div class="flex items-baseline justify-between gap-3 mt-6 pb-1.5 border-b-2 border-gray-300">
-                <h2 class="text-[15px] font-bold">
+            <div class="flex flex-wrap items-baseline justify-between gap-3 mt-6 pb-1.5 border-b-2 border-gray-300">
+                <h2 class="text-[13px] font-normal text-gray-500">
                     {m.documents_count({ count: data.total })}
                     {#if data.filtered}
-                        <span class="text-[13px] font-normal text-gray-500"
-                            >{m.documents_results_selection_suffix({ selection: data.selectionTotal })}</span
-                        >
+                        {m.documents_results_selection_suffix({ selection: data.selectionTotal })}
                     {/if}
+                    {m.documents_sorted_relevance({ count: data.total })}
                 </h2>
-                <span class="text-[13px] text-gray-500">{m.documents_sorted_relevance()}</span>
+                <span class="ml-auto text-[13px] text-gray-500">
+                    {#if data.filtered}
+                        <a
+                            href={documentsHref({ author: "", title: "", page: "" })}
+                            class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
+                        >
+                        ·
+                    {/if}
+                    <a
+                        href={documentsHref({ q: "", page: "" })}
+                        class="text-blue-600 hover:underline">{m.documents_search_clear()}</a
+                    >
+                </span>
             </div>
 
             <ol class="list-none m-0 p-0">
@@ -250,26 +254,39 @@
     {:else if data.corpusTotal === 0}
         <p class="text-sm text-gray-500 italic mt-5">{m.documents_empty()}</p>
     {:else}
-        <div class="overflow-x-auto">
-            <table class="w-full text-sm border-collapse">
+        <div class="overflow-x-auto mt-6">
+            <table class="w-full text-sm border-collapse table-fixed">
+                <colgroup>
+                    <col class="w-28" />
+                    <col class="w-36" />
+                    <col />
+                    <col class="w-20" />
+                </colgroup>
                 <thead>
                     <tr>
                         <th
-                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
-                            scope="col">{m.documents_column_original_date()}</th
+                            class="cursor-help text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                            scope="col"
+                            title={m.documents_column_original_date()}>{m.documents_column_published_on()}</th
                         >
                         <th
-                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
-                            scope="col">{m.documents_column_title()}</th
-                        >
-                        <th
-                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                            class="whitespace-nowrap text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
                             scope="col">{m.documents_column_authors()}</th
                         >
                         <th
-                            class="text-right text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 border-b-2 border-gray-300"
-                            scope="col">{m.documents_column_source()}</th
+                            colspan="2"
+                            scope="colgroup"
+                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 border-b-2 border-gray-300"
                         >
+                            <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                                <span>{m.documents_column_title()}</span>
+                                {#if data.filtered}
+                                    <span class="ml-auto text-xs font-normal normal-case tracking-normal text-gray-600">
+                                        {@render selectionStatus()}
+                                    </span>
+                                {/if}
+                            </div>
+                        </th>
                     </tr>
                 </thead>
                 <tbody>
@@ -278,13 +295,7 @@
                             <td class="py-1.5 pr-2 border-b border-gray-200 align-top text-gray-500 whitespace-nowrap">
                                 {doc.original_published_date ?? "—"}
                             </td>
-                            <td class="py-1.5 pr-2 border-b border-gray-200 align-top">
-                                <a
-                                    href="/documents/{doc.nanoid}/"
-                                    class="text-blue-600 no-underline hover:underline">{doc.title}</a
-                                >
-                            </td>
-                            <td class="py-1.5 pr-2 border-b border-gray-200 align-top">
+                            <td class="py-1.5 pr-2 border-b border-gray-200 align-top whitespace-nowrap">
                                 {#if doc.authors.length > 0}
                                     {#each doc.authors as author, index (index)}
                                         {#if index > 0}<span>, </span>{/if}<a
@@ -295,6 +306,12 @@
                                 {:else}
                                     —
                                 {/if}
+                            </td>
+                            <td class="py-1.5 pr-2 border-b border-gray-200 align-top">
+                                <a
+                                    href="/documents/{doc.nanoid}/"
+                                    class="text-blue-600 no-underline hover:underline">{doc.title}</a
+                                >
                             </td>
                             <td class="py-1.5 border-b border-gray-200 align-top text-right whitespace-nowrap">
                                 {#if doc.source_url}
