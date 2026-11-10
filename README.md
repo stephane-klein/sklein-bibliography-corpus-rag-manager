@@ -102,6 +102,61 @@ $ yq -o=json '.' contents/single-document-texts/mr-phi/2017-05-24_le-principe-de
 The scope is limited to `contents/single-document-texts`. Books under
 `contents/books/` need hierarchy fields and will be handled later.
 
+### Generating embeddings
+
+`mise run generate-embeddings` reads the `.md.yaml` sidecars, asks the webapp
+for vectors, and writes one `.md.embeddings.bin` file next to each sidecar. The
+command does not write to PostgreSQL.
+
+The webapp must be running with a Voyage API key:
+
+```bash
+$ export SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY="pa-..."
+```
+
+Generate the sidecars first, then the embeddings:
+
+```bash
+$ mise run generate-sidecars
+$ mise run generate-embeddings
+$ mise run generate-embeddings contents/single-document-texts/mr-phi
+$ mise run generate-embeddings --dry-run
+$ mise run generate-embeddings --force
+```
+
+The CLI calls `GET /api/v1/admin/embeddings` to read the document model and
+dimension, then `POST /api/v1/admin/embeddings` with `input_type: "document"` and
+one document's chunks. The webapp calls Voyage with AI SDK, and the API key never
+leaves the server.
+
+The document model is `voyage-4` with 1024 dimensions. Queries use
+`voyage-4-lite`; both models share the same embedding space, so you can change
+the query model without reindexing. The webapp returns `query_model` in the
+embedding configuration for the future search endpoint.
+
+Each binary file starts with a JSON header line (format, provider, model,
+dimension, chunk count, source hash, input format, input type and strategy)
+followed by Float32LE vectors. The YAML manifest stores `embedding_provider`,
+`embedding_model`, `dimension`, `embedding_file`, `embedding_format`,
+`embedding_input_format`, `embedding_input_type` and `embedding_strategy`.
+
+By default, the command skips a document when the manifest and the binary header
+match the source hash, the provider, the model, the dimension and the embedding
+strategy. `--force` regenerates everything. `--dry-run` reports what would be
+embedded without generating vectors.
+
+The embedding input is `heading_path + "\n\n" + text`. `text` stays the exact
+paragraph used for display and BM25.
+
+Override the defaults with
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_PROVIDER`,
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_MODEL`,
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_QUERY_MODEL`,
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_DIMENSION` and optionally
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_BASE_URL`. Set
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_PROVIDER=openai` to use OpenAI
+instead of Voyage.
+
 ### Testing the built version of the webapp locally
 
 ```bash

@@ -35,7 +35,7 @@ ready_cmd = { run = "curl -fsS http://127.0.0.1:$PORT1/readyz", timeout = "30s" 
 auto = ["stop"]
 
 [daemons.webapp]
-run = "bash scripts/export-git-env.sh vite dev --port=$PORT"
+run = "fnox exec -- bash scripts/export-git-env.sh vite dev --port=$PORT"
 stop_signal = { signal = "SIGTERM", timeout = "10s" }
 depends = ["postgres", "seed", "mailpit"]
 env = { SMTP_PORT = "{{ daemons.mailpit.ports[0] }}" }
@@ -53,7 +53,7 @@ run = "CSRF_TRUSTED_ORIGINS='*' pnpm run build"
 oneshot = true
 
 [daemons.preview]
-run = "pnpm run preview --port=$PORT"
+run = "fnox exec -- pnpm run preview --port=$PORT"
 stop_signal = { signal = "SIGTERM", timeout = "10s" }
 env = {
     SMTP_PORT = "{{ daemons.mailpit.ports[0] }}"

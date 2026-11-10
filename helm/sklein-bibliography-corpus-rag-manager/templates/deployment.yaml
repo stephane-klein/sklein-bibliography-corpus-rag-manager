@@ -104,6 +104,30 @@ spec:
             - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN
               value: {{ .Values.adminToken }}
             {{- end }}
+            {{- if .Values.embedding.provider }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_PROVIDER
+              value: {{ .Values.embedding.provider }}
+            {{- end }}
+            {{- if .Values.embedding.model }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_MODEL
+              value: {{ .Values.embedding.model }}
+            {{- end }}
+            {{- if .Values.embedding.queryModel }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_QUERY_MODEL
+              value: {{ .Values.embedding.queryModel }}
+            {{- end }}
+            {{- if .Values.embedding.dimension }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_DIMENSION
+              value: {{ .Values.embedding.dimension | quote }}
+            {{- end }}
+            {{- if .Values.embedding.baseUrl }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_BASE_URL
+              value: {{ .Values.embedding.baseUrl }}
+            {{- end }}
+            {{- if and .Values.embedding.apiKey (not .Values.secrets.existingSecret) }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY
+              value: {{ .Values.embedding.apiKey }}
+            {{- end }}
             {{- if .Values.smtp.host }}
             - name: SMTP_HOST
               value: {{ .Values.smtp.host }}

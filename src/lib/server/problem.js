@@ -6,6 +6,8 @@ export function problem(status, detail, instance) {
         404: "Not Found",
         409: "Conflict",
         422: "Unprocessable Entity",
+        502: "Bad Gateway",
+        503: "Service Unavailable",
     };
 
     return Response.json(

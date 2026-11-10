@@ -11,3 +11,4 @@ project.inlang/cache/
 project.inlang/.lix/
 
 *.md.yaml
+*.embeddings.bin

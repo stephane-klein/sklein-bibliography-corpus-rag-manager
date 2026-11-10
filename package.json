@@ -16,6 +16,7 @@
     "seed": "node src/seed.js",
     "import-contents": "node src/import-contents.js",
     "generate-sidecars": "node src/generate-sidecars.js",
+    "generate-embeddings": "node src/generate-embeddings.js",
     "add-user": "node src/add-user.js",
     "create-api-token": "node src/create-api-token.js",
     "hash-password": "node src/hash-password.js"
@@ -25,10 +26,12 @@
     "#lib/*": "./src/lib/*"
   },
   "dependencies": {
+    "@ai-sdk/openai": "~4.0.111",
     "@node-rs/argon2": "~2.2.2",
     "@prometheus-io/client": "~0.16.1",
     "@scalar/sveltekit": "~0.3.33",
     "@valibot/to-json-schema": "~1.8.0",
+    "ai": "~7.0.166",
     "gpt-tokenizer": "~4.1.1",
     "js-yaml": "~5.5.0",
     "nanoid": "~6.0.2",
@@ -38,6 +41,7 @@
     "postgres": "~3.4.9",
     "postgres-shift": "~1.0.2",
     "valibot": "~1.5.0",
+    "voyage-ai-provider": "~5.0.0",
     "yargs": "~18.2.0"
   },
   "devDependencies": {

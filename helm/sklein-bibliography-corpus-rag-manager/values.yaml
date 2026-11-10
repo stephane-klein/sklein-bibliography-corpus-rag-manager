@@ -83,6 +83,18 @@ addressHeader: ""
 # SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN key of that Secret is injected via envFrom.
 adminToken: ""
 
+# Embedding generation for sidecars. Voyage is the default provider; set
+# provider to openai to use the OpenAI-compatible client instead. The API key is
+# only used when secrets.existingSecret is NOT set; otherwise the Secret must
+# expose SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY.
+embedding:
+  provider: voyage
+  model: voyage-4
+  queryModel: voyage-4-lite
+  dimension: 1024
+  baseUrl: ""
+  apiKey: ""
+
 # OpenID Connect / Authelia configuration
 oidc:
   enabled: false
@@ -93,12 +105,13 @@ oidc:
   clientSecret: ""
 
 # Secrets injected into the container via envFrom.
-# When set, the three following values are taken from an existing Secret
+# When set, the four following values are taken from an existing Secret
 # instead of being passed as literal env vars:
 #   - oidc.clientSecret -> AUTHELIA_CLIENT_SECRET
 #   - adminToken        -> SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN
 #   - smtp.pass         -> SMTP_PASS
-# The referenced Secret must expose those three keys.
+#   - embedding.apiKey  -> SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY
+# The referenced Secret must expose those four keys.
 secrets:
   existingSecret: ""
 

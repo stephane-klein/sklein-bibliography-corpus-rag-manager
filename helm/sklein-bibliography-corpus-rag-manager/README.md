@@ -72,6 +72,20 @@ Keep them aligned with `paradedb/paradedb` used in development. ParadeDB
 Community does not replicate its index physically, so keep `cnpg.instances` at
 `1`.
 
+### Embeddings
+
+The embedding endpoint uses Voyage by default. Configure it with:
+
+- `embedding.provider` (default `voyage`; set `openai` for the OpenAI-compatible client)
+- `embedding.model` (default `voyage-4`)
+- `embedding.queryModel` (default `voyage-4-lite`)
+- `embedding.dimension` (default `1024`)
+- `embedding.baseUrl` (optional)
+- `embedding.apiKey` (only when `secrets.existingSecret` is not set)
+
+When `secrets.existingSecret` is set, the Secret must also expose
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY`.
+
 ### OpenID Connect (OIDC)
 
 The application can authenticate users via OpenID Connect. The implementation

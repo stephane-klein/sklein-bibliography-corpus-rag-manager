@@ -4,3 +4,8 @@ node_modules/
 .jj/
 deployment-playground/
 build/
+
+# Generated from contents/ by the sidecar and embedding CLIs.
+contents/**/*.md.jsonl
+contents/**/*.md.yaml
+contents/**/*.embeddings.bin

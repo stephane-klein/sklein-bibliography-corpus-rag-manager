@@ -78,6 +78,16 @@ flag "--force" help="Regenerate sidecars even when the manifest matches"
 '''
 run = './scripts/generate-sidecars.sh --path "{{ usage.path }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.force %} --force{% endif %}'
 
+[tasks.generate-embeddings]
+description = "Generate .md.embeddings.bin files for the YAML sidecars"
+usage = '''
+arg "[path]" help="Markdown file or directory under contents/single-document-texts" default="contents/single-document-texts"
+flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
+flag "--dry-run" help="Report what would be embedded without generating vectors"
+flag "--force" help="Regenerate embeddings even when they match"
+'''
+run = './scripts/generate-embeddings.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.force %} --force{% endif %}'
+
 [tasks.dump-schema]
 run = "./scripts/dump-schema.sh"
 

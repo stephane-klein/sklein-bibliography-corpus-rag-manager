@@ -1,5 +1,6 @@
 import { toJsonSchema } from "@valibot/to-json-schema";
 import { contentNodeSyncSchema } from "#lib/schemas/content-node.js";
+import { embeddingRequestSchema } from "#lib/schemas/embedding.js";
 import { userFieldsSchema, userPatchSchema } from "#lib/schemas/user.js";
 
 // Request-body schemas are derived from the valibot schemas that actually
@@ -52,6 +53,9 @@ const userPatchJson = annotate(stripSchemaMeta(toJsonSchema(userPatchSchema)), {
 // the path and hash formats.
 const contentNodeSyncJson = stripSchemaMeta(
     toJsonSchema(contentNodeSyncSchema, { target: "openapi-3.0", errorMode: "ignore" }),
+);
+const embeddingRequestJson = stripSchemaMeta(
+    toJsonSchema(embeddingRequestSchema, { target: "openapi-3.0", errorMode: "ignore" }),
 );
 
 export function GET() {
@@ -363,6 +367,65 @@ export function GET() {
                         },
                         401: { $ref: "#/components/responses/Unauthorized" },
                         500: { $ref: "#/components/responses/InternalError" },
+                    },
+                },
+            },
+            "/api/v1/admin/embeddings": {
+                get: {
+                    summary: "Get the embedding model configuration (admin)",
+                    security: [{ adminBearer: [] }],
+                    responses: {
+                        200: {
+                            description: "Configured embedding provider",
+                            content: {
+                                "application/json": {
+                                    schema: {
+                                        type: "object",
+                                        properties: {
+                                            data: { $ref: "#/components/schemas/EmbeddingInfo" },
+                                            _links: { $ref: "#/components/schemas/Links" },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                        401: { $ref: "#/components/responses/Unauthorized" },
+                        500: { $ref: "#/components/responses/InternalError" },
+                    },
+                },
+                post: {
+                    summary: "Generate embeddings for a batch of texts (admin)",
+                    description:
+                        "The model and dimension come from the server configuration. Set input_type to document for chunks and query for search queries. Vectors are returned in the same order as the input texts.",
+                    security: [{ adminBearer: [] }],
+                    requestBody: {
+                        required: true,
+                        content: {
+                            "application/json": {
+                                schema: { $ref: "#/components/schemas/EmbeddingRequest" },
+                            },
+                        },
+                    },
+                    responses: {
+                        200: {
+                            description: "Embeddings generated",
+                            content: {
+                                "application/json": {
+                                    schema: {
+                                        type: "object",
+                                        properties: {
+                                            data: { $ref: "#/components/schemas/EmbeddingResult" },
+                                            _links: { $ref: "#/components/schemas/Links" },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                        400: { $ref: "#/components/responses/BadRequest" },
+                        401: { $ref: "#/components/responses/Unauthorized" },
+                        422: { $ref: "#/components/responses/Unprocessable" },
+                        500: { $ref: "#/components/responses/InternalError" },
+                        502: { $ref: "#/components/responses/BadGateway" },
                     },
                 },
             },
@@ -690,6 +753,43 @@ export function GET() {
                     },
                     required: ["index", "mutable", "num_docs", "duration_ms"],
                 },
+                EmbeddingInfo: {
+                    type: "object",
+                    properties: {
+                        provider: { type: "string", example: "voyage" },
+                        model: { type: "string", example: "voyage-4" },
+                        query_model: { type: "string", example: "voyage-4-lite" },
+                        dimension: { type: "integer", example: 1024 },
+                    },
+                    required: ["provider", "model", "query_model", "dimension"],
+                },
+                EmbeddingRequest: {
+                    ...embeddingRequestJson,
+                },
+                EmbeddingResult: {
+                    type: "object",
+                    properties: {
+                        provider: { type: "string", example: "voyage" },
+                        model: { type: "string", example: "voyage-4" },
+                        query_model: { type: "string", example: "voyage-4-lite" },
+                        dimension: { type: "integer", example: 1024 },
+                        embeddings: {
+                            type: "array",
+                            items: {
+                                type: "array",
+                                items: { type: "number" },
+                            },
+                        },
+                        usage: {
+                            type: "object",
+                            properties: {
+                                tokens: { type: "integer", example: 1234 },
+                            },
+                            required: ["tokens"],
+                        },
+                    },
+                    required: ["provider", "model", "query_model", "dimension", "embeddings", "usage"],
+                },
                 ProblemDetail: {
                     type: "object",
                     properties: {
@@ -744,6 +844,14 @@ export function GET() {
                 },
                 InternalError: {
                     description: "Internal Server Error",
+                    content: {
+                        "application/problem+json": {
+                            schema: { $ref: "#/components/schemas/ProblemDetail" },
+                        },
+                    },
+                },
+                BadGateway: {
+                    description: "Bad Gateway",
                     content: {
                         "application/problem+json": {
                             schema: { $ref: "#/components/schemas/ProblemDetail" },
