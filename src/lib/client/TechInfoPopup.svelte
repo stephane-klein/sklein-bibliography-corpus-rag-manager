@@ -9,6 +9,8 @@
 
     let open = $state(false);
     let navStart = 0;
+    let navTotalMs = null;
+    let latestDataEntry = null;
     let observer;
     let popupEl = $state(null);
 
@@ -23,43 +25,62 @@
         return `${(bytes / 1024).toFixed(1)} KB`;
     }
 
-    function fromServerTiming(entry, networkMs, prefix) {
+    function requestMetrics(entry, prefix) {
         const st = entry.serverTiming;
         if (!st?.length) return null;
+
         const get = (suffix) => st.find((s) => s.name === `${prefix}-${suffix}`)?.duration ?? 0;
+        const processingMs = get("processing");
+        const requestMs = entry.responseEnd - entry.requestStart;
+
         return {
             sqlQueryCount: get("pgcount"),
             sqlQueryMs: get("pgtime"),
-            processingMs: get("processing"),
-            networkMs,
-            totalMs: get("processing") + networkMs,
+            processingMs,
+            // requestMs includes the server processing, so subtract it to keep
+            // the three displayed durations additive and non-overlapping.
+            networkMs: Math.max(0, requestMs - processingMs),
+            totalMs: requestMs,
+            transferSize: entry.transferSize,
+            decodedBodySize: entry.decodedBodySize,
         };
     }
 
     function initNavigationMetrics() {
         const nav = performance.getEntriesByType("navigation")[0];
         if (!nav) return;
-        const networkMs = nav.responseEnd - nav.requestStart;
-        const ssr = fromServerTiming(nav, networkMs, "ssr");
-        if (ssr)
-            pageMetrics.set({
-                ssr: { ...ssr, transferSize: nav.transferSize, decodedBodySize: nav.decodedBodySize },
-                csr: null,
-            });
+
+        const ssr = requestMetrics(nav, "ssr");
+        if (!ssr) return;
+
+        pageMetrics.set({
+            ssr: { ...ssr, clientStartupMs: performance.now() - nav.responseEnd },
+            csr: null,
+        });
+    }
+
+    function applyCsr(entry, totalMs = null) {
+        const csr = requestMetrics(entry, "csr");
+        if (!csr) return;
+
+        pageMetrics.update((m) => ({
+            ...m,
+            csr: {
+                ...csr,
+                // Wall time minus the data request leaves only the client render.
+                clientRenderMs: totalMs === null ? null : Math.max(0, totalMs - csr.totalMs),
+                totalMs: totalMs ?? csr.totalMs,
+            },
+        }));
     }
 
     function initCsrObserver() {
         const obs = new PerformanceObserver((list) => {
             for (const entry of list.getEntries()) {
                 if (!entry.name.includes("__data.json")) continue;
-                const r = entry;
-                const networkMs = r.responseEnd - r.requestStart;
-                const csr = fromServerTiming(r, networkMs, "csr");
-                if (csr)
-                    pageMetrics.update((m) => ({
-                        ...m,
-                        csr: { ...csr, transferSize: r.transferSize, decodedBodySize: r.decodedBodySize },
-                    }));
+                if (navStart && entry.responseEnd < navStart) continue;
+                latestDataEntry = entry;
+                applyCsr(entry, navTotalMs);
             }
         });
         obs.observe({ entryTypes: ["resource"] });
@@ -68,15 +89,11 @@
 
     onMount(() => {
         if (!browser) return;
+        // Vite serves one module per request in development, so the default
+        // 250-entry resource timing buffer fills up quickly.
+        performance.setResourceTimingBufferSize(1000);
         initNavigationMetrics();
         observer = initCsrObserver();
-
-        const nav = performance.getEntriesByType("navigation")[0];
-        if (nav) {
-            const clientStartupMs = performance.now() - nav.responseEnd;
-            pageMetrics.update((m) => (m.ssr ? { ...m, ssr: { ...m.ssr, clientStartupMs } } : m));
-        }
-
         document.addEventListener("click", handleClickOutside);
     });
 
@@ -98,22 +115,31 @@
 
         performance.mark("nav-start");
         navStart = performance.now();
+        navTotalMs = null;
     });
 
     afterNavigate(async ({ shallow, type }) => {
         if (shallow && type === "goto") return;
+        if (!navStart) return;
 
-        if (performance.getEntriesByName("nav-start").length) {
-            performance.mark("nav-end");
-            performance.measure("CSR Navigation", "nav-start", "nav-end");
-        }
+        performance.mark("nav-end");
+        performance.measure("CSR Navigation", "nav-start", "nav-end");
 
-        const clientRenderMs = performance.now() - navStart;
         await tick();
         await new Promise((r) => setTimeout(r, 0));
-        pageMetrics.update((m) =>
-            m.csr ? { ...m, csr: { ...m.csr, clientRenderMs, totalMs: m.csr.totalMs + clientRenderMs } } : m,
-        );
+
+        navTotalMs = performance.now() - navStart;
+
+        // The resource timing entry may already be recorded, or it may arrive
+        // later through the observer. Apply the wall time now if it is known.
+        const entry =
+            performance
+                .getEntriesByType("resource")
+                .filter((e) => e.name.includes("__data.json") && e.responseEnd >= navStart)
+                .at(-1) ?? (latestDataEntry?.responseEnd >= navStart ? latestDataEntry : null);
+
+        if (!entry) return;
+        applyCsr(entry, navTotalMs);
     });
 </script>
 

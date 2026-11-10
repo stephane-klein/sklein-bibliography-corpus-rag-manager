@@ -19,22 +19,44 @@ const raw = postgres(POSTGRES_URL, {
 const INSTRUMENTED = Symbol("instrumented");
 
 function wrapQuery(query, sqlStr) {
-    const startTime = performance.now();
-    const end = sqlDuration.startTimer({ query: sqlStr });
+    let startedAt = 0;
+    let endTimer = null;
+    let store = null;
+    let recorded = false;
+
+    function record() {
+        if (recorded || endTimer === null) return;
+        recorded = true;
+        endTimer();
+        endTimer = null;
+        store?.queries.push({ durationMs: performance.now() - startedAt });
+    }
+
     const originalHandle = query.handle;
+    const originalResolve = query.resolve;
+    const originalReject = query.reject;
+
     query.handle = function () {
-        try {
-            return originalHandle.apply(this, arguments);
-        } finally {
-            end();
-            const store = getMetrics();
-            if (store) {
-                store.queries.push({
-                    durationMs: performance.now() - startTime,
-                });
-            }
+        if (endTimer === null) {
+            startedAt = performance.now();
+            endTimer = sqlDuration.startTimer({ query: sqlStr });
+            // Capture the request store here: resolve() may run in the
+            // connection's async context, not the request's.
+            store = getMetrics();
         }
+        return originalHandle.apply(this, arguments);
     };
+
+    query.resolve = function (value) {
+        record();
+        return originalResolve.call(this, value);
+    };
+
+    query.reject = function (error) {
+        record();
+        return originalReject.call(this, error);
+    };
+
     return query;
 }
 
