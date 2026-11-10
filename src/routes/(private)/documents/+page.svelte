@@ -90,21 +90,21 @@
     {/if}
 {/snippet}
 
-<main class="page px-5 pt-7 pb-16">
-    <div class="flex items-baseline gap-3 mb-5">
-        <h1 class="text-xl font-bold">{m.documents_title()}</h1>
-        <span class="text-sm text-gray-500">{m.documents_count({ count: data.corpusTotal })}</span>
-    </div>
+<main class="page px-5 pt-5 pb-10">
+    <h1 class="sr-only">{m.documents_title()}</h1>
 
     <form
         method="GET"
         action="/documents/"
     >
         <div class="mb-4">
-            <label
-                for="q"
-                class="block text-sm font-semibold mb-1">{m.documents_search_label()}</label
-            >
+            <div class="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1 mb-1">
+                <label
+                    for="q"
+                    class="block text-sm font-semibold">{m.documents_search_label()}</label
+                >
+                <span class="text-xs text-gray-500">{m.documents_count({ count: data.corpusTotal })}</span>
+            </div>
             <div class="flex flex-wrap items-end gap-2">
                 <div class="grow">
                     <input
