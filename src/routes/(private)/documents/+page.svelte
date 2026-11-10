@@ -2,6 +2,11 @@
     import { m } from "#lib/paraglide/messages.js";
 
     let { data } = $props();
+
+    function pageHref(page) {
+        const query = data.q ? `q=${encodeURIComponent(data.q)}&` : "";
+        return `?${query}page=${page}`;
+    }
 </script>
 
 <svelte:head>
@@ -14,7 +19,42 @@
         <span class="text-sm text-gray-500">{m.documents_count({ count: data.total })}</span>
     </div>
 
-    {#if data.documents.length === 0}
+    <form
+        method="GET"
+        class="flex flex-wrap items-end gap-2 mb-5"
+    >
+        <div class="grow">
+            <label
+                for="q"
+                class="block text-sm font-semibold mb-1">{m.documents_search_label()}</label
+            >
+            <input
+                type="search"
+                id="q"
+                name="q"
+                value={data.q}
+                placeholder={m.documents_search_placeholder()}
+                autocomplete="off"
+                class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
+            />
+        </div>
+        <button
+            type="submit"
+            class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 hover:border-blue-700"
+        >
+            {m.documents_search_submit()}
+        </button>
+        {#if data.q}
+            <a
+                href="/documents"
+                class="text-sm text-blue-600 hover:underline">{m.documents_search_clear()}</a
+            >
+        {/if}
+    </form>
+
+    {#if data.documents.length === 0 && data.q}
+        <p class="text-sm text-gray-500 italic">{m.documents_no_results({ query: data.q })}</p>
+    {:else if data.documents.length === 0}
         <p class="text-sm text-gray-500 italic">{m.documents_empty()}</p>
     {:else}
         <div class="overflow-x-auto">
@@ -74,11 +114,11 @@
         <nav class="pagination flex items-center gap-2 mt-5 text-sm">
             {#if data.page > 1}
                 <a
-                    href="?page=1"
+                    href={pageHref(1)}
                     class="text-blue-600 no-underline hover:underline">{m.documents_page_first()}</a
                 >
                 <a
-                    href="?page={data.page - 1}"
+                    href={pageHref(data.page - 1)}
                     class="text-blue-600 no-underline hover:underline">{m.documents_page_prev()}</a
                 >
             {:else}
@@ -90,11 +130,11 @@
             <span class="text-gray-300 mx-1">|</span>
             {#if data.page < data.totalPages}
                 <a
-                    href="?page={data.page + 1}"
+                    href={pageHref(data.page + 1)}
                     class="text-blue-600 no-underline hover:underline">{m.documents_page_next()}</a
                 >
                 <a
-                    href="?page={data.totalPages}"
+                    href={pageHref(data.totalPages)}
                     class="text-blue-600 no-underline hover:underline">{m.documents_page_last()}</a
                 >
             {:else}
