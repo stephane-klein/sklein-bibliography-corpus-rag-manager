@@ -1,113 +1,42 @@
 import { sql } from "#lib/server/pg.js";
 
-const PAGE_SIZE = 25;
+const PAGE_SIZE = 15;
 const MAX_QUERY_LENGTH = 200;
-const METADATA_MIN_WORD_LENGTH = 3;
-const METADATA_SIMILARITY_THRESHOLD = 0.3;
-const RRF_K = 60;
+const MAX_FILTER_LENGTH = 200;
 
-// Tantivy operators and quoted phrases only mean something to the BM25 content
-// index. When one is present, the metadata search is skipped instead of
-// treating "AND" as a word.
-const ADVANCED_SYNTAX = /"|\b(?:AND|OR|NOT)\b/;
+function readParam(value, maxLength) {
+    return (value ?? "").replaceAll("\u0000", "").trim().slice(0, maxLength);
+}
 
-// Function words that appear in almost every French title. The metadata search
-// matches any word (OR), so without this list "le problème de la chance"
-// would match every title containing "le", with a similarity of 1.
-const FRENCH_STOP_WORDS = new Set([
-    "a",
-    "au",
-    "aux",
-    "avec",
-    "ce",
-    "ces",
-    "cet",
-    "cette",
-    "chez",
-    "comme",
-    "dans",
-    "de",
-    "des",
-    "dont",
-    "du",
-    "elle",
-    "elles",
-    "en",
-    "est",
-    "et",
-    "il",
-    "ils",
-    "je",
-    "la",
-    "le",
-    "les",
-    "leur",
-    "leurs",
-    "lui",
-    "ma",
-    "mais",
-    "me",
-    "mes",
-    "moi",
-    "mon",
-    "ne",
-    "nos",
-    "notre",
-    "nous",
-    "on",
-    "ou",
-    "où",
-    "par",
-    "pas",
-    "plus",
-    "pour",
-    "qu",
-    "que",
-    "qui",
-    "sa",
-    "sans",
-    "se",
-    "ses",
-    "si",
-    "son",
-    "sont",
-    "sous",
-    "sur",
-    "ta",
-    "te",
-    "tes",
-    "toi",
-    "ton",
-    "tout",
-    "tous",
-    "toute",
-    "toutes",
-    "tu",
-    "un",
-    "une",
-    "vos",
-    "votre",
-    "vous",
-    "y",
-    "à",
-    "être",
-]);
+// Splits a filter field into comparable words: lower case, elisions removed
+// (l'économie → économie), surrounding punctuation dropped. Unlike the content
+// query, every word is kept: the filter requires all of them to match.
+function filterWords(value) {
+    return value
+        .toLowerCase()
+        .split(/\s+/)
+        .map((word) => word.replace(/^(?:qu|[cdjlmnst])['’]/u, ""))
+        .map((word) => word.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, ""))
+        .filter((word) => word.length > 0);
+}
 
-// Splits the query into comparable words: lower case, elisions removed
-// (l'économie → économie), stop words and words shorter than three characters
-// dropped. Unaccenting happens in SQL, where the extension lives.
-function metadataWords(q) {
-    return [
-        ...new Set(
-            q
-                .toLowerCase()
-                .split(/\s+/)
-                .map((word) => word.replace(/^(?:qu|[cdjlmnst])['’]/u, ""))
-                .map((word) => word.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, ""))
-                .filter((word) => word.length >= METADATA_MIN_WORD_LENGTH)
-                .filter((word) => !FRENCH_STOP_WORDS.has(word)),
-        ),
-    ];
+// `%` and `_` are ILIKE wildcards. Escape them so a filter matches literal text.
+function escapeLike(word) {
+    return word.replace(/[\\%_]/g, "\\$&");
+}
+
+function ilikeCondition(column, word) {
+    return sql`${column} ILIKE '%' || immutable_unaccent(${escapeLike(word)}) || '%'`;
+}
+
+function allWords(column, words) {
+    return words.map((word) => ilikeCondition(column, word)).reduce((acc, condition) => sql`${acc} AND ${condition}`);
+}
+
+function whereClause(conditions) {
+    return conditions.length > 0
+        ? sql`WHERE ${conditions.reduce((acc, condition) => sql`${acc} AND ${condition}`)}`
+        : sql``;
 }
 
 function pageWindow(total, requestedPage) {
@@ -117,89 +46,91 @@ function pageWindow(total, requestedPage) {
 }
 
 export async function load(event) {
-    const q = (event.url.searchParams.get("q") ?? "").replaceAll("\u0000", "").trim().slice(0, MAX_QUERY_LENGTH);
+    const q = readParam(event.url.searchParams.get("q"), MAX_QUERY_LENGTH);
+    const author = readParam(event.url.searchParams.get("author"), MAX_FILTER_LENGTH);
+    const title = readParam(event.url.searchParams.get("title"), MAX_FILTER_LENGTH);
     const requestedPage = Number.parseInt(event.url.searchParams.get("page") ?? "1", 10);
 
-    if (q.length === 0) {
-        const [{ total }] = await sql`
-            SELECT count(*)::int AS total
-              FROM hierarchical_content_nodes
-        `;
-        const { page, totalPages, offset } = pageWindow(total, requestedPage);
+    const authorWords = filterWords(author);
+    const titleWords = filterWords(title);
 
-        const documents = await sql`
-            SELECT nanoid, title, authors, original_published_date, source_url
-              FROM hierarchical_content_nodes
-             ORDER BY original_published_date DESC NULLS LAST, id DESC
-             LIMIT ${PAGE_SIZE} OFFSET ${offset}
-        `;
+    // Title and author are filters, not rank sources: the content query is the
+    // only score. Each field requires all its words; the fields combine with AND.
+    const filterConditions = [
+        authorWords.length > 0 ? allWords(sql`immutable_unaccent(immutable_authors_text(authors))`, authorWords) : null,
+        titleWords.length > 0 ? allWords(sql`immutable_unaccent(title)`, titleWords) : null,
+    ].filter((condition) => condition !== null);
 
-        return { documents, page, total, totalPages, q };
-    }
+    const matchConditions = q
+        ? [sql`content @@@ pdb.parse(${q}, lenient => true)`, ...filterConditions]
+        : filterConditions;
 
-    const words = ADVANCED_SYNTAX.test(q) ? [] : metadataWords(q);
-
-    // Two rank sources, fused with reciprocal rank fusion: BM25 scores and
-    // trigram similarities are not comparable, their ranks are. An empty word
-    // list leaves metadata_matches empty, so the fused list is content only.
-    const matches = sql`
-        content_matches AS (
-            SELECT nanoid,
-                   row_number() OVER (ORDER BY pdb.score(id) DESC, id ASC) AS rank
-              FROM hierarchical_content_nodes
-             WHERE content @@@ pdb.parse(${q}, lenient => true)
-        ),
-        metadata_matches AS (
-            SELECT nanoid,
-                   max(similarity) AS similarity,
-                   row_number() OVER (ORDER BY max(similarity) DESC, nanoid ASC) AS rank
-              FROM (
-                    SELECT nanoid,
-                           GREATEST(
-                               word_similarity(immutable_unaccent(term), immutable_unaccent(title)),
-                               word_similarity(
-                                   immutable_unaccent(term),
-                                   immutable_unaccent(immutable_authors_text(authors))
-                               )
-                           ) AS similarity
-                      FROM hierarchical_content_nodes
-                      CROSS JOIN unnest(${words}::text[]) AS tokens(term)
-                     WHERE immutable_unaccent(term) <% immutable_unaccent(title)
-                        OR immutable_unaccent(term) <% immutable_unaccent(immutable_authors_text(authors))
-              ) term_matches
-             GROUP BY nanoid
-        ),
-        fused AS (
-            SELECT coalesce(content_matches.nanoid, metadata_matches.nanoid) AS nanoid,
-                   coalesce(1.0 / (${RRF_K} + content_matches.rank), 0)
-                 + coalesce(1.0 / (${RRF_K} + metadata_matches.rank), 0) AS score
-              FROM content_matches
-              FULL OUTER JOIN metadata_matches
-                ON metadata_matches.nanoid = content_matches.nanoid
-        )
+    const [{ total: corpusTotal }] = await sql`
+        SELECT count(*)::int AS total
+          FROM hierarchical_content_nodes
     `;
 
-    return sql.begin(async (tx) => {
-        // The `<%` operator reads its threshold from this GUC, whose default is
-        // 0.6. SET LOCAL scopes the value to this transaction.
-        await tx.unsafe(`SET LOCAL pg_trgm.word_similarity_threshold = ${METADATA_SIMILARITY_THRESHOLD}`);
+    const selectionRows =
+        filterConditions.length > 0
+            ? await sql`
+                  SELECT count(*)::int AS total
+                    FROM hierarchical_content_nodes
+                    ${whereClause(filterConditions)}
+              `
+            : [{ total: corpusTotal }];
 
-        const [{ total }] = await tx`
-            WITH ${matches}
-            SELECT count(*)::int AS total
-              FROM fused
-        `;
-        const { page, totalPages, offset } = pageWindow(total, requestedPage);
+    const selectionTotal = selectionRows[0].total;
 
-        const documents = await tx`
-            WITH ${matches}
-            SELECT d.nanoid, d.title, d.authors, d.original_published_date, d.source_url
-              FROM fused
-              JOIN hierarchical_content_nodes d ON d.nanoid = fused.nanoid
-             ORDER BY fused.score DESC, d.original_published_date DESC NULLS LAST, d.nanoid ASC
-             LIMIT ${PAGE_SIZE} OFFSET ${offset}
-        `;
+    const [{ total }] = q
+        ? await sql`
+              SELECT count(*)::int AS total
+                FROM hierarchical_content_nodes
+                ${whereClause(matchConditions)}
+          `
+        : [{ total: selectionTotal }];
 
-        return { documents, page, total, totalPages, q };
-    });
+    const { page, totalPages, offset } = pageWindow(total, requestedPage);
+
+    // pdb.snippets() is the expensive part; the LIMIT keeps the number of
+    // highlighted rows bounded. The snippet tags are restored by the component.
+    const documents = q
+        ? await sql`
+              SELECT nanoid,
+                     title,
+                     authors,
+                     original_published_date,
+                     source_url,
+                     pdb.snippets(
+                         content,
+                         max_num_chars => 200,
+                         start_tag => '<mark>',
+                         end_tag => '</mark>',
+                         "limit" => 3
+                     ) AS snippets
+                FROM hierarchical_content_nodes
+                ${whereClause(matchConditions)}
+               ORDER BY pdb.score(id) DESC, id ASC
+               LIMIT ${PAGE_SIZE} OFFSET ${offset}
+          `
+        : await sql`
+              SELECT nanoid, title, authors, original_published_date, source_url
+                FROM hierarchical_content_nodes
+                ${whereClause(matchConditions)}
+               ORDER BY original_published_date DESC NULLS LAST, id DESC
+               LIMIT ${PAGE_SIZE} OFFSET ${offset}
+          `;
+
+    return {
+        documents,
+        page,
+        total,
+        totalPages,
+        corpusTotal,
+        selectionTotal,
+        q,
+        author,
+        title,
+        filtered: filterConditions.length > 0,
+        hasQuery: q.length > 0,
+    };
 }

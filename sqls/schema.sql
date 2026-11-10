@@ -57,9 +57,9 @@ CREATE INDEX idx_hierarchical_content_nodes_bm25
         updated_at
     );
 
--- Accent- and typo-tolerant search on the bibliographic metadata. The `_q`
--- filter searches titles and authors with word_similarity() and an OR between
--- the words; these GIN indexes make the `<%` operator fast.
+-- Partial, accent-insensitive filters on the bibliographic metadata. The title
+-- and author fields use ILIKE on the unaccented expressions; these GIN trigram
+-- indexes accelerate the pattern match.
 CREATE INDEX idx_hierarchical_content_nodes_title_unaccent_trgm
     ON hierarchical_content_nodes
     USING GIN (immutable_unaccent(title) gin_trgm_ops);
