@@ -340,6 +340,32 @@ export function GET() {
                     },
                 },
             },
+            "/api/v1/admin/hierarchical-content-nodes/reindex": {
+                post: {
+                    summary: "Rebuild the BM25 index (admin)",
+                    description:
+                        "Runs REINDEX INDEX CONCURRENTLY on the ParadeDB BM25 index. The import CLI calls it after inserts, updates or deletes so the mutable segment is converted into immutable segments. Reads and writes continue during the rebuild; on failure an invalid _ccnew index may be left behind.",
+                    security: [{ adminBearer: [] }],
+                    responses: {
+                        200: {
+                            description: "Index rebuilt",
+                            content: {
+                                "application/json": {
+                                    schema: {
+                                        type: "object",
+                                        properties: {
+                                            data: { $ref: "#/components/schemas/ContentNodeReindexResult" },
+                                            _links: { $ref: "#/components/schemas/Links" },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                        401: { $ref: "#/components/responses/Unauthorized" },
+                        500: { $ref: "#/components/responses/InternalError" },
+                    },
+                },
+            },
             "/api/v1/admin/send-test-mail": {
                 post: {
                     summary: "Send a test email with hardcoded subject and body (admin)",
@@ -653,6 +679,16 @@ export function GET() {
                         },
                     },
                     required: ["dry_run", "inserted", "updated", "unchanged", "deleted", "items", "deleted_paths"],
+                },
+                ContentNodeReindexResult: {
+                    type: "object",
+                    properties: {
+                        index: { type: "string", example: "idx_hierarchical_content_nodes_bm25" },
+                        mutable: { type: "boolean", example: false },
+                        num_docs: { type: "integer", example: 134 },
+                        duration_ms: { type: "integer", example: 1200 },
+                    },
+                    required: ["index", "mutable", "num_docs", "duration_ms"],
                 },
                 ProblemDetail: {
                     type: "object",

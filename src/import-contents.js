@@ -149,6 +149,20 @@ try {
     process.exit(1);
 }
 
+let reindex = null;
+
+if (!argv.dryRun && counts.inserted + counts.updated + counts.deleted > 0) {
+    try {
+        reindex = await reindexIndex();
+        logger.info({ ...reindex }, "BM25 index reindexed");
+    } catch (error) {
+        logger.warn(
+            { err: error },
+            "BM25 index reindex failed; search stays slow until REINDEX INDEX CONCURRENTLY idx_hierarchical_content_nodes_bm25 succeeds",
+        );
+    }
+}
+
 logger.info(
     {
         path: argv.path,
@@ -158,6 +172,7 @@ logger.info(
         updated: counts.updated,
         unchanged: counts.unchanged,
         deleted: counts.deleted,
+        reindexed: reindex !== null,
     },
     "Content import done",
 );
@@ -189,6 +204,20 @@ async function sendSyncRequest(payload) {
             "Content-Type": "application/json",
         },
         body: JSON.stringify(payload),
+    });
+    const result = await response.json().catch(() => null);
+
+    if (!response.ok) {
+        throw new Error(result?.detail || `HTTP ${response.status} from ${apiUrl}`);
+    }
+
+    return result.data;
+}
+
+async function reindexIndex() {
+    const response = await fetch(`${apiUrl}/api/v1/admin/hierarchical-content-nodes/reindex`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${ADMIN_TOKEN}` },
     });
     const result = await response.json().catch(() => null);
 
