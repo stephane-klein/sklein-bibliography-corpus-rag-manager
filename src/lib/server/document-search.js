@@ -1,6 +1,7 @@
 import { sql } from "#lib/server/pg.js";
 import { embedTexts, getEmbeddingInfo } from "#lib/server/embedding.js";
 import { logger } from "#lib/server/logger.js";
+import { buildQueryEmbeddingKey, readQueryEmbedding, writeQueryEmbedding } from "#lib/server/query-embedding-cache.js";
 
 const PAGE_SIZE = 15;
 const CANDIDATE_LIMIT = 200;
@@ -90,10 +91,19 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
 }
 
 export async function getQueryEmbedding(query) {
+    const info = getEmbeddingInfo();
+    const key = buildQueryEmbeddingKey(query, info);
+    const cached = await readQueryEmbedding(key);
+
+    if (cached) {
+        return cached;
+    }
+
     const { embeddings } = await embedTexts([query], {
         inputType: "query",
         timeoutMs: QUERY_TIMEOUT_MS,
     });
+    await writeQueryEmbedding(key, embeddings[0]);
 
     return embeddings[0];
 }

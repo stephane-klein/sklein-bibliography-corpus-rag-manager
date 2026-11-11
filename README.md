@@ -75,8 +75,10 @@ is imported and its embeddings are reported as missing.
 
 The `/documents/` page searches the document catalog with BM25. Enable
 "Semantic search" to embed the query with Voyage and fuse the best matching
-chunks with the BM25 ranking. The page falls back to BM25 when Voyage or the
-`content_chunks` table is unavailable. Query embeddings are not cached yet.
+chunks with the BM25 ranking. Query vectors are cached in `query_embedding_cache`,
+keyed by the normalized query, the provider, the model and the dimension. The
+page falls back to BM25 when Voyage, the cache, or the `content_chunks` table is
+unavailable.
 
 ### Generating sidecars
 
