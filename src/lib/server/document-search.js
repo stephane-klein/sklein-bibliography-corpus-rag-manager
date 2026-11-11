@@ -1,5 +1,5 @@
 import { sql } from "#lib/server/pg.js";
-import { embedTexts, getEmbeddingInfo } from "#lib/server/embedding.js";
+import { embedTexts, getEmbeddingInfo, getEmbeddingModel } from "#lib/server/embedding.js";
 import { logger } from "#lib/server/logger.js";
 import { buildQueryEmbeddingKey, readQueryEmbedding, writeQueryEmbedding } from "#lib/server/query-embedding-cache.js";
 
@@ -30,17 +30,33 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
     const selectionTotal = selectionRows[0].total;
 
     if (!q) {
+        const embeddingModel = getEmbeddingModel();
         const { page, totalPages, offset } = pageWindow(selectionTotal, requestedPage);
         const documents = await sql`
-            SELECT nanoid, title, authors, original_published_date, source_url
-              FROM hierarchical_content_nodes
+            SELECT n.nanoid, n.title, n.authors, n.original_published_date, n.source_url,
+                   COALESCE(chunks.total, 0) AS chunk_count,
+                   COALESCE(chunks.ready, 0) AS ready_chunk_count,
+                   COALESCE(chunks.embedded, 0) AS embedded_chunk_count
+              FROM hierarchical_content_nodes n
+              LEFT JOIN LATERAL (
+                  SELECT count(*)::int AS total,
+                         count(*) FILTER (
+                             WHERE c.embedding IS NOT NULL
+                               AND c.embedding_model = ${embeddingModel}
+                               AND c.embedding_strategy = 'standard'
+                         )::int AS ready,
+                         count(*) FILTER (WHERE c.embedding IS NOT NULL)::int AS embedded
+                    FROM content_chunks c
+                   WHERE c.content_node_id = n.id
+              ) chunks ON true
               ${whereClause(filterConditions)}
-             ORDER BY original_published_date DESC NULLS LAST, id DESC
+             ORDER BY n.original_published_date DESC NULLS LAST, n.id DESC
              LIMIT ${PAGE_SIZE} OFFSET ${offset}
         `;
 
         return {
-            documents,
+            documents: attachVectorization(documents),
+            embeddingModel,
             page,
             total: selectionTotal,
             totalPages,
@@ -333,6 +349,32 @@ async function attachSnippets(documents, q) {
         ...document,
         snippets: snippetsById.get(document.id) ?? [],
     }));
+}
+
+// Mirrors the conditions hybrid search applies to content_chunks, so the
+// indicator means "the semantic search can use this document" and not merely
+// "a vector exists".
+function vectorizationState(row) {
+    const chunks = row.chunk_count;
+    const ready = row.ready_chunk_count;
+
+    if (chunks === 0) {
+        return "none";
+    }
+
+    if (ready === chunks) {
+        return "ready";
+    }
+
+    if (ready > 0) {
+        return "partial";
+    }
+
+    return row.embedded_chunk_count === 0 ? "pending" : "stale";
+}
+
+function attachVectorization(documents) {
+    return documents.map((document) => ({ ...document, vectorization: vectorizationState(document) }));
 }
 
 function pageWindow(total, requestedPage) {

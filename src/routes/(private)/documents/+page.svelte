@@ -10,6 +10,44 @@
         return new Intl.NumberFormat(getLocale(), { maximumFractionDigits: 2 }).format(costUsd * 1_000_000);
     }
 
+    function vectorizationLabel(state) {
+        if (state === "ready") {
+            return m.documents_vectorized_yes();
+        }
+
+        if (state === "partial") {
+            return m.documents_vectorized_partial();
+        }
+
+        if (state === "none") {
+            return "—";
+        }
+
+        return m.documents_vectorized_no();
+    }
+
+    // The hint says why a document is not available to the semantic search:
+    // no vector yet, or vectors from another model.
+    function vectorizationHint(state) {
+        if (state === "none") {
+            return m.documents_vectorized_hint_none();
+        }
+
+        if (state === "ready") {
+            return m.documents_vectorized_hint_ready({ model: data.embeddingModel });
+        }
+
+        if (state === "partial") {
+            return m.documents_vectorized_hint_partial({ model: data.embeddingModel });
+        }
+
+        if (state === "pending") {
+            return m.documents_vectorized_hint_pending();
+        }
+
+        return m.documents_vectorized_hint_stale({ model: data.embeddingModel });
+    }
+
     function searchQuery(overrides = {}) {
         const values = {
             q: data.q,
@@ -356,6 +394,7 @@
                     <col class="w-28" />
                     <col class="w-36" />
                     <col />
+                    <col class="w-24" />
                     <col class="w-20" />
                 </colgroup>
                 <thead>
@@ -370,9 +409,8 @@
                             scope="col">{m.documents_column_authors()}</th
                         >
                         <th
-                            colspan="2"
-                            scope="colgroup"
-                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 border-b-2 border-gray-300"
+                            scope="col"
+                            class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
                         >
                             <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1">
                                 <span>{m.documents_column_title()}</span>
@@ -383,6 +421,16 @@
                                 {/if}
                             </div>
                         </th>
+                        <th
+                            scope="col"
+                            class="cursor-help whitespace-nowrap text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                            title={m.documents_column_vectorized_title()}>{m.documents_column_vectorized()}</th
+                        >
+                        <th
+                            scope="col"
+                            class="whitespace-nowrap text-right text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 border-b-2 border-gray-300"
+                            >{m.documents_column_source()}</th
+                        >
                     </tr>
                 </thead>
                 <tbody>
@@ -408,6 +456,15 @@
                                     href="/documents/{doc.nanoid}/"
                                     class="text-blue-600 no-underline hover:underline">{doc.title}</a
                                 >
+                            </td>
+                            <td
+                                class="py-1.5 pr-2 border-b border-gray-200 align-top whitespace-nowrap text-[11px] text-gray-600"
+                                title={vectorizationHint(doc.vectorization)}
+                            >
+                                {vectorizationLabel(doc.vectorization)}
+                                {#if doc.vectorization === "none"}
+                                    <span class="sr-only">{m.documents_vectorized_hint_none()}</span>
+                                {/if}
                             </td>
                             <td class="py-1.5 border-b border-gray-200 align-top text-right whitespace-nowrap">
                                 {#if doc.source_url}

@@ -20,6 +20,13 @@ const VOYAGE_4_PRICE_PER_MILLION_TOKENS_USD = 0.06;
 const VOYAGE_4_LITE_PRICE_PER_MILLION_TOKENS_USD = 0.02;
 const warnedUnpricedModels = new Set();
 
+// The document model is a configuration value on its own. Reading it must not
+// fail when the API key is missing: the documents list compares stored vectors
+// with this model, and the page has to render either way.
+export function getEmbeddingModel() {
+    return MODEL;
+}
+
 export function getEmbeddingInfo() {
     if (PROVIDER !== "voyage" && PROVIDER !== "openai") {
         throw new Error(`Unsupported embedding provider: ${PROVIDER}`);
