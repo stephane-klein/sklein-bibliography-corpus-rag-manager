@@ -1,0 +1,13 @@
+-- Drops the example contacts table inherited from the SvelteKit skeleton.
+--
+-- The application stores bibliographic content, not contacts. The table was
+-- created by 00001_initial.sql and extended by 00008_contacts_nanoid.sql, and
+-- its pages and API endpoints have been removed.
+--
+-- Those two migrations stay untouched because they are already applied:
+-- rewriting them would not help an existing database. A fresh database replays
+-- the creation and then this drop, which costs nothing.
+--
+-- generate_nanoid() and the nanoid domain stay in place: they now serve
+-- hierarchical_content_nodes and other tables.
+DROP TABLE IF EXISTS contacts;

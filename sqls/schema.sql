@@ -12,14 +12,6 @@ CREATE EXTENSION IF NOT EXISTS unaccent;
 CREATE DOMAIN nanoid AS TEXT
     CONSTRAINT nanoid_format CHECK (VALUE ~ '^[0-9a-z]{10}$');
 
-CREATE TABLE contacts (
-    id         BIGINT                   GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    nanoid     nanoid                   NOT NULL UNIQUE DEFAULT generate_nanoid(10),
-    firstname  TEXT                     NOT NULL,
-    lastname   TEXT                     NOT NULL,
-    created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
-);
-
 -- Flat content nodes imported from contents/. One row per Markdown file.
 -- Hierarchy columns (parent_id, level) will be added with the books import.
 -- markdown_source_file is relative to contents/; metadata stores the frontmatter.

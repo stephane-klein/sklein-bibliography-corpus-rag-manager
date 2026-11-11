@@ -31,13 +31,6 @@
             >
             |
             <a
-                href="/contacts"
-                class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline"
-                class:active={isActive("/contacts")}
-                aria-current={isActive("/contacts") ? "page" : undefined}>{m.nav_contacts()}</a
-            >
-            |
-            <a
                 href="/my/profile"
                 class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline"
                 class:active={isActive("/my/profile")}

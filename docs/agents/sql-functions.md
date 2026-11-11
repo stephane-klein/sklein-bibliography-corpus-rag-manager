@@ -62,7 +62,7 @@ SET LOCAL client_min_messages = notice;
 CREATE FUNCTION my_function() RETURNS bigint
 LANGUAGE sql
 AS $$
-    SELECT count(*) FROM contacts;
+    SELECT count(*) FROM users;
 $$;
 ```
 

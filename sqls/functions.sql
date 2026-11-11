@@ -19,17 +19,17 @@
 --
 -- SET LOCAL client_min_messages = warning;
 --
--- DROP FUNCTION IF EXISTS contacts_count();
+-- DROP FUNCTION IF EXISTS count_users();
 --
 -- SET LOCAL client_min_messages = notice;
 --
--- CREATE FUNCTION contacts_count() RETURNS bigint
+-- CREATE FUNCTION count_users() RETURNS bigint
 -- LANGUAGE sql
 -- AS $$
---     SELECT count(*) FROM contacts;
+--     SELECT count(*) FROM users;
 -- $$;
 --
--- COMMENT ON FUNCTION contacts_count() IS 'Example function — returns the number of rows in contacts.';
+-- COMMENT ON FUNCTION count_users() IS 'Example function — returns the number of rows in users.';
 
 -- IMMUTABLE wrapper around unaccent() for the trigram GIN indexes on
 -- hierarchical_content_nodes (title, authors). PostgreSQL only accepts
@@ -47,7 +47,7 @@ CREATE OR REPLACE FUNCTION immutable_authors_text(authors TEXT[]) RETURNS TEXT
 LANGUAGE sql IMMUTABLE PARALLEL SAFE STRICT
 RETURN array_to_string(authors, ' ');
 
--- `contacts.nanoid` uses this function as a DEFAULT, so do not DROP it.
+-- `nanoid` columns use this function as a DEFAULT, so do not DROP it.
 -- `CREATE OR REPLACE` keeps the dependency intact.
 CREATE OR REPLACE FUNCTION generate_nanoid(
     size INT DEFAULT 10,
