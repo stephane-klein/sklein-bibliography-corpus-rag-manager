@@ -108,7 +108,37 @@ function validateHeader(header) {
         throw new Error("Embeddings header input_format must be a non-empty string");
     }
 
+    if (header.cost !== undefined && header.cost !== null) {
+        validateCost(header.cost);
+    }
+
     return header;
+}
+
+function validateCost(cost) {
+    if (typeof cost !== "object" || Array.isArray(cost)) {
+        throw new Error("Embeddings header cost must be an object");
+    }
+
+    if (typeof cost.amount_usd !== "number" || !Number.isFinite(cost.amount_usd) || cost.amount_usd < 0) {
+        throw new Error("Embeddings header cost.amount_usd must be a non-negative number");
+    }
+
+    if (!Number.isInteger(cost.tokens) || cost.tokens < 0) {
+        throw new Error("Embeddings header cost.tokens must be a non-negative integer");
+    }
+
+    if (typeof cost.basis !== "string" || !cost.basis.trim()) {
+        throw new Error("Embeddings header cost.basis must be a non-empty string");
+    }
+
+    if (
+        typeof cost.price_per_million_tokens_usd !== "number" ||
+        !Number.isFinite(cost.price_per_million_tokens_usd) ||
+        cost.price_per_million_tokens_usd < 0
+    ) {
+        throw new Error("Embeddings header cost.price_per_million_tokens_usd must be a non-negative number");
+    }
 }
 
 function validateEmbeddings(embeddings, header) {

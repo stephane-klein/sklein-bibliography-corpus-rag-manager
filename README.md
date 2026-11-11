@@ -146,15 +146,40 @@ the query model without reindexing. The webapp returns `query_model` in the
 embedding configuration for the future search endpoint.
 
 Each binary file starts with a JSON header line (format, provider, model,
-dimension, chunk count, source hash, input format, input type and strategy)
-followed by Float32LE vectors. The YAML manifest stores `embedding_provider`,
-`embedding_model`, `dimension`, `embedding_file`, `embedding_format`,
-`embedding_input_format`, `embedding_input_type` and `embedding_strategy`.
+dimension, chunk count, source hash, input format, input type, strategy and
+cost) followed by Float32LE vectors. The YAML manifest stores
+`embedding_provider`, `embedding_model`, `dimension`, `embedding_file`,
+`embedding_format`, `embedding_input_format`, `embedding_input_type` and
+`embedding_strategy`.
+
+The `cost` block records the number of tokens, the amount in US dollars and the
+price per million tokens used at generation time:
+
+```json
+"cost": {
+  "amount_usd": 0.0001518,
+  "basis": "list_price",
+  "tokens": 2530,
+  "price_per_million_tokens_usd": 0.06
+}
+```
+
+The amount is the list price. Voyage's 200 million free tokens are not deducted,
+so the value is an estimate of what the call would cost, not the billed amount.
+Prices are hardcoded in `src/lib/server/embedding.js` for `voyage-4`
+($0.06 per million tokens) and `voyage-4-lite` ($0.02 per million tokens). Any
+other model gives a null cost, and the command reports the total as partial.
+
+The command prints the tokens and the total cost of the calls it made. Files
+skipped because their embeddings are current do not add to that total.
+`--dry-run` makes no call, so it prints a null cost.
 
 By default, the command skips a document when the manifest and the binary header
 match the source hash, the provider, the model, the dimension and the embedding
-strategy. `--force` regenerates everything. `--dry-run` reports what would be
-embedded without generating vectors.
+strategy. `--force` regenerates everything. Existing binary files without a
+`cost` block stay valid; run `mise run generate-embeddings --force` once to add
+the metadata to the whole corpus. `--dry-run` reports what would be embedded
+without generating vectors.
 
 The embedding input is `heading_path + "\n\n" + text`. `text` stays the exact
 paragraph used for display and BM25.

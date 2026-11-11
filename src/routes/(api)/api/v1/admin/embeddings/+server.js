@@ -63,6 +63,8 @@ export async function POST(event) {
                 input_type: inputType,
                 texts: parsed.output.texts.length,
                 tokens: result.usage.tokens,
+                cost_usd: result.usage.cost_usd,
+                cost_basis: result.usage.cost_basis,
                 duration_ms: durationMs,
             },
             "Embeddings generated",

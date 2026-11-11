@@ -19,6 +19,7 @@ const EMBEDDING_INPUT_TYPE = "document";
 const EMBEDDING_STRATEGY = "standard";
 const EMBEDDING_FORMAT = "float32le";
 const EMBEDDING_FORMAT_VERSION = 1;
+const COST_BASIS = "list_price";
 const MAX_TEXTS_PER_REQUEST = 128;
 const MAX_CHARS_PER_REQUEST = 200_000;
 
@@ -123,7 +124,7 @@ logger.info(
     "Embedding configuration",
 );
 
-const counts = { embedded: 0, skipped: 0, chunks: 0, tokens: 0 };
+const counts = { embedded: 0, skipped: 0, chunks: 0, tokens: 0, costUsd: 0, pricedFiles: 0, unpricedFiles: 0 };
 
 try {
     for (const sidecarPath of sidecarPaths) {
@@ -164,7 +165,7 @@ try {
             continue;
         }
 
-        const { embeddings, tokens } = await embedChunks(chunks);
+        const { embeddings, tokens, costUsd, costBasis, pricePerMillionTokensUsd } = await embedChunks(chunks);
         const binaryName = `${basename(sourcePath)}.embeddings.bin`;
         const binaryPath = join(dirname(sourcePath), binaryName);
         const header = {
@@ -178,6 +179,15 @@ try {
             input_format: EMBEDDING_INPUT_FORMAT,
             input_type: EMBEDDING_INPUT_TYPE,
             strategy: EMBEDDING_STRATEGY,
+            cost:
+                costUsd === null
+                    ? null
+                    : {
+                          amount_usd: costUsd,
+                          basis: costBasis,
+                          tokens,
+                          price_per_million_tokens_usd: pricePerMillionTokensUsd,
+                      },
         };
 
         await writeEmbeddingsFile(binaryPath, { header, embeddings });
@@ -196,6 +206,14 @@ try {
         counts.embedded += 1;
         counts.chunks += chunks.length;
         counts.tokens += tokens;
+
+        if (costUsd === null) {
+            counts.unpricedFiles += 1;
+        } else {
+            counts.costUsd += costUsd;
+            counts.pricedFiles += 1;
+        }
+
         logger.info(
             {
                 file: relativeToContents,
@@ -203,6 +221,8 @@ try {
                 embeddings: binaryName,
                 chunks: chunks.length,
                 tokens,
+                cost_usd: costUsd,
+                cost_basis: costBasis,
                 model: info.model,
                 dimension: info.dimension,
             },
@@ -214,6 +234,12 @@ try {
     process.exit(1);
 }
 
+const totalCostUsd = argv.dryRun
+    ? null
+    : counts.pricedFiles === 0 && counts.unpricedFiles > 0
+      ? null
+      : roundUsd(counts.costUsd);
+
 logger.info(
     {
         path: argv.path,
@@ -223,6 +249,10 @@ logger.info(
         skipped: counts.skipped,
         chunks: counts.chunks,
         tokens: counts.tokens,
+        cost_usd: totalCostUsd,
+        cost_currency: "USD",
+        cost_basis: COST_BASIS,
+        cost_partial: !argv.dryRun && counts.unpricedFiles > 0,
         dry_run: argv.dryRun,
         forced: argv.force,
     },
@@ -232,6 +262,10 @@ logger.info(
 async function embedChunks(chunks) {
     const embeddings = [];
     let tokens = 0;
+    let costUsd = 0;
+    let costPriced = true;
+    let costBasis = COST_BASIS;
+    let pricePerMillionTokensUsd = null;
 
     for (const batch of splitEmbeddingInputs(chunks.map((chunk) => `${chunk.heading_path}\n\n${chunk.text}`))) {
         const data = await requestEmbeddings(batch);
@@ -248,13 +282,33 @@ async function embedChunks(chunks) {
 
         embeddings.push(...data.embeddings);
         tokens += data.usage?.tokens ?? 0;
+
+        if (typeof data.usage?.cost_usd === "number") {
+            costUsd += data.usage.cost_usd;
+        } else {
+            costPriced = false;
+        }
+
+        if (typeof data.usage?.cost_basis === "string" && data.usage.cost_basis.trim()) {
+            costBasis = data.usage.cost_basis;
+        }
+
+        if (typeof data.usage?.price_per_million_tokens_usd === "number") {
+            pricePerMillionTokensUsd = data.usage.price_per_million_tokens_usd;
+        }
     }
 
     if (embeddings.length !== chunks.length) {
         throw new Error(`Webapp returned ${embeddings.length} vectors for ${chunks.length} chunks`);
     }
 
-    return { embeddings, tokens };
+    return {
+        embeddings,
+        tokens,
+        costUsd: costPriced && pricePerMillionTokensUsd !== null ? roundUsd(costUsd) : null,
+        costBasis,
+        pricePerMillionTokensUsd,
+    };
 }
 
 function splitEmbeddingInputs(texts) {
@@ -345,10 +399,16 @@ async function verifyWrittenEmbeddings(binaryPath, header, chunkCount) {
         writtenHeader.input_format !== header.input_format ||
         writtenHeader.input_type !== header.input_type ||
         writtenHeader.strategy !== header.strategy ||
+        writtenHeader.cost?.amount_usd !== header.cost?.amount_usd ||
+        writtenHeader.cost?.tokens !== header.cost?.tokens ||
         embeddings.length !== chunkCount
     ) {
         throw new Error(`Written embeddings file does not match its header: ${binaryPath}`);
     }
+}
+
+function roundUsd(value) {
+    return Math.round(value * 1e9) / 1e9;
 }
 
 function validateSidecar(document, sourcePath) {

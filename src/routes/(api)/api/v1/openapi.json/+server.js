@@ -844,8 +844,21 @@ export function GET() {
                             type: "object",
                             properties: {
                                 tokens: { type: "integer", example: 1234 },
+                                cost_usd: {
+                                    type: "number",
+                                    nullable: true,
+                                    example: 0.00007404,
+                                    description:
+                                        "Estimated cost at list price in US dollars; null when the model has no configured price",
+                                },
+                                cost_basis: { type: "string", example: "list_price" },
+                                price_per_million_tokens_usd: {
+                                    type: "number",
+                                    nullable: true,
+                                    example: 0.06,
+                                },
                             },
-                            required: ["tokens"],
+                            required: ["tokens", "cost_usd", "cost_basis", "price_per_million_tokens_usd"],
                         },
                     },
                     required: ["provider", "model", "query_model", "dimension", "embeddings", "usage"],

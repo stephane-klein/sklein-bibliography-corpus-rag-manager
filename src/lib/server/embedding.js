@@ -15,6 +15,10 @@ const API_KEY = process.env.SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API
 const TIMEOUT_MS = 60_000;
 const MAX_RETRIES = 3;
 const MAX_PARALLEL_CALLS = 1;
+const COST_BASIS = "list_price";
+const VOYAGE_4_PRICE_PER_MILLION_TOKENS_USD = 0.06;
+const VOYAGE_4_LITE_PRICE_PER_MILLION_TOKENS_USD = 0.02;
+const warnedUnpricedModels = new Set();
 
 export function getEmbeddingInfo() {
     if (PROVIDER !== "voyage" && PROVIDER !== "openai") {
@@ -88,7 +92,43 @@ export async function embedTexts(texts, { inputType = "document", timeoutMs = TI
         }
     }
 
-    return { ...info, model: modelId, embeddings, usage };
+    const tokens = usage?.tokens ?? 0;
+    const pricePerMillionTokensUsd = pricePerMillionTokensUsdFor(PROVIDER, modelId);
+
+    if (pricePerMillionTokensUsd === null && !warnedUnpricedModels.has(`${PROVIDER}/${modelId}`)) {
+        warnedUnpricedModels.add(`${PROVIDER}/${modelId}`);
+        logger.warn({ provider: PROVIDER, model: modelId }, "No embedding price is configured; the cost is unknown");
+    }
+
+    return {
+        ...info,
+        model: modelId,
+        embeddings,
+        usage: {
+            ...usage,
+            tokens,
+            cost_usd:
+                pricePerMillionTokensUsd === null ? null : roundUsd((tokens * pricePerMillionTokensUsd) / 1_000_000),
+            cost_basis: COST_BASIS,
+            price_per_million_tokens_usd: pricePerMillionTokensUsd,
+        },
+    };
+}
+
+function pricePerMillionTokensUsdFor(provider, model) {
+    if (provider === "voyage" && model === "voyage-4") {
+        return VOYAGE_4_PRICE_PER_MILLION_TOKENS_USD;
+    }
+
+    if (provider === "voyage" && model === "voyage-4-lite") {
+        return VOYAGE_4_LITE_PRICE_PER_MILLION_TOKENS_USD;
+    }
+
+    return null;
+}
+
+function roundUsd(value) {
+    return Math.round(value * 1e9) / 1e9;
 }
 
 function createModel(modelId) {
