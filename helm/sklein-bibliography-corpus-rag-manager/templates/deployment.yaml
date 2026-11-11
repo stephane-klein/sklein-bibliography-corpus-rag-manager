@@ -189,6 +189,12 @@ spec:
               value: "postgres://$(DB_USER):$(DB_PASSWORD)@$(DB_HOST).{{ .Values.cnpg.namespace }}:$(DB_PORT)/$(DB_NAME)"
             - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_SCHEMA
               value: {{ .Values.postgresql.schema }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_ROLE
+              value: {{ .Values.mcp.readerRole | quote }}
+            {{- if not .Values.secrets.existingSecret }}
+            - name: SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_PASSWORD
+              value: {{ .Values.mcp.readerPassword | quote }}
+            {{- end }}
           ports:
             - name: http
               containerPort: {{ .Values.port }}

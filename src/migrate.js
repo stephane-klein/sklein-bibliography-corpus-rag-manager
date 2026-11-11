@@ -2,6 +2,7 @@
 import { fileURLToPath } from "node:url";
 import shift from "postgres-shift";
 import { logger } from "./lib/server/logger.js";
+import { ensureMcpReaderRole } from "./lib/server/mcp/mcp-reader-role.js";
 import { POSTGRES_SCHEMA, sql, waitForDb } from "./lib/server/pg.js";
 
 const MIGRATIONS_PATH = fileURLToPath(new URL("../sqls/migrations", import.meta.url));
@@ -39,6 +40,9 @@ try {
         await tx.file(FUNCTIONS_PATH);
     });
     logger.info("SQL functions loaded");
+
+    logger.info("Ensuring MCP read-only role");
+    await ensureMcpReaderRole();
 } catch (err) {
     logger.error(
         {

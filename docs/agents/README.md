@@ -17,4 +17,5 @@ Files are loaded on demand by the agent toolchain.
 
 - [`database.md`](./database.md) — local SQL access through mise tasks, dynamic connection URL and schema overview
 - [`i18n.md`](./i18n.md) — Paraglide JS i18n implementation details
+- [`mcp.md`](./mcp.md) — MCP read-only server, `vectorize()` rewrite and access log
 - [`sql-functions.md`](./sql-functions.md) — stored functions (`sqls/functions.sql`) reloaded on every migrate

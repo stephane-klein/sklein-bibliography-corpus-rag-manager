@@ -45,6 +45,13 @@
             >
             |
             <a
+                href="/mcp/log/"
+                class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline"
+                class:active={isActive("/mcp/log")}
+                aria-current={isActive("/mcp/log") ? "page" : undefined}>{m.nav_mcp_log()}</a
+            >
+            |
+            <a
                 href="/logout"
                 class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline">{m.nav_sign_out()}</a
             >

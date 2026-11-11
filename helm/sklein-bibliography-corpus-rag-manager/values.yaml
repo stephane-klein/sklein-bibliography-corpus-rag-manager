@@ -16,6 +16,14 @@ app:
 postgresql:
   schema: public
 
+# MCP read-only server. The application role creates the reader role and grants
+# SELECT on the corpus tables during `migrate`. Leave readerPassword empty to
+# disable the endpoint. When secrets.existingSecret is set, put the password in
+# that Secret under SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_PASSWORD.
+mcp:
+  readerRole: sklein_bibliography_mcp_reader
+  readerPassword: ""
+
 # CloudNativePG cluster configuration — deployed in the same namespace as the app.
 cnpg:
   clusterName: sklein-bibliography-corpus-rag-manager

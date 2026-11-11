@@ -195,6 +195,87 @@ Override the defaults with
 `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_PROVIDER=openai` to use OpenAI
 instead of Voyage.
 
+### MCP read-only server
+
+The application exposes a read-only MCP endpoint at `/mcp/readonly/`. It lets an
+MCP client write SQL against the corpus and, when the query needs a vector,
+call a virtual `vectorize('...')` function. The public documentation page is
+`/mcp/`.
+
+The endpoint authenticates with an API token. Create one in
+`/my/tokens/`, then configure the client:
+
+```json
+{
+  "mcpServers": {
+    "bibliography": {
+      "type": "http",
+      "url": "https://your-host/mcp/readonly/",
+      "headers": {
+        "Authorization": "Bearer <token>"
+      }
+    }
+  }
+}
+```
+
+The trailing slash matters: the application uses `trailingSlash = "always"`.
+Some MCP clients do not follow a 308 redirect on POST.
+
+The server exposes one tool, `readOnlySqlQuery`. It accepts one `SELECT`,
+`WITH ... SELECT` or `EXPLAIN SELECT` statement and requires a `purpose` string
+for the access log.
+
+`vectorize('some text')` is not a PostgreSQL function. The MCP server finds the
+call in the SQL, embeds the literal text with the query model, replaces the call
+with a `vector` literal, then executes the rewritten query. PostgreSQL never
+sees `vectorize`.
+
+```sql
+SELECT c.content_node_id,
+       n.title,
+       c.heading_path,
+       left(c.content, 500) AS excerpt,
+       c.embedding <=> vectorize('le principe de condorcet') AS distance
+  FROM content_chunks c
+  JOIN hierarchical_content_nodes n ON n.id = c.content_node_id
+ WHERE c.embedding IS NOT NULL
+   AND c.embedding_model = 'voyage-4'
+   AND c.embedding_strategy = 'standard'
+ ORDER BY distance
+ LIMIT 10;
+```
+
+The argument must be one string literal. `vectorize(c.content)` is rejected
+because the server cannot know the value before running the query. A query can
+use at most 8 distinct texts, and each text is limited to 2000 characters.
+Identical texts share one embedding call and one vector. Query embeddings reuse
+the `query_embedding_cache` table.
+
+The MCP server connects with a dedicated role,
+`sklein_bibliography_mcp_reader` by default. `pnpm migrate` creates the role when
+the application role is allowed to `CREATE ROLE`, then grants `SELECT` on
+`hierarchical_content_nodes` and `content_chunks`. Set
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_PASSWORD` to
+enable the endpoint; without it the endpoint returns 503. Override the role name
+with
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_ROLE`.
+
+Optional limits:
+
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_OUTPUT_CHARS` (default 200000)
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_DEFAULT_MAX_OUTPUT_CHARS` (default 50000)
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_QUERY_CHARS` (default 100000)
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_VECTORIZE_TEXTS` (default 8)
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_VECTORIZE_TEXT_CHARS` (default 2000)
+
+Each tool call is recorded in `mcp_access_log` and shown on `/mcp/log/`. The
+page shows only the calls of the signed-in user. It shows the query as written,
+the embedding calls, tokens and cost, but never the vector itself.
+
+MCP sessions live in memory. The endpoint is meant for a single replica; a
+multi-replica deployment needs a shared session store or sticky sessions.
+
 ### Testing the built version of the webapp locally
 
 ```bash

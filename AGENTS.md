@@ -209,6 +209,7 @@ pitfall, email templates, login flows): see `docs/agents/i18n.md`.
 ## Supplementary Documentation
 
 - [`docs/agents/`](docs/agents/) — operational snapshots of subsystems (loaded on demand by the agent), including [`database.md`](docs/agents/database.md) for local SQL access
+  and [`mcp.md`](docs/agents/mcp.md) for the MCP read-only server
 - [`docs/decisions/`](docs/decisions/) — architecture decision records
 - `.opencode/skills/new-decision/` — skill for creating new decision records
 

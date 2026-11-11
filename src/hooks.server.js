@@ -22,6 +22,8 @@ const COOKIE_OPTS = { path: "/", maxAge: 34560000, sameSite: "lax", httpOnly: fa
 
 async function authHandle({ event, resolve }) {
     event.locals.user = null;
+    event.locals.authMethod = null;
+    event.locals.apiTokenId = null;
 
     const sessionId = event.cookies.get(SESSION_COOKIE_NAME);
 
@@ -37,6 +39,7 @@ async function authHandle({ event, resolve }) {
 
             if (user) {
                 event.locals.user = user;
+                event.locals.authMethod = "session";
             }
         } else {
             event.cookies.delete(SESSION_COOKIE_NAME, { path: "/" });
@@ -57,6 +60,8 @@ async function authHandle({ event, resolve }) {
 
                 if (user) {
                     event.locals.user = user;
+                    event.locals.authMethod = "bearer";
+                    event.locals.apiTokenId = token.id;
                 }
             }
         }

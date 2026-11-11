@@ -86,6 +86,28 @@ The embedding endpoint uses Voyage by default. Configure it with:
 When `secrets.existingSecret` is set, the Secret must also expose
 `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_EMBEDDING_API_KEY`.
 
+### MCP read-only server
+
+The `/mcp/readonly/` endpoint uses a dedicated PostgreSQL role. During
+`migrate`, the application creates the role and grants `SELECT` on
+`hierarchical_content_nodes` and `content_chunks`. Because the chart sets
+`cnpg.appRoleSuperuser: true`, the application role can create it.
+
+Configure it with:
+
+- `mcp.readerRole` (default `sklein_bibliography_mcp_reader`)
+- `mcp.readerPassword` (only when `secrets.existingSecret` is not set)
+
+When `secrets.existingSecret` is set, the Secret must expose
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_READONLY_POSTGRES_PASSWORD`. Leave
+the password unset to keep the MCP endpoint disabled; the application and the
+rest of the API keep working.
+
+The access log page is `/mcp/log/`. It shows only the signed-in user's calls.
+
+MCP sessions are held in memory. Keep `app.replicaCount` at 1 unless a shared
+session store or sticky sessions are added.
+
 ### OpenID Connect (OIDC)
 
 The application can authenticate users via OpenID Connect. The implementation
