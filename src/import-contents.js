@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 import * as yaml from "js-yaml";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
+import { buildChunkSyncPayload, hasEmbeddingSidecar, readEmbeddingSidecar } from "#lib/server/embedding-import.js";
 import { logger } from "./lib/server/logger.js";
 
 const PROJECT_ROOT = fileURLToPath(new URL("..", import.meta.url));
@@ -32,6 +33,16 @@ const argv = yargs(hideBin(process.argv))
         type: "boolean",
         default: false,
         description: "Delete rows whose source file no longer exists in the imported directory",
+    })
+    .option("skip-embeddings", {
+        type: "boolean",
+        default: false,
+        description: "Import documents only, without their chunk embeddings",
+    })
+    .option("require-embeddings", {
+        type: "boolean",
+        default: false,
+        description: "Fail when a document has no embedding sidecar",
     })
     .parse();
 
@@ -72,6 +83,11 @@ if (!isDirectory && argv.prune) {
 
 if (!ADMIN_TOKEN || ADMIN_TOKEN.length < 32) {
     logger.error("SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN is not set or is shorter than 32 characters");
+    process.exit(1);
+}
+
+if (argv.skipEmbeddings && argv.requireEmbeddings) {
+    logger.error("--skip-embeddings and --require-embeddings are mutually exclusive");
     process.exit(1);
 }
 
@@ -130,13 +146,45 @@ logger.info(
     "Parsed Markdown files",
 );
 
-const counts = { inserted: 0, updated: 0, unchanged: 0, deleted: 0 };
+const counts = {
+    inserted: 0,
+    updated: 0,
+    unchanged: 0,
+    deleted: 0,
+    embeddingsImported: 0,
+    embeddingsUnchanged: 0,
+    embeddingsMissing: 0,
+    chunks: 0,
+};
 
 try {
     for (const document of documents) {
         const action = await syncDocument(document);
         counts[action] += 1;
-        logger.info({ file: document.markdownSourceFile, action }, "Imported");
+        let embeddingResult = { status: "skipped", inserted: 0, chunks: 0 };
+
+        if (!argv.skipEmbeddings) {
+            embeddingResult = await syncEmbeddings(document);
+
+            if (embeddingResult.status === "imported") {
+                counts.embeddingsImported += 1;
+                counts.chunks += embeddingResult.inserted;
+            } else if (embeddingResult.status === "unchanged") {
+                counts.embeddingsUnchanged += 1;
+            } else if (embeddingResult.status === "missing") {
+                counts.embeddingsMissing += 1;
+            }
+        }
+
+        logger.info(
+            {
+                file: document.markdownSourceFile,
+                action,
+                embeddings: embeddingResult.status,
+                chunks: embeddingResult.chunks,
+            },
+            "Imported",
+        );
     }
 
     if (argv.prune) {
@@ -172,13 +220,17 @@ logger.info(
         updated: counts.updated,
         unchanged: counts.unchanged,
         deleted: counts.deleted,
+        embeddings_imported: counts.embeddingsImported,
+        embeddings_unchanged: counts.embeddingsUnchanged,
+        embeddings_missing: counts.embeddingsMissing,
+        chunks: counts.chunks,
         reindexed: reindex !== null,
     },
     "Content import done",
 );
 
 async function syncDocument(document) {
-    const result = await sendSyncRequest({
+    const result = await sendSyncRequest("/api/v1/admin/hierarchical-content-nodes/sync", {
         upsert: [toApiDocument(document)],
         dry_run: argv.dryRun,
     });
@@ -186,8 +238,34 @@ async function syncDocument(document) {
     return result.items[0].action;
 }
 
+async function syncEmbeddings(document) {
+    const sourcePath = join(CONTENTS_ROOT, document.markdownSourceFile);
+
+    if (!(await hasEmbeddingSidecar(sourcePath))) {
+        if (argv.requireEmbeddings) {
+            throw new Error(
+                `Embeddings sidecar is missing for ${document.markdownSourceFile}; run generate-sidecars and generate-embeddings first`,
+            );
+        }
+
+        return { status: "missing", inserted: 0, chunks: 0 };
+    }
+
+    const { manifest, chunks, embeddings } = await readEmbeddingSidecar(
+        sourcePath,
+        document.markdownSourceFile,
+        document.markdownSourceFileHash,
+    );
+    const result = await sendSyncRequest(
+        "/api/v1/admin/hierarchical-content-chunks/sync",
+        buildChunkSyncPayload({ manifest, chunks, embeddings, dryRun: argv.dryRun }),
+    );
+
+    return { status: result.unchanged ? "unchanged" : "imported", ...result };
+}
+
 async function pruneContent() {
-    return await sendSyncRequest({
+    return await sendSyncRequest("/api/v1/admin/hierarchical-content-nodes/sync", {
         prune: {
             scope: importPrefix,
             keep: documents.map((document) => document.markdownSourceFile),
@@ -196,14 +274,15 @@ async function pruneContent() {
     });
 }
 
-async function sendSyncRequest(payload) {
-    const response = await fetch(`${apiUrl}/api/v1/admin/hierarchical-content-nodes/sync`, {
+async function sendSyncRequest(path, payload) {
+    const response = await fetch(`${apiUrl}${path}`, {
         method: "PUT",
         headers: {
             Authorization: `Bearer ${ADMIN_TOKEN}`,
             "Content-Type": "application/json",
         },
         body: JSON.stringify(payload),
+        signal: AbortSignal.timeout(180_000),
     });
     const result = await response.json().catch(() => null);
 

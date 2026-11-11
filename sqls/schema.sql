@@ -2,6 +2,7 @@
 -- The executable path is migrations + functions.sql; this file is a reference.
 CREATE EXTENSION IF NOT EXISTS pgcrypto;
 CREATE EXTENSION IF NOT EXISTS pg_search CASCADE;
+CREATE EXTENSION IF NOT EXISTS vector;
 CREATE EXTENSION IF NOT EXISTS pg_trgm;
 CREATE EXTENSION IF NOT EXISTS unaccent;
 
@@ -67,6 +68,69 @@ CREATE INDEX idx_hierarchical_content_nodes_title_unaccent_trgm
 CREATE INDEX idx_hierarchical_content_nodes_authors_unaccent_trgm
     ON hierarchical_content_nodes
     USING GIN (immutable_unaccent(immutable_authors_text(authors)) gin_trgm_ops);
+
+-- Chunk-level retrieval table. One row per sidecar chunk; the vector dimension
+-- is fixed to 1024 for the Voyage 4 series.
+CREATE TABLE content_chunks (
+    id                        BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    created_at                TIMESTAMPTZ NOT NULL DEFAULT now(),
+    updated_at                TIMESTAMPTZ NOT NULL DEFAULT now(),
+
+    content_node_id           INTEGER NOT NULL
+        REFERENCES hierarchical_content_nodes(id) ON DELETE CASCADE,
+    markdown_source_file      TEXT NOT NULL,
+    markdown_source_file_hash TEXT NOT NULL
+        CHECK (markdown_source_file_hash ~ '^sha256:[0-9a-f]{64}$'),
+
+    chunk_index               INTEGER NOT NULL CHECK (chunk_index >= 0),
+    heading_path              TEXT NOT NULL,
+    content                   TEXT NOT NULL,
+    content_token_count       INTEGER NOT NULL CHECK (content_token_count >= 0),
+
+    embedding_provider        TEXT,
+    embedding_model           TEXT,
+    embedding_dimension       INTEGER,
+    embedding_strategy        TEXT NOT NULL DEFAULT 'standard',
+    embedding_input_format    TEXT NOT NULL DEFAULT 'heading_path_text_v1',
+    embedding_input_type      TEXT NOT NULL DEFAULT 'document',
+    embedding                 vector(1024),
+
+    metadata                  JSONB NOT NULL DEFAULT '{}'::jsonb,
+
+    CONSTRAINT content_chunks_node_chunk_unique
+        UNIQUE (content_node_id, chunk_index),
+    CONSTRAINT content_chunks_embedding_consistent CHECK (
+        (embedding IS NULL
+            AND embedding_provider IS NULL
+            AND embedding_model IS NULL
+            AND embedding_dimension IS NULL)
+        OR
+        (embedding IS NOT NULL
+            AND embedding_provider IS NOT NULL
+            AND embedding_model IS NOT NULL
+            AND embedding_dimension = 1024)
+    )
+);
+
+CREATE INDEX idx_content_chunks_markdown_source_file
+    ON content_chunks (markdown_source_file);
+
+CREATE INDEX idx_content_chunks_embedding_model
+    ON content_chunks (embedding_model);
+
+CREATE INDEX idx_content_chunks_embedding_hnsw
+    ON content_chunks
+    USING hnsw (embedding vector_cosine_ops)
+    WHERE embedding IS NOT NULL;
+
+CREATE INDEX idx_content_chunks_bm25
+    ON content_chunks
+    USING paradedb (
+        id,
+        (content::pdb.simple('stemmer=french', 'ascii_folding=true')),
+        (markdown_source_file::pdb.literal),
+        (embedding_model::pdb.literal)
+    );
 
 CREATE TABLE users (
     id              TEXT                     NOT NULL PRIMARY KEY,

@@ -15,7 +15,7 @@ import {
     unknown,
 } from "valibot";
 
-function relativeMarkdownPath() {
+export function relativeMarkdownPath() {
     return pipe(
         string(),
         minLength(1),

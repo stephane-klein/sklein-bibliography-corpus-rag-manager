@@ -32,7 +32,7 @@ export function getEmbeddingInfo() {
     return { provider: PROVIDER, model: MODEL, query_model: QUERY_MODEL, dimension: DIMENSION };
 }
 
-export async function embedTexts(texts, { inputType = "document" } = {}) {
+export async function embedTexts(texts, { inputType = "document", timeoutMs = TIMEOUT_MS } = {}) {
     if (!Array.isArray(texts) || texts.length === 0) {
         throw new Error("texts must be a non-empty array");
     }
@@ -48,7 +48,7 @@ export async function embedTexts(texts, { inputType = "document" } = {}) {
         values: texts,
         maxRetries: MAX_RETRIES,
         maxParallelCalls: MAX_PARALLEL_CALLS,
-        abortSignal: AbortSignal.timeout(TIMEOUT_MS),
+        abortSignal: AbortSignal.timeout(timeoutMs),
     };
 
     if (PROVIDER === "voyage") {

@@ -1,4 +1,5 @@
 import { toJsonSchema } from "@valibot/to-json-schema";
+import { contentChunkSyncSchema } from "#lib/schemas/content-chunk.js";
 import { contentNodeSyncSchema } from "#lib/schemas/content-node.js";
 import { embeddingRequestSchema } from "#lib/schemas/embedding.js";
 import { userFieldsSchema, userPatchSchema } from "#lib/schemas/user.js";
@@ -53,6 +54,9 @@ const userPatchJson = annotate(stripSchemaMeta(toJsonSchema(userPatchSchema)), {
 // the path and hash formats.
 const contentNodeSyncJson = stripSchemaMeta(
     toJsonSchema(contentNodeSyncSchema, { target: "openapi-3.0", errorMode: "ignore" }),
+);
+const contentChunkSyncJson = stripSchemaMeta(
+    toJsonSchema(contentChunkSyncSchema, { target: "openapi-3.0", errorMode: "ignore" }),
 );
 const embeddingRequestJson = stripSchemaMeta(
     toJsonSchema(embeddingRequestSchema, { target: "openapi-3.0", errorMode: "ignore" }),
@@ -366,6 +370,43 @@ export function GET() {
                             },
                         },
                         401: { $ref: "#/components/responses/Unauthorized" },
+                        500: { $ref: "#/components/responses/InternalError" },
+                    },
+                },
+            },
+            "/api/v1/admin/hierarchical-content-chunks/sync": {
+                put: {
+                    summary: "Sync chunk embeddings (admin, idempotent)",
+                    description:
+                        "Replaces all chunks of one Markdown document with the chunks and vectors from its sidecar. The document must already exist, and source_file_hash must match its imported hash.",
+                    security: [{ adminBearer: [] }],
+                    requestBody: {
+                        required: true,
+                        content: {
+                            "application/json": {
+                                schema: { $ref: "#/components/schemas/ContentChunkSyncRequest" },
+                            },
+                        },
+                    },
+                    responses: {
+                        200: {
+                            description: "Chunks imported",
+                            content: {
+                                "application/json": {
+                                    schema: {
+                                        type: "object",
+                                        properties: {
+                                            data: { $ref: "#/components/schemas/ContentChunkSyncResult" },
+                                            _links: { $ref: "#/components/schemas/Links" },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                        400: { $ref: "#/components/responses/BadRequest" },
+                        401: { $ref: "#/components/responses/Unauthorized" },
+                        409: { $ref: "#/components/responses/Conflict" },
+                        422: { $ref: "#/components/responses/Unprocessable" },
                         500: { $ref: "#/components/responses/InternalError" },
                     },
                 },
@@ -752,6 +793,25 @@ export function GET() {
                         duration_ms: { type: "integer", example: 1200 },
                     },
                     required: ["index", "mutable", "num_docs", "duration_ms"],
+                },
+                ContentChunkSyncRequest: {
+                    ...contentChunkSyncJson,
+                },
+                ContentChunkSyncResult: {
+                    type: "object",
+                    properties: {
+                        dry_run: { type: "boolean", example: false },
+                        source_file: {
+                            type: "string",
+                            example:
+                                "single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md",
+                        },
+                        deleted: { type: "integer", example: 34 },
+                        inserted: { type: "integer", example: 34 },
+                        chunks: { type: "integer", example: 34 },
+                        unchanged: { type: "boolean", example: false },
+                    },
+                    required: ["dry_run", "source_file", "deleted", "inserted", "chunks", "unchanged"],
                 },
                 EmbeddingInfo: {
                     type: "object",

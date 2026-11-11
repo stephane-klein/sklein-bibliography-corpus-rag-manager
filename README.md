@@ -51,8 +51,9 @@ emails it sends: run `pitchfork proxy status` to get its URL.
 ### Importing corpus contents
 
 `mise run import-contents` loads the Markdown files into
-`hierarchical_content_nodes`. The task accepts a directory or a single Markdown
-file:
+`hierarchical_content_nodes` and, when a `.md.yaml` sidecar and its
+`.md.embeddings.bin` exist, imports the chunks into `content_chunks`. The task
+accepts a directory or a single Markdown file:
 
 ```bash
 $ mise run import-contents
@@ -61,11 +62,21 @@ $ mise run import-contents contents/single-document-texts/mr-phi/2017-05-24_le-p
 $ mise run import-contents contents/single-document-texts/mr-phi --dry-run
 ```
 
-The webapp must be running. The CLI sends each document to
-`PUT /api/v1/admin/hierarchical-content-nodes/sync`.
+The webapp must be running with the `content_chunks` migration applied. The CLI
+sends each document to `PUT /api/v1/admin/hierarchical-content-nodes/sync`, then
+its chunks to `PUT /api/v1/admin/hierarchical-content-chunks/sync`.
 
 `--prune` removes rows whose source file no longer exists. It only works with a
-directory.
+directory. `--skip-embeddings` imports documents only. `--require-embeddings`
+fails when a document has no sidecar. By default, a document without a sidecar
+is imported and its embeddings are reported as missing.
+
+### Searching documents
+
+The `/documents/` page searches the document catalog with BM25. Enable
+"Semantic search" to embed the query with Voyage and fuse the best matching
+chunks with the BM25 ranking. The page falls back to BM25 when Voyage or the
+`content_chunks` table is unavailable. Query embeddings are not cached yet.
 
 ### Generating sidecars
 

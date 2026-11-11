@@ -8,6 +8,7 @@
             q: data.q,
             author: data.author,
             title: data.title,
+            semantic: data.semantic ? "1" : "",
             page: data.page,
             ...overrides,
         };
@@ -32,15 +33,37 @@
     }
 
     // pdb.snippets() returns plain text with <mark> tags around the matches.
-    // Split those tags into segments so Svelte renders and escapes the text.
+    // It also escapes HTML entities in the matched text. Split those tags into
+    // segments so Svelte renders and escapes the text, then decode the entities
+    // in each text part: decoding after the split keeps a "&lt;mark&gt;" found
+    // in the document from becoming a real tag.
     function snippetSegments(snippet) {
         return snippet
             .split(/(<mark>.*?<\/mark>)/gs)
             .filter((part) => part.length > 0)
             .map((part) => {
                 const match = part.match(/^<mark>(.*?)<\/mark>$/s);
-                return match ? { text: match[1], highlighted: true } : { text: part, highlighted: false };
+                return match
+                    ? { text: decodeEntities(match[1]), highlighted: true }
+                    : { text: decodeEntities(part), highlighted: false };
             });
+    }
+
+    const NAMED_ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: "\u00a0" };
+
+    function decodeEntities(text) {
+        return text.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (entity, code) => {
+            if (code.startsWith("#")) {
+                const value =
+                    code[1] === "x" || code[1] === "X"
+                        ? Number.parseInt(code.slice(2), 16)
+                        : Number.parseInt(code.slice(1), 10);
+
+                return Number.isInteger(value) && value > 0 && value <= 0x10ffff ? String.fromCodePoint(value) : entity;
+            }
+
+            return NAMED_ENTITIES[code.toLowerCase()] ?? entity;
+        });
     }
 </script>
 
@@ -75,7 +98,7 @@
             >
             <span class="text-gray-300 mx-1">|</span>
             <a
-                href={documentsHref({ q: "", page: "" })}
+                href={documentsHref({ q: "", semantic: "", page: "" })}
                 class="text-blue-600 hover:underline">{m.documents_view_selection()}</a
             >
         </p>
@@ -83,7 +106,7 @@
         <p class="text-sm text-gray-600 mt-3">{m.documents_try_title_author()}</p>
         <p class="text-sm mt-2">
             <a
-                href={documentsHref({ q: "", page: "" })}
+                href={documentsHref({ q: "", semantic: "", page: "" })}
                 class="text-blue-600 hover:underline">{m.documents_search_clear()}</a
             >
         </p>
@@ -133,7 +156,23 @@
                     {m.documents_search_submit()}
                 </button>
             </div>
-            <p class="text-xs text-gray-500 mt-1">{m.documents_search_help()}</p>
+            <p
+                id="search-help"
+                class="text-xs text-gray-500 mt-1"
+            >
+                {m.documents_search_help()}
+            </p>
+            <label class="flex items-center gap-2 text-sm text-gray-700 mt-2">
+                <input
+                    type="checkbox"
+                    name="semantic"
+                    value="1"
+                    checked={data.semantic}
+                    aria-describedby="search-help"
+                    class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:outline-2 focus:outline-blue-600"
+                />
+                {m.documents_semantic_label()}
+            </label>
         </div>
 
         <div class="pt-3.5 border-t border-gray-200 mb-1">
@@ -182,6 +221,14 @@
     </form>
 
     {#if data.hasQuery}
+        {#if data.semanticError}
+            <p class="text-xs text-amber-700 mt-2">
+                {data.semanticError === "no-vectors"
+                    ? m.documents_semantic_no_vectors()
+                    : m.documents_semantic_fallback()}
+            </p>
+        {/if}
+
         {#if data.total > 0}
             <div class="flex flex-wrap items-baseline justify-between gap-3 mt-6 pb-1.5 border-b-2 border-gray-300">
                 <h2 class="text-[13px] font-normal text-gray-500">
@@ -190,6 +237,12 @@
                         {m.documents_results_selection_suffix({ selection: data.selectionTotal })}
                     {/if}
                     {m.documents_sorted_relevance({ count: data.total })}
+                    {#if data.hybrid}
+                        <span
+                            class="ml-2 rounded-sm bg-blue-50 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-blue-700"
+                            >{m.documents_hybrid_badge()}</span
+                        >
+                    {/if}
                 </h2>
                 <span class="ml-auto text-[13px] text-gray-500">
                     {#if data.filtered}
@@ -200,7 +253,7 @@
                         ·
                     {/if}
                     <a
-                        href={documentsHref({ q: "", page: "" })}
+                        href={documentsHref({ q: "", semantic: "", page: "" })}
                         class="text-blue-600 hover:underline">{m.documents_search_clear()}</a
                     >
                 </span>
@@ -233,14 +286,34 @@
                             {:else}
                                 <span class="text-gray-400">—</span>
                             {/if}
+                            {#if document.vectorRank || document.bm25Rank}
+                                <span class="text-gray-400 px-1">·</span>
+                                <span class="text-gray-600"
+                                    >{#if document.vectorRank}
+                                        {document.bm25Rank
+                                            ? m.documents_rank_both({
+                                                  bm25: document.bm25Rank,
+                                                  vector: document.vectorRank,
+                                              })
+                                            : m.documents_rank_vector({ vector: document.vectorRank })}
+                                    {:else}
+                                        {m.documents_rank_bm25({ bm25: document.bm25Rank })}
+                                    {/if}</span
+                                >
+                            {/if}
                         </div>
-                        {#each document.snippets ?? [] as snippet, snippetIndex (snippetIndex)}
-                            <p class="text-sm leading-relaxed text-gray-700 mt-1">
-                                {#each snippetSegments(snippet) as segment, segmentIndex (segmentIndex)}
-                                    {#if segment.highlighted}<mark>{segment.text}</mark>{:else}{segment.text}{/if}
-                                {/each}
-                            </p>
-                        {/each}
+                        {#if document.bestChunk}
+                            <p class="text-xs text-gray-500 mt-1 truncate">{document.bestChunk.heading_path}</p>
+                            <p class="text-sm leading-relaxed text-gray-700">{document.bestChunk.content}</p>
+                        {:else}
+                            {#each document.snippets ?? [] as snippet, snippetIndex (snippetIndex)}
+                                <p class="text-sm leading-relaxed text-gray-700 mt-1">
+                                    {#each snippetSegments(snippet) as segment, segmentIndex (segmentIndex)}
+                                        {#if segment.highlighted}<mark>{segment.text}</mark>{:else}{segment.text}{/if}
+                                    {/each}
+                                </p>
+                            {/each}
+                        {/if}
                     </li>
                 {/each}
             </ol>
