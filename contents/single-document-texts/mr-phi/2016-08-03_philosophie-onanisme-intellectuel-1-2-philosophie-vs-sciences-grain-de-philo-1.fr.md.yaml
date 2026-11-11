@@ -7,6 +7,14 @@ manifest:
   max_chunk_tokens: 1000
   splitter: sentences
   chunk_count: 22
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2016-08-03_philosophie-onanisme-intellectuel-1-2-philosophie-vs-sciences-grain-de-philo-1.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
 chunks:
   - chunk_index: 0
     heading_path: 'Philosophie, onanisme intellectuel ? (1/2) - PHILOSOPHIE vs. SCIENCES - Grain de philo #1 > Bienvenue dans ce premier grain de philo'

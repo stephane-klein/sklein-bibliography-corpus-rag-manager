@@ -7,6 +7,14 @@ manifest:
   max_chunk_tokens: 1000
   splitter: sentences
   chunk_count: 27
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2017-10-13_le-scepticisme-le-trilemme-d-agrippa-grain-de-philo-14-ep-2.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
 chunks:
   - chunk_index: 0
     heading_path: 'LE SCEPTICISME - Le trilemme d''Agrippa | Grain de philo #14 (Ep.2) > Qu''est-ce que savoir ?'

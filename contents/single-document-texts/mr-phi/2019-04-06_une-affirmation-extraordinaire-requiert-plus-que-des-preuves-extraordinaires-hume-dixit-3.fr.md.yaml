@@ -7,6 +7,14 @@ manifest:
   max_chunk_tokens: 1000
   splitter: sentences
   chunk_count: 22
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2019-04-06_une-affirmation-extraordinaire-requiert-plus-que-des-preuves-extraordinaires-hume-dixit-3.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
 chunks:
   - chunk_index: 0
     heading_path: 'Une affirmation extraordinaire requiert PLUS que des preuves extraordinaires | Hume - Dixit #3'

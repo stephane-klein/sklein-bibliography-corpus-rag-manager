@@ -7,6 +7,14 @@ manifest:
   max_chunk_tokens: 1000
   splitter: sentences
   chunk_count: 45
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2018-01-18_la-machine-a-experience-de-nozick.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
 chunks:
   - chunk_index: 0
     heading_path: La machine à expérience de Nozick
