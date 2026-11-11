@@ -1,0 +1,176 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2024-02-27_une-experience-de-philosophie-morale.fr.md
+  source_file_hash: sha256:bc7a9255f36707ed7baac74ca63bf5f5e381f4030104cd98a66c55d2eacd2794
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 21
+chunks:
+  - chunk_index: 0
+    heading_path: Une expérience de philosophie morale
+    content_token_count: 95
+    text: |-
+      Cette vidéo a été créée en partenariat avec Echosciences Sud Provence-Alpes-Côte
+      d'Azur et propulsée par Play Azur Prod. Le script a été relu et discuté avec
+      Nicolas Gravel, enseignant-chercheur à l'AMSE, un laboratoire du CNRS et
+      d'Aix-Marseille Université. Nous en dirons davantage à ce sujet plus loin dans
+      la vidéo.
+  - chunk_index: 1
+    heading_path: Une expérience de philosophie morale > Le Scénario du Jeu
+    content_token_count: 154
+    text: |-
+      Imaginez la situation suivante. Vous participez à un jeu avec 100 autres joueurs. Chaque joueur est isolé des cent autres dans une petite cabine, une sorte d'isoloir, où se trouvent deux boutons : le bouton "Pour MOI" et le bouton "Pour les AUTRES". Chaque joueur doit appuyer une fois sur un seul des deux boutons, selon les règles suivantes :
+      *   Un joueur qui appuie sur le bouton "Pour MOI" gagne 250 € pour lui-même.
+      *   Un joueur qui appuie sur le bouton "Pour les AUTRES" fait gagner 10 € à chacun des 100 autres joueurs.
+  - chunk_index: 2
+    heading_path: Une expérience de philosophie morale > Le Scénario du Jeu
+    content_token_count: 20
+    text: Il va donc falloir faire un choix entre "Pour moi" et "Pour les autres".
+  - chunk_index: 3
+    heading_path: Une expérience de philosophie morale > Les Quatre Cas Limites
+    content_token_count: 28
+    text: |-
+      Pour s'assurer que les joueurs comprennent bien, on examine d'abord quatre cas
+      extrêmes :
+  - chunk_index: 4
+    heading_path: Une expérience de philosophie morale > Les Quatre Cas Limites
+    content_token_count: 234
+    text: |-
+      1.  **Tous appuient sur "Pour moi"** : chaque joueur repart avec les 250 € qu'il a gagnés pour lui-même.
+      2.  **Tous appuient sur "Pour les autres"** : chaque joueur reçoit 10 € de la part de chacun des 100 autres, soit 1000 € en tout. C'est quatre fois plus que dans le premier cas.
+      3.  **Vous seul appuyez sur "Pour les autres", tous les autres sur "Pour moi"** : vous repartez avec rien du tout, tandis que chaque autre joueur repart avec 250 € + les 10 € que vous lui avez fait gagner, soit 260 €.
+      4.  **Vous seul appuyez sur "Pour moi", tous les autres sur "Pour les autres"** : vous gagnez vos 250 € personnels, plus 10 € de la part de chacun des 100 autres, soit 1250 € au total (le maximum possible). Les autres joueurs, eux, gagnent encore 990 € chacun.
+  - chunk_index: 5
+    heading_path: Une expérience de philosophie morale > Les Quatre Cas Limites
+    content_token_count: 19
+    text: Ces cas limites donnent une bonne idée des propriétés de ce jeu.
+  - chunk_index: 6
+    heading_path: Une expérience de philosophie morale > Le Questionnaire et le Dilemme du Prisonnier
+    content_token_count: 90
+    text: |-
+      Ayant décrit le jeu, on passe à un questionnaire pour tester les choix "en
+      théorie". Plus de 10 000 personnes y ont répondu. La question de base était :
+      "Sur lequel des deux boutons appuyez-vous ?" en précisant que les choix restent
+      secrets et que l'on attend une réponse honnête sur ce que l'on ferait
+      réellement.
+  - chunk_index: 7
+    heading_path: Une expérience de philosophie morale > Le Questionnaire et le Dilemme du Prisonnier
+    content_token_count: 154
+    text: |-
+      Ce jeu est une sorte de **dilemme du prisonnier à 101 joueurs**. Dans un dilemme
+      classique entre deux joueurs, si les deux coopèrent, ils obtiennent un gain
+      modeste mais partagé. Si les deux se trahissent, le gain est le pire pour tous.
+      Mais si l'un trahit pendant que l'autre coopère, le traître obtient le gain
+      maximum, tandis que le coopérateur obtient le pire résultat. La trahison est
+      donc une stratégie individuellement dominante (rationnelle), mais si les deux la
+      suivent, ils aboutissent au résultat collectivement le pire.
+  - chunk_index: 8
+    heading_path: Une expérience de philosophie morale > Le Questionnaire et le Dilemme du Prisonnier
+    content_token_count: 181
+    text: |-
+      Dans notre jeu à 100 joueurs, la logique est similaire :
+      *   Presser "Pour moi" est une **stratégie dominante** : quoi que fassent les autres, vous gagnez toujours 250 € de plus qu'en pressant l'autre bouton.
+      *   Pour un agent "rationnel" (au sens classique, maximisant ses préférences ici l'argent), le choix "Pour moi" est donc un *no-brainer*.
+      *   Cependant, si tous suivent cette rationalité individuelle, chacun ne gagne que 250 €, alors que la situation collective optimale (1000 € chacun) est atteinte si tous appuient sur "Pour les autres". La rationalité individuelle fait ainsi obstacle à la satisfaction maximale des préférences de tous.
+  - chunk_index: 9
+    heading_path: Une expérience de philosophie morale > Le Test Kantien
+    content_token_count: 116
+    text: |-
+      L'analyse de la raison derrière le choix "Pour moi" révèle une contradiction
+      pratique. Si ma raison est de maximiser mon gain, alors je veux *aussi* que les
+      autres n'agissent pas selon cette même raison (car je veux qu'ils appuient sur
+      "Pour les autres" pour que mon gain soit maximal). Je ne peux donc pas
+      **universaliser** ma raison d'agir : je veux qu'elle s'applique à moi, mais pas
+      aux autres.
+  - chunk_index: 10
+    heading_path: Une expérience de philosophie morale > Le Test Kantien
+    content_token_count: 169
+    text: |-
+      C'est exactement la critique que formulerait **Emmanuel Kant** avec son
+      **impératif catégorique** : "Agis uniquement d'après la maxime qui fait que tu
+      puisses vouloir en même temps qu'elle devienne une loi universelle." Une maxime
+      (la raison subjective de l'action) est morale seulement si l'on peut vouloir que
+      tout le monde la suive. Ici, la maxime "j'agis pour maximiser mon gain
+      personnel" échoue à ce test. Choisir "Pour moi" est donc un acte rationnel au
+      sens classique, mais **immoral** au sens kantien. Les agents kantiens, eux,
+      choisiraient "Pour les autres".
+  - chunk_index: 11
+    heading_path: 'Une expérience de philosophie morale > Les Résultats du Questionnaire : Scénario de Base'
+    content_token_count: 57
+    text: |-
+      Seuls 35 % des participants déclarent appuyer sur "Pour moi". Ce résultat est
+      bien inférieur à la prédiction moyenne des participants eux-mêmes, qui
+      s'attendaient à 54 % de "Pour moi".
+  - chunk_index: 12
+    heading_path: 'Une expérience de philosophie morale > Les Résultats du Questionnaire : Scénario de Base'
+    content_token_count: 111
+    text: |-
+      Une différence frappante apparaît dans les prédictions des deux groupes :
+      *   Ceux qui répondent **"Pour moi"** prédisent en moyenne que 75,8 % des autres participants feront de même. Ils surestiment massivement la proportion d'agents rationnels individualistes.
+      *   Ceux qui répondent **"Pour les autres"** prédisent en moyenne 42,5 % de "Pour moi", une estimation beaucoup plus proche de la réalité (35 %).
+  - chunk_index: 13
+    heading_path: 'Une expérience de philosophie morale > Les Résultats du Questionnaire : Scénario de Base'
+    content_token_count: 17
+    text: Les deux groupes vivent donc dans des mondes perçus très différents.
+  - chunk_index: 14
+    heading_path: Une expérience de philosophie morale > Les Variantes de l'Expérience
+    content_token_count: 148
+    text: |-
+      Trois variantes ont été testées pour voir si l'on pouvait diminuer la part de "Pour moi" :
+      1.  **Choix public** : le choix est visible de tous.
+      2.  **Message d'encouragement** : un message (répétant les gains optimaux) incite à choisir "Pour les autres", le choix restant secret.
+      3.  **Vote + Message** : les participants votent d'abord pour la diffusion d'un message encourageant soit "Pour moi", soit "Pour les autres". Le message gagnant (qui s'est avéré être le message pro-"Pour les autres") est ensuite diffusé avant le choix secret.
+  - chunk_index: 15
+    heading_path: Une expérience de philosophie morale > Résultats des Variantes
+    content_token_count: 74
+    text: |-
+      *   **Choix public** : la part de "Pour moi" baisse à 22,5 % (contre 35 % en scénario de base).
+      *   **Message d'encouragement** : la part chute à 18,9 %.
+      *   **Vote + Message** : la part tombe à 17,9 %.
+  - chunk_index: 16
+    heading_path: Une expérience de philosophie morale > Résultats des Variantes
+    content_token_count: 137
+    text: |-
+      L'effet le plus spectaculaire vient du message, même sans le vote. Le message ne
+      contenait aucune nouvelle information, pourtant son simple rappel était
+      étonnamment efficace. D'ailleurs, lors du vote, 97,5 % des participants (y
+      compris 91 % de ceux qui voteraient ensuite "Pour moi") ont voté pour la
+      diffusion du message encourageant la coopération. Cela illustre bien la
+      contradiction kantienne : même ceux qui choisissent l'option égoïste veulent que
+      les autres soient incités à coopérer.
+  - chunk_index: 17
+    heading_path: Une expérience de philosophie morale > Analyse Démographique et Conclusions
+    content_token_count: 142
+    text: |-
+      Quelques différences apparaissent selon les profils :
+      *   **Genre** : les hommes répondent un peu plus "Pour moi" (24,3 %) que les femmes (20,3 %), un écart modeste.
+      *   **Âge** : aucun effet notable n'a été observé.
+      *   **Niveau social** : pas d'effet significatif.
+      *   **Orientation politique** : un fort effet a été trouvé. Plus les participants se situent à gauche, moins ils répondent "Pour moi" : plus de 40 % à l'extrême droite contre seulement 13,8 % à l'extrême gauche.
+  - chunk_index: 18
+    heading_path: Une expérience de philosophie morale > Analyse Démographique et Conclusions
+    content_token_count: 95
+    text: |-
+      Globalement, les résultats montrent que les agents "rationalistes" ne sont pas
+      si nombreux, mais sont convaincus d'être la majorité. Leur nombre diminue sous
+      l'effet du regard public et surtout d'un simple message de rappel. Comme ils
+      veulent que les autres suivent un principe qu'ils ne suivent pas eux-mêmes, ils
+      se comportent en agents non-kantiens.
+  - chunk_index: 19
+    heading_path: Une expérience de philosophie morale > Analyse Démographique et Conclusions
+    content_token_count: 101
+    text: |-
+      Ce petit jeu illustre des dilemmes sociaux réels (efforts pour le climat, etc.).
+      Il serait instructif de poursuivre la réflexion dans une seconde vidéo où
+      l'auteur discute avec l'économiste Nicolas Gravel, notamment de la formalisation
+      des agents kantiens et des résultats de cette expérience. La vidéo est
+      disponible sur la chaîne Echosciences Provence-Alpes-Côte d'Azur.
+  - chunk_index: 20
+    heading_path: Une expérience de philosophie morale > Analyse Démographique et Conclusions
+    content_token_count: 77
+    text: |-
+      Enfin, pour terminer, n'oubliez pas de vous abonner, d'activer la cloche, et
+      surtout, efforcez-vous d'agir en suivant une maxime que vous pouvez en même
+      temps vouloir ériger en loi universelle. Ce n'est pas la mer à boire. Merci.

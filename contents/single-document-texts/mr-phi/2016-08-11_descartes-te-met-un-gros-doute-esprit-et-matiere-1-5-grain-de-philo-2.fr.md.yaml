@@ -1,0 +1,207 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2016-08-11_descartes-te-met-un-gros-doute-esprit-et-matiere-1-5-grain-de-philo-2.fr.md
+  source_file_hash: sha256:7d610010f9a79653deb62fb343496cff123b6a07fc9316fe94fd606a5a1991e6
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 17
+chunks:
+  - chunk_index: 0
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 86
+    text: |-
+      C'est le moment de semer un grain de philo dans vos esprits. On va justement
+      parler d’esprit, et même en parler un petit moment, car j’ai prévu de faire une
+      série de 5 épisodes. Je signale aux élèves de Terminale que ça leur fera une
+      bonne introduction sur les notions du programme « Matière et esprit ».
+  - chunk_index: 1
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 142
+    text: |-
+      Dans ces vidéos, on parlera beaucoup d’un auteur très important, Descartes, mais
+      on fera aussi des critiques de Descartes. On arrivera même à la fin à des choses
+      tout à fait contemporaines. Dans l’ordre, on verra d’abord pourquoi Descartes
+      est persuadé d’être un esprit et pas un corps. Puis on parlera de télékinésie,
+      comment faire bouger des choses avec son esprit. Et à la toute fin, on verra
+      pourquoi il est difficile de nier que Terminator est un être pensant et
+      conscient tout aussi bien que vous et moi.
+  - chunk_index: 2
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 91
+    text: |-
+      Mais tout ça, c’est pour plus tard. C’était juste un teaser. Alors, d’abord,
+      l’esprit, c’est quoi ? En gros, c’est le siège de la pensée. Et il est posé où,
+      ce siège ? Bah, c’est dans la tête, dans le cerveau. Mais est-ce que tu veux
+      dire que l’esprit c’est le cerveau ?
+  - chunk_index: 3
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 127
+    text: |-
+      C’est vrai que si je t’ouvre le crâne façon Hannibal Lecter, ça risque de te
+      couper l’envie de penser. De façon plus subtile, si je te titille le cerveau
+      avec des électrodes bien placées, ça pourrait susciter en toi certaines
+      sensations, ou certaines pensées. Mais tout ce que ça montre, c’est qu’il y a
+      des interactions entre la pensée et le cerveau. Pas forcément que l’esprit et le
+      cerveau, c’est la même chose.
+  - chunk_index: 4
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 148
+    text: |-
+      En fait, en y réfléchissant un peu plus, le cerveau et l’esprit ça semble très
+      différents. Le cerveau, c’est juste de la matière, vous pouvez le manger. Par
+      contre, l’esprit, la pensée… Il y a quelque chose de pas tout à fait matériel
+      là-dedans. Du coup, est-ce qu’on pourrait pas défendre l’idée que l’esprit et le
+      corps, l’esprit et la matière, sont deux choses bien distinctes ? Comme c’est
+      une idée super cool, on lui a même donné un nom en philosophie : dualisme.
+  - chunk_index: 5
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 90
+    text: |-
+      Le premier dualiste moderne, c’est-à-dire autour du XVIIe siècle, c’est René
+      Descartes. Ah ouais, Descartes, c’est le mec qui a dit : « Je pense, donc je
+      suis. » Ouais, et si tu connais que ça de lui, t’es pas bien avancé, mais t’es
+      sur le point d’en savoir beaucoup plus.
+  - chunk_index: 6
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 239
+    text: |-
+      Un jour, Descartes s’est dit : tiens, et si je refondais toutes les sciences sur
+      des bases absolument certaines. La question du fondement des connaissances est
+      relativement classique, mais l’approche de Descartes est assez particulière en
+      ceci qu’il pose une exigence de certitude absolue. Descartes est vraiment obsédé
+      par la certitude. Il entend ce terme en un sens plus fort que le sens ordinaire.
+      Normalement, de quoi je suis certain ? Je suis certain des choses dont je ne
+      doute pas. La certitude, c’est l’opposé du doute, c’est l’absence de doute. Il y
+      a des tas de choses dont on ne doute pas. Par exemple, je ne doute pas une
+      seconde d’avoir un monstre vert sur les genoux. Pourquoi en douterait-on ? On
+      pourrait se dire qu’on rêve. Mais non, je ne me le dis pas, je ne crois pas une
+      seconde être en train de rêver.
+  - chunk_index: 7
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 248
+    text: |-
+      Donc voilà, je ne doute pas d’avoir un monstre vert là à côté de moi ; j’en suis
+      certain comme toi tu es certain d’avoir un livre dans les mains. Bon, bah c’est
+      super, on a une certitude, maintenant on va fonder les sciences ? Et bah non,
+      parce que si Descartes veut fonder les sciences, il veut évidemment pas les
+      fonder sur quelque chose qui peut être faux. Le problème avec une certitude
+      définie comme simplement l’absence de doute, c’est que ça peut tout à fait se
+      révéler faux. Il y a des tas de choses dont on ne doute pas, et qui se révèlent
+      finalement fausses. Par exemple, quand on est petit, on ne doute pas que le Père
+      Noël existe, c’est une certitude. Et pourtant… L’histoire des sciences est
+      pleine de ces choses qu’on tenait pour certaines (par exemple que la Terre est
+      au centre de l’univers) et qui se sont révélées complètement fausses.
+  - chunk_index: 8
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 129
+    text: |-
+      Donc, pour fonder les sciences sur des bases vraiment solides, il faut demander
+      plus qu’une simple certitude comprise comme absence de doute. C’est pour ça que
+      Descartes introduit une notion plus forte de certitude, qu’on pourrait appeler
+      certitude absolue. Une certitude absolue, c’est ce dont on ne peut pas douter.
+      C’est pas seulement l’absence de doute, c’est carrément l’impossibilité du
+      doute. Avec ça, là, oui, on aura quelque chose de solide pour fonder les
+      sciences !
+  - chunk_index: 9
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 156
+    text: |-
+      En résumé, Descartes va se mettre à la recherche d’une certitude indubitable.
+      Maintenant, comment reconnaître une telle certitude ? La méthode, ça va être
+      d’essayer de douter, de se forcer à douter autant que possible, de douter de
+      tout ce dont on peut douter. Cette démarche, on l’appelle chez Descartes le
+      doute méthodique : douter devient une méthode pour trouver la certitude. Et
+      concrètement, ce doute méthodique ressemble un peu à un exercice de paranoïa
+      absolue. Essayons de douter de tout ! On verra bien ce qui résiste.
+  - chunk_index: 10
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 333
+    text: |-
+      Si je reviens à l’exemple du monstre vert : je ne doute pas qu’il soit là, mais
+      est-il absolument impossible d’en douter ? C’est ici que l’argument du rêve
+      devient intéressant. Je sais qu’il m’arrive de rêver ; en rêve, j’ai des
+      sensations tout à fait similaires à celles qui m’enseignent en ce moment qu’il y
+      a un monstre vert en face de moi, et pourtant je suis en train de rêver à ce
+      moment-là. Certes, je ne crois pas être en train de rêver en ce moment, mais
+      l’expérience du rêve m’enseigne que, parfois, les sens me trompent : quand je
+      rêve, je crois entendre, voir, etc., des choses, et pourtant ces choses
+      n’existent pas ; et puisqu’il y a des situations possibles où mes sens me
+      trompent, cela signifie que je peux douter de ce que les sens m’enseignent en
+      général. Et ce que les sens m’enseignent, en gros, c’est qu’il y a un monde
+      matériel autour de moi avec des tables, des chaises, des murs, des monstres
+      verts. Donc, si je peux douter de ce que les sens m’enseignent, ça signifie que
+      je peux douter de la réalité de ce monde matériel dans son ensemble.
+  - chunk_index: 11
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 111
+    text: |-
+      Si ça vous paraît difficile à concevoir, pensez à des films comme Matrix,
+      eXistenZ, Total Recall, Inception. Ces films illustrent parfaitement pourquoi il
+      est possible de douter de la réalité du monde matériel qui nous entoure : nous
+      ne sommes pas absolument certain de ne pas être en train de rêver, ou de vivre
+      dans une simulation informatique. Donc, première conclusion : rien de ce qui
+      concerne ce monde matériel n’est absolument certain.
+  - chunk_index: 12
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 320
+    text: |-
+      Mais dis-moi Descartes, y’a bien des trucs absolument certains quand même ? Des
+      trucs tout bêtes comme 2 + 2 = 4… Même dans un rêve, même dans la matrice, 2 + 2
+      est toujours égal à 4. Alors, certes, je ne doute pas que 2 + 2 = 4. Faudrait
+      être fou pour en douter ! Mais est-ce que ça veut dire qu’il est absolument
+      impossible d’en douter ? Imaginez une drogue qui amoindrit les facultés
+      intellectuelles, qui rend stupide, et tellement stupide qu’on se trompe même sur
+      les calculs très simples. C’est loin d’être inconcevable. En fait, beaucoup de
+      substances font un petit peu cet effet-là : si vous avez bu, vous vous tromperez
+      bien plus facilement sur un calcul. Alors imaginez cet effet puissance mille.
+      Vous pourriez vous tromper aussi sur 2 + 2 = 4. Pour le dire autrement :
+      comprendre les vérités mathématiques mêmes les plus simples suppose que vos
+      facultés intellectuelles fonctionnent un minimum, or vous savez qu’elles peuvent
+      marcher de travers sans même que vous vous en rendiez compte. Du coup, même les
+      vérités mathématiques les plus simples ne sont pas absolument certaines.
+  - chunk_index: 13
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 176
+    text: |-
+      Petite remarque érudite : dans les Méditations métaphysiques, plutôt que de
+      drogue, Descartes fait l’hypothèse qu’un certain mauvais génie, non moins rusé
+      et trompeur que puissant, a employé toute son industrie à le tromper. Et ce
+      malin génie le trompe donc même pour additionner 2 et 2 ou pour compter les
+      côtés d’un triangle. On parle de l’hypothèse du malin génie, ça fait mieux dans
+      une copie de bac, mais l’idée est exactement la même : c’est là pour aller plus
+      loin dans le doute, pour pouvoir douter même des vérités formelles les plus
+      simples comme 2+2=4.
+  - chunk_index: 14
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 183
+    text: |-
+      Si je ne fais pas confiance en mes sens concernant l’existence du monde
+      extérieur, si je ne fais même plus confiance en mes facultés intellectuelles
+      pour des choses comme 2 + 2 = 4, quand je pousse si loin la paranoïa méthodique,
+      est-ce qu’il y a même une seule chose dont il soit impossible de douter ? Ô mon
+      Dieu ! Faut-il douter de tout ??? C’est ce que vous saurez dans le prochain
+      épisode ! C’est le meilleur cliffhanger de l’histoire de la philosophie ! On
+      flotte dans le doute métaphysique total, on ne sait absolument rien, on sait pas
+      si on va finir par savoir, on sait pas sur quoi on va tomber, c’est insoutenable
+      !
+  - chunk_index: 15
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 116
+    text: |-
+      Dans la prochaine vidéo, on verra le rapport de tout ça avec la notion d’esprit
+      et le dualisme, l’idée que l’esprit est distinct du corps, parce qu’en fait,
+      jusque là, c’est pas si clair, le rapport. Mais le détour par Descartes et par
+      le doute méthodique est en fait nécessaire, vous verrez pourquoi dans quelques
+      jours. Alors abonne-toi comme ça tu sauras tout de suite si Descartes il meurt
+      ou pas.
+  - chunk_index: 16
+    heading_path: 'DESCARTES TE MET UN GROS DOUTE - Esprit et matière (1/5) - Grain de philo #2'
+    content_token_count: 106
+    text: |-
+      Merci, un immense merci à tous ceux qui ont liké et partagé les premières
+      vidéos. Continuez de partager, partager, c’est le plus important, semez ces
+      petits grains, pour que la chaîne grandisse, pour que l’arbre de la philosophie
+      s’élève jusqu’aux sommets de… Enfin bref, c’est cool et ça me fait plaisir ! On
+      se revoit très vite. Ciao.

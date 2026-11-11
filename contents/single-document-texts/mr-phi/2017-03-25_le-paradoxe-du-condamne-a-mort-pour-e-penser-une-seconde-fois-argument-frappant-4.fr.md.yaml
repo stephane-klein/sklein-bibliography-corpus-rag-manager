@@ -1,0 +1,238 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2017-03-25_le-paradoxe-du-condamne-a-mort-pour-e-penser-une-seconde-fois-argument-frappant-4.fr.md
+  source_file_hash: sha256:d7e21b91a7f0fc667d7195859065c9e4265867bb39e34c2b58524262d4a5b051
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 21
+chunks:
+  - chunk_index: 0
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4'
+    content_token_count: 48
+    text: |-
+      Aujourd'hui, une vidéo un peu spéciale. Et notez que c'est la première fois que
+      je commence une vidéo en disant « aujourd'hui, une vidéo un peu spéciale », donc
+      c'est vraiment spécial.
+  - chunk_index: 1
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4'
+    content_token_count: 327
+    text: |-
+      Il y a quelques semaines, Bruce Benamran de la chaîne e-penser a publié sur sa
+      chaîne secondaire deux courtes vidéos qui présentent un paradoxe qui m'a
+      toujours beaucoup intéressé. Il l'appelle le paradoxe du condamné à mort, et je
+      le connaissais plutôt sous le nom du paradoxe de l'examen surprise. Mais peu
+      importe l'habillage, c'est le même paradoxe. Il fait partie de mes paradoxes
+      logiques préférés, et si vous voulez briller des lueurs bizarres dans mes yeux,
+      c'est normal : il se trouve que je suis mi-logicien, mi-philosophe, un peu comme
+      Spock qui est mi-Vulcain, mi-humain finalement. C'est mon côté logicien, j'adore
+      toutes ces choses-là : les paradoxes, les bizarreries logiques en tout genre, et
+      cetera. Mais s'agissant du paradoxe du condamné à mort, le traitement qu'en a
+      fait e-penser m'a, je l'avoue, laissé sur ma faim — et c'est peut-être le cas de
+      quelques-uns d'entre vous aussi. C'est pourquoi j'avais envie de le traiter
+      aujourd'hui. C'est un beau paradoxe, et il mérite bien qu'on s'y arrête un peu
+      plus longuement.
+  - chunk_index: 2
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4'
+    content_token_count: 86
+    text: |-
+      Si vous n'avez aucune idée de ce que ce paradoxe du condamné à mort ou de
+      l'examen surprise, vous pouvez aller voir la vidéo qui pose le problème. Sachez
+      que je vais le présenter ici aussi, mais je vais le faire d'une façon très
+      différente. Dans tous les cas, ça vaut le coup d'aller voir l'original.
+  - chunk_index: 3
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Qu''est-ce qu''un paradoxe ?'
+    content_token_count: 216
+    text: |-
+      Mes premières questions toute bête : qu'est-ce qu'un paradoxe ? On a un paradoxe
+      en logique quand on a un raisonnement qui paraît valide, partant de prémisses
+      qui paraissent vraies, mais aboutissant à une conclusion qui paraît fausse. Or,
+      si un raisonnement est valide et si les prémisses du raisonnement sont vraies,
+      la conclusion doit être vraie. Et du coup, ça veut dire que l'une de ces
+      apparences est trompeuse : l'une des prémisses n'est pas vraie, ou la conclusion
+      n'est pas fausse, ou le raisonnement n'est pas valide. Et les paradoxes vraiment
+      intéressants sont les paradoxes où il est difficile de dire ce qui cloche
+      précisément. Le paradoxe du condamné à mort en fait partie. Il y a une
+      littérature assez riche à ce sujet, et pas vraiment de consensus autour d'une
+      solution.
+  - chunk_index: 4
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Qu''est-ce qu''un paradoxe ?'
+    content_token_count: 180
+    text: |-
+      Il n'est pas si facile de montrer en quoi le paradoxe du condamné à mort est un
+      paradoxe, c'est-à-dire de formuler clairement et précisément le raisonnement
+      paradoxal. Et je trouve que les façons classiques de présenter le problème, à
+      base de condamnation à mort ou d'examen surprise, pour amusantes qu'elles
+      soient, tendent à obscurcir les choses. Et c'est dommage. Dans cette vidéo, je
+      vais donc m'efforcer de rendre parfaitement clair quel est ce raisonnement
+      paradoxal, et pour cela, je vais le présenter d'une façon un peu différente, un
+      peu plus formelle, mais ça nous permettra de le comprendre d'une façon plus
+      précise.
+  - chunk_index: 5
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le jeu du Joker'
+    content_token_count: 49
+    text: |-
+      Comment ça va se passer ? Eh bien, on va parler d'une sorte de jeu, appelons-le
+      le jeu du Joker, dont on va se demander si les règles peuvent être respectées.
+      Et je vais jouer avec toi.
+  - chunk_index: 6
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le jeu du Joker'
+    content_token_count: 149
+    text: |-
+      Il y a d'abord une règle initiale qui décrit globalement ce qu'on va faire : je
+      vais choisir et placer devant toi un certain nombre de cartes face cachée, et tu
+      vas les retourner face visible une à une, en respectant l'ordre dans lequel je
+      les ai placées, de gauche à droite. Bon, et qui gagne à la fin ? Il n'y a pas de
+      gagnant ni de perdant. L'important n'est pas là. L'important ce sont les deux
+      règles suivantes, qui contraignent la façon dont je vais devoir choisir et
+      placer les cartes que je mets devant toi.
+  - chunk_index: 7
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le jeu du Joker'
+    content_token_count: 23
+    text: '**Règle 1 :** Un joker est placé parmi les cartes retournées.'
+  - chunk_index: 8
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le jeu du Joker'
+    content_token_count: 36
+    text: |-
+      **Règle 2 :** Ce joker est placé de telle façon que ce sera forcément une
+      surprise pour toi quand tu le retourneras.
+  - chunk_index: 9
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le jeu du Joker'
+    content_token_count: 334
+    text: |-
+      Je sais que le terme de « surprise » est au cœur du paradoxe dans la plupart de
+      ses versions, mais je ne l'aime pas du tout car il est beaucoup trop flou et
+      imprécis, et ça peut donner l'impression que le paradoxe réside dans une sorte
+      d'ambiguïté du mot « surprise ». Or, en fait, ce n'est pas forcément le cas : on
+      peut rendre les choses plus précises, et le paradoxe subsiste. Pour formuler ça
+      de façon plus explicite, je propose de remplacer la règle 2 par la règle
+      suivante : le joker est placé de telle façon que tu ne pourras à aucun moment,
+      avant de le retourner, déduire des règles du jeu où se trouve le joker. L'idée
+      étant qu'un événement dans un jeu est prévisible, donc n'est pas une surprise
+      pour toi, dès lors que, avant qu'il se produise, tu peux déjà déduire des règles
+      du jeu que l'événement doit se produire. De cette façon, on a évacué la notion
+      de surprise et on l'a remplacée par cette notion plus précise de ce qui ne peut
+      pas être déduit des règles du jeu. Enfin, ajoutons que ces deux règles, plus
+      celles qui décrivent le fonctionnement du jeu, sont toutes les règles du jeu.
+      Ah, je sens qu'on va bien s'amuser.
+  - chunk_index: 10
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 108
+    text: |-
+      Il semble à première vue très facile de respecter ces règles du jeu. Je prends
+      un paquet de cartes, je mets le joker en gros au milieu, et j'étale toutes ces
+      cartes devant toi. Tu vas les retourner une à une jusqu'à tomber sur le joker,
+      et tu auras pas pu déduire des règles du jeu où se trouver le joker avant de
+      l'avoir retourné. Bah ouais, je vois pas trop le problème.
+  - chunk_index: 11
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 29
+    text: |-
+      Le problème, c'est qu'un raisonnement tout à fait valide permet de montrer qu'il
+      est impossible de respecter ces règles.
+  - chunk_index: 12
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 171
+    text: |-
+      Posons-nous la question suivante : quel est le nombre minimal de cartes que je
+      dois placer devant toi pour pouvoir respecter ces règles ? Je peux commencer à
+      répondre à cette question en considérant le plus petit cas. Est-ce que je peux
+      respecter les règles du jeu si je place devant toi une seule carte ? Ben non, je
+      peux déduire de la règle 1 que ça va être un joker, et du coup ça contredit la
+      règle 2. C'est très juste. Il semble bien qu'il faille plus d'une seule carte
+      pour que la position du joker parmi les cartes soit une surprise, c'est-à-dire
+      que tu ne puisses pas la déduire des règles du jeu.
+  - chunk_index: 13
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 181
+    text: |-
+      Considère maintenant le cas avec deux cartes. Est-ce que je peux respecter les
+      règles du jeu en ne plaçant devant toi que deux cartes ? Tu as pas pu mettre le
+      joker là, parce que si tu as mis le joker là, dans ce cas je vais retourner
+      cette carte-là, on va se retrouver dans une situation avec une seule carte où
+      c'est juste impossible que tu respectes les règles du jeu. Et si tu as pas le
+      joker là, il est forcément là, et ça, j'ai pu le déduire simplement des règles
+      du jeu avant même de le retourner. Donc ça contrevient à la règle 2 encore une
+      fois. OK, le raisonnement est déjà plus complexe, mais il me semble que ça se
+      tient.
+  - chunk_index: 14
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 146
+    text: |-
+      Bon, et maintenant tu vas me demander avec trois cartes, et cetera, et cetera.
+      Non, on va faire un truc bien plus intelligent : on va réfléchir à un cas
+      général. Supposons — prouver — qu'il est impossible de respecter les règles du
+      jeu si l'on place devant toi un certain nombre n de cartes, peu importe quel est
+      ce nombre n. Dans cette hypothèse, est-il possible de respecter les règles du
+      jeu en plaçant devant toi une carte de plus, c'est-à-dire pour un nombre de
+      cartes égal à n plus un ?
+  - chunk_index: 15
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 195
+    text: |-
+      On peut répondre en faisant un raisonnement très similaire à celui que tu as
+      déjà fait. De choses l'une : soit le joker est là, soit il n'y est pas.
+      Maintenant, s'il n'y est pas, ça veut dire que tu vas retourner cette carte et
+      on se retrouvera dans une situation de jeu à n cartes où, d'après notre
+      hypothèse, il est impossible de respecter les règles du jeu. Donc si le joker
+      n'est pas là, il est impossible de respecter les règles du jeu, et ça, ça
+      revient à dire que pour que les règles du jeu soient respectées, il faut que le
+      joker soit là. Le joueur peut donc déduire des règles du jeu que le joker doit
+      être là, ce qui contrevient à la règle numéro 2.
+  - chunk_index: 16
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le paradoxe en action'
+    content_token_count: 123
+    text: |-
+      Notez bien que tout ce raisonnement se fait sous l'hypothèse que les règles du
+      jeu ne peuvent pas être respectées en plaçant devant le joueur n cartes. Donc ce
+      qu'on a montré, en fin de compte, c'est que si les règles du jeu ne peuvent pas
+      être respectées en plaçant devant le joueur n cartes, elles ne peuvent pas être
+      respectées non plus en plaçant devant le joueur n plus une carte. OK, oui, c'est
+      vrai que c'est assez logique.
+  - chunk_index: 17
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le raisonnement par récurrence'
+    content_token_count: 155
+    text: |-
+      Et donc tout ceci permet de faire ce qu'on appelle en mathématiques un
+      raisonnement par récurrence. Ici, on a montré que les règles du jeu ne peuvent
+      pas être respectées lorsqu'il y a une seule carte devant le joueur — ça
+      paraissait évident — et on a montré aussi que si les règles du jeu ne peuvent
+      pas être respectées lorsqu'il y a n cartes devant le joueur, elles ne peuvent
+      pas être respectées non plus lorsqu'il y a n plus une carte devant le joueur. Et
+      par récurrence, on peut conclure : pour aucun nombre de cartes les règles du jeu
+      ne peuvent être respectées.
+  - chunk_index: 18
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Le raisonnement par récurrence'
+    content_token_count: 197
+    text: |-
+      Voilà. Le raisonnement par récurrence. C'est un raisonnement par récurrence, et
+      c'est parfaitement valide. Il s'appuie sur ces deux prémisses, et on a vu en
+      quoi chacune est justifiée et paraît vraie. Or, la conclusion est manifestement
+      fausse. Encore une fois, supposez que je mette le joker au beau milieu d'un
+      paquet de cartes et que je les étale toutes devant vous. Vous les retournerez
+      une à une jusqu'au joker, et vous n'aurez pas pu déduire où était le joker à
+      partir des règles du jeu. Donc j'aurais bien respecté les règles du jeu. Ça ne
+      paraît pas du tout impossible. Et pourtant, il y a ce raisonnement. Qu'est-ce
+      qui cloche là-dedans ?
+  - chunk_index: 19
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Vers la suite'
+    content_token_count: 132
+    text: |-
+      C'est vrai que c'est frappant. Voilà pour ma présentation du paradoxe du
+      condamné à mort, où il n'était pas du tout question de condamner à mort. En
+      fait, je pense que vous pourrez facilement voir pourquoi le paradoxe présenté
+      dans la vidéo d'e-penser est bien équivalent. Je lui ai juste donné un habillage
+      un peu plus solide et rigoureux, notamment en évacuant la notion trop floue et
+      ambiguë de surprise. On gagne beaucoup en clarté en évitant ce terme.
+  - chunk_index: 20
+    heading_path: 'LE PARADOXE DU CONDAMNÉ À MORT - Pour "e-penser" une seconde fois - Argument frappant #4 > Vers la suite'
+    content_token_count: 160
+    text: |-
+      Il y a matière à bien se prendre la tête sur ce paradoxe. C'est pour ça que
+      j'avais envie de le traiter. Dans la prochaine vidéo, j'en dirai bien davantage,
+      et promis, on y verra plus clair sur ce qui cloche dans tout ça. Si ça vous a
+      plu ou si ça vous a donné des idées, si vous avez des pistes de réflexion,
+      allez-y, lancez-vous. Sachez toutefois qu'il y a toute une littérature sur le
+      sujet. Si vraiment vous voulez creuser, dans tous les cas, un pouce bleu ça fait
+      plaisir, partager c'est important. Voilà.

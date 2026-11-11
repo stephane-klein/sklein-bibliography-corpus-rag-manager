@@ -1,0 +1,359 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2017-10-06_comment-demontrer-n-importe-quoi-grain-de-philo-14-ep-1.fr.md
+  source_file_hash: sha256:432c4cc4ddaace139b99f2907befc2ad2f14d8267e6aadbfd72c4ff38397e1bf
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 34
+chunks:
+  - chunk_index: 0
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Comment démontrer n''importe quoi'
+    content_token_count: 134
+    text: |-
+      Aujourd'hui on va parler de démonstration. Ça n'a pas l'air super fun comme ça,
+      mais en fait c'est super fun. Non, en fait non, mais ça n'empêche pas qu'on
+      puisse en parler dans la joie et dans la bonne humeur. Alors allons-y. Et pour
+      vous faire un petit teaser, sachez que tout à l'heure je vais vous démontrer que
+      la terre est plate. Mais c'est faux. Oui, et alors ? Philippe, arrêtez,
+      démontrer, je n'ai pas dit que c'était vrai.
+  - chunk_index: 1
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Qu''est-ce qu''une démonstration ?'
+    content_token_count: 74
+    text: |-
+      D'abord, une démonstration, c'est quoi ? Eh bien, la définition, on peut la
+      faire tenir en deux mots : argument valide. OK, mais ça veut dire quoi « valide
+      » ? Mauvaise question, il vaut mieux commencer par se demander : ça veut dire
+      quoi « argument » ?
+  - chunk_index: 2
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Qu''est-ce qu''une démonstration ?'
+    content_token_count: 92
+    text: |-
+      En gros, on a un argument quand un ensemble d'affirmations se présente comme
+      justifiant une autre affirmation. Celles-ci, on va les appeler la **conclusion**
+      de l'argument, et les autres, on va les appeler les **prémisses** de l'argument.
+      Notez bien que cette définition ne présume rien quant à la qualité, quant à la
+      valeur de l'argument.
+  - chunk_index: 3
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Qu''est-ce qu''une démonstration ?'
+    content_token_count: 170
+    text: |-
+      Si je vous dis : « Puisque tous les chats sont des chiens, et puisque Socrate
+      est un monstre vert, il en suit donc que Platon est un gnou. » La forme de ce
+      discours stupide — et notamment la présence de ces petits mots « puisque » et «
+      donc » — tout cela semble indiquer que je présente les deux premières
+      affirmations comme une justification de la dernière. En ceci, on pourrait fort
+      bien dire que c'est un argument en faveur de la gnouté de Platon. C'est un
+      argument ? Vraiment ? Oui, mais c'est un mauvais argument, aurait dit les mêmes,
+      tellement mauvais qu'on éviterait de l'appeler argument.
+  - chunk_index: 4
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Qu''est-ce qu''une démonstration ?'
+    content_token_count: 74
+    text: |-
+      La question intéressante, c'est de savoir pourquoi c'est un mauvais argument. Il
+      y a deux raisons évidentes. D'une part, les prémisses sont clairement fausses.
+      D'autre part — et surtout —, même si elles étaient vraies, elles ne semblent
+      avoir strictement aucun lien avec la conclusion.
+  - chunk_index: 5
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > La valeur d''un argument'
+    content_token_count: 112
+    text: |-
+      Il est intéressant de noter que, de façon générale, la valeur d'un argument
+      réside entièrement dans ces deux aspects. Un bon argument, c'est d'abord un
+      argument qui part de prémisses reconnues comme vraies ou du moins probables par
+      celui à qui vous présentez l'argument. Et en deuxième lieu, un argument pour
+      être bon doit présenter un lien assez fort entre la vérité de ses prémisses et
+      la vérité de la conclusion.
+  - chunk_index: 6
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > La valeur d''un argument'
+    content_token_count: 29
+    text: |-
+      Et c'est ce deuxième aspect, c'est ce lien, qui va m'intéresser plus
+      spécialement aujourd'hui.
+  - chunk_index: 7
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le lien entre prémisses et conclusion'
+    content_token_count: 74
+    text: |-
+      Comment penser ce lien entre les prémisses et la conclusion ? On peut se le
+      représenter avec des degrés de conviction. Imaginez que vous êtes convaincu à
+      100 % par les prémisses : demandez-vous dans quelle mesure l'argument vous
+      permettrait de transférer ce degré de conviction à la conclusion.
+  - chunk_index: 8
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le lien entre prémisses et conclusion'
+    content_token_count: 220
+    text: |-
+      Par exemple, considérez cet argument : « La météo a prévu de la pluie, donc il
+      va pleuvoir demain. » Ça casse pas trois pattes à un canard, mais c'est un
+      argument. Admettons que vous soyez convaincu à 100 % de la prémisse — vous êtes
+      absolument certain que la météo a prévu de la pluie —, dans quelle mesure
+      êtes-vous prêt à transférer ce degré de conviction sur la conclusion qu'il va
+      pleuvoir demain ? La météo a généralement raison, elle peut parfois se tromper.
+      Tenant compte de tout cela, convaincu à 100 % de la prémisse, vous serez
+      peut-être convaincu à 90 % de la conclusion. Et c'est déjà pas mal, le lien est
+      plutôt fort, et donc ça reste un bon argument, même si le lien entre la prémisse
+      et la conclusion n'est pas parfait.
+  - chunk_index: 9
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le lien entre prémisses et conclusion'
+    content_token_count: 159
+    text: |-
+      Maintenant, quelle serait justement le lien parfait, le lien le plus solide qui
+      puisse exister entre les prémisses d'un argument et sa conclusion ? Regardez un
+      peu ceci : « Tous les hommes sont mortels, or Socrate est un homme, donc Socrate
+      est mortel. » Si vous êtes convaincu à 100 % de la vérité des deux prémisses, à
+      quel degré serez-vous convaincu de la conclusion ? Si vous saisissez le lien
+      logique qui unit les prémisses à la conclusion, vous devriez répondre 100 %
+      aussi. Il n'y a aucune perte de conviction entre les prémisses et la conclusion.
+  - chunk_index: 10
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le lien entre prémisses et conclusion'
+    content_token_count: 155
+    text: |-
+      Et donc, c'est bien ça le lien maximal, le lien le plus fort que puisse établir
+      un argument entre ses prémisses et sa conclusion : c'est le cas où, si les
+      prémisses sont vraies, alors nécessairement la conclusion est vraie aussi. Ou
+      pour le dire autrement, il est absolument impossible que les prémisses soient
+      vraies et qu'en même temps la conclusion soit fausse. Vous pouvez imaginer
+      n'importe quoi à propos de Socrate et des hommes, etc., vous n'arriverez pas à
+      interpréter ces trois phrases de sorte que les deux premières soient vraies et
+      que la dernière soit fausse.
+  - chunk_index: 11
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le lien entre prémisses et conclusion'
+    content_token_count: 55
+    text: |-
+      Lorsque le lien entre les prémisses et la conclusion est de cette sorte, un lien
+      nécessaire, un lien garanti à 100 %, on dit que l'argument est **valide**. Il
+      est donc une démonstration.
+  - chunk_index: 12
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Définition de la démonstration'
+    content_token_count: 91
+    text: |-
+      Et oui, nous y voilà. Une démonstration, c'est donc un argument valide,
+      c'est-à-dire un argument tel que la vérité des prémisses entraîne nécessairement
+      la vérité de la conclusion. Ça, vous pouvez le souligner en rouge, le faire
+      encadrer, et le coller sur votre frigo. C'est la définition de la démonstration.
+  - chunk_index: 13
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Définition de la démonstration'
+    content_token_count: 162
+    text: |-
+      Notez qu'on parle aussi de **déduction** ou de **raisonnement déductif**. Ces
+      expressions sont reprises comme synonymes de démonstration. Donc non, Sherlock,
+      avec tout le respect que je te dois, arrête de parler de déductions à tout bout
+      de champ. Quand tu déduis que je suis prof parce que j'ai de la craie sur ma
+      manche, tu ne déduis rien. Tu fais une inférence, la meilleure explication, et
+      ça n'a rien d'absolument certain, donc ce n'est pas une déduction. D'ailleurs,
+      pour ta gouverne, c'était de la farine, car oui, je fais de la pâtisserie.
+  - chunk_index: 14
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Définition de la démonstration'
+    content_token_count: 249
+    text: |-
+      Évitez aussi d'utiliser le mot « valide » pour désigner de façon générale les
+      raisonnements que vous approuvez. Bien souvent ils ne sont pas du tout valides,
+      même si ce sont de bons raisonnements. Beaucoup de raisonnements importants,
+      notamment en sciences, ne sont pas valides et ne sont pas censés l'être. En
+      particulier, une théorie scientifique n'est jamais démontrée par l'expérience :
+      on parle plutôt de **confirmation**, et c'est très différent. Le raisonnement
+      qui, à partir d'un ensemble de confirmations empiriques, conclut qu'une certaine
+      théorie est vraie n'est pas un raisonnement valide. Ce qui ne veut pas dire
+      qu'on doit remettre en cause les théories scientifiques — évidemment, ça reste
+      un excellent argument, sans doute le meilleur qu'on puisse faire —, mais ce
+      n'est pas une démonstration. Bref, c'est un point d'épistémologie très
+      important, auquel je consacrerai sans doute une vidéo un de ces jours.
+  - chunk_index: 15
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 67
+    text: |-
+      Pour l'heure, revenons à la démonstration. Pour rappel, ce qui fait d'un
+      argument une démonstration, c'est uniquement le lien entre les prémisses et la
+      conclusion : si les prémisses sont vraies, alors nécessairement la conclusion
+      aussi est vraie.
+  - chunk_index: 16
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 134
+    text: |-
+      Notez bien que ça ne veut pas dire que tout est vrai dans une démonstration. Il
+      y a des démonstrations où tout est faux : « Toutes les peluches sont des
+      monstres verts, or Socrate est une peluche, il en suit donc Socrate est un
+      monstre vert. » Cet argument est bien valide — il est tout aussi valide que le
+      précédent — : à supposer que les prémisses soient vraies, alors la conclusion
+      nécessairement serait vraie. Mais de fait, les prémisses et la conclusion sont
+      fausses.
+  - chunk_index: 17
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 140
+    text: |-
+      Mais du coup, la démonstration, elle, est vraie ou elle est fausse ? Cette
+      question n'a pas vraiment de sens. Dire qu'une démonstration — ou plus
+      généralement qu'un argument, ou une preuve — est vraie ou fausse, c'est un abus
+      de langage dont il faut se méfier. La vérité et la fausseté, c'est une propriété
+      qui s'applique aux phrases, aux affirmations. Donc ce qui est susceptible d'être
+      vrai ou faux dans un argument, ce sont les prémisses et la conclusion de
+      l'argument.
+  - chunk_index: 18
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 165
+    text: |-
+      Et même si tout est vrai, ça ne présume rien quant à la valeur de l'argument.
+      Regardez par exemple : « Tous les hommes sont mortels, or Socrate est mortel,
+      donc Socrate est un homme. » Tout est vrai, mais l'argument n'est pas valide. Si
+      Socrate était un chat, par exemple, la conclusion serait fausse mais les
+      prémisses seraient vraies — car oui, les chats sont mortels, je suis désolé de
+      vous l'apprendre. Donc voilà, bien que tout soit vrai, cet argument n'est pas
+      une démonstration, c'est un mauvais argument qui établit un lien faible entre
+      prémisses et conclusion.
+  - chunk_index: 19
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 95
+    text: |-
+      J'espère que vous voyez maintenant pourquoi il est tellement important de
+      distinguer entre cette notion de vérité et cette notion de validité. La validité
+      concerne le lien entre les prémisses et la conclusion, et la vérité concerne les
+      prémisses et la conclusion elles-mêmes. Et ce n'est pas parce que vous me dites
+      des choses vraies que vous argumentez bien.
+  - chunk_index: 20
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Validité et vérité : deux choses différentes'
+    content_token_count: 120
+    text: |-
+      Petite question bonus : peut-on faire une démonstration — donc un argument
+      valide — dont les prémisses sont fausses mais dont la conclusion soit vraie ?
+      Démontrer un truc vrai à partir d'un truc faux ? Non, c'est absurde. Et vous,
+      vous en pensez quoi ? Prémisses fausses, conclusion vraie, argument valide ? Si
+      vous trouvez un exemple, mettez-le en commentaire, ça me fera plaisir. Et soyez
+      inventifs, je ferai un top 3.
+  - chunk_index: 21
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > La forme des raisonnements valides'
+    content_token_count: 116
+    text: |-
+      Vous avez peut-être remarqué que les deux raisonnements valides que j'ai donnés
+      en exemples précédemment avaient exactement la même forme. On voit très
+      clairement qu'ils ont la même structure. On peut très bien remplacer les termes
+      du raisonnement par des lettres arbitraires, comme par exemple X, Y et Z. Ça
+      donne dans les deux cas la forme suivante : « Tous les X sont Y, or Z est un X,
+      donc Z est un Y. »
+  - chunk_index: 22
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > La forme des raisonnements valides'
+    content_token_count: 231
+    text: |-
+      Ce qui est fascinant, et ce qui est au cœur même de la logique, c'est qu'en vous
+      montrant simplement la forme du raisonnement, je pense que vous voyez que le
+      raisonnement est valide. Autrement dit, il semble que la validité d'un
+      raisonnement dépende uniquement de sa forme et non de son contenu. C'est
+      formidable quand même : on n'a pas besoin de savoir de quoi on parle pour savoir
+      si un raisonnement est valide. On pourra donc étudier la validité des
+      raisonnements en abstrayant complètement le contenu et en ne regardant que la
+      forme. Et c'est finalement ce qu'on a commencé à faire en remplaçant les termes
+      du langage ordinaire par des lettres X, Y et Z. On va appeler ces termes des
+      **variables**, l'idée étant que peu importe ce par quoi on remplace ces
+      variables, tant qu'on respecte la forme, on obtiendra toujours un raisonnement
+      valide.
+  - chunk_index: 23
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > La forme des raisonnements valides'
+    content_token_count: 87
+    text: |-
+      La question qu'on a envie de se poser du coup, c'est : quelles sont les formes
+      de raisonnements valides ? Pendant longtemps, la logique a consisté
+      essentiellement à répondre à cette question. On ne peut rien vous cacher :
+      aujourd'hui, la logique, c'est assez différent, mais pendant longtemps, c'était
+      ça la logique.
+  - chunk_index: 24
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Aristote et l''origine de la logique'
+    content_token_count: 179
+    text: |-
+      L'étude des formes de raisonnement valides, le premier à faire ça, le véritable
+      père de la logique — au moins en Occident —, il nous vient tout droit du IVe
+      siècle avant Jésus-Christ, et c'est un authentique philosophe à barbe comme on
+      n'en fait plus : Aristote. Pour pallier un haut responsable à « logistique »
+      d'Aristote — et la première tentative pour identifier et systématiser un
+      ensemble de formes de raisonnements valides —, son approche reste très
+      incomplète, car Aristote ne s'est penché que sur un certain type de
+      raisonnements, ce qu'on appelle justement des **syllogismes**. Mais c'était un
+      premier pas très important.
+  - chunk_index: 25
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Aristote et l''origine de la logique'
+    content_token_count: 144
+    text: |-
+      Je dirais que son importance ne réside pas seulement dans cette classification
+      des syllogismes en elle-même, mais aussi dans le fait que, pour les étudier, il
+      a eu cette idée de remplacer les termes du langage par des variables, qu'il
+      notait avec des lettres grecques : Alpha, Bêta, Gamma. C'était bien une approche
+      formelle du raisonnement, et c'est en cela qu'on peut y voir le point de départ
+      de la logique. Donc voilà pour Aristote, respect total. Je désapprouve le
+      Aristote-bashing : touche pas mon Aristote.
+  - chunk_index: 26
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Démontrer la Terre plate (et les limites de la démonstration)'
+    content_token_count: 195
+    text: |-
+      Bon, et sinon, c'est quand qu'ils nous démontrent que la Terre est plate ? J'ai
+      pas oublié le teaser, moi-même. Tu peux le faire tout de suite si tu veux. Juste
+      pour clarifier les choses, qu'est-ce que tu appelles exactement démontrer ? Une
+      certaine proposition ? Démontrer X ? Bah tu l'as dit, c'est faire un argument
+      valide, et je veux que la conclusion, donc, soit X. Bon, mais dans ce cas, ça va
+      être assez facile : « Toutes les crêpes sont plates, or la Terre est une crêpe,
+      donc la Terre est plate. » OK, c'est un argument valide, la conclusion est que
+      la Terre est plate. Je vois pas de quoi tu te plains, j'ai démontré que la Terre
+      est plate.
+  - chunk_index: 27
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Démontrer la Terre plate (et les limites de la démonstration)'
+    content_token_count: 104
+    text: |-
+      Évidemment, qu'on peut démontrer n'importe quoi en partant de n'importe quoi.
+      Mais c'est parce que je te demande… Oui, bon, il y a peut-être une prémisse
+      fause là-dedans, mais bon, quel rapport ? Quand tu m'as demandé de démontrer
+      quelque chose, tu m'as rien dit à propos des prémisses. Et pourtant c'est
+      important, les prémisses.
+  - chunk_index: 28
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 177
+    text: |-
+      Vois-tu, démontrer quelque chose dans l'absolu, ça n'a aucun sens. Même en
+      maths, à strictement parler, rien ne se démontrera absolument. Bien sûr, on dit
+      souvent que telle ou telle théorème a été démontrée, mais c'est une façon de
+      parler incomplète. La démonstration se fait toujours à partir d'un certain
+      **cadre**, en s'appuyant sur certaines prémisses par lesquelles on commence, et
+      aussi — c'est très important — en s'appuyant sur certaines **règles de
+      raisonnement** (on parle plutôt de règles d'inférence en logique) qui nous
+      permettent de passer des prémisses à la conclusion.
+  - chunk_index: 29
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 45
+    text: |-
+      Autrement dit, on a toujours besoin d'un point de départ ainsi que d'un moteur
+      logique pour avancer dans la démonstration jusqu'à notre point d'arrivée, la
+      conclusion.
+  - chunk_index: 30
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 168
+    text: |-
+      Et l'ignorance, tout ça, n'est pas seulement vrai de la démonstration : c'est
+      vrai de l'argumentation en général, de toute forme de justification argumentée.
+      C'est toujours partir d'un point A qu'on ne justifie pas, et utiliser certaines
+      règles de raisonnement qu'on ne justifie pas, pour arriver à un point B qu'on
+      considérera comme justifié. En fait, il n'y a pas grand-chose de justifié dans
+      tout ça. Doit-on tout justifier ? Plus tôt on sent une bonne idée, ça y'en a qui
+      ont essayé, mais ils ont eu des problèmes. Et comme c'est fascinant, on en
+      parlera dans le prochain épisode.
+  - chunk_index: 31
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 131
+    text: |-
+      Merci d'avoir regardé cette vidéo, j'espère que ça vous a plu. Et n'hésitez pas
+      à démontrer n'importe quoi en commentaires, c'est fait pour ça. Je vous invite
+      cordialement à partager, à mettre un pouce bleu pour titiller dans le bon sens
+      l'algorithme de YouTube, et même à me soutenir sur Tipeee, ce qui me ferait très
+      plaisir et cela contribue à la pérennité de cette petite chaîne qui, je
+      l'espère, continuera de grandir.
+  - chunk_index: 32
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 133
+    text: |-
+      Je tiens donc à remercier chaleureusement tous les Tipeurs, dont le nombre croît
+      et dont les messages nous font chaud au cœur. Et je peux d'ailleurs les
+      remercier d'avoir choisi ce sujet, car c'est finalement leur vote qui l'a
+      déterminé — c'était plus serré que les autres fois, le saut a failli gagner.
+      Notez que l'épisode 2 sur le réalisme scientifique est un peu retardé, mais ne
+      vous inquiétez pas, ça viendra et ça n'en sera que meilleur.
+  - chunk_index: 33
+    heading_path: 'COMMENT DÉMONTRER N''IMPORTE QUOI | Grain de philo #14 (Ep.1) > Le cadre de la démonstration'
+    content_token_count: 38
+    text: |-
+      Sur ce, portez-vous bien et à la prochaine fois, où nous verrons pourquoi
+      absolument aucune connaissance n'est possible — en toute simplicité.

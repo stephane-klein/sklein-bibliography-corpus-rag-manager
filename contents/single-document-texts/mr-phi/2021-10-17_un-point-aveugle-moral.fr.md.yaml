@@ -1,0 +1,407 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2021-10-17_un-point-aveugle-moral.fr.md
+  source_file_hash: sha256:00d39d09448ee619c31e4b7d26b79a3a098371f65e0fca564d946c33cf4136cc
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 37
+chunks:
+  - chunk_index: 0
+    heading_path: Un point aveugle moral
+    content_token_count: 159
+    text: |-
+      Dans mon épisode sur la souillure de soi-même par volupté chez Kant, je
+      soulignais à quel point il est frappant que Kant, un des plus grands théoriciens
+      de la philosophie morale, ait pu prendre ladite souillure pour, je cite : « l'un
+      des pires manquements à la moralité ». Eh oui, rien que ça. Tandis que par
+      ailleurs il ne s'offusquait pas le moins du monde de la pratique de l'esclavage
+      en son temps, pratique qui, vous en conviendrez je l'espère, semble un peu plus
+      significative du point de vue moral que la souillure susnommée.
+  - chunk_index: 1
+    heading_path: Un point aveugle moral
+    content_token_count: 214
+    text: |-
+      On pourrait dire que l'esclavage était une sorte de point aveugle moral pour
+      Kant. En tout cas ça nous apparaît rétrospectivement comme tel. Et mon point en
+      développant ça, ce n'était pas de vous inviter au Kant-bashing — vraiment sa
+      philosophie morale mérite mieux que ça, j'en ai parlé dans d'autres vidéos. Non,
+      mon point c'était plutôt de vous inviter à réfléchir au fait que cette évolution
+      des normes morales dont Kant n'avait pas anticipé quelques aspects importants,
+      elle n'a rien d'achevé encore aujourd'hui, elle semble même plutôt en pleine
+      accélération. Et donc, du point de vue d'une personne vivant dans un futur pas
+      si éloigné, nous passons probablement, sur certains aspects de nos jugements
+      moraux, pour aussi aveugle que Kant. Donc pas la peine de faire les malins.
+  - chunk_index: 2
+    heading_path: Un point aveugle moral > Nos points aveugles moraux
+    content_token_count: 142
+    text: |-
+      Mais sur quels aspects de nos jugements exactement ? Quels sont nos points
+      aveugles moraux à nous, humains du début du XXIe siècle ? Notez que la question
+      se pose même si vous n'êtes pas réaliste à l'égard des valeurs morales : l'idée
+      est juste de prédire ce que sera de fait l'évolution de nos normes, de prédire
+      sur quels aspects les humains futurs nous jugeront moralement. Peu importe ce
+      que vous pensez de la légitimité de ces jugements. Ça reste amusant de se poser
+      la question.
+  - chunk_index: 3
+    heading_path: Un point aveugle moral > Nos points aveugles moraux
+    content_token_count: 219
+    text: |-
+      Eh bien donc : quels sont nos points aveugles moraux ? Eh bah… c'est forcément
+      difficile à déterminer : après tout, c'est le propre d'un point aveugle que
+      d'être… pas vu. Mais on peut quand même s'efforcer de le deviner, par exemple en
+      réfléchissant à l'évolution récente de certaines normes ou aux torts causés ou
+      non par telle ou telle pratique, etc. Et dans les commentaires de ma vidéo sur
+      Kant, vous m'aviez, à mon invitation, suggéré un certain nombre de points
+      aveugles potentiels. Celui qui revenait le plus, par exemple, c'était l'élevage
+      industriel, ou la consommation de viande en général. Et en effet c'est un
+      excellent candidat pour plein de raisons, mais je ne vais pas entrer dans ce
+      débat houleux, non, pas aujourd'hui.
+  - chunk_index: 4
+    heading_path: 'Un point aveugle moral > Le nom de famille : un point aveugle'
+    content_token_count: 124
+    text: |-
+      Ce dont je veux parler dans cet épisode, vous ne me l'avez pas suggéré en
+      commentaire à l'époque pour autant que je sache, et pourtant, il me semble que
+      c'est un des exemples les plus simples et clairs qu'on puisse donner d'un tel
+      point aveugle. C'est un de ces exemples qui, je crois, feront dire à beaucoup
+      d'entre vous avant la fin de la vidéo : « Bon sang mais oui, pourquoi n'y ai-je
+      pas pensé plus tôt ! »
+  - chunk_index: 5
+    heading_path: 'Un point aveugle moral > Le nom de famille : un point aveugle'
+    content_token_count: 59
+    text: |-
+      C'est tout simple. Cela tient à votre nom. Votre nom de famille, je veux dire.
+      Laissez-moi vous poser une question : quel est votre nom ? Et, question bonus si
+      vous avez des enfants : quel est le nom de vos enfants ?
+  - chunk_index: 6
+    heading_path: 'Un point aveugle moral > Le nom de famille : un point aveugle'
+    content_token_count: 111
+    text: |-
+      Alors vos réponses vont certainement différer d'une personne à l'autre en
+      général — c'est tout l'intérêt des noms — mais ce en quoi vos réponses vont se
+      ressembler par contre, c'est que, dans une écrasante majorité des cas, le nom de
+      famille sera identique au nom de famille du père. Ou, dans le cas plus rare d'un
+      nom de famille composé, le premier nom sera le plus souvent aussi celui du père.
+  - chunk_index: 7
+    heading_path: 'Un point aveugle moral > Le nom de famille : un point aveugle'
+    content_token_count: 167
+    text: |-
+      Pour quantifier un peu les choses, voici les chiffres que j'ai trouvés pour les
+      enfants nés en France en 2014 et en 2017 : 82-83 % ont reçu le seul nom du père,
+      et 8-9 % ont reçu les deux noms avec le nom du père en premier. Donc plus de 90
+      % des enfants qui reçoivent seulement ou en premier le nom de leur père — on
+      parle bien d'une pratique très très répandue. Et ça n'a rien d'un détail dans la
+      vie des gens : le nom que vous portez et que vous donnez ou non à vos enfants,
+      c'est évidemment quelque chose d'important pour forger son identité.
+  - chunk_index: 8
+    heading_path: 'Un point aveugle moral > Le nom de famille : un point aveugle'
+    content_token_count: 58
+    text: |-
+      Mais pourquoi donc la norme est-elle encore à ce point de transmettre le nom du
+      père ? Et surtout, pourquoi y accorde-t-on si peu d'importance aujourd'hui ?
+      Est-ce qu'on trouve vraiment cette norme, euh, normale ?
+  - chunk_index: 9
+    heading_path: Un point aveugle moral > Ce que dit la loi
+    content_token_count: 271
+    text: |-
+      Voyons d'abord ce que dit la loi à ce sujet. Forcément, ça va dépendre des pays
+      et je vais me concentrer sur l'Europe et la France, où les choses ont déjà pas
+      mal évolué dans les dernières décennies. Par exemple en Italie et en Belgique,
+      jusqu'à il y a seulement quelques années, la transmission du seul nom du père
+      était tout bonnement une obligation légale. Mais c'est un sujet qui chatouillait
+      pas mal la Cour européenne des droits de l'homme, puisque oui c'est une
+      flagrante inégalité de droit entre homme et femme. Du coup ces pays ont fini par
+      changer leur législation. Depuis peu, les parents belges et italiens peuvent
+      choisir, au moment de la déclaration de naissance, s'ils donnent à leur enfant
+      le nom d'un parent, de l'autre parent, ou de l'un et l'autre accolés selon
+      l'ordre qu'ils veulent. Donc en théorie, un couple Bigard et Lalanne a le choix
+      entre appeler ses enfants Bigard, Lalanne, Bigard-Lalanne, ou Lalanne-Bigard.
+  - chunk_index: 10
+    heading_path: Un point aveugle moral > Ce que dit la loi
+    content_token_count: 110
+    text: |-
+      En France, c'est la même chose depuis une quinzaine d'années, depuis 2005, et à
+      quelques nuances près c'est le système le plus répandu en Europe aujourd'hui.
+      Donc en théorie, dans tous ces pays, il y a une égalité de droit entre les deux
+      parents pour la transmission du nom. La mère autant que le père a le droit de
+      transmettre ou non son propre nom. Donc c'est bon, problème réglé ?
+  - chunk_index: 11
+    heading_path: Un point aveugle moral > L'égalité formelle et l'inégalité réelle
+    content_token_count: 121
+    text: |-
+      Bah non, parce que là on a un superbe exemple d'égalité purement formelle : une
+      égalité de droit, certes, une égalité dans la loi, sur le papier, mais qui
+      n'empêche pas une inégalité de fait vu que, comme on l'a vu, l'écrasante
+      majorité des enfants qui naissent aujourd'hui portent toujours le seul nom de
+      leur père, ou, dans le cas plus rare d'un double nom, le nom de leur père en
+      premier.
+  - chunk_index: 12
+    heading_path: Un point aveugle moral > L'égalité formelle et l'inégalité réelle
+    content_token_count: 216
+    text: |-
+      On peut noter que ce qui explique en partie ça, c'est le fait qu'il est d'usage
+      que les femmes, en se mariant, prennent ou ajoutent le nom de leur mari comme
+      nom d'usage, et de là on a tendance à considérer que le nom du mari donne en
+      quelque sorte le nom du foyer, le nom de la famille entière, et ce sera donc ce
+      nom que porteront les enfants. Mais du coup ça renvoie juste à une autre
+      question qui est de savoir ce qui justifie ce type de changement de nom dans le
+      mariage. L'origine de ça, c'est quand même en gros qu'on considérait que le chef
+      du foyer c'est l'homme, tandis que femme et enfants sont des sortes de
+      propriétés du mari et père. D'ailleurs Kant, qui n'en manque jamais une, le
+      disait très clairement dans ces petits extraits de la Doctrine du droit.
+  - chunk_index: 13
+    heading_path: Un point aveugle moral > L'égalité formelle et l'inégalité réelle
+    content_token_count: 125
+    text: |-
+      Mais fort heureusement ce n'est plus notre conception de la famille et ce
+      changement de nom pour la femme n'est plus une obligation légale depuis pas mal
+      de temps. En France, théoriquement, le mari peut même tout aussi bien prendre le
+      nom de sa femme comme nom d'usage. Donc là encore il y a une égalité de droit,
+      mais une inégalité de fait, puisque de fait ce ne sera presque jamais le mari
+      qui changera de nom. Je parie que vous connaissez pas un seul contre-exemple à
+      ça.
+  - chunk_index: 14
+    heading_path: Un point aveugle moral > L'égalité formelle et l'inégalité réelle
+    content_token_count: 37
+    text: |-
+      Bref, des droits formels égaux, c'est une condition nécessaire mais loin d'être
+      suffisante pour atteindre une situation d'égalité réelle.
+  - chunk_index: 15
+    heading_path: Un point aveugle moral > Pourquoi la norme persiste-t-elle ?
+    content_token_count: 127
+    text: |-
+      Et donc, pourquoi sommes-nous si loin de l'égalité réelle sur ce point ? Est-ce
+      parce qu'on tient à l'inégalité ? Alors oui, il y a bien une poignée de
+      conservateurs qui tiendront positivement à ce que le nom du père soit le seul
+      transmis, avec des arguments aussi subtils et profonds que « la femme donne la
+      vie et l'homme donne le nom, c'est comme ça depuis la nuit des temps ». Mais
+      bon, c'est pas 80-90 % des gens, ça.
+  - chunk_index: 16
+    heading_path: Un point aveugle moral > Pourquoi la norme persiste-t-elle ?
+    content_token_count: 204
+    text: |-
+      Il me semble au contraire que, dès qu'on attire l'attention sur cette inégalité,
+      la majorité des gens reconnaîtront le problème et n'exprimeront pas un
+      attachement positif à ce que cette norme patronymique se maintienne comme tel.
+      Ainsi, chacun et chacune a ses raisons de changer de nom ou pas, et de
+      transmettre tel nom ou tel autre à ses enfants, et je suis pas en train de dire
+      que si vous avez donné à vos enfants le nom de leur père c'est que vous êtes
+      d'infâmes suppôts du patriarcat. Il faut bien distinguer les intentions au
+      niveau individuel et les effets au niveau collectif. Chaque décision qui aboutit
+      à cet état de fait clairement inégalitaire au niveau collectif n'est pas
+      nécessairement motivée par du sexisme individuel.
+  - chunk_index: 17
+    heading_path: Un point aveugle moral > Pourquoi la norme persiste-t-elle ?
+    content_token_count: 116
+    text: |-
+      Au fond, si cette norme sociale se maintient à ce point, à un niveau si élevé,
+      80 à 90 %, c'est peut-être en large partie dû à une sorte de statu quo dont il
+      est coûteux pour chaque individu de sortir. En gros : « On a toujours fait comme
+      ça, les autres font encore comme ça, donc c'est sans doute mieux de faire comme
+      ça nous aussi vu que si on fait autrement on risque d'être regardé un peu
+      bizarrement. »
+  - chunk_index: 18
+    heading_path: Un point aveugle moral > Pourquoi la norme persiste-t-elle ?
+    content_token_count: 201
+    text: |-
+      Par exemple, une préoccupation pour un couple qui s'opposerait à cette norme en
+      choisissant le nom de la mère pour ses enfants, c'est que ça risque d'être mal
+      perçu par les beaux-parents du côté du père qui vont se dire : « Mais on fait
+      pas ça normalement, du coup c'est bizarre, c'est peut-être qu'ils ont un
+      problème avec nous ? L'autre là elle croit que son nom vaut mieux que le nôtre,
+      c'est ça ? » Et on a pas envie de se fâcher avec les beaux-parents, c'est assez
+      compliqué comme ça. Tandis que si le couple choisit le nom du père, ça soulèvera
+      aucune question vu que, bon, tout le monde fait ça, et puis il fallait bien un
+      nom de famille pour les enfants, donc pourquoi pas celui-ci ?
+  - chunk_index: 19
+    heading_path: Un point aveugle moral > Quelle serait la norme souhaitable ?
+    content_token_count: 186
+    text: |-
+      Mais aussi on pourrait se demander : qu'est-ce qu'on voudrait à la place, en
+      fait ? Comme je l'ai dit, dans quasi tous les pays européens, le choix du nom
+      pour les enfants se limite à ces quatre options : le nom d'un parent, le nom de
+      l'autre parent, ou les deux noms accolés dans un ordre ou l'autre. C'est très
+      limité comme choix, et on peut se demander : quelle serait en fait la
+      répartition souhaitable ? On aimerait que ce soit plus égalitaire, certes, mais
+      comment ? Est-ce qu'il faudrait que les couples tirent systématiquement à pile
+      ou face pour déterminer quel nom transmettre à leurs enfants ? Ce serait certes
+      plus égalitaire mais est-ce que ce serait vraiment satisfaisant ?
+  - chunk_index: 20
+    heading_path: Un point aveugle moral > Quelle serait la norme souhaitable ?
+    content_token_count: 183
+    text: |-
+      Petite note en passant : en France, depuis peu, si les parents expriment un
+      désaccord sur le nom à donner à leur enfant, l'enfant recevra par défaut le nom
+      des deux parents accolés selon l'ordre alphabétique. Avant ça, c'était le nom du
+      père qui l'emportait, donc c'est un progrès en terme d'égalité, même si bon ces
+      cas de désaccords se présentent rarement. Et la règle alphabétique au moins
+      c'est une règle qui ne privilégie a priori ni les hommes ni les femmes, mais ça
+      aurait des effets très bizarres si ça devenait la nouvelle norme : les Zidanes
+      vont très vite disparaître. Pas les Aberkane, par contre.
+  - chunk_index: 21
+    heading_path: Un point aveugle moral > Quelle serait la norme souhaitable ?
+    content_token_count: 89
+    text: |-
+      Mais au fait : pourquoi est-ce qu'il faut forcément transmettre le nom d'au
+      moins un des parents ? Pourquoi pas laisser les parents choisir, pour eux-mêmes
+      et pour leurs enfants, juste le nom de famille qu'ils veulent ? En mode création
+      de personnage dans les Sims, ouais, pourquoi pas ? Est-ce que ce serait pas plus
+      satisfaisant au moins ?
+  - chunk_index: 22
+    heading_path: Un point aveugle moral > L'exemple du Royaume-Uni
+    content_token_count: 71
+    text: |-
+      Mais qu'est-ce donc que ces billevesées ! s'écrient sans doute certains d'entre
+      vous en cet instant. Ce serait de la folie furieuse révolutionnaire, voyons. On
+      ne peut pas laisser les gens choisir leur propre nom de famille. La vie n'est
+      pas un jeu vidéo.
+  - chunk_index: 23
+    heading_path: Un point aveugle moral > L'exemple du Royaume-Uni
+    content_token_count: 46
+    text: |-
+      Et si je vous disais qu'il y a un pays où ce système abracadabrantesque existe
+      déjà ? Si, si, vraiment. Et ce pays c'est… le Royaume-Uni.
+  - chunk_index: 24
+    heading_path: Un point aveugle moral > L'exemple du Royaume-Uni
+    content_token_count: 143
+    text: |-
+      Oui, au Royaume-Uni, les parents peuvent donner tout simplement le nom de
+      famille qu'ils veulent à leur enfant. Et n'importe qui peut aussi changer de nom
+      de famille, sans avoir à le justifier. Bon il y a quelques limitations tout de
+      même, on ne peut pas changer de nom pour des raisons frauduleuses, mais en
+      dehors de ça, vous pouvez très bien changer officiellement de nom comme ça vous
+      chante. Il suffit en gros de faire usage de ce nom et de remplir un document
+      pour attester du changement. Et c'est tout, vous avez changé de nom.
+  - chunk_index: 25
+    heading_path: Un point aveugle moral > L'exemple du Royaume-Uni
+    content_token_count: 147
+    text: |-
+      Ainsi, le philosophe écossais William MacAskill, que vous connaissez peut-être
+      comme un des fondateurs de l'altruisme efficace, eh bien son nom de naissance
+      c'est en fait William Crouch, et c'est au moment de se marier que lui et sa
+      future femme, dont le nom de naissance n'était pas non plus MacAskill, ont tous
+      les deux changé de nom pour MacAskill. Donc ils ont choisi ce nom comme une
+      sorte de nom de foyer, on pourrait dire, et c'est sans doute le nom qu'ils
+      auraient donné à leurs enfants s'ils en avaient eu.
+  - chunk_index: 26
+    heading_path: Un point aveugle moral > L'exemple du Royaume-Uni
+    content_token_count: 149
+    text: |-
+      Notez bien que c'est pas du tout une pratique courante au Royaume-Uni. La norme
+      là-bas, pour autant que je sache, c'est comme chez nous : de transmettre le nom
+      du père seulement. Et si j'ai appris qu'on pouvait changer de nom librement au
+      Royaume-Uni c'est seulement parce que j'ai lu un petit article de William
+      MacAskill justement où il explique le choix qu'il a fait avec sa femme de
+      changer de nom ensemble, et où il défend ça plus largement comme ce qui pourrait
+      devenir une nouvelle norme quand les gens se marient et fondent un foyer.
+  - chunk_index: 27
+    heading_path: Un point aveugle moral > Liberté et principe de tort de Mill
+    content_token_count: 155
+    text: |-
+      Et effectivement, je me dis que cette façon de se choisir un nom de foyer, à
+      bien des égards, c'est une pratique beaucoup plus alignée avec nos normes
+      morales actuelles. D'une part parce que c'est vraiment égalitaire, et d'autre
+      part parce que ça permet aux individus d'exercer leur liberté, leur
+      individualité, leur capacité à se forger leur propre identité — autant de
+      valeurs qui nous semblent aujourd'hui vraiment importantes. Ce serait plus
+      logique, au fond, que ce soit cette pratique qui soit la norme, plutôt que la
+      transmission quasi-automatique du nom du père comme c'est le cas aujourd'hui.
+  - chunk_index: 28
+    heading_path: Un point aveugle moral > Liberté et principe de tort de Mill
+    content_token_count: 187
+    text: |-
+      Parce que oui, pour faire le lien avec ce que je disais sur les restrictions de
+      liberté dans un épisode récent, forcer les personnes à conserver le même nom de
+      famille toute leur vie, et forcer les parents à transmettre à leurs enfants le
+      nom d'au moins un des parents, ou des deux, et rien d'autre — bah en fait ce
+      sont des restrictions de liberté, et même des restrictions très fortes. Et du
+      coup on peut se demander si ça satisfait le principe de tort de Mill : est-ce
+      que ces restrictions de liberté concernant les noms de famille sont justifiées
+      par ceci que ça permet d'éviter que des torts soient causés aux autres ? Bah, on
+      voit pas trop pourquoi. Où sont les torts, sérieusement ?
+  - chunk_index: 29
+    heading_path: Un point aveugle moral > Liberté et principe de tort de Mill
+    content_token_count: 148
+    text: |-
+      Et en l'absence de torts causés aux autres, qu'est-ce qui pourrait justifier de
+      telles restrictions de liberté ? Certains se diront peut-être que nos
+      législations sur le nom de famille sont utiles d'un point de vue administratif ?
+      Mais bon est-ce qu'on en a vraiment besoin aujourd'hui ? On peut bien garder le
+      même numéro de sécu toute sa vie par ailleurs, c'est pas insurmontable. Et puis
+      visiblement la société britannique ne s'est pas écroulée malgré sa législation
+      très permissive sur les noms. Donc non, va falloir trouver autre chose.
+  - chunk_index: 30
+    heading_path: Un point aveugle moral > Liberté et principe de tort de Mill
+    content_token_count: 279
+    text: |-
+      D'autres pourraient dire que, quand même, William Crouch en devenant William
+      MacAskill a pu faire de la peine à ses parents, les pauvres parents Crouch.
+      Admettons qu'ils étaient les derniers de ce nom et qu'ils tenaient absolument à
+      ce que ce glorieux héritage ne se perde pas, le doux nom de Crouch. Songez-y,
+      c'est quand même un tort pour eux de voir leur nom ainsi disparaître à cause des
+      lubies philosophiques de ce fils indigne ! Mais bon, si vous trouvez normal de
+      limiter la liberté des gens pour ce type de raison, vous pourriez tout aussi
+      bien exiger que la loi force William Crouch à produire un héritier mâle pour
+      assurer la perpétuation du nom. Et je pense pas qu'on veuille ça en fait. Ce que
+      William fait de son nom, comme de sa semence, ça le concerne avant tout lui, et
+      c'est tout. Si de fait il ne veut transmettre ni l'un ni l'autre, je ne vois pas
+      ce qu'on aurait à lui redire. Fais ce que tu veux de ton nom et de ta semence,
+      mon garçon.
+  - chunk_index: 31
+    heading_path: Un point aveugle moral > Liberté et principe de tort de Mill
+    content_token_count: 51
+    text: |-
+      Vraiment, j'ai du mal à voir comment l'attachement de quelques personnes à la
+      transmission de leur nom pourrait justifier de priver de liberté toutes les
+      autres qui ne partagent pas cette étrange obsession.
+  - chunk_index: 32
+    heading_path: Un point aveugle moral > Vers quelle évolution ?
+    content_token_count: 179
+    text: |-
+      Alors est-ce qu'on en sortira à un moment, dans le prochain siècle, disons ?
+      C'est pas sûr, mais j'ai quand même envie de dire que c'est assez probable. Et
+      si ça arrive, on aura sûrement du mal à comprendre rétrospectivement pourquoi on
+      s'était accroché à ce truc si longtemps, même encore au XXIe siècle. On se dira
+      : « C'est quand même fou ! Pourquoi ces gens qui se disaient attachés aux
+      libertés individuelles et à l'égalité entre les hommes et les femmes ne
+      semblaient pas plus que ça gênés à l'idée de n'avoir aucun choix pour leur nom
+      de famille et de systématiquement transmettre à leurs enfants celui de leur père
+      ? »
+  - chunk_index: 33
+    heading_path: Un point aveugle moral > Vers quelle évolution ?
+    content_token_count: 84
+    text: |-
+      Enfin donc, que pensez-vous de tout ça ? Est-ce que ça commence à vous faire
+      l'effet d'un point aveugle dans notre jugement moral ? Pensez-vous que cette
+      norme patronymique va évoluer ou se maintenir ? Et seriez-vous prêt à être
+      vous-même pionnier dans l'établissement d'une nouvelle norme ?
+  - chunk_index: 34
+    heading_path: Un point aveugle moral > Vers quelle évolution ?
+    content_token_count: 84
+    text: |-
+      Notez que si vous êtes britannique, cela ne tient vraiment qu'à vous. Par
+      contre, si vous êtes en France, le problème c'est que la loi ne vous permettra
+      pas cette fantaisie : le changement de nom de famille en France est limité aux
+      cas de « motif légitime », ce qui est pas hyper clair mais ça semble assez
+      restrictif.
+  - chunk_index: 35
+    heading_path: Un point aveugle moral > Vers quelle évolution ?
+    content_token_count: 102
+    text: |-
+      Mais bon, les lois peuvent encore changer et ça me semble intéressant d'y
+      réfléchir et d'en discuter parce que c'est un sujet relativement négligé
+      justement, alors qu'il ne me semble pas négligeable. Il faut parler du nom du
+      père, comme dirait le premier psychanalyste venu. Ou pour le retenir en un
+      slogan : le nom patronymique, c'est pas automatique.
+  - chunk_index: 36
+    heading_path: Un point aveugle moral > Vers quelle évolution ?
+    content_token_count: 123
+    text: |-
+      Merci d'avoir regardé cette vidéo. Si vous la regardez le soir de sa sortie,
+      sachez que vous pouvez venir sur Twitch où je vais débriefer l'épisode avec
+      vous, répondre à vos questions, ou autre. Un très grand merci à toutes celles et
+      ceux qui me soutiennent sur les plateformes de don, vous êtes des gens de
+      qualité, quel que soit le nom que vous portez. On se retrouve bientôt pour une
+      nouvelle vidéo. En attendant, portez-vous bien.

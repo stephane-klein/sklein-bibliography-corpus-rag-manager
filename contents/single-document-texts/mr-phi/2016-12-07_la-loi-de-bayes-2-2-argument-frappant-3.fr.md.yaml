@@ -1,0 +1,366 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2016-12-07_la-loi-de-bayes-2-2-argument-frappant-3.fr.md
+  source_file_hash: sha256:c582ce6eed230d0e06e90b03fab6d3da56bdfc7111e7e49d13be7f0a6ad6fb6f
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 25
+chunks:
+  - chunk_index: 0
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3'
+    content_token_count: 166
+    text: |-
+      Voilà, en 15 secondes, ce qu'on a vu dans le premier épisode : supposez que vous
+      avez a priori 1 chance sur 1000 d'être atteint d'une maladie terrible, la
+      schtroumpfite, et que vous passez un test fiable à 99% pour déterminer si vous
+      l'avez. Le test est positif. Quelle est la probabilité pour que vous soyez
+      malade ? Spontanément, on a envie de répondre que la probabilité est haute, plus
+      de 50% à coup sûr. Sauf que non, la probabilité est inférieure à 10%. Et si vous
+      ne me croyez pas, allez voir la première vidéo.
+  - chunk_index: 1
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3'
+    content_token_count: 113
+    text: |-
+      La loi de Bayes est un théorème de théorie des probabilités qui décrit
+      précisément comment bien raisonner face à une situation de ce genre. Mais vous
+      pourriez vous dire que, c'est bien beau tout ça, mais des situations de ce
+      genre, des situations où il faut raisonner sur des probabilités, ça reste des
+      situations plutôt rares dans la vie courante, et donc ne rien comprendre à la
+      loi de Bayes, c'est pas si grave que ça.
+  - chunk_index: 2
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3'
+    content_token_count: 31
+    text: |-
+      Eh bah… si. Des raisonnements probabilistes, vous devez en faire en permanence,
+      que vous vous en rendiez compte ou non.
+  - chunk_index: 3
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Pourquoi raisonnons-nous déjà en bayésien ?'
+    content_token_count: 273
+    text: |-
+      Pour le comprendre, il faut voir ceci : nous avons des croyances sur le monde,
+      et nos croyances ne se divisent pas en deux groupes homogènes : les trucs qu'on
+      croit, et les trucs qu'on croit pas. Autrement dit, nos croyances se présentent
+      selon différents degrés, et on pourrait en fait les ordonner selon un axe du
+      moins probable au plus probable. Donc, dire que l'on croit quelque chose, c'est
+      une façon vague de dire que l'on tient cette chose pour probablement vraie. Par
+      exemple, je crois que le monstre vert bluffe, je crois au réchauffement
+      climatique et je crois en l'existence de ma main, mais ça ne veut pas dire que
+      je crois également en toutes ces choses. Je tiens pour assez probable qu'il
+      bluffe, je tiens le réchauffement climatique pour extrêmement probable, et
+      l'existence de ma main me paraît encore plus probable que tout ça, évidemment.
+      Bref, dans nos croyances, et même dans nos croyances les plus fermes, tout est
+      question de degré de probabilité.
+  - chunk_index: 4
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Pourquoi raisonnons-nous déjà en bayésien ?'
+    content_token_count: 210
+    text: |-
+      D'autre part, nous apprenons régulièrement de nouvelles informations sur le
+      monde et ces informations ne s'ajoutent pas simplement à nos croyances
+      antérieures sans rien y changer : bien souvent, ces nouvelles informations sont
+      de nature à modifier nos croyances antérieures (par exemple parce que cette
+      information est censée apporter une preuve de quelque chose), et c'est ainsi que
+      l'ensemble de nos croyances et donc notre représentation du monde évolue. Et
+      donc, comment faire pour intégrer une information nouvelle à l'ensemble de nos
+      croyances ? Puisque nos croyances s'expriment sous forme de probabilités, c'est
+      bien un raisonnement probabiliste qu'il faut faire. Et la loi de Bayes décrit
+      précisément cela : comment calculer la probabilité d'un évènement A sachant une
+      nouvelle information B. Tout simplement comme ça.
+  - chunk_index: 5
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort'
+    content_token_count: 154
+    text: |-
+      Mais attends, tu veux dire que, pour être rationnel, il faudrait que je
+      comprenne et que j'applique cette formule chaque fois que j'apprends une
+      nouvelle information ? C'est juste foutu, je peux pas être rationnel… Je te
+      rassure : en fait on peut appliquer intuitivement la loi de Bayes sans faire un
+      calcul précis ; on raisonne beaucoup à la louche mais on peut être rationnel en
+      raisonnant à la louche. Au fond, devenir un minimum bayésien dans nos
+      raisonnements n'est pas si difficile : il faut avant tout prendre garde à
+      quelques pièges, à quelques biais cognitifs.
+  - chunk_index: 6
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''ignorance du taux de base'
+    content_token_count: 226
+    text: |-
+      La première et principale source d'erreur est un biais cognitif qu'on appelle
+      parfois « ignorance du taux de base » ou « ignorance de la probabilité a priori
+      ». Souvenez-vous, dans ma première présentation du test de la schtroumpfite, je
+      vous disais seulement : vous avez passé un test fiable à 99% et son résultat est
+      positif. Quelle est la probabilité pour que vous soyez malade ? Et je pense que
+      vous êtes nombreux à avoir répondu 99% et à n'avoir même pas senti qu'il
+      manquait une information pour pouvoir répondre à cette question. Cette
+      information manquante, c'est la probabilité a priori, c'est-à-dire avant le
+      test, d'être malade. On a tendance à ne pas tenir compte, à ne pas même vouloir
+      s'intéresser à cette information, et c'est quand même curieux et dommage car
+      elle est en fait cruciale.
+  - chunk_index: 7
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''ignorance du taux de base'
+    content_token_count: 280
+    text: |-
+      Pour vous faire mieux voir cette tendance à ignorer le taux de base et pourquoi
+      c'est crucial de s'y intéresser, je peux prendre un autre exemple. Supposons
+      qu'une étude montre que manger de la salsepareille augmente de 300% le risque de
+      développer une maladie mortelle. Augmenter de 300%, ça veut dire multiplier par
+      4, c'est beaucoup. Il paraîtrait raisonnable de ne pas manger de salsepareille.
+      Ceci dit, d'autres études ont montré que ne pas consommer de salsepareille
+      augmente de 30% le risque de cancer du schtroumpf. Les deux maladies sont
+      mortelles ; donc on voudrait éviter ces risques mortels l'un autant que l'autre.
+      Étant données ces deux informations seulement, on aurait tendance à se dire
+      qu'il vaut mieux ne pas manger de salsepareille puisque l'augmentation du risque
+      est assez faible, 30%, tandis que si l'on en mange, on a un risque qui augmente
+      de 300% ; et c'est vrai qu'en l'absence d'autres informations, ce serait plutôt
+      rationnel de faire ainsi.
+  - chunk_index: 8
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''ignorance du taux de base'
+    content_token_count: 233
+    text: |-
+      Mais ce qu'il serait surtout rationnel, c'est de se renseigner sur le taux
+      d'incidence de ces maladies : quelle est la probabilité a priori d'avoir l'une
+      ou l'autre de ces maladies. Donc en mangeant de la salsepareille, je passe d'une
+      chance sur 1 million, soit 0,0001%, à 1 chance sur 250 000, c'est-à-dire
+      0,0004%. Soit une augmentation brute de 0,0003 points de pourcentage. Par contre
+      il se trouve que le cancer du schtroumpf est beaucoup moins rare. Ça touche en
+      moyenne 1 personne sur 1000, soit un taux d'incidence de 0,1%. Une augmentation
+      de 30% de ce risque le porte à 0,13%, soit une augmentation brute de 0,03 points
+      de pourcentage. Là aussi finalement c'est peu, mais c'est quand même cent fois
+      plus que dans le cas précédent !
+  - chunk_index: 9
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''ignorance du taux de base'
+    content_token_count: 276
+    text: |-
+      Morale de l'histoire : avoir un comportement qui augmente un risque mortel de
+      300% peut être beaucoup moins risqué qu'avoir un comportement qui augmente un
+      autre risque mortel de 30% seulement : tout dépend du taux de base de ces
+      risques. Et on a malheureusement tendance à ne pas même s'intéresser à cette
+      information. Alors pensez-y la prochaine fois que vous voyez un article qui
+      s'exclame « augmentation de 150% de tel risque » : les articles de ce genre
+      donnent très rarement le taux de base des risques dont ils parlent ; or, si vous
+      ignorez le taux de base d'un risque, l'information que le risque augmente n'est
+      pas vraiment une information. (Généralement, une augmentation très très forte,
+      c'est plutôt le signe que le taux de base était très très faible… Si je dis d'un
+      élève qu'il a augmenté ses résultats de 300% entre le premier et le deuxième
+      trimestre, ça peut être une façon élégante de dire qu'il est passé de 1/20 à
+      4/20… Et c'est pas franchement un exploit.)
+  - chunk_index: 10
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège des faux positifs'
+    content_token_count: 419
+    text: |-
+      Deuxième source d'erreur : négliger les faux positifs, ce qui a pour conséquence
+      de mal évaluer la fiabilité d'une preuve. Supposons que je vienne avec un test
+      pour la schtroumpfopathie que je présente comme infaillible ou presque, parce
+      qu'il détecte à coup sûr la maladie chez ceux qui l'ont : c'est-à-dire que si un
+      individu malade, un schtroumpfopathe, passe le test, alors dans 100% des cas, le
+      test va détecter la maladie et le résultat sera positif. Il y a juste un petit
+      défaut par contre : si une personne saine passe le test, c'est seulement dans
+      90% des cas que le résultat sera correct c'est-à-dire négatif. C'est pas encore
+      parfait mais quand même, c'est très fiable comme test, non ? Bah je sais pas, et
+      en particulier, un résultat positif au test est-il vraiment fiable ? L'erreur
+      serait de croire que la fiabilité d'un résultat positif est de 100% parce que
+      100% des personnes malades qui passent le test auront bien un résultat positif :
+      mais c'est oublier que 10% des personnes saines auront, elles aussi, un résultat
+      positif à ce test. Et en fait, ces 10% de faux positifs font qu'un tel résultat
+      à ce test n'est fiable qu'à 90%, non à 100%. Du coup, si vous avez un résultat
+      positif à ce test de la schtroumpfopathie, vous avez en fait moins d'1 chance
+      sur 100 000 d'être vraiment schtroumpfopathe. Donc c'est vraiment pas
+      infaillible comme test.
+  - chunk_index: 11
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège des faux positifs'
+    content_token_count: 97
+    text: |-
+      Morale de cette histoire : pour apprécier correctement la fiabilité d'une
+      information B qui se présente comme une preuve de A, il faut surtout se poser la
+      question suivante : si A n'était pas vrai, quelle serait la probabilité pour que
+      B soit quand même vrai. C'est ce qu'on peut appeler la probabilité de faux
+      positif, et plus cette probabilité est forte, moins le test est fiable.
+  - chunk_index: 12
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège des faux positifs'
+    content_token_count: 509
+    text: |-
+      Ça peut sembler abstrait mais cette petite réflexion s'applique à beaucoup de
+      cas et permet de comprendre pourquoi bien des choses qu'on présente comme des
+      preuves solides ne sont en fait absolument pas fiables. Exemple avec Dieu.
+      Beaucoup de gens qui croient en Dieu considèrent que l'une des preuves les plus
+      solides en faveur de son existence réside dans l'ensemble des témoignages et
+      récits dont il fait l'objet. Alors certes, si Dieu existe et s'il a parlé à des
+      hommes, la probabilité qu'il y en ait des témoignages et des récits est
+      extrêmement élevée. Maintenant, est-ce que ça veut dire que l'existence de ces
+      récits et témoignages est une preuve fiable de l'existence de Dieu ? Pour
+      estimer la fiabilité de cette preuve, il faut s'intéresser aussi à la
+      probabilité de faux positif. Autrement dit il faut se poser la question suivante
+      : si Dieu n'existait pas, quelle serait la probabilité pour qu'il y ait tout de
+      même des récits et témoignages le concernant ? Faut pas réfléchir bien longtemps
+      pour se rendre compte que cette probabilité est en fait très élevée. Il y a
+      depuis longtemps des tas de récits sur des Dieux et des prophètes de toutes
+      sortes, et de toute évidence tous ces récits ne sont pas vrais ; raconter de
+      telles histoires, c'est donc un penchant que les hommes ont naturellement
+      tendance à suivre, et donc que Dieu existe ou non, il y aurait des récits et
+      témoignages de ce genre. Ces récits et témoignages ne constituent donc
+      absolument pas une preuve fiable de l'existence de Dieu puisque la probabilité
+      d'un faux positif est très élevée, presque aussi élevée que celle d'un vrai
+      positif. Notez que vous pouvez remplacer existence de Dieu par phénomène
+      paranormal ou complot mondial, ça marche tout aussi bien.
+  - chunk_index: 13
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 265
+    text: |-
+      Alors supposons que vous avez correctement estimé la fiabilité d'une preuve,
+      comme par exemple le test de la schtroumpfite qui était fiable à 99%. Il y a
+      seulement 1% de faux positif, très bien. Par ailleurs vous connaissez le taux de
+      base du risque d'être atteint de schtroumpfite : 1 chance sur 1000. Vous avez
+      donc déjoué les deux premiers pièges, bravo. Saurez-vous pour autant faire une
+      inférence bayésienne dans les règles de l'art ? On a bien vu que non : dans la
+      première vidéo je donnais ces deux informations et j'insistais même sur
+      l'importance de la probabilité a priori, et je pense que ça n'a pas empêché
+      presque tout le monde de se tromper en estimant la probabilité d'être malade
+      comme étant supérieure à 90% à coup sûr. Alors que, je le rappelle, c'est plutôt
+      9%. Mais pourquoi donc ? Et qu'est-ce qui nous empêche d'être enfin bayésien ?
+  - chunk_index: 14
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 129
+    text: |-
+      Eh bien, la source de l'erreur est une tendance à croire que le degré de
+      fiabilité du test exprime directement la probabilité que le résultat du test
+      soit vrai ; autrement dit, si on nous dit qu'un test est fiable à 99%, on aura
+      tendance à croire que la probabilité que le résultat du test soit vrai est de
+      99%. FAUX. Non, c'est pas ça que ça veut dire. Et il me semble que la chose la
+      plus importante pour devenir bayésien, c'est de bien comprendre ce point.
+  - chunk_index: 15
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 269
+    text: |-
+      Considère le cas d'un résultat négatif au test de la schtroumpfite. Là aussi, on
+      a supposé que le résultat du test est fiable à 99% ? Ceci dit, une fois que tu
+      as passé le test, et qu'il est négatif, est-ce que tu es sûr à 99% de ne pas
+      être malade ? Attends, c'est bizarre : avant de passer le test, tu sais qu'il y
+      a une chance sur 1000 seulement que tu aies la schtroumpfite, autrement dit tu
+      devrais être sûr à 99,9% de ne pas être malade. Ce serait quand même curieux
+      qu'après avoir passé le test et obtenu un résultat négatif, tu ne sois plus sûr
+      qu'à 99% de ne pas être malade, comme si le résultat du test avait en fait
+      diminué ton degré de croyance. Non, le résultat du test va faire que je serai
+      encore plus sûr de ne pas être malade. Voilà : tu passeras d'une croyance à
+      99,9% à une croyance à 99,999999%.
+  - chunk_index: 16
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 144
+    text: |-
+      Ceci nous montre que le degré de fiabilité du test ne nous dit pas en lui-même à
+      quel point on doit croire le résultat du test. Le degré de fiabilité nous
+      indique plutôt dans quelle mesure nous devons augmenter notre croyance a priori
+      dans le résultat du test. Si la preuve est fiable et si on y croyait déjà
+      beaucoup avant le test, on y croira encore plus. Et si on y croyait presque pas
+      avant le test, eh bien on y croira plus que presque pas, ce qui ne signifie pas
+      forcément d'y croire tout à fait.
+  - chunk_index: 17
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 93
+    text: |-
+      Et donc, si vous partez d'une croyance a priori qui est extrêmement faible, il
+      vous faudra une preuve extrêmement fiable pour vous faire passer la barre des
+      50% et vous faire changer d'avis. De cette façon, la loi de Bayes justifie ce
+      précepte bien connu : « Une affirmation extraordinaire requiert une preuve
+      extraordinaire ».
+  - chunk_index: 18
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 402
+    text: |-
+      Prenons un petit exemple pour illustrer tout ça. Supposez que je vous dise que,
+      l'autre jour, je me suis perdu en forêt et j'ai trouvé le village des
+      Schtroumpfs. Devez-vous pour autant croire que le village des Schtroumpfs existe
+      sur la foi de mon seul témoignage ? Si je tenais ton témoignage pour fiable, ça
+      voudrait dire que les Schtroumpfs existent. Admettons que tu considères mon
+      témoignage comme tout à fait fiable, disons même fiable à 99%, ce qui est
+      vraiment beaucoup. C'est-à-dire que si les Schtroumpfs n'existent pas, tu
+      considères qu'il y aurait seulement 1% de chance pour que je produise un faux
+      témoignage. Maintenant, quelle question faut-il se poser ? Il faut se demander :
+      quelle est la probabilité a priori pour que les Schtroumpfs existent. Ne jamais
+      oublier la probabilité a priori. S'il vous plaît. La probabilité que les
+      Schtroumpfs existent est quasiment 0, disons une chance sur 100 millions. Et si
+      on compare cette valeur à la fiabilité de mon témoignage, 99%, on a
+      immédiatement l'intuition que ce témoignage n'est pas assez fiable. En fait, en
+      acceptant ces valeurs-là, mon témoignage aurait en gros pour effet de vous faire
+      passer d'une probabilité a priori d'une chance sur 100 millions à une
+      probabilité d'une chance sur 1 million que les schtroumpfs existent. Autant dire
+      que vous êtes encore très très loin d'y croire.
+  - chunk_index: 19
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 333
+    text: |-
+      Mais ce qui est intéressant là-dedans, c'est que tu n'as pas rejeté mon
+      témoignage, tout au contraire. Tu pourrais même dire que tu me crois quand je te
+      dis que j'ai vu les Schtroumpfs, tu me crois au moins au sens où tu tiens mon
+      témoignage pour fiable. Mon témoignage a effectivement modifié ta croyance en
+      l'existence des Schtroumpfs, même si c'est loin d'être suffisant pour te faire
+      changer d'avis. Ceci dit, si on continuait de t'apporter de nombreuses autres
+      preuves fiables qui vont dans le même sens, tu pourrais peut-être finir par
+      changer d'avis. Et ça c'est un point très important pour comprendre l'inférence
+      bayésienne : on ne rejette pas complètement une preuve sous prétexte qu'elle
+      n'est pas assez fiable pour nous faire changer d'avis : cette preuve, si elle
+      est au moins un peu fiable, doit modifier au moins un peu notre degré de
+      croyance, même si ça ne fait pas passer notre croyance de l'autre côté de la
+      barre des 50%. Et ça peut être à force d'accumuler des tas de preuves
+      indépendantes, qui chacune modifient légèrement notre degré de croyance, que
+      l'on finira par changer d'avis.
+  - chunk_index: 20
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Comment devenir bayésien sans effort > Le piège de l''interprétation de la fiabilité du test'
+    content_token_count: 152
+    text: |-
+      Quelle que soit la position que vous soutenez sur un certain sujet, n'oubliez
+      pas que les arguments en face sont souvent de bons arguments tout de même, et
+      qu'être rationnels ce n'est pas tenir compte seulement des arguments qui vont
+      dans notre sens et négliger tout le reste, être rationnel c'est tenir compte de
+      tous les arguments et déterminer à partir de cela vers quelle position et dans
+      quelle mesure il est légitime de pencher. Et j'espère, peut-être bien naïvement,
+      qu'avoir une meilleure compréhension de l'inférence bayésienne vous aidera à
+      faire ça mieux, à l'avenir.
+  - chunk_index: 21
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Une recette pour un calcul approximatif'
+    content_token_count: 278
+    text: |-
+      Bon maintenant que vous êtes chauds, c'est le moment de faire un tout petit peu
+      de maths. Il y a une petite recette toute simple pour calculer une approximation
+      de la probabilité de A sachant B, quand B est censé être une preuve de A. Pour
+      que ça marche, il faut que la probabilité a priori de A soit faible et nettement
+      plus faible que la probabilité de faux positif (c'est-à-dire la probabilité de B
+      sachant non-A). De là vous divisez la probabilité a priori de A par la
+      probabilité de faux positif, tout simplement. Autrement dit, pour 1% de faux
+      positif, multipliez la probabilité a priori de A par 100 ; pour 20% de faux
+      positif, multipliez par 5 ; etc. Mais cette recette ne marche que si la
+      probabilité a priori de A est faible et nettement plus faible que la probabilité
+      de faux positif. Ceci dit c'est très souvent le cas, par exemple c'était le cas
+      pour le résultat positif au test de la schtroumpfite ou pour mon témoignage sur
+      le village des Schtroumpfs.
+  - chunk_index: 22
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Une recette pour un calcul approximatif'
+    content_token_count: 135
+    text: |-
+      Essayer d'appliquer cette recette quand on vous apporte une information B censée
+      prouver A, ça vous permet de vous poser les bonnes questions, c'est-à-dire :
+      quelle était la probabilité a priori de A ? Et ensuite, quelle est la
+      probabilité de faux positif ? Si vous estimez ces deux valeurs, que la première
+      est faible et nettement plus faible que la seconde, eh bien divisez la première
+      par la seconde et vous aurez fait, sans trop d'effort, une inférence bayésienne
+      presque correcte.
+  - chunk_index: 23
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Une recette pour un calcul approximatif'
+    content_token_count: 44
+    text: |-
+      Je mettrai en description une explication plus détaillée de pourquoi cette
+      approximation marche, et puis quelques liens sur la loi de Bayes pour ceux qui
+      veulent aller plus loin.
+  - chunk_index: 24
+    heading_path: 'LA LOI DE BAYES (2/2) - Argument frappant #3 > Une recette pour un calcul approximatif'
+    content_token_count: 250
+    text: |-
+      Merci d'avoir regardé ces vidéos. Je sais que ça ne ressemble pas vraiment à de
+      la philosophie, et je reviendrai vers des choses plus "classiques" dans mes
+      prochaines vidéos. Ceci dit, si faire de la philosophie c'est s'efforcer d'user
+      de sa raison pour penser le monde qui nous entoure, eh bien au fond se
+      familiariser avec l'inférence bayésienne c'est vraiment un exercice
+      philosophique parce que c'est vraiment susceptible de vous rendre plus rationnel
+      dans votre façon de former des croyances, et c'est pas rien. En comparaison, se
+      taper toute la "Critique de la Raison Pure" de Kant, ou les "Prolégomènes à
+      toute métaphysique future qui pourra se présenter comme science", non seulement
+      c'est assez chiant, mais je suis pas convaincu que ça fasse de vous quelqu'un de
+      plus rationnel en fin de compte. Ce qui ne veut pas dire que c'est pas
+      intéressant, d'ailleurs. On pourra en parler.

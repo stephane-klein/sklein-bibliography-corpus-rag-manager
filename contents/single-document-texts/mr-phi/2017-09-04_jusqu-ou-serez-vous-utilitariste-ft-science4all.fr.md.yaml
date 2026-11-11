@@ -1,0 +1,499 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/mr-phi/2017-09-04_jusqu-ou-serez-vous-utilitariste-ft-science4all.fr.md
+  source_file_hash: sha256:4c9c2d50e840cff2aa29a51854a4ddc562985a45a4af88204fe55e9b9b97c8d5
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 48
+chunks:
+  - chunk_index: 0
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 107
+    text: |-
+      Aujourd'hui, je vais jouer au savant fou, concoctant d'effroyables expériences
+      de pensée morale. Et pour les tester, je vais avoir un cobaye de choix :
+      Désintox, les Saf's, et quelques épisodes que tu fais sur ta chaîne,
+      Science4All. Tu parles de morale, et du coup j'ai très envie de te poser la
+      question suivante : à ton avis, c'est quoi, agir moralement ?
+  - chunk_index: 1
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 84
+    text: |-
+      En fait, alors c'est peut-être une des formations professionnelles dues à mes
+      études en théorie des jeux, mais je dirais que ce qui importe le plus pour moi,
+      c'est qu'un maximum de gens soient aussi heureux que possible. Autrement dit, je
+      pense qu'être moral, c'est maximiser quelque chose comme la somme des bonheurs
+      de tous.
+  - chunk_index: 2
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 70
+    text: |-
+      Là, on fait... c'est la définition même de l'utilitarisme. Et je ne suis loin
+      d'être le seul, en fait. Je pense que tout le monde est utilitariste au moins un
+      peu, mais je pense aussi que personne n'est utilitariste jusqu'au bout. Pas même
+      toi.
+  - chunk_index: 3
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 159
+    text: |-
+      Tu veux me tester ? Considère d'abord la situation suivante. Tu gères les
+      ressources d'un hôpital, et il y a six patients en danger de mort. Le premier
+      d'entre eux, le patient zéro, est dans l'état le plus grave : il a cinq
+      blessures létales. Autrement dit, chacune de ses cinq blessures suffit à
+      entraîner rapidement sa mort, et il faudrait donc les soigner rapidement toutes
+      les cinq pour le sauver. D'autre part, il y a les patients 1, 2, 3, 4 et 5, qui
+      ont chacun une seule blessure létale.
+  - chunk_index: 4
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 129
+    text: |-
+      Laisse-moi deviner : les ressources de l'hôpital sont limitées ? En effet. Tu
+      disposes seulement de cinq machines qui permettent chacune de traiter une
+      blessure létale. En gros, on branche la machine sur un patient et ça va soigner
+      une blessure létale de ce patient. Et ça prend un certain temps, donc on ne peut
+      pas réutiliser la même machine pour sauver différents patients. Note aussi que
+      c'est le seul hôpital du coin, tu ne peux pas envoyer les patients ailleurs.
+  - chunk_index: 5
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 132
+    text: |-
+      Dans cette situation, quelles sont les options ? Première option : ne rien
+      faire. Mais si, on fait quelque chose. Deuxième option : sauver le patient zéro
+      en branchant sur lui les cinq machines. Mais alors, les patients 1 à 5 n'auront
+      plus de machines pour être soignés et vont donc mourir. Troisième option :
+      brancher les cinq machines sur les patients de 1 à 5, ce qui les sauve, mais
+      alors c'est le patient zéro qui ne pourra pas être soigné et qui va donc mourir.
+  - chunk_index: 6
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 88
+    text: |-
+      Du coup, qu'est-ce qu'affirme oralement dans cette situation ? Quelle option
+      choisir ? Bah, troisième option : sauver un maximum de gens. On appelle ça un
+      dilemme ? Un dilemme, en effet. Je pense que tout le monde sera d'accord avec
+      toi là-dessus pour dire que dans cette situation, c'est la bonne action à faire.
+  - chunk_index: 7
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 121
+    text: |-
+      Et ce qui est intéressant ici, c'est que l'on voit que cette bonne action n'est
+      pas si bonne que ça. Elle n'est pas absolument bonne. Le patient zéro meurt tout
+      de même, ce qui en soi est une mauvaise chose. Idéalement, il faudrait plutôt
+      que tous les patients soient sauvés. Idéal, mais impossible. L'action que l'on
+      doit faire n'est jamais que la meilleure, ou pire, la moins pire, parmi
+      l'ensemble des actions possibles.
+  - chunk_index: 8
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 185
+    text: |-
+      En effet, et ça a une première conséquence intéressante sur ce qu'on devrait
+      attendre d'une théorie morale. On pourrait croire qu'une théorie morale fixe un
+      ensemble de critères qui déterminent si une action en elle-même est bonne ou
+      mauvaise. Idéalement, dans une situation, il y aurait une action possible bonne
+      et toutes les autres actions possibles mauvaises. Dans ce cas, on sait
+      exactement quoi faire. Mais on est rarement face à ce type de cas. Et en
+      particulier, que faire lorsque aucune des actions possibles n'est en soi bonne ?
+      C'est généralement ce qui fait les dilemmes moraux. Dans de tels cas, le choix
+      qu'on fait n'est pas indifférent, même si toutes les actions sont mauvaises.
+  - chunk_index: 9
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 100
+    text: |-
+      Dans le cas de l'hôpital, puisque des gens vont mourir, on a envie de dire
+      qu'elles ne sont pas également mauvaises. Et si l'absence de bonnes actions
+      possibles donne envie de ne pas agir, comme pour ne pas se salir les mains, il
+      ne faut pas oublier qu'en fait, ne pas agir est aussi une action, et bien
+      souvent c'est la pire.
+  - chunk_index: 10
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 143
+    text: |-
+      En somme, une théorie morale, ce n'est pas un ensemble de critères qui nous dit
+      « ça c'est bien, ça c'est mal ». C'est une théorie qui est capable de nous dire
+      quelle est la meilleure chose à faire, sachant que « meilleur » est synonyme de
+      « moins mauvais ». Et ça, ça revient à quantifier les valeurs morales des
+      différentes actions, puis à les comparer comme on compare des nombres. Alors, en
+      théorie des jeux, notamment en présence d'incertitude, il y a des petites
+      subtilités, mais pour aujourd'hui, on peut oublier ça.
+  - chunk_index: 11
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 33
+    text: |-
+      Bref, une action sera moralement bonne dans une situation donnée si et seulement
+      si toutes les autres actions auraient une valeur moindre dans cette situation.
+  - chunk_index: 12
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 170
+    text: |-
+      Voilà. Il reste à comprendre maintenant comment nous évaluons et comparons les
+      actions. Dans l'expérience de pensée de l'hôpital, nous avons tendance à
+      comparer les actions en comparant les conséquences attendues de ces actions. Ce
+      type de raisonnement relève de ce qu'on appelle en philosophie morale le
+      conséquentialisme, l'aspect des conséquences, en somme. Il y a une multitude
+      d'approches, mais la plus classique est l'utilitarisme, l'on considère l'effet
+      de l'action sur le bonheur général. En gros, nos actions doivent optimiser le
+      bonheur général. Elles doivent tendre à nous rendre collectivement aussi heureux
+      que possible.
+  - chunk_index: 13
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 226
+    text: |-
+      Ah oui, c'est ma philosophie morale, ça. Ou du moins, c'est celle que j'ai
+      prétendu avoir. L'utilitarisme est né en Angleterre au 19e siècle avec Jeremy
+      Bentham et John Stuart Mill, et il a été développé ensuite par des centaines
+      d'autres jusqu'à aujourd'hui. Et parmi tous ceux qui se réclament de
+      l'utilitarisme, il y a évidemment beaucoup de discussions sur la façon de
+      comprendre, de quantifier et de calculer ce bonheur général. Mais en tout cas,
+      face à un exemple aussi simple que celui que nous venons de voir, il n'y a guère
+      lieu de discuter. Nous faisons tous le même calcul des conséquences : 5 vaut
+      mieux que 1. Et le fait que nous tombions tous d'accord sur ce genre de
+      scénarios montre qu'il y a bien dans notre pensée morale une part utilitariste,
+      ou tout au moins conséquentialiste.
+  - chunk_index: 14
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 117
+    text: |-
+      Pourquoi juste une part ? Tu me crois vraiment pas quand je dis que tout ce que
+      je veux, c'est le bonheur du plus grand nombre ? En particulier, il me semble
+      que si on a le choix entre sauver 5 et sauver 1, si on n'a aucune information et
+      donc aucune raison d'accorder plus d'importance à la vie de l'un plutôt que de
+      l'autre, il me semble que c'est un devoir moral d'en sauver 5 plutôt que 1.
+  - chunk_index: 15
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 126
+    text: |-
+      Eh bien, ce n'était pas si facile que ça d'être toujours utilitariste. Vraiment.
+      Et pour s'en rendre compte, va faire une série de variations autour de ce même
+      scénario d'hôpital. À chaque fois, ce sera le même calcul des conséquences du
+      point de vue utilitariste, et chaque scénario ne diffère que tout petit peu du
+      précédent. Et pourtant, je parie qu'à la fin, tu ne sauveras pas les 5. Ou
+      alors, ce serait assez inquiétant.
+  - chunk_index: 16
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 176
+    text: |-
+      Comment vouloir le bonheur du plus grand nombre peut-il être inquiétant ? Pour
+      commencer, précisons un peu les choses. On va dire que ça se passe dans le
+      futur. Cet hôpital est dans une colonie sur Mars, et c'est le seul de la
+      planète. On va dire aussi que l'hôpital est entièrement automatisé, et tu n'as
+      pas d'autre rôle que d'attribuer les ressources aux différents patients. Tu
+      donnes les ordres, mais ce n'est pas toi qui les soignes. Il y a des robots bien
+      plus compétents qui s'en chargeront. Tu ne vois donc pas les patients, et tu
+      n'as aucune information sur eux, sinon celle que je vais te donner.
+  - chunk_index: 17
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 144
+    text: |-
+      Ils sont inconscients quand ils arrivent à l'hôpital et le resteront jusqu'à ce
+      qu'ils soient soignés. Et on va partir aussi du principe qu'ils ont tous la même
+      assurance maladie, et que tous les frais sont pris en charge par celle-ci.
+      Enfin, chose très importante : personne ne saura ce qui s'est passé dans
+      l'hôpital. Tu n'auras pas à répondre de ton choix face à qui que ce soit hormis
+      toi-même. Donc tu n'as pas à chercher à faire autre chose que ce qui te semble
+      le meilleur d'après toi seul.
+  - chunk_index: 18
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 155
+    text: |-
+      J'ai un petit peu l'impression que des dizaines de milliers de gens sont en
+      train de scrut... Bon, voilà. Le scénario de base est donc le suivant : arrivent
+      en même temps à l'hôpital six patients. Le patient zéro avec cinq blessures
+      létales, les patients 1, 2, 3, 4 et 5 avec chacun une blessure létale, et
+      l'hôpital ne dispose que de cinq machines pouvant chacune traiter une seule
+      blessure. Dans ce cas, donc, je sauve les patients de 1 à 5. Et bon bah, tant
+      pis pour le patient zéro.
+  - chunk_index: 19
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All)
+    content_token_count: 15
+    text: OK, jusque-là, tout le monde est d'accord.
+  - chunk_index: 20
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Première variante
+    content_token_count: 157
+    text: |-
+      Tu as été d'abord informé que le patient zéro est arrivé, et comme il a cinq
+      blessures létales et que tu as justement cinq machines pour les soigner, tu as
+      immédiatement donné l'ordre qu'on les branche sur lui. Mais juste après, alors
+      que rien n'a encore été fait, aucune machine n'est encore branchée, on t'informe
+      que les patients 1 à 5 viennent d'arriver. Si tu ne fais rien, les robots vont
+      suivre ton premier ordre et sauver le patient zéro. Mais tu peux donner un
+      contre-ordre pour sauver plutôt les patients de 1 à 5.
+  - chunk_index: 21
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Première variante
+    content_token_count: 96
+    text: |-
+      Vous feriez quoi, vous ? Pour chaque scénario à partir de maintenant, je vous
+      conseille vraiment de prendre le temps de mettre pause et de réfléchir à ce que
+      vous feriez. Moi, je donne le compréhende : ça reste du 5 contre 1. Première
+      variante : je change d'avis, mais d'un utilitariste. Sa mort est quand même
+      surprenante.
+  - chunk_index: 22
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Deuxième variante
+    content_token_count: 161
+    text: |-
+      La deuxième variante est pareille à la première, sauf qu'entre le moment où tu
+      donnes l'ordre et le moment où les patients 1 à 5 arrivent, les robots ont eu le
+      temps de brancher la première machine sur le patient zéro. Ça ne suffit
+      évidemment pas à le sauver, puisqu'il reste quatre blessures létales. Que
+      fais-tu ? De toute façon, personne ne saura que le patient zéro a été débranché
+      de la machine. Donc je persiste à sauver les patients de 1 à 5. On débranche la
+      machine du patient zéro et on la rebranche sur un autre patient pour le sauver.
+  - chunk_index: 23
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Deuxième variante
+    content_token_count: 97
+    text: |-
+      Très bien. Je suppose que tu ne changeras pas ta réponse si, au lieu d'avoir eu
+      le temps seulement de brancher une machine sur le patient zéro, lorsque les
+      patients 1 à 5 arrivent, les robots ont eu le temps de brancher deux, ou trois,
+      ou quatre machines ? Non ? Tant qu'il n'y a que quatre machines branchées sur le
+      patient zéro, celui-ci n'est pas sauvé.
+  - chunk_index: 24
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Troisième variante
+    content_token_count: 127
+    text: |-
+      Passons donc à la troisième variante, où, comme tu t'en doutes, les patients 1 à
+      5 arrivent alors que la cinquième machine vient d'être branchée sur le patient
+      zéro. Et à ce moment-là, il est donc sauvé, au sens où il n'y a plus qu'à
+      laisser faire les machines et le patient zéro se réveillera demain en pleine
+      forme. Mais les cinq patients sont là et demandent à être traités eux aussi, et
+      chacun n'a besoin que d'une machine.
+  - chunk_index: 25
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Troisième variante
+    content_token_count: 56
+    text: |-
+      Ah ouais, mais le patient zéro allait être sauvé, il n'est pas vraiment sauvé...
+      Du coup, j'ai envie de dire : dommage pour lui, il y a cinq vies à sauver à
+      côté.
+  - chunk_index: 26
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Quatrième scénario
+    content_token_count: 177
+    text: |-
+      Quatrième scénario : suppose qu'au lieu d'arriver juste au moment où la
+      cinquième machine est branchée sur le patient zéro, les patients 1 à 5 arrivent
+      un peu plus tard. Disons d'abord dix minutes plus tard. Est-ce que ça change
+      quelque chose ? Dix minutes ? Non. Et si c'était une heure plus tôt ? Une
+      journée ? Un temps... Mais le patient zéro, il devient conscient d'être sauvé ou
+      non ? Non, le patient zéro tant qu'il est traité reste inconscient, et on sait
+      dans tous les cas qu'il ne se réveillera que demain. Bah non, du coup ça change
+      rien, je persiste à sauver les patients de 1 à 5.
+  - chunk_index: 27
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Quatrième scénario
+    content_token_count: 268
+    text: |-
+      En effet, on peut se dire que que ce soit immédiatement, une heure après ou une
+      journée après, le temps ne fait rien à la chose. Mais si c'était beaucoup plus
+      long que ça ? Disons carrément un an, et en martien c'est encore plus long. En
+      gros, ce serait la situation suivante : le patient zéro a été blessé il y a un
+      an et a été amené à l'hôpital. On l'a branché aux cinq machines pour le sauver,
+      mais ses blessures étaient si graves qu'on l'a fait en sachant qu'il allait
+      devoir rester là pendant un an entier à l'hôpital, inconscient, avant de pouvoir
+      se réveiller et reprendre sa vie. Et c'est précisément demain qu'il va se
+      réveiller si on lui laisse les cinq machines encore aujourd'hui. Sinon, il
+      mourra. Or les patients 1 à 5 arrivent justement aujourd'hui, et il leur faut
+      ces cinq machines maintenant. Sinon, ce sont eux qui vont mourir, tandis que
+      s'ils sont soignés, ils se réveilleront tous les cinq demain.
+  - chunk_index: 28
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Quatrième scénario
+    content_token_count: 270
+    text: |-
+      Si l'histoire fuit, je sens que je vais passer un sale quart d'heure. On part
+      vraiment du principe que personne ne sera au courant de rien, en particulier.
+      Disons que personne, à part toi, ne connaît le véritable état du patient zéro.
+      Donc si tu choisis de sauver les patients de 1 à 5, ce qui coûtera la vie au
+      patient zéro, personne hormis toi ne saura ce qui s'est passé. On croira
+      seulement que le patient 01 a fini par mourir de ses blessures. Donc voilà,
+      demande-toi seulement : qu'est-ce qui te paraît le mieux à toi ? Et note que
+      c'est sous bien des aspects la même situation que précédemment, au sens où tu as
+      le choix entre faire que les patients de 1 à 5 demain se réveillent et pas le
+      patient zéro, ou bien que ce soit le patient zéro qui se réveille et pas les
+      patients de 1 à 5. La seule différence, en fait, c'est que ça se passe sur une
+      échelle de temps beaucoup plus longue. Est-ce que ça change ta réponse ?
+  - chunk_index: 29
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Quatrième scénario
+    content_token_count: 72
+    text: |-
+      Vous en pensez quoi, vous ? Parce que c'est aussi à vous qu'il pose ses
+      questions, d'enfilure. J'ai l'impression que, compte tenu juste de me juger, bah
+      non, ça changera. Je sauve encore les patients de 1 à 5. Vraiment utilitariste.
+  - chunk_index: 30
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Cinquième scénario
+    content_token_count: 229
+    text: |-
+      Le cinquième scénario est un peu spécial. C'est en fait une sorte de variante
+      sur tous les scénarios précédents. J'ai parlé de machines qu'on branche sur les
+      patients pour soigner leurs blessures létales, mais je n'ai rien dit de ce que
+      sont exactement ces machines. Et il est possible que des intuitions changent une
+      fois que tu sauras exactement ce qu'elles sont. Moi, j'imagine des robots
+      humanoïdes chirurgiens. Eh bien, il y a peut-être des robots dans l'hôpital,
+      mais les machines dont je parle ne sont pas de ce type-là. Pour soigner une
+      blessure létale, là, ce qu'on va faire, c'est qu'on va remplacer carrément le
+      cœur du patient par un cœur artificiel. Autrement dit, lorsque je parlais de
+      machines qui doivent être branchées sur les patients, je parlais en fait
+      d'organes artificiels.
+  - chunk_index: 31
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Cinquième scénario
+    content_token_count: 115
+    text: |-
+      Ah ouais ? Donc maintenant, dans les scénarios 2, 3 et 4, quand tu reprends les
+      machines pour les utiliser sur les autres patients, dis-toi que tu reprends en
+      fait des organes artificiels que tu avais préalablement placés dans le corps du
+      patient zéro. Cela change-t-il tes réponses du coup ? Non ? Non ? Non, toujours
+      pas ? Je garde la finalité en tête, ça reste du 5 contre 1.
+  - chunk_index: 32
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Sixième scénario
+    content_token_count: 271
+    text: |-
+      Sixième scénario : comme dans le scénario 4, le patient zéro est arrivé à
+      l'hôpital il y a un an avec cinq blessures létales que l'on a soignées en lui
+      donnant les cinq organes artificiels. Mais en fait, il s'est réveillé dès le
+      lendemain, et on a pu le laisser sortir. Il a mené sa vie tranquillement pendant
+      un an. Ah ouais ? Du coup là, il est conscient d'avoir été sauvé. Aujourd'hui,
+      il est amené à l'hôpital suite à un autre accident. On s'occupe de lui à
+      l'hôpital, et le voilà sauvé. En fait, c'était beaucoup moins grave que ça en
+      avait l'air. Il est encore inconscient après son opération et se réveillera
+      demain. Et c'est à ce moment précis que les patients 1 à 5 arrivent. Et à ce
+      moment précis, le seul moyen de les sauver, c'est d'utiliser les organes
+      artificiels du patient zéro, ce qui évidemment causera sa mort.
+  - chunk_index: 33
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Sixième scénario
+    content_token_count: 102
+    text: |-
+      L'assèchement. J'ai quand même un gros malaise là. Aussi, part du principe que
+      personne à l'extérieur de l'hôpital ne connaît véritablement l'état du patient
+      0. Sa blessure avait l'air plutôt grave, donc s'il meurt aujourd'hui, ça passera
+      pour une conséquence naturelle de l'accident qui l'a amené à l'hôpital
+      aujourd'hui.
+  - chunk_index: 34
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Sixième scénario
+    content_token_count: 66
+    text: |-
+      Vous en pensez quoi ? Voulez...? Parce que j'ai quand même l'impression de tuer
+      le patient zéro pour sauver les cinq autres. OK, je l'admets, je sauve pas les
+      cinq patients. Je ne suis pas complètement utilitariste.
+  - chunk_index: 35
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Sixième scénario
+    content_token_count: 15
+    text: Mais juste par curiosité, c'était quoi le niveau 7 ?
+  - chunk_index: 36
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Septième scénario
+    content_token_count: 292
+    text: |-
+      Le patient zéro est amené aujourd'hui à l'hôpital suite à un accident qui paraît
+      grave mais pour lequel il est en fait facilement soigné. Pas de blessures
+      létales, donc il ne lui faut que des organes naturels. Et il est maintenant en
+      bonne santé, quoique encore inconscient suite à son opération. Mais il va se
+      réveiller le lendemain dans l'hôpital. Aucun organe artificiel. C'est
+      malheureux. Et c'est alors que les patients 1 à 5 arrivent, chacun avec une
+      blessure létale en quête d'un organe de remplacement. Or, dans le futur, la
+      transplantation d'organes naturels marche dans certains cas parfaitement, et il
+      se trouve que le patient zéro est justement un donneur compatible parfait pour
+      tous les patients 1 à 5. Aussi, à cet instant précis, l'unique moyen de sauver
+      les patients de 1 à 5, c'est d'utiliser les organes du patient zéro pour les
+      transplanter sur les patients de 1 à 5. Qui est encore tenté d'en sauver 5
+      plutôt qu'un seul ? Qui est resté utilitariste jusqu'au bout ?
+  - chunk_index: 37
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Septième scénario
+    content_token_count: 96
+    text: |-
+      Je comprends pourquoi tu disais que l'utilitarisme, en fait, c'est un énorme
+      monstre. Bah, est clairement non. Je ne pensais pas... Je ne sacrifie pas le
+      patient zéro pour sauver les cinq autres. Est clairement... Si je dis ça, c'est
+      pas juste parce qu'il y a des dizaines de milliers de gens qui sont en train de
+      me juger.
+  - chunk_index: 38
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Septième scénario
+    content_token_count: 156
+    text: |-
+      Dans le scénario de base comme dans les sept variantes, les conséquences à
+      prendre en compte du point de vue utilitariste sont exactement les mêmes :
+      demain, soit un seul patient se réveille et 5 meurent, soit cinq patients se
+      réveillent et un seul meurt. Et donc, du point de vue utilitariste, il semble
+      que l'action se défende aussi bien dans le premier cas que dans le dernier. Mais
+      si je pense qu'à peu près tout le monde a accepté de sacrifier le patient zéro
+      dans le scénario de base, très, très rares seront ceux qui accepteront encore
+      dans cette septième variante.
+  - chunk_index: 39
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Septième scénario
+    content_token_count: 139
+    text: |-
+      Tout le monde ne change pas d'avis au même point, mais presque tout le monde
+      finit par changer d'avis en passant d'un scénario à l'autre. D'ailleurs, mettez
+      en commentaire à partir de quel niveau vous avez arrêté de sauver les patients
+      de 1 à 5, en expliquant pourquoi, histoire que je me sente un petit peu moins
+      seul. Notez que chaque variante diffère aussi peu que possible de la précédente,
+      et que ce côté progressif est là pour vous aider à isoler exactement ce qui vous
+      fait changer d'avis.
+  - chunk_index: 40
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 72
+    text: |-
+      Je ferai sans doute une suite à cet épisode à partir de vos réponses. Ce serait
+      intéressant de regarder les différentes raisons que vous donnez pour justifier
+      pourquoi vous cessez d'être utilitariste, et qu'est-ce que ça nous apprend quant
+      à nos intuitions morales.
+  - chunk_index: 41
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 236
+    text: |-
+      Il faut quand même que je précise que cette vidéo n'est pas une critique
+      vachement dure de l'utilitarisme. Auquel... L'utilitariste est un monstre dans
+      certains cas, on est d'accord. Mais je dirais que dans d'autres cas,
+      l'utilitarisme en fait beaucoup à nous apprendre. En particulier, dans de
+      nombreux cas, je trouve que l'utilitarisme est beaucoup plus moral que ma propre
+      intuition morale, et je pense avoir moralement progressé depuis que je médite
+      l'utilitarisme. En particulier, le postulat qui consiste à maximiser le bonheur
+      du plus grand nombre, ça peut paraître simpliste et trivial, mais en fait ça a
+      des conséquences énormes sur ce qu'est la morale. Ça rejette pas mal de trucs
+      que l'on associe habituellement à la morale, et surtout, ça permet de se rendre
+      compte que déterminer ce qui est moral et ce qui ne l'est pas, ça n'a absolument
+      rien d'évident.
+  - chunk_index: 42
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 121
+    text: |-
+      En fait, je suis plutôt d'accord avec l'utilitarisme. Mais comme je disais dans
+      ma précédente vidéo, quand on réfléchit aux fondements de la morale, il n'y a
+      aucune position confortable. L'utilitarisme est inconfortable en effet, mais
+      c'est peut-être une position moins inconfortable que les autres. Bah du coup, je
+      t'invite à venir en parler sur ma chaîne. Super idée, je te suis. Et j'invite
+      tout le monde à en faire autant.
+  - chunk_index: 43
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 180
+    text: |-
+      Merci d'avoir regardé cette vidéo. J'espère que ça vous a plu, que ça vous a
+      amusé. Si tel est le cas, n'hésitez pas à liker et à partager avec tous ceux à
+      qui ça pourrait plaire aussi. N'hésitez pas à indiquer en commentaire à partir
+      de quelle variante vous cessez de sauver les patients de 1 à 5. Ça m'intéresse,
+      et donc, comme je le dis, j'en parlerai dans une prochaine vidéo. Et tenez, on
+      va faire un sondage tant qu'à faire. Tu trouveras le billet de blog qui
+      accompagne la vidéo. Vous y trouverez un résumé des différents scénarios et vous
+      pourrez exprimer ce que vous feriez dans chacun des cas.
+  - chunk_index: 44
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 60
+    text: |-
+      Un grand merci à tous les contributeurs. Vous êtes généreux, et vos messages sur
+      Tipeee me font très plaisir. Tipeee est maintenant ma principale source de
+      rémunération, et donc vos dons sont vraiment précieux et appréciés.
+  - chunk_index: 45
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 35
+    text: |-
+      Dans la prochaine vidéo, on va parler de réalisme scientifique, car oui, c'est
+      le réalisme scientifique qui a gagné le vote.
+  - chunk_index: 46
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 106
+    text: |-
+      Voilà, pour finir, je vous encourage vivement à aller voir dans la foulée la
+      vidéo que j'ai faite avec Léonard pour approfondir toutes sortes de questions
+      morales, et notamment sur l'utilitarisme. Pensez-vous vraiment qu'il ne faut pas
+      faire à autrui ce que vous ne voulez pas qu'on vous fasse ? Vous y réfléchirez
+      peut-être à deux fois après avoir vu la vidéo.
+  - chunk_index: 47
+    heading_path: Jusqu'où serez-vous utilitariste ? (Ft. Science4All) > Ce que l'utilitarisme nous apprend
+    content_token_count: 31
+    text: |-
+      Sur ce, je vous dis à bientôt, portez-vous bien et soyez utilitariste... mais
+      pas trop, quand même.
