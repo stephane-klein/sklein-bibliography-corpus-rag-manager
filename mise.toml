@@ -106,6 +106,20 @@ run = "psql \"${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL}\" < sqls/cl
 [tasks.enter-in-pg]
 run = "psql \"${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL}\""
 
+[tasks.execute-read-sql]
+description = "Execute one read-only SQL statement against the local PostgreSQL container"
+usage = '''
+arg "<sql>" help="SQL statement to execute"
+'''
+run = 'scripts/execute-sql.sh --read "${usage_sql:?}"'
+
+[tasks.execute-write-sql]
+description = "Execute one writable SQL statement (use only when explicitly asked)"
+usage = '''
+arg "<sql>" help="SQL statement to execute"
+'''
+run = 'scripts/execute-sql.sh --write "${usage_sql:?}"'
+
 [tasks.build-image]
 quiet = true
 run = """

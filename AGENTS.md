@@ -48,6 +48,29 @@ control flow). Reserve `LANGUAGE plpgsql` for functions that genuinely need
 procedural features: `IF`, loops, `RAISE EXCEPTION`, dynamic SQL (`EXECUTE`), or
 `SELECT ... INTO` variables.
 
+### Local database access
+
+Use the `execute-read-sql` mise task for every database query. Do not call
+`psql` directly, and never guess the connection URL:
+
+```bash
+mise run execute-read-sql -- "SELECT id, slug, title FROM hierarchical_content_nodes ORDER BY id DESC LIMIT 5"
+```
+
+The container publishes a random host port. The task reloads
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_POSTGRES_URL` from the running container
+on every run, so the URL is always current. It runs one read-only statement
+with a 15-second timeout; add a `LIMIT` to every broad query.
+
+Use `execute-write-sql` only when the user explicitly asks for a write:
+
+```bash
+mise run execute-write-sql -- "UPDATE ..."
+```
+
+See [`docs/agents/database.md`](docs/agents/database.md) for the connection
+details, the schema overview and troubleshooting.
+
 ## Example / Scaffolding Files
 
 The following files are examples meant to be replaced with your actual project code:
@@ -169,10 +192,10 @@ internationalization.
 
 **Whenever you create or modify a page/component with user-facing text:**
 
-1.  Add all new keys to `messages/en.json` (English source) and `messages/fr.json`
+1. Add all new keys to `messages/en.json` (English source) and `messages/fr.json`
     (French translation)
-2.  Replace hardcoded strings with `{m.key_name()}` calls
-3.  Run `pnpm build` to regenerate the compiled message functions in
+2. Replace hardcoded strings with `{m.key_name()}` calls
+3. Run `pnpm build` to regenerate the compiled message functions in
     `src/lib/paraglide/`
 
 Key naming convention: use prefix per page/section (e.g., `login_title`,
@@ -185,7 +208,7 @@ pitfall, email templates, login flows): see `docs/agents/i18n.md`.
 
 ## Supplementary Documentation
 
-- [`docs/agents/`](docs/agents/) — operational snapshots of subsystems (loaded on demand by the agent)
+- [`docs/agents/`](docs/agents/) — operational snapshots of subsystems (loaded on demand by the agent), including [`database.md`](docs/agents/database.md) for local SQL access
 - [`docs/decisions/`](docs/decisions/) — architecture decision records
 - `.opencode/skills/new-decision/` — skill for creating new decision records
 
