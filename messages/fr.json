@@ -116,6 +116,28 @@
   "documents_search_help": "Recherche BM25 dans le contenu, guillemets et AND/OR/NOT acceptés. La recherche sémantique ajoute les passages vectorisés.",
   "documents_semantic_label": "Recherche sémantique",
   "documents_hybrid_badge": "Hybride",
+  "documents_semantic_cache_hit": "vecteur en cache",
+  "documents_semantic_generated_no_usage": "vecteur généré",
+  "documents_semantic_generated_unpriced": [
+    {
+      "declarations": ["input tokens", "local tokensPlural = tokens: plural"],
+      "selectors": ["tokensPlural"],
+      "match": {
+        "tokensPlural=one": "vecteur généré · {tokens} token",
+        "tokensPlural=other": "vecteur généré · {tokens} tokens"
+      }
+    }
+  ],
+  "documents_semantic_generated": [
+    {
+      "declarations": ["input tokens", "input cost", "local tokensPlural = tokens: plural"],
+      "selectors": ["tokensPlural"],
+      "match": {
+        "tokensPlural=one": "vecteur généré · {tokens} token · {cost} µ$US",
+        "tokensPlural=other": "vecteur généré · {tokens} tokens · {cost} µ$US"
+      }
+    }
+  ],
   "documents_rank_both": "BM25 #{bm25} · vecteur #{vector}",
   "documents_rank_vector": "vecteur #{vector}",
   "documents_rank_bm25": "BM25 #{bm25}",

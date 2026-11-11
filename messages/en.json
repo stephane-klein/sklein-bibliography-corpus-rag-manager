@@ -116,6 +116,28 @@
   "documents_search_help": "BM25 search in the content; quotes and AND/OR/NOT are supported. Semantic search adds vectorized passages.",
   "documents_semantic_label": "Semantic search",
   "documents_hybrid_badge": "Hybrid",
+  "documents_semantic_cache_hit": "query vector cached",
+  "documents_semantic_generated_no_usage": "query vector generated",
+  "documents_semantic_generated_unpriced": [
+    {
+      "declarations": ["input tokens", "local tokensPlural = tokens: plural"],
+      "selectors": ["tokensPlural"],
+      "match": {
+        "tokensPlural=one": "query vector generated · {tokens} token",
+        "tokensPlural=other": "query vector generated · {tokens} tokens"
+      }
+    }
+  ],
+  "documents_semantic_generated": [
+    {
+      "declarations": ["input tokens", "input cost", "local tokensPlural = tokens: plural"],
+      "selectors": ["tokensPlural"],
+      "match": {
+        "tokensPlural=one": "query vector generated · {tokens} token · {cost} µUSD",
+        "tokensPlural=other": "query vector generated · {tokens} tokens · {cost} µUSD"
+      }
+    }
+  ],
   "documents_rank_both": "BM25 #{bm25} · vector #{vector}",
   "documents_rank_vector": "vector #{vector}",
   "documents_rank_bm25": "BM25 #{bm25}",

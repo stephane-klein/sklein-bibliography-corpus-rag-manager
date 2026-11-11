@@ -1,7 +1,14 @@
 <script>
     import { m } from "#lib/paraglide/messages.js";
+    import { getLocale } from "#lib/paraglide/runtime.js";
 
     let { data } = $props();
+
+    // Query embeddings cost a fraction of a cent, so the table shows millionths
+    // of a US dollar instead of a long run of leading zeros.
+    function formatMicroUsd(costUsd) {
+        return new Intl.NumberFormat(getLocale(), { maximumFractionDigits: 2 }).format(costUsd * 1_000_000);
+    }
 
     function searchQuery(overrides = {}) {
         const values = {
@@ -242,6 +249,22 @@
                             class="ml-2 rounded-sm bg-blue-50 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-blue-700"
                             >{m.documents_hybrid_badge()}</span
                         >
+                    {/if}
+                    {#if data.semanticMeta}
+                        <span class="ml-2">
+                            {#if data.semanticMeta.source === "cache"}
+                                {m.documents_semantic_cache_hit()}
+                            {:else if !data.semanticMeta.tokens}
+                                {m.documents_semantic_generated_no_usage()}
+                            {:else if data.semanticMeta.costUsd === null}
+                                {m.documents_semantic_generated_unpriced({ tokens: data.semanticMeta.tokens })}
+                            {:else}
+                                {m.documents_semantic_generated({
+                                    tokens: data.semanticMeta.tokens,
+                                    cost: formatMicroUsd(data.semanticMeta.costUsd),
+                                })}
+                            {/if}
+                        </span>
                     {/if}
                 </h2>
                 <span class="ml-auto text-[13px] text-gray-500">

@@ -51,14 +51,16 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
             semantic,
             hybrid: false,
             semanticError: null,
+            semanticMeta: null,
         };
     }
 
     let semanticError = null;
+    let semanticMeta = null;
 
     if (semantic) {
         try {
-            const hybrid = await hybridSearch({
+            const result = await hybridSearch({
                 q,
                 filterConditions,
                 requestedPage,
@@ -67,10 +69,11 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
                 filtered,
             });
 
-            if (hybrid) {
-                return hybrid;
+            if (result.hybrid) {
+                return result;
             }
 
+            semanticMeta = result.semanticMeta;
             semanticError = "no-vectors";
         } catch (error) {
             logger.warn({ err: error, query: error.query }, "Hybrid search failed; falling back to BM25");
@@ -87,6 +90,7 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
         filtered,
         semantic,
         semanticError,
+        semanticMeta,
     });
 }
 
@@ -96,22 +100,27 @@ export async function getQueryEmbedding(query) {
     const cached = await readQueryEmbedding(key);
 
     if (cached) {
-        return cached;
+        return { embedding: cached, source: "cache", usage: null };
     }
 
-    const { embeddings } = await embedTexts([query], {
+    const { embeddings, usage } = await embedTexts([query], {
         inputType: "query",
         timeoutMs: QUERY_TIMEOUT_MS,
     });
     await writeQueryEmbedding(key, embeddings[0]);
 
-    return embeddings[0];
+    return { embedding: embeddings[0], source: "provider", usage };
 }
 
 async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, selectionTotal, filtered }) {
     const info = getEmbeddingInfo();
-    const queryEmbedding = await getQueryEmbedding(q);
-    const vector = JSON.stringify(queryEmbedding);
+    const { embedding, source, usage } = await getQueryEmbedding(q);
+    const vector = JSON.stringify(embedding);
+    const semanticMeta = {
+        source,
+        tokens: usage?.tokens ?? null,
+        costUsd: usage?.cost_usd ?? null,
+    };
 
     const [bm25Docs, vectorRows] = await Promise.all([
         sql`
@@ -147,7 +156,7 @@ async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, s
     ]);
 
     if (vectorRows.length === 0) {
-        return null;
+        return { hybrid: false, semanticMeta };
     }
 
     const fused = fuseRrf(bm25Docs, groupVectorRows(vectorRows));
@@ -167,6 +176,7 @@ async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, s
         semantic: true,
         hybrid: true,
         semanticError: null,
+        semanticMeta,
     };
 }
 
@@ -179,6 +189,7 @@ async function bm25Search({
     filtered,
     semantic,
     semanticError,
+    semanticMeta = null,
 }) {
     const matchConditions = [sql`content @@@ pdb.parse(${q}, lenient => true)`, ...filterConditions];
     const [{ total }] = await sql`
@@ -220,6 +231,7 @@ async function bm25Search({
         semantic,
         hybrid: false,
         semanticError,
+        semanticMeta,
     };
 }
 
