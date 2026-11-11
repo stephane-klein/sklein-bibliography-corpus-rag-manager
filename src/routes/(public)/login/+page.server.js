@@ -76,7 +76,7 @@ export const actions = {
             cookies.set("locale", user.locale, { path: "/", maxAge: 34560000, sameSite: "lax", httpOnly: false });
         }
 
-        throw redirect(302, "/dashboard");
+        throw redirect(302, "/documents");
     },
 
     magicLink: async ({ request, getClientAddress }) => {

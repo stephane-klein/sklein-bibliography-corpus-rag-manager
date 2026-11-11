@@ -56,15 +56,11 @@
   "magic_sent_hint": "Cliquez sur le lien dans l'e-mail pour vous connecter. Il expire dans 15 minutes.",
   "magic_sent_different_email": "Utiliser un autre e-mail",
   "magic_sent_go_home": "Aller à l'accueil",
-  "nav_dashboard": "Tableau de bord",
   "nav_documents": "Documents",
   "nav_profile": "Profil",
   "nav_preferences": "Préférences",
   "nav_tokens": "Jetons",
   "nav_sign_out": "Déconnexion",
-  "dashboard_title": "Tableau de bord",
-  "dashboard_welcome": "Bon retour, {name}.",
-  "dashboard_signed_in_as": "Connecté en tant que {email}.",
   "documents_title": "Documents",
   "documents_count": [
     {

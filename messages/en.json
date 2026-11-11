@@ -56,15 +56,11 @@
   "magic_sent_hint": "Click the link in the email to sign in. It expires in 15 minutes.",
   "magic_sent_different_email": "Try a different email",
   "magic_sent_go_home": "Go to homepage",
-  "nav_dashboard": "Dashboard",
   "nav_documents": "Documents",
   "nav_profile": "Profile",
   "nav_preferences": "Preferences",
   "nav_tokens": "Tokens",
   "nav_sign_out": "Sign out",
-  "dashboard_title": "Dashboard",
-  "dashboard_welcome": "Welcome back, {name}.",
-  "dashboard_signed_in_as": "You are signed in as {email}.",
   "documents_title": "Documents",
   "documents_count": [
     {

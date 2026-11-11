@@ -98,7 +98,7 @@ export async function GET({ url: reqUrl, cookies }) {
         cookies.set("locale", user.locale, { path: "/", maxAge: 34560000, sameSite: "lax", httpOnly: false });
     }
 
-    logger.info({ userId: user.id }, "Session created, redirecting to dashboard");
+    logger.info({ userId: user.id }, "Session created, redirecting to documents");
 
-    throw redirect(302, "/dashboard");
+    throw redirect(302, "/documents");
 }

@@ -12,17 +12,10 @@
 <header class="border-b border-gray-300 bg-white">
     <div class="page px-5 py-2 flex items-center justify-between">
         <a
-            href="/dashboard"
+            href="/documents"
             class="font-bold text-base no-underline">{m.app_name()}</a
         >
         <nav>
-            <a
-                href="/dashboard"
-                class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline"
-                class:active={isActive("/dashboard")}
-                aria-current={isActive("/dashboard") ? "page" : undefined}>{m.nav_dashboard()}</a
-            >
-            |
             <a
                 href="/documents"
                 class="text-sm text-gray-500 no-underline hover:text-blue-600 hover:underline"
