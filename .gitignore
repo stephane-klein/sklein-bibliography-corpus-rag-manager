@@ -9,4 +9,5 @@ TODO.md
 TASKS.md
 .DS_Store
 src/lib/paraglide/
+project.inlang/cache/
 .opencode/*.backup

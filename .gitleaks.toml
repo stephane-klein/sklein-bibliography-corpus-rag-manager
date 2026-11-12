@@ -1,12 +1,32 @@
 [extend]
 useDefault = true
 
-[[rules]]
-id = "generic-api-key"
-entropy = 2
-
 [[allowlists]]
 description = "Allow .secret files (local-only, never committed)"
 paths = [
     "\\.secret$"
+]
+
+[[allowlists]]
+description = "Generated files: build output, SvelteKit output, Paraglide cache"
+paths = [
+    '''(?:^|/)build/''',
+    '''(?:^|/)\.svelte-kit/''',
+    '''(?:^|/)project\.inlang/cache/''',
+]
+
+[[allowlists]]
+description = "Documentation placeholder, not a secret"
+regexes = [
+    '''YOUR_MCP_TOKEN''',
+]
+
+[[allowlists]]
+description = "Throwaway credentials of the local deployment playground"
+paths = [
+    '''(?:^|/)deployment-playground/authelia/key\.pem$''',
+    '''(?:^|/)deployment-playground/authelia/configuration\.yml$''',
+]
+regexes = [
+    '''playground-admin-token-change-me-in-prod''',
 ]
