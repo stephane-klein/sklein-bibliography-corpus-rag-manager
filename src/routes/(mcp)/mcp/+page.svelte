@@ -115,6 +115,10 @@
                 <td class="pr-4 py-1 font-mono">readOnlySqlQuery</td>
                 <td class="py-1">{m.mcp_page_tool_description()}</td>
             </tr>
+            <tr class="border-b border-gray-200">
+                <td class="pr-4 py-1 font-mono">semanticSearch</td>
+                <td class="py-1">{m.mcp_page_tool_semantic_description()}</td>
+            </tr>
         </tbody>
     </table>
 

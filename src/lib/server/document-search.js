@@ -2,6 +2,7 @@ import { sql } from "#lib/server/pg.js";
 import { embedTexts, getEmbeddingInfo, getEmbeddingModel } from "#lib/server/embedding.js";
 import { logger } from "#lib/server/logger.js";
 import { buildQueryEmbeddingKey, readQueryEmbedding, writeQueryEmbedding } from "#lib/server/query-embedding-cache.js";
+import { classifySemanticError } from "#lib/server/search-diagnostics.js";
 
 const PAGE_SIZE = 15;
 const CANDIDATE_LIMIT = 200;
@@ -9,7 +10,8 @@ const RRF_K = 60;
 const QUERY_TIMEOUT_MS = 3_000;
 const BEST_CHUNK_CHARS = 400;
 
-export async function searchDocuments({ q, authorWords, titleWords, semantic, requestedPage }) {
+export async function searchDocuments({ q, authorWords, titleWords, semantic, requestedPage, pageSize = PAGE_SIZE }) {
+    const effectivePageSize = Number.isInteger(pageSize) && pageSize > 0 ? pageSize : PAGE_SIZE;
     const filterConditions = [
         authorWords.length > 0 ? allWords(sql`immutable_unaccent(immutable_authors_text(authors))`, authorWords) : null,
         titleWords.length > 0 ? allWords(sql`immutable_unaccent(title)`, titleWords) : null,
@@ -31,7 +33,7 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
 
     if (!q) {
         const embeddingModel = getEmbeddingModel();
-        const { page, totalPages, offset } = pageWindow(selectionTotal, requestedPage);
+        const { page, totalPages, offset } = pageWindow(selectionTotal, requestedPage, effectivePageSize);
         const documents = await sql`
             SELECT n.nanoid, n.title, n.authors, n.original_published_date, n.source_url,
                    COALESCE(chunks.total, 0) AS chunk_count,
@@ -51,7 +53,7 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
               ) chunks ON true
               ${whereClause(filterConditions)}
              ORDER BY n.original_published_date DESC NULLS LAST, n.id DESC
-             LIMIT ${PAGE_SIZE} OFFSET ${offset}
+             LIMIT ${effectivePageSize} OFFSET ${offset}
         `;
 
         return {
@@ -68,11 +70,13 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
             hybrid: false,
             semanticError: null,
             semanticMeta: null,
+            diagnostics: null,
         };
     }
 
     let semanticError = null;
     let semanticMeta = null;
+    let semanticDiagnostics = null;
 
     if (semantic) {
         try {
@@ -80,6 +84,7 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
                 q,
                 filterConditions,
                 requestedPage,
+                pageSize: effectivePageSize,
                 corpusTotal,
                 selectionTotal,
                 filtered,
@@ -90,10 +95,12 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
             }
 
             semanticMeta = result.semanticMeta;
-            semanticError = "no-vectors";
+            semanticError = result.semanticError ?? "no-matches";
+            semanticDiagnostics = result.diagnostics ?? null;
         } catch (error) {
             logger.warn({ err: error, query: error.query }, "Hybrid search failed; falling back to BM25");
             semanticError = "unavailable";
+            semanticDiagnostics = null;
         }
     }
 
@@ -101,12 +108,14 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
         q,
         filterConditions,
         requestedPage,
+        pageSize: effectivePageSize,
         corpusTotal,
         selectionTotal,
         filtered,
         semantic,
         semanticError,
         semanticMeta,
+        diagnostics: semanticDiagnostics,
     });
 }
 
@@ -128,14 +137,17 @@ export async function getQueryEmbedding(query) {
     return { embedding: embeddings[0], source: "provider", usage };
 }
 
-async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, selectionTotal, filtered }) {
+async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corpusTotal, selectionTotal, filtered }) {
     const info = getEmbeddingInfo();
+    const embeddingStartedAt = performance.now();
     const { embedding, source, usage } = await getQueryEmbedding(q);
     const vector = JSON.stringify(embedding);
     const semanticMeta = {
         source,
         tokens: usage?.tokens ?? null,
         costUsd: usage?.cost_usd ?? null,
+        embeddingMs: Math.round(performance.now() - embeddingStartedAt),
+        model: info.query_model,
     };
 
     const [bm25Docs, vectorRows] = await Promise.all([
@@ -172,12 +184,30 @@ async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, s
     ]);
 
     if (vectorRows.length === 0) {
-        return { hybrid: false, semanticMeta };
+        const [{ total: corpusVectors }] = await sql`
+            SELECT count(*)::int AS total
+              FROM content_chunks
+             WHERE embedding IS NOT NULL
+               AND embedding_model = ${info.model}
+               AND embedding_strategy = 'standard'
+        `;
+
+        return {
+            hybrid: false,
+            semanticMeta,
+            semanticError: classifySemanticError({ corpusVectors, filtered, vectorCount: vectorRows.length }),
+            diagnostics: {
+                corpus_vectors: corpusVectors,
+                filtered_vectors: 0,
+                selection_total: selectionTotal,
+                corpus_total: corpusTotal,
+            },
+        };
     }
 
     const fused = fuseRrf(bm25Docs, groupVectorRows(vectorRows));
-    const { page, totalPages, offset } = pageWindow(fused.length, requestedPage);
-    const pageDocuments = fused.slice(offset, offset + PAGE_SIZE);
+    const { page, totalPages, offset } = pageWindow(fused.length, requestedPage, pageSize);
+    const pageDocuments = fused.slice(offset, offset + pageSize);
     const documents = await attachSnippets(pageDocuments, q);
 
     return {
@@ -193,6 +223,11 @@ async function hybridSearch({ q, filterConditions, requestedPage, corpusTotal, s
         hybrid: true,
         semanticError: null,
         semanticMeta,
+        diagnostics: {
+            vector_candidates: vectorRows.length,
+            selection_total: selectionTotal,
+            corpus_total: corpusTotal,
+        },
     };
 }
 
@@ -200,12 +235,14 @@ async function bm25Search({
     q,
     filterConditions,
     requestedPage,
+    pageSize,
     corpusTotal,
     selectionTotal,
     filtered,
     semantic,
     semanticError,
     semanticMeta = null,
+    diagnostics = null,
 }) {
     const matchConditions = [sql`content @@@ pdb.parse(${q}, lenient => true)`, ...filterConditions];
     const [{ total }] = await sql`
@@ -213,10 +250,11 @@ async function bm25Search({
           FROM hierarchical_content_nodes
           ${whereClause(matchConditions)}
     `;
-    const { page, totalPages, offset } = pageWindow(total, requestedPage);
+    const { page, totalPages, offset } = pageWindow(total, requestedPage, pageSize);
     const documents = (
         await sql`
-            SELECT nanoid,
+            SELECT id,
+                   nanoid,
                    title,
                    authors,
                    original_published_date,
@@ -231,7 +269,7 @@ async function bm25Search({
               FROM hierarchical_content_nodes
               ${whereClause(matchConditions)}
              ORDER BY pdb.score(id) DESC, id ASC
-             LIMIT ${PAGE_SIZE} OFFSET ${offset}
+             LIMIT ${pageSize} OFFSET ${offset}
         `
     ).map((document, index) => ({ ...document, bm25Rank: offset + index + 1 }));
 
@@ -248,6 +286,7 @@ async function bm25Search({
         hybrid: false,
         semanticError,
         semanticMeta,
+        diagnostics,
     };
 }
 
@@ -268,6 +307,7 @@ function groupVectorRows(rows) {
             source_url: row.source_url,
             bestChunk: {
                 heading_path: row.heading_path,
+                chunk_index: row.chunk_index,
                 content: bestChunkExcerpt(row.best_chunk, row.best_chunk_truncated),
             },
             distance: Number(row.distance),
@@ -377,11 +417,11 @@ function attachVectorization(documents) {
     return documents.map((document) => ({ ...document, vectorization: vectorizationState(document) }));
 }
 
-function pageWindow(total, requestedPage) {
-    const totalPages = Math.ceil(total / PAGE_SIZE);
+function pageWindow(total, requestedPage, pageSize = PAGE_SIZE) {
+    const totalPages = Math.ceil(total / pageSize);
     const page = totalPages > 0 ? Math.min(Math.max(1, requestedPage || 1), totalPages) : 1;
 
-    return { page, totalPages, offset: (page - 1) * PAGE_SIZE };
+    return { page, totalPages, offset: (page - 1) * pageSize };
 }
 
 function allWords(column, words) {

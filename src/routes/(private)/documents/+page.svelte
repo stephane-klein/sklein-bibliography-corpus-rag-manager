@@ -268,9 +268,10 @@
     {#if data.hasQuery}
         {#if data.semanticError}
             <p class="text-xs text-amber-700 mt-2">
-                {data.semanticError === "no-vectors"
-                    ? m.documents_semantic_no_vectors()
-                    : m.documents_semantic_fallback()}
+                <!-- filtered-out and no-matches also mean no vectorized passage matched. -->
+                {data.semanticError === "unavailable"
+                    ? m.documents_semantic_fallback()
+                    : m.documents_semantic_no_vectors()}
             </p>
         {/if}
 

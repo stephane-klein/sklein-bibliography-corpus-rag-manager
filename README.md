@@ -222,9 +222,41 @@ The endpoint authenticates with an API token. Create one in
 The trailing slash matters: the application uses `trailingSlash = "always"`.
 Some MCP clients do not follow a 308 redirect on POST.
 
-The server exposes one tool, `readOnlySqlQuery`. It accepts one `SELECT`,
-`WITH ... SELECT` or `EXPLAIN SELECT` statement and requires a `purpose` string
-for the access log.
+The server exposes two tools. Both require a `purpose` string for the access
+log.
+
+- `semanticSearch` searches the corpus by meaning. It runs BM25 over documents
+  and vector search over paragraph chunks, fuses the rankings with Reciprocal
+  Rank Fusion, and returns the best matching passage for each document. Each result
+  carries `content_node_id`, `nanoid`, `chunk_index`, `heading_path`,
+  `source_url` and an excerpt, so a follow-up SQL query can read the full text.
+  It accepts `query`, optional `authors` and `title` filters, `page` and `limit`
+  (default 10, max 20).
+- `readOnlySqlQuery` accepts one `SELECT`, `WITH ... SELECT` or
+  `EXPLAIN SELECT` statement. Use it for drill-down and custom queries.
+
+A typical `semanticSearch` call:
+
+```json
+{
+  "name": "semanticSearch",
+  "arguments": {
+    "query": "limites de l'utilitarisme",
+    "authors": ["Thibaut Giraud"],
+    "limit": 10,
+    "purpose": "Find passages about the limits of utilitarianism"
+  }
+}
+```
+
+`semanticSearch` runs fixed SQL through the application database role, because
+it does not accept SQL from the client. `readOnlySqlQuery` remains the only path
+for arbitrary SQL and keeps using the dedicated reader role. If the embedding
+provider is unavailable, `semanticSearch` falls back to BM25 and reports
+`semantic_error` in its response. `semantic_error` distinguishes `no-vectors`,
+`filtered-out`, `no-matches` and `unavailable`; the response also carries
+`filters`, `semantic_diagnostics` and a `next_step` hint that explains an empty
+result or points to the returned `content_node_id`/`chunk_index` passages.
 
 `vectorize('some text')` is not a PostgreSQL function. The MCP server finds the
 call in the SQL, embeds the literal text with the query model, replaces the call
@@ -246,11 +278,17 @@ SELECT c.content_node_id,
  LIMIT 10;
 ```
 
-The argument must be one string literal. `vectorize(c.content)` is rejected
+The argument of `vectorize` must be one string literal. `vectorize(c.content)` is rejected
 because the server cannot know the value before running the query. A query can
 use at most 8 distinct texts, and each text is limited to 2000 characters.
 Identical texts share one embedding call and one vector. Query embeddings reuse
 the `query_embedding_cache` table.
+
+`readOnlySqlQuery` appends a warning when a result has at least 50 rows and
+selects `content` from `content_chunks` (or uses `SELECT *`). The warning
+suggests reading only the `chunk_index` values returned by `semanticSearch`.
+The threshold is configurable with
+`SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_LARGE_RESULT_ROWS`.
 
 The MCP server connects with a dedicated role,
 `sklein_bibliography_mcp_reader` by default. `pnpm migrate` creates the role when
@@ -268,6 +306,7 @@ Optional limits:
 - `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_QUERY_CHARS` (default 100000)
 - `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_VECTORIZE_TEXTS` (default 8)
 - `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_MAX_VECTORIZE_TEXT_CHARS` (default 2000)
+- `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_LARGE_RESULT_ROWS` (default 50)
 
 Each tool call is recorded in `mcp_access_log` and shown on `/mcp/log/`. The
 page shows only the calls of the signed-in user. It shows the query as written,

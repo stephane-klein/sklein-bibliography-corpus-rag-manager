@@ -1,8 +1,9 @@
 # MCP read-only server
 
 The application exposes an MCP endpoint at `/mcp/readonly/`. It lets an MCP
-client run one read-only SQL statement against the bibliography corpus. The tool
-is declared in [`src/lib/server/mcp/mcp-readonly-tools.js`](../../src/lib/server/mcp/mcp-readonly-tools.js).
+client search the bibliography corpus by meaning and run one read-only SQL
+statement against it. The tools are declared in
+[`src/lib/server/mcp/mcp-readonly-tools.js`](../../src/lib/server/mcp/mcp-readonly-tools.js).
 
 ## Authentication and routing
 
@@ -55,6 +56,42 @@ independent guards: role privileges, session defaults and transaction mode.
 If the password is absent, `sqlReadonly` is `null`, the endpoint returns 503,
 and non-MCP routes keep working.
 
+## The `semanticSearch` tool
+
+`semanticSearch` is a thin wrapper around `searchDocuments()` in
+`src/lib/server/document-search.js`, the same function the `/documents/` page
+uses. It runs BM25 over `hierarchical_content_nodes`, vector search over
+`content_chunks`, fuses both rankings with Reciprocal Rank Fusion, and returns
+the best matching passage per document.
+
+The tool accepts:
+
+- `query` (required): natural language question or keywords.
+- `authors`: optional string or string array; every word must match.
+- `title`: optional title words; every word must match.
+- `page`: default 1.
+- `limit`: default 10, maximum 20.
+- `purpose` (required): recorded in `mcp_access_log`.
+
+Each result carries `content_node_id`, `nanoid`, `title`, `authors`,
+`original_published_date`, `source_url`, `chunk_index`, `heading_path`,
+`excerpt`, `distance`, `bm25_rank`, `vector_rank` and `rrf`. The agent can use
+`content_node_id` and `chunk_index` with `readOnlySqlQuery` to read the full
+chunk.
+
+`searchDocuments()` gained an optional `pageSize` parameter. The default remains
+15, so the web UI keeps its pagination. `groupVectorRows()` now keeps
+`chunk_index`, and `bm25Search()` selects `id`, so BM25-only results also carry
+an identifier.
+
+`semanticSearch` runs fixed SQL through the application database role. It does
+not accept SQL from the client. `readOnlySqlQuery` remains the only arbitrary
+SQL path and keeps using the reader role.
+
+If the embedding provider is unavailable, `searchDocuments()` falls back to
+BM25 and the tool returns `semantic_error` in its payload. The call still
+succeeds and is logged as successful.
+
 ## The `vectorize()` rewrite
 
 The tool accepts a virtual `vectorize('...')` call. The rewrite lives in
@@ -87,6 +124,8 @@ Limits (environment variables in `mcp-readonly-tools.js`):
 - max 8 distinct texts per query
 - max 2000 characters per text
 - max 100 000 characters per query
+- large-read warning threshold: `SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_MCP_LARGE_RESULT_ROWS`
+  (default 50)
 - no `SELECT INTO`, `FOR UPDATE`/`FOR SHARE`, DDL, `DO`, `COPY` or multiple
   statements
 
@@ -100,6 +139,26 @@ default), not the document model stored in `content_chunks.embedding_model`.
 The result carries `calls`, `cacheHits`, `tokens`, `costUsd` and `ms`. These
 values go to `mcp_access_log`.
 
+## Semantic search diagnostics
+
+`semanticSearch` returns `filters`, `semantic_diagnostics` and `next_step`.
+`semantic_error` has four values:
+
+- `no-vectors`: no chunk is vectorized for the current document model and
+  strategy.
+- `filtered-out`: vectorized chunks exist, but the `authors` or `title` filters
+  remove all of them.
+- `no-matches`: no filter is active, but the query matches no vector.
+- `unavailable`: the embedding provider or cache failed; the result is BM25 only.
+
+When the result is empty, `next_step` says which case applies and suggests
+listing authors or removing a filter. When the result is not empty, `next_step`
+tells the agent to read only the returned `content_node_id` and `chunk_index`
+passages.
+
+`semantic_diagnostics` carries the counts used by that message:
+`corpus_vectors`, `filtered_vectors`, `selection_total` and `corpus_total`.
+
 ## Access log
 
 `mcp_access_log` is created by
@@ -109,7 +168,9 @@ records the embedding cost.
 
 The row keeps the SQL as the client wrote it, with `vectorize('...')`, never the
 rewritten SQL with the vector literal. The `vectorize_calls` and
-`vectorize_cache_hits` columns count distinct texts, not occurrences.
+`vectorize_cache_hits` columns count distinct texts, not occurrences. For
+`semanticSearch`, they count the single query embedding as one call or one cache
+hit, and `query` holds the natural language query.
 
 `/mcp/log/` is a `(private)` page. It filters both the row query and the
 aggregate query on `user_id = locals.user.id`; the loader never reads a user ID
@@ -134,4 +195,13 @@ dash.
 `test/vectorize-sql.test.js` covers the rewrite without a database: comments,
 strings, dollar-quoted bodies, accents, quoted identifiers, schema-qualified
 calls, non-literal arguments, multiple statements, locking selects and duplicate
-texts. Run it with `pnpm test`.
+texts.
+
+`test/semantic-search.test.js` covers filter normalization, paging bounds and
+the mapping from `searchDocuments()` results to the MCP output, including
+BM25-only snippets and `<mark>` tags.
+
+`test/search-diagnostics.test.js` covers the semantic error classification, the
+next-step messages and the large-read warning.
+
+Run them with `pnpm test`.
