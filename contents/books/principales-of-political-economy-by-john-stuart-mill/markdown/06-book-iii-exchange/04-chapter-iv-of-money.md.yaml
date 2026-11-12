@@ -1,0 +1,324 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/06-book-iii-exchange/04-chapter-iv-of-money.md
+  source_file_hash: sha256:7d9c17492d225288ebaecdf264f1888f8e6c29c421a9c6be32a127dd3a821694
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 37
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 04-chapter-iv-of-money.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 70
+    text: |-
+      Having proceeded thus far in ascertaining the general laws of Value, without introducing the idea of Money (except
+      occasionally for illustration), it is time that we should now superadd that idea, and consider in what manner the
+      principles of the mutual interchange of commodities are affected by the use of what is termed a Medium of Exchange.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 35
+    text: |-
+      As Professor Jevons[^220] has pointed out, money performs three distinct services, capable of being separated by the
+      mind, and worthy of separate definition and explanation:
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 14
+    text: 1\. A Common Measure, or Common Denominator, of Value.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 7
+    text: 2\. A Medium of Exchange.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 7
+    text: 3\. A Standard of Value.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 54
+    text: |-
+      F. A. Walker,[^221] however, says: “Money is the medium of exchange. Whatever performs this function, does this work, is
+      money, no matter what it is made of.... That which does the money-work is the money-thing.”
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 177
+    text: |-
+      (1.) \[If we had no money\] the first and most obvious \[inconvenience\] would be the want of a _common measure for
+      values_ of different sorts. If a tailor had only coats, and wanted to buy bread or a horse, it would be very troublesome
+      to ascertain how much bread he ought to obtain for a coat, or how many coats he should give for a horse. The calculation
+      must be recommenced on different data every time he bartered his coats for a different kind of article, and there could
+      be no current price or regular quotations of value. As it is much easier to compare different lengths by expressing \[pg
+      287\] them in a common language of feet and inches, so it is much easier to compare values by means of a common language
+      of \[dollars and cents\].
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 129
+    text: |-
+      The need of a common denominator of values (an excellent term, introduced by Storch), to whose terms the values of all
+      other commodities may be reduced, and so compared, is as great as that the inhabitants of the different States of the
+      United States should have a common language as a means by which ideas could be communicated to the whole nation. A man
+      may have a horse, whose value he wishes to compare in some common term with the value of his house, although he might
+      not wish to sell either. A valuation by the State for taxation could not exist but for this common denominator, or
+      register, of value.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 80
+    text: |-
+      (2.) The second function is that of a medium of exchange. The distinction between this function and the common
+      denominator of value is that the latter measures value, the former transfers value. The man owning the horse, after
+      having measured its value by comparison with a given thing, may now wish to exchange it for other things. This discloses
+      the need of another quality in money.
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 209
+    text: |-
+      The inconveniences of barter are so great that, without some more commodious means of effecting exchanges, the division
+      of employments could hardly have been carried to any considerable extent. A tailor, who had nothing but coats, might
+      starve before he could find any person having bread to sell who wanted a coat: besides, he would not want as much bread
+      at a time as would be worth a coat, and the coat could not be divided. Every person, therefore, would at all times
+      hasten to dispose of his commodity in exchange for anything which, though it might not be fitted to his own immediate
+      wants, was in great and general demand, and easily divisible, so that he might be sure of being able to purchase with it
+      whatever was offered for sale. The thing which people would select to keep by them for making purchases must be one
+      which, besides being divisible and generally desired, does not deteriorate by keeping. This reduces the choice to a
+      small number of articles.
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 192
+    text: |-
+      This need is well explained by the following facts furnished by Professor Jevons: “Some years since, Mademoiselle Zélie,
+      \[pg 288\] a singer of the Théâtre Lyrique at Paris, made a professional tour round the world, and gave a concert in the
+      Society Islands. In exchange for an air from ‘Norma’ and a few other songs, she was to receive a third part of the
+      receipts. When counted, her share was found to consist of three pigs, twenty-three turkeys, forty-four chickens, five
+      thousand cocoanuts, besides considerable quantities of bananas, lemons, and oranges. In the Society Islands, however,
+      pieces of money were very scarce; and, as mademoiselle could not consume any considerable portion of the receipts
+      herself, it became necessary in the mean time to feed the pigs and poultry with the fruit.”[^222]
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 148
+    text: |-
+      (3.) The third function desired of money is what is usually termed a “standard of value.” It is, perhaps, better
+      expressed by F. A. Walker[^223] as a “standard of deferred payments.” Its existence is due to the desire to have a means
+      of comparing the purchasing power of a commodity at one time with its purchasing power at another distant time; that is,
+      that for long contracts, exchanges may be in unchanged ratios at the beginning and at the end of the contracts. There is
+      no distinction between this function and the first, except one arising from the introduction of _time_. At the same time
+      and place, the “standard of value” is given in the common denominator of value.
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 104
+    text: |-
+      A Measure of Value,[^224] in the ordinary sense of the word measure, would mean something by comparison with which we
+      may ascertain what is the value of any other thing. When we consider, further, that value itself is relative, and that
+      two things are necessary to constitute it, independently of the third thing which is to measure it, we may define a
+      Measure of Value to be something, by comparing with which any two other things, we may infer their value in relation to
+      one another.
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 99
+    text: |-
+      In this sense, any commodity will serve as a measure of value at a given time and place; since we can always infer the
+      proportion in which things exchange for one another, when we know the proportion in which each exchanges for any third
+      thing. To serve as a convenient measure of value is one of the functions of the commodity selected as a medium \[pg
+      289\] of exchange. It is in that commodity that the values of all other things are habitually estimated.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 178
+    text: |-
+      But the desideratum sought by political economists is not a measure of the value of things at the same time and place,
+      but a measure of the value of the same thing at different times and places: something by comparison with which it may be
+      known whether any given thing is of greater or less value now than a century ago, or in this country than in America or
+      China. To enable the money price of a thing at two different periods to measure the quantity of things in general which
+      it will exchange for, the same sum of money must correspond at both periods to the same quantity of things in
+      general—that is, money must always have the same exchange value, the same general purchasing power. Now, not only is
+      this not true of money, or of any other commodity, but we can not even suppose any state of circumstances in which it
+      would be true.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 56
+    text: |-
+      It being very clear that money, or the precious metals, do not themselves remain absolutely stable in value for long
+      periods, the only way in which a “standard of value” can be properly established is by the proposed “multiple standard
+      of value,” stated as follows:
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 1. The three functions of Money—a Common Denominator of Value, a Medium of Exchange, a “Standard of Value”.
+    content_token_count: 506
+    text: |-
+      “A number of articles in general use—corn, beef, potatoes, wool, cotton, silk, tea, sugar, coffee, indigo, timber, iron,
+      coal, and others—shall be taken, in a definite quantity of each, so many pounds, or bushels, or cords, or yards, to form
+      a standard required. The value of these articles, in the quantities specified, and all of standard quality, shall be
+      ascertained monthly or weekly by Government, and the total sum \[in money\] which would then purchase this bill of goods
+      shall be, thereupon, officially promulgated. Persons may then, if they choose, make their contracts for future payments
+      in terms of this multiple or tabular standard.”[^225] A, who had borrowed $1,000 of B in 1870 for ten years, would make
+      note of the total money value of all these articles composing the multiple standard, which we will suppose is $125 in
+      1870. Consequently, A would promise to pay B eight multiple units in ten years (that is, eight times $125, or $1,000).
+      But, if other things change in value relatively \[pg 290\] to money during these ten years, the same sum of
+      money—$1,000—in 1880 will not return to B the same just amount of purchasing power which he parted with in 1870. Now,
+      if, in 1880, when his note falls due, the government list is examined, and it is found that commodities in general have
+      fallen in value relatively to gold, the multiple unit will not amount to as much gold as it did in 1870; perhaps each
+      unit may be rated only at $100. In that case, A is obliged to pay back but eight multiple units, which costs him only
+      $800 in money, while B receives from A the same amount of purchasing power over other commodities which he loaned to
+      him. B had no just claim to ten units, since the fall of all commodities relatively to gold was not due to his
+      exertions. On the other hand, if, between 1870 and 1880, prices had risen, mutatis mutandis, the eight units would have
+      cost A more than $1,000 in gold; but he would have been justly obliged to return the same amount of purchasing power to
+      B which he received from him.
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 207
+    text: |-
+      By a tacit concurrence, almost all nations, at a very early period, fixed upon certain metals, and especially gold and
+      silver, to serve this purpose. No other substances unite the necessary qualities in so great a degree, with so many
+      subordinate advantages. These were the things which it most pleased every one to possess, and which there was most
+      certainty of finding others willing to receive in exchange for any kind of produce. They were among the most
+      imperishable of all substances. They were also portable, and, containing great value in small bulk, were easily hid; a
+      consideration of much importance in an age of insecurity. Jewels are inferior to gold and silver in the quality of
+      divisibility; and are of very various qualities, not to be accurately discriminated without great trouble. Gold and
+      silver are eminently divisible, and, when pure, always of the same quality; and their purity may be ascertained and
+      certified by a public authority.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 19
+    text: Jevons[^226] has more fully stated the requisites for a perfect money as—
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 79
+    text: |-
+      |  | 1\. Value. |
+      | --- | --- |
+      |  | 2\. Portability. |
+      |  | 3\. Indestructibility. |
+      |  | 4\. Homogeneity. |
+      |  | 5\. Divisibility. |
+      |  | 6\. Stability of value. |
+      |  | 7\. Cognizability. |
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 6
+    text: \[pg 291\]
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 172
+    text: |-
+      Accordingly, though furs have been employed as money in some countries, cattle in others, in Chinese Tartary cubes of
+      tea closely pressed together, the shells called cowries on the coast of Western Africa, and in Abyssinia at this day
+      blocks of rock-salt, gold and silver have been generally preferred by nations which were able to obtain them, either by
+      industry, commerce, or conquest. To the qualities which originally recommended them, another came to be added, the
+      importance of which only unfolded itself by degrees. Of all commodities, they are among the least influenced by any of
+      the causes which produce fluctuations of value. No commodity is quite free from such fluctuations. Gold and silver have
+      sustained, since the beginning of history, one great permanent alteration of value, from the discovery of the American
+      mines.
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 188
+    text: |-
+      In the present age the opening of new sources of supply, so abundant as the Ural Mountains, California, and Australia,
+      may be the commencement of another period of decline, on the limits of which it would be useless at present to
+      speculate. But, on the whole, no commodities are so little exposed to causes of variation. They fluctuate less than
+      almost any other things in their cost of production. And, from their durability, the total quantity in existence is at
+      all times so great in proportion to the annual supply, that the effect on value even of a change in the cost of
+      production is not sudden: a very long time being required to diminish materially the quantity in existence, and even to
+      increase it very greatly not being a rapid process. Gold and silver, therefore, are more fit than any other commodity to
+      be the subject of engagements for receiving or paying a given quantity at some distant period.
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 357
+    text: |-
+      Since Mr. Mill wrote, two great changes in the production of the precious metals have occurred. The discoveries of gold,
+      briefly referred to by him, have led to an enormous increase of the existing fund of gold (see chart [No.
+      IX](1129008759595750428_30107-h-6.html.xhtml#Chart_IX), [Chap.
+      VI](1129008759595750428_30107-h-6.html.xhtml#Book_III_Chapter_VI)), and a fall in the value of gold within twenty years
+      after the discoveries, according to Mr. Jevons's celebrated study,[^227] of from nine \[pg 292\] to fifteen per cent.
+      Another change took place, a change in the value, of silver, in 1876, which has resulted in a permanent fall of its
+      value since that time (see chart [No. X](1129008759595750428_30107-h-6.html.xhtml#Chart_X), [Chap.
+      VII](1129008759595750428_30107-h-6.html.xhtml#Book_III_Chapter_VII)). Before that date, silver sold at about 60d. per
+      ounce in the central market of the world, London; and now it remains about 52d. per ounce, although it once fell to
+      47d., in July, 1876. In spite of Mr. Mill's expressions of confidence in their stability of value—although certainly
+      more stable than other commodities—the events of the last thirty-five years have fully shown that neither gold nor
+      silver—silver far less than gold—can successfully serve as a perfect “standard of value” for any considerable length of
+      time.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 2. Gold and Silver, why fitted for those purposes.
+    content_token_count: 142
+    text: |-
+      When gold and silver had become virtually a medium of exchange, by becoming the things for which people generally sold,
+      and with which they generally bought, whatever they had to sell or to buy, the contrivance of coining obviously
+      suggested itself. By this process the metal was divided into convenient portions, of any degree of smallness, and
+      bearing a recognized proportion to one another; and the trouble was saved of weighing and assaying at every change of
+      possessors—an inconvenience which, on the occasion of small purchases, would soon have become insupportable. Governments
+      found it their interest to take the operation into their own hands, and to interdict all coining by private persons.
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 318
+    text: |-
+      It must be evident, however, that the mere introduction of a particular mode of exchanging things for one another, by
+      first exchanging a thing for money, and then exchanging the money for something else, makes no difference in the
+      essential character of transactions. It is not with money that things are really purchased. Nobody's income (except that
+      of the gold or silver miner) is derived from the precious metals. The \[dollars or cents\] which a person receives
+      weekly or yearly are not what constitutes his income; they are a sort of tickets or orders which he can present for
+      payment at any shop he pleases, and which entitle him to receive a certain value of any commodity that he makes choice
+      of. The farmer pays his laborers and his landlord in these tickets, as the most convenient plan for himself and them;
+      \[pg 293\] but their real income is their share of his corn, cattle, and hay, and it makes no essential difference
+      whether he distributes it to them directly, or sells it for them and gives them the price. There can not, in short, be
+      intrinsically a more insignificant thing, in the economy of society, than money; except in the character of a
+      contrivance for sparing time and labor. It is a machine for doing quickly and commodiously what would be done, though
+      less quickly and commodiously, without it; and, like many other kinds of machinery, it only exerts a distinct and
+      independent influence of its own when it gets out of order.
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 210
+    text: |-
+      The introduction of money does not interfere with the operation of any of the Laws of Value laid down in the preceding
+      chapters. The reasons which make the temporary or market value of things depend on the demand and supply, and their
+      average and permanent values upon their cost of production, are as applicable to a money system as to a system of
+      barter. Things which by barter would exchange for one another will, if sold for money, sell for an equal amount of it,
+      and so will exchange for one another still, though the process of exchanging them will consist of two operations instead
+      of only one. The relations of commodities to one another remain unaltered by money; the only new relation introduced is
+      their relation to money itself; how much or how little money they will exchange for; in other words, how the Exchange
+      Value of money itself is determined. Money is a commodity, and its value is determined like that of other commodities,
+      temporarily by demand and supply, permanently and on the average by cost of production.
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 6
+    text: \[pg 294\]
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 16
+    text: '[^220]: “Money and the Mechanism of Exchange,” chap. iii.'
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 12
+    text: '[^221]: “Political Economy,” p. 127.'
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 17
+    text: '[^222]: “Money and the Mechanism of Exchange,” p. 1.'
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 12
+    text: '[^223]: “Political Economy,” p. 144.'
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 31
+    text: '[^224]: The substance of Mr. Mill''s former chapter, XV (Book III), is here inserted in its direct connection with the functions of money.'
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 69
+    text: '[^225]: F. A. Walker, “Political Economy,” p. 363. A German, Count Soden (1805), Joseph Lowe (1822), and G. Poulett Scrope (1833), proposed this scheme. See Jevons, “Money and the Mechanism of Exchange,” chap. xxv.'
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 17
+    text: '[^226]: “Money and the Mechanism of Exchange,” p. 31.'
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book III. Exchange. > Chapter IV. Of Money. > § 3. Money a mere contrivance for facilitating exchanges, which does not affect the laws of value.
+    content_token_count: 17
+    text: '[^227]: “A Serious Fall in the Value of Gold” (1863).'

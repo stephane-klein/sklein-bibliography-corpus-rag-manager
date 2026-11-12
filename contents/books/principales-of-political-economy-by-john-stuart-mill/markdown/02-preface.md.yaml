@@ -1,0 +1,122 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/02-preface.md
+  source_file_hash: sha256:1a797b1f1fff31f91d208afe506eb64d8c48b65edb8f1868e43968c98cb34c02
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 14
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 02-preface.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 410
+    text: |-
+      An experience of five years with Mr. Mill's treatise in the class-room not only convinced me of the great usefulness of
+      what still remains one of the most lucid and systematic books yet published which cover the whole range of the study,
+      but I have also been convinced of the need of such additions as should give the results of later thinking, without
+      militating against the general tenor of Mr. Mill's system; of such illustrations as should fit it better for American
+      students, by turning their attention to the application of principles in the facts around us; of a bibliography which
+      should make it easier to get at the writers of other schools who offer opposing views on controverted questions; and of
+      some attempts to lighten those parts of his work in which Mr. Mill frightened away the reader by an appearance of too
+      great abstractness, and to render them, if possible, more easy of comprehension to the student who first approaches
+      Political Economy through this author. Believing, also, that the omission of much that should properly be classed under
+      the head of Sociology, or Social Philosophy, would narrow the field to Political Economy alone, and aid, perhaps, in
+      \[pg iv\] clearer ideas, I was led to reduce the two volumes into one, with, of course, the additional hope that the
+      smaller book would tempt some readers who might hesitate to attack his larger work. In consonance with the above plan, I
+      have abridged Mr. Mill's treatise, yet have always retained his own words; although it should be said that they are not
+      always his consecutive words. Everything in the larger type on the page is taken literally from Mr. Mill, and, whenever
+      it has been necessary to use a word to complete the sense, it has been always inserted in square brackets. All
+      additional matter introduced by me has been printed in a smaller but distinctive type. The reader can see at a glance
+      which part of the page is Mr. Mill's and which my own.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 208
+    text: |-
+      It has seemed necessary to make the most additions to the original treatise under the subjects of the Wages Question; of
+      Wages of Superintendence; of Socialism; of Cost of Production; of Bimetallism; of the Paper Money experiments in this
+      country; of International Values; of the Future of the Laboring-Classes (in which the chapter was entirely rewritten);
+      and of Protection. The treatment of Land Tenures has not been entirely omitted, but it does not appear as a separate
+      subject, because it has at present less value as an elementary study for American students. The chapters on Land
+      Tenures, the English currency discussion, and much of Book V, on the Influence of Government, have been simply omitted.
+      In one case I have changed the order of the chapters, by inserting Chap. XV of Book III, treating of a standard of
+      value, under the chapter treating of money and its functions. In other respects, the same order has been followed as in
+      the original work.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 19
+    text: Wherever it has seemed possible, American illustrations have been inserted instead of English or Continental ones.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 5
+    text: \[pg v\]
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 262
+    text: |-
+      To interest the reader in home problems, twenty-four charts have been scattered throughout the volume, which bear upon
+      our own conditions, with the expectation, also, that the different methods of graphic representation here presented
+      would lead students to apply them to other questions. They are mainly such as I have employed in my class-room. The use
+      and preparation of such charts ought to be encouraged. The earlier pages of the volume have been given up to a “Sketch
+      of the History of Political Economy,” which aims to give the story of how we have arrived at our present knowledge of
+      economic laws. The student who has completed Mill will then have a very considerable bibliography of the various schools
+      and writers from which to select further reading, and to select this reading so that it may not fall wholly within the
+      range of one class of writers. But, for the time that Mill is being first studied, I have added a list of the most
+      important books for consultation. I have also collected, in Appendix I, some brief bibliographies on the Tariff, on
+      Bimetallism, and on American Shipping, which may be of use to those who may not have the means of inquiring for
+      authorities, and in Appendix II a number of questions and problems for the teacher's use.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 143
+    text: |-
+      In some cases I have omitted Mr. Mill's statement entirely, and put in its stead a simpler form of the same exposition
+      which I believed would be more easily grasped by a student. Of such cases, the argument to show that Demand for
+      Commodities is not Demand for Labor, the Doctrine of International Values, and the Effect of the Progress of Society on
+      wages, profits, and rent, are examples. Whether I have succeeded or not, must be left for the experience of the teacher
+      to determine. Many small figures and diagrams have been used throughout the text, in order \[pg vi\] to suggest the
+      concrete means of getting a clear grasp of a principle.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 58
+    text: |-
+      In conclusion, I wish to acknowledge my indebtedness to several friends for assistance in the preparation of this
+      volume, among whom are Professor Charles F. Dunbar, Dr. F. W. Taussig, Dr. A. B. Hart, and Mr. Edward Atkinson.
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 23
+    text: |-
+      J. Laurence Laughlin.  
+      Harvard University, Cambridge, Massachusetts,  
+      September, 1884.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 30
+    text: '![Illustration: Population Map of eastern United States, 1830](images/687523173863510570_chart1.png "Chart I")'
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 2
+    text: Chart I
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 29
+    text: '![Illustration: Population Map of United States, 1880](images/687523173863510570_chart2.png "Chart II")'
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 2
+    text: Chart II
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 6
+    text: \[pg 001\]
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Preface.
+    content_token_count: 3
+    text: '* * *'

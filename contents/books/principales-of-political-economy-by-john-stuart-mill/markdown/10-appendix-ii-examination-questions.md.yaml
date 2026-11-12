@@ -1,0 +1,1932 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/10-appendix-ii-examination-questions.md
+  source_file_hash: sha256:46f46e37bb08ab3ceb0d7a1d260158578ec3147bcd6cbfd4b299b3e9e9c082ea
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 368
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 10-appendix-ii-examination-questions.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 75
+    text: |-
+      The following problems and questions have been arranged to indicate to the reader the character of examinations set by
+      English[^374] and American universities. They have been taken in each case from papers actually given. It is hardly
+      necessary to state, perhaps, that these questions do not exhaust the subject, and are only some of a kind of which many
+      more might be added:
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Definitions.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 68
+    text: |-
+      1\. Define briefly, Fixed Capital; Unproductive Consumption; Law of Diminishing Returns; Effective Desire of
+      Accumulation; Law of Increase of Labor; Communism; Wages Fund; Wages of Superintendence; Real Wages; Value; Price;
+      Demand; Medium of Exchange; Gresham's Law.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 40
+    text: |-
+      2\. Explain carefully the following terms: Productive Consumption, Effectual Demand, Margin of Cultivation, Cost of
+      Production, Value of Money, Cost of Labor, Wealth, and Abstinence.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 44
+    text: |-
+      3\. Explain the following terms: Real Wages, Fixed Capital, Allowance System, Margin of Cultivation, Price, Demand,
+      Medium of Exchange, Seignorage, Value of Money, and Bill of Exchange.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 44
+    text: |-
+      4\. Define Supply, Value of Money, Productive Consumption, Cost of Production, Cost of Labor, Exchange Value, Law of
+      Production from Land, Rate of Profit, Capital, and Gresham's Law.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: '5\. Define Political Economy: State the parts into which it may be divided, and show how they are mutually related.'
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Labor.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 6\. Distinguish between direct and indirect labor, and give an illustration of the distinction.
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 56
+    text: |-
+      7\. Apply the distinction between productive and unproductive labor, and productive and unproductive consumption,
+      respectively, to each of \[pg 638\] the following persons: a tailor, an architect, an annuitant, a sailor, and a
+      brick-layer.
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: 8\. Is an actor to be classed as a productive laborer? The inventor of a machine? A confectioner?
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 9\. In which of the two classes of laborers, productive and unproductive, would you place the following?
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 82
+    text: |-
+      |  | (1.) The officers of our Government. |
+      | --- | --- |
+      |  | (2.) The maker of an organ. |
+      |  | (3.) An organist. |
+      |  | (4.) A schoolmaster. |
+      |  | (5.) An artist. |
+      |  | (6.) He who makes an article for which there is no use. |
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      10\. Classify as productive or unproductive the following laborers: a clergyman, musical-instrument maker, actor,
+      soldier, and lace-maker.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Capital.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 97
+    text: |-
+      11\. Explain fully what you understand by capital, and what function it discharges in production. Consider whether or
+      not the following ought to be included in capital: (1) the original and acquired powers of the laborer, (2) the original
+      properties of the soil, (3) improvements on land, (4) credit, (5) unsold stock in the hands of a merchant, (6) articles
+      purchased but still in the consumer's hands.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 12\. Does a national loan add to the capital of a country?
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      13\. Inquire how far, or in what cases, or in what sense, it may be said that a common dwelling-house, an hotel, a
+      school-house, a police-station, a theatre, and a fortification, constitute part of the capital of the country.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      14\. Discuss carefully the question whether money lying in a bank (or corn lying in a granary) is always capital, or
+      whether its economic nature depends upon the intentions of the owner.
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: 15\. Are railway-shares, stocks of wine, wheat, munitions of war, and land, to be considered capital, or not?
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 16\. Explain fully whether you consider that United States bonds are capital or not.
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 17\. Is an investment in government funds capital, or not? Give your reasons.
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 18\. In what manner does a large expenditure for military purposes affect the operations of capital and labor?
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 34
+    text: |-
+      19\. Distinguish between wealth and capital. Show that there is no assignable limit to the employment of capital in
+      bettering the condition of the members of a community.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      20\. “If there are human beings capable of work, and food to feed them, they may always be employed in producing
+      something.” Explain the meaning of this fully.
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 639\]
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 21\. What is meant by saying wealth can only perform the functions of capital by being wholly or partially consumed?
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 22\. Explain and illustrate the statement that demand for commodities is not demand for labor.
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 23\. Show that expenditure of money does not necessarily increase the demand for labor.
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 24\. In what way would a general demand for luxuries affect productive laborers and the wealth of the community?
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      25\. In a community where capital is all employed, what would be the effect if one employer gradually withdrew some of
+      his capital, and spent this for personal luxuries?
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 47
+    text: |-
+      26\. It is contended that “the demand for commodities, which can only be got by labor, is as much a demand for labor as
+      a demand for beef is a demand for bullocks.” Criticise this position.
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 71
+    text: |-
+      27\. “It is often said that, though employment is withdrawn from labor in one department, an exactly equivalent
+      employment is opened for it in others, because what the consumers save in the increased cheapness of one particular
+      article enables them to augment their consumption of others, thereby increasing the demand for other kinds of labor.”
+      Point out the fallacy.
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      28\. A college undergraduate, with the applause of shopkeepers, bought twenty waistcoats, under the plea that he was
+      doing good to trade. Examine the economical soundness of his act.
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 69
+    text: |-
+      29\. A man invested a portion of his capital in a loan to a state which subsequently repudiated its debts. The man
+      thereupon gave up his carriage, discharged superfluous gardeners, and reduced the number of his domestic servants.
+      Examine the effect of these changes on the employment of labor in the district where he resides.
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 50
+    text: |-
+      30\. In the sixteenth century a great change in the mode of expenditure took place. Retainers were dismissed, households
+      were reduced and a demand for commodities was substituted for a demand for labor. How would this change affect wages,
+      and why?
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      31\. It is supposed by some persons that expenditure by the rich in costly entertainments is good for trade. What is
+      your opinion on the subject?
+  - chunk_index: 37
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 89
+    text: |-
+      32\. A is an absentee who spends his income abroad. B spends his income chiefly on American pictures and other works of
+      art. C spends most of his income on American servants. D saves and buys United States bonds. E employs most of his
+      income in the production of manufactures. Explain the various effects of these different modes of expenditure on the
+      amount of wealth in the United States, and on the working-classes of the country.
+  - chunk_index: 38
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 33\. Compare the economic effects of defraying war expenditure (1) by loans, (2) by increased taxation.
+  - chunk_index: 39
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 640\]
+  - chunk_index: 40
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 34\. Define the term capital, and distinguish between fixed and circulating capital, giving instances of each.
+  - chunk_index: 41
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 69
+    text: |-
+      35\. Distinguish between fixed and circulating capital, and point out how far, or in what manner, each of the following
+      articles belongs to one kind or the other: a dwelling-house, a crop of corn, a wagon, a load of coal, an ingot of gold,
+      a railway-engine, a bale of cotton goods.
+  - chunk_index: 42
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 72
+    text: |-
+      36\. Of the following, which would you class under fixed and which under circulating capital: cash in the hands of a
+      merchant, a cotton-mill, a plow, diamonds in a jeweler's shop, a locomotive, a nursery-gardener's seeds, greenhouses,
+      manures; a carpenter's tools, woods, nails?
+  - chunk_index: 43
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 63
+    text: |-
+      37\. If in a country like this a large amount of capital becomes fixed in the building of railroads, what effect will
+      this change taken by itself have upon the laboring-class, supposing the capital to be (1) domestic, or (2) borrowed
+      wholly or in part from abroad?
+  - chunk_index: 44
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 38\. What conclusion is reached by Mr. Mill respecting the objections to the use of labor-saving machinery?
+  - chunk_index: 45
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 12
+    text: 39\. Is the extension of machinery beneficial to laborers?
+  - chunk_index: 46
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 40\. What is “the conclusive answer to the objections against machinery”?
+  - chunk_index: 47
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 5
+    text: Efficiency of Production.
+  - chunk_index: 48
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 41\. Explain briefly the chief causes on which the productiveness of labor depends.
+  - chunk_index: 49
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 42\. What are the principal ways in which advantage arises from the division of labor?
+  - chunk_index: 50
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      43\. What are the principal advantages of division of labor? In what cases and why is it better to carry on a productive
+      enterprise on a large scale?
+  - chunk_index: 51
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: |-
+      44\. Under what circumstances, and in what callings, can the division of employment be carried out to the fullest
+      extent?
+  - chunk_index: 52
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 45\. Show how the amount of available capital and the extent of the market for products limit division of labor.
+  - chunk_index: 53
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Population.
+  - chunk_index: 54
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      46\. Give a brief statement of Malthus's theory of population, explaining the different checks on population in
+      different stages of civilization.
+  - chunk_index: 55
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 50
+    text: |-
+      47\. Enunciate Malthus's law of population, and give an outline of the reasoning by which he established it. Give an
+      account of any objections that have been brought against Malthus's position, and criticise those objections.
+  - chunk_index: 56
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: 48\. When the growth of population outstrips the progress of improvements, what are the means of relief for the laborer?
+  - chunk_index: 57
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 641\]
+  - chunk_index: 58
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: 49\. Does the increased facility of emigration nullify the Malthusian law of population in your opinion or not, and why?
+  - chunk_index: 59
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: |-
+      50\. Explain the law of diminishing return and the Malthusian doctrine of population; and trace the connection between
+      them.
+  - chunk_index: 60
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 4
+    text: Increase of Production.
+  - chunk_index: 61
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      51\. Compare the motives to saving in the case of savages, and of a country like the United States. State the causes of
+      diversity in the strength of the effective desire of accumulation.
+  - chunk_index: 62
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 52\. Capital is said to be accumulated by saving; what is saving? Is hoarded money a saving while hoarded?
+  - chunk_index: 63
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      53\. How far does the increasing productiveness of manufacturing industry tend to neutralize the effect on profits of
+      the diminishing productiveness of agricultural industry?
+  - chunk_index: 64
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 34
+    text: |-
+      54\. What conclusion as to the limit to the increase of production does Mr. Mill deduce from his investigation of the
+      laws of the various requisites of production?
+  - chunk_index: 65
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Property.
+  - chunk_index: 66
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      55\. What are the essential elements of property? Are the grounds of property in land the same as those of property in
+      movables?
+  - chunk_index: 67
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 27
+    text: |-
+      56\. Give what you conceive to be the chief arguments in favor of the institution of private property, as opposed to
+      common ownership.
+  - chunk_index: 68
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 57\. What arguments does Mr. Mill suggest in favor of some redistribution of landed property?
+  - chunk_index: 69
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 58\. What are the economic arguments for and against Communism?
+  - chunk_index: 70
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 59\. In what way, and by what means, do Socialists want to alter the present distribution of wealth?
+  - chunk_index: 71
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 60\. Sketch the principal forms of Communistic and Non-communistic Socialism.
+  - chunk_index: 72
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 11
+    text: 61\. Should the power of bequest be limited?
+  - chunk_index: 73
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: Wages.
+  - chunk_index: 74
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      62\. On what, according to Mill, does the rate of wages depend? Hence, show the fallacy of the popularly proposed
+      remedies for low wages.
+  - chunk_index: 75
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      63\. State and examine the principal theories which have been put forward as to the circumstances which regulate the
+      general rate of wages, saying which you deem to be correct, and why so.
+  - chunk_index: 76
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 130
+    text: |-
+      64\. Mr. Thornton argues that the wages-fund is neither “determined” nor “limited”: not “determined,” because there is
+      no “law” to compel capitalists to devote any portion of their wealth to the payment \[pg 642\] of labor, nor are they
+      morally “bound” to do so; and not “limited,” because there is nothing to prevent them from adding to the portion of
+      their wealth so applied. Criticise this argument, and, if you dissent from Mr. Thornton's view, state the causes which
+      “determine” and “limit” the fund in question.
+  - chunk_index: 77
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 65\. State precisely what you mean by the “wages-fund,” and explain the conditions on which its growth depends.
+  - chunk_index: 78
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      66\. Explain generally the circumstances which determine the rate of wages. Mention some of the reasons why wages should
+      be higher in one occupation than in another.
+  - chunk_index: 79
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 67\. In what way does dearness or cheapness of food affect money wages?
+  - chunk_index: 80
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 5
+    text: 68\. What determines—
+  - chunk_index: 81
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      |  | (1.) The general rate of wages in a country? |
+      | --- | --- |
+      |  | (2.) The relative rates of wages in different employments? |
+  - chunk_index: 82
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 69\. What causes different rates of wages in different employments, and by what methods might wages be raised?
+  - chunk_index: 83
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 70\. How do you explain the fact that some of the most disagreeable kinds of labor are the most badly paid?
+  - chunk_index: 84
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 71\. What, according to Mr. Mill, are the most promising means for the improvement of the laboring-classes?
+  - chunk_index: 85
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 52
+    text: |-
+      72\. In the Island of Laputa a law was passed compelling each workman to work with his left hand tied behind his back,
+      and the law was justified on the ground that the demand for labor was more than doubled by it. Examine this argument.
+  - chunk_index: 86
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 44
+    text: |-
+      73\. Some coal-workers are calling for a diminution of the output of coal, so as to keep up their wages. Examine how
+      far, if at all, this result would follow from their proposed action.
+  - chunk_index: 87
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 74\. Discuss any remedies for low wages that have been or might be suggested.
+  - chunk_index: 88
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 75\. Why are the wages of women habitually lower than those of men?
+  - chunk_index: 89
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: Profits.
+  - chunk_index: 90
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      76\. What is the cause of the existence of profits? And what, according to Mr. Mill, are the circumstances which
+      determine the respective shares of the laborer and the capitalist?
+  - chunk_index: 91
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: 77\. (1.) What is the lowest rate of profit which can permanently exist? (2.) Why is this minimum variable?
+  - chunk_index: 92
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      78\. Analyze the remuneration received by any of the following: (1) the proprietor of a cotton-mill managing his own
+      mill; (2) a merchant conducting his own business; (3) a railway shareholder; (4) a holder of government funds.
+  - chunk_index: 93
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      79\. Into what portions may we divide the return which is usually \[pg 643\] called profit? Which of these portions
+      would be received by a merchant carrying on business with borrowed capital?
+  - chunk_index: 94
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      80\. Analyze the payment called profits into its various elements. Point out in what respects the earnings of the
+      employer differ from or resemble the wages paid to other classes of laborers.
+  - chunk_index: 95
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 27
+    text: |-
+      81\. It is asserted that “profits tend to an equality.” What conditions must be satisfied before this position can be
+      maintained?
+  - chunk_index: 96
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      82\. How is the alleged tendency of profits to equivalence in different employments to be reconciled with the notorious
+      difference in the profit of different individuals?
+  - chunk_index: 97
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      83\. Which one of the elements in profit has the greatest effect on its amount? Explain by comparing the causes which
+      regulate each element.
+  - chunk_index: 98
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 84\. How does Mill reconcile the high wages in America with Ricardo's law of profits?
+  - chunk_index: 99
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      85\. Explain the proposition that the rate of profits depends on the cost of labor, stating carefully what elements are
+      included in cost of labor.
+  - chunk_index: 100
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: |-
+      86\. Explain what connection there may be between an increase of population and any of the elements entering into cost
+      of labor.
+  - chunk_index: 101
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 87\. What effect would an increase or diminution of population have upon cost of labor?
+  - chunk_index: 102
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 188
+    text: |-
+      88\. Explain Mill's view as to the cost of labor being a function of three variables, considering the passages in which
+      he says, 1. “If without labor becoming less efficient its remuneration fell, _no increase taking place in the cost of
+      the articles composing that remuneration_;” 2. “If the laborer obtained a higher remuneration, _without any increased
+      cheapness in the things composing it_; or if, without his obtaining more, _that which he did obtain would become more
+      costly_”: profits in the last two cases would suffer a diminution; and discussing—Firstly, if the remuneration of labor
+      falls, what can the cost of the articles composing that remuneration signify to the capitalist? Secondly, if the laborer
+      gets a higher remuneration, what can the increased cheapness of the things composing it signify to the capitalist?
+  - chunk_index: 103
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 89\. Is the contest between capital and labor permanent and fundamental? If not, give your reasons for your answer.
+  - chunk_index: 104
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 90\. What is the effect on wages and profits of the introduction of machinery?
+  - chunk_index: 105
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Rent.
+  - chunk_index: 106
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 91\. What connection exists between the law of Malthus and Ricardo's doctrine of rent?
+  - chunk_index: 107
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 92\. What is the reason why land-owners can demand rent?
+  - chunk_index: 108
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 644\]
+  - chunk_index: 109
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 93\. Explain and illustrate the distinction between rent and profits. In what cases are they nearly indistinguishable?
+  - chunk_index: 110
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      94\. It has often been observed that in America land is much less highly cultivated than in England. Explain the
+      economic reasons for this.
+  - chunk_index: 111
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      95\. How does the theory of rent apply in a country like the United States, where the farmer owns his land instead of
+      hiring it?
+  - chunk_index: 112
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 96\. How is it that some agricultural capital pays rent, even if resort is not had to different grades of land?
+  - chunk_index: 113
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      97\. Give a brief description of the theory of rent, and point out to what payments not usually called rent the theory
+      may be applied.
+  - chunk_index: 114
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      98\. State briefly Ricardo's theory of rent, and show that, if it be true, the following statements of Adam Smith must
+      be false:
+  - chunk_index: 115
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: “The most fertile coal-mine regulates the price of coals at all the other mines in the neighborhood.”
+  - chunk_index: 116
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      “In the price of corn one part pays the rent of the landlord, another pays the wages, and another the profit of the
+      farmer.”
+  - chunk_index: 117
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: 99\. Why does the farming business pay rent, and the cotton business (ground-rent excluded) pay none? Define rent.
+  - chunk_index: 118
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      100\. “As population increases, rents estimated in corn increase, and the price of corn rises; rents, therefore, doubly
+      tend to increase.” Prove this.
+  - chunk_index: 119
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      101\. Professor Rogers adduces, in refutation of the common theory of rent, the fact that land near New York pays a high
+      rent, while land of the same natural fertility in the Western States pays no rent. How far do you admit the force of
+      this objection?
+  - chunk_index: 120
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 8
+    text: '102\. Examine the following doctrine:'
+  - chunk_index: 121
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 119
+    text: |-
+      “If invention and improvement still go on, the efficiency of labor will be further increased, and the amount of labor
+      and capital necessary to produce a given result further diminished. The same causes will lead to the utilization of this
+      new gain in productive power for the production of more wealth; the margin of cultivation will be again extended, and
+      rent will increase, both in proportion and amount, without any increase in wages and interest. And so, ... will ... rent
+      constantly increase, though population should remain stationary.”—Henry George, “Progress and Poverty” (p. 226).
+  - chunk_index: 122
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      103\. What answer is made to Mr. Carey's objection to Ricardo's theory of rent, that in point of fact the poorer, not
+      the richer, lands are first brought under cultivation?
+  - chunk_index: 123
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      104\. Explain how land, “even apart from differences of situation,... would all of it, on a certain supposition, pay
+      rent.”
+  - chunk_index: 124
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 105\. Explain clearly how it is possible for the land of a country which is all of uniform fertility to pay rent.
+  - chunk_index: 125
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 53
+    text: |-
+      106\. “If the earth had a perfectly smooth surface the same everywhere, \[pg 645\] and if it were all tilled and
+      cultivated in exactly the same way, there would be no such thing as rent.” Examine this proposition.
+  - chunk_index: 126
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 107\. Show that rent does not increase the price of bread.
+  - chunk_index: 127
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      108\. How is it shown that “rent does not really form any part of the expenses of production or of the advances of the
+      capitalist?”
+  - chunk_index: 128
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      109\. (1.) What connection exists between the price of agricultural products and the amount of rent paid? (2.) Can rent
+      affect the price?
+  - chunk_index: 129
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 110\. “Rent is the effect and not the cause of price.” Prove this.
+  - chunk_index: 130
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      111\. Does rent enter into the cost of production of the following commodities or not, and why: Corn, cloth, the wine of
+      the best vineyards?
+  - chunk_index: 131
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 54
+    text: |-
+      112\. “Rent arises from the difference between the least fertile and the most fertile soils, and from the fact that the
+      former have been taken into cultivation.... Rent is the difference between the market price of produce and the cost of
+      production.” Harmonize these statements.
+  - chunk_index: 132
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      113\. In order that the actual payments made by farmers to landlords should generally correspond with “economic rent,”
+      what conditions must be observed?
+  - chunk_index: 133
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      114\. What is assumed, as to competition, in all Mr. Mill's reasoning on wages, profits, and rent? Explain its action in
+      each case.
+  - chunk_index: 134
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Value.
+  - chunk_index: 135
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      115\. Enumerate, compare, and criticise any opinions known to you which have been held concerning the nature, origin, or
+      measure of value in exchange.
+  - chunk_index: 136
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      116\. Define precisely what it is which gives value to objects, and point out the causes which vary the value of the
+      same object under differing circumstances.
+  - chunk_index: 137
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      117\. Do men dive to the bottom of the sea to get pearls because they are valuable; or are pearls valuable because men
+      must dive to the bottom of the sea to get them?
+  - chunk_index: 138
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 118\. There are three forms of difficulty of attainment. State the law of value applicable to each.
+  - chunk_index: 139
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 119\. Explain the exact economic meaning of the words supply and demand.
+  - chunk_index: 140
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 120\. When it is said that the value of certain commodities depends upon supply and demand, what is meant by demand?
+  - chunk_index: 141
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 27
+    text: |-
+      121\. If the supply of all commodities were suddenly doubled, would any changes in their relative values ensue or not,
+      and why?
+  - chunk_index: 142
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 122\. State the laws which regulate the permanent and temporary values of agricultural products.
+  - chunk_index: 143
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 123\. How far does the value of commodities depend on the quantity of labor required for their production?
+  - chunk_index: 144
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 646\]
+  - chunk_index: 145
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: |-
+      124\. Has the term exchange value any precise meaning when we are comparing times or places very remote from one
+      another?
+  - chunk_index: 146
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      125\. What is meant by the natural (or normal) price and the market price of commodities? To what extent can they
+      differ?
+  - chunk_index: 147
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      126\. Does a general rise of wages raise the prices of commodities in general or not, and why? Does it tend to cause any
+      change in the relative prices of commodities or not, and why?
+  - chunk_index: 148
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      127\. Suppose that wages were double, would the values of commodities be affected? What would be the effect on prices
+      and profits of such an increase of wages?
+  - chunk_index: 149
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 10
+    text: 128\. Are wages and profits influenced by prices?
+  - chunk_index: 150
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 129\. Can employers recoup themselves by a rise of prices for a rise of—
+  - chunk_index: 151
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      |  | (a.) Wages in particular employments? |
+      | --- | --- |
+      |  | (b.) General wages? |
+  - chunk_index: 152
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: How does this question bear on the efficacy of trades-unionism?
+  - chunk_index: 153
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 8
+    text: 130\. Do values depend on wages?
+  - chunk_index: 154
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      131\. Explain the following statement: “It is true the absolute wages paid have no effect upon values; but neither has
+      the absolute quantity of labor.”
+  - chunk_index: 155
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 52
+    text: |-
+      132\. Explain the statement that “high general profits can not, any more than high general wages, be a cause of high
+      values.... In so far as profits enter into the cost of production of all things, they can not affect the value of any.”
+  - chunk_index: 156
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      133\. Explain fully why it is that capitalists can not compensate themselves for a general high cost of labor through
+      any action on values and prices.
+  - chunk_index: 157
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      134\. “The value of a commodity depends on its cost of production.” Under what conditions is this true, and what causes
+      interfere with it?
+  - chunk_index: 158
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      135\. Describe the hindrances which impede the free movement of capital to those fields which apparently offer the
+      highest return for its employment.
+  - chunk_index: 159
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      136\. Give J. S. Mill's analysis of the “cost of production,” and also Professor Cairnes's, with the arguments for and
+      against each.
+  - chunk_index: 160
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 137\. Analyze cost of production. What is its connection with cost of labor?
+  - chunk_index: 161
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 138\. Give an analysis of cost of production of any commodity.
+  - chunk_index: 162
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 139\. Show carefully the distinction between wages, cost of labor, and cost of production.
+  - chunk_index: 163
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 140\. Define clearly value, price, real wages, and cost of production.
+  - chunk_index: 164
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 141\. Define real wages, money wages, cost of labor.
+  - chunk_index: 165
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 647\]
+  - chunk_index: 166
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Money.
+  - chunk_index: 167
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 142\. Point out the difference between the scientific and popular conceptions implied in the terms wealth and money.
+  - chunk_index: 168
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 143\. Show the fallacy of confounding capital with money. Can there be a glut of capital?
+  - chunk_index: 169
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      144\. What is money? To what sort of necessity does it owe its existence? What articles have been used for money?
+      Enumerate the qualities which render a commodity fit to serve as money.
+  - chunk_index: 170
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 145\. What are the qualities requisite in any commodity in order that it may serve as money?
+  - chunk_index: 171
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 11
+    text: 146\. Distinguish accurately between the functions of money.
+  - chunk_index: 172
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 12
+    text: 147\. How far is a fixed standard of value possible?
+  - chunk_index: 173
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 148\. What effect does the great durability of gold and silver have upon the value of money?
+  - chunk_index: 174
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 149\. How far does the law of demand and supply govern the value of money?
+  - chunk_index: 175
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      150\. Explain fully how it is that the value of the precious metals is affected by “questions of quantity only, with
+      little reference to cost of production.”
+  - chunk_index: 176
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 60
+    text: |-
+      151\. What is to be said to the following: “Some political economists have objected altogether to the statement that the
+      value of money depends on its quantity combined with the rapidity of circulation; which, they think, is assuming a law
+      for money that does not exist for any other commodity”?
+  - chunk_index: 177
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 152\. Under what conditions is it true that the “value of money is inversely as its quantity”?
+  - chunk_index: 178
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 42
+    text: |-
+      153\. Explain carefully the following: “The average value of gold is made to conform to its natural value in the same
+      manner as the values of other things are made to conform to their natural value.”
+  - chunk_index: 179
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 48
+    text: |-
+      154\. In what various meanings is the phrase “the value of money” used? How far does the value of money in each of these
+      meanings depend on (1) the cost of production, (2) supply and demand?
+  - chunk_index: 180
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 155\. Are the values of gold and silver subject to exactly the same natural laws as other commodities?
+  - chunk_index: 181
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 40
+    text: |-
+      156\. Give the explanations and qualifications required to render the following proposition true: “The quantity of coin
+      in every country is regulated by the value of the commodities which are to be circulated by it.”
+  - chunk_index: 182
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: |-
+      157\. Would the world be richer if every individual in it suddenly found the quantity of money in his possession
+      doubled?
+  - chunk_index: 183
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      158\. How far, or in what way, do you consider it correct to say that the general level of prices in a country depends
+      upon the quantity of gold coin existing in that country?
+  - chunk_index: 184
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 648\]
+  - chunk_index: 185
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 51
+    text: |-
+      159\. A single good harvest causes a considerable fall in the value of _wheat_; but a great addition to the year's
+      supply of _gold_ from the mines produces little effect on its general value. How do you account for the difference?
+  - chunk_index: 186
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 11
+    text: 160\. Show the effect of establishing a double standard.
+  - chunk_index: 187
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: 161\. Show how Gresham's law is illustrated by the history of the currency in the United States between 1834 and 1873.
+  - chunk_index: 188
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 162\. What effect had the discovery of gold in this century upon the coinage of the United States?
+  - chunk_index: 189
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 163\. What is the system upon which the small silver currency of the United States is coined and issued?
+  - chunk_index: 190
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 164\. State briefly the aim of the United States coinage act of 1853.
+  - chunk_index: 191
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Credit.
+  - chunk_index: 192
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 15
+    text: 165\. How do you define credit? Form a classification of credit documents.
+  - chunk_index: 193
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 166\. It has been said that “credit is capital.” Is this so or not?
+  - chunk_index: 194
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: '167\. Define capital, and examine the meaning of the term in the following statements:'
+  - chunk_index: 195
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 10
+    text: (a.) Demand for commodities can not create capital.
+  - chunk_index: 196
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: (b.) Credit is not a creation, but a transfer of capital.
+  - chunk_index: 197
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: (c.) Wages depend upon the proportion between population and capital.
+  - chunk_index: 198
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 36
+    text: |-
+      168\. State the law of the value of money which governs general prices. What change is to be made in the statement, if
+      credit is to be taken into consideration?
+  - chunk_index: 199
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 169\. What is the part which instruments of credit, other than bank-notes, play in the exchange of commodities?
+  - chunk_index: 200
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 170\. Mention some of the principal features of a credit crisis.
+  - chunk_index: 201
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 171\. What are inconvertible notes? What objections are there to currency of this description?
+  - chunk_index: 202
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 43
+    text: |-
+      172\. Can an inconvertible currency be made to maintain the same value as a convertible currency, and, if so, how?
+      Supposing that it can, what objections are there, nevertheless, to it?
+  - chunk_index: 203
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      173\. “Nothing is subject to more variation than paper money, even when it is limited, and has no guarantees; for this
+      simple reason, that, having no value of its own, it depends on the idea that each person forms of those guarantees.”
+      Comment on this passage.
+  - chunk_index: 204
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 43
+    text: |-
+      174\. How is it that a bad dollar does the work of buying as well as a good one until it is found out? Is it that it
+      makes no difference whether it is made of gold or not?
+  - chunk_index: 205
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 175\. To what extent is a government capable of giving fictitious value to a paper or a metallic currency?
+  - chunk_index: 206
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 649\]
+  - chunk_index: 207
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      176\. In a country with an inconvertible paper currency, how can it be determined whether the issues are excessive or
+      not, and why?
+  - chunk_index: 208
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 177\. What will be the effect if the circulating medium of a country is increased beyond its natural amount—
+  - chunk_index: 209
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 48
+    text: |-
+      |  | (1) when the medium is coin? |
+      | --- | --- |
+      |  | (2) when it is coin and convertible paper? |
+      |  | (3) when it is inconvertible paper? |
+  - chunk_index: 210
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      178\. What is the error involved in the assumption, frequently made by writers and public speakers, that the currency of
+      a country ought to increase in like ratio with its wealth and population?
+  - chunk_index: 211
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 32
+    text: |-
+      179\. On what does the desire to use credit depend? What connection exists between the amount of notes and coin in
+      circulation and the use of credit?
+  - chunk_index: 212
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 180\. Compare the advantages and disadvantages of a metallic and paper currency.
+  - chunk_index: 213
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 81
+    text: |-
+      181\. A member of Congress advocated expansion of the paper currency by the following argument: “Our currency, as well
+      as everything else, must keep pace with our growth as a nation.... France has a circulation per capita of thirty
+      dollars; England, of twenty-five; and we, with our extent of territory and improvements, certainly require more than
+      either.” State your opinion of this argument.
+  - chunk_index: 214
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 49
+    text: |-
+      182\. Trace the effects, immediate and ultimate, on general prices of (a) an extended system of credit, (b) an enlarged
+      issue of paper money, and (c) an addition to the stock of precious metals, respectively.
+  - chunk_index: 215
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 45
+    text: |-
+      183\. What is the error in the common notion that “a paper currency can not be issued in excess so long as every note
+      _represents_ property, or has a _foundation_ of actual property to rest on”?
+  - chunk_index: 216
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 184\. Explain the action of the check and clearing-house system, and state what is meant by the restoration of barter.
+  - chunk_index: 217
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 4
+    text: Over-Production.
+  - chunk_index: 218
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 51
+    text: |-
+      185\. State the relation between supply and demand as aggregates, e.g., between the aggregate supply of commodities in a
+      given community and the aggregate demand for them, and show the bearing of the principle involved on the doctrine of
+      “general over-production.”
+  - chunk_index: 219
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      186\. Prove that the increase of capital and the extension of industry can not lead to a general over-production of
+      commodities.
+  - chunk_index: 220
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 187\. What is the error of those who believe in the danger of over-production?
+  - chunk_index: 221
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 188\. Distinguish “excess of supply” from a “commercial crisis.”
+  - chunk_index: 222
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 189\. Give the substance of Mill's examination of the theories of excess of supply.
+  - chunk_index: 223
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 73
+    text: |-
+      190\. “When production is fully equal to consumption, every discovery in the arts, or in mechanics, is a calamity,
+      because it only adds to \[pg 650\] the enjoyment of consumers the opportunity of obtaining commodities at a cheaper
+      rate, while it deprives the producers of even life itself.” Discuss this opinion of Sismondi.
+  - chunk_index: 224
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: 191\. Explain the difference in the theories of Dr. Chalmers and Mr. Mill on over-production, and the excess of supply.
+  - chunk_index: 225
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 7
+    text: Peculiar Cases of Value.
+  - chunk_index: 226
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      192\. It costs as much to produce straw as to produce grain; how, then, do you explain the comparatively low value of
+      straw?
+  - chunk_index: 227
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      193\. Suppose a considerable rise in the price of wool to be foreseen, how should farmers expect the prices of mutton to
+      be affected, and why?
+  - chunk_index: 228
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 194\. Explain the operation of the laws of value by which the relative prices of wool and mutton are regulated.
+  - chunk_index: 229
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 5
+    text: International Trade and Values.
+  - chunk_index: 230
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 51
+    text: |-
+      195\. What is the meaning of the statement that “it is not a difference in the _absolute_ cost of production which
+      determines the interchange \[of commodities between countries\], but a difference in the _comparative_ cost”?
+  - chunk_index: 231
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 196\. What are the advantages which a country derives from foreign trade?
+  - chunk_index: 232
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      197\. Explain clearly the following passage: “We may often, by trading with foreigners, obtain their commodities at a
+      smaller expense of labor and capital than they cost to the foreigners themselves.”
+  - chunk_index: 233
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      198\. Is there any essential difference between trade between country and country, and trade between county and county,
+      or even between man and man? What is the real nature of trade in all cases?
+  - chunk_index: 234
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      199\. Why is it necessary to make any different statement of the laws of value for foreign than for domestic products?
+      What is the cause for the existence of any international trade?
+  - chunk_index: 235
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 40
+    text: |-
+      200\. How would a serious decline in the efficiency of England, as compared with other countries, in the production of
+      manufactures affect the scale of money incomes and prices in England, and why?
+  - chunk_index: 236
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      201\. Mr. Mill refers the value of home products to the “cost of production”; of foreign products to the “cost of
+      acquisition.” Examine the truth of this distinction.
+  - chunk_index: 237
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 37
+    text: |-
+      202\. It is said that in the home market the value of commodities depends on the cost of production, in the foreign
+      market on the cost of acquisition. Comment on this distinction.
+  - chunk_index: 238
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 203\. Is the cost of production the regulator of international values?
+  - chunk_index: 239
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 78
+    text: |-
+      204\. Discuss the following statement: “International value is regulated just as inter-provincial or inter-parishional
+      value is. Coals and \[pg 651\] hops are exchanged between Northumberland and Kent on absolutely the same principles as
+      iron and wine between Lancashire and Spain.”—Ruskin, “Munera Pulveris,” p. 84.
+  - chunk_index: 240
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 10
+    text: 205\. What determines the value of imported commodities?
+  - chunk_index: 241
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      206\. Why does cost of production fail to determine the value of commodities brought from a foreign country? Does it
+      also fail in the case of commodities brought from distant parts of the same country?
+  - chunk_index: 242
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 49
+    text: |-
+      207\. It is on the matter of fact that there is not much migration of capital and labor from country to country that Mr.
+      Mill has based his whole doctrine of “international trade and international values.” Explain and comment on the above
+      statement.
+  - chunk_index: 243
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 208\. What are the causes which determine for a nation the cost of its imports?
+  - chunk_index: 244
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 44
+    text: |-
+      209\. It follows from the theory of international values, as laid down by Mill, that the permanent residence of
+      Americans in Europe may enhance the cost of foreign imports to Americans residing at home. Explain in what way.
+  - chunk_index: 245
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 121
+    text: |-
+      210\. Suppose two countries, A and B, isolated from the rest of the world, and a trade established between them. In
+      consequence of the labor of A becoming less effective, the cost of production of every article which can be produced in
+      that country is greatly increased, but so that the relation between the costs of any two articles remains the same.
+      What, if any, will be the effect of the change on the trade between A and B? Does your answer depend upon your using the
+      phrase “cost of production” in a sense different from that given to it by some economists?
+  - chunk_index: 246
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 211\. Show that every country gets its imports at less cost in proportion to the efficiency of its labor.
+  - chunk_index: 247
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 4
+    text: Foreign Exchanges.
+  - chunk_index: 248
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 212\. What is the ordinary limit to the premium on foreign bills of exchange, and why?
+  - chunk_index: 249
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 45
+    text: |-
+      213\. What are the chief effects on the foreign exchanges which are produced by the breaking out of a war? Account for
+      the fact that in 1861 the exchanges on England in America fell considerably below specie point.
+  - chunk_index: 250
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      214\. Suppose that the next harvest in England should be very defective, and extraordinary supplies of American grain
+      needed. How would this probably affect the price of bills of exchange between England and America, and the profit on the
+      exportation of English manufactures to the latter, and why?
+  - chunk_index: 251
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 215\. Trace the process by which the precious metals spread from the mines over the world.
+  - chunk_index: 252
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 652\]
+  - chunk_index: 253
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 37
+    text: |-
+      216\. Suppose the exchange between England and the United States to be heavily against England, how will this fact
+      affect the export and import trade between the two countries, and why?
+  - chunk_index: 254
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 12
+    text: 217\. What is meant by exchanges being against a country?
+  - chunk_index: 255
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      218\. Enumerate the principal circumstances which affect the rate of exchange between two countries. How is the par of
+      exchange ascertained?
+  - chunk_index: 256
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: |-
+      219\. In what way are gold and silver distributed among the different trading countries? Between different parts of the
+      same country?
+  - chunk_index: 257
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 36
+    text: |-
+      220\. Trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities, on
+      importation and exportation, and on the foreign exchanges.
+  - chunk_index: 258
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      221\. State the conditions under which international trade can permanently exist. What will be the ultimate effect of a
+      large movement of foreign gold upon prices, imports, and exports in the receiving country?
+  - chunk_index: 259
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 120
+    text: |-
+      222\. State the theory of the value of money (i.e., “metallic money”), and clear up any apparent inconsistencies between
+      the following statements: (1.) The value of money depends on the cost of production at the worst mines; (2.) The value
+      of money varies inversely as its quantity multiplied by its rapidity of circulation; (3.) The countries whose products
+      are most in demand abroad and contain the greatest value in the smallest bulk, which are nearest the mines and have the
+      least demand for foreign productions, are those in which money will be of lowest value.
+  - chunk_index: 260
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 95
+    text: |-
+      228\. The effects of the depreciation of the paper currency in the United States are thus described by Mr. Wells: “It
+      renders it impossible to sell abroad the products which have cost too much at home, and invites from other countries the
+      products of a cheaper labor paid for in a sounder currency. It exaggerates imports, while destroying our ability to pay
+      in kind.” State how far you agree with the deductions here drawn, assigning your reasons where you differ.
+  - chunk_index: 261
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 42
+    text: |-
+      224\. When the foreign exchanges are manifestly against a country, and a balance of indebtedness is the cause, the
+      equilibrium can be restored in two ways. State and explain the operation of each.
+  - chunk_index: 262
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 27
+    text: |-
+      225\. What are the conditions which determine for a country a high range of general prices? How far is this
+      advantageous?
+  - chunk_index: 263
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 37
+    text: |-
+      226\. What is the effect of the imposition of a tribute by one country on another upon the course of trade between them,
+      and the terms on which they exchange commodities; and why?
+  - chunk_index: 264
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 227\. For what reasons may a nation's exports habitually exceed or fall short of its imports?
+  - chunk_index: 265
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 9
+    text: 228\. Explain the real and nominal exchange.
+  - chunk_index: 266
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 229\. Expound Mr. Mill's theory of the influence which a convertible currency exercises on foreign trade.
+  - chunk_index: 267
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 653\]
+  - chunk_index: 268
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 230\. What is the effect of a depreciated currency on (1) foreign trade, and (2) the exchanges?
+  - chunk_index: 269
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Interest.
+  - chunk_index: 270
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 231\. How does the general rate of interest determine the selling price of stocks and land?
+  - chunk_index: 271
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 232\. Is there any relation between the rate of interest and the value of money?
+  - chunk_index: 272
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 233\. What are the relations of interest and profit? On what causes does the rate of interest depend?
+  - chunk_index: 273
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 234\. “High interest means bad security.” Comment on this saying.
+  - chunk_index: 274
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 235\. Is the rate of interest affected by the supply of the precious metals?
+  - chunk_index: 275
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 39
+    text: |-
+      236\. What determines the rate of interest on the loanable funds? Is the “current \[or ordinary\] rate of interest the
+      measure of the relative abundance or scarcity of capital”?
+  - chunk_index: 276
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: 237\. What are the chief causes that determine the rate of interest?
+  - chunk_index: 277
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 51
+    text: |-
+      238\. If it be true that in America every man, however rich, is engaged in some business, but that in England many rich
+      men have no trade or profession, how is the rate of interest in each country affected in consequence, and why?
+  - chunk_index: 278
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 61
+    text: |-
+      239\. How does a fall in the purchasing power of money tend to affect, if at all, and why, (1) the rate of interest, (2)
+      the price of land, (3) the price of government bonds, (4) the price of gold and silver ornaments and plate?
+  - chunk_index: 279
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: Foreign Competition.
+  - chunk_index: 280
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 52
+    text: |-
+      240\. Explain the grounds of Mr. Mill's proposition that general low wages never caused any country to undersell its
+      rivals, nor did general high wages ever hinder it from doing so. If you think the proposition needs qualification, give
+      your reason.
+  - chunk_index: 281
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 47
+    text: |-
+      241\. (1.) What is the true theory of one country underselling another in a foreign market? (2.) What weight should be
+      attributed to the fact of generally higher or lower wages in one of the competing countries?
+  - chunk_index: 282
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 35
+    text: |-
+      242\. Discuss the question whether a high rate of wages necessarily lays the commerce of a country under a disadvantage
+      with reference to a country where the rate of wages is lower.
+  - chunk_index: 283
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 243\. What are the conditions under which one country can permanently undersell another in a foreign market?
+  - chunk_index: 284
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 27
+    text: |-
+      244\. Point out distinctly the connection between the money wages of laborers in the United States and the
+      productiveness of the soil.
+  - chunk_index: 285
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 37
+    text: |-
+      245\. In the Eastern States iron-molders earn from fourteen to seventeen dollars a week; in California their wages run
+      from twenty-one to twenty-seven dollars. Account for this variation.
+  - chunk_index: 286
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 654\]
+  - chunk_index: 287
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 4
+    text: Progress of Society.
+  - chunk_index: 288
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      246\. What are the reasons for the change in the normal values of manufactured and of agricultural commodities,
+      respectively, during the progress of society?
+  - chunk_index: 289
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 79
+    text: |-
+      247\. Wages and profits in different employments and neighborhoods are not uniformly proportional to the efforts of
+      labor and abstinence of which they are the respective rewards. Classify the circumstances which prevent this
+      correspondence, and show how far their effect is likely to be reduced (a) by general economical progress, and (b) by the
+      extension of the division of labor.
+  - chunk_index: 290
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      248\. What is the law of diminishing returns? Can you point out any connection between this law and the following
+      phenomena?—
+  - chunk_index: 291
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      |  | (a.) Density of population. |
+      | --- | --- |
+      |  | (b.) Rate of wages. |
+      |  | (c.) Rate of profits in different countries. |
+  - chunk_index: 292
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      249\. Sketch the influence on rents and profits of an increase of population and capital concurrently with a stationary
+      state of the arts of production.
+  - chunk_index: 293
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 60
+    text: |-
+      250\. Is there reason to believe that Mr. Mill has underrated the powers possessed by man of extending the area of
+      production and facilitating the market of food? If such a statement has been made, to what extent is his theory of
+      population modified, and the risks he had indicated rendered distant?
+  - chunk_index: 294
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 42
+    text: |-
+      251\. Compare the effects on rent, profits, and wages, of a sudden improvement in the production (a) of food, (b) of
+      some manufactured articles largely consumed by the working-classes.
+  - chunk_index: 295
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 40
+    text: |-
+      252\. Trace the connection between Ricardo's theory of rent and the decline in the general rate of profits as a country
+      increases in population. Explain clearly the connection which exists between wages and profits.
+  - chunk_index: 296
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      253\. What effect is produced upon rents, profits, and wages, respectively, in a country like France, where population
+      is stationary and capital advancing?
+  - chunk_index: 297
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 50
+    text: |-
+      254\. If capital continued to increase and population did not, explain the proposition that “the whole savings of each
+      year would be exactly so much subtracted from the profits of the next and of every following year,” if improvements were
+      stationary.
+  - chunk_index: 298
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      255\. How does social and industrial progress tend to affect the prices of land, raw produce, and manufactures,
+      respectively, and why?
+  - chunk_index: 299
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      256\. The capitalized value of land rises, in the progress of society, from two causes—from one which affects land in
+      common with all investments; from another which is peculiar to land.
+  - chunk_index: 300
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 655\]
+  - chunk_index: 301
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      257\. “The tendency of improved communications is to lower existing rents.” How far is this true, and in what directions
+      is it true?
+  - chunk_index: 302
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 30
+    text: |-
+      258\. What would be the effect on profits, wages, and rents of an improvement in a manufactured article consumed by the
+      laboring-class?
+  - chunk_index: 303
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 29
+    text: |-
+      259\. Explain the doctrine of the tendency of profits to a minimum, the cause of that tendency, and the circumstances
+      which counteract it.
+  - chunk_index: 304
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 260\. What was Adam Smith's doctrine as to the decline of profit in progressive communities? Criticise his argument.
+  - chunk_index: 305
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      261\. Mention some of the principal causes which, in the ordinary progress of society, respectively tend to increase or
+      to reduce the current rate of profits.
+  - chunk_index: 306
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 262\. Why do profits tend to fall as population increases, and how may this result be retarded or prevented?
+  - chunk_index: 307
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 41
+    text: |-
+      263\. What is the effect of a general rise of money wages, apart from the consideration of a greater efficiency of
+      labor, in prices, profits, and rent? Give reasons for your answer.
+  - chunk_index: 308
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 36
+    text: |-
+      264\. How does the general progress of society in wealth and industrial efficiency tend to affect the rate of wages, the
+      rate of profit, and the rate of rent, respectively?
+  - chunk_index: 309
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 265\. What is the general effect of the progress of society on the land-owner, the capitalist, and the laborer?
+  - chunk_index: 310
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 7
+    text: Future of Laboring-Classes.
+  - chunk_index: 311
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 266\. Examine the influences of machinery on the economic condition of the working-classes.
+  - chunk_index: 312
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 31
+    text: |-
+      267\. Mention and discuss some of the popular remedies for low wages, and especially the effect of the subdivision of
+      landed property among peasant proprietors.
+  - chunk_index: 313
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: |-
+      268\. Explain briefly what is meant by co-operation, and indicate the more prominent forms assumed by the co-operative
+      movement.
+  - chunk_index: 314
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 55
+    text: |-
+      269\. What is meant by the co-operative system of industry? Show ways in which this system may affect, for good or for
+      evil, the productiveness of labor; and mention any moral benefits, or the opposite, in which it may be expected to
+      issue.
+  - chunk_index: 315
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 20
+    text: 270\. What are the difficulties in the way of co-operation for the production of salable objects?
+  - chunk_index: 316
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 42
+    text: |-
+      271\. Explain the advantages of industrial partnership, in which the employés share, in proportion to the wages
+      received, half the profits of the business beyond a certain fixed minimum which is assigned to the employers.
+  - chunk_index: 317
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 656\]
+  - chunk_index: 318
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: Taxation.
+  - chunk_index: 319
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: |-
+      272\. How is the state justified in undertaking any manufacture or service which might be performed by private
+      enterprise?
+  - chunk_index: 320
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 12
+    text: 273\. Enumerate Adam Smith's canons of taxation.
+  - chunk_index: 321
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 36
+    text: |-
+      274\. Examine the argument in favor of the resumption by the state of what is called the unearned increment in the value
+      of land arising from the development of society.
+  - chunk_index: 322
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 76
+    text: |-
+      275\. A picture by Gainsborough and a house in Broadway are sold in the same year at the same price; at the end of fifty
+      years each sells for five times its first cost. Is there any, and, if so, what, reason why the increase should be
+      sequestrated for the public benefit in the one case and not in the other?
+  - chunk_index: 323
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 11
+    text: 276\. Explain the incidence of taxes laid on wages.
+  - chunk_index: 324
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 22
+    text: 277\. Why should a tax on profits, if no improvements follow, fall on the laborer and capitalist?
+  - chunk_index: 325
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 19
+    text: 278\. Explain what effect, if any, will be produced on the price of corn by—
+  - chunk_index: 326
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 63
+    text: |-
+      |  | (1) a tax upon rent; |
+      | --- | --- |
+      |  | (2) a tithe; |
+      |  | (3) a tax of so much per acre, irrespective of value; |
+      |  | (4) a tax of so much per bushel. |
+  - chunk_index: 327
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 279\. On whom does a tax of a fixed proportion of agricultural produce fall?
+  - chunk_index: 328
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 23
+    text: 280\. Discuss the question whether the income-tax ought to be a tax upon income and property, or upon expenditure.
+  - chunk_index: 329
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 281\. Discuss the expediency of a graduated income-tax.
+  - chunk_index: 330
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 21
+    text: 282\. State the arguments which you think strongest both for and against exempting savings from the income-tax.
+  - chunk_index: 331
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 15
+    text: 283\. Explain the conditions which should be observed in imposing taxes on commodities.
+  - chunk_index: 332
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 25
+    text: 284\. What taxes does a tradesman get back in the price of the articles he sells, and what does he not?
+  - chunk_index: 333
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 24
+    text: 285\. Test by Adam Smith's four maxims of taxation the policy of indirect taxes on the necessaries of life.
+  - chunk_index: 334
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 12
+    text: 286\. All indirect taxation violates Adam Smith's fourth canon.
+  - chunk_index: 335
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: '287\. Discuss the following:'
+  - chunk_index: 336
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 48
+    text: |-
+      “A man with $100,000 in United States bonds comes to Boston, hires a house...; thus he lives in luxury.... I am in favor
+      of taxing idle investments such as this, and allowing manufacturing investments to go untaxed.”
+  - chunk_index: 337
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 288\. Compare the advantages and disadvantages of direct and indirect taxation.
+  - chunk_index: 338
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 657\]
+  - chunk_index: 339
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 11
+    text: 289\. On what principles is this country now taxed?
+  - chunk_index: 340
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 26
+    text: |-
+      290\. Explain the arguments for and against the policy of maintaining a surplus for the purpose of redeeming a national
+      debt.
+  - chunk_index: 341
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 46
+    text: |-
+      291\. In estimating the ability of the United States to pay its public debts, it is usual to include among the data of
+      the question the increased productiveness of industry in that country. How far is this a pertinent consideration?
+  - chunk_index: 342
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 2
+    text: Protection.
+  - chunk_index: 343
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 16
+    text: 292\. Mention some of the principal arguments brought forward in favor of protective tariffs.
+  - chunk_index: 344
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 28
+    text: |-
+      293\. Connect the principle of the division of employments (or labor) with the policy of free trade and the functions of
+      government.
+  - chunk_index: 345
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: 294\. Sketch the effects of discriminating duties, including the operation of the corn laws.
+  - chunk_index: 346
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 157
+    text: |-
+      295\. Examine the following argument, emending, if you think it necessary, the free-trader's doctrine on the point
+      raised: The free-trader's belief is that a customs duty is added to the price of the article upon which it is imposed.
+      If the article is imported, according to his theory, the increase of the price goes into the public treasury; if the
+      article is made in the country, the increase of the price goes into the pocket of the producer. But in the former case
+      there is no protection; and competition will prevent the latter. Therefore protection does not increase the price of the
+      protected article. If a customs duty is imposed upon a commodity, and its price is not raised in consequence, what
+      inference can you draw?
+  - chunk_index: 347
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 44
+    text: |-
+      296\. Under what circumstances did Mr. Mill think nascent states might be justified in adopting a policy of protection?
+      Criticise his opinion, and, if you agree with it, give some examples of its application.
+  - chunk_index: 348
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 57
+    text: |-
+      297\. American protectionists allege that the high rate of wages prevailing in the United States disables them from
+      competing with “the pauper labor” of Europe. Examine the grounds of this statement, and consider how far it forms a
+      justification for protection to American industry.
+  - chunk_index: 349
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 33
+    text: |-
+      298\. A high rate of wages indicates, not a high, but a low cost of production for all commodities measured in which the
+      rate of wages is high.
+  - chunk_index: 350
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 18
+    text: Explain and prove this proposition, and illustrate it from the circumstances of the United States.
+  - chunk_index: 351
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 53
+    text: |-
+      299\. State under what limitations the proposition is correct, that profits vary inversely with wages. Explain the
+      circumstances which cause both a higher rate of wages and profits to prevail in a young country, such as the United
+      States, than in England.
+  - chunk_index: 352
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 43
+    text: |-
+      300\. In America wages are much higher than in England, yet the \[pg 658\] general rate of profits is higher also,
+      according to Mr. Mill. How do you reconcile the two facts?
+  - chunk_index: 353
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 7
+    text: '301\. Examine the following:'
+  - chunk_index: 354
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 89
+    text: |-
+      “It seems to me that protection is absolutely essential to the encouragement of capital, and equally necessary for the
+      protection of the American laborer.... He must have good food, enough of it, good clothing, school-houses for his
+      children, comforts for his home, and a fair chance to improve his condition. To this end I would protect him against
+      competition with the half-paid laborers of European countries.”—Congressional Globe.
+  - chunk_index: 355
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 81
+    text: |-
+      302\. An American newspaper has said of the burning of Chicago: “The money to replace what has been burned will not be
+      sent abroad to enrich foreign manufacturers; but, thanks to the wise policy of protection which has built up American
+      industries, it will stimulate our own manufactures, set our mills running faster, and give employment to thousands of
+      idle working-men.” Comment on this passage.
+  - chunk_index: 356
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 17
+    text: 303\. On whom does a tax on imports, if not prohibitory, fall?
+  - chunk_index: 357
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 15
+    text: 304\. In what cases would duties on imported commodities fall on the producers?
+  - chunk_index: 358
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 13
+    text: 305\. Are taxes on imports in any way paid by foreigners?
+  - chunk_index: 359
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 10
+    text: 306\. Discuss the effects of duties on exports.
+  - chunk_index: 360
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      307\. Trace the effects of duties on the importation of raw materials, and distinguish, with examples, between duties
+      that violate and duties which do not violate the principle of free trade.
+  - chunk_index: 361
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 36
+    text: |-
+      308\. Is it possible for any country by legislative enactments to engross a larger share of the advantages of foreign
+      trade than it would naturally have? Discuss the question fully.
+  - chunk_index: 362
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 79
+    text: |-
+      309\. “Those are, therefore, in the right who maintain that taxes on imports are partly paid by foreigners; but they are
+      mistaken when they say it is by the foreign producer. It is not on the person from whom we buy, but on all those who buy
+      from us, that a portion of our customs duties spontaneously falls.” Explain and examine the reasons for this conclusion.
+  - chunk_index: 363
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 38
+    text: |-
+      310\. State the principle which determines the relation between the amount of a country's imports and that of its
+      exports, and show how this relation is affected by a system of protective duties.
+  - chunk_index: 364
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: THE END.
+  - chunk_index: 365
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 6
+    text: \[pg 659\]
+  - chunk_index: 366
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 367
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Appendix II. Examination Questions.
+    content_token_count: 14
+    text: '[^374]: See Milnes''s “Problems in Political Economy.”'

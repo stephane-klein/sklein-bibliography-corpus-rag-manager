@@ -1,0 +1,254 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/03-introductory/2-books-for-consultation-from-english-french-and-german-authors.md
+  source_file_hash: sha256:58f264db3a044e001255649508d85c7634968ee664d435a56ceba6e8c8d286fe
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 48
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2-books-for-consultation-from-english-french-and-german-authors.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 12
+    text: General Treatises forming a Parallel Course of Reading with Mill.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 53
+    text: |-
+      Professor Fawcett's “Manual of Political Economy” (London, sixth edition, 1883) is a brief statement of Mill's book,
+      with additional matter on the precious metals, slavery, trades-unions, co-operation, local taxation, etc.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 74
+    text: |-
+      Antoine-Élise Cherbuliez's “Précis de la science économique” (Paris, 1862, 2 vols.) follows the same arrangement as
+      Mill, and is considered the best treatise on economic science in the French language. He is methodical, profound, and
+      clear, and separates pure from applied political economy.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 78
+    text: |-
+      Other excellent books in French are: Courcelle-Seneuil's “Traité théorique et pratique d'économie politique” (1858),
+      (Paris, second edition, 1867, 2 vols.), and a compendium by Henri Baudrillart, “Manuel d'économie politique” (third
+      edition, 1872).
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 59
+    text: |-
+      Roscher's “Principles of Political Economy” is a good example of the German historical method; its notes are crowded
+      with facts; but the English translation (New York, 1878) is badly done. There is an excellent translation of it into
+      French by Wolowski.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 28
+    text: A desirable elementary work, “The Economics of Industry” (London, 1879), was prepared by Mr. and Mrs. Marshall.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 36
+    text: |-
+      Professor Jevons wrote a “Primer of Political Economy” (1878), which is a simple, bird's-eye view of the subject in a
+      very narrow compass.
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 4
+    text: Important General Works.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 37
+    text: |-
+      Adam Smith's “Wealth of Nations” (1776). The edition of McCulloch is perhaps more serviceable than that of J. E. T.
+      Rogers.
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 6
+    text: \[pg 044\]
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 19
+    text: Ricardo's “Principles of Political Economy and Taxation” (1817).
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 31
+    text: J. S. Mill's “Principles of Political Economy” (2 vols., 1848—sixth edition, 1865).
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 37
+    text: |-
+      Schönberg's “Handbuch der politischen Oekonomie” (1882). This is a large co-operative treatise by twenty-one writers
+      from the historical school.
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 34
+    text: |-
+      Cairnes's “Leading Principles of Political Economy” (1874); “Logical Method” (1875), lectures first delivered in Dublin
+      in 1857.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 24
+    text: Carey's “Social Science” (1877). This has been abridged in one volume by Kate McKean.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 30
+    text: |-
+      F. A. Walker's “Political Economy” (1883). This author differs from other economists, particularly on wages and
+      questions of distribution.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 34
+    text: H. George's “Progress and Poverty” (1879). In connection with this, read F. A. Walker's “Land and Rent” (1884).
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 7
+    text: Treatises on Special Subjects.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 14
+    text: W. T. Thornton's “On Labor” (1869).
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 21
+    text: McLeod's “Theory and Practice of Banking” (second edition, 1875-1876).
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 20
+    text: M. Block's “Traité théorique et pratique de statistique” (1878).
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 20
+    text: Goschen's “Theory of Foreign Exchanges” (eighth edition, 1875).
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 29
+    text: J. Caird's “Landed Interest” (fourth edition, 1880), treating of English land and the food-supply.
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 17
+    text: W. G. Sumner's “History of American Currency” (1874).
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 13
+    text: John Jay Knox's “United States Notes” (1884).
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 17
+    text: Jevons's “Money and the Mechanism of Exchange” (1875).
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 23
+    text: Tooke and Newmarch's “History of Prices” (1837-1856), in six volumes.
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 56
+    text: |-
+      Leroy-Beaulieu's “Traité de la science des finances” (1883). This is an extended work, in two volumes, on taxation and
+      finance; “Essai sur la répartition des richesses” (second edition, 1883).
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 23
+    text: F. A. Walker's “The Wages Question” (1876); “Money” (1878).
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 33
+    text: L. Reybaud's “Études sur les réformateurs contemporains, ou socialistes modernes” (seventh edition, 1864).
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 3
+    text: Dictionaries.
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 18
+    text: McCulloch's “Commercial Dictionary” (new and enlarged edition, 1882).
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 36
+    text: |-
+      Lalor's “Cyclopædia of Political Science” (1881-84) is devoted to articles on political science, political economy, and
+      American history.
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 38
+    text: Coquelin and Guillaumin's “Dictionnaire de l'économie politique” (1851-1853, third edition, 1864), in two large volumes.
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 6
+    text: \[pg 045\]
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 4
+    text: Reports and Statistics.
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 67
+    text: |-
+      The “Compendiums of the Census” for 1840, 1850, 1860, and 1870, are desirable. The volumes of the tenth census (1880)
+      are of great value for all questions; as is also F. A. Walker's “Statistical Atlas” (1874).
+  - chunk_index: 37
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 33
+    text: |-
+      The United States Bureau of Statistics issues quarterly statements; and annually a report on “Commerce and Navigation,”
+      and another on the “Internal Commerce of the United States.”
+  - chunk_index: 38
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 28
+    text: |-
+      The “Statistical Abstract” is an annual publication, by the same department, compact and useful. It dates only from
+      1878.
+  - chunk_index: 39
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 24
+    text: |-
+      The Director of the Mint issues an annual report dealing with the precious metals and the circulation. Its tables are
+      important.
+  - chunk_index: 40
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 34
+    text: |-
+      The Comptroller of the Currency (especially during the administration of J. J. Knox) has given important annual reports
+      upon the banking systems of the United States.
+  - chunk_index: 41
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 46
+    text: |-
+      The reports of the Secretary of the Treasury deal with the general finances of the United States. These, with the two
+      last mentioned, are bound together in the volume of “Finance Reports,” but often shorn of their tables.
+  - chunk_index: 42
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 25
+    text: |-
+      There are valuable special reports to Congress of commissioners on the tariff, shipping, and other subjects, published
+      by the Government.
+  - chunk_index: 43
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 24
+    text: |-
+      The report on the “International Monetary Conference of 1878” contains a vast quantity of material on monetary
+      questions.
+  - chunk_index: 44
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 45
+    text: |-
+      The British parliamentary documents contain several annual “Statistical Abstracts” of the greatest value, of which the
+      one relating to other European states is peculiarly convenient and useful. These can always be purchased at given
+      prices.
+  - chunk_index: 45
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 21
+    text: A. R. Spofford's “American Almanac” is an annual of great usefulness.
+  - chunk_index: 46
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 6
+    text: \[pg 047\]
+  - chunk_index: 47
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Introductory. > Books For Consultation (From English, French, And German Authors).
+    content_token_count: 3
+    text: '* * *'

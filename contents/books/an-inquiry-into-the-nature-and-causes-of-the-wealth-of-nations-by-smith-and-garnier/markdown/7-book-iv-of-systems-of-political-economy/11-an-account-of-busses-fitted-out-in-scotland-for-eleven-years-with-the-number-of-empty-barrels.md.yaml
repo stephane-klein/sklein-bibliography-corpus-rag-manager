@@ -1,0 +1,41 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier/markdown/7-book-iv-of-systems-of-political-economy/11-an-account-of-busses-fitted-out-in-scotland-for-eleven-years-with-the-number-of-empty-barrels.md
+  source_file_hash: sha256:959a86aec9eece754ce254ae30cd0efa0a56efb219e76114d6606c171665670f
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 4
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 11-an-account-of-busses-fitted-out-in-scotland-for-eleven-years-with-the-number-of-empty-barrels.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of busses fitted out in Scotland for eleven years, with the number of empty barrels carried out, and the number of barrels of herrings caught; also the bounty, at a medium, on each barrel of sea-sticks, and on each barrel when fully packed
+    content_token_count: 394
+    text: "| Years. | Number of Busses. | Empty Barrels carried out. | Barrels of Herrings caught. | Bounty paid on the Busses. |\n| --- | --- | --- | --- | --- |\n|  |  |  |  | L. s. d. |\n| 1771 | 29 | 5,948 | 2,832 | 2,885 \_ 0 0 |\n| 1772 | 168 | 41,316 | 22,237 | 11,055 \_ 7 6 |\n| 1773 | 190 | 42,333 | 42,055 | 12,510 \_ 8 6 |\n| 1774 | 240 | 59,303 | 56,365 | 26,952 \_ 2 6 |\n| 1775 | 275 | 69,144 | 52,879 | 19,315 15 0 |\n| 1776 | 294 | 76,329 | 51,863 | 21,290 \_ 7 6 |\n| 1777 | 240 | 62,679 | 45,313 | 17,592 \_ 2 6 |\n| 1778 | 220 | 56,390 | 40,958 | 16,316 \_ 2 6 |\n| 1779 | 206 | 55,194 | 29,367 | 15,287 \_ 0 0 |\n| 1780 | 181 | 48,315 | 19,885 | 13,445 12 6 |\n| 1781 | 135 | 33,992 | 16,593 | 9,613 15 6 |\n| Total, | 2,186 | 550,943 | 378,347 | L.165,463 14 0 |"
+  - chunk_index: 1
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of busses fitted out in Scotland for eleven years, with the number of empty barrels carried out, and the number of barrels of herrings caught; also the bounty, at a medium, on each barrel of sea-sticks, and on each barrel when fully packed
+    content_token_count: 57
+    text: |-
+      | Sea-sticks, | 378,347 |
+      | --- | --- |
+      | 1-3d deducted, | 126,1152⁄3 |
+      |  | ———— |
+      | Barrels fully packed, | 252,2311⁄3 |
+  - chunk_index: 2
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of busses fitted out in Scotland for eleven years, with the number of empty barrels carried out, and the number of barrels of herrings caught; also the bounty, at a medium, on each barrel of sea-sticks, and on each barrel when fully packed
+    content_token_count: 705
+    text: "| Bounty, at a medium, for each barrel of sea-sticks, | L.0 \_ 8 2¼ |\n| --- | --- |\n| But a barrel of sea-sticks being only reckoned two thirds of a barrel fully packed, one third is to be deducted, which brings the bounty to | L.0 12 3¾ |\n| And if the herrings are exported, there is besides, a premium of | L.0 \_ 2 8 |\n|  | ————— |\n| So that the bounty paid by government in money, for each barrel, is | L.0 14 11¾ |\n| But if to this, the duty of the salt usually taken credit for as expended in curing each barrel, which, at a medium, is, of foreign, one bushel and one-fourth of a bushel, at 10s. a-bushel, be added. viz. | 0 12 6 |\n|  | ————— |\n| the bounty on each barrel would amount to | L.1 \_ 7 5¾ |\n|  | ————— |\n| If the herrings are cured with British salt, it will stand thus, viz. |  |\n| Bounty, as before | L.0 14 11¾ |\n| But if to this bounty, the duty on two bushels of Scotch salt, at 1s. 6d. per bushel, supposed to be the quantity, at a medium, used in curing each barrel, is added, viz. | 0 \_ 3 0 |\n|  | ————— |\n| the bounty on each barrel will amount to | L.0 17 11¾ |\n|  | ————— |\n| And when buss herrings are entered for home consumption in Scotland, and pay the shilling a-barrel of duty, the bounty stands thus, to wit, as before | L.0 12 3 |\n| From which the 1s. a-barrel is to be deducted | 0 \_ 1 0 |\n|  | ————— |\n|  | L.0 11 3¾ |\n| But to that there is to be added again, the duty of the foreign salt used in curing a barrel of herrings, viz. | 0 12 6 |\n|  | ————— |\n| So that the premium allowed for each barrel of herrings entered for home consumption is | L.1 \_ 3 9¾ |\n|  | ————— |\n| If the herrings are cured with British salt, it will stand as follows, viz. |  |\n| Bounty on each barrel brought in by the busses, as above | L.0 12 3¾ |\n| From which deduct the 1s. a-barrel, paid at the time they are entered for home consumption | 0 \_ 1 0 |\n|  | ————— |\n|  | L.0 11 3¾ |\n| But if to the bounty, the duty on two bushels of Scotch salt, at 1s. 6d. per bushel, supposed to be the quantity, at a medium, used in curing each barrel, is added, viz. | 0 \_ 3 0 |\n|  | ————— |\n| the premium for each barrel entered for home consumption will be | L.0 14 3¾ |"
+  - chunk_index: 3
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of busses fitted out in Scotland for eleven years, with the number of empty barrels carried out, and the number of barrels of herrings caught; also the bounty, at a medium, on each barrel of sea-sticks, and on each barrel when fully packed
+    content_token_count: 31
+    text: |-
+      Though the loss of duties upon herrings exported cannot, perhaps, properly be considered as bounty, that upon herrings
+      entered for home consumption certainly may.

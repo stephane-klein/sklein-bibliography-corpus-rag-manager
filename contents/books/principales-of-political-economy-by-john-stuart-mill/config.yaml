@@ -11,3 +11,4 @@ bibliography:
   source_kind: epub
 exclude:
   - 01-contents.md
+  - 13-footnotes/1-the-full-project-gutenbergtm-license.md

@@ -1,0 +1,114 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/12-charts.md
+  source_file_hash: sha256:415c41ee18e52e8653ff8d3c7544df11f41d7fb90f02c1a2fa4b62bd97f4ad7c
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 20
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 12-charts.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 50
+    text: |-
+      ![Illustration: Chart XII.](images/687523173863510570_chartxii.png "Chart XII. Fluctuations in the Price of Gold, from
+      January 1st 1862, to December, 1865.")
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 28
+    text: Chart XII. Fluctuations in the Price of Gold, from January 1st 1862, to December, 1865.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 662\]
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 59
+    text: |-
+      ![Illustration: Chart XVIII.](images/687523173863510570_chartxviii.png "Chart XVIII. Graphical Presentation of the
+      Comparative Areas of the States and Territories of the United States and the Countries of Europe, omitting Russia and
+      Alaska.")
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 33
+    text: |-
+      Chart XVIII. Graphical Presentation of the Comparative Areas of the States and Territories of the United States and the
+      Countries of Europe, omitting Russia and Alaska.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 663\]
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 80
+    text: |-
+      ![Illustration: Chart XIX.](images/687523173863510570_chartxix.png "Chart XIX. Giving the actual figures, compiled from
+      the accounts of two Cotton-Mills in New England by Edward Atkinson, of Wages, Cost of Labor, etc., from 1830 to 1884,
+      working on Standard Sheetings, No. 14 yarn.")
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 57
+    text: |-
+      Chart XIX. Giving the actual figures, compiled from the accounts of two Cotton-Mills in New England by Edward Atkinson,
+      of Wages, Cost of Labor, etc., from 1830 to 1884, working on Standard Sheetings, No. 14 yarn.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 664\]
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 49
+    text: |-
+      ![Illustration: Chart XX.](images/687523173863510570_chartxx.png "Chart XX. Comparison of 1840 with 1883-1884, of the
+      Relations of Labor and Capital in the same Mills.")
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 28
+    text: Chart XX. Comparison of 1840 with 1883-1884, of the Relations of Labor and Capital in the same Mills.
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 665\]
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 34
+    text: '![Illustration: Chart XXI Part 1.](images/687523173863510570_chartxxi-1.png "Chart XXI Part 1.")'
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 7
+    text: Chart XXI Part 1.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 666\]
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 34
+    text: '![Illustration: Chart XXI Part 2.](images/687523173863510570_chartxxi-2.png "Chart XXI Part 2.")'
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 7
+    text: Chart XXI Part 2.
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 6
+    text: \[pg 667\]
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 43
+    text: |-
+      ![Illustration: Chart XXII.](images/687523173863510570_chartxxii.png "Chart XXII. Outstanding Principal Of The Public
+      Debt From 1791 To 1881.")
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Charts.
+    content_token_count: 19
+    text: Chart XXII. Outstanding Principal Of The Public Debt From 1791 To 1881.

@@ -1,0 +1,648 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/08-book-v-on-the-influence-of-government/4-chapter-iv-comparison-between-direct-and-indirect-taxation.md
+  source_file_hash: sha256:d1c8ea7ce0fe5ce5da84ef50ec2d3bdab4b11d4e251706aa062078f1cae5cfa2
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 80
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 4-chapter-iv-comparison-between-direct-and-indirect-taxation.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 351
+    text: |-
+      Are direct or indirect taxes the most eligible? A man dislikes not so much the payment as the act of paying. He dislikes
+      seeing the face of the tax-collector, and being subjected to his peremptory demand. Perhaps, too, the money which he is
+      required to pay directly out of his pocket is the only taxation which he is quite sure that he pays at all. That a tax
+      of two shillings per pound on tea, or of three shillings per bottle on wine, raises the price of each pound of tea and
+      bottle of wine which he consumes, by that and more than that amount, can not, indeed, be denied; it is the fact, and is
+      intended to be so, and he himself, at times, is perfectly aware of it; but it makes hardly any impression on his
+      practical feelings and associations, serving to illustrate the distinction between what is merely known to be true and
+      what is felt to be so. The unpopularity of direct taxation, contrasted with the easy manner in which the public consent
+      to let themselves be fleeced in the prices of commodities, has generated in many friends of improvement a directly
+      opposite mode of thinking to the foregoing. They contend that the very reason which makes direct taxation disagreeable
+      makes it preferable. Under it every one knows how much he really pays; and, if he votes for a war, or any other
+      expensive national luxury, he does so with his eyes open to what it costs him. If all taxes were direct, taxation would
+      be much more perceived than at present, and there would be a security, which now there is not, for economy in the public
+      expenditure.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 6
+    text: \[pg 584\]
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 86
+    text: |-
+      Although this argument is not without force, its weight is likely to be constantly diminishing. The real incidence of
+      indirect taxation is every day more generally understood and more familiarly recognized. The mere distinction between
+      paying money directly to the tax-collector and contributing the same sum through the intervention of the tea-dealer or
+      the wine-merchant no longer makes the whole difference between dislike or opposition and passive acquiescence.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 289
+    text: |-
+      If our present revenue \[of $400,000,000 in 1883\] were all raised by direct taxes, an extreme dissatisfaction would
+      certainly arise at having to pay so much; but while men's minds are so little guided by reason, as such a change of
+      feeling from so irrelevant a cause would imply, so great an aversion to taxation might not be an unqualified good. Of
+      the \[$400,000,000\] in question, nearly \[$60,000,000\] are pledged, under the most binding obligations, to those whose
+      property has been borrowed and spent by the state; and, while this debt remains unredeemed, a greatly increased
+      impatience of taxation would involve no little danger of a breach of faith. That part, indeed, of the public expenditure
+      which is devoted to the maintenance of civil and military establishments \[$206,000,000\] (that is, all except the
+      interest of the national debt), affords, in many of its details, ample scope for retrenchment. If so great an addition
+      were made to the public dislike of taxation as might be the consequence of confining it to the direct form, the classes
+      who profit by the misapplication of public money might probably succeed in saving that by which they profit, at the
+      expense of that which would only be useful to the public.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 315
+    text: |-
+      There is, however, a frequent plea in support of indirect taxation, which must be altogether rejected as grounded on a
+      fallacy. We are often told that taxes on commodities are less burdensome than other taxes, because the contributor can
+      escape from them by ceasing to use the taxed commodity. He certainly can, if that be his object, deprive the Government
+      of the money; but he does so by a sacrifice of his own \[pg 585\] indulgences, which (if he chose to undergo it) would
+      equally make up to him for the same amount taken from him by direct taxation. Suppose a tax laid on wine, sufficient to
+      add \[$25\] to the price of the quantity of wine which he consumes in a year. He has only (we are told) to diminish his
+      consumption of wine by \[$25\], and he escapes the burden. True, but if the \[$25\], instead of being laid on wine, had
+      been taken from him by an income-tax, he could, by expending \[$25\] less in wine, equally save the amount of the tax,
+      so that the difference between the two cases is really illusory. If the Government takes from the contributor \[$25\] a
+      year, whether in one way or another, exactly that amount must be retrenched from his consumption to leave him as well
+      off as before; and in either way the same amount of sacrifice, neither more nor less, is imposed on him.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 230
+    text: |-
+      On the other hand, it is some advantage on the side of indirect taxes that what they exact from the contributor is taken
+      at a time and in a manner likely to be convenient to him. It is paid at a time when he has at any rate a payment to
+      make; it causes, therefore, no additional trouble, nor (unless the tax be on necessaries) any inconvenience but what is
+      inseparable from the payment of the amount. He can also, except in the case of very perishable articles, select his own
+      time for laying in a stock of the commodity, and consequently for payment of the tax. The producer or dealer who
+      advances these taxes is, indeed, sometimes subjected to inconvenience; but, in the case of imported goods, this
+      inconvenience is reduced to a minimum by what is called the Warehousing System, under which, instead of paying the duty
+      at the time of importation, he is only required to do so when he takes out the goods for consumption, which is seldom
+      done until he has either actually found, or has the prospect of immediately finding, a purchaser.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 305
+    text: |-
+      The strongest objection, however, to raising the whole or the greater part of a large revenue by direct taxes, is the
+      impossibility of assessing them fairly without a conscientious co-operation on the part of the contributors, not to be
+      hoped \[pg 586\] for in the present low state of public morality. In the case of an income-tax, we have already seen
+      that, unless it be found practicable to exempt savings altogether from the tax, the burden can not be apportioned with
+      any tolerable approach to fairness upon those whose incomes are derived from business or professions; and this is in
+      fact admitted by most of the advocates of direct taxation who, I am afraid, generally get over the difficulty by leaving
+      those classes untaxed, and confining their projected income-tax to “realized property,” in which form it certainly has
+      the merit of being a very easy form of plunder. But enough has been said in condemnation of this expedient. We have
+      seen, however, that a house-tax is a form of direct taxation not liable to the same objections as an income-tax, and
+      indeed liable to as few objections of any kind as perhaps any of our indirect taxes. But it would be impossible to
+      raise, by a house-tax alone, the greatest part of the revenue, without producing a very objectionable overcrowding of
+      the population, through the strong motive which all persons would have to avoid the tax by restricting their house
+      accommodation.
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 1. Arguments for and against direct Taxation.
+    content_token_count: 193
+    text: |-
+      A certain amount of revenue may, as we have seen, be obtained without injustice by a peculiar tax on rent. Besides (1)
+      the land-tax,[^346] and (2) an equivalent for the revenue derived from stamp duties on the conveyance of land, some
+      further taxation might, I have contended, at some future period be imposed, (3) to enable the state to participate in
+      the progressive increase of the incomes of landlords from natural causes. (4) Legacies and inheritances, we have also
+      seen, ought to be subjected to taxation sufficient to yield a considerable revenue. With these taxes, and (5) a
+      house-tax of suitable amount, we should, I think, have reached the prudent limits of direct taxation. The remainder of
+      the revenue would have to be provided by taxes on consumption, \[pg 587\] and the question is, which of these are the
+      least objectionable.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 2. What forms of indirect taxation are most eligible?
+    content_token_count: 377
+    text: |-
+      There are some forms of indirect taxation which must be peremptorily excluded. (1.) Taxes on commodities, for revenue
+      purposes, must not operate as protecting duties, but must be levied impartially on every mode in which the articles can
+      be obtained, whether produced in the country itself, or imported. (2.) An exclusion must also be put upon all taxes on
+      the necessaries of life, or on the materials or instruments employed in producing those necessaries. Such taxes are
+      always liable to encroach on what should be left untaxed, the incomes barely sufficient for healthful existence; and on
+      the most favorable supposition, namely, that wages rise to compensate the laborers for the tax, it operates as a
+      peculiar tax on profits, which is at once unjust and detrimental to national wealth.[^347] What remain are taxes on
+      luxuries. And these have some properties which strongly recommend them. In the first place, they can never, by any
+      possibility, touch those whose whole income is expended on necessaries; while they do reach those by whom what is
+      required for necessaries is expended on indulgences. In the next place, they operate in some cases as a useful, and the
+      only useful, kind of sumptuary law. A great portion of the expense of the higher and middle classes in most countries is
+      not incurred for the sake of the pleasure afforded by the things on which the money is spent, but from regard to
+      opinion, and an idea that certain expenses are expected from them, as an appendage of station; and I can not but think
+      that expenditure of this sort is a most desirable subject of \[pg 588\] taxation. When a thing is bought, not for its
+      use but for its costliness, cheapness is no recommendation.
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 841
+    text: |-
+      In order to reduce as much as possible the inconveniences, and increase the advantages, incident to taxes on
+      commodities, the following are the practical rules which suggest themselves: 1. To raise as large a revenue as
+      conveniently may be, from those classes of luxuries which have most connection with vanity, and least with positive
+      enjoyment; such as the more costly qualities of all kinds of personal equipment and ornament. But with regard to horses
+      and carriages, as there are many persons to whom, from health or constitution, these are not so much luxuries as
+      necessaries, the tax paid by those who have but one riding-horse, or but one carriage, especially of the cheaper
+      descriptions, should be low; while taxation should rise very rapidly with the number of horses and carriages, and with
+      their costliness. 2. Whenever possible, to demand the tax, not from the producer, but directly from the consumer, since,
+      when levied on the producer, it raises the price always by more, and often by much more, than the mere amount of the
+      tax. 3. But as the only indirect taxes which yield a large revenue are those which fall on articles of universal or very
+      general consumption, and as it is therefore necessary to have some taxes on real luxuries, that is, on things which
+      afford pleasure in themselves, and are valued on that account rather than for their cost, these taxes should, if
+      possible, be so adjusted as to fall with the same proportional weight on small, on moderate, and on large incomes. This
+      is not an easy matter; since the things which are the subjects of the more productive taxes are in proportion more
+      largely consumed by the poorer members of the community than by the rich. Tea, coffee, sugar, tobacco, fermented drinks,
+      can hardly be so taxed that the poor shall not bear more than their due share of the burden. Something might be done by
+      making the duty on the superior qualities, which are used by the richer consumers, much higher in proportion to the
+      value; but in some cases the difficulty of at all adjusting the duty to the value, \[pg 589\] so as to prevent evasion,
+      is said, with what truth I know not, to be insuperable; so that it is thought necessary to levy the same fixed duty on
+      all the qualities alike. 4. As far as is consistent with the preceding rules, taxation should rather be concentrated on
+      a few articles than diffused over many, in order that the expenses of collection may be smaller, and that as few
+      employments as possible may be burdensomely and vexatiously interfered with. 5. Among luxuries of general consumption,
+      taxation should by preference attach itself to stimulants, because these, though in themselves as legitimate indulgences
+      as any others, are more liable than most others to be used in excess, so that the check to consumption, naturally
+      arising from taxation, is on the whole better applied to them than to other things. 6. As far as other considerations
+      permit, taxation should be confined to imported articles, since these can be taxed with a less degree of vexatious
+      interference, and with fewer incidental bad effects, than when a tax is levied on the field or on the workshop. Custom
+      duties are, cæteris paribus, much less objectionable than excise: but they must be laid only on things which either can
+      not, or at least will not, be produced in the country itself; or else their production there must be prohibited (as in
+      England is the case with tobacco), or subjected to an excise duty of equivalent amount. 7. No tax ought to be kept so
+      high as to furnish a motive to its evasion, too strong to be counteracted by ordinary means of prevention; and
+      especially no commodity should be taxed so highly as to raise up a class of lawless characters—smugglers, illicit
+      distillers, and the like.
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 120
+    text: |-
+      The experience of the United States is pregnant with lessons in this direction. During the war we imposed an
+      internal-revenue tax on distilled spirits of so large an amount that it not only produced less revenue than a smaller
+      tax would have done, but it created gigantic frauds, public corruption, and infinite devices to escape the payment. The
+      following table will show how the production, as indicated by the tax, fell off when the tax was excessive. It forced
+      evasions by distillers. It has been found by various experiences that with a less rate the revenue is largely increased.
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 6
+    text: \[pg 590\]
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 162
+    text: |-
+      | Year. | Revenue. | Production indicated by the tax (gallons). | Amount of tax. |
+      | --- | --- | --- | --- |
+      | 1862-1863 | $3,200,000 | 16,000,000 | July, 1862, 20 c. per gallon. |
+      | 1867-1868 | 14,200,000 | 7,000,000 | Jan., 1865, $2 per gallon. |
+      | 1868-1869 | 34,200,000 | 16,000,000 | July, 1868, 50 c. per gallon. |
+      | 1869-1870 | 39,200,000 | 18,000,000 |  |
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 95
+    text: |-
+      The actual amount reached by taxation is very much less than that known to be actually used by from ten to fifteen
+      millions of gallons, or nearly one half the product. The openness of the frauds can be judged by the fact that proof
+      spirits were “openly sold in the market, and even quoted in price-currents, at from five to fifteen cents less per
+      gallon than the rate of tax and the average cost of manufacture.”[^348]
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 3. Practical rules for indirect taxation.
+    content_token_count: 175
+    text: |-
+      In what manner the finer articles of manufacture, consumed by the rich, might most advantageously be taxed, I must leave
+      to be decided by those who have the requisite practical knowledge. The difficulty would be, to effect it without an
+      inadmissible degree of interference with production. In countries which, like the United States, import the principal
+      part of the finer manufactures which they consume, there is little difficulty in the matter; and, even where nothing is
+      imported but the raw material, that may be taxed, especially the qualities of it which are exclusively employed for the
+      fabrics used by the richer class of consumers. Thus, in England a high custom duty on raw silk would be consistent with
+      principle; and it might perhaps be practicable to tax the finer qualities of cotton or linen yarn, whether spun in the
+      country itself or imported.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 65
+    text: |-
+      It will now well repay study to examine Chart [No. XXI](1129008759595750428_30107-h-10.html.xhtml#Chart_XXI), which
+      shows in what manner the United States have raised their revenues, and to consider how far the right rules of taxation
+      have been followed.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 33
+    text: |-
+      I. For means of comparison, I shall give the last annual budget of the United States in order to make clear from what
+      sources the country derives its revenues:
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 6
+    text: \[pg 591\]
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 4
+    text: Chart XXI.
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 14
+    text: United States Budget, Year Ending June 30, 1883.
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 10
+    text: \[In millions and tenths of millions.\]
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 65
+    text: |-
+      | Receipts: |  |
+      | --- | --- |
+      | Customs | $214.7 |
+      | Internal revenue | 144.7 |
+      | Direct tax | .1 |
+      | Sale of public lands | 7.9 |
+      | Miscellaneous | 30.8 |
+      | Net ordinary receipts | $398.2 |
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 85
+    text: |-
+      | Expenditures: |  |
+      | --- | --- |
+      | War Department | $48.9 |
+      | Navy Department | 15.3 |
+      | Indians | 7.3 |
+      | Pensions | 66.0 |
+      | Miscellaneous | 68.7 |
+      | Net ordinary expenditures | $206.2 |
+      | Interest on public debt | 59.2 |
+      | Total | $265.4 |
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 119
+    text: |-
+      This leaves a surplus of $132,839,444 above all expenditures, and our problem is now where to reduce taxation. The
+      annual interest charge is lessening with the payment of the public debt, having fallen from its highest figure of
+      $143,781,591 in 1867, to $59,160,131 in 1883.[^349] Our national taxation is practically all indirect, that of internal
+      taxation being chiefly levied on tobacco and distilled spirits, and our customs falling on almost all articles which can
+      be imported, materials as well as manufactures.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 147
+    text: |-
+      In the United States direct taxation on real and personal property is very generally levied for State, county, and
+      municipal purposes. In fact, nearly all the perceptible taxation is the property tax, and, inasmuch as the State and
+      county tax is very light, the burden is almost always owing to municipal and town expenditures. People do not seem to be
+      aware of the enormous national burden, because the taxes are indirect, and only increase the prices of commodities.
+      Other countries, it will be seen, make a greater use of direct taxation than the United States. In fact, the comparison
+      of the ways by which different countries collect their revenues may naturally show us where we may gain by their
+      experience.
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 74
+    text: |-
+      II. The English system is especially interesting, because, after having had an extended scheme of customs duties, they
+      abandoned it, and raised their revenue, some on imported articles, \[pg 592\] it is true (generally on those which could
+      not be produced in England), but by the income-tax, and other forms.[^350]
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 135
+    text: |-
+      In 1842 Sir Robert Peel found 1,200 articles subject to customs-duties. He began (1) by removing all prohibitions; (2)
+      by reducing duties on raw materials to 5 per cent or less; (3) by limiting the rates on partially manufactured goods to
+      12 per cent; and (4) those on wholly manufactured goods to 20 per cent. Now customs-duties are levied only on beer,
+      cards, chiccory, chocolate, cocoa, coffee, dried fruit, plate, spirits, tea, tobacco, and wine. The following budget
+      gives the sources of revenue for Great Britain:[^351]
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 9
+    text: Budget Of Great Britain, 1883.
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 10
+    text: \[In millions and tenths of millions.\]
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 134
+    text: |-
+      | Receipts: |  |
+      | --- | --- |
+      | Customs | $98.4 |
+      | Excise (such as on tobacco and spirits) | 134.9 |
+      | Stamps | 58.5 |
+      | Land tax | 5.2 |
+      | House duty | 8.9 |
+      | Income tax | 60.9 |
+      | Post-Office | 36.5 |
+      | Telegraph | 8.6 |
+      | Crown lands | 2.0 |
+      | Interest (on loans, Suez Canal, etc.) | 6.1 |
+      | Miscellaneous | 26.4 |
+      | Total | $446.4 |
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 6
+    text: \[pg 593\]
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 140
+    text: |-
+      | Expenditures: |  |
+      | --- | --- |
+      | Interest on national debt | $148.4 |
+      | Army, navy, etc. | 157.1 |
+      | Cost of revenue departments | 45.1 |
+      | Public works | 9.1 |
+      | Public departments, salaries, etc. | 12.5 |
+      | Law and justice | 35.7 |
+      | Education, science, and art | 22.9 |
+      | Colonial and consular | 3.4 |
+      | Civil list | 2.0 |
+      | Pensions | 2.0 |
+      | Miscellaneous | 6.8 |
+      | Total expenditures | $445.0 |
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 51
+    text: |-
+      From this it will be seen that in the land, income, and house taxes, Great Britain raises by direct taxation about
+      $75,000,000, and in customs and excise, by indirect taxation, about $233,000,000.
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 14
+    text: 'III. The following is the system adopted by Germany (Prussia):'
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 10
+    text: German Budget, 1881-1882.
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 10
+    text: \[In millions and tenths of millions.\]
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 148
+    text: |-
+      | Receipts: |  |
+      | --- | --- |
+      | (1.) Property income from domains and forests | $11.7 |
+      | From mines and salt-works | 2.5 |
+      | From railways | 22.5 |
+      | Miscellaneous | 5.0 |
+      |  | $41.7 |
+      | (2.) Royal Lottery | 1.0 |
+      | (3.) Bureau of Justice | $12.7 |
+      | Harbors and bridges | .5 |
+      |  | 13.2 |
+      | (4.) Direct taxes | $35.5 |
+      | (5.) Indirect taxes (for Prussia) | 12.3 |
+      | Total receipts | $103.6 |
+  - chunk_index: 37
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 88
+    text: |-
+      | Expenditures: |  |
+      | --- | --- |
+      | (1.) Civil list | 3.0 |
+      | (2.) Debt | 25.0 |
+      | (3.) Various ministries, schools, etc. | 49.5 |
+      | (4.) Pensions | 4.0 |
+      | (5.) Miscellaneous | 19.5 |
+      | Total expenditures[^352] | $101.0 |
+  - chunk_index: 38
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 51
+    text: |-
+      The Prussian _direct_ taxes include (1) a land-tax, (2) a house-tax, (3) an income-tax, (4) a class-tax, (5) a
+      trade-tax, and (6) miscellaneous taxes.
+  - chunk_index: 39
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 6
+    text: \[pg 594\]
+  - chunk_index: 40
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 18
+    text: IV. How the French supply themselves may be seen by the following statement:[^353]
+  - chunk_index: 41
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 7
+    text: French Budget, 1881.
+  - chunk_index: 42
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 10
+    text: \[In millions and tenths of millions.\]
+  - chunk_index: 43
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 112
+    text: |-
+      | Receipts: |  |
+      | --- | --- |
+      | Direct taxes | $75.9 |
+      | Similar taxes | 4.7 |
+      | Registry, stamps, etc | 135.1 |
+      | Forests | 7.6 |
+      | Customs (and salt duty $3.5) | 65.4 |
+      | Indirect taxes (including tobacco) | 209.7 |
+      | Post-Office and telegraph | 27.2 |
+      | Miscellaneous | 29.8 |
+      | Total receipts | $555.4 |
+  - chunk_index: 44
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 71
+    text: |-
+      | Expenditures: |  |
+      | --- | --- |
+      | Public debt, etc. | $249.0 |
+      | General functions of the ministries | 243.7 |
+      | Administrative expenses, cost of revenue collections, etc. | 58.5 |
+      | Miscellaneous | 3.5 |
+      | Total expenditures | $554.7 |
+  - chunk_index: 45
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 4. Taxation systems of the United States and other Countries.
+    content_token_count: 46
+    text: |-
+      The direct taxes are (1) on property; (2) one nearly like our poll-tax together with a species of income-tax; (3) a tax
+      on doors and windows; and (4) one on licenses.
+  - chunk_index: 46
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 43
+    text: |-
+      After the manner of our classification and résumé of the subject of value and money, it may be convenient to here insert
+      a recapitulation of the various principles under the treatment of taxation.[^354]
+  - chunk_index: 47
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 6
+    text: \[pg 595\]
+  - chunk_index: 48
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 9
+    text: Comparison Between Direct And Indirect Taxation.
+  - chunk_index: 49
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 52
+    text: |-
+      Adam Smith's “Canons of Taxation.”—A tax should be: I. _Equal_ (in amount of _sacrifice_ entailed). II. _Certain._ III.
+      _Timely._ IV. _All for the state._
+  - chunk_index: 50
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 15
+    text: |-
+      A Tax is either:  
+      Direct.  
+      Indirect (on commodities.)
+  - chunk_index: 51
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 14
+    text: |-
+      Direct taxes are:  
+      On Income.  
+      On Expenditure.
+  - chunk_index: 52
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 12
+    text: |-
+      Taxes on Income are:  
+      General.  
+      Special.
+  - chunk_index: 53
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 54
+    text: |-
+      General income taxes. The best of taxes, if people were all honest. As it is, it falls most heavily on the
+      conscientious. Should be reserved for emergency. All _savings_ and a fixed amount in _all_ incomes should be exempt.
+  - chunk_index: 54
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 16
+    text: |-
+      Special taxes are on:  
+      Rent.  
+      Wages.  
+      Profits.
+  - chunk_index: 55
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 50
+    text: |-
+      Taxes on Rent. Agricultural rent is meant. It falls entirely on the landlord, and, if not balanced by taxes on other
+      classes, is unjust. May be blended with a tax on profits, if on rent due to landlord's improvements.
+  - chunk_index: 56
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 18
+    text: |-
+      Taxes on Wages are:  
+      On Skilled.  
+      On Unskilled.
+  - chunk_index: 57
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 33
+    text: |-
+      Skilled wages are at a monopoly price, and taxes on them are paid by the laborers, so long as wages are not reduced
+      below their just proportion.
+  - chunk_index: 58
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 46
+    text: |-
+      Unskilled wages. (1) Population diminished by it. Paid by profits. (2) Population left stationary. Shared between
+      profits and wages. (3) Population increasing in spite of it. Falls entirely on wages.
+  - chunk_index: 59
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 127
+    text: |-
+      Taxes on Profits. May possible stimulate production, and is then a good all round, contributing to the state, and
+      leaving no one any poorer. If not, if profits are really diminished by the tax, capital may be diminished also. This (a)
+      may, or (b) may not diminish population. If (a), then the margin of cultivation ceases to be extended, and part of the
+      tax, pro tanto, falls on the landlords. If (b), then wages fall, and part of the tax falls on the laborer. Total result
+      is a nearer approach to the stationary state.
+  - chunk_index: 60
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 31
+    text: |-
+      Taxes on Expenditure are open to the same objections as the general income-tax. They may be:  
+      Assessed taxes.  
+      House-tax.
+  - chunk_index: 61
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 20
+    text: Assessed taxes, such as on servants, dogs, etc. These are rigidly _direct_.
+  - chunk_index: 62
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 17
+    text: |-
+      House-taxes are:  
+      On building-rent.  
+      On ground-rent.
+  - chunk_index: 63
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 20
+    text: House-taxes on building-rent are paid by occupier. This tax is _indirect_.
+  - chunk_index: 64
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 56
+    text: |-
+      House-taxes on ground-rent are (1.) with, or (2.) without an equivalent tax on agricultural rent. (1.) Are paid by
+      ground landlord wholly, and therefore _direct_. (2.) Are part by occupier, and therefore _indirect_.
+  - chunk_index: 65
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 17
+    text: |-
+      Indirect taxes are: Excise,  
+      Customs, or  
+      Tolls.
+  - chunk_index: 66
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 19
+    text: Indirect taxes may be on (1.) Long or (2.) Short investments of capital.
+  - chunk_index: 67
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 19
+    text: Indirect taxes on Long investments are always unadvisable, in view of Canon IV.
+  - chunk_index: 68
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 212
+    text: |-
+      Indirect taxes on Short investments are subject to the laws of indirect taxation. 1. Tax vanities rather than positive
+      enjoyments (e.g., liveries rather than servants). 2. The consumer and not the producer should pay the tax collector
+      (Canon IV). That is, collect the tax as near the actual consumer as possible. 3. Taxes on real enjoyments to be kept as
+      equal as possible for large and small means. 4. Tax as few articles as possible. England taxes only a very small number
+      of imports. The United States taxes nearly everything imported. 5. Tax stimulants freely. The United States collect
+      $91,000,000 from spirits and liquors, and $42,000,000 from tobacco (1883). 6. Tax imports of commodities not made at
+      home, or whose home production is under an excise (internal revenue) duty equal to the customs tax. 7. Keep the rate of
+      tax low, in order to get most revenue.
+  - chunk_index: 69
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 6
+    text: \[pg 596\]
+  - chunk_index: 70
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 71
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 77
+    text: '[^346]: A land-tax is, to its extent, an evidence that the state claims a certain right in the soil, and that it stands to the contributor, as it were, in the place of a landlord. This tax, however, is generally so small that it does not materially diminish the rent of land. So far as it goes, it is a tax on rent.'
+  - chunk_index: 72
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 129
+    text: '[^347]: Some argue that the materials and instruments of all production should be exempt from taxation; but these, when they do not enter into the production of necessaries, seem as proper subjects of taxation as the finished article. It is chiefly with reference to foreign trade that such taxes have been considered injurious. Internationally speaking, they may be looked upon as export duties, and, unless in cases in which an export duty is advisable, they should be accompanied with an equivalent drawback on exportation. But there is no sufficient reason against taxing the materials and instruments used in the production of anything which is itself a fit object of taxation.—Mill.'
+  - chunk_index: 73
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 26
+    text: '[^348]: See Lalor''s “Cyclopædia,” article “Distilled Spirits,” by David A. Wells.'
+  - chunk_index: 74
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 21
+    text: '[^349]: “United States Statistical Abstract,” 1883, pp. 2, 3.'
+  - chunk_index: 75
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 336
+    text: '[^350]: The old condition of things was well described by Sydney Smith: “We must pay taxes upon every article which enters into the mouth or covers the back, or is placed under the foot. Taxes upon everything which is pleasant to see, hear, feel, smell, and taste. Taxes upon warmth, light, and locomotion. Taxes upon everything upon earth and the waters under the earth. On everything that comes from abroad or is grown at home. Taxes on raw material. Taxes on every value that is added to it by the industry of man. Taxes on the sauce which pampers man''s appetite and the drug which restores him to health. On the ermine which decorates the judge and the rope which hangs the criminal. On the brass nails of the coffin and on the ribbons of the bride. At bed or at board, couchant or levant, we must pay. The beardless youth manages his taxed horse with a taxed bridle on a taxed road, and the dying Englishman, pouring his medicine (which has paid 7 per cent) into a spoon (which has paid 30 per cent), throws himself back upon his chintz bed (which has paid 22 per cent), makes his will, and expires in the arms of the apothecary (who has paid £100 for the privilege of putting him to death). His whole property is then taxed from 2 to 10 per cent; besides the probate, large fees are demanded for burying him in the chancel: his virtues are handed down to posterity on taxed marble, and he is then gathered to his fathers to be taxed no more.”'
+  - chunk_index: 76
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 21
+    text: '[^351]: “Financial Reform Almanac,” 1883, pp. 107-109.'
+  - chunk_index: 77
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 43
+    text: '[^352]: “Handbuch der Verfassung und Verwaltung in Preussen und dem Deutschen Reich,” by Graf Hue de Grais (second edition, 1882), p. 138.'
+  - chunk_index: 78
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 34
+    text: '[^353]: “Le Budget. Revenus et Dépenses de la France,” by M. Block (1881), pp. 57, 82.'
+  - chunk_index: 79
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter IV. Comparison Between Direct And Indirect Taxation. > § 5. A Résumé of the general principles of taxation.
+    content_token_count: 24
+    text: '[^354]: Taken, with modifications, from Milnes''s “Problems in Political Economy,” p. 377.'

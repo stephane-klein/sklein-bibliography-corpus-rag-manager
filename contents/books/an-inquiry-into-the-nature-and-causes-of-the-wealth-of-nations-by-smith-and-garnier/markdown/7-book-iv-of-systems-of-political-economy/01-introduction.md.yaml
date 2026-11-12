@@ -1,0 +1,38 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier/markdown/7-book-iv-of-systems-of-political-economy/01-introduction.md
+  source_file_hash: sha256:3c8a849009acef529544d7a8a15b67f652d271f8c051fafd65eb2a16a80bba26
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 3
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 01-introduction.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > Introduction
+    content_token_count: 90
+    text: |-
+      Political economy, considered as a branch of the science of a statesman or legislator, proposes two distinct objects;
+      first, to provide a plentiful revenue or subsistence for the people, or, more properly, to enable them to provide such a
+      revenue or subsistence for themselves; and secondly, to supply the state or commonwealth with a revenue sufficient for
+      the public services. It proposes to enrich both the people and the sovereign.
+  - chunk_index: 1
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > Introduction
+    content_token_count: 95
+    text: |-
+      The different progress of opulence in different ages and nations, has given occasion to two different systems of
+      political economy, with regard to enriching the people. The one may be called the system of commerce, the other that of
+      agriculture. I shall endeavour to explain both as fully and distinctly as I can, and shall begin with the system of
+      commerce. It is the modern system, and is best understood in our own country and in our own times.
+  - chunk_index: 2
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > Introduction
+    content_token_count: 3
+    text: '* * *'

@@ -1,0 +1,35 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier/markdown/7-book-iv-of-systems-of-political-economy/12-an-account-of-the-quantity-of-foreign-salt-imported-into-scotland-and-of-scotch-salt-delivered-duty.md
+  source_file_hash: sha256:49b829fa24b7fb91e3b5967b339ca658899efae45e350b92381a57753506134e
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 3
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 12-an-account-of-the-quantity-of-foreign-salt-imported-into-scotland-and-of-scotch-salt-delivered-duty.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of the quantity of foreign salt imported into Scotland, and of Scotch salt delivered duty-free from the works there, for the fishery, from the 5th of April 1771 to the 5th of April 1782, with the medium of both for one year
+    content_token_count: 90
+    text: |-
+      | PERIOD. | Foreign Salt imported. | Scotch Salt delivered from the Works. |
+      | --- | --- | --- |
+      | Bushels | Bushels |  |
+      | From the 5th of April 1771 to the 5th April 1782. | 936,974 | 168,226 |
+      | Medium for one year | 85,1795⁄11 | 15,2933⁄11 |
+  - chunk_index: 1
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of the quantity of foreign salt imported into Scotland, and of Scotch salt delivered duty-free from the works there, for the fishery, from the 5th of April 1771 to the 5th of April 1782, with the medium of both for one year
+    content_token_count: 29
+    text: It is to be observed, that the bushel of foreign salt weighs 48lb. that of British salt, 56lb. only.
+  - chunk_index: 2
+    heading_path: An Inquiry Into the Nature and Causes of the Wealth of Nations > Book IV - Of systems of political economy > An account of the quantity of foreign salt imported into Scotland, and of Scotch salt delivered duty-free from the works there, for the fishery, from the 5th of April 1771 to the 5th of April 1782, with the medium of both for one year
+    content_token_count: 3
+    text: '* * *'

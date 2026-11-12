@@ -1,0 +1,355 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/08-book-v-on-the-influence-of-government/2-chapter-ii-of-direct-taxes.md
+  source_file_hash: sha256:d94691428c9cbcb9a41199e9bc2f0426f73ac608bb5c56ecb77c22f14b52433a
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 34
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2-chapter-ii-of-direct-taxes.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 1. Direct taxes either on income or expenditure.
+    content_token_count: 132
+    text: |-
+      Taxes are either direct or indirect. A direct tax is one which is demanded from the very persons who, it is intended or
+      desired, should pay it. Indirect taxes are those which are demanded from one person in the expectation and intention
+      that he shall indemnify himself at the expense of another: such as the excise or customs. The producer or importer of a
+      commodity is called upon to pay tax on it, not with the intention to levy a peculiar contribution upon him, but to tax
+      through him the consumers of the commodity, from whom it is supposed that he will recover the amount by means of an
+      advance in price.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 1. Direct taxes either on income or expenditure.
+    content_token_count: 111
+    text: |-
+      Direct taxes are either on income or on expenditure. Most taxes on expenditure are indirect, but some are direct, being
+      imposed, not on the producer or seller of an article, but immediately on the consumer. A house-tax, for example, is a
+      direct tax on expenditure, if levied, as it usually is, on the occupier of the house. If levied on the builder or owner,
+      it would be an indirect tax. A window-tax is a direct tax on expenditure; so are the taxes on horses and carriages.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 1. Direct taxes either on income or expenditure.
+    content_token_count: 57
+    text: |-
+      The sources of income are rent, profits, and wages. This includes every sort of income, except gift or plunder. Taxes
+      may be laid on any one of the three kinds of income, or a uniform tax on all of them. We will consider these in their
+      order.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 2. Taxes on rent.
+    content_token_count: 79
+    text: |-
+      A tax on rent falls wholly on the landlord. There \[pg 551\] are no means by which he can shift the burden upon any one
+      else. It does not affect the value or price of agricultural produce, for this is determined by the cost of production in
+      the most unfavorable circumstances, and in those circumstances, as we have so often demonstrated, no rent is paid.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 2. Taxes on rent.
+    content_token_count: 183
+    text: |-
+      This, however, is, in strict exactness, only true of the rent which is the result either of natural causes, or of
+      improvements made by tenants. When the landlord makes improvements which increase the productive power of his land, he
+      is remunerated for them by an extra payment from the tenant; and this payment, which to the landlord is properly a
+      profit on capital, is blended and confounded with rent. A tax on rent, if extending to this portion of it, would
+      discourage landlords from making improvements; but whatever hinders improvements from being made in the manner in which
+      people prefer to make them, will often prevent them from being made at all; and on this account a tax on rent would be
+      inexpedient unless some means could be devised of excluding from its operation that portion of the nominal rent which
+      may be regarded as landlord's profit.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 3. —on profits.
+    content_token_count: 139
+    text: |-
+      A tax on profits, like a tax on rent, must, at least in its immediate operation, fall wholly on the payer. All profits
+      being alike affected, no relief can be obtained by a change of employment. If a tax were laid on the profits of any one
+      branch of productive employment, the tax would be virtually an increase of the cost of production, and the value and
+      price of the article would rise accordingly; by which the tax would be thrown upon the consumers of the commodity, and
+      would not affect profits. But a general and equal tax on all profits would not affect general prices, and would fall, at
+      least in the first instance, on capitalists alone.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 3. —on profits.
+    content_token_count: 221
+    text: |-
+      There is, however, an ulterior effect, which, in a rich and prosperous country, requires to be taken into account. It
+      may operate in two different ways: (1.) The curtailment of profit, and the consequent increased difficulty in making a
+      fortune or obtaining a subsistence by the employment of capital, may act as a stimulus to inventions, and to the use
+      \[pg 552\] of them when made. If improvements in production are much accelerated, and if these improvements cheapen,
+      directly or indirectly, any of the things habitually consumed by the laborer, profits may rise, and rise sufficiently to
+      make up for all that is taken from them by the tax. In that case the tax will have been realized without loss to any
+      one, the produce of the country being increased by an equal, or what would in that case be a far greater, amount. The
+      tax, however, must even in this case be considered as paid from profits, because the receivers of profits are those who
+      would be benefited if it were taken off.
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 3. —on profits.
+    content_token_count: 238
+    text: |-
+      But (2.) though the artificial abstraction of a portion of profits would have a real tendency to accelerate improvements
+      in production, no considerable improvements might actually result, or only of such a kind as not to raise general
+      profits at all, or not to raise them so much as the tax had diminished them. If so, the rate of profit would be brought
+      closer to that practical minimum to which it is constantly approaching. At its first imposition the tax falls wholly on
+      profits; but the amount of increase of capital, which the tax prevents, would, if it had been allowed to continue, have
+      tended to reduce profits to the same level; and at every period of ten or twenty years there will be found less
+      difference between profits as they are and profits as they would in that case have been, until at last there is no
+      difference, and the tax is thrown either upon the laborer or upon the landlord. The real effect of a tax on profits is
+      to make the country possess at any given period a smaller capital and a smaller aggregate production, and to make the
+      stationary state be attained earlier, and with a smaller sum of national wealth.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 3. —on profits.
+    content_token_count: 239
+    text: |-
+      Even in countries which do not accumulate so fast as to be always within a short interval of the stationary state, it
+      seems impossible that, if capital is accumulating at all, its accumulation should not be in some degree retarded by the
+      abstraction of a portion of its profit; and, unless the effect in stimulating improvements be a full counterbalance, it
+      is \[pg 553\] inevitable that a part of the burden will be thrown off the capitalist, upon the laborer or the landlord.
+      One or other of these is always the loser by a diminished rate of accumulation. If population continues to increase as
+      before, the laborer suffers; if not, cultivation is checked in its advance, and the landlords lose the accession of rent
+      which would have accrued to them. The only countries in which a tax on profits seems likely to be permanently a burden
+      on capitalists exclusively are those in which capital is stationary, because there is no new accumulation. In such
+      countries the tax might not prevent the old capital from being kept up through habit, or from unwillingness to submit to
+      impoverishment, and so the capitalists might continue to bear the whole of the tax.
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 4. —on Wages.
+    content_token_count: 69
+    text: |-
+      We now turn to Taxes on Wages. The incidence of these is very different, according as the wages taxed as those of
+      ordinary unskilled labor, or are the remuneration of such skilled or privileged employments, whether manual or
+      intellectual, as are taken out of the sphere of competition by a natural or conferred monopoly.
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 4. —on Wages.
+    content_token_count: 294
+    text: |-
+      I have already remarked that, in the present low state of popular education, all the higher grades of mental or educated
+      labor are at a monopoly price, exceeding the wages of common workmen in a degree very far beyond that which is due to
+      the expense, trouble, and loss of time required in qualifying for the employment. Any tax levied on these gains, which
+      still leaves them above (or not below) their just proportion, falls on those who pay it; they have no means of relieving
+      themselves at the expense of any other class. The same thing is true of ordinary wages, in cases like that of the United
+      States, or of a new colony, where, capital increasing as rapidly as population can increase, wages are kept up by the
+      increase of capital, and not by the adherence of the laborers to a fixed standard of comforts. In such a case, some
+      deterioration of their condition, whether by a tax or otherwise, might possibly take place without checking the increase
+      of population. The tax would in that case fall on the laborers \[pg 554\] themselves, and would reduce them prematurely
+      to that lower state to which, on the same supposition with regard to their habits, they would in any case have been
+      reduced ultimately, by the inevitable diminution in the rate of increase of capital, through the occupation of all the
+      fertile land.
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 4. —on Wages.
+    content_token_count: 170
+    text: |-
+      Some will object that, even in this case, a tax on wages can not be detrimental to the laborers, since the money raised
+      by it, being expended in the country, comes back to the laborers again through the demand for labor. Without, however,
+      reverting to general principles, we may rely on an obvious reductio ad absurdum. If to take money from the laborers and
+      spend it in commodities is giving it back to the laborers, then, to take money from other classes, and spend it in the
+      same manner, must be giving it to the laborers; consequently, the more a government takes in taxes, the greater will be
+      the demand for labor, and the more opulent the condition of the laborers—a proposition the absurdity of which no one can
+      fail to see.
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 4. —on Wages.
+    content_token_count: 200
+    text: |-
+      In the condition of most communities, wages are regulated by the habitual standard of living to which the laborers
+      adhere, and on less than which they will not multiply. Where there exists such a standard, a tax on wages will indeed
+      for a time be borne by the laborers themselves; but, unless this temporary depression has the effect of lowering the
+      standard itself, the increase of population will receive a check, which will raise wages, and restore the laborers to
+      their previous condition. On whom, in this case, will the tax fall? A rise of wages occasioned by a tax must, like any
+      other increase of the cost of labor, be defrayed from profits. To attempt to tax day-laborers, in an old country, is
+      merely to impose an extra tax upon all employers of common labor; unless the tax has the much worse effect of
+      permanently lowering the standard of comfortable subsistence in the minds of the poorest class.
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 4. —on Wages.
+    content_token_count: 166
+    text: |-
+      We find in the preceding considerations an additional argument for the opinion, already expressed, that direct taxation
+      should stop short of the class of incomes which do not \[pg 555\] exceed what is necessary for healthful existence.
+      These very small incomes are mostly derived from manual labor; and, as we now see, any tax imposed on these, either
+      permanently degrades the habits of the laboring-class, or falls on profits, and burdens capitalists with an indirect
+      tax, in addition to their share of the direct taxes; which is doubly objectionable, both as a violation of the
+      fundamental rule of equality, and for the reasons which, as already shown, render a peculiar tax on profits detrimental
+      to the public wealth, and consequently to the means which society possesses of paying any taxes whatever.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 5. —on Income.
+    content_token_count: 187
+    text: |-
+      We now pass, from taxes on the separate kinds of income, to a tax attempted to be assessed fairly upon all kinds; in
+      other words, an Income-Tax. The discussion of the conditions necessary for making this tax consistent with justice has
+      been anticipated in the last chapter. We shall suppose, therefore, that these conditions are complied with. They are,
+      first, that incomes below a certain amount should be altogether untaxed. This minimum should not be higher than the
+      amount which suffices for the necessaries of the existing population. The second condition is, that incomes above the
+      limit should be taxed only in proportion to the surplus by which they exceed the limit. Thirdly, that all sums saved
+      from income and invested should be exempt from the tax; or, if this be found impracticable, that life-incomes and
+      incomes from business and professions should be less heavily taxed than inheritable incomes.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 5. —on Income.
+    content_token_count: 245
+    text: |-
+      An income-tax, fairly assessed on these principles, would be, in point of justice, the least exceptionable of all taxes.
+      The objection to it, in the present state of public morality, is the impossibility of ascertaining the real incomes of
+      the contributors. Notwithstanding, too, what is called the inquisitorial nature of the tax, no amount of inquisitorial
+      power which would be tolerated by a people the most disposed to submit to it could enable the revenue officers to assess
+      the tax from actual knowledge of the circumstances of contributors. Rents, salaries, annuities, and all fixed incomes,
+      \[pg 556\] can be exactly ascertained. But the variable gains of professions, and still more the profits of business,
+      which the person interested can not always himself exactly ascertain, can still less be estimated with any approach to
+      fairness by a tax-collector. The main reliance must be placed, and always has been placed, on the returns made by the
+      person himself. The tax, therefore, on whatever principles of equality it may be imposed, is in practice unequal in one
+      of the worst ways, falling heaviest on the most conscientious.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 5. —on Income.
+    content_token_count: 86
+    text: |-
+      It is to be feared, therefore, that the fairness which belongs to the principle of an income-tax can not be made to
+      attach to it in practice. This consideration would lead us to concur in the opinion which, until of late, has usually
+      prevailed—that direct taxes on income should be reserved as an extraordinary resource for great national emergencies, in
+      which the necessity of a large additional revenue overrules all objections.
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 5. —on Income.
+    content_token_count: 232
+    text: |-
+      The difficulties of a fair income-tax have elicited a proposition for a direct tax of so much per cent, not on income
+      but on expenditure; the aggregate amount of each person's expenditure being ascertained as the amount of income now is,
+      from statements furnished by the contributors themselves. The only security would still be the veracity of individuals,
+      and there is no reason for supposing that their statements would be more trustworthy on the subject of their expenses
+      than on that of their revenues. The taxes on expenditure at present in force, either in this or in other countries, fall
+      only on particular kinds of expenditure, and differ no otherwise from taxes on commodities than in being paid directly
+      by the person who consumes or uses the article, instead of being advanced by the producer or seller, and reimbursed in
+      the price. The taxes on horses and carriages, on dogs, on servants, are of this nature. They evidently fall on the
+      persons from whom they are levied—those who use the commodity taxed. A tax of a similar description, and more important,
+      is a house-tax, which must be considered at somewhat greater length.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 5. —on Income.
+    content_token_count: 6
+    text: \[pg 557\]
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 218
+    text: |-
+      The rent of a house consists of two parts, the ground-rent, and what Adam Smith calls the building-rent. The first is
+      determined by the ordinary principles of rent. It is the remuneration given for the use of the portion of land occupied
+      by the house and its appurtenances; and varies from a mere equivalent for the rent which the ground would afford in
+      agriculture to the monopoly rents paid for advantageous situations in populous thoroughfares. The rent of the house
+      itself, as distinguished from the ground, is the equivalent given for the labor and capital expended on the building.
+      The fact of its being received in quarterly or half-yearly payments makes no difference in the principles by which it is
+      regulated. It comprises the ordinary profit on the builder's capital, and an annuity, sufficient at the current rate of
+      interest, after paying for all repairs chargeable on the proprietor, to replace the original capital by the time the
+      house is worn out, or by the expiration of the usual term of a building-lease.
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 68
+    text: |-
+      A tax of so much per cent on the gross rent falls on both those portions alike. The more highly a house is rented, the
+      more it pays to the tax, whether the quality of the situation or that of the house itself is the cause. The incidence,
+      however, of these two portions of the tax must be considered separately.
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 379
+    text: |-
+      As much of it as is a tax on building-rent must ultimately fall on the consumer, in other words, the occupier. For, as
+      the profits of building are already not above the ordinary rate, they would, if the tax fell on the owner and not on the
+      occupier, become lower than the profits of untaxed employments, and houses would not be built. It is probable, however,
+      that for some time after the tax was first imposed, a great part of it would fall, not on the renter, but on the owner
+      of the house. A large proportion of the consumers either could not afford, or would not choose, to pay their former rent
+      with the tax in addition, but would content themselves with a lower scale of accommodation. Houses, therefore, would be
+      for a time in excess of the demand. The \[pg 558\] consequence of such excess, in the case of most other articles, would
+      be an almost immediate diminution of the supply; but so durable a commodity as houses does not rapidly diminish in
+      amount. New buildings, indeed, of the class for which the demand had decreased, would cease to be erected, except for
+      special reasons; but in the mean time the temporary superfluity would lower rents, and the consumers would obtain,
+      perhaps, nearly the same accommodation as formerly, for the same aggregate payment, rent and tax together. By degrees,
+      however, as the existing houses wore out, or as increase of population demanded a greater supply, rents would again
+      rise; until it became profitable to recommence building, which would not be until the tax was wholly transferred to the
+      occupier. In the end, therefore, the occupier bears that portion of a tax on rent which falls on the payment made for
+      the house itself, exclusively of the ground it stands on.
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 569
+    text: |-
+      The case is partly different with the portion which is a tax on ground-rent. As taxes on rent, properly so called, fall
+      on the landlord, a tax on ground-rent, one would suppose, must fall on the ground-landlord, at least after the
+      expiration of the building-lease. It will not, however, fall wholly on the landlord, unless with the tax on ground-rent
+      there is combined an equivalent tax on agricultural rent. The lowest rent of land let for building is very little above
+      the rent which the same ground would yield in agriculture: since it is reasonable to suppose that land, unless in case
+      of exceptional circumstances, is let or sold for building as soon as it is decidedly worth more for that purpose than
+      for cultivation. If, therefore, a tax were laid on ground-rents without being also laid on agricultural rents, it would,
+      unless of trifling amount, reduce the return from the lowest ground-rents below the ordinary return from land, and would
+      check further building quite as effectually as if it were a tax on building-rents, until either the increased demand of
+      a growing population, or a diminution of supply by the ordinary causes of destruction, had raised the rent by a full
+      equivalent \[pg 559\] for the tax. But whatever raises the lowest ground-rents raises all others, since each exceeds the
+      lowest by the market value of its peculiar advantages. If, therefore, the tax on ground-rents were a fixed sum per
+      square foot, the more valuable situations paying no more than those least in request, this fixed payment would
+      ultimately fall on the occupier. Suppose the lowest ground-rent to be $50 per acre, and the highest $5,000, a tax of $5
+      per acre on ground-rents would ultimately raise the former to $55, and the latter consequently to $5,005, since the
+      difference of value between the two situations would be exactly what it was before: the annual $5, therefore, would be
+      paid by the occupier. But a tax on ground-rent is supposed to be a portion of a house-tax which is not a fixed payment,
+      but a percentage on the rent. The cheapest site, therefore, being supposed as before to pay $5, the dearest would pay
+      $500, of which only the $5 could be thrown upon the occupier, since the rent would still be only raised to $5,005.
+      Consequently, $495 of the $500 levied from the expensive site would fall on the ground-landlord.[^341] A house-tax thus
+      requires to be considered in a double aspect, as a tax on all occupiers of houses, and a tax on ground-rents.
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 187
+    text: |-
+      In the vast majority of houses the ground-rent forms but a small proportion of the annual payment made for the house,
+      and nearly all the tax falls on the occupier. It is only in exceptional cases, like that of the favorite situations in
+      large towns, that the predominant element in the rent of the house is the ground-rent; and, among the very few kinds of
+      income which are fit subjects for peculiar taxation, these ground-rents hold the principal place, being the most
+      gigantic example extant of enormous accessions of riches acquired rapidly, and in many cases unexpectedly, by a few
+      families, from the mere accident of their possessing certain tracts of land without their having themselves aided in the
+      acquisition by the smallest exertion, outlay, or risk. So far, therefore, as a house-tax falls on the ground-landlord,
+      it is liable to no valid objection.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 6
+    text: \[pg 560\]
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 200
+    text: |-
+      In so far as it falls on the occupier, if justly proportioned to the value of the house, it is one of the fairest and
+      most unobjectionable of all taxes. No part of a person's expenditure is a better criterion of his means, or bears, on
+      the whole, more nearly the same proportion to them. The equality of this tax can only be seriously questioned on two
+      grounds. The first is, that a miser may escape it. This objection applies to all taxes on expenditure; nothing but a
+      direct tax on income can reach a miser. The second objection is, that a person may require a larger and more expensive
+      house, not from having greater means, but from having a larger family. Of this, however, he is not entitled to complain,
+      since having a large family is at a person's own choice; and, so far as concerns the public interest, is a thing rather
+      to be discouraged than promoted.[^342]
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 100
+    text: |-
+      A valuation should be made of the house, not at what it would sell for, but at what would be the cost of rebuilding it,
+      and this valuation might be periodically corrected by an allowance for what it had lost in value by time, or gained by
+      repairs and improvements. The amount of the amended valuation would form a principal sum, the interest of which, at the
+      current price of the public funds, would form the annual value at which the building should be assessed to the tax.
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 6
+    text: \[pg 561\]
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 102
+    text: |-
+      As incomes below a certain amount ought to be exempt from income-tax, so ought houses below a certain value from
+      house-tax, on the universal principle of sparing from all taxation the absolute necessaries of healthful existence. In
+      order that the occupiers of lodgings, as well as of houses, might benefit, as in justice they ought, by this exemption,
+      it might be optional with the owners to have every portion of a house which is occupied by a separate tenant valued and
+      assessed separately.
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 6
+    text: \[pg 562\]
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 17
+    text: '[^341]: I have changed the sums mentioned in this illustration into our own money.'
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 63
+    text: '[^342]: Another common objection is that large and expensive accommodation is often required, not as a residence, but for business. But it is an admitted principle that buildings, or portions of buildings, occupied exclusively for business, such as shops, warehouses, or manufactories, ought to be exempted from house-tax.'
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter II. Of Direct Taxes. > § 6. A House-Tax.
+    content_token_count: 167
+    text: It has been also objected that house-rent in the rural districts is much lower than in towns, and lower in some towns and in some rural districts than in others; so that a tax proportioned to it would have a corresponding inequality of pressure. To this, however, it may be answered that, in places where house-rent is low, persons of the same amount of income usually live in larger and better houses, and thus expend in house-rent more nearly the same proportion of their incomes than might at first sight appear. Or, if not, the probability will be that many of them live in those places precisely because they are too poor to live elsewhere, and have, therefore, the strongest claim to be taxed lightly. In some cases it is precisely because the people are poor that house-rent remains low.—Mill.

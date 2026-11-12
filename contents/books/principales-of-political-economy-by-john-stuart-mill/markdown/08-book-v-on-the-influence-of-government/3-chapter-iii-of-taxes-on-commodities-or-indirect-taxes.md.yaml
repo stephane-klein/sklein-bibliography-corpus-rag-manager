@@ -1,0 +1,627 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/08-book-v-on-the-influence-of-government/3-chapter-iii-of-taxes-on-commodities-or-indirect-taxes.md
+  source_file_hash: sha256:acee7783223c7bb4cc412b81d5f299d30f77e3deaaa5ffde71025b0e5ad9a50c
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 56
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 3-chapter-iii-of-taxes-on-commodities-or-indirect-taxes.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 1. A Tax on all commodities would fall on Profits.
+    content_token_count: 71
+    text: |-
+      By taxes on commodities are commonly meant those which are levied either on the producers, or on the carriers or dealers
+      who intervene between them and the final purchasers for consumption; the phrase being, by custom, confined to indirect
+      taxes—those which are advanced by one person, to be, as is expected and intended, reimbursed by another.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 1. A Tax on all commodities would fall on Profits.
+    content_token_count: 112
+    text: |-
+      Taxes on commodities are either on production within the country, or on importation into it, or on conveyance or sale
+      within it, and are classed respectively as excise, customs, or tolls and transit duties. To whichever class they belong,
+      and at whatever stage in the progress of the community they may be imposed, they are equivalent to an increase of the
+      cost of production; using that term in its most enlarged sense, which includes the cost of transport and distribution,
+      or, in common phrase, of bringing the commodity to market.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 1. A Tax on all commodities would fall on Profits.
+    content_token_count: 454
+    text: |-
+      When the cost of production is increased artificially by a tax, the effect is the same as when it is increased by
+      natural causes. If only one or a few commodities are affected, their value and price rise, so as to compensate the
+      producer or dealer for the peculiar burden; but if there were a tax on all commodities, exactly proportioned to their
+      value, no such compensation would be obtained; there would neither be a general rise of values, which is an absurdity,
+      nor of prices, which depend on causes entirely different. There would, however, as Mr. McCulloch has pointed out, be a
+      disturbance \[pg 563\] of values, some falling, others rising, owing to a circumstance, the effect of which on values
+      and prices we formerly discussed—the different durability of the capital employed in different occupations. The gross
+      produce of industry consists of two parts; one portion serving to replace the capital consumed, while the other portion
+      is profit. Now, equal capital in two branches of production must have equal expectations of profit; but if a greater
+      portion of the one than of the other is fixed capital, or if that fixed capital is more durable, there will be a less
+      consumption of capital in the year, and less will be required to replace it, so that the profit, if absolutely the same,
+      will form a greater proportion of the annual returns. To derive from a capital of $1,000 a profit of $100, the one
+      producer may have to sell produce to the value of $1,100, the other only to the value of $500. If on these two branches
+      of industry a tax be imposed of five per cent ad valorem, the last will be charged only with $25, the first with $55;
+      leaving to the one $75 profit, to the other only $45. To equalize, therefore, their expectation of profit, the one
+      commodity must rise in price, or the other must fall, or both.[^343] Commodities made chiefly by immediate labor must
+      rise in value, as compared with those which are chiefly made by machinery. It is unnecessary to prosecute this branch of
+      the inquiry any further.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 2. Taxes on particular commodities fall on the consumer.
+    content_token_count: 602
+    text: |-
+      A tax on any one commodity, whether laid on its production, its importation, its carriage from place to place, or its
+      sale, and whether the tax be a fixed sum of money for a given quantity of the commodity, or an ad valorem duty, will, as
+      a general rule, raise the value and price of the commodity by at least the amount of the tax. There are few cases in
+      which it does not raise them by more than that amount. In the first place, there are few taxes on production on account
+      of which it is not found or deemed necessary to impose restrictive regulations on the manufacturers or dealers, in order
+      to check evasions of the tax. These \[pg 564\] regulations are always sources of trouble and annoyance, and generally of
+      expense, for all of which, being peculiar disadvantages, the producers or dealers must have compensation in the price of
+      their commodity. These restrictions also frequently interfere with the processes of manufacture, requiring the producer
+      to carry on his operations in the way most convenient to the revenue, though not the cheapest or most efficient for
+      purposes of production. Any regulations whatever, enforced by law, make it difficult for the producer to adopt new and
+      improved processes. Further, the necessity of advancing the tax obliges producers and dealers to carry on their business
+      with larger capitals than would otherwise be necessary, on the whole of which they must receive the ordinary rate of
+      profit, though a part only is employed in defraying the real expenses of production or importation. The price of the
+      article must be such as to afford a profit on more than its natural value, instead of a profit on only its natural
+      value. Neither ought it to be forgotten that whatever renders a larger capital necessary in any trade or business limits
+      the competition in that business, and, by giving something like a monopoly to a few dealers, may enable them either to
+      keep up the price beyond what would afford the ordinary rate of profit, or to obtain the ordinary rate of profit with a
+      less degree of exertion for improving and cheapening their commodity. In these several modes, taxes on commodities often
+      cost to the consumer, through the increased price of the article, much more than they bring into the treasury of the
+      state. There is still another consideration: the higher price necessitated by the tax almost always checks the demand
+      for the commodity; and, since there are many improvements in production which, to make them practicable, require a
+      certain extent of demand, such improvements are obstructed, and many of them prevented altogether. It is a well-known
+      fact that the branches of production in which fewest improvements are made are those with which the revenue-officer
+      interferes; and that nothing, in general, gives a greater impulse to improvements \[pg 565\] in the production of a
+      commodity than taking off a tax which narrowed the market for it.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 409
+    text: |-
+      Such are the effects of taxes on commodities, considered generally; but, as there are some commodities (those composing
+      the necessaries of the laborer) of which the values have an influence on the distribution of wealth among different
+      classes of the community, it is requisite to trace the effects of taxes on those particular articles somewhat further.
+      If a tax be laid, say on corn, and the price rises in proportion to the tax, the rise of price may operate in two ways:
+      First, it may lower the condition of the laboring-classes; temporarily, indeed, it can scarcely fail to do so. If it
+      diminishes their consumption of the produce of the earth, or makes them resort to a food which the soil produces more
+      abundantly, and therefore more cheaply, it to that extent contributes to throw back agriculture upon more fertile lands
+      or less costly processes, and to lower the value and price of corn; which therefore ultimately settles at a price,
+      increased not by the whole amount of the tax, but by only a part of its amount. Secondly, however, it may happen that
+      the dearness of the taxed food does not lower the habitual standard of the laborer's requirements, but that wages, on
+      the contrary, through an action on population, rise, in shorter or longer periods, so as to compensate the laborers for
+      their portion of the tax, the compensation being of course at the expense of profits. Taxes on necessaries must thus
+      have one of two effects: either they lower the condition of the laboring-classes, or they exact from the owners of
+      capital, in addition to the amount due to the state on their own necessaries, the amount due on those consumed by the
+      laborers. In the last case, the tax on necessaries, like a tax on wages, is equivalent to a peculiar tax on profits;
+      which is, like all other partial taxation, unjust, and is specially prejudicial to the increase of the national wealth.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 308
+    text: |-
+      It remains to speak of the effect on rent. Assuming (what is usually the fact) that the consumption of food is not
+      diminished, the same cultivation as before will be necessary \[pg 566\] to supply the wants of the community; the margin
+      of cultivation, to use Dr. Chalmers's expression, remains where it was; and the same land or capital, which, as the
+      least productive, already regulated the value and price of the whole produce, will continue to regulate them. The effect
+      which a tax on agricultural produce will have on rent depends on its affecting or not affecting the difference between
+      the return to this least productive land or capital and the returns to other lands and capitals. Now, this depends on
+      the manner in which the tax is imposed. If it is an ad valorem tax, or, what is the same thing, a fixed proportion of
+      the produce, such as tithe for example, it evidently lowers corn-rents. For it takes more corn from the better lands
+      than from the worse, and exactly in the degree in which they are better, land of twice the productiveness paying twice
+      as much to the tithe. Whatever takes more from the greater of two quantities than from the less, diminishes the
+      difference between them. The imposition of a tithe on corn would take a tithe also from corn-rent: for, if we reduce a
+      series of numbers by a tenth each, the differences between them are reduced one tenth.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 81
+    text: |-
+      For example, let there be five qualities of land, which severally yield, on the same extent of ground and with the same
+      expenditure, 100, 90, 80, 70, and 60 bushels of wheat, the last of these being the lowest quality which the demand for
+      food renders it necessary to cultivate. The rent of these lands will be as follows:
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 102
+    text: |-
+      The land producing 100 bushels will yield a rent of 100-60, or 40 bushels.  
+      That producing 90 bushels, a rent of 90-60, or 30 bushels.  
+      That producing 80 bushels, a rent of 80-60, or 20 bushels.  
+      That producing 70 bushels, a rent of 70-60, or 10 bushels.  
+      That producing 60 bushels, will yield no rent.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 70
+    text: |-
+      Now let a tithe be imposed, which takes from these five pieces of land 10, 9, 8, 7, and 6 bushels respectively, the
+      fifth quality still being the one which regulates the price, but returning to the farmer, after payment of tithe, no
+      more than 54 bushels:
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 6
+    text: \[pg 567\]
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 105
+    text: |-
+      The land producing 100 bushels reduced to 90 will yield a rent of 90-54, or 36 bushels.  
+      That producing 90 bushels reduced to 81, a rent of 81-54, or 27 bushels.  
+      That producing 80 bushels reduced to 72, a rent of 72-54, or 18 bushels.  
+      That producing 70 bushels reduced to 63, a rent of 63-54, or 9 bushels.
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 93
+    text: |-
+      and that producing 60 bushels, reduced to 54, will yield, as before, no rent. So that the rent of the first quality of
+      land has lost four bushels; of the second, three; of the third, two; and of the fourth, one: that is, each has lost
+      exactly one tenth. A tax, therefore, of a fixed proportion of the produce lowers, in the same proportion, corn-rent.
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 197
+    text: |-
+      But it is only corn-rent that is lowered, and not rent estimated in money, or in any other commodity. For, in the same
+      proportion as corn-rent is reduced in quantity, the corn composing it is raised in value. Under the tithe, 54 bushels
+      will be worth in the market what 60 were before; and nine tenths will in all cases sell for as much as the whole ten
+      tenths previously sold for. The landlords will therefore be compensated in value and price for what they lose in
+      quantity, and will suffer only so far as they consume their rent in kind, or, after receiving it in money, expend it in
+      agricultural produce; that is, they only suffer as consumers of agricultural produce, and in common with all the other
+      consumers. Considered as landlords, they have the same income as before; the tithe, therefore, falls on the consumer,
+      and not on the landlord.
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 128
+    text: |-
+      The same effect would be produced on rent if the tax, instead of being a fixed proportion of the produce, were a fixed
+      sum per quarter or per bushel. A tax which takes a shilling for every bushel takes more shillings from one field than
+      from another, just in proportion as it produces more bushels; and operates exactly like tithe, except that tithe is not
+      only the same proportion on all lands, but is also the same proportion at all times, while a fixed sum of money per
+      bushel will amount to a greater or less proportion, according as corn is cheap or dear.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 3. Peculiar effects of taxes on Necessaries.
+    content_token_count: 265
+    text: |-
+      There are other modes of taxing agriculture, which would affect rent differently. A tax proportioned to the rent would
+      \[pg 568\] fall wholly on the rent, and would not at all raise the price of corn, which is regulated by the portion of
+      the produce that pays no rent. A fixed tax of so much per cultivated acre, without distinction of value, would have
+      effects directly the reverse. Taking no more from the best qualities of land than from the worst, it would leave the
+      differences the same as before, and consequently the same corn-rents, and the landlords would profit to the full extent
+      of the rise of price. To put the thing in another manner: the price must rise sufficiently to enable the worst land to
+      pay the tax, thus enabling all lands which produce more than the worst to pay not only the tax, but also an increased
+      rent to the landlords. These, however, are not so much taxes on the produce of land as taxes on the land itself. Taxes
+      on the produce, properly so called, whether fixed or ad valorem, do not affect rent, but fall on the consumer, profits,
+      however, generally bearing either the whole or the greatest part of the portion which is levied on the consumption of
+      the laboring-classes.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 4. —how modified by the tendency of profits to a minimum.
+    content_token_count: 569
+    text: |-
+      The preceding is, I apprehend, a correct statement of the manner in which taxes on agricultural produce operate when
+      first laid on. When, however, they are of old standing, their effect may be different. Now, the effect of accumulation,
+      when attended by its usual accompaniment, an increase of population, is to increase the value and price of food, to
+      raise rent, and to lower profits; that is, to do precisely what is done by a tax on agricultural produce, except that
+      this does not raise rent. The tax, therefore, merely anticipates the rise of price and fall of profits which would have
+      taken place ultimately through the mere progress of accumulation, while it at the same time prevents, or at least
+      retards, that progress. If the rate of profit was such that the effect of the tithe reduces it to the practical minimum,
+      after a lapse of time which would have admitted of a rise of one tenth from the natural progress of wealth, the consumer
+      will be paying no more than he would have paid if the tithe had never existed; he will have ceased to pay any portion of
+      it, and the person who will really pay it is the landlord, \[pg 569\] whom it deprives of the increase of rent which
+      would by that time have accrued to him. At every successive point in this interval of time, less of the burden will rest
+      on the consumer, and more of it on the landlord; and, in the ultimate result, the minimum of profits will be reached
+      with a smaller capital and population and a lower rental than if the course of things had not been disturbed by the
+      imposition of the tax. If, on the other hand, the tithe or other tax on agricultural produce does not reduce profits to
+      the minimum, but to something above the minimum, accumulation will not be stopped, but only slackened; and, if
+      population also increases, the twofold increase will continue to produce its effects—a rise of the price of corn and an
+      increase of rent. These consequences, however, will not take place with the same rapidity as if the higher rate of
+      profit had continued. At the end of twenty years the country will have a smaller population and capital than, but for
+      the tax, it would by that time have had; the landlords will have a smaller rent, and the price of corn, having increased
+      less rapidly than it would otherwise have done, will not be so much as a tenth higher than what, if there had been no
+      tax, it would by that time have become. A part of the tax, therefore, will already have ceased to fall on the consumer
+      and devolved upon the landlord, and the proportion will become greater and greater by lapse of time.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 4. —how modified by the tendency of profits to a minimum.
+    content_token_count: 251
+    text: |-
+      But though tithes and other taxes on agricultural produce, when of long standing, either do not raise the price of food
+      and lower profits at all, or, if at all, not in proportion to the tax, yet the abrogation of such taxes, when they
+      exist, does not the less diminish price, and, in general, raise the rate of profit. The abolition of a tithe takes one
+      tenth from the cost of production, and consequently from the price, of all agricultural produce; and, unless it
+      permanently raises the laborer's requirements, it lowers the cost of labor and raises profits. Rent, estimated in money
+      or in commodities, generally remains as before; estimated in agricultural produce, it is raised. The country adds as
+      much, by the repeal of a tithe, to the margin which intervenes between it and the stationary \[pg 570\] state as was cut
+      off from that margin by the tithe when first imposed. Accumulation is greatly accelerated, and, if population also
+      increases, the price of corn immediately begins to recover itself and rent to rise, thus gradually transferring the
+      benefit of the remission from the consumer to the landlord.
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 83
+    text: |-
+      We have hitherto inquired into the effects of taxes on commodities, on the assumption that they are levied impartially
+      on every mode in which the commodity can be produced or brought to market. Another class of considerations is opened, if
+      we suppose that this impartiality is not maintained, and that the tax is imposed, not on the commodity, but on some
+      particular mode of obtaining it.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 429
+    text: |-
+      Suppose that a commodity is capable of being made by two different processes—as a manufactured commodity may be produced
+      either by hand or by steam-power—sugar may be made either from the sugar-cane or from beet-root, cattle fattened either
+      on hay and green crops or on oil-cake and the refuse of breweries. It is the interest of the community that, of the two
+      methods, producers should adopt that which produces the best article at the lowest price. This being also the interest
+      of the producers, unless protected against competition, and shielded from the penalties of indolence, the process most
+      advantageous to the community is that which, if not interfered with by Government, they ultimately find it to their
+      advantage to adopt. Suppose, however, that a tax is laid on one of the processes, and no tax at all, or one of smaller
+      amount, on the other. If the taxed process is the one which the producers would not have adopted, the measure is simply
+      nugatory. But if the tax falls, as it is of course intended to do, upon the one which they would have adopted, it
+      creates an artificial motive for preferring the untaxed process, though the inferior of the two. If, therefore, it has
+      any effect at all, it causes the commodity to be produced of worse quality, or at a greater expense of labor; it causes
+      so much of the labor of the community to be wasted, and the capital employed in supporting and remunerating \[pg 571\]
+      that labor to be expended as uselessly as if it were spent in hiring men to dig holes and fill them up again. This waste
+      of labor and capital constitutes an addition to the cost of production of the commodity, which raises its value and
+      price in a corresponding ratio, and thus the owners of the capital are indemnified. The loss falls on the consumers;
+      though the capital of the country is also eventually diminished, by the diminution of their means of saving, and, in
+      some degree, of their inducements to save.
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 287
+    text: |-
+      The kind of tax, therefore, which comes under the general denomination of a discriminating duty, transgresses the rule
+      that taxes should take as little as possible from the taxpayer beyond what they bring into the treasury of the state. A
+      discriminating duty makes the consumer pay two distinct taxes, only one of which is paid to the Government, and that
+      frequently the less onerous of the two. If a tax were laid on sugar produced from the cane, leaving the sugar from
+      beet-root untaxed, then in so far as cane-sugar continued to be used, the tax on it would be paid to the treasury, and
+      might be as unobjectionable as most other taxes; but if cane-sugar, having previously been cheaper than beet-root sugar,
+      was now dearer, and beet-root sugar was to any considerable amount substituted for it, and fields laid out and
+      manufactories established in consequence, the Government would gain no revenue from the beet-root sugar, while the
+      consumers of it would pay a real tax. They would pay for beet-root sugar more than they had previously paid for
+      cane-sugar, and the difference would go to indemnify producers for a portion of the labor of the country actually thrown
+      away, in producing by the labor of (say) three hundred men what could be obtained by the other process with the labor of
+      two hundred.
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 345
+    text: |-
+      An interesting illustration, in late years, of the operation of a discriminating duty is to be found in the case of
+      different grades of sugar imported into the United States. Our tariff levied certain duties on different grades of sugar
+      classified by color, on the theory that color was a test of saccharine strength. Cargoes were examined and compared with
+      graded sugars hermetically sealed in glass bottles and distributed by the Dutch \[pg 572\] authorities, whence came the
+      name of “Dutch standard.” Grades from No. 1 (melado) to No. 10 must go to the refiner before consumption; but the grades
+      to No. 13, although some might have gone into immediate consumption, were usually sent to be manufactured into the
+      highest grades of soft and hard sugars. So long as the sugar was secured by evaporation in open coppers, or by passing
+      the molasses through a layer of clay, saccharine strength and color went fairly well together. But with the invention of
+      the vacuum-pan and the centrifugal wheel, by which the sugar is reduced through a shorter and more effective process,
+      sugar of a certain grade of color by the Dutch standard contained a much greater degree of sweetness than that produced
+      by the old methods. Cuban planters, therefore, were permitted to send sugar into this country at a duty which was really
+      levied on grades much inferior, and so paid a less duty than other sugars. The products of one country were
+      discriminated against in favor of another. The difficulty was settled by using the polariscope, which gave an absolute
+      chemical test of the sweetness, irrespective of color.
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 171
+    text: |-
+      One of the commonest cases of discriminating duties is that of a tax on the importation of a commodity capable of being
+      produced at home, unaccompanied by an equivalent tax on the home production. A commodity is never permanently imported,
+      unless it can be obtained from abroad at a smaller cost of labor and capital, on the whole, than is necessary for
+      producing it. If, therefore, by a duty on the importation, it is rendered cheaper to produce the article than to import
+      it, an extra quantity of labor and capital is expended, without any extra result. The labor is useless, and the capital
+      is spent in paying people for laboriously doing nothing. All custom duties which operate as an encouragement to the home
+      production of the taxed article are thus an eminently wasteful mode of raising a revenue.
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 426
+    text: |-
+      This character belongs in a peculiar degree to custom duties on the produce of land, unless countervailed by excise
+      duties on the home production. Such taxes bring less into the public treasury, compared with what they take from the
+      consumers, than any other imposts to which civilized nations are usually subject. If the wheat produced in a country is
+      twenty millions of quarters, and the consumption twenty-one millions, a million being annually imported, and if on this
+      \[pg 573\] million a duty is laid which raises the price ten shillings per quarter, the price which is raised is not
+      that of the million only, but of the whole twenty-one millions. Taking the most favorable but extremely improbable
+      supposition, that the importation is not at all checked, nor the home production enlarged, the state gains a revenue of
+      only half a million, while the consumers are taxed ten millions and a half, the ten millions being a contribution to the
+      home growers, who are forced by competition to resign it all to the landlords. The consumer thus pays to the owners of
+      land an additional tax, equal to twenty times that which he pays to the state. Let us now suppose that the tax really
+      checks importation. Suppose importation stopped altogether in ordinary years; it being found that the million of
+      quarters can be obtained, by a more elaborate cultivation, or by breaking up inferior land, at a less advance than ten
+      shillings upon the previous price—say, for instance, five shillings a quarter. The revenue now obtains nothing, except
+      from the extraordinary imports which may happen to take place in a season of scarcity. But the consumers pay every year
+      a tax of five shillings on the whole twenty-one millions of quarters, amounting to £5,250,000 sterling. Of this the odd
+      £250,000 goes to compensate the growers of the last million of quarters for the labor and capital wasted under the
+      compulsion of the law. The remaining £5,000,000 go to enrich the landlords as before.
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 170
+    text: |-
+      Such is the operation of what are technically termed corn laws, when first laid on; and such continues to be their
+      operation so long as they have any effect at all in raising the price of corn. The difference between a country without
+      corn laws and a country which has long had corn laws is not so much that the last has a higher price or a larger rental,
+      but that it has the same price and the same rental with a smaller aggregate capital and a smaller population. The
+      imposition of corn laws raises rents, but retards that progress of accumulation which would in no long period have
+      raised them fully as much. The repeal of corn laws tends to lower rents, but it unchains a force which, in a progressive
+      state of \[pg 574\] capital and population, restores and even increases the former amount.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 5. Effects of discriminating Duties.
+    content_token_count: 158
+    text: |-
+      What we have said of duties on importation generally is equally applicable to discriminating duties which favor
+      importation from one place, or in one particular manner, in contradistinction to others; such as the preference given to
+      the produce of a colony, or of a country with which there is a commercial treaty; or the higher duties formerly imposed
+      by our navigation laws on goods imported in other than British shipping. Whatever else may be alleged in favor of such
+      distinctions, whenever they are not nugatory, they are economically wasteful. They induce a resort to a more costly mode
+      of obtaining a commodity in lieu of one less costly, and thus cause a portion of the labor which the country employs in
+      providing itself with foreign commodities to be sacrificed without return.
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 97
+    text: |-
+      There is one more point, relating to the operation of taxes on commodities conveyed from one country to another, which
+      requires notice: the influences which they exert on international exchanges. Every tax on a commodity tends to raise its
+      price, and consequently to lessen the demand for it in the market in which it is sold. All taxes on international trade
+      tend, therefore, to produce a disturbance, and a readjustment of what we have termed the equation of international
+      demand.
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 77
+    text: |-
+      Taxes on foreign trade are of two kinds—taxes on imports and on exports. On the first aspect of the matter it would seem
+      that both these taxes are paid by the consumers of the commodity; that taxes on exports consequently fall entirely on
+      foreigners, taxes on imports wholly on the home consumer. The true state of the case, however, is much more complicated.
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 114
+    text: |-
+      “By taxing exports we may, in certain circumstances, produce a division of the advantage of the trade more favorable to
+      ourselves. In some cases we may draw into our coffers, at the expense of foreigners, not only the whole tax, but more
+      than the tax; in other cases we should gain exactly \[pg 575\] the tax; in others, less than the tax. In this last case
+      a part of the tax is borne by ourselves; possibly the whole, possibly even, as we shall show, more than the whole.”
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 402
+    text: |-
+      Reverting to the supposititious case employed of a trade between England and the United States in iron and corn, suppose
+      that the United States taxes her export of corn, the tax not being supposed high enough to induce England to produce
+      corn for herself. The price at which corn can be sold in England is augmented by the tax. This will probably diminish
+      the quantity consumed. It may diminish it so much that, even at the increased price, there will not be required so great
+      a money value as before. Or it may not diminish it at all, or so little that, in consequence of the higher price, a
+      greater money value will be purchased than before. In this last case, the United States will gain, at the expense of
+      England, not only the whole amount of the duty, but more; for, the money value of her exports to England being
+      increased, while her imports remain the same, money will flow into the United States from England. The price of corn
+      will rise in the United States, and consequently in England; but the price of iron will fall in England, and
+      consequently in the United States. We shall export less corn and import more iron, till the equilibrium is restored. It
+      thus appears (what is at first sight somewhat remarkable) that, by taxing her exports, the United States would, in some
+      conceivable circumstances, not only gain from her foreign customers the whole amount of the tax, but would also get her
+      imports cheaper. She would get them cheaper in two ways, for she would obtain them for less money, and would have more
+      money to purchase them with. England, on the other hand, would suffer doubly: she would have to pay for her corn a price
+      increased not only by the duty, but by the influx of money into the United States, while the same change in the
+      distribution of the circulating medium would leave her less money to purchase it with.[^344]
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 6
+    text: \[pg 576\]
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 320
+    text: |-
+      This, however, is only one of three possible cases. If, after the imposition of the duty, England requires so diminished
+      a quantity of corn that its total value is exactly the same as before, the balance of trade would be undisturbed; the
+      United States will gain the duty, England will lose it, and nothing more. If, again, the imposition of the duty
+      occasions such a falling off in the demand that England requires a less pecuniary value than before, our exports will no
+      longer pay for our imports; money must pass from the United States into England; and England's share of the advantage of
+      the trade will be increased. By the change in the distribution of money, corn will fall in the United States, and
+      therefore it will, of course, fall in England. Thus England will not pay the whole of the tax. From the same cause, iron
+      will rise in England, and consequently in the United States. When this alteration of prices has so adjusted the demand
+      that the corn and the iron again pay for one another, the result is that England has paid only a part of the tax, and
+      the remainder of what has been received into our treasury has come indirectly out of the pockets of our own consumers of
+      iron, who pay a higher price for that imported commodity in consequence of the tax on our exports, while at the same
+      time they, in consequence of the efflux of money and the fall of prices, have smaller money incomes wherewith to pay for
+      the iron at that advanced price.
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 156
+    text: |-
+      It is not an impossible supposition that by taxing our exports we might not only gain nothing from the foreigner, the
+      tax being paid out of our own pockets, but might even compel our own people to pay a second tax to the foreigner.
+      Suppose, as before, that the demand of England for corn falls off so much on the imposition of the duty that she
+      requires a smaller money value than before, but that the case is so different with iron in the United States that when
+      the price rises the demand either does not fall off at all, or so little that the money value required is greater than
+      before. The first effect of laying on the duty is, as before, that the corn exported will no longer pay for the iron
+      imported.
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 6
+    text: \[pg 577\]
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 325
+    text: |-
+      Money will therefore flow out of the United States into England. One effect is to raise the price of iron in England,
+      and consequently in the United States. But this, by the supposition, instead of stopping the efflux of money, only makes
+      it greater; because, the higher the price, the greater the money value of the iron consumed. The balance, therefore, can
+      only be restored by the other effect, which is going on at the same time, namely, the fall of corn in the American and
+      consequently in the English market. Even when corn has fallen so low that its price with the duty is only equal to what
+      its price without the duty was at first, it is not a necessary consequence that the fall will stop; for the same amount
+      of exportation as before will not now suffice to pay the increased money value of the imports; and although the English
+      consumers have now not only corn at the old price, but likewise increased money incomes, it is not certain that they
+      will be inclined to employ the increase of their incomes in increasing their purchases of corn. The price of corn,
+      therefore, must perhaps fall, to restore the equilibrium, more than the whole amount of the duty; England may be enabled
+      to import corn at a lower price when it is taxed than when it was untaxed; and this gain she will acquire at the expense
+      of the American consumers of iron, who, in addition, will be the real payers of the whole of what is received at their
+      own custom-house under the name of duties on the export of corn.
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 65
+    text: |-
+      In general, however, there could be little doubt that a country which imposed such taxes would succeed in making foreign
+      countries contribute something to its revenue; but, unless the taxed article be one for which their demand is extremely
+      urgent, they will seldom pay the whole of the amount which the tax brings in.[^345]
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 6
+    text: \[pg 578\]
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 51
+    text: |-
+      The result of this investigation may, then, be generally formulated as follows: That country which has the strongest
+      demand for the commodities of other countries as compared with the demand of other countries for its own commodities
+      will pay the burden of the export duty.
+  - chunk_index: 37
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 71
+    text: |-
+      Thus far of duties on exports. We now proceed to the more ordinary case of duties on imports: “We have had an example of
+      a tax on exports, that is, on foreigners, falling in part on ourselves. We shall therefore not be surprised if we find a
+      tax on imports, that is, on ourselves, partly falling upon foreigners.
+  - chunk_index: 38
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 135
+    text: |-
+      “Instead of taxing the corn which we export, suppose that we tax the iron which we import. The duty which we are now
+      supposing must not be what is termed a protecting duty, that is, a duty sufficiently high to induce us to produce the
+      article at home. If it had this effect, it would destroy entirely the trade both in corn and in iron, and both countries
+      would lose the whole of the advantage which they previously gained by exchanging those commodities with one another. We
+      suppose a duty which might diminish the consumption of the article, but which would not prevent us from continuing to
+      import, as before, whatever iron we did consume.
+  - chunk_index: 39
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 241
+    text: |-
+      “The equilibrium of trade would be disturbed if the imposition of the tax diminished, in the slightest degree, the
+      quantity of iron consumed. For, as the tax is levied at our own custom-house, the English exporter only receives the
+      same price as formerly, though the American consumer pays a higher one. If, therefore, there be any diminution of the
+      quantity bought, although a larger sum of money may be actually laid out in the article, a smaller one will be due from
+      the United States to England: this sum will no longer be an equivalent for the sum due from England to the United States
+      for corn, the balance therefore must be paid in money. Prices will fall in England and rise in the United States; iron
+      will fall in the English market; corn will rise in the American. The English will pay a higher price for corn, \[pg
+      579\] and will have smaller money incomes to buy it with; while the Americans will obtain iron cheaper, that is, its
+      price will exceed what it previously was by less than the amount of the duty, while their means of purchasing it will be
+      increased by the increase of their money incomes.
+  - chunk_index: 40
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 49
+    text: |-
+      “If the imposition of the tax does not diminish the demand, it will leave the trade exactly as it was before. We shall
+      import as much, and export as much; the whole of the tax will be paid out of our own pockets.
+  - chunk_index: 41
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 146
+    text: |-
+      “But the imposition of a tax on a commodity almost always diminishes the demand more or less; and it can never, or
+      scarcely ever, increase the demand. It may, therefore, be laid down as a principle that a tax on imported commodities,
+      when it really operates as a tax, and not as a prohibition either total or partial, almost always falls in part upon the
+      foreigners who consume our goods; and that this is a mode in which a nation may appropriate to itself, at the expense of
+      foreigners, a larger share than would otherwise belong to it of the increase in the general productiveness of the labor
+      and capital of the world, which results from the interchange of commodities among nations.”
+  - chunk_index: 42
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 99
+    text: |-
+      Those are, therefore, in the right who maintain that taxes on imports are partly paid by foreigners; but they are
+      mistaken when they say that it is by the foreign producer. It is not on the person from whom we buy, but on all those
+      who buy from us, that a portion of our custom duties spontaneously falls. It is the foreign consumer of our exported
+      commodities who is obliged to pay a higher price for them because we maintain revenue duties on foreign goods.
+  - chunk_index: 43
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 295
+    text: |-
+      There are but two cases in which duties on commodities can in any degree, or in any manner, fall on the producer. One
+      is, when the article is a strict monopoly, and at a scarcity price. The price in this case being only limited by the
+      desires of the buyer—the sum obtained for the restricted supply being the utmost which the buyers would consent to give
+      rather than go without it—if the treasury intercepts a part of this, the price can not be further raised to compensate
+      for the tax, \[pg 580\] and it must be paid from the monopoly profits. A tax on rare and high-priced wines will fall
+      wholly on the growers, or rather, on the owners of the vineyards. The second case, in which the producer sometimes bears
+      a portion of the tax, is more important: the case of duties on the produce of land or of mines. These might be so high
+      as to diminish materially the demand for the produce, and compel the abandonment of some of the inferior qualities of
+      land or mines. Supposing this to be the effect, the consumers, both in the country itself and in those which dealt with
+      it, would obtain the produce at smaller cost; and a part only, instead of the whole, of the duty would fall on the
+      purchaser, who would be indemnified chiefly at the expense of the land-owners or mine-owners in the producing country.
+  - chunk_index: 44
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 124
+    text: |-
+      Duties on importation may, then, be divided “into two classes: (1) those which have the effect of encouraging some
+      particular branch of domestic industry \[protective duties\], (2) and those which have not \[revenue duties\]. The
+      former are purely mischievous, both to the country imposing them and to those with whom it trades. They prevent a saving
+      of labor and capital, which, if permitted to be made, would be divided in some proportion or other between the importing
+      country and the countries which buy what that country does or might export.
+  - chunk_index: 45
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 154
+    text: |-
+      “The other class of duties are those which do not encourage one mode of procuring an article at the expense of another,
+      but allow interchange to take place just as if the duty did not exist, and to produce the saving of labor which
+      constitutes the motive to international as to all other commerce. Of this kind are duties on the importation of any
+      commodity which could not by any possibility be produced at home, and duties not sufficiently high to counterbalance the
+      difference of expense between the production of the article at home and its importation. Of the money which is brought
+      into the treasury of any country by taxes of this last description, a part only is paid by the people of that country;
+      the remainder by the foreign consumers of their goods.
+  - chunk_index: 46
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 6
+    text: \[pg 581\]
+  - chunk_index: 47
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 142
+    text: |-
+      “Nevertheless, this latter kind of taxes are in principle as ineligible as the former, though not precisely on the same
+      ground. A protecting duty can never be a cause of gain, but always and necessarily of loss, to the country imposing it,
+      just so far as it is efficacious to its end. A non-protecting duty, on the contrary, would in most cases be a source of
+      gain to the country imposing it, in so far as throwing part of the weight of its taxes upon other people is a gain; but
+      it would be a means which it could seldom be advisable to adopt, being so easily counteracted by a precisely similar
+      proceeding on the other side.
+  - chunk_index: 48
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 130
+    text: |-
+      “If the United States, in the case already supposed, sought to obtain for herself more than her natural share of the
+      advantage of the trade with England, by imposing a duty upon iron, England would only have to impose a duty upon corn
+      sufficient to diminish the demand for that article about as much as the demand for iron had been diminished in the
+      United States by the tax. Things would then be as before, and each country would pay its own tax—unless, indeed, the sum
+      of the two duties exceeded the entire advantage of the trade, for in that case the trade and its advantage would cease
+      entirely.
+  - chunk_index: 49
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 235
+    text: |-
+      “There would be no advantage, therefore, in imposing duties of this kind with a view to gain by them in the manner which
+      has been pointed out. But, when any part of the revenue is derived from taxes on commodities, these may often be as
+      little objectionable as the rest. It is evident, too, that considerations of reciprocity, which are quite unessential
+      when the matter in debate is a protecting duty, are of material importance when the repeal of duties of this other
+      description is discussed. A country can not be expected to renounce the power of taxing foreigners unless foreigners
+      will in return practice toward itself the same forbearance. The only mode in which a country can save itself from being
+      a loser by the revenue duties imposed by other countries on its commodities is, to impose corresponding revenue duties
+      on theirs. Only it must take care that \[pg 582\] those duties be not so high as to exceed all that remains of the
+      advantage of the trade, and put an end to importation altogether, causing the article to be either produced at home, or
+      imported from another and a dearer market.”
+  - chunk_index: 50
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 99
+    text: |-
+      By “reciprocity” is meant that, when one country admits goods free of duty from a second country, this latter country
+      will also admit the commodities of the former free of duty; or, as is often the case, if not free of duty, at a less
+      than the usual rate. Until the last few years we have had a reciprocity treaty with Canada, but it is not now in force;
+      and an arrangement for closer commercial relations with Mexico is now under consideration.
+  - chunk_index: 51
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 6
+    text: \[pg 583\]
+  - chunk_index: 52
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 53
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 15
+    text: '[^343]: I have here also changed the amounts into our own money.'
+  - chunk_index: 54
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 26
+    text: '[^344]: This illustration has also been changed, but only so far as to fit the trade between England and the United States.'
+  - chunk_index: 55
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book V. On The Influence Of Government. > Chapter III. Of Taxes On Commodities, Or Indirect Taxes. > § 6. Effects produced on international Exchange by Duties on Exports and on Imports.
+    content_token_count: 79
+    text: '[^345]: Probably the strongest known instance of a large revenue raised from foreigners by a tax on exports is the opium-trade with China. The high price of the article under the Government monopoly (which is equivalent to a high export duty) has so little effect in discouraging its consumption that it is said to have been occasionally sold in China for as much as its weight in silver.—Mill.'

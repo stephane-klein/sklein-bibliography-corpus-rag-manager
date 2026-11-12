@@ -1,0 +1,631 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: books/principales-of-political-economy-by-john-stuart-mill/markdown/04-book-i-production/09-chapter-ix-of-the-law-of-the-increase-of-production-from-land.md
+  source_file_hash: sha256:ea7344737df99cac12cbe8740884a9a1a5334e19df06e930f11835d3868172a0
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 62
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 09-chapter-ix-of-the-law-of-the-increase-of-production-from-land.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 87
+    text: |-
+      Land differs from the other elements of production, labor, and capital, in not being susceptible of indefinite increase.
+      Its extent is limited, and the extent of the more productive kinds of it more limited still. It is also evident that the
+      quantity of produce capable of being raised on any given piece of land is not indefinite. This limited quantity of land
+      and limited productiveness of it are the real limits to the increase of production.
+  - chunk_index: 1
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 105
+    text: |-
+      The limitation to production from the properties of the soil is not like the obstacle opposed by a wall, which stands
+      immovable in one particular spot, and offers no hindrance to motion short of stopping it entirely. We may rather compare
+      it to a highly elastic and extensible band, which is hardly ever so violently stretched that it could not possibly be
+      stretched any more, yet the pressure of which is felt long before the final limit is reached, and felt more severely the
+      nearer that limit is approached.
+  - chunk_index: 2
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 175
+    text: |-
+      After a certain, and not very advanced, stage in the progress of agriculture—as soon, in fact, as mankind have applied
+      themselves to cultivation with any energy, and have brought to it any tolerable tools—from that time it is the law of
+      production from the land, that in any given state of agricultural skill and knowledge, by increasing the labor, the
+      produce is not increased in an equal degree; doubling the labor does not double the produce; or, to express the same
+      thing in other words, every increase of produce is obtained \[pg 131\] by a more than proportional increase in the
+      application of labor to the land. This general law of agricultural industry is the most important proposition in
+      political economy. Were the law different, nearly all the phenomena of the production and distribution of wealth would
+      be other than they are.
+  - chunk_index: 3
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 120
+    text: |-
+      It is not generally considered that in the United States, where in many sparsely settled parts of the country new land
+      is constantly being brought into cultivation, an additional population under existing conditions of agricultural skill
+      can be maintained with constantly increasing returns up to a certain point before the law of diminishing returns begins
+      to operate. Where more laborers are necessary, and more capital wanted, to co-operate in a new country before all the
+      land can give its maximum product, in such a stage of cultivation it can not be said that the law of diminishing returns
+      has yet practically set in.
+  - chunk_index: 4
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 191
+    text: |-
+      When, for the purpose of raising an increase of produce, recourse is had to inferior land, it is evident that, so far,
+      the produce does not increase in the same proportion with the labor. The very meaning of inferior land is land which
+      with equal labor returns a smaller amount of produce. Land may be inferior either in fertility or in situation. The one
+      requires a greater proportional amount of labor for growing the produce, the other for carrying it to market. If the
+      land A yields a thousand quarters of wheat to a given outlay in wages, manure, etc., and, in order to raise another
+      thousand, recourse must be had to the land B, which is either less fertile or more distant from the market, the two
+      thousand quarters will cost more than twice as much labor as the original thousand, and the produce of agriculture will
+      be increased in a less ratio than the labor employed in procuring it.
+  - chunk_index: 5
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 149
+    text: |-
+      Instead of cultivating the land B, it would be possible, by higher cultivation, to make the land A produce more. It
+      might be plowed or harrowed twice instead of once, or three times instead of twice; it might be dug instead of being
+      plowed; after plowing, it might be gone over with a hoe instead of a harrow, and the soil more completely pulverized; it
+      might be oftener or more thoroughly weeded; \[pg 132\] the implements used might be of higher finish, or more elaborate
+      construction; a greater quantity or more expensive kinds of manure might be applied, or, when applied, they might be
+      more carefully mixed and incorporated with the soil.
+  - chunk_index: 6
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 192
+    text: |-
+      The example of market-gardens in the vicinity of great cities and towns shows how the intensive culture permits an
+      increase of labor and capital with larger returns. These lands, by their situation, are superior lands for this
+      particular purpose, although they might be inferior lands as regards absolute productiveness when compared with the rich
+      wheat-lands of Dakota. New England and New Jersey farms, generally speaking, no longer attempt the culture of grains,
+      but (when driven out of that culture by the great railway lines which have opened up the West) they have arranged
+      themselves in a scale of adaptability for stock, grass, fruit, dairy, or vegetable farming; and have thereby given
+      greater profits to their owners than the same land did under the old régime. Even on lands where any grain can still be
+      grown, corn, buckwheat, barley, oats, and rye, cover the cultivated areas instead of wheat.
+  - chunk_index: 7
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 231
+    text: |-
+      Inferior lands, or lands at a greater distance from the market, of course yield an inferior return, and an increasing
+      demand can not be supplied from them unless at an augmentation of cost, and therefore of price. If the additional demand
+      could continue to be supplied from the superior lands, by applying additional labor and capital, at no greater
+      proportional cost than that at which they yield the quantity first demanded of them, the owners or farmers of those
+      lands could undersell all others, and engross the whole market. Lands of a lower degree of fertility or in a more remote
+      situation might indeed be cultivated by their proprietors, for the sake of subsistence or independence; but it never
+      could be the interest of any one to farm them for profit. That a profit can be made from them, sufficient to attract
+      capital to such an investment, is a proof that cultivation on the more eligible lands has reached a point beyond which
+      any greater application of labor and capital would yield, at the best, no greater return than can be obtained at the
+      same expense from less fertile or less favorably situated lands.
+  - chunk_index: 8
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 6
+    text: \[pg 133\]
+  - chunk_index: 9
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 199
+    text: |-
+      “It is long,” says a late traveler in the United States,[^130] “before an English eye becomes reconciled to the
+      lightness of the crops and the careless farming (as we should call it) which is apparent. One forgets that, where land
+      is so plentiful and labor so dear as it is here, a totally different principle must be pursued from that which prevails
+      in populous countries, and that the consequence will of course be a want of tidiness, as it were, and finish, about
+      everything which requires labor.” Of the two causes mentioned, the plentifulness of land seems to me the true
+      explanation, rather than the dearness of labor; for, however dear labor may be, when food is wanted, labor will always
+      be applied to producing it in preference to anything else. But this labor is more effective for its end by being applied
+      to fresh soil than if it were employed in bringing the soil already occupied into higher cultivation.
+  - chunk_index: 10
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 139
+    text: |-
+      The Western movement of what might be called the “wheat-center” is quite perceptible. Until recently Minnesota has been
+      a great wheat-producing State, and vast tracts of land were there planted with that grain when the soil was first
+      broken. The profits on the first few crops have been enormous, but it is now said to be more desirable for wheat-growers
+      to move onward to newer lands, and to sell the land to cultivators of a different class (of fruit and varied products),
+      who produce for a denser population. So that (in 1884) Dakota, instead of Minnesota, has become the district of the
+      greatest wheat production.[^131]
+  - chunk_index: 11
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 81
+    text: |-
+      Only when no soils remain to be broken up, but such as either from distance or inferior quality require a considerable
+      rise of price to render their cultivation profitable, can it become advantageous to apply the high farming of Europe to
+      any American lands; except, perhaps, in the immediate vicinity of towns, where saving in cost of carriage may compensate
+      for great inferiority in the return from the soil itself.
+  - chunk_index: 12
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 6
+    text: \[pg 134\]
+  - chunk_index: 13
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 1. The Law of Production from the Soil, a Law of Diminishing Return in Proportion to the Increased Application of Labor and Capital.
+    content_token_count: 139
+    text: |-
+      The principle which has now been stated must be received, no doubt, with certain explanations and limitations. Even
+      after the land is so highly cultivated that the mere application of additional labor, or of an additional amount of
+      ordinary dressing, would yield no return proportioned to the expense, it may still happen that the application of a much
+      greater additional labor and capital to improving the soil itself, by draining or permanent manures, would be as
+      liberally remunerated by the produce as any portion of the labor and capital already employed. It would sometimes be
+      much more amply remunerated. This could not be, if capital always sought and found the most advantageous employment.
+  - chunk_index: 14
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 2. Antagonist Principle to the Law of Diminishing Return; the Progress of Improvements in Production.
+    content_token_count: 112
+    text: |-
+      That the produce of land increases, cæteris paribus, in a diminishing ratio to the increase in the labor employed, is,
+      as we have said (allowing for occasional and temporary exceptions), the universal law of agricultural industry. This
+      principle, however, has been denied. So much so, indeed, that (it is affirmed) the worst land now in cultivation
+      produces as much food per acre, and even as much to a given amount of labor, as our ancestors contrived to extract from
+      the richest soils in England.
+  - chunk_index: 15
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 2. Antagonist Principle to the Law of Diminishing Return; the Progress of Improvements in Production.
+    content_token_count: 324
+    text: |-
+      The law of diminishing returns is the physical fact upon which the economic doctrine of rent is based, and requires
+      careful attention. Carey asserts, instead, that there is a law of increasing productiveness, since, as men grow in
+      numbers and intelligence, there arises an ability to get more from the soil.[^132] Some objectors even deny that
+      different grades of land are cultivated, and that there is no need of taking inferior soils into cultivation. If this
+      were true, why would not one half an acre of land be as good as a whole State? Johnston[^133] says: “In a country and
+      among poor settlers ... poor land is a relative term. Land is called poor which is not suitable to a poor man, which on
+      mere clearing and burning will not yield good first crops. Thus that which is poor land for a poor man may prove rich
+      land to a rich man.”[^134] Moreover, as is constantly the case in our country, it often happens that a railway may bring
+      new lands into competition with old lands in a given \[pg 135\] market; of which the most conspicuous example is the
+      competition of Western grain-fields with the Eastern farms. In these older districts, before the competition came, there
+      was a given series of grades in the cultivated land; after the railway was built there was a disarrangement of the old
+      series, some going out of cultivation, some remaining, and some of the new lands entering the list. The result is a new
+      series of grades better suited to satisfy the wants of men.
+  - chunk_index: 16
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 2. Antagonist Principle to the Law of Diminishing Return; the Progress of Improvements in Production.
+    content_token_count: 533
+    text: |-
+      This, however, does not prove that the law of which we have been speaking does not exist, but only that there is some
+      antagonizing principle at work, capable for a time of making head against the law. Such an agency there is, in habitual
+      antagonism to the law of diminishing return from land; and to the consideration of this we shall now proceed. It is no
+      other than the progress of civilization. The most obvious \[part of it\] is the progress of agricultural knowledge,
+      skill, and invention. Improved processes of agriculture are of two kinds: (1) some enable the land to yield a greater
+      absolute produce, without an equivalent increase of labor; (2) others have not the power of increasing the produce, but
+      have that of diminishing the labor and expense by which it is obtained. (1.) Among the first are to be reckoned the
+      disuse of fallows, by means of the rotation of crops; and the introduction of new articles of cultivation capable of
+      entering advantageously into the rotation. The change made in agriculture toward the close of the last century, by the
+      introduction of turnip-husbandry, is spoken of as amounting to a revolution. Next in order comes the introduction of new
+      articles of food, containing a greater amount of sustenance, like the potato, or more productive species or varieties of
+      the same plant, such as the Swedish turnip. In the same class of improvements must be placed a better knowledge of the
+      properties of manures, and of the most effectual modes of applying them; the introduction of new and more powerful
+      fertilizing agents, such as guano, and the conversion to the same purpose of substances previously wasted; inventions
+      like subsoil-plowing or tile-draining, by which the produce of some kinds of lands is so greatly multiplied;
+      improvements in the breed or feeding of \[pg 136\] laboring cattle; augmented stock, of the animals which consume and
+      convert into human food what would otherwise be wasted; and the like. (2.) The other sort of improvements, those which
+      diminish labor, but without increasing the capacity of the land to produce, are such as the improved construction of
+      tools; the introduction of new instruments which spare manual labor, as the winnowing and thrashing machines. These
+      improvements do not add to the productiveness of the land, but they are equally calculated with the former to counteract
+      the tendency in the cost of production of agricultural produce, to rise with the progress of population and demand.
+  - chunk_index: 17
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 62
+    text: |-
+      Analogous in effect to this second class of agricultural improvements are improved means of communication. Good roads
+      are equivalent to good tools. It is of no consequence whether the economy of labor takes place in extracting the produce
+      from the soil, or in conveying it to the place where it is to be consumed.
+  - chunk_index: 18
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 332
+    text: |-
+      The functions performed by railways in the system of production is highly important. They are among the most influential
+      causes affecting the cost of producing commodities, particularly those which satisfy the primary wants of man, of which
+      food is the chief. The amount of tonnage carried is enormous; and the cost of this service to the producers and
+      consumers of the United States is a question of very great magnitude. The serious reduction in the cost of
+      transportation on the railways will be a surprise to all who have not followed the matter very closely; the more so,
+      that it has been brought about by natural causes, and independent of legislation. Corn, meat, and dairy products form,
+      it is said, at least 50 per cent, and coal and timber about 30 per cent, of the tonnage moved on all the railways of the
+      United States. If a lowered cost of transportation has come about, it has then cost less to move the main articles of
+      immediate necessity. Had the charge in 1880 remained as high even as it was from 1866 to 1869, the number of tons
+      carried in 1880 would have cost the United States from $500,000,000 to $800,000,000 more than the charge actually made,
+      owing to the reductions by the railways. It seems, however, that this process of reduction culminated about 1879. In
+      order to show the facts of this process, note the changes in the following chart, No. V. The railways of the State of
+      New York are taken, but the same is also true of those of Ohio:
+  - chunk_index: 19
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 6
+    text: \[pg 137\]
+  - chunk_index: 20
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 3
+    text: Chart V.
+  - chunk_index: 21
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 103
+    text: |-
+      Cost of 20 Barrels of Flour, 10 Beef, 10 Pork, 100 Bushels Wheat, 100 Corn, 100 Oats, 100 Pounds Butter, 100 Lard, and
+      100 Fleece Wool, in New York City, at the Average of each Year, Compiled by Months, in Gold; Compared Graphically with
+      the Decrease in the Charge per Ton per Mile, on all the Railroads of the State of New York, during the Same Period.
+  - chunk_index: 22
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 407
+    text: |-
+      | Year. | Price in gold of staple farm products. (Dollars) | Charge for carrying one ton one mile. (Cents) | Decrease in the railroad expenses per ton. (Cents) | Decrease in the profits of the railroads for carrying one ton. (Cents) |
+      | --- | --- | --- | --- | --- |
+      | 1870 | 776.02 | 1.7016 | 1.1471 | .5545 |
+      | 1871 | 735.33 | 1.7005 | 1.1450 | .5555 |
+      | 1872 | 675.92 | 1.6645 | 1.1490 | .5155 |
+      | 1873 | 662.50 | 1.6000 | 1.0864 | .5136 |
+      | 1874 | 748.54 | 1.4480 | .9730 | .4750 |
+      | 1875 | 696.40 | 1.3039 | .9587 | .3452 |
+      | 1876 | 651.74 | 1.1604 | .8561 | .3043 |
+      | 1877 | 751.95 | 1.0590 | .7740 | .2850 |
+      | 1878 | 569.81 | .9994 | .6900 | .3094 |
+      | 1879 | 568.34 | .8082 | .5847 | .2295 |
+      | 1880 | 631.32 | .9220 | .6030 | .3190 |
+      | 1881 | 703.10 | .8390 | .5880 | .2510 |
+      | 1882 | 776.12 | .8170 | .6010 | .2160 |
+      | 1883 | 662.11 | .8990 | .6490 | .2500 |
+  - chunk_index: 23
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 29
+    text: In 1855 the charge per ton per mile was 3.27 cents, as compared with 0.89 in 1883.
+  - chunk_index: 24
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 80
+    text: |-
+      | Tons moved 1 m. in 1883 by railroads of N.Y. | 9,286,216,628 |
+      | --- | --- |
+      | At rate of 1855, would cost | $303,659,283 |
+      | Actual cost in 1883 | 83,464,919 |
+      | Saving to the State | $220,194,364 |
+  - chunk_index: 25
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 6
+    text: \[pg 138\]
+  - chunk_index: 26
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 108
+    text: |-
+      The explanation of this reduced cost is given by Mr. Edward Atkinson[^135] as (1) the competition of water-ways, (2) the
+      competition of one railway with another, and (3) the competition of other countries, which forces our railways to try to
+      lay our staple products down in foreign markets at a price which will warrant continued shipment. Besides these reasons,
+      much ought also (4) to be assigned to the progress of inventions and the reduced cost of steel and all appliances
+      necessary to the railways.
+  - chunk_index: 27
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 162
+    text: |-
+      The large importance of the railways shows itself in an influence on general business prosperity, and as a place for
+      large investments of a rapidly growing capital. The building of railways, however, has been going on, at some times with
+      greater speed than at others. Instead of 33,908 miles of railways at the close of our war, we have now (1884) over
+      120,000 miles. How the additional mileage has been built year by year, with two distinct eras of increased building—one
+      from 1869 to 1873, and another from 1879 to 1884—may be seen by the shorter lines of the subjoined chart, No.
+      [VI](1129008759595750428_30107-h-3.html.xhtml#Chart_VI).
+  - chunk_index: 28
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 155
+    text: |-
+      That speculation has been excited at different times by the opening up of our Western country, there can be no doubt.
+      And if a comparison be made with Chart No. [XVII](1129008759595750428_30107-h-9.html.xhtml#Chart_XVII) ([Book IV, Chap.
+      III](1129008759595750428_30107-h-5.html.xhtml#Book_III_Chapter_III)), which gives the total grain-crops of the United
+      States, it will be seen that since 1879, although our population has increased from 12-½ per cent to 14 per cent, our
+      grain-crops only 5 per cent, yet our railway mileage has increased 40 per cent.
+  - chunk_index: 29
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 122
+    text: |-
+      The extent to which the United States has carried railway-building, as compared with European countries, although we
+      have a very much greater area, is distinctly shown by Chart No.
+      [VII](1129008759595750428_30107-h-3.html.xhtml#Chart_VII). This application of one form of improvement to oppose the law
+      of diminishing returns in the United States has produced extraordinary results, especially when we consider that we are
+      probably not yet using all our best lands, or, in other words, that we have not yet felt the law of diminishing returns
+      in some large districts.
+  - chunk_index: 30
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 3
+    text: Chart VI.
+  - chunk_index: 31
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 26
+    text: Miles of Railroad in Operation on the 1st January in each Year, and the Miles added in the Year Ensuing.
+  - chunk_index: 32
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 305
+    text: |-
+      | Year. | Miles of Railroad. | Miles added. |
+      | --- | --- | --- |
+      | 1865 | 33,908 | 1,177 |
+      | 1866 | 35,085 | 1,716 |
+      | 1867 | 36,801 | 2,449 |
+      | 1868 | 39,250 | 2,979 |
+      | 1869 | 42,229 | 4,615 |
+      | 1870 | 46,844 | 6,070 |
+      | 1871 | 52,914 | 7,379 |
+      | 1872 | 60,293 | 5,878 |
+      | 1873 | 66,171 | 4,107 |
+      | 1874 | 70,278 | 2,105 |
+      | 1875 | 72,383 | 1,713 |
+      | 1876 | 74,096 | 2,712 |
+      | 1877 | 76,808 | 2,281 |
+      | 1878 | 79,089 | 2,687 |
+      | 1879 | 81,776 | 4,721 |
+      | 1880 | 86,497 | 7,048 |
+      | 1881 | 93,545 | 9,789 |
+      | 1882 | 103,334 | 11,591 |
+      | 1883 | 114,925 | 6,618 |
+  - chunk_index: 33
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 3. —In Railways.
+    content_token_count: 98
+    text: |-
+      Railways and canals are virtually a diminution of the cost of production of all things sent to market by them; and
+      literally so of all those the appliances and aids for producing which they serve to transmit. By their means land can be
+      \[pg 140\] cultivated, which would not otherwise have remunerated the cultivators without a rise of price. Improvements
+      in navigation have, with respect to food or materials brought from beyond sea, a corresponding effect.
+  - chunk_index: 34
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 208
+    text: |-
+      From similar considerations, it appears that many purely mechanical improvements, which have, apparently, at least, no
+      peculiar connection with agriculture, nevertheless enable a given amount of food to be obtained with a smaller
+      expenditure of labor. A great improvement in the process of smelting iron would tend to cheapen agricultural implements,
+      diminish the cost of railroads, of wagons and carts, ships, and perhaps buildings, and many other things to which iron
+      is not at present applied, because it is too costly; and would thence diminish the cost of production of food. The same
+      effect would follow from an improvement in those processes of what may be termed manufacture, to which the material of
+      food is subjected after it is separated from the ground. The first application of wind or water power to grind corn
+      tended to cheapen bread as much as a very important discovery in agriculture would have done; and any great improvement
+      in the construction of corn-mills would have, in proportion, a similar influence.
+  - chunk_index: 35
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 81
+    text: |-
+      Those manufacturing improvements which can not be made instrumental to facilitate, in any of its stages, the actual
+      production of food, and therefore do not help to counteract or retard the diminution of the proportional return to labor
+      from the soil, have, however, another effect, which is practically equivalent. What they do not prevent, they yet, in
+      some degree, compensate for.[^136]
+  - chunk_index: 36
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 3
+    text: Chart VII.
+  - chunk_index: 37
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 36
+    text: |-
+      Ratio of Miles of Railroad to the Areas of States and Countries—United States and Europe. The relative proportion is 1
+      Mile Railroad to 4 Square Miles of Area.
+  - chunk_index: 38
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 914
+    text: |-
+      | No. | Name. | Rank in Size. | Relative. |
+      | --- | --- | --- | --- |
+      | 1 | Massachusetts | 67 | 98 |
+      | 2 | Belgium | 62 | 96 |
+      | 3 | England and Wales | 29 | 88 |
+      | 4 | New Jersey | 62 | 81 |
+      | 5 | Connecticut | 68 | 80 |
+      | 6 | Rhode Island | 71 | 65 |
+      | 7 | Ohio | 44 | 60 |
+      | 8 | Illinois | 32 | 59 |
+      | 9 | Pennsylvania | 40 | 55 |
+      | 10 | Delaware | 69 | 53 |
+      | 11 | Indiana | 50 | 52 |
+      | 12 | New Hampshire | 65 | 45 |
+      | 13 | Switzerland | 59 | 44 |
+      | 14 | New York | 39 | 41 |
+      | 15 | Iowa | 33 | 39 |
+      | 16 | German Empire | 4 | 38 |
+      | 17 | Scotland | 52 | 37 |
+      | 18 | Maryland | 63 | 36 |
+      | 19 | Vermont | 64 | 35 |
+      | 20 | Ireland | 51 | 29 |
+      | 21 | Michigan | 31 | 28 |
+      | 22 | France | 5 | 27 |
+      | 23 | Denmark | 60 | 26 |
+      | 24 | Netherlands | 57 | 25 |
+      | 25 | Missouri | 26 | 24 |
+      | 26 | Wisconsin | 34 | 23 |
+      | 27 | Austrian Empire | 3 | 21 |
+      | 28 | Virginia | 45 | 19 |
+      | 29 | Italy | 13 | 18 |
+      | 30 | Georgia | 30 | 17 |
+      | 31 | Kansas | 22 | 16 |
+      | 32 | Kentucky | 46 | 15 |
+      | 33 | South Carolina | 49 | 14 |
+      | 34 | Tennessee | 42 | 14 |
+      | 35 | Minnesota | 21 | 13 |
+      | 36 | Alabama | 36 | 13 |
+      | 37 | West Virginia | 55 | 12 |
+      | 38 | Roumania | 41 | 12 |
+      | 39 | North Carolina | 37 | 12 |
+      | 40 | Maine | 48 | 12 |
+      | 41 | Nebraska | 23 | 10 |
+      | 42 | Mississippi | 38 | 9 |
+      | 43 | Spain | 6 | 9 |
+      | 44 | Portugal | 47 | 9 |
+      | 45 | Sweden | 7 | 9 |
+      | 46 | Arkansas | 35 | 8 |
+      | 47 | Louisiana | 43 | 8 |
+      | 48 | Colorado | 16 | 8 |
+      | 49 | California | 8 | 7 |
+      | 50 | Turkey | 27 | 7 |
+      | 51 | Texas | 2 | 7 |
+      | 52 | Utah | 20 | 6 |
+      | 53 | Florida | 28 | 6 |
+      | 54 | Dakota | 7 | 6 |
+      | 55 | Russia in Europe | 1 | 5 |
+      | 56 | Nevada | 15 | 5 |
+      | 57 | Norway | 11 | 5 |
+      | 58 | Oregon | 18 | 4 |
+      | 59 | Bulgaria | 54 | 4 |
+      | 60 | New Mexico | 12 | 3 |
+      | 61 | Wyoming | 17 | 2 |
+      | 62 | Indian Territory | 25 | 2 |
+      | 63 | Washington | 24 | 1 |
+      | 64 | Arizona | 14 | 1 |
+      | 65 | Idaho | 19 | 1 |
+      | 66 | Greece | 58 | 0 |
+      | 67 | Montana | 10 | 0 |
+      | 68 | Bosnia and Herzegovina | 53 | 0 |
+      | 69 | Servia | 56 | 0 |
+      | 70 | Eastern Roumelia | 61 | 0 |
+      | 71 | Montenegro | 70 | 0 |
+      | 72 | Andorra | 72 | 0 |
+  - chunk_index: 39
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 49
+    text: |-
+      (The United States have substantially one mile of railway to each 540 inhabitants. Europe has one mile to each 3,000
+      inhabitants, if Russia be included; about one mile to each 2,540, exclusive of Russia.)
+  - chunk_index: 40
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 165
+    text: |-
+      The materials of manufactures being all drawn from the land, and many of them from agriculture, which supplies in
+      particular the entire material of clothing, the general law of production from the land, the law of diminishing return,
+      must in the last resort be applicable to manufacturing as well as to agricultural history. As population increases, and
+      \[pg 142\] the power of the land to yield increased produce is strained harder and harder, any additional supply of
+      material, as well as of food, must be obtained by a more than proportionally increasing expenditure of labor. But the
+      cost of the material forming generally a very small portion of the entire cost of the manufacture, the agricultural
+      labor concerned in the production of manufactured goods is but a small fraction of the whole labor worked up in the
+      commodity.
+  - chunk_index: 41
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 33
+    text: |-
+      Mr. Babbage[^137] gives an interesting illustration of this principle. Bar-iron of the value of £1 became worth, when
+      manufactured into—
+  - chunk_index: 42
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 101
+    text: |-
+      |  | £ |
+      | --- | --- |
+      | Slit-iron, for nails | 1.10 |
+      | Natural steel | 1.42 |
+      | Horseshoes | 2.55 |
+      | Gun-barrels, ordinary | 9.10 |
+      | Wood-saws | 14.28 |
+      | Scissors, best | 446.94 |
+      | Penknife-blades | 657.14 |
+      | Sword-handles, polished steel | 972.82 |
+  - chunk_index: 43
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 58
+    text: |-
+      It can not, however, be said of such manufactures as coarse cotton cloth, wherein the increased cost of raw cotton
+      causes an immediate effect upon the price of the cloth, that the cost of the materials forms but a small portion of the
+      cost of the manufacture.[^138]
+  - chunk_index: 44
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 211
+    text: |-
+      All the labor \[not engaged in preparing materials\] tends constantly and strongly toward diminution, as the amount of
+      production increases. Manufactures are vastly more susceptible than agriculture of mechanical improvements and
+      contrivances for saving labor. In manufactures, accordingly, the causes tending to increase the productiveness of
+      industry preponderate greatly over the one cause which tends to diminish it; and the increase of production, called
+      forth by the progress of society, takes place, not at an increasing, but at a continually diminishing proportional cost.
+      This fact has manifested itself in the progressive fall of the prices and values of almost every kind of manufactured
+      goods during two centuries past; a fall accelerated by the mechanical inventions of the last seventy or eighty years,
+      and susceptible \[pg 143\] of being prolonged and extended beyond any limit which it would be safe to specify. The
+      benefit might even extend to the poorest class. The increased cheapness of clothing and lodging might make up to them
+      for the augmented cost of their food.
+  - chunk_index: 45
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 4. —In Manufactures.
+    content_token_count: 205
+    text: |-
+      There is, thus, no possible improvement in the arts of production which does not in one or another mode exercise an
+      antagonistic influence to the law of diminishing return to agricultural labor. Nor is it only industrial improvements
+      which have this effect. Improvements in government, and almost every kind of moral and social advancement, operate in
+      the same manner. We may say the same of improvements in education. The intelligence of the workman is a most important
+      element in the productiveness of labor. The carefulness, economy, and general trustworthiness of laborers are as
+      important as their intelligence. Friendly relations and a community of interest and feeling between laborers and
+      employers are eminently so. In the rich and idle classes, increased mental energy, more solid instruction, and stronger
+      feelings of conscience, public spirit, or philanthropy, would qualify them to originate and promote the most valuable
+      improvements, both in the economical resources of their country and in its institutions and customs.
+  - chunk_index: 46
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 60
+    text: |-
+      We must observe that what we have said of agriculture is true, with little variation, of the other occupations which it
+      represents; of all the arts which extract materials from the globe. Mining industry, for example, usually yields an
+      increase of produce at a more than proportional increase of expense.
+  - chunk_index: 47
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 247
+    text: |-
+      It does worse, for even its customary annual produce requires to be extracted by a greater and greater expenditure of
+      labor and capital. As a mine does not reproduce the coal or ore taken from it, not only are all mines at last exhausted,
+      but even when they as yet show no signs of exhaustion they must be worked at a continually increasing cost; shafts must
+      be sunk deeper, galleries driven farther, greater power applied to keep them clear of water; the produce must be \[pg
+      144\] lifted from a greater depth, or conveyed a greater distance. The law of diminishing return applies therefore to
+      mining in a still more unqualified sense than to agriculture; but the antagonizing agency, that of improvements in
+      production, also applies in a still greater degree. Mining operations are more susceptible of mechanical improvements
+      than agricultural: the first great application of the steam-engine was to mining; and there are unlimited possibilities
+      of improvement in the chemical processes by which the metals are extracted. There is another contingency, of no
+      unfrequent occurrence, which avails to counterbalance the progress of all existing mines toward exhaustion: this is, the
+      discovery of new ones, equal or superior in richness.
+  - chunk_index: 48
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 187
+    text: |-
+      Professor Jevons has applied this economic law to the industrial situation of England.[^139] While explaining that the
+      supply of cheap coal is the basis of English manufacturing prosperity, yet he insists that, if the demand for coal is
+      constantly increasing, the point must inevitably be reached in the future when the increased supply can be obtained only
+      at a higher cost. When coal costs England as much as it does any other nation, then her exclusive industrial advantage
+      will cease to exist. In the United States the outlying iron deposits of Lake Superior, Lake Champlain, and Pennsylvania,
+      so geologists tell us, will find competition arising from the new grades of greater productiveness in the richer
+      deposits of States like Alabama. In that case we shall be going from poorer to better grades of iron-mines, but after
+      the change is made a series of different grades of productiveness will be established as before.
+  - chunk_index: 49
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 96
+    text: |-
+      To resume: all natural agents which are limited in quantity are not only limited in their ultimate productive power,
+      but, long before that power is stretched to the utmost, they yield to any additional demands on progressively harder
+      terms. This law may, however, be suspended, or temporarily controlled, by whatever adds to the general power of mankind
+      over nature, and especially by any extension of their knowledge, and their consequent command, of the properties and
+      powers of natural agents.
+  - chunk_index: 50
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 6
+    text: \[pg 145\]
+  - chunk_index: 51
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 3
+    text: '* * *'
+  - chunk_index: 52
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 46
+    text: '[^130]: “Letters from America,” by John Robert Godley, vol. i. p. 42. See also Lyell''s “Travels in America,” vol. ii, p. 83.—Mill.'
+  - chunk_index: 53
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 27
+    text: '[^131]: Cf. “American Agriculture,” “Princeton Review,” May, 1882, by F. A. Walker.'
+  - chunk_index: 54
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 16
+    text: '[^132]: “Social Science,” vol. iii, p. 19.'
+  - chunk_index: 55
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 25
+    text: '[^133]: “Notes on North America,” 1851, vol. ii, pp. 116, 117.'
+  - chunk_index: 56
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 17
+    text: '[^134]: See also Cairnes, “Logical Method,” p. 35.'
+  - chunk_index: 57
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 99
+    text: '[^135]: I am indebted to Mr. Atkinson for advanced proofs of the annexed charts. See his paper in the “Journal of the American Agricultural Association,” vol. i, Nos. 3 and 4, p. 154, and a later discussion in the supplement of the Boston “Manufacturers'' Gazette,” August 9, 1884, entitled “The Railway, the Farmer, and the Public.” His figures are drawn mainly from Poor''s “Railway Manual.”'
+  - chunk_index: 58
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 35
+    text: '[^136]: Cf. [Book IV, Chap. I](1129008759595750428_30107-h-9.html.xhtml#Book_IV_Chapter_I).'
+  - chunk_index: 59
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 18
+    text: '[^137]: “Economy of Manufactures,” pp. 163, 164.'
+  - chunk_index: 60
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 43
+    text: '[^138]: Cf. [Book IV, Chap. I, § 4](1129008759595750428_30107-h-9.html.xhtml#Book_IV_Chapter_I_Section_4).'
+  - chunk_index: 61
+    heading_path: Principles of Political Economy / Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy > Book I. Production. > Chapter IX. Of The Law Of The Increase Of Production From Land. > § 5. Law Holds True of Mining.
+    content_token_count: 12
+    text: '[^139]: “The Coal Question” (1866).'
