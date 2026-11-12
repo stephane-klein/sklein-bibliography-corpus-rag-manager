@@ -31,7 +31,17 @@ if (!user) {
     process.exit(1);
 }
 
-const token = await createApiToken(user.id, argv.name, argv["expires-in-days"] || null);
+let token;
+try {
+    token = await createApiToken(user.id, argv.name, argv["expires-in-days"] || null);
+} catch (err) {
+    if (err.code === "23505") {
+        logger.error({ email: argv.email, name: argv.name }, "A token with this name already exists for this user");
+        await sql.end();
+        process.exit(1);
+    }
+    throw err;
+}
 
 logger.info({ name: argv.name }, "API token created");
 console.log("\nRaw token (shown once — store it safely):");

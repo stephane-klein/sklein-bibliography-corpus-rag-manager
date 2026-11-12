@@ -13,7 +13,7 @@ export const actions = {
         if (!user) return fail(401);
 
         const data = await request.formData();
-        const name = data.get("name");
+        const name = data.get("name")?.trim();
         const expiresInDaysRaw = data.get("expiresInDays");
 
         if (!name) {
@@ -25,9 +25,17 @@ export const actions = {
         }
 
         const expiresInDays = expiresInDaysRaw ? Number(expiresInDaysRaw) : null;
-        const token = await createApiToken(user.id, name, expiresInDays);
 
-        return { created: true, raw: token.raw, name: token.name };
+        try {
+            const token = await createApiToken(user.id, name, expiresInDays);
+
+            return { created: true, raw: token.raw, name: token.name };
+        } catch (err) {
+            // The unique index on (user_id, name) also protects against two
+            // concurrent submissions.
+            if (err.code === "23505") return fail(409, { errorKey: "name_taken" });
+            throw err;
+        }
     },
 
     delete: async ({ request, locals }) => {

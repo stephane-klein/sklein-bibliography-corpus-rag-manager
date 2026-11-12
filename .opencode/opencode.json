@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "bibliography-corpus": {
+        "type": "remote",
+        "url": "http://localhost:5173/mcp/readonly/",
+        "headers": {
+          "Authorization": "Bearer REPLACE_ME_ALICE_MCP_TOKEN_32_CHARS_MIN"
+        },
+        "disabled": true
+      }
+    }
+  }
+}

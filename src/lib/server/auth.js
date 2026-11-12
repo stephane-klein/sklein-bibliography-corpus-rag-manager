@@ -73,7 +73,7 @@ export async function invalidateAllUserSessions(userId) {
     await sql`DELETE FROM sessions WHERE user_id = ${userId}`;
 }
 
-async function hashToken(token) {
+export async function hashToken(token) {
     const encoder = new TextEncoder();
     const data = encoder.encode(token);
     const hashBuffer = await crypto.subtle.digest("SHA-256", data);
@@ -81,9 +81,13 @@ async function hashToken(token) {
     return hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
 }
 
+export function generateApiTokenSecret() {
+    return nanoid(48);
+}
+
 export async function createApiToken(userId, name, expiresInDays = null) {
     const id = generateId();
-    const raw = nanoid(48);
+    const raw = generateApiTokenSecret();
     const tokenHash = await hashToken(raw);
     const expiresAt = expiresInDays ? new Date(now().getTime() + expiresInDays * 24 * 3600 * 1000) : null;
 

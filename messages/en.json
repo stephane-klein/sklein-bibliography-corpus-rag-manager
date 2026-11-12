@@ -211,6 +211,7 @@
   "my_tokens_name_label": "Token name",
   "my_tokens_name_placeholder": "e.g. CI/CD deployment",
   "my_tokens_name_required": "Token name is required.",
+  "my_tokens_name_taken": "A token with this name already exists.",
   "my_tokens_expiration_label": "Expiration (days)",
   "my_tokens_expiration_placeholder": "Leave empty for no expiration",
   "my_tokens_expiration_error": "Expiration must be a positive number of days.",

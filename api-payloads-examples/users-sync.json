@@ -3,7 +3,16 @@
     {
       "email": "alice@example.com",
       "display_name": "Alice Admin",
-      "password": "password123"
+      "password": "password123",
+      "tokens": {
+        "upsert": [
+          {
+            "name": "mcp-readonly",
+            "token": "REPLACE_ME_ALICE_MCP_TOKEN_32_CHARS_MIN",
+            "expires_at": "2027-06-01T00:00:00Z"
+          }
+        ]
+      }
     },
     {
       "email": "bob@example.com",

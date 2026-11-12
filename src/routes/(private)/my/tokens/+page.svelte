@@ -9,6 +9,7 @@
 
     function errorMessage(key) {
         if (key === "name_required") return m.my_tokens_name_required();
+        if (key === "name_taken") return m.my_tokens_name_taken();
         if (key === "expiration_invalid") return m.my_tokens_expiration_error();
         return key;
     }

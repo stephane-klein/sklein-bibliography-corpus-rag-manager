@@ -215,7 +215,7 @@ curl -s -X POST http://localhost:5173/api/v1/admin/send-test-mail \
 """
 
 [tasks.sync-users]
-description = "Sync users via PUT /api/v1/admin/users/sync using api-payloads-examples/users-sync.json"
+description = "Sync users and API tokens via PUT /api/v1/admin/users/sync using api-payloads-examples/users-sync.json"
 run = """
 curl -fsS -X PUT http://localhost:5173/api/v1/admin/users/sync \
   -H "Authorization: Bearer ${SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN}" \

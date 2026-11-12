@@ -211,6 +211,7 @@
   "my_tokens_name_label": "Nom du jeton",
   "my_tokens_name_placeholder": "ex. Déploiement CI/CD",
   "my_tokens_name_required": "Le nom du jeton est requis.",
+  "my_tokens_name_taken": "Un jeton portant ce nom existe déjà.",
   "my_tokens_expiration_label": "Expiration (jours)",
   "my_tokens_expiration_placeholder": "Laisser vide pour aucune expiration",
   "my_tokens_expiration_error": "L'expiration doit être un nombre de jours positif.",

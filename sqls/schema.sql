@@ -185,6 +185,7 @@ CREATE TABLE api_tokens (
 );
 
 CREATE INDEX idx_api_tokens_user_id ON api_tokens (user_id);
+CREATE UNIQUE INDEX idx_api_tokens_user_id_name ON api_tokens (user_id, name);
 
 -- Audit log for MCP read-only tool calls. See 00016_mcp_access_log.sql for the
 -- meaning of the embedding_* and vectorize_* columns.
