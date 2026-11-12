@@ -193,10 +193,10 @@ internationalization.
 **Whenever you create or modify a page/component with user-facing text:**
 
 1. Add all new keys to `messages/en.json` (English source) and `messages/fr.json`
-    (French translation)
+   (French translation)
 2. Replace hardcoded strings with `{m.key_name()}` calls
 3. Run `pnpm build` to regenerate the compiled message functions in
-    `src/lib/paraglide/`
+   `src/lib/paraglide/`
 
 Key naming convention: use prefix per page/section (e.g., `login_title`,
 `login_email_label`, `dashboard_welcome`).
