@@ -63,9 +63,11 @@ export async function createMcpReadonlyServer({ context }) {
                     "about the corpus and find passages by BM25 or semantic similarity.\n" +
                     `Available tables:\n${schema}\n` +
                     "Semantics and tips:\n" +
-                    "  - hierarchical_content_nodes has one row per Markdown document: nanoid, slug, title,\n" +
-                    "    authors (text[]), source_url, original_published_date (YYYY[-MM[-DD]] text), content,\n" +
-                    "    metadata, markdown_source_file.\n" +
+                    "  - hierarchical_content_nodes has one row per content node: a work or part (no\n" +
+                    "    markdown_source_file, empty content) or a Markdown-backed section. Columns include\n" +
+                    "    nanoid, slug, parent_id, depth, position, title, authors (text[]), source_url,\n" +
+                    "    source_kind, language ('fr' or 'en'), content, content_fr, content_en, metadata,\n" +
+                    "    markdown_source_file (nullable).\n" +
                     "  - content_chunks has one row per paragraph: content_node_id, chunk_index, heading_path,\n" +
                     "    content, embedding, embedding_model, embedding_dimension, embedding_strategy,\n" +
                     "    embedding_input_format, embedding_input_type.\n" +
@@ -74,8 +76,10 @@ export async function createMcpReadonlyServer({ context }) {
                     "  - When reading passages, filter on content_node_id and chunk_index from\n" +
                     "    semanticSearch. Do not select every chunk of a document; large reads are\n" +
                     "    truncated and trigger a warning.\n" +
-                    "  - BM25 search: WHERE content @@@ pdb.parse('terms', lenient => true); rank with\n" +
-                    "    ORDER BY pdb.score(id) DESC.\n" +
+                    "  - BM25 on nodes: WHERE (content_fr @@@ pdb.parse('terms', lenient => true)\n" +
+                    "    OR content_en @@@ pdb.parse('terms', lenient => true)). content_fr holds French\n" +
+                    "    content, content_en English content; rank with ORDER BY pdb.score(id) DESC.\n" +
+                    "  - BM25 on content_chunks still uses the single content column.\n" +
                     embeddingTips(embeddingInfo) +
                     "  - Only one SELECT, WITH ... SELECT or EXPLAIN SELECT statement is allowed per call.\n" +
                     "  - Use purpose to say why the query is run; it is recorded in the access log.\n" +
@@ -513,11 +517,13 @@ function vectorSearchSection(info) {
         return (
             "Vector search:\n" +
             "  - vectorize() is unavailable until the embedding provider is configured.\n" +
-            "  - Use BM25 instead: WHERE content @@@ pdb.parse('terms', lenient => true).\n" +
+            "  - Use BM25 instead: WHERE (n.content_fr @@@ pdb.parse('terms', lenient => true)\n" +
+            "    OR n.content_en @@@ pdb.parse('terms', lenient => true)).\n" +
             "Example (BM25):\n" +
             "  SELECT n.nanoid, n.title, left(n.content, 500) AS excerpt\n" +
             "    FROM hierarchical_content_nodes n\n" +
-            "   WHERE n.content @@@ pdb.parse('condorcet', lenient => true)\n" +
+            "   WHERE (n.content_fr @@@ pdb.parse('condorcet', lenient => true)\n" +
+            "          OR n.content_en @@@ pdb.parse('condorcet', lenient => true))\n" +
             "   ORDER BY pdb.score(n.id) DESC\n" +
             "   LIMIT 10;"
         );

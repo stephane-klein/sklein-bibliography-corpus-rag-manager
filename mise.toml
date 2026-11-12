@@ -59,8 +59,8 @@ run = "node src/migrate.js"
 [tasks.seed]
 run = "node src/seed.js"
 
-[tasks.import-contents]
-description = "Import Markdown documents and their chunk embeddings from contents/"
+[tasks.import-single-documents]
+description = "Import single-document Markdown texts and their chunk embeddings from contents/single-document-texts"
 usage = '''
 arg "[path]" help="Markdown file or directory to import" default="contents/single-document-texts"
 flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
@@ -69,7 +69,17 @@ flag "--prune" help="Delete rows whose source file no longer exists (directories
 flag "--skip-embeddings" help="Import documents only, without their chunk embeddings"
 flag "--require-embeddings" help="Fail when a document has no embedding sidecar"
 '''
-run = './scripts/import-contents.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}{% if usage.skip_embeddings %} --skip-embeddings{% endif %}{% if usage.require_embeddings %} --require-embeddings{% endif %}'
+run = './scripts/import-single-documents.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}{% if usage.skip_embeddings %} --skip-embeddings{% endif %}{% if usage.require_embeddings %} --require-embeddings{% endif %}'
+
+[tasks.import-books]
+description = "Import books from contents/books, with their work, part and chapter hierarchy"
+usage = '''
+arg "[path]" help="Book directory or parent directory" default="contents/books"
+flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
+flag "--dry-run" help="Report changes without writing to the database"
+flag "--prune" help="Delete book nodes no longer present in the imported tree"
+'''
+run = './scripts/import-books.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}'
 
 [tasks.generate-sidecars]
 description = "Generate one .md.yaml sidecar per Markdown document in contents/single-document-texts"

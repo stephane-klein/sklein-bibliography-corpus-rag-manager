@@ -12,38 +12,71 @@ CREATE EXTENSION IF NOT EXISTS unaccent;
 CREATE DOMAIN nanoid AS TEXT
     CONSTRAINT nanoid_format CHECK (VALUE ~ '^[0-9a-z]{10}$');
 
--- Flat content nodes imported from contents/. One row per Markdown file.
--- Hierarchy columns (parent_id, level) will be added with the books import.
--- markdown_source_file is relative to contents/; metadata stores the frontmatter.
+-- Content tree imported from contents/. A row is either:
+--   - a work or a part without its own Markdown file (container node:
+--     markdown_source_file IS NULL, content = '');
+--   - a section backed by a Markdown file (chapter, preface, ...).
+-- parent_id links a node to its parent, depth is the tree depth (0 = work)
+-- and position orders siblings. level is reserved for the future summary
+-- abstraction levels and is not stored yet.
+-- markdown_source_file is relative to contents/; metadata stores the
+-- frontmatter and the breadcrumb used by search results.
 CREATE TABLE hierarchical_content_nodes (
     id                                        SERIAL PRIMARY KEY,
     created_at                                TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at                                TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     nanoid                                    nanoid NOT NULL UNIQUE DEFAULT generate_nanoid(10),
     slug                                      TEXT NOT NULL UNIQUE,
+    parent_id                                 INTEGER
+        REFERENCES hierarchical_content_nodes(id) ON DELETE CASCADE,
+    depth                                     INTEGER NOT NULL DEFAULT 0 CHECK (depth >= 0),
+    position                                  INTEGER NOT NULL DEFAULT 0 CHECK (position >= 0),
     title                                     TEXT NOT NULL,
-    content                                   TEXT NOT NULL,
+    content                                   TEXT NOT NULL DEFAULT '',
     source_url                                TEXT,
+    source_kind                               TEXT
+        CHECK (source_kind IS NULL OR source_kind IN ('epub', 'web', 'video', 'pdf')),
+    language                                  TEXT NOT NULL DEFAULT 'fr'
+        CHECK (language IN ('fr', 'en')),
+    content_fr                                TEXT
+        GENERATED ALWAYS AS (CASE WHEN language = 'fr' THEN content END) STORED,
+    content_en                                TEXT
+        GENERATED ALWAYS AS (CASE WHEN language = 'en' THEN content END) STORED,
     authors                                   TEXT[] NOT NULL DEFAULT '{}',
     original_published_date                   TEXT
         CHECK (original_published_date ~ '^[0-9]{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12][0-9]|3[01]))?)?$'),
-    markdown_source_file                      TEXT NOT NULL UNIQUE,
-    markdown_source_file_hash                 TEXT NOT NULL,
+    markdown_source_file                      TEXT UNIQUE,
+    markdown_source_file_hash                 TEXT,
     markdown_source_file_estimate_token_count INTEGER NOT NULL
         CHECK (markdown_source_file_estimate_token_count >= 0),
-    metadata                                  JSONB NOT NULL DEFAULT '{}'::jsonb
+    metadata                                  JSONB NOT NULL DEFAULT '{}'::jsonb,
+    CONSTRAINT hierarchical_content_nodes_file_consistency CHECK (
+        (markdown_source_file IS NULL AND markdown_source_file_hash IS NULL)
+        OR
+        (markdown_source_file IS NOT NULL AND markdown_source_file_hash IS NOT NULL)
+    ),
+    CONSTRAINT hierarchical_content_nodes_container_empty_content CHECK (
+        markdown_source_file IS NOT NULL OR content = ''
+    )
 );
 
 CREATE INDEX idx_hierarchical_content_nodes_original_published_date
     ON hierarchical_content_nodes (original_published_date DESC NULLS LAST, id DESC);
 
+CREATE INDEX idx_hierarchical_content_nodes_parent_position
+    ON hierarchical_content_nodes (parent_id, position);
+
 -- PostgreSQL maintains this index transactionally on every INSERT, UPDATE and
 -- DELETE. No application code is required in the sync endpoint.
+-- One ParadeDB index per table, one stemmer per field. content stays the
+-- source of truth; content_fr and content_en are the two generated fields
+-- the index actually tokenizes.
 CREATE INDEX idx_hierarchical_content_nodes_bm25
     ON hierarchical_content_nodes
     USING paradedb (
         id,
-        (content::pdb.simple('stemmer=french', 'ascii_folding=true')),
+        (content_fr::pdb.simple('stemmer=french', 'ascii_folding=true')),
+        (content_en::pdb.simple('stemmer=english', 'ascii_folding=true')),
         (authors::pdb.literal),
         (original_published_date::pdb.literal),
         created_at,

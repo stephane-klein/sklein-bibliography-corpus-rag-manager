@@ -154,7 +154,7 @@ async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corp
         sql`
             SELECT id, nanoid, title, authors, original_published_date, source_url
               FROM hierarchical_content_nodes
-              ${whereClause([sql`content @@@ pdb.parse(${q}, lenient => true)`, ...filterConditions])}
+              ${whereClause([bm25Condition(q), ...filterConditions])}
              ORDER BY pdb.score(id) DESC, id ASC
              LIMIT ${CANDIDATE_LIMIT}
         `,
@@ -244,7 +244,7 @@ async function bm25Search({
     semanticMeta = null,
     diagnostics = null,
 }) {
-    const matchConditions = [sql`content @@@ pdb.parse(${q}, lenient => true)`, ...filterConditions];
+    const matchConditions = [bm25Condition(q), ...filterConditions];
     const [{ total }] = await sql`
         SELECT count(*)::int AS total
           FROM hierarchical_content_nodes
@@ -260,18 +260,29 @@ async function bm25Search({
                    original_published_date,
                    source_url,
                    pdb.snippets(
-                       content,
+                       content_fr,
                        max_num_chars => 200,
                        start_tag => '<mark>',
                        end_tag => '</mark>',
                        "limit" => 3
-                   ) AS snippets
+                   ) AS snippets_fr,
+                   pdb.snippets(
+                       content_en,
+                       max_num_chars => 200,
+                       start_tag => '<mark>',
+                       end_tag => '</mark>',
+                       "limit" => 3
+                   ) AS snippets_en
               FROM hierarchical_content_nodes
               ${whereClause(matchConditions)}
              ORDER BY pdb.score(id) DESC, id ASC
              LIMIT ${pageSize} OFFSET ${offset}
         `
-    ).map((document, index) => ({ ...document, bm25Rank: offset + index + 1 }));
+    ).map(({ snippets_fr, snippets_en, ...document }, index) => ({
+        ...document,
+        snippets: [...(snippets_fr ?? []), ...(snippets_en ?? [])],
+        bm25Rank: offset + index + 1,
+    }));
 
     return {
         documents,
@@ -373,17 +384,24 @@ async function attachSnippets(documents, q) {
     const rows = await sql`
         SELECT id,
                pdb.snippets(
-                   content,
+                   content_fr,
                    max_num_chars => 200,
                    start_tag => '<mark>',
                    end_tag => '</mark>',
                    "limit" => 3
-               ) AS snippets
+               ) AS snippets_fr,
+               pdb.snippets(
+                   content_en,
+                   max_num_chars => 200,
+                   start_tag => '<mark>',
+                   end_tag => '</mark>',
+                   "limit" => 3
+               ) AS snippets_en
           FROM hierarchical_content_nodes
          WHERE id IN ${sql(ids)}
-           AND content @@@ pdb.parse(${q}, lenient => true)
+           AND ${bm25Condition(q)}
     `;
-    const snippetsById = new Map(rows.map((row) => [row.id, row.snippets]));
+    const snippetsById = new Map(rows.map((row) => [row.id, [...(row.snippets_fr ?? []), ...(row.snippets_en ?? [])]]));
 
     return documents.map((document) => ({
         ...document,
@@ -434,6 +452,13 @@ function ilikeCondition(column, word) {
 
 function escapeLike(word) {
     return word.replace(/[\\%_]/g, "\\$&");
+}
+
+// pg_search allows one ParadeDB index per table, so the French and English
+// fields share the same index and each keeps its own stemmer. Search both by
+// default; a language filter can narrow this later.
+function bm25Condition(q) {
+    return sql`(content_fr @@@ pdb.parse(${q}, lenient => true) OR content_en @@@ pdb.parse(${q}, lenient => true))`;
 }
 
 function whereClause(conditions) {

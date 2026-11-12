@@ -50,21 +50,31 @@ emails it sends: run `pitchfork proxy status` to get its URL.
 
 ### Importing corpus contents
 
-`mise run import-contents` loads the Markdown files into
+`mise run import-single-documents` loads standalone Markdown files into
 `hierarchical_content_nodes` and, when a `.md.yaml` sidecar and its
 `.md.embeddings.bin` exist, imports the chunks into `content_chunks`. The task
 accepts a directory or a single Markdown file:
 
 ```bash
-$ mise run import-contents
-$ mise run import-contents contents/single-document-texts/mr-phi
-$ mise run import-contents contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md
-$ mise run import-contents contents/single-document-texts/mr-phi --dry-run
+$ mise run import-single-documents
+$ mise run import-single-documents contents/single-document-texts/mr-phi
+$ mise run import-single-documents contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md
+$ mise run import-single-documents contents/single-document-texts/mr-phi --dry-run
 ```
 
-The webapp must be running with the `content_chunks` migration applied. The CLI
-sends each document to `PUT /api/v1/admin/hierarchical-content-nodes/sync`, then
-its chunks to `PUT /api/v1/admin/hierarchical-content-chunks/sync`.
+`mise run import-books` imports the books under `contents/books/`. It reads
+each book's `config.yaml` (slug, bibliography, excluded files) and `toc.yaml`,
+builds the work/part/chapter tree, and sends it to the same sync endpoint. The
+book import does not import chunks or embeddings yet:
+
+```bash
+$ mise run import-books
+$ mise run import-books contents/books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier --dry-run
+```
+
+The webapp must be running with the migrations applied. The CLI sends each
+document to `PUT /api/v1/admin/hierarchical-content-nodes/sync`, then its chunks
+to `PUT /api/v1/admin/hierarchical-content-chunks/sync`.
 
 `--prune` removes rows whose source file no longer exists. It only works with a
 directory. `--skip-embeddings` imports documents only. `--require-embeddings`

@@ -372,7 +372,7 @@ export function GET() {
                 put: {
                     summary: "Upsert or prune content nodes (admin, idempotent)",
                     description:
-                        "Upserts Markdown content nodes by markdown_source_file and optionally deletes rows under a scope that are not listed in prune.keep. The CLI sends one document per request, then a prune-only request.",
+                        "Upserts content nodes by slug and optionally deletes rows under a markdown path scope (prune.scope/prune.keep) or a slug scope (prune.scope_slug/prune.keep_slugs). Book imports send the whole tree, parent first, then prune its slug subtree. Structural nodes (work, part) have no markdown_source_file, an empty content and no hash.",
                     security: [{ adminBearer: [] }],
                     requestBody: {
                         required: true,
@@ -673,8 +673,9 @@ export function GET() {
                         },
                         markdown_source_file: {
                             type: "string",
+                            nullable: true,
                             example:
-                                "single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md",
+                                "books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier/markdown/4-book-i-of-the-causes-of-improvement-in-the-productive-powers-of-labour-and-of-the-order-according/01-chap-i-of-the-division-of-labour.md",
                         },
                         action: {
                             type: "string",
@@ -699,8 +700,21 @@ export function GET() {
                             type: "array",
                             items: { type: "string" },
                         },
+                        deleted_slugs: {
+                            type: "array",
+                            items: { type: "string" },
+                        },
                     },
-                    required: ["dry_run", "inserted", "updated", "unchanged", "deleted", "items", "deleted_paths"],
+                    required: [
+                        "dry_run",
+                        "inserted",
+                        "updated",
+                        "unchanged",
+                        "deleted",
+                        "items",
+                        "deleted_paths",
+                        "deleted_slugs",
+                    ],
                 },
                 ContentNodeReindexResult: {
                     type: "object",

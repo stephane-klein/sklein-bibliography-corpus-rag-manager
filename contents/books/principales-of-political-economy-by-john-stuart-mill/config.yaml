@@ -1,1 +1,13 @@
 max_split_depth: 2
+slug: principles-of-political-economy
+bibliography:
+  authors:
+    - John Stuart Mill
+  contributors:
+    - J. Laurence Laughlin
+  original_published_date: "1848"
+  edition_date: "2009-09-27"
+  language: en
+  source_kind: epub
+exclude:
+  - 01-contents.md

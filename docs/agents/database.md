@@ -64,7 +64,11 @@ only when a write is intended.
 
 ## Schema overview
 
-- `hierarchical_content_nodes` — one row per Markdown document.
+- `hierarchical_content_nodes` — one row per content node: a work or part
+  without a Markdown file, or a Markdown-backed section. `parent_id`, `depth`
+  and `position` describe the tree. `content` is the source of truth;
+  `content_fr` and `content_en` are generated fields used by the single BM25
+  index (French and English stemmers).
 - `content_chunks` — one row per paragraph, with `embedding vector(1024)`.
 - `content_chunks.content_node_id` references `hierarchical_content_nodes.id`.
 - `sqls/schema.sql` is the consolidated schema; `sqls/migrations/` is the
@@ -75,6 +79,10 @@ Useful queries:
 ```sql
 SELECT count(*) FROM hierarchical_content_nodes;
 SELECT id, slug, title FROM hierarchical_content_nodes ORDER BY id DESC LIMIT 10;
+SELECT slug, depth, position, parent_id, title
+  FROM hierarchical_content_nodes
+ ORDER BY depth, position
+ LIMIT 20;
 SELECT count(*) FROM content_chunks WHERE embedding IS NOT NULL;
 ```
 

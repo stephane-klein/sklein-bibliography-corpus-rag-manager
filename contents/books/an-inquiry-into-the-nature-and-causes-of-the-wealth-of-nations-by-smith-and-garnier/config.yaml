@@ -1,1 +1,13 @@
 max_split_depth: 2
+slug: wealth-of-nations
+bibliography:
+  authors:
+    - Adam Smith
+  contributors:
+    - M. Garnier
+  original_published_date: "1776"
+  edition_date: "2011-12-03"
+  language: en
+  source_kind: epub
+exclude:
+  - 9-index.md

@@ -9,9 +9,11 @@ import {
     number,
     object,
     optional,
+    picklist,
     pipe,
     record,
     string,
+    union,
     unknown,
 } from "valibot";
 
@@ -64,26 +66,56 @@ const partialIsoDate = pipe(
     ),
 );
 
-export const contentNodeUpsertSchema = object({
+const sha256Hash = pipe(
+    string(),
+    check((value) => /^sha256:[0-9a-f]{64}$/.test(value), "must use the sha256:<64 hex> format"),
+);
+
+const sourceKind = picklist(["epub", "web", "video", "pdf"]);
+const language = picklist(["fr", "en"]);
+
+const contentNodeUpsertObject = object({
     slug: relativeSlug,
+    parent_slug: optional(nullable(relativeSlug)),
+    depth: optional(pipe(number(), integer(), minValue(0))),
+    position: optional(pipe(number(), integer(), minValue(0))),
     title: pipe(string(), minLength(1)),
-    content: pipe(string(), minLength(1)),
+    content: string(),
     source_url: optional(nullable(httpUrl)),
+    source_kind: optional(nullable(sourceKind)),
+    language: optional(language),
     authors: optional(array(pipe(string(), minLength(1)))),
     original_published_date: optional(nullable(partialIsoDate)),
-    markdown_source_file: relativeMarkdownPath(),
-    markdown_source_file_hash: pipe(
-        string(),
-        check((value) => /^sha256:[0-9a-f]{64}$/.test(value), "must use the sha256:<64 hex> format"),
-    ),
-    markdown_source_file_estimate_token_count: pipe(number(), integer(), minValue(0)),
+    markdown_source_file: optional(nullable(relativeMarkdownPath())),
+    markdown_source_file_hash: optional(nullable(sha256Hash)),
+    markdown_source_file_estimate_token_count: optional(pipe(number(), integer(), minValue(0))),
     metadata: optional(record(string(), unknown())),
 });
 
-export const contentNodePruneSchema = object({
+// A structural node (work, part) has no Markdown file and no hash: its content
+// is empty. A file-backed node has both. Keeping the rule here means the sync
+// endpoint and the OpenAPI schema share the same validation.
+export const contentNodeUpsertSchema = pipe(
+    contentNodeUpsertObject,
+    check((item) => {
+        const hasFile = typeof item.markdown_source_file === "string" && item.markdown_source_file.length > 0;
+        const hasHash = typeof item.markdown_source_file_hash === "string" && item.markdown_source_file_hash.length > 0;
+
+        return hasFile ? item.content.length > 0 && hasHash : item.content === "" && !hasHash;
+    }, "file-backed nodes need content and a hash; structural nodes need empty content and no hash"),
+);
+
+const contentNodePruneByPathSchema = object({
     scope: relativeScope,
     keep: array(relativeMarkdownPath()),
 });
+
+const contentNodePruneBySlugSchema = object({
+    scope_slug: relativeSlug,
+    keep_slugs: array(relativeSlug),
+});
+
+export const contentNodePruneSchema = union([contentNodePruneByPathSchema, contentNodePruneBySlugSchema]);
 
 export const contentNodeSyncSchema = object({
     upsert: optional(array(contentNodeUpsertSchema)),

@@ -132,6 +132,7 @@ const documents = await Promise.all(
             sourceUrl: normalizeSourceUrl(frontmatter.source_url),
             authors: normalizeAuthors(frontmatter.authors),
             originalPublishedDate: normalizeOriginalPublishedDate(frontmatter.original_published_date),
+            language: normalizeLanguage(frontmatter.language, fileName),
             markdownSourceFile: relativeToContents,
             markdownSourceFileHash: `sha256:${createHash("sha256").update(raw).digest("hex")}`,
             // Rough estimate: four characters per token, frontmatter excluded.
@@ -315,6 +316,7 @@ function toApiDocument(document) {
         source_url: document.sourceUrl,
         authors: document.authors,
         original_published_date: document.originalPublishedDate,
+        language: document.language,
         markdown_source_file: document.markdownSourceFile,
         markdown_source_file_hash: document.markdownSourceFileHash,
         markdown_source_file_estimate_token_count: document.markdownSourceFileEstimateTokenCount,
@@ -361,6 +363,14 @@ function normalizeOriginalPublishedDate(value) {
     }
 
     return null;
+}
+
+function normalizeLanguage(value, fileName) {
+    if (value === "fr" || value === "en") {
+        return value;
+    }
+
+    return /\.en\.md$/.test(fileName) ? "en" : "fr";
 }
 
 function titleOf(frontmatter, body, fallback) {

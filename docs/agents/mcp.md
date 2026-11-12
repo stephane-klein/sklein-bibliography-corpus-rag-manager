@@ -74,6 +74,12 @@ uses. It runs BM25 over `hierarchical_content_nodes`, vector search over
 `content_chunks`, fuses both rankings with Reciprocal Rank Fusion, and returns
 the best matching passage per document.
 
+The node BM25 index has two language fields: `content_fr` (French stemmer) and
+`content_en` (English stemmer). `semanticSearch` queries both by default. When
+writing a `readOnlySqlQuery` BM25 query, use
+`(content_fr @@@ pdb.parse(...) OR content_en @@@ pdb.parse(...))` on nodes;
+`content_chunks` still has a single `content` field.
+
 The tool accepts:
 
 - `query` (required): natural language question or keywords.
