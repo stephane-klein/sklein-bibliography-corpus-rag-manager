@@ -345,6 +345,11 @@
                                     href={document.source_url}
                                     class="text-blue-600 no-underline hover:underline">{m.documents_source_link()}</a
                                 >
+                            {:else if document.source_kind === "epub"}
+                                <span
+                                    class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"
+                                    >{m.documents_source_epub()}</span
+                                >
                             {:else}
                                 <span class="text-gray-400">—</span>
                             {/if}
@@ -393,6 +398,7 @@
             <table class="w-full text-sm border-collapse table-fixed">
                 <colgroup>
                     <col class="w-28" />
+                    <col class="w-24" />
                     <col class="w-36" />
                     <col />
                     <col class="w-24" />
@@ -404,6 +410,11 @@
                             class="cursor-help text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
                             scope="col"
                             title={m.documents_column_original_date()}>{m.documents_column_published_on()}</th
+                        >
+                        <th
+                            scope="col"
+                            class="whitespace-nowrap text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                            >{m.documents_column_type()}</th
                         >
                         <th
                             class="whitespace-nowrap text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
@@ -441,6 +452,15 @@
                                 {doc.original_published_date ?? "—"}
                             </td>
                             <td class="py-1.5 pr-2 border-b border-gray-200 align-top whitespace-nowrap">
+                                <span
+                                    class={doc.kind === "book"
+                                        ? "inline-block rounded-sm bg-blue-50 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-blue-700"
+                                        : "inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"}
+                                >
+                                    {doc.kind === "book" ? m.documents_type_book() : m.documents_type_document()}
+                                </span>
+                            </td>
+                            <td class="py-1.5 pr-2 border-b border-gray-200 align-top whitespace-nowrap">
                                 {#if doc.authors.length > 0}
                                     {#each doc.authors as author, index (index)}
                                         {#if index > 0}<span>, </span>{/if}<a
@@ -473,6 +493,11 @@
                                         href={doc.source_url}
                                         class="text-xs text-gray-500 no-underline hover:text-blue-600 hover:underline"
                                         >{m.documents_source_link()}</a
+                                    >
+                                {:else if doc.source_kind === "epub"}
+                                    <span
+                                        class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"
+                                        >{m.documents_source_epub()}</span
                                     >
                                 {:else}
                                     <span class="text-gray-400">—</span>

@@ -18,24 +18,29 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
     ].filter((condition) => condition !== null);
     const filtered = filterConditions.length > 0;
 
-    const [{ total: corpusTotal }] = await sql`
-        SELECT count(*)::int AS total
+    const [{ total: corpusTotal, roots: rootTotal }] = await sql`
+        SELECT count(*)::int AS total,
+               count(*) FILTER (WHERE parent_id IS NULL)::int AS roots
           FROM hierarchical_content_nodes
     `;
-    const selectionRows = filtered
+    const selectionCounts = filtered
         ? await sql`
-              SELECT count(*)::int AS total
+              SELECT count(*)::int AS total,
+                     count(*) FILTER (WHERE parent_id IS NULL)::int AS roots
                 FROM hierarchical_content_nodes
                 ${whereClause(filterConditions)}
           `
-        : [{ total: corpusTotal }];
-    const selectionTotal = selectionRows[0].total;
+        : [{ total: corpusTotal, roots: rootTotal }];
+    const selectionTotal = selectionCounts[0].total;
+    const rootSelectionTotal = selectionCounts[0].roots;
 
     if (!q) {
         const embeddingModel = getEmbeddingModel();
-        const { page, totalPages, offset } = pageWindow(selectionTotal, requestedPage, effectivePageSize);
+        const { page, totalPages, offset } = pageWindow(rootSelectionTotal, requestedPage, effectivePageSize);
         const documents = await sql`
             SELECT n.nanoid, n.title, n.authors, n.original_published_date, n.source_url,
+                   n.source_kind,
+                   CASE WHEN n.markdown_source_file IS NULL THEN 'book' ELSE 'document' END AS kind,
                    COALESCE(chunks.total, 0) AS chunk_count,
                    COALESCE(chunks.ready, 0) AS ready_chunk_count,
                    COALESCE(chunks.embedded, 0) AS embedded_chunk_count
@@ -51,7 +56,7 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
                     FROM content_chunks c
                    WHERE c.content_node_id = n.id
               ) chunks ON true
-              ${whereClause(filterConditions)}
+              ${whereClause([sql`n.parent_id IS NULL`, ...filterConditions])}
              ORDER BY n.original_published_date DESC NULLS LAST, n.id DESC
              LIMIT ${effectivePageSize} OFFSET ${offset}
         `;
@@ -60,10 +65,10 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
             documents: attachVectorization(documents),
             embeddingModel,
             page,
-            total: selectionTotal,
+            total: rootSelectionTotal,
             totalPages,
-            corpusTotal,
-            selectionTotal,
+            corpusTotal: rootTotal,
+            selectionTotal: rootSelectionTotal,
             filtered,
             hasQuery: false,
             semantic,
@@ -152,7 +157,7 @@ async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corp
 
     const [bm25Docs, vectorRows] = await Promise.all([
         sql`
-            SELECT id, nanoid, title, authors, original_published_date, source_url
+            SELECT id, nanoid, title, authors, original_published_date, source_url, source_kind
               FROM hierarchical_content_nodes
               ${whereClause([bm25Condition(q), ...filterConditions])}
              ORDER BY pdb.score(id) DESC, id ASC
@@ -165,6 +170,7 @@ async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corp
                    n.authors,
                    n.original_published_date,
                    n.source_url,
+                   n.source_kind,
                    c.heading_path,
                    left(c.content, ${BEST_CHUNK_CHARS + 1}) AS best_chunk,
                    length(c.content) > ${BEST_CHUNK_CHARS} AS best_chunk_truncated,
@@ -259,6 +265,7 @@ async function bm25Search({
                    authors,
                    original_published_date,
                    source_url,
+                   source_kind,
                    pdb.snippets(
                        content_fr,
                        max_num_chars => 200,
@@ -316,6 +323,7 @@ function groupVectorRows(rows) {
             authors: row.authors,
             original_published_date: row.original_published_date,
             source_url: row.source_url,
+            source_kind: row.source_kind,
             bestChunk: {
                 heading_path: row.heading_path,
                 chunk_index: row.chunk_index,

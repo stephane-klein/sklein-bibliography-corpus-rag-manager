@@ -30,14 +30,35 @@
                     href={data.contentNode.source_url}
                     class="text-blue-600 break-all no-underline hover:underline">{data.contentNode.source_url}</a
                 >
+            {:else if data.contentNode.source_kind === "epub"}
+                <span
+                    class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"
+                    >{m.documents_source_epub()}</span
+                >
             {:else}
                 —
             {/if}
         </dd>
     </dl>
 
-    <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">{m.documents_detail_content()}</h2>
-    <pre
-        class="whitespace-pre-wrap break-words font-mono text-sm bg-gray-50 border border-gray-200 rounded-sm p-4 leading-relaxed">{data
-            .contentNode.content}</pre>
+    {#if data.contentNode.is_container}
+        <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">
+            {m.documents_detail_sections()}
+        </h2>
+        <ol class="list-none m-0 p-0">
+            {#each data.children as child (child.nanoid)}
+                <li class="py-2 border-b border-gray-200">
+                    <a
+                        href="/documents/{child.nanoid}/"
+                        class="text-blue-600 no-underline hover:underline">{child.title}</a
+                    >
+                </li>
+            {/each}
+        </ol>
+    {:else}
+        <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">{m.documents_detail_content()}</h2>
+        <pre
+            class="whitespace-pre-wrap break-words font-mono text-sm bg-gray-50 border border-gray-200 rounded-sm p-4 leading-relaxed">{data
+                .contentNode.content}</pre>
+    {/if}
 </main>
