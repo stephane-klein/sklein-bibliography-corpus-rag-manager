@@ -187,12 +187,18 @@ export async function createMcpReadonlyServer({ context }) {
                 : DEFAULT_MAX_OUTPUT_CHARS,
             MAX_OUTPUT_CHARS,
         );
+        const toolArguments = {
+            maxCharacters: Number.isInteger(args.maxCharacters) ? args.maxCharacters : null,
+        };
 
         let result;
         let success = false;
         let errorStage = null;
         let truncated = false;
         let outputChars = 0;
+        let resultCount = null;
+        let resultTotal = null;
+        let resultMeta = {};
         let embedding = { ms: null, model: null, calls: 0, cacheHits: 0, tokens: 0, costUsd: 0 };
         let response = null;
 
@@ -251,7 +257,8 @@ export async function createMcpReadonlyServer({ context }) {
             if (success) {
                 const text = JSON.stringify(result, null, 2) ?? "null";
                 outputChars = text.length;
-                const resultCount = Array.isArray(result) ? result.length : result == null ? 0 : 1;
+                resultCount = Array.isArray(result) ? result.length : result == null ? 0 : 1;
+                resultTotal = resultCount;
                 truncated = text.length > cap;
 
                 const warning = buildLargeReadWarning({
@@ -260,6 +267,8 @@ export async function createMcpReadonlyServer({ context }) {
                     threshold: LARGE_RESULT_ROWS,
                 });
                 const warningNote = warning ? `\n\n[... warning: ${warning}]` : "";
+
+                if (warning) resultMeta = { warning: "large_chunk_read" };
 
                 response = {
                     content: [
@@ -284,6 +293,7 @@ export async function createMcpReadonlyServer({ context }) {
                 ip: context.ip,
                 query: originalQuery,
                 purpose: args.purpose,
+                toolArguments,
                 success,
                 errorStage,
                 durationMs: Date.now() - startedAt,
@@ -295,6 +305,9 @@ export async function createMcpReadonlyServer({ context }) {
                 embeddingCostUsd: embedding.costUsd,
                 inputChars: originalQuery.length,
                 outputChars,
+                resultCount,
+                resultTotal,
+                resultMeta,
                 truncated,
             });
         }
@@ -331,11 +344,21 @@ async function handleSemanticSearch(args, context, server) {
         Number.isInteger(args.maxCharacters) && args.maxCharacters > 0 ? args.maxCharacters : DEFAULT_MAX_OUTPUT_CHARS,
         MAX_OUTPUT_CHARS,
     );
+    const toolArguments = {
+        authors: args.authors ?? null,
+        title: args.title ?? null,
+        limit,
+        page,
+        maxCharacters: Number.isInteger(args.maxCharacters) ? args.maxCharacters : null,
+    };
 
     let success = false;
     let errorStage = null;
     let truncated = false;
     let outputChars = 0;
+    let resultCount = null;
+    let resultTotal = null;
+    let resultMeta = {};
     let response;
     let embedding = { ms: null, model: null, calls: 0, cacheHits: 0, tokens: 0, costUsd: 0 };
 
@@ -382,6 +405,16 @@ async function handleSemanticSearch(args, context, server) {
             documents: result.documents.slice(0, limit).map((document) => toSemanticResult(document)),
         };
 
+        resultCount = payload.documents.length;
+        resultTotal = payload.total;
+        resultMeta = {
+            hybrid: payload.hybrid,
+            semantic_error: payload.semantic_error,
+            semantic_source: result.semanticMeta?.source ?? null,
+            total_pages: payload.total_pages,
+            semantic_diagnostics: payload.semantic_diagnostics,
+        };
+
         const text = JSON.stringify(payload, null, 2) ?? "null";
         outputChars = text.length;
         truncated = text.length > cap;
@@ -417,6 +450,7 @@ async function handleSemanticSearch(args, context, server) {
             ip: context.ip,
             query,
             purpose: args.purpose,
+            toolArguments,
             success,
             errorStage,
             durationMs: Date.now() - startedAt,
@@ -428,6 +462,9 @@ async function handleSemanticSearch(args, context, server) {
             embeddingCostUsd: embedding.costUsd,
             inputChars: query.length,
             outputChars,
+            resultCount,
+            resultTotal,
+            resultMeta,
             truncated,
         });
     }

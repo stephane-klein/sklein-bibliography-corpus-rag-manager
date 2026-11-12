@@ -1,5 +1,6 @@
 import { logger } from "#lib/server/logger.js";
 import { sql } from "#lib/server/pg.js";
+import { resultMetaFor, toolArgumentsFor } from "#lib/server/mcp/log-fields.js";
 
 export async function recordMcpAccess({
     toolName,
@@ -11,6 +12,7 @@ export async function recordMcpAccess({
     ip,
     query,
     purpose,
+    toolArguments = {},
     success,
     errorStage,
     durationMs,
@@ -22,8 +24,16 @@ export async function recordMcpAccess({
     embeddingCostUsd,
     inputChars,
     outputChars,
+    resultCount = null,
+    resultTotal = null,
+    resultMeta = {},
     truncated,
 }) {
+    const safeToolArguments = toolArgumentsFor(toolName, toolArguments);
+    const safeResultMeta = resultMetaFor(resultMeta);
+    const safeResultCount = Number.isInteger(resultCount) && resultCount >= 0 ? resultCount : null;
+    const safeResultTotal = Number.isInteger(resultTotal) && resultTotal >= 0 ? resultTotal : null;
+
     try {
         await sql`
             INSERT INTO mcp_access_log (
@@ -36,6 +46,7 @@ export async function recordMcpAccess({
                 ip,
                 query,
                 purpose,
+                tool_arguments,
                 success,
                 error_stage,
                 duration_ms,
@@ -47,6 +58,9 @@ export async function recordMcpAccess({
                 embedding_cost_usd,
                 input_chars,
                 output_chars,
+                result_count,
+                result_total,
+                result_meta,
                 truncated
             )
             VALUES (
@@ -59,6 +73,7 @@ export async function recordMcpAccess({
                 ${ip ?? null},
                 ${query},
                 ${purpose ?? null},
+                ${JSON.stringify(safeToolArguments)}::jsonb,
                 ${success},
                 ${errorStage ?? null},
                 ${durationMs ?? null},
@@ -70,6 +85,9 @@ export async function recordMcpAccess({
                 ${embeddingCostUsd ?? 0},
                 ${inputChars ?? null},
                 ${outputChars ?? null},
+                ${safeResultCount},
+                ${safeResultTotal},
+                ${JSON.stringify(safeResultMeta)}::jsonb,
                 ${truncated ?? false}
             )
         `;
@@ -102,6 +120,7 @@ export async function getMcpAccessLogPageData({ from, to, page = 1, pageSize = 1
                    l.ip,
                    l.purpose,
                    l.query,
+                   l.tool_arguments,
                    l.success,
                    l.error_stage,
                    l.duration_ms,
@@ -113,6 +132,9 @@ export async function getMcpAccessLogPageData({ from, to, page = 1, pageSize = 1
                    l.embedding_cost_usd::float8 AS embedding_cost_usd,
                    l.input_chars,
                    l.output_chars,
+                   l.result_count,
+                   l.result_total,
+                   l.result_meta,
                    l.truncated
               FROM mcp_access_log l
               LEFT JOIN api_tokens t ON t.id = l.token_id

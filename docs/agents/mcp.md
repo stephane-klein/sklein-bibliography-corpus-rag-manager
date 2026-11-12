@@ -161,10 +161,10 @@ passages.
 
 ## Access log
 
-`mcp_access_log` is created by
-`sqls/migrations/00016_mcp_access_log.sql`. `recordMcpAccess()` inserts one row
-per tool call in a `finally` block, so a query that fails after embedding still
-records the embedding cost.
+`mcp_access_log` is created by `sqls/migrations/00016_mcp_access_log.sql` and
+extended by `00017_mcp_access_log_tool_details.sql`. `recordMcpAccess()` inserts
+one row per tool call in a `finally` block, so a query that fails after
+embedding still records the embedding cost.
 
 The row keeps the SQL as the client wrote it, with `vectorize('...')`, never the
 rewritten SQL with the vector literal. The `vectorize_calls` and
@@ -172,10 +172,29 @@ rewritten SQL with the vector literal. The `vectorize_calls` and
 `semanticSearch`, they count the single query embedding as one call or one cache
 hit, and `query` holds the natural language query.
 
+`tool_arguments` holds the arguments specific to the tool, without `query` and
+`purpose` (already stored in their own columns). For `semanticSearch` it records
+`authors`, `title`, `limit`, `page` and `maxCharacters`; for `readOnlySqlQuery`
+it records `maxCharacters`. Strings are capped at 200 characters, arrays at 20
+items and the whole JSON at 4 KB. It never contains a vector.
+
+`result_count` is the number of rows or documents returned. `result_total` is
+the number of matches before paging for `semanticSearch`, and the same value as
+`result_count` for `readOnlySqlQuery`. `result_meta` holds `hybrid`,
+`semantic_error`, `semantic_source`, `total_pages`, `semantic_diagnostics` and,
+for a large SQL read, `warning`.
+
+`readOnlySqlQuery` appends a warning when a result has at least
+`MCP_LARGE_RESULT_ROWS` rows (default 50) and selects `content` from
+`content_chunks` (or uses `SELECT *`). The warning reminds the agent to read only
+the `chunk_index` values returned by `semanticSearch`; `result_meta.warning` is
+set to `large_chunk_read`.
+
 `/mcp/log/` is a `(private)` page. It filters both the row query and the
 aggregate query on `user_id = locals.user.id`; the loader never reads a user ID
 from the URL. The `Token` column joins `api_tokens`, so a deleted token shows a
-dash.
+dash. The Arguments and Results columns show `tool_arguments`, `result_count`,
+`result_total` and `result_meta`; rows written before 00017 show `—`.
 
 ## Troubleshooting
 

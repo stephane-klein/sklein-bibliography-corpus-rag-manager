@@ -187,8 +187,9 @@ CREATE TABLE api_tokens (
 CREATE INDEX idx_api_tokens_user_id ON api_tokens (user_id);
 CREATE UNIQUE INDEX idx_api_tokens_user_id_name ON api_tokens (user_id, name);
 
--- Audit log for MCP read-only tool calls. See 00016_mcp_access_log.sql for the
--- meaning of the embedding_* and vectorize_* columns.
+-- Audit log for MCP read-only tool calls. See 00016_mcp_access_log.sql and
+-- 00017_mcp_access_log_tool_details.sql for the meaning of the embedding_*,
+-- vectorize_*, result_* and tool_arguments columns.
 CREATE TABLE mcp_access_log (
     id                   BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     created_at           TIMESTAMPTZ NOT NULL DEFAULT now(),
@@ -203,6 +204,7 @@ CREATE TABLE mcp_access_log (
 
     query                TEXT NOT NULL,
     purpose              TEXT CHECK (purpose IS NULL OR char_length(purpose) <= 400),
+    tool_arguments       JSONB NOT NULL DEFAULT '{}'::jsonb,
     success              BOOLEAN NOT NULL,
     error_stage          TEXT CHECK (error_stage IN ('validation', 'embedding', 'database')),
 
@@ -216,6 +218,9 @@ CREATE TABLE mcp_access_log (
 
     input_chars          INTEGER,
     output_chars         INTEGER,
+    result_count         INTEGER CHECK (result_count IS NULL OR result_count >= 0),
+    result_total         INTEGER CHECK (result_total IS NULL OR result_total >= 0),
+    result_meta          JSONB NOT NULL DEFAULT '{}'::jsonb,
     truncated            BOOLEAN NOT NULL DEFAULT FALSE
 );
 
