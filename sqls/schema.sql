@@ -187,15 +187,19 @@ CREATE TABLE api_tokens (
 CREATE INDEX idx_api_tokens_user_id ON api_tokens (user_id);
 CREATE UNIQUE INDEX idx_api_tokens_user_id_name ON api_tokens (user_id, name);
 
--- Audit log for MCP read-only tool calls. See 00016_mcp_access_log.sql and
--- 00017_mcp_access_log_tool_details.sql for the meaning of the embedding_*,
--- vectorize_*, result_* and tool_arguments columns.
+-- Audit log for MCP read-only tool calls. See 00016_mcp_access_log.sql,
+-- 00017_mcp_access_log_tool_details.sql and
+-- 00019_mcp_access_log_client_session.sql for the meaning of the embedding_*,
+-- vectorize_*, result_*, tool_arguments and session columns.
 CREATE TABLE mcp_access_log (
     id                   BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     created_at           TIMESTAMPTZ NOT NULL DEFAULT now(),
 
     tool_name            TEXT NOT NULL,
-    session_id           TEXT,
+    transport_session_id TEXT,
+    client_session_id    TEXT CHECK (
+        client_session_id IS NULL OR char_length(client_session_id) <= 255
+    ),
     token_id             TEXT REFERENCES api_tokens(id) ON DELETE SET NULL,
     user_id              TEXT REFERENCES users(id) ON DELETE SET NULL,
     client_name          TEXT,

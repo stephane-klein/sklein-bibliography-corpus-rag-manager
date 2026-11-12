@@ -353,6 +353,17 @@
                                 {#if row.client_version}<span class="text-gray-400">· {row.client_version}</span>{/if}
                             </span>
                             <span>
+                                <span
+                                    class="text-gray-400"
+                                    title={m.mcp_log_session_hint()}>{m.mcp_log_col_session()}:</span
+                                >
+                                {#if row.client_session_id}
+                                    <span class="font-mono break-all">{row.client_session_id}</span>
+                                {:else}
+                                    —
+                                {/if}
+                            </span>
+                            <span>
                                 <span class="text-gray-400">{m.mcp_log_col_ip()}:</span>
                                 <span class="font-mono">{row.ip ?? "—"}</span>
                             </span>

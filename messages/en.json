@@ -278,6 +278,8 @@
   "mcp_log_col_call": "Call",
   "mcp_log_col_token": "Token",
   "mcp_log_col_client": "Client",
+  "mcp_log_col_session": "Session",
+  "mcp_log_session_hint": "Agent conversation ID; not the MCP transport session.",
   "mcp_log_col_ip": "IP",
   "mcp_log_col_purpose": "Purpose",
   "mcp_log_col_query": "Query",

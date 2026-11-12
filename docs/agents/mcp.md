@@ -28,6 +28,16 @@ sessions: 30-minute idle TTL, 200 sessions maximum. A session is bound to the
 token ID and user ID that created it. The transport is
 `WebStandardStreamableHTTPServerTransport`.
 
+This session ID is the transport session (`Mcp-Session-Id`). One transport
+connection can serve several agent conversations, so it does not identify a
+conversation. The access log stores it in `transport_session_id`.
+
+The agent conversation is a different value. For every `tools/call`, OpenCode
+sends its own session ID in `params._meta["ai.opencode/sessionID"]` (for example
+`ses_...`). The server stores it in `client_session_id`. The value stays the
+same across the turns of one conversation, so it groups calls by conversation,
+not by turn. Other clients may omit it.
+
 The session map is not shared between replicas. Keep `app.replicaCount` at 1
 unless a shared store or sticky sessions are added.
 
@@ -162,9 +172,16 @@ passages.
 ## Access log
 
 `mcp_access_log` is created by `sqls/migrations/00016_mcp_access_log.sql` and
-extended by `00017_mcp_access_log_tool_details.sql`. `recordMcpAccess()` inserts
-one row per tool call in a `finally` block, so a query that fails after
-embedding still records the embedding cost.
+extended by `00017_mcp_access_log_tool_details.sql` and
+`00019_mcp_access_log_client_session.sql`. `recordMcpAccess()` inserts one row
+per tool call in a `finally` block, so a query that fails after embedding still
+records the embedding cost.
+
+`transport_session_id` holds the MCP transport session UUID, the
+`Mcp-Session-Id` value. `client_session_id` holds the conversation ID that the
+client sent in the `tools/call` metadata, when it sends one. OpenCode fills it
+with its `ai.opencode/sessionID` value. It is an opaque correlation value, never
+an authentication input, and it is NULL for clients that do not provide it.
 
 The row keeps the SQL as the client wrote it, with `vectorize('...')`, never the
 rewritten SQL with the vector literal. The `vectorize_calls` and
@@ -194,7 +211,9 @@ set to `large_chunk_read`.
 aggregate query on `user_id = locals.user.id`; the loader never reads a user ID
 from the URL. The `Token` column joins `api_tokens`, so a deleted token shows a
 dash. The Arguments and Results columns show `tool_arguments`, `result_count`,
-`result_total` and `result_meta`; rows written before 00017 show `—`.
+`result_total` and `result_meta`; rows written before 00017 show `—`. The detail
+footer shows Client, Session, IP and Token; Session is `client_session_id`, with
+a dash when the client sent no metadata.
 
 ## Troubleshooting
 

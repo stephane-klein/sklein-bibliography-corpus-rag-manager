@@ -1,10 +1,12 @@
 import { logger } from "#lib/server/logger.js";
 import { sql } from "#lib/server/pg.js";
+import { MAX_CLIENT_SESSION_ID_CHARS } from "#lib/server/mcp/config.js";
 import { resultMetaFor, toolArgumentsFor } from "#lib/server/mcp/log-fields.js";
 
 export async function recordMcpAccess({
     toolName,
-    sessionId,
+    transportSessionId,
+    clientSessionId,
     tokenId,
     userId,
     clientName,
@@ -33,12 +35,17 @@ export async function recordMcpAccess({
     const safeResultMeta = resultMetaFor(resultMeta);
     const safeResultCount = Number.isInteger(resultCount) && resultCount >= 0 ? resultCount : null;
     const safeResultTotal = Number.isInteger(resultTotal) && resultTotal >= 0 ? resultTotal : null;
+    const safeClientSessionId =
+        typeof clientSessionId === "string" && clientSessionId.trim() !== ""
+            ? clientSessionId.trim().slice(0, MAX_CLIENT_SESSION_ID_CHARS)
+            : null;
 
     try {
         await sql`
             INSERT INTO mcp_access_log (
                 tool_name,
-                session_id,
+                transport_session_id,
+                client_session_id,
                 token_id,
                 user_id,
                 client_name,
@@ -65,7 +72,8 @@ export async function recordMcpAccess({
             )
             VALUES (
                 ${toolName},
-                ${sessionId ?? null},
+                ${transportSessionId ?? null},
+                ${safeClientSessionId},
                 ${tokenId ?? null},
                 ${userId ?? null},
                 ${clientName ?? null},
@@ -117,6 +125,7 @@ export async function getMcpAccessLogPageData({ from, to, page = 1, pageSize = 1
                    t.name AS token_name,
                    l.client_name,
                    l.client_version,
+                   l.client_session_id,
                    l.ip,
                    l.purpose,
                    l.query,

@@ -9,6 +9,7 @@ import { buildLargeReadWarning, buildSemanticNextStep } from "#lib/server/search
 import {
     DEFAULT_MAX_OUTPUT_CHARS,
     LARGE_RESULT_ROWS,
+    MAX_CLIENT_SESSION_ID_CHARS,
     MAX_OUTPUT_CHARS,
     MAX_QUERY_CHARS,
     MAX_VECTORIZE_TEXTS,
@@ -29,6 +30,19 @@ const SEMANTIC_TOOL_NAME = "semanticSearch";
 const MAX_SEMANTIC_QUERY_CHARS = 2000;
 const MAX_SEMANTIC_RESULTS = 20;
 const DEFAULT_SEMANTIC_RESULTS = 10;
+const CLIENT_SESSION_META_KEY = "ai.opencode/sessionID";
+
+function readClientSessionId(meta) {
+    const value = meta?.[CLIENT_SESSION_META_KEY];
+
+    if (typeof value !== "string") {
+        return null;
+    }
+
+    const trimmed = value.trim();
+
+    return trimmed.length === 0 ? null : trimmed.slice(0, MAX_CLIENT_SESSION_ID_CHARS);
+}
 
 export async function createMcpReadonlyServer({ context }) {
     const schema = await getReadOnlyTablesSchema();
@@ -151,11 +165,12 @@ export async function createMcpReadonlyServer({ context }) {
         ],
     }));
 
-    server.setRequestHandler(CallToolRequestSchema, async (request) => {
+    server.setRequestHandler(CallToolRequestSchema, async (request, extra) => {
         const { name, arguments: args = {} } = request.params;
+        const clientSessionId = readClientSessionId(extra?._meta);
 
         if (name === SEMANTIC_TOOL_NAME) {
-            return handleSemanticSearch(args, context, server);
+            return handleSemanticSearch(args, context, server, clientSessionId);
         }
 
         if (name !== TOOL_NAME) {
@@ -285,7 +300,8 @@ export async function createMcpReadonlyServer({ context }) {
 
             await recordMcpAccess({
                 toolName: TOOL_NAME,
-                sessionId: context.sessionId,
+                transportSessionId: context.sessionId,
+                clientSessionId,
                 tokenId: context.tokenId,
                 userId: context.userId,
                 clientName: clientInfo.name,
@@ -318,7 +334,7 @@ export async function createMcpReadonlyServer({ context }) {
     return server;
 }
 
-async function handleSemanticSearch(args, context, server) {
+async function handleSemanticSearch(args, context, server, clientSessionId) {
     if (typeof args.query !== "string" || args.query.trim().length === 0) {
         return errorResponse("The 'query' field is required and must be a non-empty string.");
     }
@@ -442,7 +458,8 @@ async function handleSemanticSearch(args, context, server) {
     } finally {
         await recordMcpAccess({
             toolName: SEMANTIC_TOOL_NAME,
-            sessionId: context.sessionId,
+            transportSessionId: context.sessionId,
+            clientSessionId,
             tokenId: context.tokenId,
             userId: context.userId,
             clientName: clientInfo.name,

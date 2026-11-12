@@ -278,6 +278,8 @@
   "mcp_log_col_call": "Appel",
   "mcp_log_col_token": "Jeton",
   "mcp_log_col_client": "Client",
+  "mcp_log_col_session": "Session",
+  "mcp_log_session_hint": "Identifiant de conversation de l'agent ; ce n'est pas la session de transport MCP.",
   "mcp_log_col_ip": "IP",
   "mcp_log_col_purpose": "But",
   "mcp_log_col_query": "Requête",
