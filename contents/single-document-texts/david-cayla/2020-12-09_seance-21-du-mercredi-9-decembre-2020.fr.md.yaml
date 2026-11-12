@@ -1,0 +1,1929 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-12-09_seance-21-du-mercredi-9-decembre-2020.fr.md
+  source_file_hash: sha256:83c46f2d475f4eaf68e351903b5014e4210746d70509c027ccdbf3099273184d
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 78
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-12-09_seance-21-du-mercredi-9-decembre-2020.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 152
+    text: |-
+      Je vous propose de commencer directement ce dernier cours. Pour commencer, je
+      reviens sur ce qu’on a vu la dernière fois. On s’était arrêtés sur la
+      productivité… non, pardon, sur l’informatique, sur le fait qu’on va acheter un
+      parc informatique. On a vu qu’il fallait comparer le taux de profit marginal
+      avec le taux d’intérêt pour savoir combien d’ordinateurs ou d’unités
+      informatiques il faudrait acheter. Il y avait un petit souci dans le graphique
+      précédent, donc je vous le refais ici ; je m’en suis aperçu en le refaisant.
+  - chunk_index: 1
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 140
+    text: |-
+      Nous avons ici une courbe de profit marginal, qui représente le profit de chaque
+      unité qu’on achète. En abscisse… je ne sais plus… en ordonnée, le profit
+      marginal, et horizontalement le capital. En fait, à chaque fois que vous ajoutez
+      une unité de capital, vous grandissez, puis vous regardez le profit. Au début,
+      les premières unités de capital rapportent beaucoup, puis progressivement, plus
+      vous ajoutez des unités informatiques, moins ces unités informatiques seront
+      utiles, et donc plus le profit marginal de chaque unité va baisser.
+  - chunk_index: 2
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 326
+    text: |-
+      La question est : jusqu’où aller ? La première idée spontanée, si on ne fait pas
+      une étude d’économiste, serait de dire : tant qu’on gagne du profit, on achète
+      l’unité informatique, c’est-à-dire qu’on va s’arrêter jusqu’à ce point
+      d’intersection où on arrive à une rentabilité négative. Mais en réalité, ce
+      n’est pas comme ça qu’il faut raisonner quand on est économiste, puisqu’il faut
+      comparer la profitabilité de chaque unité de capital avec le coût du capital. Or
+      le coût du capital, que ce soit un coût direct ou un coût indirect, que ce soit
+      un coût parce qu’on emprunte et donc qu’on paie des intérêts, ou que ce soit…
+      merci, l’ordonnée à la verticale et l’abscisse à l’horizontale, merci, j’oublie
+      toujours… que ce soit un coût direct ou indirect, c’est-à-dire qu’on paie
+      directement un intérêt parce qu’on a emprunté, ou alors on n’emprunte pas, donc
+      on ne va pas payer d’intérêt, mais on aurait pu utiliser cet argent autrement en
+      le plaçant, en le prêtant à quelqu’un, donc là on aurait gagné un intérêt sans
+      risque.
+  - chunk_index: 3
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 257
+    text: |-
+      C’est ça qu’il faut comparer : il faut comparer le profit de l’unité de capital
+      avec l’usage alternatif qu’on aurait pu avoir de cet argent. C’est ce qu’on
+      appelle le coût d’opportunité. C’est la raison pour laquelle, dans les deux cas
+      — j’insiste — que vous empruntiez ou non, vous regardez toujours le niveau des
+      taux d’intérêt. Si le niveau des taux d’intérêt est par exemple là, alors le
+      niveau optimal d’investissement va être k étoile ici, c’est-à-dire que tout ce
+      qui est en dessous, tout ce qui rapporte moins que ce que vous rapporte un
+      intérêt, ne vaut pas la peine d’investir. J’espère être très clair. Pourquoi je
+      refais ça ? Parce que j’ai regardé, j’ai vérifié que sur le diaporama j’avais
+      mis ça à un autre endroit, parce que j’avais refait le graphique, et je voulais
+      être sûr que vous avez bien compris le sens de ce graphique.
+  - chunk_index: 4
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 312
+    text: |-
+      Ensuite, on regarde un exemple concret : on calcule le taux de profit marginal.
+      Il faut calculer le taux de profit marginal ; je vous ai donné la méthode, je ne
+      reviens pas dessus. Si on calcule ce taux de profit marginal, on arrive ici à ce
+      que, si on achète quatre unités — on considère ici que les unités informatiques
+      ne sont pas divisibles, qu’on peut faire 4 ou 5, mais pas 4 et demi —, la
+      dernière unité qu’il va racheter, c’est la 4e, puisqu’elle rapporte un taux de
+      profit supérieur au taux d’intérêt, ici un taux d’intérêt élevé à 10 %, mais peu
+      importe, c’est pour le calcul que je vous présente. Donc ici ça vaut le coup,
+      mais ici ça ne vaut pas le coup, parce que si on a de l’argent pour acheter une
+      5e unité, elle serait beaucoup mieux placée à rapporter 10 % d’intérêt
+      qu’investie dans cette unité informatique qui, même si elle est profitable au
+      sens strict, n’est pas profitable au sens où le taux de profit qu’elle apportera
+      sera inférieur à son coût d’opportunité ou à son coût direct si on emprunte.
+      C’est clair ?
+  - chunk_index: 5
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 310
+    text: |-
+      Là, on a regardé… on est dans le chapitre sur la production. On a regardé ce qui
+      détermine l’investissement d’une entreprise, c’est-à-dire pourquoi une
+      entreprise investit. Souvenez-vous : on investit pour plein de raisons : pour
+      remplacer le capital usagé, ou pour améliorer, augmenter la quantité de
+      production, c’est ce qu’on appelle l’investissement de capacité ; ou alors elle
+      peut simplement investir parce qu’elle veut améliorer la productivité du travail
+      ; et parfois elle fait un peu les deux, un investissement de productivité et un
+      investissement de capacité. Quoi qu’il en soit, dans ces deux cas — quand il ne
+      s’agit pas d’investissement de renouvellement, où là ce n’est pas vraiment un
+      investissement, on remplace du capital usagé —, il y a une logique économique.
+      Cette logique économique, c’est toujours qu’on va investir si l’investissement
+      est profitable, c’est-à-dire si le profit attendu de cet investissement est
+      supérieur au coût qu’on va avoir. En fait, on va s’arrêter au moment où on
+      n’aura plus de capacité, ou plutôt où ça sera plus intéressant d’un point de vue
+      financier d’investir.
+  - chunk_index: 6
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 260
+    text: |-
+      Maintenant, je continue la réflexion. Puisqu’on a deux facteurs de production,
+      capital et travail, il faut aussi s’intéresser à ce qui détermine l’emploi,
+      c’est-à-dire pourquoi on décide de recruter un salarié. Vous allez voir que la
+      logique de recrutement est très similaire à la logique d’investissement. On va
+      comparer deux choses de la même façon : la production de chaque salarié, qu’on
+      peut appeler sa productivité individuelle — on fait le rapport entre la
+      production et l’individu —, et son coût. Le coût du salarié, c’est, si on
+      simplifie, le salaire, le coût total employeur, qui correspond au salaire plus
+      les cotisations. Donc tant qu’on a des individus qui sont efficaces, ou qui
+      rapportent plus que ce coût, on va les recruter ; quand on a des individus qui
+      rapportent moins que ce qu’ils coûtent, on ne va pas les recruter. Vous voyez,
+      le raisonnement est extrêmement simple.
+  - chunk_index: 7
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 441
+    text: |-
+      Il y a aussi un élément que je ne vais pas prendre en compte ici, parce qu’on en
+      a déjà parlé : l’élément de substitution capital-travail. L’une des choses qu’il
+      faut prendre en compte, c’est : est-ce qu’il vaut mieux recruter quelqu’un ou
+      est-ce qu’il vaut mieux embaucher une machine pour faire ce travail ? Le souci,
+      c’est que bien sûr on ne peut pas toujours substituer du capital au travail.
+      Dans les manuels, bien sûr, on vous dit oui, oui, bien sûr, mais en fait il y a
+      beaucoup de travail qui ne peut pas se faire par une machine. Ce qu’on constate,
+      c’est que très vite les écarts de prix sont tellement évidents qu’il n’y a pas
+      10 000 façons de faire les choses, il n’y a pas un choix énorme sur ces
+      questions. Mais ce qu’on a vu quand même, c’est que dans ce cadre on a bien un
+      lien — on l’a vu la dernière fois — entre niveau du salaire et niveau d’emploi.
+      Souvenez-vous : si on peut permuter une machine par un salarié, faire le travail
+      par une machine ou par un salarié, on a vu que la combinaison productive ne va
+      pas forcément toujours être la même. On peut utiliser cinq machines et cinq
+      salariés, ou quatre machines et six salariés, ou l’inverse. Donc tout dépend du
+      coût du travail. Même si on ne peut pas substituer tous les travailleurs à des
+      machines, on a parfois une petite marge de manœuvre sur le niveau d’emploi qu’on
+      veut. On peut avoir des entreprises qui seront avec beaucoup de travail et peu
+      de capital, et d’autres qui seront plutôt avec plus de capital et peu de
+      travail. Donc ça dépend des prix relatifs des facteurs de production et de la
+      combinaison productive, de l’efficacité.
+  - chunk_index: 8
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 796
+    text: |-
+      Je reviens sur le fait que parfois il n’y a pas de possibilité : dans un salon
+      de coiffure — je vous avais donné cet exemple —, on ne peut pas acheter plus de
+      fauteuils et de ciseaux et licencier des coiffeurs en disant : grâce au capital
+      supplémentaire, on va pouvoir produire davantage. Non, là il y a une stricte
+      complémentarité, c’est-à-dire que le capital et le travail sont totalement
+      complémentaires, ils ne sont pas du tout substituables. Donc là il n’y a pas de
+      possibilité de s’amuser avec une combinaison productive autre. Par contre, oui,
+      peut-être que les caisses automatiques dans les supermarchés, par exemple, où
+      c’est le client lui-même qui scanne son produit, ça peut entraîner une hausse de
+      productivité des agents de caisse, parce qu’ils surveilleront plus de caisses.
+      Il y aura bien ici une forme de substitution du capital au travail. Mais
+      voyez-vous, ce n’est pas tout à fait la même chose. C’est pour cette raison que
+      toutes les caisses ne sont pas automatiques dans les supermarchés : ce n’est pas
+      tout à fait le même rapport au client, les clients ne sont pas tous d’accord
+      pour faire passer leurs produits, ça prend plus de temps aussi pour les clients,
+      ça prend plus de place aussi. Donc ce n’est pas automatique, et les caisses ne
+      vont pas disparaître du jour au lendemain. Il y a des tentatives de supermarchés
+      totalement automatisés qui existent aussi ; par exemple Amazon est en train de
+      créer ça aujourd’hui en Californie. Mais là aussi, ça ne veut pas dire qu’il n’y
+      aura plus du tout de travail humain, parce qu’il faudra bien étiqueter les
+      produits, il faudra bien leur mettre sur chaque produit une puce pour savoir
+      quand est-ce qu’elle sort et pour les identifier. Donc le principe de ces
+      magasins Amazon, c’est que les gens arrivent, prennent les produits qu’ils
+      souhaitent et repartent avec les produits ; ils ne passent même plus par une
+      caisse, en fait c’est immédiatement débité sur leur compte. Mais bien sûr, il
+      faut un compte, bien sûr avec Amazon par exemple, en ayant donné sa carte bleue,
+      il faut que ce compte soit crédité. Il faut éviter le pillage, donc il faut
+      quand même que l’accès au magasin soit sécurisé, donc sans doute qu’il va
+      falloir du personnel. Et puis il faut, je vous dis, mettre une puce sur chaque
+      produit. Par exemple, est-ce que vous allez pouvoir acheter un kilo de pommes en
+      vrac ? Ça ne sera plus du tout possible dans ce genre de magasin, parce qu’on ne
+      peut pas mettre des puces sur chaque pomme ; évidemment ça les dénaturerait.
+      Donc tout sera préemballé. Par ailleurs, le prix de ce que vous allez acheter va
+      intégrer aussi le prix de la puce et le prix du travail de ceux qui vont mettre
+      les puces sur chaque produit. Donc voyez, méfiez-vous aussi de ces prophètes qui
+      vous expliquent que bientôt il n’y aura plus jamais de caisse. Je pense que les
+      choses sont un peu plus compliquées que ça.
+  - chunk_index: 9
+    heading_path: 'Séance 21 du mercredi 9 décembre 2020 > Reprise du cours précédent : investissement et coût d’opportunité'
+    content_token_count: 138
+    text: |-
+      Bref, je reviens sur mon sujet. Nous avons vu une courbe de demande de travail,
+      c’est-à-dire du point de vue des employeurs : est-ce qu’on recrute ou non des
+      salariés ? Cela va être déterminé par le salaire, pour la raison qu’on a dite :
+      il y a une combinaison productive qui peut changer d’une entreprise à l’autre en
+      fonction des coûts des facteurs de production que sont le capital et le travail,
+      dans la mesure où ce sont des substituables, ce qui n’est pas toujours le cas.
+      Je termine là-dessus.
+  - chunk_index: 10
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 174
+    text: |-
+      De ce fait, on va chercher à recruter. Je vais vous présenter ce petit graphique
+      qui ressemble beaucoup au graphique qu’on a vu juste avant, et qui présente la
+      productivité marginale. Donc YM… Y, c’est bien la production ; on peut parler
+      aussi de productivité marginale ou de production marginale, c’est la même chose,
+      puisqu’on est ici par unité de salariés. On peut l’appeler production marginale
+      si vous voulez, c’est plus simple : c’est la production de chaque salarié. Ici
+      on a le nombre d’emplois. Là on a zéro emploi, puis progressivement on va
+      augmenter l’emploi et on regarde ce qui se passe à ce niveau-là.
+  - chunk_index: 11
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 485
+    text: |-
+      Que va-t-il se passer pour l’entreprise ? Elle va embaucher. C’est pour ça que
+      je vous ai dit ici une petite nuance ; je vais bien la donner parce que parfois
+      dans les médias on ne lit pas ce genre de choses, alors ça me semble absolument
+      indispensable. Quand une entreprise décide d’investir, il s’agit d’un engagement
+      à long terme. Si vous investissez sur 10 ans, par exemple vous faites construire
+      une nouvelle unité de production qui va servir sur 10 ans, au bout de 6 mois
+      vous ne pouvez pas la bazarder et la revendre, vous allez perdre énormément.
+      Vous investissez en construisant un bâtiment : là vous avez une durée
+      d’amortissement sur 20 ou 30 ans. Il est clair que si le bâtiment n’est pas
+      conforme à ce que vous voulez, ou si vous voulez le bazarder, vous ne pourrez
+      pas. Donc l’investissement, c’est un engagement à très long terme et qui est
+      extrêmement peu flexible. Bien sûr, on peut toujours revendre, mais pas toujours
+      ; parfois on a du capital totalement spécifique, spécifique pour vous, qui
+      n’intéresse absolument personne. Par exemple, vous faites construire une voie de
+      chemin de fer. Cette voie de chemin de fer n’est pas rentable, elle ne sera pas
+      rentable pour vous, mais elle ne sera pas rentable pour n’importe qui non plus,
+      donc personne ne voudra l’acheter. Finalement, qu’est-ce que vous faites si vous
+      voulez récupérer un peu d’argent sur votre chemin de fer ? Vous êtes obligé de
+      quasiment décrocher les voies et de revendre l’acier à la casse. Et ça,
+      évidemment, ça ne rapporte rien par rapport au coût de construction de la voie
+      de chemin de fer. Donc quand une entreprise investit, elle s’engage à long
+      terme, et si le profit n’est pas suffisant, elle perd et elle fait faillite.
+  - chunk_index: 12
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 674
+    text: |-
+      À l’inverse, quand une entreprise recrute, son engagement est beaucoup plus
+      flexible, beaucoup moins strict qu’un engagement d’investissement. Il est
+      toujours possible de rompre un contrat de travail, il est toujours possible de
+      licencier quelqu’un qu’on a employé en CDI, et même aujourd’hui avec les
+      nouveaux systèmes de CDI on peut avoir des périodes d’essai extrêmement longues
+      dans lesquelles on licencie sans aucune cause. Donc ça veut dire que parfois,
+      pour des missions de 4 ou 5 mois, parfois on préfère prendre des CDI qu’on va
+      rompre au bout de 4 ou 5 mois plutôt que des CDD. Mais on a aussi bien sûr des
+      CDD, on a aussi de l’intérim. Quand on est sur ces niveaux de contrat, la
+      flexibilité est extrêmement forte et l’entreprise peut à tout moment se séparer
+      des salariés si elle voit que finalement elle n’arrive pas à leur donner du
+      travail, ou que la production de ces salariés n’est pas suffisante par rapport à
+      leur coût. Si je vous dis ça, c’est parce qu’on nous explique très souvent, à
+      longueur de temps, qu’il faut absolument flexibiliser les contrats de travail,
+      que c’est une charge trop importante pour l’entreprise. Moi j’ai envie de
+      répondre : si l’entreprise n’est pas capable de prendre des risques, ou si le
+      cœur de l’entreprise n’est pas justement la gestion du risque et de
+      l’investissement, comment peut-on ensuite nous dire que le contrat de travail en
+      lui-même est un truc catastrophique pour les entreprises ? Ça n’a pas de sens.
+      Je veux dire, une entreprise qui est capable d’investir et de prévoir un taux de
+      profit ou un profit sur 20 ou 30 ans, elle est capable de ne pas avoir peur de
+      recruter en CDI. Donc cette histoire que les emplois doivent être absolument
+      flexibles pour éviter le chômage et permettre l’embauche, c’est ne pas vraiment
+      comprendre ce que c’est qu’une entreprise, qui par définition risque et prend
+      des risques, notamment lorsqu’elle décide d’investir. Et une entreprise qui
+      n’investit pas, qui n’est pas capable de prendre des risques, à mon avis elle
+      n’est pas non plus capable d’embaucher des gens. C’était la petite parenthèse,
+      pour aussi expliquer pourquoi je ne crois absolument pas que les politiques de
+      flexibilisation du marché du travail ont la moindre efficacité réelle sur le
+      taux de chômage. Concrètement, je pense que si ça a un effet, ça a un effet
+      extrêmement marginal, contrairement à ce que croient beaucoup d’économistes ; on
+      y reviendra tout à l’heure.
+  - chunk_index: 13
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 149
+    text: |-
+      Donc nous sommes maintenant confrontés à ce graphique, où on voit la production
+      marginale de chaque salarié, le nombre de salariés. Comment cela va-t-il évoluer
+      en fonction des salariés ? On va voir une courbe qui ressemble, qui n’est pas
+      tout à fait la même que celle que je vous ai présentée tout à l’heure, mais qui
+      ressemble tout de même à la courbe de profit marginal. On a ici cette production
+      marginale du travail qui décroît, mais contrairement à tout à l’heure elle ne
+      tombe pas à un niveau négatif, jamais elle ne tombe à un niveau négatif.
+  - chunk_index: 14
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 239
+    text: |-
+      Alors, de quoi on parle ? J’ai vu qu’il y a une question, mais je regarderai ça
+      tout à l’heure. On parle de ce que chaque salarié apporte à l’entreprise. Pour
+      qu’un salarié rapporte négativement à l’entreprise, voyez, il faudrait qu’il
+      soit… — pardon, la gaffe — a priori c’est quand même très rare, c’est même un
+      peu contre-intuitif : on peut toujours donner quelque chose à faire d’utile à
+      quelqu’un. Donc on va considérer que l’employé, la personne qu’on va recruter,
+      ne va jamais apporter quelque chose de négatif, ne va pas détruire la valeur.
+      Par contre, on va considérer qu’elle rapporte de moins en moins, c’est-à-dire
+      que les premiers salariés recrutés sont très efficaces, et progressivement, plus
+      on recrute un nombre important de salariés, plus la production de chaque salarié
+      sera faible.
+  - chunk_index: 15
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 463
+    text: |-
+      Pourquoi a-t-on cette décroissance de la production marginale du travail ? Pour
+      deux raisons théoriques. La première, c’est celle de Ricardo sur les terres.
+      Souvenez-vous : les terres sont de fertilités différentes, donc on va cultiver
+      d’abord les terres les plus fertiles, donc logiquement plus on augmente la
+      production, plus on va se retrouver avec des terres moins fertiles. On pourrait
+      dire de la même façon que les travailleurs qu’on va embaucher sont au départ de
+      performances différentes, et qu’on va d’abord recruter les meilleurs, puis
+      qu’après il nous restera forcément les moins bons. Évidemment, cette théorie
+      n’est pas hyper convaincante, parce que déjà un processus de recrutement qui
+      arrive à identifier les meilleurs, c’est quasiment impossible ; le recrutement
+      c’est très compliqué, très difficile. Le salarié met du temps à s’habituer à son
+      entreprise, et la performance est aussi très difficile à mesurer à l’échelle
+      individuelle, puisque le travail est toujours collectif, ce n’est pas aussi
+      clair. Et puis, tous les 6 mois vous avez un renouvellement important des
+      personnes que vous pouvez recruter : ceux qui sortent des études, ceux qui ont
+      changé d’emploi, etc. Enfin, si vous mettez la même annonce à 6 mois
+      d’intervalle, vous n’avez forcément pas du tout les mêmes personnes. Donc l’idée
+      qu’il existe un stock fini de travailleurs qui sont toujours les mêmes et qui
+      attendent, et puis vous prenez le meilleur, ensuite le deuxième meilleur,
+      ensuite le troisième meilleur, tout ça me paraît très abstrait et pas forcément
+      pertinent. Néanmoins, je vous donne la théorie telle qu’elle existe : il faut
+      bien justifier cette courbe de décroissance, et la première justification c’est
+      celle-ci.
+  - chunk_index: 16
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 359
+    text: |-
+      La deuxième, qui est incontestable d’un certain point de vue mais en même temps
+      problématique, je vais vous expliquer : c’est l’idée que les salariés sont de
+      moins en moins efficaces parce qu’on est là dans un raisonnement à court terme,
+      c’est-à-dire qu’on ne va pas augmenter le volume de capital. Donc ça veut dire
+      qu’on embauche sans investir. Évidemment, si on embauche sans investir, au bout
+      d’un moment l’embauche ne servira plus à rien. Je reprends l’exemple de la
+      dernière fois : vous avez une société de taxis, vous avez 10 taxis, 10 voitures,
+      et vous regardez combien vous pouvez embaucher. Au début, évidemment, vos
+      premiers salariés vous rapportent beaucoup d’argent. Mais au bout d’un moment,
+      quand vous allez avoir 20 chauffeurs pour 10 voitures, et que vous continuez à
+      recruter des chauffeurs alors que vous avez toujours 10 voitures, au bout d’un
+      moment bien sûr recruter des chauffeurs ne servira plus à rien. Lorsque vous
+      arrivez à 50 chauffeurs pour une voiture, le 51e ne risque pas de vous rapporter
+      grand-chose, parce qu’il n’aura simplement pas de voiture à conduire. Là aussi
+      c’est un exemple un peu caricatural, puisque rien ne vous empêche en même temps
+      de recruter des gens et d’augmenter le stock de voitures.
+  - chunk_index: 17
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Productivité marginale du travail et niveau d’emploi
+    content_token_count: 713
+    text: |-
+      Dans le manuel de Mankiw — que j’ai mis en bibliographie, parce que je l’ai
+      quand même regardé avant de dire que ce n’est pas un très bon manuel —, Mankiw,
+      Taylor, il y a l’exemple d’une pizzeria. C’est une pizzeria avec une cuisine ;
+      vous recrutez des gens qui travaillent à la pizzeria, mais vous n’agrandissez
+      jamais la pizzeria. Au bout d’un moment les gens vont se bousculer, ils vont
+      être très peu efficaces. On comprend tout cela. Et puis après il dit : par
+      contre, à long terme, il est possible d’agrandir la pizzeria et de recruter plus
+      de monde, et dans ce cas-là la question se posera différemment. Donc en fait
+      c’est un peu une idée court terme / long terme : à court terme, on ne peut pas
+      augmenter le stock de capital, donc on va se retrouver limité dans sa capacité
+      d’embaucher ; mais à long terme, on peut augmenter le stock de capital, donc la
+      question se pose différemment. Du coup, ça veut dire que dans ce cas-là cette
+      courbe est une courbe de court terme. Il faudrait aussi regarder la
+      productivité, la production marginale des travailleurs à long terme. Et là, si
+      on a quelque chose qui est une droite par exemple, alors là mon raisonnement ne
+      marche plus. Vous allez voir pourquoi : parce que justement ce qu’on va
+      regarder, c’est le niveau des salaires, et donc on va recruter tous les
+      salariés, enfin les employés, travailleurs, dont la production marginale est
+      supérieure à leur coût, qui est le salaire, et on va s’arrêter à ce niveau-là,
+      au niveau L étoile, puisque là au contraire le coût sera supérieur à ce que
+      rapportera chaque salarié. Évidemment, on ne peut pas dire que ce raisonnement
+      est parfaitement logique ; tout le souci est de justifier cette décroissance de
+      la production marginale, qui me semble un peu problématique, ou en tout cas qui
+      me semble justifiée qu’à très court terme. Comme on est là sur — on va voir
+      après — le marché du travail, ça pose aussi d’autres problèmes. Bref, je vous
+      donne le raisonnement tel qu’il est. Vous pourrez, si ça vous intéresse, lire
+      beaucoup de choses sur cette question de la production marginale décroissante
+      des salariés, parce que évidemment c’est une question théorique importante :
+      sans cette hypothèse-là, le modèle ne marche plus ; et en même temps, si on
+      raisonne à long terme, on n’arrive plus trop à justifier cette décroissance,
+      donc ça pose aussi d’autres problèmes. Du coup, on l’admet. On a ça parce que
+      sinon on ne sait plus comment faire varier — on va voir tout à l’heure — la
+      courbe de demande de travail.
+  - chunk_index: 18
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Exemple chiffré d’application
+    content_token_count: 709
+    text: |-
+      Prenons un exemple d’application stricte de cette loi que je viens de vous dire.
+      Vous avez donc un choix d’emploi : 0, 1, 2, 3, 4, 5, 6. Ici une production. Si
+      vous avez aucun employé, forcément votre production est zéro. Le salaire est
+      déterminé par le marché du travail, qui vous dit… alors c’est un salaire annuel,
+      rassurez-vous les enfants. Donc on est sur un petit salaire en réalité, parce
+      que c’est le coût total du travail : on est quasiment au SMIC, pas tout à fait,
+      un peu plus, mais pas beaucoup plus. Vous êtes en train de regarder combien il
+      faut recruter de gens. Pour ça, vous regardez ce que ça vous rapporte à chaque
+      fois de recruter une personne, deux personnes, etc. C’est ça la production :
+      elle augmente — 50 000, 85 000, 110 000, 132 000, 145 000, 150 000. Vous voyez.
+      Et puis ensuite, qu’est-ce qu’on fait ? On regarde la production marginale, ce
+      qu’apporte le dernier salarié, et c’est ainsi qu’on va voir s’il est utile de le
+      recruter ou non. Donc le premier salarié nous a fait passer de 0 à 50 000 —
+      pardon — donc il a une production marginale de 50 000. Le deuxième nous a fait
+      passer d’une production de 50 000 à 85 000, donc il a une production marginale
+      de 35 000, l’écart entre 85 000 et 50 000. Et ainsi de suite : 25 000, 22 000,
+      13 000. Ce n’est vraiment pas très compliqué. Quand est-ce que la production
+      marginale est supérieure au salaire ? Partout, jusqu’au 4e. Et après, ça n’est
+      plus supérieur, ça devient inférieur, donc il n’est plus utile d’embaucher. Donc
+      nous avons ici un niveau d’emploi optimal qui est 4 : 4 salariés. Le 4e me
+      rapportera 22 000 et me coûtera 20 000. On voit d’ailleurs ici — si on laisse
+      tomber tous les autres coûts, parce qu’il n’y a pas que ça comme coût, bien sûr,
+      je veux dire l’entreprise n’a pas que des salaires comme coût, mais imaginons
+      que ce soit le coût — alors on voit qu’ici elle fait le profit maximal, puisque
+      finalement à quatre salariés, ça coûte combien ? Ça coûte 4 × 20 000, donc 80
+      000. Combien ça lui rapporte au total ? 132 000. Donc elle fait 52 000 € de
+      profit. Là aussi, encore une fois, je considère qu’il n’y a pas d’autre coût que
+      le salaire, ce qui évidemment est une hypothèse forte.
+  - chunk_index: 19
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Exemple chiffré d’application
+    content_token_count: 364
+    text: |-
+      Si elle embauchait un 5e personne ou une 6e personne, qu’est-ce qui se passerait
+      ? Prenons l’exemple de 6 personnes. Imaginons que l’entreprise soit à 6
+      personnes. Du point de vue de l’entreprise, ce n’est pas le 6e qui rapporte
+      peut-être que 5 000, mais en fait comme je l’ai dit, c’est difficile de savoir
+      qui rapporte quoi. Ce qu’on sait, c’est qu’à 6 salariés la production réalisée
+      est 250 000, et quel est le coût total du travail ? C’est 6 × 20 000, ça fait
+      120 000. L’entreprise à 6 salariés est toujours rentable s’il n’y a pas d’autres
+      coûts : elle gagne 150 000 de chiffre d’affaires et elle paye 120 000 € de
+      salaire, donc elle gagne 30 000 €. Mais ce qu’on a vu, c’est qu’elle serait plus
+      rentable si elle n’avait que quatre salariés, c’est-à-dire que si elle n’avait
+      que quatre salariés elle ferait non pas 30 000 € de profit mais 52 000 €. Donc
+      ça vaut le coup, du point de vue de l’employeur qui veut maximiser ses profits,
+      de licencier deux salariés et de se retrouver à 4. Mais notez que si elle se
+      retrouve à 4, elle produira moins de richesse : on passera de 150 000 à 132 000.
+  - chunk_index: 20
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Exemple chiffré d’application
+    content_token_count: 757
+    text: |-
+      C’est là qu’on voit ici, avec ce petit exemple tout bête, très théorique, l’une
+      des grandes questions politiques actuellement, qui est menée très souvent : on
+      voit des partis politiques, des responsables politiques, ou même des citoyens,
+      dire : « Mais c’est scandaleux, regardez, cette entreprise fait des profits et
+      pourtant elle licencie ! » Et bien en fait, c’est ça, ça s’explique comme cela :
+      pourquoi elle licencie alors qu’elle fait des profits ? Parce qu’en fait le cœur
+      de l’emploi n’est pas la production, la maximisation de la production ; le cœur
+      de l’emploi dans une entreprise qui est soumise à la volonté de ses
+      actionnaires, ces actionnaires qui sont rémunérés par rapport au profit, ce
+      n’est donc pas de maximiser la production de richesse, ce n’est pas de maximiser
+      l’emploi, c’est de maximiser les profits. Donc ici, même si elle va baisser son
+      chiffre d’affaires, ça vaut le coup de passer de 6 à 4 salariés. Donc le
+      licenciement, il faut le voir comme une volonté de maximiser le profit et non
+      pas une volonté de sauver l’entreprise, parce que l’entreprise à 6 salariés est
+      tout à fait rentable. Et ça, c’est certaines choses que parfois les gens ont du
+      mal à comprendre, y compris dans les copies d’étudiants. Dans vos copies, je lis
+      parfois : « Il faut que l’entreprise fasse du profit pour qu’elle embauche. »
+      Absolument pas. Il n’y a pas besoin de faire du profit pour embaucher. Le profit
+      ne sert pas à embaucher. La question qui se pose sur l’embauche, c’est la
+      maximisation du profit. À partir du moment où on considère que l’entreprise a
+      pour vocation unique de maximiser ses profits, on fait du profit quand on a 150
+      000… 150 000, 6 salariés, on fait du profit. On pourrait tout à fait, avec ce
+      profit de 30 000 €, recruter un 7e salarié, même si ce 7e salarié ne rapporte
+      rien ; mettons que sa production marginale soit de zéro. On pourrait tout à fait
+      avec ces 30 000 € payer 20 000 € d’un salarié en plus et puis se retrouver à
+      maximiser comme ça son niveau d’emploi. On ferait encore 10 000 € de profit.
+      Oui, mais justement 10 000 € de profit, c’est moins que 52 000 €. Si d’ailleurs
+      on est passé de 2 à 4, c’est aussi pour la même raison. Regardez : si on avait
+      un taux d’emploi avec deux salariés, une petite entreprise de deux salariés, son
+      coût total c’est 2 × 20 000 = 40 000 €. Ce qu’elle produit, c’est 85 000 €. 85
+      000 € moins 40 000 €, on a 45 000 €, on a un profit inférieur. Le niveau
+      d’emploi de 4 est bien au niveau où le profit est maximal. C’est ça qui importe.
+  - chunk_index: 21
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Exemple chiffré d’application
+    content_token_count: 346
+    text: |-
+      Je ne vous dis pas que c’est bien ou pas bien ; je ne mets pas d’argument moral,
+      d’ailleurs. Je dis juste que c’est un raisonnement mathématique, c’est un
+      raisonnement logique : si l’entreprise appartient à ses actionnaires, si les
+      actionnaires veulent maximiser le profit, alors le niveau d’emploi n’est qu’une
+      des variables avec lesquelles ils vont maximiser le profit. Ils ne décident pas
+      de recruter ou de licencier pour d’autres considérations, qui peuvent être
+      maximiser le chiffre d’affaires, maximiser l’emploi, se faire bien voir des uns
+      et des autres. Donc il est tout à fait logique, dans ce contexte-là et dans ce
+      cadre de raisonnement, qu’une entreprise fasse du profit et néanmoins décide de
+      licencier. Voilà. Ce n’est pas la question de savoir si c’est scandaleux ou pas,
+      si c’est légitime ou pas d’un point de vue politique, etc. La question de savoir
+      si le modèle qu’on utilise de réflexion, si le fait de considérer l’entreprise
+      comme ayant pour but unique de faire du profit, ça c’est une question dont on
+      peut discuter. Mais ce modèle-là implique cette réalité-là. Et voilà, il n’y a
+      pas à discuter ou à poser des jugements moraux sur cette réalité ; il faut en
+      tout cas que vous appreniez ici à comprendre cette réalité.
+  - chunk_index: 22
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 437
+    text: |-
+      Maintenant qu’on a vu le raisonnement qui permet d’expliquer le niveau d’emploi,
+      il est important de s’occuper d’une question qui est sans doute une des
+      questions les plus importantes aujourd’hui, structurellement, dans l’activité
+      économique : la question du chômage. On constate en France en particulier qu’on
+      a du chômage depuis très très longtemps. Vous savez, depuis que je suis né
+      quasiment, puisque à la fin des années 70 on avait déjà un niveau de chômage qui
+      apparaissait comme extrêmement élevé, et puis ça ne s’est jamais arrangé depuis.
+      Donc toutes les politiques économiques sont des politiques qui sont fondées sur
+      l’idée qu’il faut diminuer le chômage. La question qui va se poser, c’est :
+      derrière ces politiques, quelle théorie y a-t-il ? Il faut bien une théorie du
+      chômage d’abord pour ensuite être capable de trouver des solutions pour résoudre
+      le chômage. Je vais vous présenter deux théories, des théories contradictoires,
+      qui ne disent pas la même chose. C’est bien ça l’intérêt : les économistes ne
+      disent pas toujours la même chose, vous avez dû le remarquer. Je vais vous
+      présenter les modèles très simplement, très brièvement, de manière pédagogique,
+      adaptée à des premières années : le modèle néoclassique — souvenez-vous, on a
+      parlé de la théorie néoclassique dans le chapitre 2, vous pouvez vous référer à
+      la petite frise que j’ai montrée sur les différentes formes de théorie — et puis
+      la théorie keynésienne, qui apparaît aussi sur cette frise, même si on n’a pas
+      beaucoup parlé de cette théorie au sens strict ; on a déjà parlé de Keynes bien
+      sûr.
+  - chunk_index: 23
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 364
+    text: |-
+      Comment les néoclassiques, les économistes de l’école néoclassique, expliquent
+      le chômage ? Si je vous parle des théories néoclassiques et keynésiennes, c’est
+      parce que ce sont aujourd’hui les théories principales qui s’occupent de cette
+      question et qui sont les plus influentes aujourd’hui, avec tout de même une
+      particularité : la théorie néoclassique est aujourd’hui plus influente dans les
+      politiques économiques que la théorie keynésienne. C’est la raison pour
+      laquelle, d’ailleurs, je vous la présente en premier. Mais attention : une
+      théorie influente ne veut pas dire une théorie vraie. D’ailleurs, aucune théorie
+      économique n’est vraie en soi. Là aussi je vous renvoie au premier chapitre sur
+      l’épistémologie de l’économie : qu’est-ce que c’est que la vérité ? Qu’est-ce
+      que c’est que le vrai ? Comment peut-on faire des expériences ? Comment peut-on
+      être sûr d’une théorie scientifique en économie ? Je vous invite à relire ce
+      chapitre. Vous verrez que la conclusion, c’est qu’en fait on ne peut jamais être
+      sûr, parce qu’on ne peut pas faire des expériences, parce qu’on n’a pas de
+      démarche scientifique claire en économie, même si l’économie peut être
+      considérée comme une science sur plein d’aspects. Excusez-moi, je fais la
+      parenthèse, c’est le dernier cours.
+  - chunk_index: 24
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 854
+    text: |-
+      Je vais revenir sur la théorie néoclassique du chômage, c’est-à-dire comment
+      cette théorie explique le chômage. En réalité, le cœur de la théorie
+      néoclassique reste le même que celui qu’on a vu dans le chapitre 5.
+      Souvenez-vous, c’est là qu’on présente les courbes d’offre et de demande.
+      C’est-à-dire qu’on va considérer qu’il existe une offre et une demande de
+      travail qui fonctionnent comme un marché normal, comme un marché classique. Je
+      vais reprendre ici en commençant par vous montrer la courbe de demande. La
+      courbe de demande de travail émane des entreprises ; nous sommes d’accord, c’est
+      bien les entreprises qui demandent du travail, c’est elles qui ont besoin de la
+      marchandise travail pour fonctionner. Qu’est-ce qui va déterminer le niveau de
+      salaire, la relation entre salaire et demande individuelle de travail ? On va se
+      retrouver exactement comme dans la logique du chapitre 5 : on a une utilité
+      marginale décroissante qui explique la décroissance de la propension à payer,
+      c’est-à-dire qu’on sera prêt à payer très cher la première unité, puis de moins
+      en moins cher. Souvenez-vous de l’exemple du thé qu’on a vu dans le chapitre 5.
+      Ici on a le même phénomène, encore une fois à l’échelle individuelle. On l’a vu
+      dans le tableau précédent, que je n’ai pas fait varier les salaires, mais vous
+      voyez bien que si le niveau dépend de la production marginale du travail, si on
+      baisse le salaire on va rendre intéressant… par exemple si on met le salaire à
+      10 000 € au lieu de 20 000 €, tout d’un coup ça devient intéressant d’embaucher
+      la 5e personne. Vous pouvez remonter un peu plus haut pour voir le graphique et
+      vérifier que c’est vrai. Si par contre le salaire est à 30 000, alors là on va
+      recruter moins de personnes, parce que les 3e et 4e personnes sont moins
+      rentables. Donc on avait 25 000 pour la 3e personne et 22 000 pour la 4e
+      personne. Donc si on passe à 30 000 le salaire, on ne va recruter que deux
+      personnes ; c’est là qu’on maximise le profit. Donc on a bien ici une courbe de
+      demande qui est décroissante. C’est une courbe de demande ici collective, une
+      courbe de demande de marché. Mais si toutes les entreprises se retrouvent avec
+      une utilité marginale décroissante parce que la production marginale du travail
+      est décroissante, alors mécaniquement, si on fait l’addition de toutes ces
+      courbes, on va se retrouver ici avec une courbe de demande de travail elle aussi
+      décroissante. Plus on va embaucher à l’échelle individuelle, plus l’utilité sera
+      faible ; dès que l’utilité sera inférieure au salaire, on arrête d’embaucher.
+      Donc si on baisse le salaire, on va embaucher davantage ; si on augmente le
+      salaire, on va embaucher moins. Voilà, c’est le raisonnement néoclassique. C’est
+      le même que le raisonnement pour le thé, c’est la même chose, sauf qu’au lieu de
+      parler d’utilité marginale on parle de production marginale, mais c’est bien du
+      point de vue de l’entreprise, l’utilité c’est bien la production.
+  - chunk_index: 25
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 431
+    text: |-
+      Maintenant, la courbe d’offre de travail. La courbe d’offre de travail est
+      construite, enfin est déterminée par le comportement des ménages. C’est bien les
+      ménages qui offrent le travail. Je passe mon temps à faire des références, donc
+      là je fais référence au chapitre 3, où souvenez-vous on a le marché du travail
+      dans le graphique qui synthétise un peu ce chapitre, la circulation réelle ; on
+      voit bien que l’offre de travail vient bien des ménages. Donc les ménages, eux,
+      décident ou non de rentrer sur le marché du travail, d’offrir, d’aller
+      travailler. Là on nous dit : l’offre de travail sera déterminée par les salaires
+      également ; plus les salaires seront élevés, plus les gens vont offrir beaucoup
+      de travail. Alors là, c’est un peu le même problème que pour le chapitre 5.
+      Souvenez-vous, dans le chapitre 5 on a vu que l’offre d’une marchandise devait
+      être croissante par rapport au salaire, mais que cela supposait une productivité
+      marginale décroissante, c’est-à-dire des coûts marginaux croissants, et on a vu
+      que ça posait quelques difficultés. Mais sans cette hypothèse-là, on ne pouvait
+      pas construire une courbe d’offre croissante. Ici c’est un peu la même chose.
+      Les ménages vont travailler parce qu’ils vont demander un salaire de plus en
+      plus élevé pour travailler, parce qu’en fait pour eux l’intérêt d’augmenter leur
+      offre de travail va diminuer avec le travail qu’ils offrent, au fur et à mesure
+      qu’ils offrent du travail.
+  - chunk_index: 26
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 351
+    text: |-
+      Alors, sérieusement, il nécessite… comment dire… de raisonner comme si les
+      salariés décidaient de leur volume horaire de travail hebdomadaire. Mettons, si
+      on prend une semaine, c’est-à-dire que vous êtes totalement libre de négocier
+      des contrats de 5 heures par semaine, de 15 heures par semaine, de 40 heures par
+      semaine, de 70 heures par semaine. Si vous voulez, l’idée de ce raisonnement,
+      c’est : on regarde l’offre des ménages, et les ménages décident librement de la
+      quantité de travail qu’ils vont donner dans une entreprise. Bon, comme vous le
+      savez, les choses sont un peu plus compliquées que ça dans la réalité, puisque
+      d’abord le travail est très réglementé — bien sûr, vous ne pouvez pas faire 70
+      heures de travail par semaine —, et puis aussi parce que, pour une autre raison,
+      l’entreprise ne laisse pas le choix au salarié de travailler 15 h, 20 h, 40 h ;
+      elle a des exigences en matière de temps de travail qui sont assez rigides elle
+      aussi. Donc évidemment, comme d’habitude dans ce cours, très souvent, dès qu’on
+      parle d’économie néoclassique, je raisonne d’un point de vue un peu fictif,
+      c’est-à-dire que c’est plus un exercice mental qu’une véritable constatation de
+      comment ça se passe dans la réalité.
+  - chunk_index: 27
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 419
+    text: |-
+      Comment explique-t-on le fait que les ménages vont exiger des salaires de plus
+      en plus élevés pour accepter d’augmenter leur offre de travail ? Le raisonnement
+      est en fait assez simple. Considérons que vous avez à choisir sur une semaine —
+      mettons vous avez une semaine de 80 heures éveillé, ça fait déjà beaucoup — et
+      vous devez choisir sur ces 80 heures de temps, sur lequel vous avez du temps
+      arbitrable en quelque sorte, sur lequel vous avez le choix entre le travail et
+      le loisir. Si on raisonne comme ça, on dit simplement la chose suivante : les
+      travailleurs, les ménages font un arbitrage entre travail et loisirs. Je vous
+      laisse le temps de noter, notez-le : les ménages font un arbitrage entre travail
+      et loisirs. C’est-à-dire qu’ils choisissent librement, indépendamment de ce que
+      demande l’entreprise — c’est comme s’ils étaient totalement libres de faire ce
+      qu’ils voulaient. Et ils ont, dans le cadre de cet arbitrage, 80 heures à
+      répartir entre les deux : loisir, travail. Voyez, là aussi c’est un peu binaire,
+      parce que parfois les choses sont un peu plus compliquées que ça. Moi par
+      exemple, quand j’écris une tribune, je réponds à la presse sur une question
+      économique : est-ce que je suis en train de faire du loisir ou du travail ?
+      J’avoue que je ne sais pas trop. Quelque part c’est du travail, mais en même
+      temps je le fais spontanément parce que j’ai envie de le faire. Bon, bref, ce
+      n’est pas toujours simple de discriminer entre les deux. Mais mettons, ok.
+  - chunk_index: 28
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 409
+    text: |-
+      Comment répartir ? Commençons par raisonner à l’extrême. Vous êtes dans une
+      situation où vous avez 80 heures de loisir et donc 0 heure de travail. Il est
+      clair que cette situation ne sera pas très satisfaisante, parce que forcément
+      vous ne travaillez pas, donc vous n’avez pas d’argent — là aussi on supprime
+      toute la question des revenus autres que le travail. Par ailleurs, vous avez
+      beaucoup de temps de loisir, et finalement avoir beaucoup de temps de loisir ce
+      n’est pas non plus extrêmement passionnant. Donc si vous êtes dans cette
+      situation-là, vous êtes prêt à travailler 10 heures par exemple. Comme ça, ça
+      vous satisfait en soi ; le travail, ça vous occupe, ça vous oblige à vous lever
+      de temps en temps, ça vous fait rencontrer du monde, c’est amusant le travail.
+      Bon, 10 heures par semaine ce n’est pas énorme, donc vous dites : ok, pas de
+      souci, je suis prêt à travailler 10 heures. Donc ça change mon arbitrage :
+      maintenant j’ai 10 heures de travail et 70 heures de loisirs. Est-ce que vous
+      demandez une forte rémunération dans le contexte dont je viens de parler ? Il
+      est logique de dire que finalement, comme ça vous fait plaisir de travailler un
+      petit peu, et comme de toute façon vous avez beaucoup de temps de loisir et vous
+      ne savez pas quoi faire de vos 80 heures de loisir, passer de 80 à 10 heures,
+      vous ne pouvez pas perdre beaucoup de loisirs. Donc vous ne demandez pas une
+      très très forte somme d’argent pour travailler les 10 premières heures.
+  - chunk_index: 29
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 339
+    text: |-
+      Vous voyez où je veux en venir : au fur et à mesure que votre temps de travail
+      va augmenter, vous allez passer de 10 h à 20 h, de 20 h à 30 h, de 30 h à 40 h,
+      de 40 h à 50 h — oui, oui, parce qu’ici on néglige toutes les législations sur
+      le travail —, vous passez à 60 h, 70 h, et cetera, pourquoi pas, on est dans le
+      monde théorique, c’est pratique. Et bien votre temps de loisir résiduel va
+      diminuer de plus en plus, et au fur et à mesure que votre temps de loisir
+      diminue, il va devenir de plus en plus rare, et donc vous allez lui accorder une
+      valeur de plus en plus importante. Ce qui veut dire qu’au-delà de 30 h, 40 h de
+      travail, vous allez commencer un peu à vous inquiéter du fait qu’il vous reste
+      de moins en moins d’heures de loisir dans la semaine. Loisir, c’est pour faire
+      tout, y compris le ménage chez soi, s’occuper de ses enfants, je ne sais quoi,
+      il y a plein de choses qu’on peut faire pendant ce temps de loisirs. Donc au
+      bout d’un moment ça devient de plus en plus difficile pour vous de vivre, parce
+      que votre temps de loisir devient de plus en plus faible.
+  - chunk_index: 30
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 503
+    text: |-
+      Donc quoi ? Donc tout a un prix. Vous êtes prêt à sacrifier toutes vos heures de
+      loisir, mais vous allez demander en échange une rémunération de plus en plus
+      importante. Alors ça aussi, « tout a un prix », c’est aussi problématique, parce
+      que parfois ce n’est pas comme ça que ça se passe, parce que parfois tout n’a
+      pas un prix. Mais bon, imaginons, on est des homo œconomicus — souvenez-vous —,
+      on est des êtres hyper rationnels. Tout a un prix veut dire : je suis prêt à
+      tout, à condition qu’on m’offre une rémunération suffisante, qu’il y a toujours
+      une rémunération qui sera compatible avec mon acceptation de n’importe quoi. Et
+      bien dans ce cas-là, si on raisonne comme ça, ça veut dire qu’au fur et à mesure
+      que votre loisir va se réduire, vous allez lui accorder une valeur de plus en
+      plus importante, et donc vous allez accepter de travailler que pour un salaire
+      de plus en plus élevé. Et dans ce cadre de raisonnement-là que je viens de vous
+      décrire, il est logique que l’offre de travail individuelle d’une personne, d’un
+      ménage, est croissante avec le salaire : il vous faut un salaire de plus en plus
+      élevé pour accepter de travailler davantage. Si c’est vrai à l’échelle
+      individuelle, on va raisonner exactement comme tout à l’heure : si c’est vrai à
+      l’échelle individuelle et si c’est vrai de tous, parce que si on considère qu’il
+      s’agit d’une loi fondamentale du comportement humain, alors la courbe d’offre
+      collective du marché, qui va être l’addition de toutes ces courbes d’offres
+      individuelles croissantes, sera forcément une courbe d’offre croissante. Voilà.
+      Vous êtes convaincu ? Je ne sais pas si vous êtes convaincu, mais en tout cas
+      c’est le raisonnement qui est fait pour expliquer une courbe d’offre croissante.
+  - chunk_index: 31
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 477
+    text: |-
+      Alors évidemment certains d’entre vous, peut-être un peu malicieux, se disent
+      que ce raisonnement est un peu bizarre, qu’il manque nombre de choses. Par
+      exemple il manque le fait qu’à 0 heure de travail on ne peut pas se loger, on ne
+      peut pas se nourrir, on ne peut rien faire. Donc la question de savoir est-ce
+      qu’on a vraiment le choix de travailler librement n’est pas tellement claire. De
+      la même façon, il existe peut-être un moment où, quand on n’a même plus le
+      loisir de faire les allers-retours travail-maison ou je ne sais quoi, ou
+      simplement de se reposer, on finit d’ailleurs par être complètement épuisé.
+      Enfin, ça n’a plus beaucoup de sens de se dire qu’on va travailler 80 heures par
+      semaine en réduisant tout son temps de loisir à zéro. Il y a peut-être des gens
+      qui le font, mais ça paraît un peu inhumain, surtout sur du long terme. Bon,
+      mais je voudrais qu’on mette un peu de côté et qu’on raisonne autrement, et
+      qu’on se pose la question suivante : est-ce que véritablement on ne peut pas
+      envisager une autre forme de raisonnement, qui soit non pas basée sur
+      l’arbitrage travail et loisirs, ou salaire et loisir ? J’ai mis ici dans la
+      diapo « salaire et loisir », parce que oui, salaire c’est quelque chose de
+      positif, on va dire, et loisir c’est quelque chose de positif, on arbitre entre
+      deux choses positives à priori, c’est plus logique. Mais est-ce que vraiment
+      c’est ça la base du raisonnement du comportement humain ? Là il faudrait faire
+      un peu d’études psychologiques, mais on verrait que si on fait des études
+      psychologiques, en fait le comportement humain est très divers et très varié, il
+      n’y a pas un comportement humain toujours le même.
+  - chunk_index: 32
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 445
+    text: |-
+      Prenons un autre cas de figure concret. Imaginons que vous êtes une personne
+      avec un enfant à charge, que du coup vous avez besoin de vivre dans au moins
+      deux pièces, voire un trois-pièces, ça serait pas mal. Ce trois-pièces, cet
+      appartement que vous habitez, il vous coûte 800 € par mois. Bien sûr, il faut
+      nourrir votre enfant, il faut l’habiller, il faut vous habiller, il faut payer
+      les factures d’électricité. Ça ne suffit pas d’avoir juste le loyer. En fait,
+      vous avez des charges mensuelles qui sont, tout compris, au minimum pour
+      survivre, de 1 200 € par mois : 800 € de loyer, 400 € de charges. Mettons 1 300
+      €, prenons en compte le coût de la vie. Donc vous avez 1 300 € par mois de
+      charges fixes pour non pas vivre bien, mais juste vivre, survivre, enfin vivre
+      au minimum quoi. Avec 1 300 € par mois, avec un enfant à charge, avec un loyer
+      de 800 € par mois, vous ne pouvez pas épargner, mais vous ne crèverez pas de
+      faim. Bon, du coup vous serez mieux avec 1 500 ou avec 2 000, vous serez
+      évidemment sans doute mieux avec 4 000, 5 000, mais soyez réaliste. Par contre
+      avec 1 000 € par mois, là ça devient compliqué : il va falloir emprunter à vos
+      amis, à votre famille, il va falloir peut-être vivre dans un studio, peut-être
+      manger moins de viande, vous ne pourrez pas vous habiller correctement, enfin ça
+      va poser problème. Puis si vous avez 500 € par mois, alors là vous êtes à la
+      rue.
+  - chunk_index: 33
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 443
+    text: |-
+      Donc si on pose les questions comme ça, si on raisonne comme ça, alors on peut
+      penser la question de l’offre de travail totalement différemment. Je veux dire
+      par là que si le salaire qui vous est proposé par exemple est de 10 € par heure
+      — par mois, non, par heure — et si vous avez un objectif pour vivre
+      confortablement, disons de gagner 1 500 € par mois, avec pour base 1 300 € et
+      pour confort on va dire 2 000 €, combien d’heures vous allez travailler ? Alors
+      on est ici par mois. Réduisons ça — non, ne réduisons pas. Considérons donc
+      maintenant : on avait 80 h par semaine, donc possible ; maintenant on a 4
+      semaines, donc ça fait 8 × 4 = 32, 300, 320 h par mois. Bon, vous avez 320 h par
+      mois, on va dire 300 pour arrondir. Combien — peu importe — mais disons combien
+      vous allez travailler par mois pour pouvoir atteindre votre objectif de 1 500 €
+      par mois ? Si le salaire est de 10 € par heure — par mois, non, par heure — et
+      bien ce n’est pas compliqué : il faut travailler 150 h par mois, ce qui veut
+      dire 75 h tous les 15 jours, soit 32,5 h par semaine. Voilà, avec 32,5 h par
+      semaine, mettons 35 h par semaine, allons-y. Et bien non, pardon, c’est 37 h 5,
+      excusez-moi, 37,5 h par semaine. Donc là vous travaillez, vous faites des heures
+      supplémentaires, mettons 35 h et un peu plus, vous gagnez 10 € par heure et là
+      vous arrivez à votre objectif de 1 500 € par mois.
+  - chunk_index: 34
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 575
+    text: |-
+      Donc à 10 €, finalement, si votre objectif c’est d’avoir 1 500 €, alors si le
+      salaire qui vous est proposé est 10 € par heure — par semaine, non, par heure —
+      alors vous allez travailler 37 h et demie par semaine. Mais alors que se
+      passe-t-il si on vous propose un salaire plus faible, mettons 9 €, 8 € ? Quelle
+      va être votre réaction spontanée par rapport à ça ? Est-ce que ça va être de
+      diminuer votre offre de travail ou au contraire de l’augmenter ? Là je suis en
+      train de vous faire un raisonnement qui va aboutir à la conclusion totalement
+      inverse de tout à l’heure. Si on vous baisse votre salaire, on vous dit :
+      maintenant c’est 8 € par heure, désolé, 8 € de l’heure. Voilà, vous étiez à 10,
+      8 €. On va voir que la seule chose pour réussir… vous allez vite arriver en
+      dessous de 1 500, vous risquez même d’arriver en dessous de 1 300, et vous
+      risquez de ne plus pouvoir vous nourrir correctement, voire de ne plus pouvoir
+      payer vos charges, votre loyer. Donc là qu’est-ce que vous faites si vous êtes
+      rationnel ? Et c’est la même rationalité — enfin c’est une forme de rationalité
+      tout à fait légitime, pas moins légitime que celle de tout à l’heure où on
+      arbitre travail et loisir. Qu’est-ce qu’on fait si maintenant on est payé
+      mettons 5 € par heure — par mois, non, par heure — et que ça divise par deux vos
+      revenus, c’est-à-dire qu’on était tout à l’heure à 1 500, maintenant on est à
+      750 € par mois ? Bah 750 € par mois, je suis désolé, vous avez un loyer de 800
+      €, c’est mort. Donc qu’est-ce que vous faites ? Et bien vous prenez un deuxième
+      travail : au lieu de travailler 37 h 5, vous travaillez 50 h. Donc votre réponse
+      à cette baisse de salaire, ce n’est pas une baisse de travail, c’est une hausse
+      de votre offre de travail. Et ce n’est pas absurde, ce n’est pas illogique,
+      c’est une autre logique que tout à l’heure, mais elle n’est pas absurde.
+  - chunk_index: 35
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 560
+    text: |-
+      Donc là on se retrouve devant un problème : si on raisonne en termes d’objectif
+      de revenu, ce que je viens de vous faire — inversement, excusez-moi. Soyons dans
+      un cas positif : mettons que maintenant votre salaire augmente à 20 € par heure.
+      Ben cette fois-ci, au lieu de travailler 37 h 5, vous pouvez travailler que la
+      moitié. Alors je ne vais pas faire la moitié de 37,5 parce que là de tête j’y
+      arrive pas, mais peu importe. Vous travaillez que la moitié de vos heures et
+      vous gagnez le même salaire. Bon vous pouvez vous dire : est-ce que ça ne serait
+      pas mieux quand même de gagner un peu plus ? Voilà, 2 000 €, ça serait quand
+      même cool, on pourrait faire des voyages avec mon gosse. Bon et bien allons-y, 2
+      000 € par mois c’est mon objectif. Et bien cette fois-ci, si je veux arriver… si
+      je suis payé 20 € de l’heure et bien je pourrais simplement travailler…
+      travailler quoi ? Travailler 100 h par mois, ce qui veut dire 25 h par semaine,
+      et j’arriverai à mon objectif de 2 000 € par mois si je suis payé 20 € de
+      l’heure. Donc là vous êtes en train de raisonner avec l’idée que si je suis
+      mieux payé, je peux diminuer mon offre de travail. Et donc ce que je suis en
+      train de vous montrer dans cet exemple, c’est une loi totalement inverse à celle
+      que je vous ai présentée tout à l’heure. C’est-à-dire que si vous êtes dans une
+      réflexion où vous ne faites pas de l’arbitrage travail-salaire-loisir, mais où
+      vous faites maintenant l’arbitrage par rapport à vos revenus, vous avez un
+      objectif de revenu en quelque sorte, si vous rentrez dans cette logique-là,
+      alors lorsque votre salaire augmente vous travaillez moins, et lorsque votre
+      salaire baisse vous travaillez davantage. Et donc je suis en train de vous
+      présenter une courbe d’offre de travail individuelle qui est décroissante. Je
+      suis désolé, mais elle ne me paraît pas plus fausse que le précédent, mais elle
+      arrive à une conclusion inverse.
+  - chunk_index: 36
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 369
+    text: |-
+      Alors que fait-on ? C’est que quand on a une courbe d’offre qui est croissante —
+      et bien on utilise, comme l’objectif c’est de faire une courbe d’offre
+      croissante pour avoir un point d’intersection qui permette, vous voyez ici, de
+      trouver l’équilibre entre les deux courbes — on ne peut pas raisonner avec le
+      raisonnement que je viens de vous faire. On doit reprendre le premier
+      raisonnement de l’arbitrage travail-loisir, sinon on se retrouve avec une courbe
+      d’offre collective qui peut aller dans tous les sens, parce que soit les
+      individus ont parfois une courbe d’offre décroissante, et d’autres une courbe
+      d’offre croissante, donc on ne peut rien dire sur la courbe d’offre collective ;
+      soit on considère au contraire que tout le monde raisonne avec un objectif de
+      revenu, et dans ce cas-là on va retrouver une courbe d’offre collective qui sera
+      décroissante, et dans ce cas-là il est possible qu’il n’y ait pas de point
+      d’intersection entre l’offre et la demande. Bon, et donc la théorie est fausse
+      si les gens ne se comportent pas comme le modèle. La théorie est fausse — on l’a
+      déjà vu, ce problème-là, dans le chapitre 5. C’est un vrai problème de la pensée
+      néoclassique : elle raisonne de manière abstraite sans jamais voir comment les
+      gens se comportent vraiment.
+  - chunk_index: 37
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 684
+    text: |-
+      Alors il y a des modèles, des théories, qui ont des courbes d’offre un peu plus
+      compliquées, des courbes d’offre qui reviennent en arrière. Dans le manuel de
+      Stiglitz — donc le Stiglitz, il y en a trois, Lafay et puis je ne sais plus qui,
+      vous l’avez aussi en bibliographie — on vous présente une courbe d’offre de
+      travail comme ça, et donc dans ce cas-là il peut y avoir deux équilibres :
+      c’est-à-dire que vous avez une courbe d’offre, vous voyez ici, qui croît au
+      début. Pourquoi elle croît au début ? C’est l’idée qu’au début, oui, on raisonne
+      comme la pensée néoclassique, et puis après, quand le salaire commence à être
+      trop élevé, alors là on va réduire son offre de travail. Donc on pourrait avoir
+      une courbe avec deux équilibres. Voyez, une courbe d’offre ici qui reviendrait
+      comme ça. D’ailleurs, pourquoi est-ce qu’on réduirait uniquement quand les
+      salaires augmentent et pas quand les salaires diminuent ? Je viens de vous
+      montrer qu’en fait même quand les salaires diminuent… voilà, ce ne sont pas des
+      raisonnements qui sont basés sur des enquêtes véritablement empiriques. On peut
+      parfois questionner les gens sur ce qu’ils feraient, etc., mais le problème
+      quand on questionne les gens sur ce qu’ils feraient, ce qu’ils pourraient faire
+      dans un cas d’éventualité, etc., c’est que les gens vous racontent n’importe
+      quoi. Parce qu’en fait ils ne savent pas eux-mêmes ce qu’ils feraient s’ils
+      étaient dans une situation totalement différente de la situation dans laquelle
+      ils sont. Donc c’est très très compliqué de savoir. Parfois il y a ce qu’on
+      appelle l’économie expérimentale : on expérimente, on regarde, on pose des
+      questions, on rémunère les gens, etc. Mais là aussi on n’est pas dans un cadre
+      naturel. Et puis dès qu’on est dans un cadre collectif, on augmente le salaire,
+      on regarde ce qui se passe… eh bien le problème est que l’offre de travail on ne
+      la mesure pas bien. Ce qu’on mesure c’est le nombre d’embauches, mais l’offre,
+      ce que voudraient spontanément les ménages, si leur manière de répondre au
+      salaire… ce n’est pas clair du tout. Bref, excusez-moi, je m’égare un peu, mais
+      je ferme la parenthèse. Par contre, ça fait partie du cours. Ce n’est pas marqué
+      ici dans la diapositive, mais ça fait partie du cours.
+  - chunk_index: 38
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 358
+    text: |-
+      La courbe d’offre de travail, vous pouvez noter ça, c’est un résumé de ce que je
+      viens de vous dire : la courbe d’offre de travail peut répondre à deux logiques
+      différentes. La logique arbitrage salaire-loisir, qui, dans la logique
+      néoclassique, permet de tracer des courbes d’offre individuelles croissantes, et
+      donc des courbes de marché collectives croissantes elles aussi. La courbe — donc
+      raisonnement arbitrage salaire et loisir — permet de tracer des courbes d’offre
+      croissantes et des courbes d’offre individuelles croissantes, et donc des
+      courbes d’offre collectives elles aussi croissantes sur le marché. En revanche,
+      les raisonnements par objectif de revenu pourraient au contraire permettre de
+      tracer des courbes d’offre de travail décroissantes, ou totalement différentes,
+      ou croissantes puis décroissantes, peu importe. Et dans ce cas-là on ne retrouve
+      plus ces courbes d’offre croissantes, et si on n’a plus ces courbes d’offre
+      croissantes, le modèle ici que je viens de vous présenter n’est plus valide. Ok,
+      bon, ça fait partie des questions qui vous sont posées à la fin du chapitre, qui
+      peuvent venir à l’examen. Si vous n’avez pas bien compris, vous réécoutez tout,
+      c’est possible, c’est l’avantage d’avoir des cours enregistrés.
+  - chunk_index: 39
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 442
+    text: |-
+      Maintenant, là je vous ai juste présenté le marché du travail, je ne vous ai pas
+      expliqué le chômage. En fait, le chômage là il va s’expliquer très simplement.
+      Qu’est-ce que c’est que le chômage ? Le chômage, c’est une situation dans
+      laquelle on a des gens qui veulent travailler, des ménages qui veulent
+      travailler, et des entreprises qui ne veulent pas embaucher. Donc le chômage
+      repose forcément sur un salaire trop important par rapport au salaire
+      d’équilibre. Ici vous avez le salaire d’équilibre : c’est le salaire qui égalise
+      l’offre et la demande de travail. Donc dans ce cas-là, évidemment, il n’y a pas
+      de chômage, puisqu’il y a autant de gens qui veulent travailler que
+      d’entreprises qui veulent les embaucher ; donc on se retrouve en plein emploi.
+      Si on a du chômage, nous dit cette théorie, c’est forcément puisque les courbes
+      sont comme ça. Voyez, c’est ça le problème des courbes : une fois qu’on les a
+      tracées comme ça, on est piégé. On doit, on peut poursuivre le raisonnement qui
+      dira que le problème du chômage, c’est un excès d’offre de travail sur la
+      demande de travail, et ceci est forcément le cas si on a un salaire ici W1 qui
+      est supérieur au salaire d’équilibre. Donc le chômage est lié à un salaire trop
+      important par rapport au salaire d’équilibre. D’où la théorie et les discours
+      politiques qui nous disent : si on veut réduire et supprimer le chômage, il faut
+      faire baisser le coût du travail, il faut faire baisser les salaires.
+  - chunk_index: 40
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 543
+    text: |-
+      Si on est sur un marché du travail, un marché normal, les prix s’ajustent.
+      Pourquoi l’État devrait-il faire baisser les salaires ? Est-ce que l’État fait
+      baisser le prix du pain ? Est-ce que l’État fait baisser le prix des locations
+      de voiture ? Est-ce que l’État s’intéresse à tous les prix pour essayer de les
+      faire baisser ? Non, il attend que le marché spontanément s’équilibre. La
+      question en réalité qui est derrière la pensée néoclassique — la question qui
+      est posée — ce n’est pas la question du salaire trop élevé. Non, les
+      néoclassiques ne disent pas — tiens, marquez-le, ça aussi, marquez-le et
+      soulignez-le — les néoclassiques ne disent pas que la cause du chômage c’est
+      parce que les salaires sont trop élevés. Ils disent — parce qu’ils sont plus
+      subtils — que la cause du chômage c’est parce que les salaires ne s’ajustent
+      pas. Ça veut dire que si on a des salaires trop élevés, on a du chômage, mais
+      que du coup normalement on devrait pouvoir résorber ce chômage en laissant le
+      marché ajuster le prix à un niveau du prix d’équilibre. Si le marché ne s’ajuste
+      pas à ce niveau de prix d’équilibre, c’est qu’il y a un dysfonctionnement de
+      marché. D’où l’idée principale des néoclassiques : c’est de dire que le problème
+      du chômage, c’est un problème de dysfonctionnement du marché du travail,
+      c’est-à-dire que le marché ne remplit plus son rôle qui est d’ajuster les prix
+      aux quantités. Parce que c’est ça, pour un néoclassique, le rôle du marché : ce
+      n’est pas de faciliter les transactions entre les gens, le marché ce n’est pas
+      juste d’échanger des produits, ce n’est pas ça d’un point de vue économique. Le
+      marché c’est l’institution qui crée les prix. J’en ai déjà parlé, souvenez-vous,
+      chapitre 5. Or les prix ne sont pas bien créés, le marché dysfonctionne.
+  - chunk_index: 41
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 678
+    text: |-
+      Bon, pourquoi il dysfonctionne ? Alors la théorie dit la chose suivante :
+      d’abord, le marché du travail ce n’est pas un marché, et ça tous les économistes
+      le reconnaissent, quel que soit leur bord. Le marché du travail ce n’est pas un
+      marché qui est totalement… comment dire… qui fonctionne exactement comme les
+      autres. Recruter, un processus de recrutement, c’est long, c’est difficile.
+      Pendant un certain temps le salarié sera en période d’essai ; si ça ne va pas,
+      on va licencier, on va rompre le contrat, et puis on va en prendre un autre.
+      Bon, tout ça pour dire qu’il y a forcément une part du chômage qui est
+      frictionnel. On a besoin d’un stock de chômeurs dans lequel puiser quand on est
+      une entreprise pour pouvoir recruter. On a besoin d’un certain temps quand on
+      est salarié pour trouver l’entreprise qui nous plaît, parce que ça va aussi de
+      l’autre côté. Donc forcément, quand on quitte son emploi, qu’on en cherche un
+      autre, il y a une période dans laquelle il y aura forcément un peu de chômage.
+      On peut considérer que le niveau de plein emploi ce n’est pas le niveau à 0 % de
+      chômeurs. Si vous avez aucun chômeur, 0 %, ça deviendrait impossible à
+      l’entreprise pour recruter, ça ne serait pas possible de faire quoi que ce soit,
+      en fait, concrètement. Zéro chômeur, 0 % de chômage, ce n’est pas le plein
+      emploi, c’est un dysfonctionnement profond de la société, de l’économie. Donc le
+      plein emploi c’est 2 % de chômeurs par exemple. Bon, on ne sait pas exactement
+      ce que c’est, le plein emploi, parce que c’est difficile d’évaluer le niveau de
+      plein emploi réellement, mais on va dire que si on est dans une société où on a
+      moins de 3 % de chômeurs… à mon avis à 3 % on n’est pas tout à fait au plein
+      emploi, mais si on est à 2 % de chômeurs, comme ça a existé, c’était le cas en
+      France dans les années 60, alors dans ce cas-là on peut dire que tout le chômage
+      est frictionnel, et donc on peut dire qu’il n’y a pas de chômage. Frictionnel
+      veut dire un certain temps de latence entre le moment où on est au chômage — on
+      termine ses études, où on a démissionné par exemple — et puis le moment où on
+      retrouve un emploi. Il se passe toujours quelques mois, donc forcément il y aura
+      un stock de chômeurs qui va exister, et il faut ce stock de chômeurs, sinon les
+      entreprises ne peuvent pas recruter, par définition. Voilà.
+  - chunk_index: 42
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 429
+    text: |-
+      Mais là évidemment ce n’est pas ça qu’on veut expliquer. Ce qu’on veut
+      expliquer, c’est pourquoi le chômage est à 8 % ou 10 %, donc bien supérieur au
+      taux de 2 % qui est le taux de plein emploi. Alors là les néoclassiques nous
+      disent : reprenons le raisonnement de tout à l’heure, parce que le salaire ne
+      parvient pas à s’ajuster. Oui, mais pourquoi le salaire ne parvient-il pas à
+      s’ajuster ? Parce qu’il y a des lois, des règles, des conventions collectives
+      qui empêchent l’ajustement des salaires, parce qu’il y a des syndicats qui font
+      pression pour la hausse des salaires. Donc si le marché du travail ne s’ajuste
+      pas, c’est parce que le travail ce n’est pas n’importe quel bien : c’est un bien
+      qui détermine le revenu de la plupart des gens. Donc les gens, et bien,
+      poussent, de par la loi, de par leur activité syndicale, de par les
+      manifestations qu’ils font dans la rue — voyez tous ces gens —, ils poussent à
+      des hausses de salaires. Et ils poussent tellement fort à des hausses de
+      salaires que l’on se retrouve dans un environnement institutionnel où les
+      salaires sont supérieurs au niveau d’équilibre partout, à tous les niveaux.
+      C’est aussi bien au niveau du SMIC — puisqu’il y a un salaire réglementé par la
+      loi — qu’à des niveaux intermédiaires où là on a des conventions collectives ou
+      des syndicats qui font pression à la hausse. Et donc tous ces niveaux de salaire
+      font que le chômage ne peut pas se résorber.
+  - chunk_index: 43
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 982
+    text: |-
+      Oui, mais alors pourquoi a-t-on ces lois ? C’est ce SMIC, pourquoi a-t-on tout
+      cela ? Et bien parce qu’on le veut bien. Et c’est là l’origine du terme de
+      chômage volontaire. Et là je veux insister : du point de vue néoclassique, le
+      chômage volontaire a un point d’exclamation, quand même. Parce qu’à chaque fois
+      vous faites l’erreur — chaque fois dans les copies, si je pose la question, à
+      chaque fois vous tombez dans le piège — donc écoutez bien : d’un point de vue
+      néoclassique, le chômage volontaire n’est pas un chômage où le chômeur est
+      individuellement volontaire pour être au chômage. Le chômage volontaire, ce
+      n’est pas parce que le chômeur préfère toucher des allocations chômage plutôt
+      que de travailler. Ce n’est pas ça. Pourquoi ? Parce que théoriquement, en
+      théorie, dans la définition même du chômage, le chômeur c’est quelqu’un qui
+      n’est pas content d’être au chômage, c’est quelqu’un qui n’a pas choisi d’être
+      au chômage. La définition théorique du chômage, c’est quelqu’un qui cherche
+      activement un emploi et qui n’en trouve pas. Alors maintenant que j’ai dit ça,
+      nous sommes d’accord : on peut tout à fait estimer — c’est tout à fait légitime
+      de penser — que tous les chômeurs ne sont pas des chômeurs ; tous les gens qui
+      sont inscrits à Pôle emploi, peut-être que certains d’entre eux ne cherchent pas
+      vraiment activement un emploi, et ça bien sûr c’est vrai. Mais ce n’est pas la
+      même chose. Ce n’est plus un chômeur au point de vue théorique. C’est des gens
+      qui sont feignants, qui ne veulent pas travailler, qui font là aussi peut-être
+      un choix, un calcul, qui est de dire : bon, je préfère toucher le RSA que
+      travailler. Je ne vous dis pas que ça n’existe pas. Seulement, ce n’est pas du
+      chômage au sens où la théorie économique explique le chômage. Si on dit : les
+      chômeurs sont juste des gens qui ne veulent pas travailler, on dit en fait : il
+      n’y a pas de chômeurs, il n’y a pas de gens qui veulent vraiment travailler et
+      qui ne trouvent pas de boulot. Et voyez bien le souci : c’est que si on dit ça,
+      on n’a plus de théorie du chômage, on n’a plus même de concept de chômage. Les
+      néoclassiques, certains le diraient — certains économistes le disent — une
+      grande partie des chômeurs sont des faux chômeurs. Alors ils ne disent pas les
+      choses comme ça, parce qu’ils sont bien élevés, ils disent comme Emmanuel Macron
+      — il a dit il y a quelques mois qu’on ne peut pas augmenter le RSA parce que
+      sinon les gens n’auront plus envie de travailler — ou comme l’a dit aussi
+      Emmanuel Macron, et ça vous vous en souvenez : « Pour sortir du chômage, il
+      suffit de traverser la rue et on trouvera facilement du boulot. » Sous-entendu :
+      enfin, vous n’êtes pas vraiment chômeur, vous sortez, vous vous bougez, si je
+      puis dire, traversez la rue et vous vous trouvez du boulot. Sous-entendu : il
+      n’y a pas de chômage, il n’y a pas de phénomène économique chômage. Alors Macron
+      pouvait le dire avant la crise du Covid, et maintenant il peut beaucoup moins le
+      dire, parce que l’explosion du chômage n’est pas… ça ne vient pas du fait que
+      tout le monde aujourd’hui est plus feignant. Et c’est tout le problème : si la
+      théorie économique a commencé à poser la question du chômage, c’est parce que
+      dans les années 30 tout le monde n’est pas devenu feignant tout d’un coup.
+  - chunk_index: 44
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 106
+    text: |-
+      Et c’est tout le problème : si la
+      théorie économique a commencé à poser la question du chômage, c’est parce que
+      dans les années 30 tout le monde n’est pas devenu feignant tout d’un coup. Donc
+      se reposer uniquement sur l’explication « les gens ne veulent pas travailler,
+      c’est pour ça qu’il y a du chômage », ça c’est un peu court, même si ça peut
+      exister.
+  - chunk_index: 45
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 354
+    text: |-
+      Aussi, reprenons notre réflexion sur le chômage. Nous avons mettons pour faire
+      rond 10 % de chômeurs. 2 % sont du chômage frictionnel statistiquement. Et puis
+      il y a 8 %. Sur ces 8 %, on peut tout à fait estimer que certains ne sont pas
+      des vrais chômeurs, donc on les exclut aussi du modèle théorique, parce que ça
+      ne nous intéresse pas : c’est des gens qui sont en fait satisfaits de leur sort,
+      donc ce n’est pas un problème, ce n’est pas un problème économique si les gens
+      sont contents de ne pas être au travail, de toucher les allocations chômage. Là
+      aussi il faut arrêter avec les cris d’orfraie : « Ah, ces chômeurs feignants »,
+      etc. Mais laissons-les feignants, s’ils sont heureux comme ça, où est le
+      problème ? Oui, d’accord, on paye, mais enfin on paye pour tout, on paye pour
+      les actionnaires, on paye pour tout un tas de gens. Bon, on peut bien payer un
+      petit peu, ça coûte très très peu cher en fait à l’échelle d’une société. On
+      peut bien payer des gens à rien faire s’ils veulent, ok, ce n’est pas notre
+      problème ; on ne les paye pas beaucoup d’ailleurs. Donc laissons ça, ce n’est
+      pas un problème, ce n’est pas un problème social.
+  - chunk_index: 46
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 730
+    text: |-
+      Par contre le vrai problème, il est de tous ces gens qui existent — bon,
+      mettons, je dis n’importe quoi parce qu’on n’a pas de faits, d’études réelles
+      sur ce genre de cas, mais on sait que c’est minoritaire. On sait que sur les 8 %
+      qui restent, il y en a peut-être que 2 % qui sont des feignants qui ne veulent
+      pas travailler. Il reste donc 6 % de gens qui veulent vraiment travailler, qui
+      cherchent activement du travail et qui n’en trouvent pas. Vous verrez quand vous
+      aurez terminé vos études : chercher du travail ce n’est pas facile. Vous avez
+      votre master, vous êtes content, et puis voilà, et après… non, ça ne vient pas
+      spontanément. Ça arrive, parfois vous avez la chance, vous trouvez un emploi ;
+      parfois ça n’arrive pas. Bref, tout ça pour dire que le chômage ce n’est pas
+      juste des feignants. Si on admet que le chômage n’est pas juste des feignants,
+      alors il faut poser la question de pourquoi il existe des chômeurs. Et c’est là
+      qu’on revient sur l’explication néoclassique du chômage volontaire. Ce chômage
+      volontaire, il faut bien comprendre qu’il ne s’agit pas d’une volonté
+      individuelle du chômeur ; il s’agit d’une volonté collective. Ça veut dire en
+      fait, en quelque sorte, que pour les néoclassiques le chômage existe parce que
+      la société dans son ensemble, parce que les salariés dans leur ensemble, de par
+      leur syndicalisation, de par leur manifestation, de par leur vote et leur choix
+      collectif, militent et font en sorte que les salaires sont trop élevés par
+      rapport au salaire d’équilibre. Le principe de chômage volontaire, c’est écrit
+      là, entre guillemets : « volontaire » via les négociations collectives ; les
+      syndicats tendent à préférer les hauts salaires à un chômage faible. Autrement
+      dit, il y aurait en France par exemple — l’explication du taux de chômage
+      important — une préférence nationale pour le chômage, ou plutôt une préférence
+      nationale pour des hauts salaires, qui implique du chômage. En gros, on aurait,
+      d’un point de vue de la théorie néoclassique, aucun des deux n’est forcément
+      plus mal ou meilleur que l’autre ; c’est juste qu’il y a un choix à faire entre
+      deux formes de système économique : l’un qui permet d’avoir le plein emploi mais
+      qui ne rémunère pas bien les gens, l’autre qui rémunère bien les gens mais qui,
+      du coup, implique un taux de chômage élevé. Et donc ce choix social, il est
+      construit comment ? Il est construit par les lois, par les droits du travail,
+      par tout un ensemble d’institutions sociales qui existent et qui impliquent
+      qu’on sera plutôt dans l’un ou dans l’autre.
+  - chunk_index: 47
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 498
+    text: |-
+      Alors les économistes néoclassiques nous disent : regardez, en France on a une
+      préférence quelque part pour le chômage, ou plus précisément on a plutôt une
+      préférence pour les hauts salaires. Alors qu’au Royaume-Uni ils ont des emplois
+      à zéro, ils ont une flexibilité très forte du travail, ils ont des salaires plus
+      faibles qu’en France, mais du coup ils ont le plein emploi. Donc on nous dit :
+      voilà, il y a un choix entre les deux. Autrement dit, si vous voulez baisser le
+      chômage, c’est possible, nous dit la théorie néoclassique, mais il va falloir en
+      rabattre sur le niveau de vos prétentions en termes de salaire. Je répète — oui,
+      parce que la base de la pédagogie c’est la répétition — : lorsque nous nous
+      retrouvons devant une situation de chômage, du point de vue néoclassique, cela
+      veut dire que les salaires sont supérieurs au taux d’équilibre, au salaire
+      d’équilibre. Mais cela veut dire aussi et surtout que les salaires ne peuvent
+      plus s’ajuster. C’est la raison pour laquelle ils sont supérieurs au taux
+      d’équilibre. Qu’est-ce qui empêche l’ajustement des salaires, nous disent les
+      néoclassiques ? C’est l’ensemble des lois, des règles, des institutions qui
+      poussent les salaires à la hausse. Pourquoi ces institutions ont été mises en
+      place ? Parce que les gens veulent des salaires plus élevés, et ils font en
+      sorte d’avoir des salaires plus élevés. C’est en ce sens que les gens
+      collectivement sont volontaires pour avoir des salaires élevés. Autrement dit,
+      il existe un arbitrage — là aussi toujours cette logique d’arbitrage — entre
+      salaire et plein emploi : si vous avez l’un, vous n’avez pas l’autre, et donc si
+      vous avez l’autre, vous n’avez pas l’un.
+  - chunk_index: 48
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie néoclassique du chômage
+    content_token_count: 452
+    text: |-
+      Pour le dire autrement, d’où un certain nombre de lois qui sont passées
+      récemment : les ordonnances travail d’Emmanuel Macron, tout un ensemble de lois
+      qui visent à affaiblir les syndicats, à flexibiliser le marché du travail comme
+      on dit, c’est-à-dire à faire en sorte que les contrats s’ajustent plus
+      facilement, pour finalement faire baisser le salaire et le remettre au niveau
+      d’équilibre, en tout cas lui permettre de s’ajuster plus facilement. D’ailleurs
+      autre chose qu’on fait souvent, c’est qu’on baisse les cotisations sociales,
+      etc., pour toujours faire baisser le coût du travail sans avoir l’impression que
+      les salariés perdent, finalement, alors qu’en fait ils perdent, parce que si on
+      supprime les cotisations sociales, certes le salaire net sera le même, donc on
+      aura l’impression de ne pas perdre, mais en réalité le trou dans la sécurité
+      sociale va apparaître, et donc les niveaux de retraite vont être insuffisants.
+      Donc là aussi, réforme des retraites : écoutez Bruno Le Maire parler depuis un
+      mois, il ne nous parle que de ça, son économie s’effondre et lui dit qu’il faut
+      faire une réforme des retraites. Bref, pardon, je vais encore être méchant.
+      Voilà. Donc c’est ça le cœur de la théorie néoclassique, et vous voyez que c’est
+      quand même une théorie qui vous explique plein de choses, qui vous dit
+      exactement le fond de la politique menée aujourd’hui. Bon, je vois qu’il est
+      déjà midi et quart, je ne fais pas de pause, hein, vous faites une pause si vous
+      voulez, et il me faut expliquer maintenant la théorie keynésienne du chômage.
+  - chunk_index: 49
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 425
+    text: |-
+      Alors c’est une théorie totalement différente de l’autre, bien sûr, elle ne va
+      pas dire du tout les mêmes choses. On verra tout à l’heure les différences. Mais
+      elle se fonde déjà sur une critique, sur la critique de la pensée néoclassique.
+      Pourquoi ? Parce que le problème de la pensée néoclassique, c’est qu’elle
+      considère que le problème du chômage est un problème de marché du travail,
+      c’est-à-dire qu’elle considère que le chômage c’est microéconomique, c’est un
+      problème de marché. Pour Keynes, cette solution passe à côté d’un problème quand
+      même, enfin d’une idée importante, qui est que le travail ce n’est pas une
+      marchandise comme les autres. Pas une marchandise comme les autres, parce que
+      c’est un facteur de production. Et donc, comme c’est un facteur de production,
+      ce qui détermine sa demande, c’est le niveau de production avant de regarder le
+      coût du travail. Et là on a un vrai problème : les économistes néoclassiques
+      nous offrent toujours le même modèle de raisonnement, qui est que les quantités
+      sont toujours déterminées par les prix, rien d’autre. Il n’y a que les prix qui
+      déterminent les quantités de tout : du travail, du thé, de tout ce que vous
+      voulez ; tout est une question uniquement de prix. On nous propose du coup comme
+      ça une courbe très simple : les quantités achetées, vendues, demandées, offertes
+      sont déterminées uniquement, exclusivement par les prix. Mais est-ce que dans la
+      réalité seuls les prix déterminent tous les comportements ? Personnellement j’en
+      doute, et je pense que les choses sont parfois un peu plus compliquées que cela.
+  - chunk_index: 50
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 246
+    text: |-
+      Reprenons la question du travail. Vous voyez qu’on nous a présenté une courbe en
+      disant : finalement, est-ce qu’on embauche ou pas dépend uniquement du prix du
+      travail. Mais à aucun moment on ne s’est posé la question de savoir si
+      l’entreprise a besoin ou non de salariés. Alors bien sûr on a pu se poser dans
+      le tableau en disant : regardez la quantité de production, mais là aussi on a
+      fait varier la quantité de production que par rapport au niveau de salaire, au
+      nombre de salariés. Mais peut-être qu’il faudrait regarder les choses d’un point
+      de plus dynamique. Peut-être qu’aujourd’hui on n’a pas besoin d’un 5e salarié,
+      mais que ce 5e salarié va nous permettre d’augmenter notre production pour
+      répondre à une demande future. Peut-être que si on raisonne non pas à l’instant,
+      de manière statique, mais de manière un peu dynamique, la question se pose
+      différemment.
+  - chunk_index: 51
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 420
+    text: |-
+      Bon, fort de toutes ces réflexions, Keynes a aussi vécu la crise des années 30,
+      et la crise des années 30, on a vu l’explosion soudaine du chômage. Il n’y a pas
+      d’explication à la théorie néoclassique sur l’explosion du chômage en temps de
+      crise, puisque tout est un problème de marché du travail. Or rien ne change
+      pendant 1929, rien ne change dans le marché du travail. Ce qui change, c’est les
+      fondements de la Bourse. La question qui doit se poser, c’est : comment
+      l’effondrement de la Bourse peut avoir un effet sur le marché du travail ? Ah,
+      mais ça c’est un effet externe. Si on considère que l’effondrement des revenus
+      lié au fait qu’on fasse des pertes boursières, la difficulté qu’ont les
+      entreprises à financer leurs investissements liée aux faillites des banques, si
+      on considère que ça détermine l’emploi, alors vous voyez bien qu’on ne dit plus
+      du tout que c’est le salaire qui détermine l’emploi, on dit que c’est autre
+      chose. Alors on ne dit pas que le salaire n’a pas d’influence, on dit juste
+      qu’il faut regarder aussi ailleurs. C’est pour cette raison que je vous dis que
+      Keynes cherche à avoir une explication macroéconomique du chômage, c’est-à-dire
+      qu’il cherche à dire : le problème du chômage n’est pas uniquement le marché du
+      travail, c’est aussi ce qui se passe ailleurs dans d’autres marchés. D’où le
+      caractère macroéconomique, c’est-à-dire qu’on va regarder l’économie dans son
+      ensemble.
+  - chunk_index: 52
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 317
+    text: |-
+      Et donc la conclusion qu’il en tire — mais que n’importe qui peut en tirer,
+      parce qu’en fait l’idée de Keynes c’est une idée très simple, une idée qui n’a
+      pas demandé de réfléchir très longtemps en réalité — c’est simplement de se dire
+      : bon, en fait, chaque entreprise, avant d’embaucher, elle se pose la question
+      de combien je peux vendre. C’est-à-dire que ce qui détermine le niveau d’emploi,
+      c’est la demande qu’elle attend, ce qu’on appelle aussi le carnet de commandes.
+      C’est-à-dire que si on raisonne à l’échelle macroéconomique, à l’échelle de
+      toutes les entreprises, c’est la demande globale, la demande de l’ensemble de la
+      société, qui va déterminer le niveau de production, et ce niveau de production
+      va déterminer directement le niveau d’emploi. Voilà. Donc le travail est un
+      facteur de production ; sa demande dépend donc du niveau de production globale,
+      qui est comme vous le savez l’ensemble de la valeur ajoutée, c’est-à-dire le
+      PIB, c’est-à-dire grand Y, parce que voilà, il faut savoir que grand Y c’est le
+      PIB, ça fait quand même un bout de temps que je le répète.
+  - chunk_index: 53
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 996
+    text: |-
+      Mais là je n’ai pas encore dit toutes les choses. Tout à l’heure je vous ai dit
+      que la pensée keynésienne raisonne en dynamique. Je veux dire par là que ce qui
+      va déterminer l’embauche d’aujourd’hui, ce n’est pas la demande d’aujourd’hui.
+      Si vous réussissez à… si vous avez tous vos employés au travail, votre demande
+      d’aujourd’hui elle fournit le travail à tous vos employés. Si vous recrutez un
+      5e ou 6e, un nouvel employé, il va bien falloir trouver une demande
+      supplémentaire. Ça veut dire que ce qui détermine d’abord et avant tout
+      l’embauche, ce n’est pas votre carnet de commandes de maintenant, ou plus
+      précisément ce n’est pas votre demande de maintenant, c’est plutôt votre carnet
+      de commandes, c’est-à-dire ce que vous anticipez comme demande l’année
+      prochaine. Et cette anticipation de la demande, Keynes l’appelle la demande
+      effective. La demande effective, ce n’est pas la demande, c’est la demande qui a
+      des effets, des effets sur l’emploi, des effets sur les décisions des
+      entrepreneurs. Autrement dit, c’est la demande anticipée qui va déterminer, par
+      son anticipation, les décisions d’aujourd’hui. Pourquoi ? Parce que
+      l’entrepreneur — et là on se retrouve aussi sur ce que j’ai dit tout à l’heure
+      sur l’engagement, sur l’investissement sur le long terme — on ne peut pas être
+      un entrepreneur si on n’a pas une vision à moyen et long terme. Sinon, je veux
+      dire, à quoi ça sert un entrepreneur qui n’aurait pas de vision long terme ? Ça
+      n’existe pas, ce n’est pas un entrepreneur, c’est une mécanique. Ouais, c’est…
+      on ne crée pas une économie avec une mécanique, on crée une économie avec des
+      individus qui sont là en train de prévoir, d’anticiper, de chercher à
+      comprendre. D’où d’ailleurs les problèmes actuels de l’économie. Parce que ce
+      qu’on ne dit pas, c’est que le cœur du problème, ce n’est pas juste que les
+      magasins sont fermés, que les restaurants sont fermés ; le cœur du problème
+      c’est que les entrepreneurs ne savent pas du tout ce qui va se passer dans deux
+      mois. Comment voulez-vous embaucher alors que vous avez une incertitude radicale
+      sur ce qui va se passer ? Et vous voyez, nous on ne sait même pas si on va
+      pouvoir reprendre les cours en janvier. Voilà, peut-être Macron l’a dit, puis
+      tout d’un coup là on voit les taux de contamination qui augmentent, finalement
+      peut-être pas. Bon, vous voyez bien, imaginez-vous être un entrepreneur, vous
+      êtes un restaurateur ou même vous êtes une grande surface. Voyez à côté de la
+      fac de Saint-Serge, vous avez le Super U, je ne sais pas si vous allez acheter
+      des salades ; le salad bar il est fermé depuis quelques semaines. Pourquoi il
+      est fermé ? Parce qu’il n’y a plus d’étudiants. Pourquoi il n’y a plus
+      d’étudiants ? Parce qu’on a décidé de fermer la fac. Bon, là on a quelque chose
+      : un supermarché qui est censé ne pas être concerné par les mesures de
+      fermeture, mais qui de fait, indirectement, est concerné par les mesures de
+      fermeture, parce que quand il n’y a plus d’étudiants, il n’y a plus d’étudiants
+      pour acheter des salades. Donc il n’y a plus… donc le salad bar n’est plus
+      rentable, donc on le ferme. Donc vous voyez que quand on est entrepreneur, on
+      est toujours dans l’anticipation. C’est la fonction de l’entrepreneur : c’est
+      d’anticiper, de réfléchir sur ce qui va se passer dans quelques mois. C’est pour
+      cette raison qu’on peut effectivement parfois légitimement dire : oui, d’accord,
+      je suis bien payé, mais je prends des risques.
+  - chunk_index: 54
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 330
+    text: |-
+      C’est pour
+      cette raison qu’on peut effectivement parfois légitimement dire : oui, d’accord,
+      je suis bien payé, mais je prends des risques. Oui, ok, si tu prends des
+      risques… voilà. Parfois quand on nous explique que l’entrepreneur doit surtout
+      ne pas prendre de risque, et qu’on justifie — je reviens sur l’idée — qu’il faut
+      absolument que les emplois, les contrats de travail soient extrêmement
+      flexibles, parce que sinon les pauvres employeurs, les entrepreneurs, ils vont
+      prendre des risques, c’est terrible pour eux, on se fiche du monde. C’est comme
+      si moi on me disait : « C’est terrible, David, qui est là, il va falloir qu’il
+      fasse des cours d’économie. » Bah ouais, mais c’est mon rôle, quoi. Donc de la
+      même façon, le rôle d’entrepreneur c’est de prendre des risques et d’anticiper
+      l’avenir. Donc on revient sur le fait que ce qui va déterminer l’embauche, nous
+      dit Keynes, c’est ce qu’on prévoit comme ventes et donc comme production dans
+      les 6 mois, dans les 2 ans à venir. C’est ça qui est au cœur du problème. Voilà,
+      et donc c’est ça qui détermine l’emploi chez Keynes.
+  - chunk_index: 55
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 751
+    text: |-
+      Bon, alors le souci, et c’est là qu’on va comprendre les choses, c’est que dans
+      la théorie keynésienne on peut tout à fait être à l’équilibre mais en situation
+      de sous-emploi. Le fait que l’offre soit égale à la demande, l’offre globale
+      soit égale à la demande globale, n’est qu’une égalité comptable qui ne signifie
+      rien sur le niveau d’emploi. On va toujours avoir dans une économie une offre
+      globale égale à la demande globale, on va toujours avoir dans une économie
+      autant de ventes que d’achats, mais le nombre de choses qu’on va vendre et le
+      nombre de choses qu’on va acheter ne va pas forcément garantir un niveau de
+      plein emploi. Alors pour vous montrer ce raisonnement, je vais reprendre un
+      graphique que vous n’aimez pas trop, mais vous allez le prendre, parce que c’est
+      votre rôle à vous aussi d’apprendre des choses. Donc nous sommes ici sur ce
+      graphique-là, souvenez-vous, qui parle de la demande globale. L’autre graphique
+      que je vous ai montré, c’était la consommation, mais c’est la même chose : je
+      parlais de consommation des ménages, maintenant je parle de demande globale,
+      c’est la même chose. Et cette demande globale est proportionnelle à… est liée au
+      niveau de revenu d’une économie. Le niveau de revenu d’une économie, c’est le
+      grand Y, c’est le PIB. Et donc voilà, c’est ça que vous n’aimez pas trop : cette
+      droite de pente 45° qui représente l’égalité théorique Y = DG. Cette égalité
+      théorique Y = DG… enfin, ce n’est même pas théorique, elle est toujours là. On a
+      toujours, souvenez-vous, un niveau de production qui est égal à la demande
+      globale. La demande globale, souvenez-vous, c’est quoi ? C’est l’investissement,
+      la consommation finale des ménages, les dépenses publiques — alors ici des
+      services publics, je devrais plutôt mettre… je vais le corriger — ou de la…
+      ouais, des services publics. C’est en réalité, en réalité vous savez que c’est
+      plus précisément la consommation individuelle, oui, individualisable et
+      collective des administrations publiques. Voilà, ok, on s’en fiche. Bon, donc je
+      remettrai… bon, c’est vraiment un détail, mais je remettrai le cours en total en
+      PDF tout à l’heure. Alors donc voilà, demande globale, c’est bien ça, ça vous
+      devez le savoir maintenant, parce que ça aussi on en parle depuis un bout de
+      temps, de la demande globale. Et j’ai vu qu’un étudiant m’a posé la question,
+      enfin faisait référence au chapitre 4 : c’est bien dans le chapitre 4 qu’on a ce
+      graphique, qui n’est pas tout à fait le même puisqu’il parle de consommation des
+      ménages, mais c’est la même logique.
+  - chunk_index: 56
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 254
+    text: |-
+      Donc voilà, là c’est l’ensemble des équilibres possibles, cette droite-là,
+      c’est-à-dire tous les moments où l’offre globale est égale à la demande globale.
+      Mais on a ici, vous voyez, à 0, vous avez une économie qui produit quasiment
+      rien, qui a quasiment pas de PIB, voire zéro PIB. Bon, zéro demande globale, ok,
+      normal : on n’a pas de revenu, personne ne peut acheter quoi que ce soit. Et
+      puis progressivement, au fur et à mesure que le PIB augmente, et bien vous vous
+      retrouvez ici avec une demande globale qui va être supérieure, c’est-à-dire
+      qu’en fait tout ce que vous produisez, bien vous le consommez d’une manière ou
+      d’une autre : soit sous forme d’investissement, soit sous forme de service
+      public, soit sous forme de consommation des ménages, soit vous l’exportez —
+      hein, la balance commerciale X - M fait partie de la demande globale. Bon.
+  - chunk_index: 57
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 581
+    text: |-
+      Alors la réalité, c’est que vous n’allez pas toujours trouver une demande
+      globale qui sera de cette façon-là, puisque en fait il faut ici considérer que
+      la demande globale effective ne va pas avoir la pente de 45°. Pourquoi ? Parce
+      que souvenez-vous, il y a toujours une consommation incompressible et les agents
+      économiques, en particulier les ménages, ont une proportion à consommer
+      inférieure à 1. Souvenez-vous, ça veut dire que quand vous avez — je parle ici
+      de proportion marginale d’ailleurs à consommer — quand vous avez 100 € de revenu
+      en plus, et bien vous n’allez pas consommer tous ces 100 € ; vous allez
+      peut-être consommer que la moitié, donc 50 €, et donc le reste vous allez
+      l’épargner. Et donc vous n’allez augmenter la demande globale que de 50.
+      C’est-à-dire que les revenus n’augmentent pas forcément la demande d’un même
+      montant que la hausse des revenus. Et en même temps, quand vous arrivez ici à 0
+      revenu, et bien vous avez aussi une demande qui peut exister du fait qu’on va
+      solder son épargne, par exemple. Donc nous avons une courbe de demande globale,
+      nous dit Keynes, qui est de pente inférieure à 45° à cause de la proportion
+      marginale à consommer qui est plus faible que 1, et puis on a une consommation
+      ici incompressible, une demande globale incompressible. De la même façon, c’est
+      le même raisonnement que dans le chapitre 4, qui existe même s’il n’y a pas de
+      revenu. Et donc, puisque ça c’est tous les équilibres possibles, cette
+      droite-là, on en déduit donc que tous les autres points de cette droite-là sont
+      des points impossibles, parce que l’offre est toujours égale à la demande
+      globale, elle est toujours égale à grand Y. On a l’équation, souvenez-vous, Y =
+      DG. Donc ça veut dire que tous ces points-là sont impossibles, parce qu’il n’y a
+      pas de Y = DG ici. Et donc il ne reste plus que ce point-là, qui est le point
+      possible. Donc forcément le point qui va être le niveau de l’économie, et donc
+      c’est le niveau de PIB Y1.
+  - chunk_index: 58
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 468
+    text: |-
+      Bon, mais le problème, c’est que ce niveau de PIB n’est pas forcément le niveau
+      de plein emploi. Alors ça veut dire qu’il y a du chômage dans l’économie. Ce
+      chômage il est donc structurel… il existe parce que… enfin, il n’est pas
+      structurel, ce n’est pas le bon mot, pardon. Ce chômage il ne va pas se résorber
+      spontanément. C’est plutôt ça, le bon mot. C’est-à-dire que on a toujours un
+      équilibre qui fait que l’économie peut continuer de tourner comme avant sans que
+      ça change quoi que ce soit. Donc le problème, c’est de réussir à faire augmenter
+      le niveau d’emploi. Et pour faire augmenter le niveau d’emploi, il n’y a pas 10
+      000 solutions : il va falloir faire augmenter ce grand Y là, ici grand Y,
+      c’est-à-dire le niveau de PIB, qui est trop faible par rapport au niveau de
+      plein emploi. Comment va-t-on faire ? Et bien il faut augmenter la courbe de
+      demande globale, c’est-à-dire il faut mettre ici cette courbe-là, cette courbe
+      rouge, cette droite plus précisément, qui est la demande globale numéro 2. Cette
+      demande globale numéro 2, elle va couper la droite des équilibres possibles à un
+      niveau supérieur, et donc mécaniquement on va se retrouver ici à un niveau de
+      plein emploi, un niveau de PIB supérieur. En gros, il faut la croissance
+      économique. Oui, je suis désolé, mais il faut la croissance économique dans la
+      pensée keynésienne pour arriver au plein emploi. Il faut passer de Y1, qui est
+      la situation de départ avec par exemple 10 % de chômeurs, à la situation Y
+      étoile avec par exemple 2 % de chômeurs. Et pour ça, et bien il va falloir
+      augmenter DG.
+  - chunk_index: 59
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 691
+    text: |-
+      Tout le problème évidemment, c’est de savoir comment on va augmenter DG, comment
+      on va augmenter la demande globale. Et bien là vous reprenez l’équation. C’est
+      quoi la demande globale ? C’est I, c’est CF, c’est G, c’est X - M. X - M, c’est
+      la balance commerciale. Est-ce que l’État peut influencer la balance commerciale
+      ? Difficile, ce n’est pas si simple. Alors il peut évidemment, il pourrait taxer
+      les importations et ainsi diminuer les importations, et du coup augmenter son
+      excédent commercial. Mais le problème, c’est qu’en face les pays vont aussi
+      taxer. Bref, ce n’est pas bon. Il y a des façons beaucoup plus simples
+      d’augmenter DG : c’est d’agir sur les autres paramètres, l’investissement, la
+      consommation finale des ménages et les services publics. Bon, vous voulez
+      augmenter la consommation finale des ménages ? Et bien vous baissez leurs impôts
+      ou vous leur versez des allocations par exemple. C’est ce qui se passe là
+      aujourd’hui, hein, crise du Covid. Ah bah tiens, vous avez entendu, pour les
+      étudiants il paraît qu’il va y avoir encore quelque chose qui va arriver en
+      janvier. Notez-le bien, ça, rendez pas votre carte étudiante maintenant, même si
+      restez étudiant quelque temps, manifestement vous allez être aidés. Bon, euh,
+      allocation familiale, des retraites aussi, hein, c’est quand même ça augmente la
+      consommation finale. On peut baisser les impôts, évidemment, souvenez-vous du TD
+      7 : le TD 7 montre bien l’impact de la baisse d’impôt sur la demande globale,
+      c’est ça dont ça parle. Donc vous pouvez aussi augmenter les dépenses publiques
+      directement via la hausse des services publics. Donc c’est-à-dire que bah vous
+      passez commande à des entreprises ou vous embauchez des fonctionnaires, et puis
+      vous produisez quelque chose qui sera demandé ici et donc qui augmentera
+      forcément là aussi la demande globale. Ou alors vous pouvez, en tant qu’agent,
+      enfin en tant qu’administration publique, en tant que chef de l’État ou de
+      gouvernement, relancer l’investissement public, construire une nouvelle route,
+      etc. Vous agissez ici sur I. Bref, les modalités vous appartiennent, vous faites
+      ce que vous voulez. Mais au final, quoi que vous fassiez — que vous baissiez les
+      impôts, que vous augmentiez les allocations versées aux ménages, que vous
+      augmentiez la dépense de service public, que vous augmentiez l’investissement —
+      dans tous les cas vous augmentez la demande globale, et dans tous les cas vous
+      rapprochez le niveau économique du plein emploi.
+  - chunk_index: 60
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Théorie keynésienne du chômage
+    content_token_count: 951
+    text: |-
+      Alors quand je vous dis des choses comme ça, finalement, c’est facile de
+      résoudre le chômage. Je vais vous dire un truc encore plus simple. Vous voulez
+      résoudre le chômage des jeunes aujourd’hui ? Les jeunes aujourd’hui, ceux qui
+      sortent en master — pas vous, vous êtes étudiants, vous êtes tranquilles pour 5
+      ans si vous allez jusqu’au master — mais moi j’ai des étudiants ils sont en
+      master, ils arrivent sur le marché du travail : coucou, je voudrais du boulot.
+      En ce moment ce n’est pas facile. Qu’est-ce que vous voulez faire ? Bon, si vous
+      voulez, bah le chômage augmente. Bah oui, ah tiens, bizarre, le chômage
+      augmente. Bah oui, c’est normal : les entreprises ne vont pas embaucher
+      maintenant, elles n’ont aucune visibilité, elles ne savent pas du tout ce qui va
+      se passer dans deux mois. Donc bien sûr qu’elles ne vont pas embaucher.
+      Qu’est-ce que pourrait faire l’État s’il veut résoudre le problème du chômage ?
+      Bah il pourrait embaucher. J’ai écrit une réponse, j’ai répondu à une interview
+      cette semaine pour Génération sacrifiée — c’est un collectif de jeunes, de moins
+      de 30 ans, moins de 35 ans, qui s’appelle Génération sacrifiée — ils
+      m’interrogent sur qu’est-ce que peut faire l’État pour résoudre le problème du
+      chômage des jeunes. Bah il n’a qu’à embaucher. Il y a des besoins dans la santé,
+      dans l’éducation. Regardez au niveau des mathématiques, ça serait peut-être bien
+      qu’on embauche des profs aussi pour enseigner les maths. Bon, on a aussi des
+      besoins dans la sécurité, on a des besoins dans la justice. On a des décisions
+      judiciaires qui mettent des années avant de se faire parce qu’il n’y a pas assez
+      de greffiers, il n’y a pas assez de juges, il n’y a pas assez d’avocats. Enfin
+      bon, il n’y a pas assez de moyens dans la justice, tout le monde le sait. On
+      dépense deux fois moins dans la justice en France qu’en Allemagne. Bon, et bien
+      il y a plein de jeunes diplômés d’études de droit et autres qui pourraient être
+      contents d’avoir du boulot, qui ont des compétences, et dans lequel on a des
+      besoins. Voilà, vous voulez résoudre le chômage ? Vous avez des besoins non
+      satisfaits, et bien embauchez des gens pour accomplir les besoins non
+      satisfaits, et vous verrez, le chômage et bien il va se résorber. Bien sûr, ça
+      ne veut pas dire que tout le chômage doit être réglé par l’État. Vous voulez que
+      les entreprises créent des emplois ? L’emploi public, ça ne va pas, ça ne vous
+      plaît pas ? Et bien passez commande auprès des entreprises, faites-leur produire
+      des choses. Les entreprises, ce n’est pas les ménages en ce moment qui épargnent
+      à fond qui vont faire des commandes pour les entreprises. Vous voulez augmenter
+      l’emploi dans le BTP ? Et bien construisez des routes, construisez des
+      bâtiments. Tiens, d’ailleurs à propos, il y a plein de mal logés en France,
+      peut-être qu’on pourrait les loger. Ah bah il faudrait construire des immeubles.
+      Et bien c’est peut-être possible de faire ça. Voyez, soyons pragmatiques : on
+      veut — pardon, c’est bête, hein — on veut résoudre le problème du chômage, et
+      bien embauchons des gens, donc dépensons de l’argent pour que les gens soient
+      mis au travail. C’est la pensée keynésienne. Vous voyez que ce n’est pas très
+      compliqué quand même.
+  - chunk_index: 61
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 557
+    text: |-
+      Bon, je vais vous présenter maintenant une forme de synthèse de la dynamique
+      keynésienne dont je viens de vous parler. Il y a un étudiant qui suit ce cours
+      mais qui m’écrit en même temps — enfin une étudiante — des emails. Bon, vous
+      m’écrivez des emails quand je ne suis pas en cours, c’est mieux, sinon je ne
+      peux pas vous répondre. Bref, présentation de la dynamique keynésienne. Je vais
+      essayer de récapituler. Voilà, pour cette dernière séance. Ah oui, alors je
+      pensais que ça arriverait progressivement, mais non, ça arrive d’un coup, ce
+      n’est pas grave. Donc comment concrètement on explique le chômage quand on est
+      keynésien ? On dit la chose suivante : d’abord le chômage, il se trouve ici dans
+      le niveau d’emploi, c’est-à-dire que concrètement on considère que le chômage
+      est un phénomène macroéconomique. Ça veut dire qu’il ne dépend pas des
+      individus, ce n’est pas les individus qui disent : ah, je n’ai pas envie de me
+      lever aujourd’hui, je ne vais pas aller travailler. Non, ce n’est pas ça. C’est
+      qu’il y a une quantité d’offre d’emploi qui est déterminée par les entreprises
+      en fonction de leur niveau de production. Certes, certaines entreprises ne
+      trouvent pas des gens pour travailler, mais en fait elles disent ça, mais c’est
+      simplement parce qu’elles ne veulent pas bien les payer. Voilà, enfin c’est
+      marginal en fait. Le taux les emplois non pourvus, en fait ça existe, hein, je
+      ne dis pas que ça n’existe pas, mais ça n’explique pas du tout l’ensemble du
+      chômage. Donc en gros, la pensée, là aussi, c’est de dire : bon, le niveau
+      d’emploi détermine le chômage. Si vous voulez faire en sorte qu’il y ait 1
+      million de chômeurs de moins, il faut créer 1 million d’emplois de plus. On ne
+      va pas chercher très très loin, hein, mais c’est à peu près ça. Toute la
+      question de savoir qu’est-ce qui détermine le niveau d’emploi.
+  - chunk_index: 62
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 514
+    text: |-
+      Là je vais raisonner à l’envers, on va prendre les flèches comme ça, à l’envers.
+      Qu’est-ce qui détermine le niveau d’emploi ? Et bien c’est le niveau de
+      production. Combien vous voulez produire ? Si vous voulez créer 1 million
+      d’emplois de plus, il va falloir produire plus et embaucher 1 million de
+      personnes. Donc produire plus. Produire, ça ne veut pas dire forcément détruire
+      la planète, hein. Ça peut être recycler mieux, ça peut être replanter des
+      arbres, ça peut être plein de choses qui peuvent être faites pour produire mieux
+      et de manière écologique. Là aussi c’est un grand débat, mais l’idée sur
+      laquelle pour être plus écolo il faut produire moins, je pense que ce n’est pas
+      si simple. On plante des arbres, on produit, on recycle, on produit, on retraite
+      les déchets. Regardez comment on a aujourd’hui des tonnes de déchets dans nos
+      rivières qui vont polluer les océans. Bon, bah on a des gens pour nettoyer les
+      rivières. On produit tout ça, c’est du niveau de production et c’est de
+      l’emploi. Après, est-ce qu’on peut dépenser pour nettoyer nos rivières ? Ça,
+      c’est une autre question. En tout cas on peut le faire, et ce n’est pas
+      antiécologique de nettoyer les rivières, ce n’est pas antiécologique de planter
+      des arbres, ce n’est pas antiécologique d’aider les personnes âgées par exemple
+      à être accompagnées de manière correcte, ou d’avoir des infirmiers dans les
+      hôpitaux. Ce n’est pas forcément détruire la nature que de s’occuper des gens,
+      ou de recruter des profs. Voilà, enfin bref, j’en passe. Mais à mon avis il y a
+      plein d’emplois qui sont compatibles avec l’écologie, et il y a plein de
+      croissance donc qui est compatible avec l’écologie, si je peux me permettre
+      d’être un méchant productiviste. Bon.
+  - chunk_index: 63
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 623
+    text: |-
+      Le niveau d’emploi est déterminé par le niveau de production. Mais qu’est-ce qui
+      détermine le niveau de production ? Pourquoi on produit ? Bah c’est le niveau de
+      demande effective, le niveau de demande effective ici. Alors c’est les
+      anticipations de demande des entreprises. Là si on est sur un niveau purement
+      privé, c’est-à-dire qu’on enlève l’État du raisonnement pour essayer de
+      comprendre le chômage qui existe indépendamment des décisions de l’État — parce
+      qu’on a bien vu tout à l’heure que l’État pouvait prendre plein de décisions
+      pour résoudre le problème du chômage. Mais pourquoi est-ce que le chômage
+      augmente dans le secteur privé ? Parce que les entreprises arrêtent d’embaucher.
+      Pourquoi elles arrêtent d’embaucher ? Parce qu’elles arrêtent de produire.
+      Pourquoi elles arrêtent de produire ? Parce qu’elles n’ont pas d’anticipation
+      d’une demande, donc le niveau de demande effective est trop faible. Pourquoi la
+      demande effective est trop faible ? Parce que le niveau de demande globale est
+      faible. Parce que les ménages épargnent, parce que les ménages n’ont pas envie
+      de sortir se choper le Covid-19 en allant faire leurs courses, et donc du coup
+      ils ne sont pas trop prêts à dépenser leur argent pour plein de raisons. Parce
+      que l’État mène aussi des politiques d’austérité qui affectent la demande
+      globale. Parce que l’État peut dépenser plus pour relancer l’activité, mais il
+      peut aussi dépenser moins en faisant une politique d’austérité, et ça détruit
+      l’activité. Bon, voilà. Et tout ça c’est lié à quoi ? La demande globale, et
+      bien c’est donc lié à ces niveaux de consommation et d’épargne, qui sont pour
+      partie ceux des ménages qui choisissent d’épargner ou de consommer, celle de
+      l’État qui choisit lui aussi de dépenser ou pas, ça joue aussi, qui va
+      déterminer donc le niveau de demande globale. Et ce niveau de consommation et
+      d’épargne, il est lui-même déterminé par le niveau d’emploi, c’est-à-dire par
+      les revenus. J’aurais pu mettre ici les revenus, mais bon ça fait un peu… ça
+      finit par faire un schéma complexe, alors qu’en fait l’idée est très simple.
+  - chunk_index: 64
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 429
+    text: |-
+      On va refaire dans l’autre sens : le niveau d’emploi détermine le niveau de
+      revenu, qui détermine le niveau de consommation et d’épargne. Souvenez-vous
+      aussi — ça aussi on l’a vu en cours — qu’est-ce qui se passe quand les ménages
+      n’ont pas confiance ? Ils arrêtent d’acheter des biens durables. Pourquoi ils
+      n’ont pas confiance ? Parce que le taux de chômage est élevé, ils ont peur
+      d’être au chômage. Ce n’est pas pareil de vivre dans une société où il y a 2 %
+      de chômage et où dès que vous êtes licencié vous pouvez facilement trouver du
+      travail, dès que vous avez terminé vos études vous trouvez facilement à vous
+      faire embaucher, que dans une société où il y a 10 % de chômage, pour ne pas
+      parler de sociétés où il y a 20, 25, 30 % de chômage, ça existe aussi
+      malheureusement. Si vous êtes dans une société avec un fort taux de chômage,
+      vous allez davantage épargner, vous êtes moins confiant sur l’avenir. Donc le
+      niveau de consommation et d’épargne est déterminé par le niveau d’emploi. Ce
+      niveau de consommation et d’épargne détermine la demande globale, la demande
+      adressée aux entreprises. La demande globale va être la base de l’anticipation
+      de la demande future, donc la demande effective plus ou moins élevée, donc le
+      niveau de production plus ou moins élevé, donc le niveau d’emploi lui aussi plus
+      ou moins élevé. Et on comprend bien que dans ce cycle on peut être dans des
+      cycles de plein emploi ou dans des cycles de sous-emploi.
+  - chunk_index: 65
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 685
+    text: |-
+      Je le fais : cycle de sous-emploi. Niveau d’emploi faible, donc fort taux de
+      chômage, donc faible consommation, forte épargne, donc niveau de la demande
+      globale faible. Donc là on n’anticipe pas une énorme croissance, donc on va
+      arrêter de… voilà, on va essayer plutôt de réduire sa production. Donc du coup
+      on réduit sa production, donc du coup on ne recrute pas les gens. On est dans un
+      cercle vicieux d’équilibre de sous-emploi. Bon. Ah, maintenant on est… tout va
+      bien. Niveau d’emploi, on est au plein emploi. Ah bah du coup les gens ont
+      confiance, ils consomment davantage, ils épargnent moins. Du coup ça crée une
+      demande globale plus importante, du coup une demande effective, les
+      anticipations des entreprises sont bonnes, ils vont vouloir donc produire plus,
+      et donc et bien ils vont embaucher, et donc ça va entretenir un niveau d’emploi
+      fort. Voilà. Donc il existe des équilibres dépressifs — du verbe dépression,
+      enfin du mot dépression — donc c’est-à-dire qui est dépressif, qui
+      s’auto-entretient. Voilà, un équilibre de dépression économique, hein, de
+      récession, qui s’auto-entretient. Des équilibres de croissance : donc là c’est
+      l’inverse, on va avoir une croissance qui va s’auto-entretenir, hein, parce que
+      quand on est dans une situation bonne et bien on va voir la production
+      augmenter, le niveau d’emploi augmenter, etc. Donc ces équilibres sont
+      auto-entretenus, ils ont une dynamique propre. Donc s’ils ont une dynamique
+      propre, ils ne vont pas se résorber spontanément. Donc il faut que l’État
+      intervienne. C’est le seul acteur qui peut changer la situation des entreprises,
+      c’est le seul acteur qui peut véritablement agir à l’échelle macroéconomique. Si
+      on attend simplement que — voyez, c’est là la différence fondamentale entre
+      Keynes et les néoclassiques — les néoclassiques disent fondamentalement : il ne
+      faut rien faire, il faut laisser les marchés ajuster les prix et vous verrez
+      spontanément tout va se résorber. Les keynésiens ont une vision beaucoup plus
+      pessimiste, ils nous disent : en fait rien ne va se résorber, si vous laissez
+      les choses se produire et bien la récession va entraîner la récession et vous
+      serez en dépression, et à la fin vous aurez du chômage qui ne fera qu’augmenter
+      ou qui va se stabiliser à un niveau très élevé. Donc il faut agir.
+  - chunk_index: 66
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 415
+    text: |-
+      Et en fait la pensée keynésienne est l’héritière des années 30. La pensée
+      keynésienne, c’est La Théorie générale publiée en 1936. Bon, ce n’est pas pour
+      rien qu’on publie La Théorie générale en 1936 : c’est parce que Keynes, qui est
+      un auteur britannique mais qui connaît bien ce qui se passe aux États-Unis et
+      même en Grande-Bretagne — où là aussi on a l’effondrement de l’activité
+      économique —, tout cela lui fait penser que l’idée de l’auto-équilibre des
+      marchés, qui est inventée par les économistes, est une idée qui en fait ne
+      fonctionne pas. Et elle ne fonctionne pas empiriquement : on voit bien que les
+      États-Unis n’arrivent pas à se sortir de la Grande Dépression. Donc s’il n’y a
+      pas de retour spontané à l’équilibre, alors il faut agir, en quelque sorte il
+      faut créer des déséquilibres, il faut créer de la rupture, il faut que l’État
+      intervienne. Et comment il peut intervenir ? Et bien voilà, il va augmenter la
+      demande globale en augmentant ses dépenses. Donc là j’ai rajouté R, hein, les R,
+      c’est-à-dire les allocations, hein, souvenez-vous, I, voilà, plus de dépenses
+      publiques, l’investissement, les services publics, les niveaux de
+      redistribution, diminution des prélèvements obligatoires, donc taxe qui va
+      monter, TCF, voilà. Essentiellement ça. C’est la recette keynésienne.
+  - chunk_index: 67
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Synthèse de la dynamique keynésienne
+    content_token_count: 538
+    text: |-
+      Voilà. Bon, et bien voilà, j’ai terminé ce chapitre-là. Alors du coup c’est
+      amusant parce que je savais bien que je n’allais pas beaucoup avoir de temps
+      pour faire le chapitre 9, mais je voulais passer du temps sur cette question du
+      chômage parce que je pense que c’est très important. Mais je vais quand même
+      faire 5 minutes de chapitre 9. Alors le chapitre 8… question chapitre 8, euh bon
+      je ne reviens pas. La question piège, c’est la question 7 : expliquer pourquoi
+      le niveau des taux d’intérêt est déterminant dans les décisions d’investissement
+      des entreprises. C’est là où vous parlez toujours d’emprunt et il ne faut pas
+      parler d’emprunt, ou en tout cas il ne faut pas que parler d’emprunt, il faut
+      aussi parler des coûts d’opportunité. Commenter, expliquer un graphique montrant
+      l’évolution de la part salariale. Oui, oui, le graphique qu’on a vu là, que vous
+      avez vu aussi en TD. Bon bref, alors oh il y a plein d’autres questions là. Bon
+      notamment les tableaux. Ah oui, il va falloir refaire les tableaux. Bon bref, je
+      vais prendre 5 minutes pour vous présenter le chapitre 9. Chapitre 9, je l’ai
+      mis sur Moodle, vous ne serez pas interrogés dessus. J’ai déjà fait le sujet
+      d’examen ; je savais déjà que je n’aurais pas le temps de faire le chapitre 9,
+      donc je n’ai pas prévu de questions sur le chapitre 9. Donc rassurez-vous, ce
+      n’est pas grave. Mais par contre je vais vous présenter, disons, le raisonnement
+      de ce chapitre 9. En fait ce chapitre, c’est la conclusion de tout ce qu’on a vu
+      quelque part. Avec tout ce qu’on a vu, vous avez déjà tous les éléments pour
+      comprendre le chapitre 9 sans même que j’aie besoin de vous l’expliquer. Ce sont
+      les politiques économiques en Europe. Alors j’ai rajouté « en Europe » parce que
+      je voudrais aussi incarner un peu davantage les choses.
+  - chunk_index: 68
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 608
+    text: |-
+      Qu’est-ce que c’est qu’une politique économique ? Bah c’est l’intervention de
+      l’État dans l’économie. Comment l’État peut-il intervenir dans l’économie ?
+      Alors il y a plein de façons d’intervenir, mais traditionnellement on dissocie
+      quatre formes de politique : la politique budgétaire, la politique monétaire, la
+      politique industrielle, la politique commerciale. Alors les politiques
+      budgétaires, il y en a plusieurs, hein, pour ça j’ai mis les bonnes, peu importe
+      si vous mettez là, ce n’est pas important. C’est comment l’État va agir par
+      rapport à ses dépenses et ses recettes. Bon, et bien en fait là on vient de le
+      voir : s’il augmente ses investissements, s’il baisse ses impôts, si voilà, s’il
+      embauche des fonctionnaires pour aller enseigner les maths à ses collégiens et
+      ses écoliers qui en ont bien besoin — c’est-à-dire vous aussi, en passant,
+      d’ailleurs — bon, s’il recrute des gens pour faire des choses, et bien il va
+      augmenter ses dépenses et donc il va agir sur l’économie, il va réduire le
+      chômage par exemple. La politique monétaire : alors il peut aussi baisser les
+      impôts, enfin bref je ne reviens pas. La politique monétaire, en Europe, elle
+      n’est pas du domaine de l’État, elle est du domaine de la Banque centrale
+      européenne. Et ça aussi on l’a déjà vu dans le chapitre sur la monnaie, où on a
+      vu que la grande question que doit trancher la Banque centrale européenne, ou
+      une autre d’ailleurs, c’est le niveau des taux d’intérêt directeurs,
+      c’est-à-dire le coût de refinancement des banques. Et on a vu que ça avait une
+      influence sur le crédit des entreprises, en le crédit des banques adressé aux
+      entreprises ou aux ménages. Et donc bien sûr les taux d’intérêt, on les a vus
+      aussi, on vient de les voir, on l’a vu la semaine dernière, ils déterminent
+      aussi le niveau d’investissement. Donc la politique monétaire parle le fait
+      qu’elle suscite ou non le crédit des banques. Souvenez-vous, elle agit sur
+      l’économie par les dépenses d’investissement dont on a vu qu’elles sont
+      directement dépendantes des taux d’intérêt.
+  - chunk_index: 69
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 274
+    text: |-
+      Les politiques industrielles. Alors ça on ne l’a pas trop vu. Bon, la question
+      industrielle, c’est comment j’organise l’offre productive. Alors ça vous l’avez
+      plus ou moins vu lorsque vous avez lu le TD 0, puisqu’il est question de la PAC,
+      la politique agricole commune. Et comme son nom ne l’indique pas, il s’agit bien
+      d’une politique industrielle, au sens où la politique industrielle vise à agir
+      sur un secteur économique en particulier, sur un système productif. Ici la
+      politique agricole commune a bien pour fonction d’agir sur l’agriculture, donc
+      il s’agit d’une politique industrielle. On a mené d’autres politiques
+      industrielles en France, bah par exemple le nucléaire, l’énergie nucléaire,
+      c’était une politique industrielle. Airbus, c’était un plan pour développer
+      l’aéronautique en France. Bon, en fait à chaque fois dans les politiques
+      industrielles on a l’État qui est au cœur de la manœuvre pour essayer de
+      développer un certain secteur.
+  - chunk_index: 70
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 191
+    text: |-
+      Et puis enfin on a la politique commerciale. Ça aussi on ne l’a pas beaucoup vu.
+      C’est juste l’idée de comment on organise les échanges avec l’étranger. Vous
+      aurez l’occasion de le voir, il y a plein de théories là-dessus, mais en gros
+      c’est un choix entre libre-échange — on n’intervient pas —, protectionnisme — où
+      là on va chercher à organiser les échanges, c’est-à-dire à éventuellement taxer
+      ou limiter les importations, ou subventionner les exportations, enfin tout ça
+      c’est de l’interventionnisme, on peut dire l’interventionnisme si vous préférez
+      dans le commerce international — puis on peut avoir aussi une politique
+      d’autarcie, qui est encore autre chose. Voilà.
+  - chunk_index: 71
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 293
+    text: |-
+      Donc si je veux vous présenter ce chapitre, c’est pour vous dire que ce qui m’a
+      intéressé ici dans le chapitre, c’est à chaque fois, une fois qu’on a expliqué
+      ces différentes politiques économiques, de s’intéresser à la manière dont elles
+      sont mises en œuvre aujourd’hui en Europe. Et en fait ce qui est amusant — enfin
+      ce qui est amusant, ce qui est intéressant — c’est que les règles européennes
+      contraignent énormément ces politiques. C’est-à-dire que la politique budgétaire
+      par exemple est très contrainte par les traités : traité de Maastricht, traité
+      d’Amsterdam, le TSCG, tous ces traités qui demandent aux États de ne pas faire
+      de déficit budgétaire. Or ne pas faire de déficit budgétaire, bien c’est ne pas
+      pouvoir augmenter les dépenses — on l’a vu tout à l’heure — ou diminuer les
+      recettes pour agir sur l’économie et donc stabiliser la conjoncture économique.
+      Donc ça limite la potentialité de l’État à résorber le chômage. Oui, c’est ça
+      qu’il faut comprendre.
+  - chunk_index: 72
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 467
+    text: |-
+      Bon, j’ai ajouté un truc là, parce que je disais qu’en Europe il n’y a pas de
+      politique budgétaire européenne, ce qui est globalement vrai parce qu’elle ne
+      peut pas faire de déficit. Mais depuis cette année on a conçu un plan de relance
+      qui est un truc très bizarre. Alors là aussi, bon, je ne vais pas revenir parce
+      que c’est trop long, mais on nous explique : regardez, l’Europe va s’endetter,
+      etc. Mais en même temps l’Europe s’endette mais elle n’a pas de ressources
+      propres, elle n’a pas de revenus en face. Et donc c’est quand même compliqué de
+      s’endetter quand on n’a pas de revenu. Donc en fait elle s’endette en disant :
+      on va créer des impôts plus tard. Et c’est quand même assez bizarre qu’on puisse
+      s’endetter maintenant et créer des impôts plus tard. C’est-à-dire bon, bref, je
+      ne vais pas revenir dessus, c’est un peu bizarre. Ce que je peux dire aussi,
+      c’est que ce n’est pas encore fait, hein, parce que même si le projet est
+      ficelé, tout le monde est d’accord, en fait il y a des gouvernements — la
+      Pologne et la Hongrie — qui refusent parce qu’il y a une conditionnalité
+      derrière ce plan de relance, et ils refusent la conditionnalité. Donc ils sont
+      en train de tout bloquer. On va peut-être y arriver, mais moi j’attends de voir
+      ce qui va se passer dans quelques années avec ce plan de relance qui par
+      ailleurs ne résoudra absolument rien des problèmes économiques liés à la crise
+      du Covid. Hein, faut là aussi — bon, et pardon d’être pessimiste — mais ça va
+      être compliqué. Restez étudiant si vous pouvez. Si vous cherchez du boulot
+      l’année prochaine, ça va être à mon avis compliqué.
+  - chunk_index: 73
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 346
+    text: |-
+      Bref, autre chose : la politique monétaire. Et bien la politique monétaire est
+      le produit de la Banque centrale européenne, qui a un objectif d’inflation, de
+      lutte contre l’inflation, prioritaire. Et donc et bien qui va avoir tendance
+      plutôt à structurellement augmenter les taux d’intérêt, même s’il est vrai que
+      depuis la crise de 2008-2009 elle a largement mis à côté son objectif de faible
+      inflation pour essayer d’accompagner la croissance et la reprise. Bon, les
+      politiques industrielles, elles sont de plus en plus interdites en France et en
+      Europe en raison des règles européennes de la concurrence. Alors il y a parfois
+      des petits trucs qui arrivent comme ça à survivre, par exemple le plan batterie
+      européen, qui est une politique industrielle. Alors j’avoue que je n’ai pas
+      étudié à fond le truc, mais apparemment on va chercher à construire des
+      batteries en Europe, des batteries de voiture. C’est évidemment indispensable si
+      on veut s’engager dans la voiture électrique, ce qui apparaît aussi aujourd’hui
+      indispensable. Et donc on va subventionner des entreprises qui produisent des
+      batteries. Donc voilà, donc c’est contraire aux règles de la concurrence, mais a
+      priori on a réussi à changer nos propres règles pour le faire.
+  - chunk_index: 74
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 373
+    text: |-
+      Et enfin la politique commerciale. Alors je vous ai dit ce que c’était, hein,
+      sans rentrer dans le détail. Bon, il y a clairement une politique
+      libre-échangiste en Europe, et elle n’est pas déterminée par les États membres,
+      elle est déterminée directement par la Commission européenne, qui négocie au nom
+      des États membres l’ensemble des traités, avec pour mission — vous voyez — de
+      contribuer dans l’intérêt commun au développement harmonieux du commerce
+      mondial, à la suppression progressive des restrictions aux échanges
+      internationaux et aux investissements étrangers directs, ainsi qu’à la réduction
+      des barrières douanières et autres. La politique commerciale est statutairement,
+      réglementairement, juridiquement — je ne sais pas comment on peut dire —
+      libre-échangiste. On ne peut pas mener une politique protectionniste à l’échelle
+      européenne, a priori ; ou si on menait une politique protectionniste, ça ne
+      serait toujours juridiquement valide que si on dit : oui, mais c’est
+      transitoire, c’est pour contribuer au développement harmonieux du commerce
+      mondial et à la suppression des barrières douanières. C’est ça aussi, quand
+      même. Donc ça veut dire que là aussi le choix démocratique du type de politique
+      qu’on veut mener est questionnable. C’est-à-dire que concrètement la capacité
+      des individus à choisir une politique commerciale est faible, puisque en fait
+      tout est déjà tranché par les traités.
+  - chunk_index: 75
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 546
+    text: |-
+      Donc si on reprend les différentes politiques, on voit que la politique
+      budgétaire est très sérieusement contrainte ; la politique monétaire
+      n’appartient plus à l’État, elle est confiée à une autorité indépendante, la
+      Banque centrale européenne ; la politique industrielle est elle aussi très
+      contrainte par le principe de la concurrence libre et non faussée ; et enfin la
+      politique commerciale est là aussi juridiquement contrainte à être
+      libre-échangiste. Et voilà. Donc si je voulais vous parler de cela, vous lirez
+      un peu plus en détail si vous voulez, parce que ce n’est pas au cœur du cours
+      puisque je ne poserai pas de questions sur ce chapitre. Vous pouvez aussi
+      réfléchir sur ce que ça signifie d’avoir un gouvernement, d’avoir des pays qui
+      vous promettent de résoudre le chômage, de faire ceci cela, d’arriver vers une
+      économie qui soit quelle qu’elle soit d’ailleurs, quelle que soit leur promesse,
+      et qui en fait sont dépourvus des leviers d’agir sur l’économie. Et pour moi je
+      pense que c’est le problème principal de notre époque : c’est d’avoir une
+      démocratie comment dire… empêchée ou limitée du fait de tout un ensemble de
+      traités, de règles, de lois, qui ne sont pas uniquement des règles, des lois qui
+      visent à garantir l’État de droit, etc., mais qui sont des règles, des lois qui
+      visent à interdire un certain nombre de politiques économiques. Et quand on vote
+      pour des gens dont on a dépossédé, qui n’ont plus de pouvoir d’agir sur
+      l’économie, évidemment après on est déçu. Et si on veut comprendre pourquoi on a
+      une crise démocratique aujourd’hui, pourquoi il y a du populisme, pourquoi on a
+      eu le mouvement des Gilets jaunes, etc., je pense qu’il faut s’interroger sur
+      nos manières de mener des politiques économiques, ou plutôt nos manières de ne
+      pas pouvoir mener des politiques économiques une fois qu’on arrive au pouvoir.
+      Voilà, c’était la conclusion de ce cours.
+  - chunk_index: 76
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 397
+    text: |-
+      Il est 13 h. Alors avant de vous lâcher, encore une fois désolé, j’ai encore un
+      dernier truc à vous dire. Il manque une heure de cours en vidéo parce que je
+      n’ai jamais réussi à récupérer l’heure que j’ai faite, et je sais que certains
+      d’entre vous n’ont pas pu la voir parce qu’ils étaient à distance à ce
+      moment-là. Donc je vais la refaire. Je vais la faire, je veux la faire, je vais
+      la faire la semaine prochaine je pense. Je vais prendre une heure. Si vous
+      voulez, vous pouvez assister au cours, je vais le mettre sur — comme ici — sur
+      Panopto, et je l’ai réintégrée du coup dans l’espace Moodle. Donc c’est la fin
+      du chapitre 3, le début du chapitre 4, je crois. Je vais regarder avant. Et
+      voilà, je vais faire cette heure parce que j’ai vraiment une impression de
+      frustration d’avoir, sur un cours de 42 h, 41 h enregistrées et 1 heure qui
+      manque. J’ai l’impression que la collection n’est pas complète, donc ça
+      m’embête. Et par ailleurs certains d’entre vous l’ont eue et d’autres n’ont pas
+      pu l’avoir, donc je vais la refaire. Voilà, et je vous mettrai un petit mail ;
+      ceux qui voudront assister à ce cours d’une heure sur Panopto pourront bien sûr
+      venir ; s’il n’y a personne qui vient, ça n’a aucune importance, l’essentiel
+      c’est qu’elle soit sur Moodle et qu’elle sera bien sûr au programme.
+  - chunk_index: 77
+    heading_path: Séance 21 du mercredi 9 décembre 2020 > Politiques économiques en Europe
+    content_token_count: 346
+    text: |-
+      Voilà. Après vous avez des questions transversales. Faites attention à ça, ça
+      peut tomber, ça tombe assez souvent : des questions sur 10 points. Alors je ne
+      poserai pas la première parce que c’est sur les politiques économiques, et ça
+      c’est le chapitre 9. Tous les autres ne parlent pas du chapitre 9, vous pouvez y
+      répondre. Ça peut tomber aussi. Il y a à la fin des gabarits pour chaque
+      question. Voilà, essayez de respecter les gabarits quand vous avez une question
+      sur 3 points ou 4 points. Enfin bref, il n’y a pas que 4 points là, mais on peut
+      comprendre, c’est entre les deux. Vous ne vous mettez pas de pages, c’est idiot.
+      Il faut respecter globalement les gabarits ; le nombre de points détermine la
+      quantité attendue, lorsqu’il s’agit bien sûr d’une réponse écrite à la main.
+      Voilà, il est 13 h, 12 h 59, et bien c’est terminé. On se voit pour ceux qui
+      sont aidés avec moi, on se voit demain en évaluation, et pour les autres, pour
+      tout le monde, on se verra — et je passerai dans chaque… enfin on se verra lors
+      de l’examen de janvier. Voilà, à bientôt, bon courage pour vos révisions et
+      passez de bonnes vacances de Noël.

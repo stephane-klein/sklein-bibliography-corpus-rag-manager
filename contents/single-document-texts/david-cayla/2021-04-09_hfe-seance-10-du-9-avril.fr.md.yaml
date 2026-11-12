@@ -1,0 +1,1780 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2021-04-09_hfe-seance-10-du-9-avril.fr.md
+  source_file_hash: sha256:0c20b5ca4d95664bcfa7af6db0130c70f84a9199b1f77650edf983dfc8a38dfc
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 93
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2021-04-09_hfe-seance-10-du-9-avril.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: HFE - Séance 10 du 9 avril
+    content_token_count: 136
+    text: |-
+      Bonjour à tous. Je viens de mettre le PowerPoint complet en ligne, puisque nous
+      avons notre dernière séance aujourd'hui. J'ai vu que beaucoup d'étudiants ne
+      suivent que des séances en direct ou en différé ; j'imagine que beaucoup
+      chercheront à les regarder ou à réviser d'une manière ou d'une autre, d'autant
+      que l'examen se tiendra début mai. C'est un peu embêtant de ne pas avoir
+      l'interaction habituelle, et je vois bien que vous êtes tous très fatigués par
+      les conditions d'études. Faites au mieux.
+  - chunk_index: 1
+    heading_path: HFE - Séance 10 du 9 avril
+    content_token_count: 185
+    text: |-
+      Pour l'examen, je ne sais pas encore s'il sera distantiel ou présentiel ; je
+      suis prêt à faire une épreuve en distanciel ou une épreuve en présentiel, cela
+      dépendra des conditions. Quoi qu'il arrive, il y aura de la rédaction, pas
+      seulement des QCM, pour que la qualité de l'évaluation ne soit pas perturbée. Ce
+      n'est pas la mer à boire : les questions que je pose ne sont pas des questions
+      pièges, elles servent à vérifier l'acquisition des connaissances. N'hésitez pas
+      à me poser des questions dans le chat, et après la dernière séance, vous pouvez
+      toujours me contacter si vous avez une question précise ou un besoin de
+      compréhension du cours.
+  - chunk_index: 2
+    heading_path: HFE - Séance 10 du 9 avril > Introduction au chapitre sur la crise des années 30
+    content_token_count: 193
+    text: |-
+      Nous allons faire la dernière séance sur le chapitre 6, consacré à la crise
+      économique des années 30. C'est un chapitre important dans un cours d'histoire
+      des faits économiques : la crise des années 30, le krach boursier de 1929 et ses
+      conséquences sont parmi les choses qui reviennent le plus souvent. On en parle
+      notamment quand on compare cette crise avec les crises ultérieures. C'est un
+      cours qui part de la crise de 1929 et qui va suivre cette crise, puisqu'elle va
+      se poursuivre pendant dix ans. Cette crise américaine va aussi être une crise
+      mondiale, et elle permet de réfléchir plus globalement aux crises, car celles-ci
+      reviennent régulièrement dans le capitalisme.
+  - chunk_index: 3
+    heading_path: HFE - Séance 10 du 9 avril > Introduction au chapitre sur la crise des années 30
+    content_token_count: 177
+    text: |-
+      Les premières questions sont donc : qu'est-ce qu'une crise économique du
+      capitalisme ? En quoi se distingue-t-elle des crises qui existaient auparavant,
+      dans des systèmes de production précapitalistes ou dans d'autres systèmes ? Il
+      est intéressant de comprendre la nature de ce genre de crise qui revient
+      régulièrement. Quand je parle de crise, le modèle n'est pas celui que nous
+      connaissons aujourd'hui avec le coronavirus, évidemment, puisque c'est une crise
+      exogène. Ce qui est intéressant, c'est de voir comment le système capitaliste
+      peut lui-même engendrer ses propres crises, pourquoi il les engendre, et quelle
+      théorie on peut avoir pour l'expliquer.
+  - chunk_index: 4
+    heading_path: HFE - Séance 10 du 9 avril > Introduction au chapitre sur la crise des années 30
+    content_token_count: 242
+    text: |-
+      Souvenez-vous qu'au premier semestre, dans le cours d'introduction à l'analyse
+      économique, nous avons vu les crises économiques vues par Marx, qui sont
+      toujours d'actualité : la question des débouchés et la question de
+      l'accumulation du capital sont au cœur de l'explication des crises aujourd'hui.
+      On peut élargir et réfléchir sur une crise modèle, la crise de 1929 et ses
+      conséquences, en essayant de comprendre si l'on ne retrouve pas des éléments
+      d'explication de cette crise qui correspondent à d'autres moments de l'histoire,
+      notamment la crise de 2008, qui est la dernière grande crise du capitalisme, une
+      crise mondiale également, qui a touché les États-Unis et ensuite le monde
+      entier, qu'on appelle aussi la crise des subprimes, parce qu'elle a commencé
+      dans le secteur immobilier américain avant de se propager à l'ensemble de
+      l'économie.
+  - chunk_index: 5
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 70
+    text: |-
+      La première chose à dire, c'est que les crises du capitalisme sont rarement des
+      crises agricoles. Ce sont des crises liées au système économique tel qu'il
+      fonctionne aujourd'hui, un système dans lequel l'agriculture est beaucoup moins
+      présente et beaucoup moins prédominante.
+  - chunk_index: 6
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 168
+    text: |-
+      Deuxième élément important : les crises des modèles traditionnels ne sont pas
+      des crises de surproduction, ce sont en général des crises de sous-production.
+      Qu'est-ce qui se passe ? On a une mauvaise récolte, une catastrophe climatique,
+      ou un champignon qui a dévasté les récoltes. Alors il va y avoir une hausse du
+      prix des biens alimentaires, qui va entraîner des contestations sociales,
+      parfois ce qu'on appelait des disettes, c'est-à-dire des famines, concrètement
+      localisées, ou des révoltes sociales qui peuvent être le produit simplement du
+      fait que les gens n'ont pas à manger, donc ils se révoltent contre les
+      autorités.
+  - chunk_index: 7
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 507
+    text: |-
+      C'est quelque chose qu'on voit traditionnellement dans tous les pays avant le
+      système capitaliste. On pourrait même dire que la dernière crise de l'ancien
+      système, c'est la crise du milieu du XIXe siècle, 1845-1849, une crise globale
+      de production agricole qui touche l'Europe et qui est conjuguée à l'apparition
+      d'un nouveau champignon, le mildiou, qui va dévaster les pommes de terre, mais
+      aussi les vignes et d'autres cultures, surtout les pommes de terre, parce que
+      celles-ci étaient devenues un élément essentiel de l'alimentation, notamment des
+      classes populaires. Le fait qu'il y ait à la fois moins de céréales, moins de
+      blé, et des cultures de pommes de terre qui ne donnent plus, tout cela va avoir
+      des conséquences en termes de capacité à s'alimenter. Il va y avoir notamment
+      une grande famine en Irlande, une énorme famine qui va tuer près d'un million de
+      personnes, et beaucoup d'Irlandais vont émigrer, principalement aux États-Unis.
+      C'est quelque chose qui va toucher profondément l'histoire de cette île, qui
+      était à l'époque extrêmement pauvre. Ces mauvaises récoltes vont aussi entraîner
+      des révoltes populaires dans d'autres pays, notamment dans les milieux ouvriers,
+      et on va voir en 1848 ce qu'on appelle le printemps des peuples. Ce n'est pas
+      étonnant que ce soit au printemps : c'est là qu'on vit sur ses réserves, qu'on
+      n'a pas encore les nouvelles cultures et qu'on a peu de choses à manger. Donc à
+      l'hiver et au printemps 1848, il y a des manifestations contre le prix du pain,
+      contre le prix de la vie, qui vont se propager partout en Europe, notamment à
+      Vienne, à Paris, etc. En France, ces révolutions vont abattre la monarchie de
+      Juillet et instaurer la Deuxième République, qui ne durera d'ailleurs pas très
+      longtemps.
+  - chunk_index: 8
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 79
+    text: |-
+      Ce printemps des peuples est donc une conséquence sociale d'une crise, mais ce
+      n'est pas vraiment une crise du capitalisme au sens strict, puisque c'est une
+      crise agricole produite par une situation de pénurie alimentaire. On est encore
+      dans le modèle des crises de l'Ancien Régime.
+  - chunk_index: 9
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 233
+    text: |-
+      Après 1850, en tout cas en Europe occidentale et en Amérique du Nord, on ne va
+      plus se retrouver avec ce type de crise alimentaire. On va avoir une autre forme
+      de crise, des crises d'accumulation du capital, et c'est typiquement ce genre de
+      crise qu'on retrouve au XXe siècle. Après 1850, on doit avoir des crises qui
+      sont des crises du capitalisme, et dans une logique radicalement à l'inverse de
+      celle des systèmes traditionnels, puisque ce sont des crises qui sont le fruit
+      de la surproduction. C'est là que ça paraît un peu bizarre : une crise de
+      surproduction, alors qu'on n'a pas assez d'aliments pour nourrir les gens. Tout
+      le monde comprend bien que ça crée une crise. Mais l'idée qu'on peut
+      surproduire, qu'on peut avoir trop de capacités de production par rapport à nos
+      besoins, et que cela peut engendrer une crise, est beaucoup moins intuitive.
+  - chunk_index: 10
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 312
+    text: |-
+      Pour comprendre le mécanisme d'une surproduction, il suffit de regarder quelque
+      chose qui est habituellement symptomatique d'une crise de surproduction : la
+      question du chômage. Le chômage est bien un phénomène qui résulte du fait qu'on
+      ne trouve pas d'emploi pour des gens qui sont prêts à travailler, c'est-à-dire
+      qu'on a des capacités de production qui ne sont pas employées. Si on arrivait à
+      employer ces capacités de production, à mettre ces chômeurs au travail, cela
+      poserait question, puisque le système économique globalement n'a pas besoin de
+      davantage de richesses. Donc typiquement, ce que reproduit le chômage, c'est un
+      système de surproduction, et c'est typique du capitalisme. On n'a pas forcément
+      de chômage dans les systèmes traditionnels. On n'avait pas de chômage dans un
+      système communiste ; au contraire, on était toujours en manque de main-d'œuvre.
+      Dans le capitalisme, on a au contraire un surplus de main-d'œuvre, des gens qui
+      ont le temps de travailler, qui sont capables de travailler, et à qui on ne
+      trouve pas d'emploi parce que simplement ils n'ont rien à faire ou qu'on n'a pas
+      de production à leur donner.
+  - chunk_index: 11
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 232
+    text: |-
+      Pour essayer de comprendre comment on peut en arriver à une crise de
+      surproduction, à des productions qui ne trouvent pas de débouchés, il faut
+      justement penser à des productions qui sont liées à la difficulté de trouver une
+      demande solvable et en même temps à une forte croissance des capacités de
+      production. Dans l'économie, ce n'est pas très compliqué : on résume en général
+      la question de la capacité de production par l'accumulation du capital.
+      Qu'est-ce qu'une crise du capitalisme ? C'est une crise qui résulte justement
+      d'une trop forte accumulation de capital. Le capital est beaucoup accumulé, il
+      produit trop, et cette surproduction va entraîner une crise des débouchés, qui
+      va elle-même entraîner un ralentissement du processus d'accumulation et même une
+      destruction de capital parfois, parce qu'une faillite d'entreprise, c'est une
+      destruction de capital et une diminution des nouveaux investissements.
+  - chunk_index: 12
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 143
+    text: |-
+      En général, ça se produit comme ça : on commence par ne plus pouvoir vendre,
+      donc la première chose est la crise des débouchés. On va voir des stocks
+      s'accumuler, qu'on ne pourra plus vendre. On va donc écouler ses stocks, donc
+      moins produire. Si on produit moins, logiquement on va moins investir. Et
+      puisqu'on a moins investi, on va moins recruter, et donc le chômage va
+      apparaître comme le résultat logique de cette crise. C'est le schéma
+      traditionnel quand on analyse les choses en termes réels.
+  - chunk_index: 13
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 118
+    text: |-
+      Mais très vite, et c'est ça qui va être au cœur de la crise des années 30, on va
+      se retrouver face à des crises qui ne se déclenchent pas dans le système réel,
+      qui ne sont pas liées simplement à un problème de débouchés, mais qui sont liées
+      à une crise financière. Dans ce cas, on a une autre logique de crise, qui va
+      engendrer ensuite une crise du secteur réel, mais qui commence très souvent dans
+      le secteur financier.
+  - chunk_index: 14
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 206
+    text: |-
+      Pour comprendre comment une crise peut commencer dans le secteur financier, il
+      faut savoir que la finance, ce sont ceux qui permettent de financer les
+      investissements des entreprises à partir d'émissions de titres ou d'emprunts
+      bancaires. Le financier va chercher à donner de l'argent à une entreprise en
+      escomptant récupérer une partie des profits de l'entreprise. Le problème, c'est
+      que si l'entreprise dont on espérait qu'elle fera du profit ne fait pas le
+      profit attendu, pour plein de raisons — parce que son projet était mauvais,
+      parce que la conjoncture est mauvaise, ou parce que l'entrepreneur était idiot,
+      ce qui est tout à fait possible — alors, puisqu'il n'y a pas le profit attendu,
+      l'entreprise pourrait faire faillite, et l'argent qu'on a mis dans l'entreprise
+      aura disparu.
+  - chunk_index: 15
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 162
+    text: |-
+      C'est ça qui entraîne la brutalité des crises financières : à un moment on pense
+      que ce qu'on a prêté, on va le récupérer, et puis le lendemain on s'aperçoit
+      qu'on ne récupérera pas. C'est un peu tout noir ou tout blanc. La finance, c'est
+      un pari sur l'avenir ; ce pari peut être bon ou faux, et lorsqu'il est faux, on
+      le sait souvent assez brutalement. Dans ce cas, tout l'argent qu'on a mis peut
+      disparaître, c'est-à-dire qu'on sait qu'on aura beaucoup de mal à le récupérer.
+      Les banques qui ont trop d'argent à plat peuvent faire faillite.
+  - chunk_index: 16
+    heading_path: HFE - Séance 10 du 9 avril > Qu'est-ce qu'une crise économique du capitalisme ?
+    content_token_count: 458
+    text: |-
+      C'est ainsi qu'on peut analyser une crise du système financier ou du système
+      bancaire. En général, cela commence par des créances douteuses. Une créance
+      douteuse, c'est un avoir, une créance, mais dont on ne sait pas si on va pouvoir
+      la récupérer. Ces créances douteuses s'accumulent, au final une grande partie ne
+      va pas être remboursée, et donc une banque va devoir faire faillite. Quand on a
+      des banques en faillite, le système financier peut être directement attaqué par
+      le fait que les banques vont arrêter d'accorder des prêts pour éviter de prendre
+      des risques. En général, il y a un phénomène mimétique : une banque fait
+      faillite, d'autres banques se disent « peut-être que moi aussi j'ai des créances
+      douteuses ». Les banques sont aussi très fortement liées entre elles,
+      c'est-à-dire qu'elles se doivent beaucoup d'argent mutuellement. Donc si l'une
+      fait faillite et ne rembourse pas aux autres, en ces périodes-là on va tout d'un
+      coup freiner les prêts : c'est ce qu'on appelle un credit crunch, un
+      effondrement du crédit. Les banques vont arrêter de prêter et renchérir le coût
+      du prêt de manière très importante. Les entreprises ne peuvent donc plus se
+      financer pour investir, et là typiquement on a une crise qui part du secteur
+      financier et qui va se retrouver ensuite dans l'économie réelle. Si les
+      entreprises ne peuvent plus trouver de financement pour leurs investissements,
+      elles arrêtent d'investir, et on va se retrouver dans une crise de surproduction
+      : on ne peut plus accumuler du capital, on cherche à licencier des gens parce
+      qu'on n'a plus besoin de créer des emplois, puisqu'on n'arrive plus à créer du
+      capital.
+  - chunk_index: 17
+    heading_path: HFE - Séance 10 du 9 avril > Quelques lectures recommandées
+    content_token_count: 496
+    text: |-
+      Avant d'arriver à la crise de 1929, je voulais vous recommander des livres qui
+      m'ont servi pour faire ce cours. Ce ne sont pas les seuls, bien sûr, mais
+      d'abord ils sont très bien, et ils sont du même auteur, John Kenneth Galbraith.
+      Le plus connu de ces deux livres, c'est celui de gauche, *La crise économique de
+      1929*, un livre écrit en 1950 par un jeune économiste de l'époque, qui retrace
+      l'histoire de la crise de 1929. C'est extrêmement intéressant, parce qu'il
+      étudie les économistes de l'époque, ce qu'ils disaient, les banquiers de
+      l'époque, ce qu'ils disaient et ce qu'ils faisaient ; il étudie un peu au jour
+      le jour l'évolution de la crise. C'est presque plus un livre d'historien qu'un
+      livre d'économiste. Puis, bien plus tard, dans les années 90, il a publié un
+      autre livre très court, une centaine de pages, *Brève histoire de l'euphorie
+      financière*, dans lequel il revient sur l'ensemble des crises financières qui
+      ont eu lieu depuis la crise des tulipes aux Pays-Bas au XVIe siècle — il y a une
+      spéculation sur l'oignon de tulipe à cette époque — jusqu'aux crises des années
+      80-90. L'argument de Galbraith, c'est que toutes les crises obéissent un peu au
+      même modèle, au même schéma : des gens qui se croient plus malins que les
+      autres, qui cherchent une martingale pour gagner plus d'argent, et beaucoup de
+      gens vont les suivre dans ce corps très intelligent, puis un jour tout ça va
+      s'effondrer. Comme tout le monde aura beaucoup imité ces personnes, l'effet sera
+      très fort. C'est pour ça qu'il parle d'euphorie financière, parce que tout
+      commence toujours par un moment d'euphorie, un moment de perte de contrôle.
+  - chunk_index: 18
+    heading_path: HFE - Séance 10 du 9 avril > Quelques lectures recommandées
+    content_token_count: 210
+    text: |-
+      Après cela, on a eu la crise de la bulle internet en 2000-2001, puis la crise
+      des subprimes, et ce sont toujours un peu les mêmes mécanismes qui sont au cœur
+      des crises financières. Si je voulais continuer, je pourrais dire que ce qui se
+      passe aujourd'hui sur les cryptomonnaies ressemble tout à fait à ce dont parle
+      Galbraith : une forme d'euphorie, avec des publicités sur les réseaux sociaux du
+      type « regardez le bitcoin ne cesse d'augmenter, achetez maintenant, vous allez
+      voir, ça va valoir plus dans un an ». Typiquement, on est dans les mécanismes
+      d'euphorie financière, et systématiquement cela finit par arriver sur un krach,
+      mais on ne sait jamais quand. C'est ça aussi le souci.
+  - chunk_index: 19
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 184
+    text: |-
+      Avant de parler des années 30, je voudrais revenir sur les crises de la fin du
+      XIXe siècle et du début du XXe siècle, et sur la situation économique notamment
+      aux États-Unis, mais globalement dans le monde développé. Il faut rappeler que
+      les crises existaient avant 1929. Au moment où la crise de 1929 éclate, on
+      savait qu'il y avait des cycles des affaires, des moments de croissance et des
+      moments de crise, même si on n'avait pas de très bons outils statistiques. On
+      n'avait pas le PIB, on ne mesurait même pas le chômage, donc c'était difficile
+      d'évaluer les crises, sauf par la multiplication des faillites, notamment des
+      banques.
+  - chunk_index: 20
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 199
+    text: |-
+      Il y avait aussi quelque chose qui s'est passé à la fin du XIXe siècle, au
+      deuxième tiers du XIXe siècle, et qui a suscité des crises : l'apparition du
+      chemin de fer. C'était une technologie nouvelle, un nouveau moyen de transport,
+      mais qui était extrêmement coûteux et qui nécessitait énormément
+      d'investissements. Dans ce cas, le secteur financier et bancaire a mis
+      énormément d'argent dans les chemins de fer. Or c'était une activité extrêmement
+      risquée, puisque une ligne de chemin de fer n'était rentable que s'il y avait
+      suffisamment de demande et de péage à payer. Parfois, il n'y avait pas forcément
+      les besoins, et la valeur d'une ligne de chemin de fer n'était pas au
+      rendez-vous.
+  - chunk_index: 21
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 336
+    text: |-
+      Que se passe-t-il alors ? Toutes les banques qui financent ces lignes de chemin
+      de fer, cette nouvelle technologie, se disent, sans doute avec une part de
+      vérité : « le chemin de fer, c'est l'avenir ». Elles avaient raison, le chemin
+      de fer, c'est l'avenir, et on peut encore le dire aujourd'hui. Mais le problème,
+      c'est que ce n'est pas parce que c'est l'avenir que c'est rentable, et que c'est
+      rentable au niveau où on l'attend. Par ailleurs, quand on construit un chemin de
+      fer, on a toujours un coût au départ et un coût à l'arrivée, et souvent le coût
+      à l'arrivée est bien supérieur au coût de départ. On anticipe un coût, on
+      regarde combien ça va coûter, combien on attend de revenus de la ligne de chemin
+      de fer, c'est-à-dire les péages, les trains qui vont payer un péage ; c'est
+      comme ça qu'on gagne de l'argent. On est rentable à un instant t, mais si on
+      s'aperçoit qu'en fait les coûts de construction sont bien plus élevés — ce qui
+      arrive très souvent — et que les revenus sont un peu moins importants que ce
+      qu'on avait prévu de manière optimiste, alors un projet rentable peut se
+      transformer en gabegie financière totale.
+  - chunk_index: 22
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 246
+    text: |-
+      Un exemple plus récent et meilleur, c'est le tunnel sous la Manche, qui est
+      aussi un tunnel ferroviaire. Il a coûté beaucoup, beaucoup plus cher que ce qui
+      était anticipé, il a été financé par le système financier, par des gens qui ont
+      acheté des actions du tunnel sous la Manche, et à la fin ils ont perdu
+      énormément d'argent parce que le projet était beaucoup moins rentable que prévu.
+      Tout ça pour vous expliquer que ces grands travaux de construction de voies de
+      chemin de fer étaient l'occasion de très nombreuses crises financières. Quand on
+      regarde ce qui s'est passé, notamment les crises comptabilisées à partir du
+      nombre de faillites de banques, les banques font faillite en général parce
+      qu'elles ont investi dans des voies de chemin de fer qui ont été moins rentables
+      ou plus coûteuses que ce qui était anticipé, donc leurs créanciers ne
+      remboursent pas, et les banques qui avaient mis beaucoup d'argent font faillite.
+  - chunk_index: 23
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 126
+    text: |-
+      On voit une série de crises : 1857, 1866, 1873, puis la crise de 1890, une
+      énorme crise qui va toucher bien au-delà du système financier, qu'on appelait la
+      première grande dépression, parce qu'en fait on en parlait déjà comme de la
+      grande dépression à cette époque. Toutes ces crises commencent donc avec le
+      ferroviaire, avec des faillites de banques engagées de manière trop importante
+      dans l'activité ferroviaire.
+  - chunk_index: 24
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 353
+    text: |-
+      Ensuite, la finance va elle-même se développer. Il y a deux aspects : la manière
+      de financer le crédit bancaire, et la souscription à l'épargne, auprès des
+      épargnants, d'actions et d'obligations. Très souvent, ces actions vont
+      progressivement se développer dans la deuxième moitié du XIXe siècle. On va
+      aussi développer des bourses de change. Une bourse, qu'est-ce que c'est ? C'est
+      un endroit où l'on va revendre les actions qu'on a achetées à un prix qui va
+      être négocié dans le cadre du marché boursier. Là, il va se passer un phénomène
+      qu'on connaît très bien en finance : la spéculation, c'est-à-dire que j'achète
+      quelque chose maintenant, non pas parce que ça m'intéresse de garder ce titre,
+      la rentabilité de cette action, de toucher le dividende qu'elle me promet, mais
+      parce que j'anticipe une hausse du cours et que je vais pouvoir la vendre plus
+      tard. L'idée d'acheter quelque chose non pas pour la valeur intrinsèque qu'il
+      possède, c'est-à-dire le fait qu'il procure des dividendes, mais dans l'espoir
+      que ce que vous avez acheté va voir son prix augmenter et que vous allez faire
+      un profit à la revente : c'est typiquement ce qu'on appelle un mécanisme de
+      spéculation.
+  - chunk_index: 25
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 337
+    text: |-
+      La spéculation, c'est une activité qui consiste à gagner de l'argent sur la
+      variation des cours d'un actif. Je le répète : la spéculation, c'est quelque
+      chose qui consiste à gagner de l'argent sur la variation des cours, des prix des
+      actifs. C'est la même chose : vous cherchez à acheter et vendre, acheter pas
+      cher, vendre plus cher. Quand vous êtes dans un mécanisme de spéculation, vous
+      n'allez pas chercher l'intérêt de l'objet que vous achetez ; l'objet acheté ne
+      vous intéresse que parce que vous prévoyez qu'il va monter. C'est typiquement le
+      concept sur les cryptomonnaies aujourd'hui : les gens qui achètent des
+      cryptomonnaies, du bitcoin, ne le font absolument pas parce qu'ils ont un usage
+      du bitcoin — ou très peu —, la grande majorité le fait parce qu'ils croient que
+      ça va monter et qu'ils vont faire des profits en revendant. D'ailleurs, les
+      publicités que vous voyez sur les réseaux sont parfois uniquement axées sur cet
+      argument : vous achetez maintenant, vous vendez plus tard. Mais on comprend bien
+      qu'il y a un souci : la spéculation ne peut marcher que si d'autres perdent de
+      l'argent, que si d'autres gens achètent au moment où vous les vendez,
+      c'est-à-dire au prix le plus cher.
+  - chunk_index: 26
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 271
+    text: |-
+      Les phénomènes spéculatifs ne sont pas nouveaux, ils existent depuis tout le
+      temps. Par ailleurs, vous n'avez pas besoin de titres financiers pour faire de
+      la spéculation : vous pouvez spéculer sur n'importe quel actif, n'importe quel
+      objet qui a de la valeur, et en particulier sur du mobilier. Vous achetez une
+      maison, un appartement, et beaucoup de gens pensent que s'ils achètent une
+      maison tant d'argent, ils ne feront de bonnes affaires que s'ils la revendent
+      plus cher après. L'idée que le prix monte spontanément et que forcément on
+      revendra plus cher ce qu'on a acheté est une croyance très ancrée chez les gens,
+      mais elle n'est pas toujours vraie. Il y a des crises immobilières qui peuvent
+      durer des dizaines d'années, dans lesquelles les prix de l'immobilier baissent.
+      Vous pouvez donc acheter, mais vous ne pouvez jamais être certain que, quelle
+      que soit la chose que vous achetez, vous la revendrez plus cher. Ça, c'est vrai,
+      ça n'est pas vrai.
+  - chunk_index: 27
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 207
+    text: |-
+      Le phénomène de spéculation le plus célèbre, c'est la tulipe au XVIIe siècle aux
+      Pays-Bas. J'en ai déjà parlé : ça a duré quatre ans, c'est une période où
+      l'oignon de tulipe valait de plus en plus cher. La tulipe est une fleur qui
+      vient de Turquie, qui était très populaire à l'époque, et on achetait des
+      oignons de tulipe pour s'intéresser à la tulipe, pour planter les tulipes, et on
+      achetait des oignons de tulipe pour les revendre plus cher. C'est typiquement un
+      mécanisme de spéculation, et au bout d'un moment on disait que l'oignon de
+      tulipe valait davantage d'argent qu'un petit carrosse, ce qui veut dire qu'on
+      arrivait sur des prix totalement aberrants.
+  - chunk_index: 28
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 319
+    text: |-
+      En France, on a connu le système de Law, un système de financement de la royauté
+      de l'époque, je crois au moment de la Régence, après la mort de Louis XIV. Le
+      gouvernement français cherchait à retrouver un peu d'argent et avait cherché à
+      émettre des titres dont la rentabilité proposée était liée à l'exploitation des
+      colonies, notamment de la Louisiane. Le problème, c'est que pour que ces titres
+      aient de la valeur, il fallait qu'ils aient du profit, qu'ils soient réalisés en
+      Louisiane. Or la Louisiane était un territoire français qui était quand même
+      très peu développé. Il y a eu un phénomène spéculatif : on a commencé à racheter
+      des titres uniquement parce qu'on pensait qu'ils allaient augmenter, sans
+      vraiment s'intéresser au développement de la Louisiane au sens strict.
+      Évidemment, quand les revenus ne sont pas arrivés, les titres se sont totalement
+      effondrés. La particularité, c'est que Law a aussi introduit le papier-monnaie,
+      puisque ses titres étaient en papier et pouvaient s'échanger en papier. Ça a à
+      la fois fait son succès et causé sa perte, puisque ce trop grand succès, par
+      confiance, peut poser problème.
+  - chunk_index: 29
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 236
+    text: |-
+      La grande crise de la fin du XIXe siècle, c'est la crise de 1893 aux États-Unis,
+      et en Europe elle a aussi été très grave. Elle commence un peu avant d'ailleurs
+      aux États-Unis. Quand elle arrive, c'est vraiment la première grande crise du
+      Nouveau Continent, la première fois qu'il y a vraiment une grosse poussée de
+      chômage. Comme souvent, elle fait suite à une phase d'expansion très rapide,
+      puisque l'accumulation de capital — souvenez-vous des mécanismes — fait qu'on
+      accumule trop de capital, donc trop d'agents de production, puis tout d'un coup
+      le capital n'est pas rentable. Cette crise est liée, comme très souvent, à la
+      faillite d'une grande compagnie ferroviaire. Toutes les banques qui avaient
+      investi dans cette compagnie subissent des pertes. C'est à ce moment-là qu'on va
+      voir apparaître la première grande panique bancaire.
+  - chunk_index: 30
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 350
+    text: |-
+      Une panique bancaire, qu'est-ce que c'est ? C'est un moment où tout le monde se
+      rue au guichet pour récupérer son argent parce qu'on a peur que la banque fasse
+      faillite. À l'époque, il n'y avait pas de banque centrale américaine, donc une
+      panique bancaire pouvait faire s'effondrer les banques. Vous savez qu'une banque
+      centrale sert justement à refinancer les banques. Ailleurs, si vous ne le savez
+      pas, je vous le dis : on ne met plus en faillite une banque en se ruant au
+      guichet pour essayer de récupérer en argent liquide le montant du dépôt.
+      Pourquoi on ne fait plus faillite comme ça ? Parce que la banque est soutenue
+      par la banque centrale, et la banque centrale imprimera le nombre de billets
+      nécessaires sans aucun souci. Donc votre banque ne fera pas faillite si tout le
+      monde se rue pour récupérer son argent liquide. Mais à l'époque, il n'y avait
+      pas de banques centrales aux États-Unis, donc c'était possible. On pouvait se
+      retrouver à avoir plus de possibilités de retirer son argent, et c'est la raison
+      pour laquelle il y avait des paniques bancaires : la panique bancaire est
+      elle-même le produit du fait qu'on savait qu'on pourrait ne pas récupérer son
+      argent.
+  - chunk_index: 31
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 489
+    text: |-
+      Par ailleurs, le système bancaire américain de l'époque n'est pas du tout
+      stable. Il n'y a pas de banque centrale, et le dollar, la monnaie américaine,
+      était à la fois adossé sur l'or et sur l'argent : c'est ce qu'on appelle un
+      système bimétallique. Du coup, c'était le désordre, parce qu'on était censé
+      convertir son dollar en or ou en argent, mais en fonction du cours de l'or et de
+      l'argent, on pouvait convertir dans l'un ou dans l'autre, ce qui créait une
+      fragilité du dollar. Tout cela crée, comme d'habitude, un credit crunch,
+      c'est-à-dire un effondrement des crédits, des prêts des banques, et donc une
+      incapacité pour les entreprises de se financer auprès du secteur bancaire, donc
+      de financer un investissement. Si on n'arrive plus à financer ces
+      investissements, c'est trop coûteux, on arrête d'investir, donc on arrête de
+      produire et on arrête d'embaucher, donc on a du chômage. On n'avait pas de
+      statistiques du chômage, mais on a pu les reconstruire a posteriori et essayer
+      de l'évaluer : on évalue que le chômage est passé de 4 % à plus de 10 %, et
+      parfois plus de 14 %, notamment dans les grandes villes, les villes
+      industrielles, parce qu'à la campagne il n'y a pas beaucoup de chômage. Donc
+      toute la fin du XIXe siècle, on a cette crise qui est typique d'une crise du
+      capitalisme contemporain, mais aussi liée à un système financier extrêmement
+      archaïque : pas de banque centrale, et une monnaie dont on ne sait plus trop sur
+      quoi elle est fondée, ainsi qu'un comportement des ménages qui va vers la
+      panique bancaire et qui va accentuer les crises.
+  - chunk_index: 32
+    heading_path: HFE - Séance 10 du 9 avril > Les crises avant 1929
+    content_token_count: 218
+    text: |-
+      Après 1893, l'économie américaine se redresse. On va créer une banque centrale,
+      on va réorganiser un peu la finance, et l'économie américaine se redresse et
+      devient très rapidement, au début du XXe siècle, l'économie la plus prospère du
+      monde. En PIB par habitant, elle devient plus riche par habitant que le
+      Royaume-Uni en 1913. Le PIB par habitant américain représente plus du double de
+      celui de la moyenne européenne. Après la guerre, évidemment, ça va être encore
+      mieux, puisque la guerre va arrêter la croissance de l'Europe. Globalement, les
+      années 20 sont des années de grande prospérité. Je reviendrai avec la crise de
+      1921, une crise très courte, mais globalement l'économie est prospère.
+  - chunk_index: 33
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 346
+    text: |-
+      Ce qui fait aussi la prospérité de l'économie américaine, c'est le fait que
+      c'est une économie d'immigration. Jusque-là, dans les années 20, il n'y a aucune
+      restriction à cette immigration. C'est une immigration qui est au départ
+      principalement européenne, mais qui commence beaucoup à s'ouvrir à l'Asie,
+      notamment la construction du chemin de fer a beaucoup employé d'ouvriers
+      chinois. Cette main-d'œuvre est vraiment une source de richesse, puisque les
+      gens arrivent pour entreprendre. Pas tous, bien sûr, mais beaucoup arrivent sans
+      rien, et beaucoup arrivent aussi avec du capital, qui va investir.
+      Souvenez-vous, je vous avais dit qu'aux États-Unis on ne pouvait pas faire comme
+      en Europe : vendre ses terres et construire une usine, puisque le prix de la
+      terre est trop faible. Donc l'investissement, les entrepreneurs américains
+      viennent souvent de l'Ancien Monde ; ce sont souvent des migrants qui vendent
+      leurs terres, on va dire en Europe, et qui, avec leur argent, vont investir aux
+      États-Unis. Donc l'immigration, en l'occurrence, enrichit clairement les
+      États-Unis. En tout cas, le rapport du capital humain le rapporte aussi, toutes
+      les technologies et découvertes d'Europe qui vont arriver forcément aux
+      États-Unis.
+  - chunk_index: 34
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 510
+    text: |-
+      L'économie américaine est tellement prospère que très vite — et elle est
+      prospère aussi parce que, comme je l'ai dit, le coût de la terre est très faible
+      — ça a des avantages : les salaires peuvent être faibles, ou en tout cas la
+      productivité agricole peut être bien plus élevée parce qu'on va pouvoir cultiver
+      sur de plus grands espaces et avec moins de coûts d'entrée. C'est lié au fait
+      que les États-Unis sont un pays neuf, donc le coût de la terre est très faible.
+      Le prix des matières premières, notamment des biens alimentaires, est faible, et
+      donc ça va enrichir de fait la classe ouvrière. La classe ouvrière prospère
+      également, et on a une classe moyenne qui émerge. La classe moyenne, ce ne sont
+      pas les légendes moyennes, ce sont des gens qui sont au-dessus de la moyenne.
+      Les classes moyennes, on va dire, ce sont les personnes qui sont relativement
+      riches, pas très riches : typiquement les profs de lycée, les cadres, des gens
+      qui sont dans les classes moyennes. Eux vont apparaître aux États-Unis vraiment
+      très vite à la fin du XIXe et au début du XXe siècle, et vont bénéficier de tout
+      un ensemble d'innovations et d'améliorations technologiques : le développement
+      des transports publics, des grands magasins, le développement du cinéma qui fait
+      apparaître la culture de masse, la TSF, donc la radio, qui devient un média
+      extrêmement populaire avec des feuilletons qui passent à la radio, avant même le
+      cinéma ; des spectacles qui sont destinés vraiment à la population, à une
+      population plus large, pas juste aristocratique. C'est ce qu'on appelle les
+      phénomènes d'opérette en Europe, mais très vite aux États-Unis ça va être les
+      comédies musicales : en fait une sorte d'opéra, un opéra plus facile d'accès,
+      plus rigolo. Typiquement, une comédie musicale au début du XXe siècle.
+  - chunk_index: 35
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 186
+    text: |-
+      Le développement urbain va vraiment connaître une vraie vie urbaine, partout
+      d'ailleurs, pas qu'aux États-Unis, aussi en Europe. L'apparition des grands
+      magasins était aussi un phénomène qu'on voit apparaître dans la deuxième moitié
+      du XIXe siècle en Europe, notamment à Paris ; c'est là qu'on voit apparaître les
+      Galeries Lafayette, tout ce genre de magasins. Ces magasins n'étaient pas
+      forcément accessibles pour le grand public, c'était plutôt la classe moyenne
+      supérieure, et pour un public un peu plus fortuné, mais déjà plus large que les
+      0,1 % aristocratiques. C'est quelque chose de plus grand : les gens qui habitent
+      en ville, qui ont des revenus confortables.
+  - chunk_index: 36
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 333
+    text: |-
+      Ce qui va aussi changer les villes américaines, c'est l'apparition des
+      gratte-ciel. Les gratte-ciel apparaissent parce qu'on invente l'ascenseur, ou en
+      tout cas on parvient à construire un ascenseur qui fonctionne à l'électricité.
+      Là aussi, c'est lié au développement du réseau électrique, de l'électroménager,
+      et là enfin apparaissent des maisons, des immeubles qui vont avoir un confort
+      qu'on n'a jamais vu dans l'histoire auparavant : le confort moderne,
+      c'est-à-dire l'électroménager, les ascenseurs, l'électroménager — on pense
+      notamment bien sûr à la machine à laver qui va apparaître, c'est important,
+      l'aspirateur dans les lots courants, évidemment l'électricité. Dans les
+      gratte-ciel construits dans les années 20, on avait parfois des systèmes
+      d'aspiration tout à fait simples : l'aspirateur était compris dans
+      l'appartement, vous aviez une bouche aspirante dans le mur, vous branchiez un
+      tuyau et vous pouviez aspirer votre salon avec cette bouche aspirante déjà
+      construite dans l'immeuble. On avait déjà des choses comme ça qui paraissaient à
+      l'époque absolument géniales et modernes, et qui par ailleurs étaient géniales
+      et modernes.
+  - chunk_index: 37
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 63
+    text: |-
+      Je ne parle même pas de l'électricité dans les rues : auparavant on était
+      éclairé au gaz, maintenant on est éclairé à l'électricité partout. Donc tout ça
+      transforme, et puis bien sûr la voiture qui va apparaître.
+  - chunk_index: 38
+    heading_path: HFE - Séance 10 du 9 avril > L'économie américaine avant 1929
+    content_token_count: 337
+    text: |-
+      Une chose que je voulais vous dire : il y a quelques années, je suis allé aux
+      États-Unis, à Atlanta. Atlanta, vous savez, c'est la ville de Martin Luther
+      King. Dans les années 20 ou 30, je ne sais plus, quand il était enfant, on peut
+      visiter la maison d'enfance de Martin Luther King. À la fin des années 30, on
+      peut voir comment les gens vivaient là aussi, les classes moyennes — Martin
+      Luther King était fils de pasteur noir, bien sûr. Atlanta, ce n'est pas les très
+      riches, ce n'est pas les pauvres non plus, ce sont des gens typiquement proches
+      de la classe moyenne. Dans la maison, à la fin des années 30, dans la maison de
+      Martin Luther King, il y a une machine à laver, un poste de radio TSF, un piano,
+      et le père de Martin Luther King avait même acheté une voiture et avait même
+      fait construire dans son jardin un garage pour mettre la voiture. Donc c'est un
+      niveau de confort — bien sûr, l'électricité, l'eau courante, l'eau froide, l'eau
+      chaude — que la France ne connaîtra que dans les années 50 et 60. Donc voyez,
+      les Américains sont extrêmement en avance sur les Européens ; ils ont 20, 30 ans
+      d'avance globalement, en particulier sur les Français, au niveau du confort.
+  - chunk_index: 39
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 357
+    text: |-
+      Voilà la situation du début du XXe siècle, mais il y a une crise qui apparaît
+      aux États-Unis avant la crise de 29, une crise assez courte mais assez
+      intéressante à étudier, liée à la fin de la Première Guerre mondiale. Que se
+      passe-t-il pendant la Première Guerre mondiale ? L'Europe est en pleine guerre,
+      les États-Unis ne sont pas touchés directement par cette guerre, mais ils vont
+      entrer dans la guerre au début de l'année 1917. Il faut un peu de temps pour que
+      l'aide américaine arrive, et globalement la guerre sera quasiment terminée, mais
+      ils ont contribué à l'effort de guerre européen, notamment en produisant
+      massivement des céréales et des biens alimentaires qu'ils vont revendre aux
+      Européens, puisque les adultes sont souvent au front, les paysans, les fils
+      aînés des paysans sont souvent au front, la main-d'œuvre paysanne se retrouve
+      très souvent au front, et donc la production agricole chute sur le Vieux
+      Continent. Les Européens importent donc beaucoup de céréales des États-Unis, et
+      ça entraîne une forme de révolution agricole aux États-Unis, puisque très vite
+      les agriculteurs et les céréaliers vont se mettre à mécaniser la culture. On est
+      dans les années 20, après la Première Guerre mondiale.
+  - chunk_index: 40
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 653
+    text: |-
+      Le souci, c'est que bien sûr, une fois que la guerre s'arrête, les Européens
+      reprennent et reproduisent des biens agricoles, et tous ces investissements
+      réalisés par les Américains s'avèrent ne plus pouvoir être vendus. Donc on a des
+      prix agricoles qui chutent et les exportations qui chutent. Or beaucoup
+      d'agriculteurs américains s'étaient beaucoup endettés pour acheter un tracteur
+      et se mécaniser. La chute des revenus va entraîner une crise dans les campagnes.
+      Cette crise ne va pas rester dans les campagnes, parce que l'agriculture
+      représente quand même une part importante de la population active : 27 % de la
+      population active voit ses revenus diminuer de 25 % entre 1919 et 1920, puis de
+      50 % à cause de la chute des cours des céréales entre 1920 et 1921. Quand on est
+      endetté, le lien se fait très vite : beaucoup d'exploitations font faillite. En
+      plus, il y a les soldats qui sont rapatriés, et puis tous les gens qui
+      travaillent dans l'industrie d'armement ne peuvent plus produire. Donc la fin de
+      la guerre produit quand même une crise économique, avec chute des revenus
+      agricoles qui touche plus d'un quart de la population, de nouveaux chômeurs
+      parce qu'on a plein de soldats démobilisés qui doivent chercher du travail, et
+      tout le secteur de l'armement qui n'a plus de débouchés. Tout ça fait que les
+      gens perdent des revenus, que l'industrie classique n'arrive plus à trouver des
+      débouchés, et donc on a une hausse du chômage assez importante dans l'industrie
+      : 20 % de la population active au chômage, on arrive à 20 % de chômeurs
+      globalement. On a peur évidemment que la crise se prolonge, mais en fait la
+      crise ne se prolonge pas, elle s'arrête très vite, puisqu'il y a de nouveaux
+      secteurs de croissance : l'automobile, la TSF, le bâtiment avec les gratte-ciel,
+      etc. Donc dans les villes, la croissance repart, on est dans les années 20.
+      Néanmoins, dans les campagnes, ça va rester la crise, et la chute des cours des
+      produits agricoles va se continuer pendant toutes les années 20. Les campagnes
+      vont être très pauvres, très affaiblies, en particulier par la crise de 1929 qui
+      va se rajouter à une crise structurelle dans l'agriculture américaine.
+  - chunk_index: 41
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 777
+    text: |-
+      Donc les années 20, après 21, voient les nouveaux secteurs de l'industrie. L'ère
+      moderne — je parlais tout à l'heure de l'ère nouvelle, c'est marqué sur un diapo
+      — c'est une phase de prospérité qui ressemble un peu à ce qu'on a connu dans les
+      années 90-2000 avec la nouvelle économie, l'idée que les nouvelles technologies
+      allaient apporter la croissance. Là aussi, il y avait à l'époque des nouvelles
+      technologies : l'électroménager, la TSF, le cinéma, les gratte-ciel, tout un
+      ensemble de nouvelles façons de produire, de nouveaux biens de consommation, qui
+      ont suscité l'euphorie et l'idée qu'on allait retrouver une grande croissance
+      économique. Cette prospérité des années 20 aux États-Unis est liée à des
+      phénomènes véritables : de nouveaux produits, de nouvelles forces de production,
+      etc. Mais elle est aussi liée à des facteurs psychologiques, l'idée que
+      maintenant l'économie va être différente, qu'on entre dans la modernité. Voir ce
+      que c'est qu'une ville comme New York ou Chicago, qui tout d'un coup voit des
+      gratte-ciel apparaître, concrètement on a l'impression qu'on vit dans un autre
+      monde. Puis encore une fois l'usage généralisé de l'électricité qui devient une
+      chose normale, puis l'électroménager : tout cela va transformer profondément le
+      mode de vie, ça va toucher vraiment les gens. Donc l'idée qu'on arrive à la
+      modernité et que la modernité sera profondément différente des temps anciens
+      apparaît chez les gens, et ça, c'est un truc qu'on n'avait jamais connu
+      auparavant. Jusqu'à la fin du XIXe siècle, le mode de vie n'avait pas beaucoup
+      changé : on restait sur les technologies traditionnelles, on se chauffait au
+      bois, au charbon, on s'éclairait à la bougie, au gaz ou à la lampe à huile, ça
+      ne changeait pas par rapport à avant. Maintenant, on a accès à tout un ensemble
+      d'autres choses. D'ailleurs, Aldous Huxley, qui écrit *Le Meilleur des Mondes*,
+      ou Charlie Chaplin, qui fait *Les Temps modernes*, montrent ces nouvelles ères,
+      et l'importance de ces romans d'anticipation de l'époque ou de ces analyses de
+      la modernité est typique d'une société qui change très rapidement. De la même
+      façon qu'on a pu avoir l'impression, avec le développement d'internet dans les
+      années 90 et 2000, qu'on arrivait dans une nouvelle économie, une nouvelle ère ;
+      et par ailleurs c'était vrai. Dans ces deux cas, c'était vrai : concrètement, le
+      mode de vie ne sera plus du tout le même après les années 20 aux États-Unis,
+      après les années 50 en France par exemple, qu'auparavant. Et globalement, il est
+      vrai aussi qu'internet a profondément modifié nos vies : regardez, on est en
+      train de faire un cours par internet.
+  - chunk_index: 42
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 273
+    text: |-
+      Ce qui est intéressant ici, c'est que cette idée de nouveauté est extrêmement
+      favorable à la spéculation, à l'optimisme et donc à l'euphorie que décrit
+      Galbraith. C'est bien ce qu'on constate sur les indices boursiers. Je vous
+      montre ici un petit graphique : on voit l'évolution de l'indice Dow Jones entre
+      1921 et 1929. Un indice boursier, c'est un panier d'actions, en fait des plus
+      grandes entreprises de l'époque — les 30 plus grandes entreprises. On voit que
+      la valeur de ses actions ne cesse d'augmenter, et même qu'elle augmente avec une
+      courbe exponentielle, c'est-à-dire qu'on a un taux de croissance qui est
+      toujours à peu près le même, mais qui entraîne une hausse de plus en plus forte
+      de la valeur des bourses. Cette hausse renforce les gens dans cette idée
+      d'euphorie, bien sûr, parce qu'ils voient des moments de petite baisse, mais qui
+      ne sont jamais durables, et la hausse globalement est toujours plus forte que la
+      baisse.
+  - chunk_index: 43
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 351
+    text: |-
+      Cette spéculation est liée à tout un ensemble de facteurs : des facteurs
+      technologiques, des facteurs un peu culturels, et puis les systèmes financiers
+      de levier dont on doit reparler. Qu'est-ce qui explique l'engouement des
+      Américains pour la bourse dans les années 20 ? Clairement un phénomène de mode,
+      mais également des technologies de communication qui vont devenir bien plus
+      performantes. Pourquoi je dis technologies de communication ? Parce que si vous
+      voulez, l'attrait de la bourse, l'attrait du joueur, c'est de pouvoir suivre les
+      cours boursiers tous les jours, le plus fréquemment possible, d'être informé
+      régulièrement. Cette information, soit on habite à New York et on peut voir les
+      prix s'afficher en allant à la bourse, soit on habite dans le Kansas et là c'est
+      un peu plus compliqué pour connaître les prix de clôture de la bourse de New
+      York ; il faut des systèmes de communication. Ces systèmes de communication vont
+      apparaître justement dans les années 20 : ce sont les téléscripteurs, qui
+      permettent en quelque sorte d'envoyer des informations aux journaux du monde
+      entier, qui du coup les impriment et vous les donnent chaque matin. Vous avez la
+      clôture de la bourse de la veille, et donc ça suscite ces mécanismes de
+      spéculation, parce que vous pouvez suivre au jour le jour vos investissements.
+  - chunk_index: 44
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 297
+    text: |-
+      Il faut dire aussi que la bourse est une association privée qui n'a aucune
+      réglementation, ni fédérale, ni bancaire, ni quoi que ce soit. N'importe qui
+      peut aller acheter ou vendre sans aucune règle, à part des règles internes. Les
+      banques ont aussi un jeu tout à fait particulier, puisque elles vont à la fois
+      spéculer elles-mêmes : elles vont acheter elles-mêmes des actions pour spéculer,
+      pour gagner de l'argent. Mais elles vont aussi intervenir dans la bourse en tant
+      qu'intermédiaires, c'est-à-dire que c'est elles qui vont acheter pour le compte
+      d'autres personnes. Tout ça va inciter en quelque sorte leurs clients, parfois,
+      à acheter des actions, puisqu'elles auront elles-mêmes un intérêt à ce que les
+      gens achètent des actions : si tout le monde achetait des actions, le cours
+      monterait, et elles possèdent aussi ces actions. Donc si vous voulez, c'est un
+      secteur qui n'est pas du tout réglementé et qui donne l'impression de gagner
+      beaucoup d'argent, et donc tout le monde va progressivement s'y ruer. On va voir
+      cette hausse exponentielle.
+  - chunk_index: 45
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 415
+    text: |-
+      Tout le monde va s'y ruer parce que justement on va aussi avoir tout un ensemble
+      de revues spécialisées qui vont se développer, puis on va avoir des oracles — ce
+      que Galbraith appelle les oracles avec ironie — toutes ces personnes qui vont
+      expliquer que cette nouvelle ère peut profiter à tout le monde, que chacun doit
+      pouvoir gagner de l'argent avec la spéculation. On a des revues spécialisées qui
+      conseillent aux gens d'acheter des actions, et du coup tout ça fait que les
+      gens, au bout d'un moment, vont s'y mettre. Chacun va s'y mettre : les premiers,
+      les plus avertis, puis ensuite monsieur et madame Tout-le-Monde, enfin tous ceux
+      qui ont un peu d'argent, bien sûr. Au total, la majorité des Américains ne va
+      pas acheter en bourse, mais on va quand même avoir pas mal de monde qui va
+      spéculer. On va arriver, là aussi — c'est ce que Galbraith estime — entre 600
+      000 et 900 000 personnes qui auront spéculé en bourse, qui auront déposé des
+      actions, sur une population de 120 millions. Mais il ne faut pas regarder la
+      population totale, il faut regarder le nombre de ménages, parce que c'est
+      souvent une personne par ménage qui investit : donc 25, 30 millions de ménages.
+      On voit qu'on est à 3 ou 4 % de la population. Ce n'est évidemment pas la
+      majorité, mais ça commence à faire pas mal, d'autant plus que ce sont des gens
+      riches, et donc s'ils perdent de l'argent, bien sûr, ça va affecter davantage le
+      système économique.
+  - chunk_index: 46
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 497
+    text: |-
+      On va voir toute une industrie qui va se créer là-dessus et qui va toujours
+      inciter à la spéculation : des gens qui donnent des conseils, des banques qui
+      vont s'organiser comme intermédiaires, qui vont prêter à des ménages pour qu'ils
+      puissent acheter des titres. On va voir aussi des économistes qui vont
+      encourager l'investissement dans des actions. Parmi les économistes, il y en a
+      un qui s'est très largement planté et qui a dû s'excuser toute sa vie pour ça :
+      il écrit trois jours avant le krach que « le prix des actions ont atteint ce qui
+      apparaît être un haut plateau permanent ». C'est amusant parce que ce plateau
+      permanent va s'effondrer quelques jours après. Et même après le krach, on va
+      voir des économistes qui vont quand même continuer de dire qu'il n'y a pas de
+      souci, qu'il faut continuer d'investir, que ce krach financier ne va pas
+      entraîner de conséquences réelles. On a tout un ensemble d'optimistes, notamment
+      la Harvard Economic Society, qui écrit en novembre, donc après le krach, qu'«
+      une crise sévère comme celle de 1920-1921 est hors de toute probabilité ; nous
+      ne sommes pas à la veille d'une liquidation prolongée ». Évidemment, ça fait un
+      peu sourire, mais c'est vous dire à quel point la conviction, l'euphorie était à
+      la spéculation et non pas au pessimisme. À l'époque, c'est évidemment
+      malheureusement une cause de faillite et de crise financière. Le problème qu'il
+      faut comprendre, c'est que c'est au moment où on est le plus confiant, où on
+      s'attend le moins à une crise, qu'on est le plus proche d'une crise en réalité.
+      Puisque justement une crise financière, c'est la différence entre les attentes
+      et la réalité, et donc plus on est optimiste, plus l'écart entre les attentes et
+      la réalité va être important, et plus une crise est probable.
+  - chunk_index: 47
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 81
+    text: |-
+      Voilà, c'est une grande leçon de vie que vous devez apprendre si vous vous
+      amusez à spéculer en bourse : n'allez jamais là où tout le monde dit qu'il faut
+      aller, ne croyez jamais les discours optimistes, parce que ça veut dire qu'en
+      général ça risque d'aller mal.
+  - chunk_index: 48
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 432
+    text: |-
+      Donc évidemment beaucoup de gens entretiennent l'optimisme des gens, notamment
+      bien sûr les banquiers, qui sont intéressés par l'optimisme et les soucis
+      d'investissement. Une société d'investissement, dont on parlait tout à l'heure,
+      c'est une entreprise qui collecte l'épargne — un OPCVM, souvenez-vous du cours
+      d'introduction à l'analyse économique — c'est une entreprise qui va collecter
+      l'épargne des épargnants et qui va la placer en bourse sous forme d'actions.
+      C'est une entreprise qui détient essentiellement des actions et qu'on va
+      acheter. Eux aussi participent à la spéculation, eux aussi ont intérêt à ce que
+      tout le monde soit optimiste. On a même bien sûr des journalistes qui sont
+      rémunérés directement par des financiers pour écrire des articles optimistes.
+      Donc forcément, vous n'avez pas une information très claire. Il y a quelques
+      pessimistes, quelques personnes qui alertent régulièrement sur les dangers de la
+      spéculation, notamment le *New York Times*, qui est au cœur de l'action — c'est
+      le grand journal de New York — et qui voit tout à fait les phénomènes de
+      spéculation et qui est très pessimiste. On a même des pessimistes à la banque
+      centrale de New York, la banque fédérale de New York, qui est aussi un peu
+      inquiète de la spéculation. Pour freiner la spéculation, elle va augmenter les
+      taux d'intérêt. Augmenter les taux d'intérêt, ça veut dire renchérir le coût de
+      l'emprunt, et ça vise à empêcher les gens d'emprunter pour acheter des actions.
+      Donc avant le krach, pendant l'été 1929, elle le fait.
+  - chunk_index: 49
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 266
+    text: |-
+      On avait quand même des gens qui avaient conscience de ce qu'on appelle l'«
+      exubérance irrationnelle des marchés », pour reprendre une formule bien plus
+      tardive de la fin du XXe siècle. Mais tout le monde voyait bien que la valeur
+      des titres de bourse, les prix des actifs financiers, étaient nettement
+      supérieurs à la valeur réelle, et donc tout le monde craignait un retournement.
+      Encore une fois, en 1929, on a déjà connu des krachs financiers ; ce n'est pas
+      des choses nouvelles, ce sont des choses largement documentées, et donc il était
+      logique de penser qu'il pourrait y avoir un krach. Néanmoins, on n'a pas pu
+      l'éviter, et ça aussi c'est une caractéristique de tous les krachs financiers :
+      des gens voient bien les problèmes, mais le problème va être résolu parce que
+      s'il y a trop d'optimisme, trop de gens qui veulent y croire en quelque sorte,
+      eh bien il n'y a aucune raison que le marché se retourne, et donc la spéculation
+      se poursuit.
+  - chunk_index: 50
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 408
+    text: |-
+      Ce qui va aussi susciter davantage de spéculation, c'est l'emprunt et le fait
+      que beaucoup d'actions seront achetées par l'emprunt. Il faut expliquer pourquoi
+      les gens empruntent pour acheter des actions. Bien sûr que c'est risqué, et bien
+      sûr que tout le monde sait que c'est risqué d'emprunter pour acheter des
+      actions. Mais quand on est dans une logique de spéculation, on est confronté à
+      un problème, et le programme est le suivant : si on veut vraiment gagner
+      beaucoup de revenus en spéculation, c'est-à-dire si on s'attend par exemple à ce
+      que le prix de l'action augmente de 20 %, on achète 1 000 aujourd'hui et si on
+      attend un an, on vendra 1 200 dans un an, donc on aura gagné 20 %, c'est-à-dire
+      200 euros si je suis en euros. 200 euros pour un an, ce n'est pas énorme comme
+      argent. Ce qui serait bien, c'est d'avoir davantage, et en fait c'est
+      directement proportionnel aux montants qu'on va mettre. Si on met 1 000 euros,
+      20 % de 1 000 euros, c'est 200 euros ; mais si on met 10 000 euros, tout d'un
+      coup on va gagner dix fois plus, puisque 20 % de 10 000, ça devient 2 000 euros.
+      Donc l'idée d'emprunter, c'est l'idée de faire ce qu'on appelle un effet de
+      levier, c'est-à-dire un effet de multiplication. Le levier, ça sert à multiplier
+      la force, et bien là on va chercher à multiplier l'impact de l'argent qu'on a.
+  - chunk_index: 51
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 997
+    text: |-
+      Concrètement, comment ça fonctionne ? Il y a plein de façons, mais l'objectif
+      est de partir déjà de l'argent. Donc vous possédez 1 000 dollars et avec 1 000
+      dollars vous voulez acheter pour l'équivalent de 5 000 dollars de titres.
+      Évidemment, avec 1 000 dollars, ce n'est pas 5 000, donc vous ne pouvez pas.
+      Mais vous savez que si vous aviez 5 000 dollars de titres, vous gagneriez cinq
+      fois plus d'argent avec la spéculation. Qu'est-ce qui permet de faire cela ? Ce
+      qu'on appelle des opérations sur marge, et n'importe qui pouvait le faire.
+      Qu'est-ce qu'il s'agit ? Vous décidez d'acheter 5 000 dollars de titres avec 1
+      000 dollars d'argent : en fait vous ne payez que 20 % de l'achat, et quelqu'un
+      va acheter pour vous 5 000 dollars de titres. Il va mettre 4 000 dollars et
+      vous, vous allez donner 1 000 dollars en caution. Il va vous faire payer un taux
+      d'intérêt. Donc en fait, ce que vous faites ici, c'est un emprunt : vous
+      empruntez 5 000 dollars et vous mettez vos 1 000 dollars en caution auprès de la
+      personne à qui vous avez emprunté. Tout ça fonctionne bien, sauf si les cours de
+      l'action, les cours des titres que vous avez achetés, baissent. Dans ce cas, on
+      va regarder le dépôt de garantie : vous avez mis 1 000 dollars, ok, mais si ça
+      baisse de plus de 1 000 dollars, on va faire ce qu'on appelle un rappel de
+      marge. C'est-à-dire qu'on va dire : « écoutez, vous avez mis 1 000 euros de
+      garantie, là vous faites des pertes de 1 500 euros, je suis désolé, il va
+      falloir me rallonger 500 euros ». C'est là qu'arrive le problème : quand les
+      titres baissent, si vous n'avez pas d'argent, vous ne pouvez pas rajouter, et
+      vous êtes obligé de vendre les titres que vous avez achetés, donc les 5 000
+      dollars de titres, mais évidemment vous les vendez à un prix inférieur, parce
+      que c'est justement l'appel de marge : la valeur des titres a baissé. Que se
+      passe-t-il ? Tout le monde se met à vendre en raison des rappels de marge,
+      c'est-à-dire parce que le courtier qui vous a acheté des actions vous demande de
+      l'argent pour compenser les pertes, et vous êtes obligé de vendre dans
+      l'urgence. Vous vendez à un mauvais prix, et en plus le souci qui se passe,
+      c'est que ça accélère la chute des cours, parce que quand tout le monde fait ça
+      en même temps, les cours s'effondrent. Tout le monde veut vendre en même temps.
+      Il faut bien comprendre que si les gens vendent dans les moments de panique
+      boursière, ce n'est pas toujours parce qu'ils se disent « ah bah c'est génial,
+      vendons », ils ont bien compris qu'il vaut mieux ne pas vendre quand ça baisse,
+      mais en fait ils n'ont pas le choix. C'est ça le problème : ils n'ont pas le
+      choix, parce que non seulement ils doivent payer les intérêts aux courtiers, aux
+      banquiers qui ont acheté pour eux et qui leur ont prêté de l'argent, mais en
+      plus ils sont obligés, à cause du principe de rappel de marge, d'augmenter la
+      caution qu'ils avaient mise au départ. Le rappel de marge, c'est un truc
+      classique dans la finance. Je vous invite à regarder le film qui s'intitule en
+      français *Margin Call* — en français, *Margin Call*, appel de marge. C'est un
+      film très, très bon sur ce qui s'est passé pendant la crise des subprimes
+      américaines, sorti en 2010. Le titre renvoie à ce principe.
+  - chunk_index: 52
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 180
+    text: |-
+      Le titre renvoie à ce principe. Ce n'est pas
+      vraiment expliqué dans le film, par ailleurs, mais le rappel de marge, c'est :
+      j'ai mis de l'argent pour acheter, pour faire un effet de levier, donc
+      multiplier mon argent en achetant davantage d'actions, de titres financiers, que
+      je n'ai d'argent au départ, mais pour ça je dois mettre de l'argent en réserve,
+      et quand l'argent ne suffit pas, on nous rappelle, on nous demande de reverser
+      au pot. Le souci, c'est que si on n'arrive pas à reverser au pot, on est obligé
+      de revendre les titres, on les revend mal, et ça accélère les chutes boursières.
+  - chunk_index: 53
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 297
+    text: |-
+      C'est le mécanisme classique pour les petits investisseurs, mais on a aussi un
+      autre système. Je vais y passer un peu de temps, Galbraith en parle beaucoup,
+      parce que c'est effectivement typique de l'époque : comment les sociétés
+      d'investissement permettent de créer de nouveaux types de levier. La thèse de
+      Galbraith — pas dans *La crise économique de 1929*, mais dans *Brève histoire de
+      l'euphorie financière* — c'est que toutes les crises financières viennent de
+      cette euphorie, et cette euphorie vient elle-même de quelqu'un qui a trouvé une
+      super idée. Cette super idée, c'est toujours le levier : le levier est toujours
+      le mécanisme qui va à la fois créer l'euphorie et la crise. Ce levier peut être
+      expliqué, c'est le but par cinq ici dans le système que je vous présente, mais
+      on peut le trouver caché, niché dans des choses qui n'apparaissent pas
+      spontanément comme des systèmes d'emprunt ou de levier, et notamment la société
+      d'investissement. La société d'investissement, c'est une forme de levier caché,
+      et je vais vous expliquer comment ça fonctionne.
+  - chunk_index: 54
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 293
+    text: |-
+      Ces établissements sont créés, souvent par les banques, qui veulent les proposer
+      à leurs épargnants. Ce sont des sociétés qui concrètement émettent des actions,
+      donc c'est toute société, mais ces actions sont rachetées par des épargnants, et
+      avec l'argent des épargnants, elles vont racheter des actions d'autres
+      entreprises. Concrètement, une société d'investissement, c'est une société qui
+      est composée essentiellement d'actions d'entreprises. C'est une SICAV
+      aujourd'hui — société d'investissement à capital variable. J'en ai parlé, je ne
+      vais pas y revenir, mais si vous voulez, vous pouvez rechercher ça sur internet,
+      sur Wikipédia, vous verrez ce que c'est. Donc une société d'investissement,
+      mettons, possède des actions d'une entreprise, mais elle-même ne produit pas de
+      biens réels : c'est une société purement financière. On va créer beaucoup de
+      sociétés d'investissement parce qu'elles vont être très populaires, parce
+      qu'elles rapportent autant d'argent que la bourse, mais elles sont parfois
+      d'autant plus populaires qu'elles peuvent servir de levier.
+  - chunk_index: 55
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 426
+    text: |-
+      Comment fonctionne un levier dans ce cadre ? Vous avez trois types de titres que
+      vous émettez. On a des actions, dont des actions ordinaires — voilà, c'est le
+      premier mécanisme — mais dans ce cas-là on n'a pas de levier. Pour qu'on ait un
+      levier, il faut se financer par des actions ordinaires, mais également par ce
+      qu'on appelle des actions préférentielles et par des obligations. Qu'est-ce que
+      c'est qu'une action préférentielle ? C'est inventé, ça existe depuis tout le
+      temps, ça existe d'ailleurs encore : ce sont des actions à dividende garanti.
+      Dividende garanti veut dire que quel que soit l'état de la société, vous
+      bénéficierez d'un dividende garanti par la société. L'obligation, c'est un peu
+      le même principe, en réalité ce n'est pas des dividendes, c'est un intérêt, mais
+      de la même façon que dans l'action préférentielle, il y a un intérêt garanti.
+      Donc vous devez chaque année, ou à l'échéance, recevoir vos obligations, et
+      elles seront remboursées : on vous rembourse le capital et l'ensemble des
+      intérêts. Le fait d'avoir à la fois des actions préférentielles et des
+      obligations comme source de financement fait que ces titres ne vont pas voir
+      leur valeur augmenter, puisque leur valeur est déjà décidée, déjà déterminée par
+      le dividende ou l'intérêt qu'on va verser, qui est déjà contractualisé. Ce qui
+      signifie une chose : si quelque chose peut gagner en valeur dans l'entreprise,
+      si l'entreprise globalement gagne 50 % de sa valeur, et bien ces 50 % ne
+      reposeront que sur les actions ordinaires.
+  - chunk_index: 56
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 252
+    text: |-
+      Donc imaginez : vous avez une entreprise avec un tiers d'actions ordinaires, un
+      tiers d'actions préférentielles et un tiers d'obligations, et cette entreprise
+      vaut globalement plus 50 %. Et bien ces plus 50 % vont peser ou améliorer
+      uniquement la valeur des actions ordinaires, d'un tiers. Donc le 50 % devant
+      être réparti uniquement sur les actions ordinaires : les actions préférentielles
+      ne vont pas valoir plus parce que les dividendes sont garantis, les obligations
+      ne vont pas valoir plus précieuses non plus, l'intérêt est garanti et
+      contractualisé, donc il ne peut pas augmenter. Par contre, toutes les actions
+      ordinaires, qui représentent le tiers de la valeur de la société, vont voir leur
+      valeur augmenter de ces 50 %, et donc 50 % en fait seront répartis sur un tiers,
+      et on va se retrouver à une valeur bien plus importante de ces actions. Je vais
+      vous montrer tout à l'heure un exemple, ici en bleu, je vais vous l'expliquer.
+  - chunk_index: 57
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 244
+    text: |-
+      Ce système-là, c'est simplement une autre manière de faire du levier. Ça veut
+      dire que toute la hausse — et aussi la baisse, bien sûr — se répercute
+      uniquement sur les actions ordinaires. Ce qui fait que, avec des entreprises qui
+      augmentent que de 50 % en moyenne, les actions qui augmentent, elles, vont
+      capitaliser beaucoup plus d'argent sur un nombre réduit d'actions. Évidemment,
+      ce système-là est évident : vous allez gagner beaucoup plus. Je reprends
+      l'exemple tout à l'heure : c'est un tiers, un tiers, un tiers. Si la valeur des
+      actifs que vous possédez, des titres financiers que la société d'investissement
+      possède, augmente d'un tiers — ou en moyenne — et bien ça veut dire que le tiers
+      d'actions ordinaires va être lui-même multiplié par deux, il va voir sa valeur
+      multipliée par deux. Donc avec une hausse d'un tiers, vous faites une hausse de
+      100 %.
+  - chunk_index: 58
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 228
+    text: |-
+      Évidemment, tout ça était très populaire, et ça veut dire que dès qu'une société
+      d'investissement se créait et émettait des actions, notamment des actions
+      ordinaires, bien très vite les gens se ruaient vers l'achat d'actions, parce
+      qu'ils se disaient qu'ils allaient gagner beaucoup d'argent. Il arrivait parfois
+      que la valeur des actions des sociétés d'investissement dépasse la valeur des
+      actifs qu'elles détiennent, ce qui est totalement absurde quand on y réfléchit.
+      Par exemple, une société d'investissement qui possède, je ne sais pas, 100
+      actions de Total qui valent chacune 10 euros, elle a 1 000 euros d'actifs. Sa
+      valeur boursière pourrait être par exemple de 2 000, ce qui est absurde parce
+      qu'elle possède des actifs qui valent 1 000. Donc on arrivait à des choses comme
+      ça.
+  - chunk_index: 59
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 313
+    text: |-
+      On pouvait aussi multiplier le levier en achetant, dans ces sociétés
+      d'investissement, non pas des titres de Total, donc du secteur réel, mais des
+      titres d'autres sociétés d'investissement, qui elles-mêmes pouvaient racheter
+      des titres d'autres sociétés d'investissement : c'est un peu des poupées russes.
+      Dans ce cas-là, à chaque fois vous multipliez le levier. Par exemple, si vous
+      avez un tiers d'actions ordinaires et deux tiers d'actions préférentielles et
+      d'obligations, votre levier de fois trois devient facilement très vite fois 9,
+      fois 27, etc., à chaque fois. Donc vous vous retrouvez avec des sociétés
+      d'investissement qui achètent des actions de sociétés d'investissement qui
+      elles-mêmes rachètent des actions de sociétés d'investissement. Évidemment, tout
+      ça rend la finance totalement opaque : on ne sait plus tout ce qu'on achète, ni
+      quelles valeurs ça représente, surtout si la valeur des sociétés
+      d'investissement peut être supérieure à la valeur de leurs actifs. Et bien sûr,
+      le problème du levier, c'est que ça joue à la hausse, mais ça joue aussi à la
+      baisse.
+  - chunk_index: 60
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 396
+    text: |-
+      Un exemple, donc, du livre de Galbraith — vous pouvez le lire, il est en tout
+      cas dans *La crise de 1929*, pages 81-82, dans la version que j'ai, ce n'est pas
+      la bonne version. Voici ce qu'il donne comme exemple : création d'une société
+      d'investissement de 150 millions de capital, dont 50 millions d'obligations, 50
+      millions d'actions à dividende garanti et 50 millions d'actions ordinaires. Donc
+      le schéma que je disais : un tiers, un tiers, un tiers. Si les cours augmentent
+      de 50 %, c'est-à-dire que vous achetez des titres et la valeur de ces titres que
+      vous achetez avec les 150 millions de capital a augmenté de 50 %, donc 50 % de
+      150 millions, cela fait 75 millions. Donc maintenant vous avez 75 millions de
+      plus, donc vous avez une société qui vaut maintenant 225 millions. Cette société
+      qui vaut 225 millions va bénéficier à ses 225 millions, et bien en fait
+      uniquement les actions ordinaires : pourquoi ? Parce que les autres ne sont pas
+      concernées, parce que les autres ont des rentabilités déjà contractualisées,
+      donc elles ne peuvent pas être plus rentables, donc elles ne peuvent pas valoir
+      davantage. Par contre, ce qu'on gagne, c'est les actions ordinaires. Et ce qui
+      se passe, c'est que les 50 millions d'actions ordinaires valent maintenant 125
+      millions, soit une hausse de 150 %, donc multiplié par deux et demi. Voilà,
+      c'est ça qui s'est passé. Donc c'est typiquement le mécanisme.
+  - chunk_index: 61
+    heading_path: HFE - Séance 10 du 9 avril > La crise de 1920-1921 et l'agriculture
+    content_token_count: 327
+    text: |-
+      Là je vous parle d'une hausse. Ça veut dire que si vous achetez une action,
+      votre capacité à faire de la croissance sera bien plus importante. Le problème,
+      c'est que c'est l'inverse si jamais vos actifs, au lieu de gagner 50 %, perdent
+      20 %. Dans ce cas-là, s'ils perdent 20 %, ce n'est pas l'effet inverse des 20 %
+      qu'il va absorber : les pertes seront absorbées uniquement par les actions
+      ordinaires, donc elles vont perdre bien davantage que les autres. Donc on a
+      réussi, avec ces sociétés d'investissement structurées de cette façon, à créer
+      typiquement un levier caché. Officiellement, elles n'empruntent pas à la banque
+      ; le seul emprunt est représenté par les obligations, qui a priori est faible,
+      mais en réalité les 50 millions d'actions à dividende garanti représentent en
+      fait, par ces garanties, une forme d'emprunt. C'est-à-dire qu'on contractualise
+      le revenu que les gens vont verser, ce qui représente un peu la même chose qu'un
+      intérêt, sauf qu'il n'y a pas de capital à rembourser. Et donc si on ne fait pas
+      de profit, on se retrouve parfois en situation de faillite parce qu'on doit
+      payer et qu'on ne peut pas payer.
+  - chunk_index: 62
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 200
+    text: |-
+      Concrètement, que s'est-il passé ? Il s'est passé une dernière année, en 1929,
+      qui ne se passe pas très bien, puisque l'on commence à voir une petite récession
+      économique dans les derniers mois, qui n'est pas forcément vue par tout le
+      monde, et globalement aussi des titres financiers qui sont très, très chers.
+      Donc voilà les cours boursiers : on a déjà eu une année 1928 un peu en dents de
+      scie, donc là on ne voit pas aller mais sûrement, globalement en hausse. Puis
+      voyez, ici il n'y a pas de hausse pendant toute la première partie de l'année
+      1929, puis voyez une grosse forte hausse pendant l'été, puis après une baisse,
+      puis après ça s'effondre. Ça s'effondre en octobre.
+  - chunk_index: 63
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 682
+    text: |-
+      Que se passe-t-il en octobre ? Le 24 octobre 1929, on appelle ça le jeudi noir :
+      c'est une forme de panique. On échange beaucoup plus de titres que d'habitude,
+      donc 12, 9 millions de titres, 13 millions en une journée, c'est quand même
+      énorme. On voit bien que la bourse de New York était déjà extrêmement
+      importante, et donc effondrement des cours. À la fin de la journée, des
+      banquiers, des financiers, Richard Whitney en particulier, vont intervenir pour
+      essayer de manipuler le cours de la bourse en faisant ce qu'on appelle l'aide
+      organisée. Qu'est-ce que c'est ? Il achète les cours pour que, en rachetant des
+      titres, le cours se redresse. En fait, on voit bien que là aussi on a beaucoup
+      de gens qui ont à perdre avec l'idée qu'on puisse perdre de l'argent en bourse,
+      parce que finalement tout le monde s'était habitué à l'idée que la bourse gagne
+      tout le temps. C'est la raison pour laquelle le premier krach est bien moins
+      important que prévu : toutes les personnes qui ont intérêt à ce que la bourse ne
+      s'effondre pas cherchent à la faire remonter. Donc ça rassure un peu les
+      marchés, qui voient là tout le monde se dit : les journaux en parlent, l'aide
+      organisée, génial, on a des gens qui contrôlent le système. Puis en fait ça ne
+      dure pas, puisque le mardi nouvel effondrement de la bourse, et cette fois-ci
+      impossible, parce qu'en fait ça coûte très cher de soutenir les cours et
+      personne ne peut redresser les cours. Là, c'est la fin du mythe de l'aide
+      organisée, de la capacité de la bourse à ne pas s'effondrer parce que trop de
+      gens à l'intérieur ont intérêt à ce que la bourse ne s'effondre pas et vont tout
+      faire pour que ça ne s'effondre pas. Mais en réalité, les gens ne peuvent pas
+      faire tout ce qu'ils veulent. Donc le mardi suivant, nouvel effondrement, et
+      cette fois-ci fin du mythe de l'aide organisée, et baisse des valeurs
+      boursières. En fait, ça va durer très, très longtemps. Vous voyez qu'en 1930,
+      globalement, ça baisse aussi, en 1930, en 31, en 32, ça a baissé tout le temps.
+      En fait, le Dow Jones ne reviendra à son niveau de mai 1929 qu'en 1954, donc 25
+      ans plus tard. On voit bien que les choses se redressent après, mais que l'idée
+      de la hausse infinie de la bourse a pris fin.
+  - chunk_index: 64
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 379
+    text: |-
+      On pourrait dire : voilà, les gens ont risqué de l'argent, ils ont perdu leur
+      argent. Certains évidemment s'étaient endettés avec ces mécanismes de levier,
+      donc ils sont très embêtés. Mais finalement, ça reste — et je pense que beaucoup
+      de gens pensaient ça à l'époque — un krach financier, boursier ; il n'y a pas de
+      raison que l'ensemble de l'économie s'effondre à cause de cela. Or ce n'est pas
+      ce qui se passe : l'effondrement boursier, qui a priori — encore une fois, une
+      bourse, c'est quoi ? C'est un marché où les gens s'échangent des titres, ce
+      n'est pas l'économie, c'est un tout petit morceau de l'économie — le souci,
+      c'est que, comme j'ai dit tout à l'heure, ceux qui investissent en bourse sont
+      généralement les riches et les banquiers. Or le souci, c'est que quand vous avez
+      des gens qui empruntent aux banquiers par ailleurs, donc quand vous avez des
+      banquiers, des banques qui perdent de l'argent, leurs clients qui perdent de
+      l'argent dans les conditions que j'ai dites tout à l'heure — c'est-à-dire que
+      parfois ils sont obligés de revendre leurs titres à des prix beaucoup plus
+      faibles — et bien tout ça entraîne la faillite : faillite personnelle, bien sûr,
+      mais aussi, ce qui est beaucoup plus embêtant, des faillites bancaires.
+  - chunk_index: 65
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 531
+    text: |-
+      Quand des banques font faillite — alors à l'époque déjà, et maintenant il y a
+      une banque centrale, donc la banque centrale peut les aider à trouver la
+      liquidité, mais les banques centrales ne peuvent pas sauver financièrement les
+      banques. Il aurait fallu que le gouvernement américain de l'époque sauve les
+      banques, c'est-à-dire fasse en sorte de renflouer les banques. Ce que les
+      États-Unis ont fait dans la crise de 2008 : après avoir laissé Lehman Brothers
+      faire faillite, ensuite ils se sont rendu compte qu'on ne peut pas laisser les
+      banques faire faillite. Mais ce qui n'a pas du tout été fait en 1929, où les
+      mauvaises banques sont des mauvaises banques, on les laisse faire faillite. Sauf
+      que le problème, c'est que quand on laisse faire faillite des banques, on se
+      retrouve avec des gens qui perdent de l'argent, des entreprises qui perdent de
+      l'argent, tous les épargnants peuvent perdre de l'argent — vous êtes épargnant,
+      vous prêtez à votre banque, donc si une banque fait faillite, vous n'êtes pas
+      remboursé — et puis les banques prêtent à d'autres banques. Globalement, ça
+      fragilise le système bancaire, fragilise les systèmes de financement, et donc
+      les gens n'ont plus les moyens de financer l'investissement, y compris dans des
+      investissements rentables. Or justement, pendant l'été, on avait déjà l'économie
+      qui marchait pas très bien, les stocks qui s'accumulaient, notamment dans les
+      biens de production, donc les biens qui ne sont pas directement pour les
+      consommateurs mais qui s'adressent aux entreprises. Donc si l'entreprise arrête
+      d'investir, du coup tout l'acier produit pour le secteur industriel arrête
+      d'être vendu. Et puis il y a un effet revenus : le fait que les gens perdent de
+      l'argent fait qu'ils ont moins de capacité de consommation, donc il y a moins de
+      consommation, et ça favorise encore la surproduction.
+  - chunk_index: 66
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 528
+    text: |-
+      Ce qui va se passer après 1929, dès les années 30, c'est que la surproduction ne
+      va faire que s'intensifier, c'est-à-dire que l'écart entre la consommation —
+      mais pas la consommation des gens, des ménages notamment — et la capacité de
+      production va grandir. Évidemment, quand on est confronté à ça, que se
+      passe-t-il ? Premièrement, on réduit sa production : l'entreprise réduit la
+      production, n'arrive plus à vendre, réduit la production. Du coup, elle va
+      mettre des gens au chômage, elle va arrêter d'acheter des biens
+      d'investissement, donc ça va faire perdre des revenus à d'autres entreprises, et
+      puis ça se propage. Ensuite, vous avez quand même des stocks à vendre, donc
+      qu'est-ce que vous faites ? Logiquement, vous baissez vos prix, vous essayez
+      d'écouler vos stocks. Une baisse des prix qui dit baisse des prix dit forcément
+      baisse des revenus pour les entreprises qui arrivent à se sauver, mais elles se
+      sauvent en faisant des pertes. Du coup, elles vont chercher à baisser les coûts
+      de production, donc elles vont licencier là aussi du personnel, ou elles vont
+      essayer de négocier des salaires à la baisse. En fait, on va voir cette chose-là
+      se répéter pendant des années et des années : c'est ce qu'on appelle la
+      déflation. La déflation, qu'est-ce que c'est ? C'est un moment, celle inverse de
+      l'inflation, c'est-à-dire une situation dans laquelle tout le monde baisse ses
+      prix. En fait, la crise des années 30, c'est une crise qui est caractérisée par
+      une baisse généralisée des prix et une baisse des prix de vente auprès des
+      consommateurs, mais aussi par une baisse d'un prix extrêmement important, le
+      salaire, puisque les entreprises ne peuvent plus payer de gros salaires, donc
+      elles font baisser les salaires. Tout va baisser de prix, et cela est bien
+      évidemment très embêtant, en particulier quand vous avez emprunté.
+  - chunk_index: 67
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 413
+    text: |-
+      Quand vous empruntez, vous devez rembourser votre crédit et les intérêts à
+      échéance régulière, par exemple mensuellement. Le problème, c'est que vos coûts
+      financiers sont fixes et que vous avez calculé ces coûts financiers par rapport
+      à des revenus attendus. Si les revenus se maintiennent, votre coût financier va
+      se maintenir ; si les revenus s'accroissent, relativement à vos revenus, le coût
+      financier va se réduire ; mais si vos revenus baissent, alors votre charge
+      financière devient plus importante. Et ça veut dire que très vite vous passez
+      d'une situation saine, où vous n'êtes pas trop endetté par rapport à vos
+      revenus, à une situation beaucoup moins saine, où le coût de l'endettement ne va
+      cesser d'augmenter, non pas parce que vous allez plus emprunter, mais parce que
+      vos revenus vont baisser. Donc ça accélère le mécanisme dépressif. La baisse
+      généralisée des prix est un système qui est extrêmement mauvais pour l'économie,
+      puisque les prix baissent, les prix de vente des entreprises ou des producteurs
+      baissent, mais les charges financières restent, et on a d'un côté des
+      producteurs pris à la gorge par les coûts financiers, les coûts fixes, qui
+      n'arrivent pas à s'en sortir, et de l'autre côté les banquiers qui ont de plus
+      en plus peur de voir leurs emprunteurs ne pas rembourser et qui vont arrêter de
+      faire des prêts. Donc toutes les entreprises qui vont bien ne pourront plus
+      emprunter pour relancer l'activité économique.
+  - chunk_index: 68
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 577
+    text: |-
+      C'est le mécanisme de déflation-dépression. Une dépression, qu'est-ce que c'est
+      ? C'est plus qu'une récession : c'est une récession qui s'auto-entretient, qui
+      se prolonge, c'est-à-dire que le mécanisme de récession va entraîner des
+      conditions dégradées dans l'économie qui vont susciter une nouvelle récession.
+      Donc de récession en récession, le PIB ne va cesser de baisser, le chômage de
+      masse augmenter, les prix globalement baisser, les revenus financiers devenir de
+      plus en plus insoutenables, les charges financières devenir de plus en plus
+      insoutenables, donc les entreprises font faillite, donc les banques font
+      faillite. En fait, on a une multiplication des faillites bancaires et
+      industrielles. Cette dépression va durer dix ans, jusque à l'entrée en guerre
+      des États-Unis, jusqu'aux années 1940, où là on va entrer dans une économie de
+      guerre. Dans les villes, on va avoir un taux de chômage qui va largement
+      dépasser les 25 %, donc bien plus important que dans toutes les années
+      antérieures. La crise agricole va continuer, et donc la pauvreté dans
+      l'agriculture et dans les campagnes va être encore plus forte. On va voir des
+      gens parfois qui vont partir, qui vont chercher à migrer notamment dans l'Ouest,
+      parce que la crise touche davantage l'Est que les États-Unis. On va voir à New
+      York que Central Park va devenir un lieu de vagabondage : des gens qui vont
+      arriver, qui vont dormir sous la tente dans Central Park, des bidonvilles qui
+      s'installent dans les jardins publics, on va voir se développer des soupes
+      populaires. Je n'ai pas vu le film, je n'ai pas lu le livre, mais *Les Raisins
+      de la colère* de Steinbeck, c'est typiquement cette pauvreté, notamment dans les
+      campagnes, et ces vagabonds qui traversent les États-Unis en utilisant parfois
+      les trains de marchandises pour aller faire des centaines de kilomètres vers
+      l'Ouest en espérant que là-bas il y aura plus de choses. Donc une crise
+      économique se transforme très vite en crise sociale.
+  - chunk_index: 69
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 262
+    text: |-
+      Ici, on voit le PIB, reconstruit a posteriori parce qu'à l'époque on n'avait pas
+      des statistiques suffisamment solides pour mesurer le PIB. Mais on voit qu'en
+      1929 on part d'environ 1 000 milliards de dollars en 2005 ; ça n'a pas beaucoup
+      d'intérêt, mais en gros on est à 1 000. On ne fait que baisser après, on
+      augmente, on retouche 1 000, puis après il y a une nouvelle récession en 1937.
+      Finalement, on revient un peu au-delà à la fin des années 30. Donc on a ici dix
+      ans de crise, une décennie complète de perdue, et aucune croissance économique.
+      Après, on a vu pire : la guerre crée comme d'habitude une petite récession le
+      temps que l'économie se restructure, puis ensuite une très forte croissance.
+      Vous voyez que la croissance des années 50 sera bien plus élevée qu'avant, et
+      souvenez-vous, on a vu ça au chapitre précédent.
+  - chunk_index: 70
+    heading_path: HFE - Séance 10 du 9 avril > Le krach de 1929
+    content_token_count: 128
+    text: |-
+      Là aussi, c'est un taux de chômage reconstruit a posteriori : un taux de chômage
+      qui dépasse les 20 % en moyenne. C'est une moyenne, donc ça ne veut pas dire
+      grand-chose, mais il faut voir que dans l'Est, dans les villes, c'était sans
+      doute bien plus élevé. Pareil, le chômage s'effondre après l'entrée en guerre et
+      va rester très faible, autour de 5 %, dans les années 50 et 60.
+  - chunk_index: 71
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 263
+    text: |-
+      Tout ça était nouveau pour les gens, donc les politiques ne savent pas trop
+      comment réagir au départ. Au départ, qu'est-ce qu'on fait ? D'abord on se dit :
+      c'est un krach, ça concerne la finance, ça ne concerne pas l'économie réelle,
+      c'est une bourse, une institution privée. On laisse un peu tomber. Puis quand la
+      crise commence à arriver, on se dit : on a déjà connu ça il y a dix ans, en
+      1920-1921, une crise assez forte finalement, mais elle s'est résolue toute
+      seule. On était encore dans la logique du laisser-faire à l'époque. Alors on
+      sent bien qu'il faut aider un peu, donc on fait beaucoup de communication de
+      crise : on réunit dans les années 30 Hoover, le président — Hoover, pas
+      Roosevelt — il multiplie les réunions de crise, il réunit les patrons, il dit
+      qu'il va falloir redonner l'investissement, etc. Évidemment, ça ne sert à rien,
+      et la crise se prolonge.
+  - chunk_index: 72
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 482
+    text: |-
+      Hoover va commencer à essayer de prendre des initiatives. Là aussi, on a Hoover,
+      puis Roosevelt au sens strict, qui va commencer à faire prendre conscience aux
+      États-Unis qu'il faut faire des choses. Déjà Hoover commence à faire des choses
+      en 1932, c'est une année électorale, il sera battu par Roosevelt à la fin de
+      l'année, en novembre. Mais il commence à essayer de chercher des solutions : il
+      augmente le taux d'impôt sur le revenu, et de façon fortement puisqu'on a un
+      taux marginal de 63 %. Le taux marginal à 63 %, ça veut dire que quand vous avez
+      au-dessus d'une certaine somme, cette somme-là sera taxée à 63 %. C'est un taux
+      élevé ; on parle là de gens qui ont des revenus supérieurs à un million de
+      dollars. Donc en fait, ça veut dire que tout ce qui est au-dessus de 1 million
+      de dollars est accès à ce taux de 63 %. C'est une politique un peu fiscale pour
+      essayer de retrouver des moyens financiers pour l'État. Il va aussi lancer des
+      grands travaux — Hoover, avant même que Roosevelt ne le fasse — puisque le grand
+      barrage qu'on appelle en anglais Hoover Dam, Hoover, a été lancé par Hoover.
+      C'est un barrage, je crois dans les Appalaches, qui est très connu, un des plus
+      grands barrages du monde à l'époque. Donc ça aussi, c'était une politique
+      d'investissements publics liée au fait de faire des emplois. Donc de manière
+      pragmatique, les gouvernements essaient de réagir, mais ils réagissent quand on
+      est déjà au cœur de la crise. Et surtout, toute cette communication «
+      rassurez-vous, on va réunir des gens, on voit le bout du tunnel » finit par être
+      peu crédible et fait perdre beaucoup de popularité. Donc campagne électorale de
+      novembre 1932.
+  - chunk_index: 73
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 544
+    text: |-
+      Roosevelt, lui, a été gouverneur de New York, donc au cœur de la crise, et
+      connaissait bien les questions financières. À l'époque, les démocrates — Hoover
+      et les démocrates ? Non, Hoover et les républicains, Roosevelt et les
+      démocrates. Les démocrates ne sont pas forcément de gauche ou de droite, les
+      choses sont plus compliquées. Par exemple, l'abolition de l'esclavage de
+      Lincoln, c'est un républicain, ce n'est pas un démocrate. Les démocrates à la
+      fin du XIXe siècle sont plutôt soutenus par les États du Sud, les anciens
+      esclavagistes, les ségrégationnistes, et les démocrates ne sont pas forcément
+      des gens de gauche qu'on dirait aujourd'hui. Roosevelt, lui, va transformer les
+      démocrates en parti de gauche, en fait. Mais quand il mène sa campagne,
+      Roosevelt n'est pas du tout de gauche, là aussi tel qu'on pourrait le penser.
+      Qu'est-ce qu'il dit ? Il dit qu'il faut équilibrer les comptes publics, que
+      c'est un scandale qu'on soit en déficit. Il fait campagne en promettant, je cite
+      : « un budget fédéral annuellement équilibré sur la base d'estimations exactes
+      en matière de revenus », et il demande « une réduction immédiate et profonde des
+      dépenses de l'État ». Il dit qu'il faut 25 % de moins de services publics,
+      d'employés. Ce n'est pas du tout une politique de gauche. En revanche, il est
+      contre les relances monétaires, c'est-à-dire la dévaluation, l'étalon-or, la fin
+      de l'étalon-or. Donc d'un point de vue économique, Roosevelt n'apparaît pas de
+      gauche pour les électorats de l'époque. La seule chose qu'on peut aujourd'hui
+      considérer comme de gauche dans son programme, qu'il va mettre en avant très
+      vite, c'est la régulation du système bancaire et financier. Là, pour le coup, la
+      bourse pour lui doit être régulée, le système bancaire doit être entièrement
+      transformé et réglementé. C'est d'ailleurs la première chose qu'il va faire avec
+      le New Deal.
+  - chunk_index: 74
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 105
+    text: |-
+      Le New Deal, ce n'est pas « la nouvelle donne », c'est « le nouvel accord ». Un
+      deal en anglais, ça veut dire un accord, un contrat. Donc c'est plutôt le
+      nouveau partenariat, le nouvel accord, c'est comme ça qu'on devrait le traduire.
+      Bien sûr, deal, ça veut dire aussi donner, en un jeu de cartes, mais ce n'était
+      clairement pas comme ça qu'il fallait interpréter la traduction.
+  - chunk_index: 75
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 263
+    text: |-
+      Roosevelt est élu en novembre 1932, mais il n'est pas au pouvoir en janvier 1933
+      de l'année suivante comme aujourd'hui. À l'époque, on attend quasiment six mois
+      avant que la nouvelle présidence puisse prendre le pouvoir, c'est-à-dire qu'il
+      n'entre officiellement en fonctions qu'au printemps 1933. La première chose
+      qu'il fait à ce moment-là, c'est une de ses promesses : une meilleure régulation
+      de la bourse et du secteur bancaire, avec la création d'une autorité de
+      régulation des marchés financiers qui existe toujours aujourd'hui, la SEC,
+      Security and Exchange Commission, qui a pour but de réguler, d'encadrer les
+      pratiques, d'interdire et d'initier les arnaques, les faillites frauduleuses,
+      etc., puisque tout ça a été vraiment au cœur du krach boursier de 1929. Et puis
+      il encadre davantage les banques, notamment en séparant les banques de dépôt des
+      banques d'investissement. C'est extrêmement important.
+  - chunk_index: 76
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 564
+    text: |-
+      Qu'est-ce que c'est qu'une banque de dépôt ? C'est une banque qui collecte des
+      dépôts des ménages, tels que vous les utilisez, vous, avec lequel vous avez un
+      compte bancaire. Le problème, c'est que les banquiers collectaient les dépôts
+      des ménages et allaient spéculer sur le marché boursier comme n'importe quel
+      acteur. En faisant ça, ils prennent des risques, sauf que les risques ne
+      dépendent pas uniquement pour elles : elles les prennent aussi pour leurs
+      déposants. Donc la première chose à faire, nous dit Roosevelt, et qu'il fait
+      concrètement, c'est que les banques qui veulent spéculer en bourse ne doivent
+      pas accueillir de dépôts. Ce qu'on appelle donc les banques d'investissement,
+      les banques qui vont organiser des opérations financières, ne peuvent pas
+      prendre des risques avec des gens qui sont là pour déposer l'argent. Donc les
+      banques d'investissement collectent aussi l'épargne des ménages, mais elles la
+      collectent dans un but bien précis, qui est de prendre des risques financiers,
+      et les ménages, lorsqu'ils déposent leur argent sur un compte bancaire, n'ont
+      pas spécialement envie de prendre des risques financiers. D'où cette idée de
+      distinguer les deux activités bancaires : c'est le Glass-Steagall Act, qui va
+      être totalement démantelé dans les années 90 et 2000, après la nouvelle crise.
+      En 2001 et en 2008, on impose aussi des critères de solvabilité, c'est-à-dire
+      qu'on va réguler un peu davantage les banques, vérifier qu'elles sont solvables,
+      notamment lorsqu'elles ont des dépôts des ménages. C'est la première loi,
+      effectivement, qui a duré très longtemps, qui a été très utile, et qui a
+      beaucoup inspiré. On a aussi la loi bancaire en France en 1945, très inspirée de
+      ces principes de régulation des marchés financiers, qui va être largement
+      démantelée avec la période de déréglementation financière qu'on va connaître
+      dans les années 80-90 en France comme partout ailleurs.
+  - chunk_index: 77
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 190
+    text: |-
+      Et puis il y avait le problème de l'agriculture. Là aussi, on a une loi,
+      l'Agricultural Adjustment Act, l'AAA, qui vise à faire quelque chose qui était
+      nécessaire pour l'agriculture : essayer de soutenir les prix des produits
+      agricoles, et pour cela organiser la limitation de la production agricole. C'est
+      une loi qui va là aussi inspirer les politiques agricoles ensuite en Europe :
+      régulation des prix, limitation de la production, c'est un peu ce qu'on a fait
+      avec la PAC dans ses anciennes versions, avant les transformations de la PAC
+      dans les années 90. C'était une loi en fait organisée comme la PAC, politique
+      agricole commune, qui cherchait justement à limiter la baisse des cours des
+      produits agricoles.
+  - chunk_index: 78
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 981
+    text: |-
+      Dernier élément du New Deal — on parle vraiment du premier New Deal, parce
+      qu'après Roosevelt sera réélu en 1936 et fera d'autres choses après. Mais dans
+      cette première période, qui n'est pas forcément une période de gauche au sens
+      strict — il va chercher à réorganiser le secteur industriel. Désolé. Il va
+      chercher à organiser l'industrie américaine et notamment à mettre un terme à ce
+      qui mine l'industrie américaine, c'est-à-dire la déflation, qui est une manière
+      de faire baisser les prix d'un côté et baisser les salaires de l'autre. Il va
+      chercher à lutter contre la déflation, et pour cela il va chercher à réorganiser
+      l'économie américaine autour de grands accords de branche, constitués dans le
+      cadre de cette loi qui s'appelle le National Industrial Recovery Act, le NIRA.
+      Cela va créer une administration, la NRA, qui va susciter chez les entreprises
+      un ensemble de pratiques qu'on appelle des bonnes pratiques, avec deux
+      dimensions : une dimension sociale et une dimension concurrentielle. Ce qui est
+      au cœur du problème, c'est la dimension concurrentielle : on va en fait
+      encourager les entreprises à arrêter de baisser leurs prix et arrêter de se
+      faire concurrence par la baisse des prix. Donc on demande aux entreprises de se
+      mettre d'accord entre elles sur les prix. Quand on y réfléchit, on est
+      complètement à l'envers de ce qu'on recommande aujourd'hui en économie,
+      c'est-à-dire qu'on dit : il faut susciter la concurrence, il faut faire baisser
+      les prix. Mais à l'époque, comme on est en situation de baisse généralisée des
+      prix et que ça crée des problèmes pour l'industrie et pour l'emploi, on demande
+      aux entreprises de s'entendre, de collaborer sur les prix, pour éviter de
+      rentrer dans une guerre des prix. Cette logique de cartel n'était pas
+      obligatoire : les entreprises qui acceptaient cette réforme de cartellisation
+      sous l'autorité bienveillante de l'État avaient ce petit autocollant, l'aigle
+      bleu, « We do our part ». Elles adhéraient au code de bonne conduite de la NRA
+      et suspendaient la concurrence. Évidemment, ce label était vu par les
+      consommateurs, qui achetaient ces biens. Mais pourquoi le consommateur
+      accepterait-il que les entreprises arrêtent de baisser leurs prix, voire
+      augmentent leurs prix ? Parce qu'il y a des contreparties sociales : des
+      conventions collectives sur les salaires, on arrête de faire baisser les
+      salaires, on se met d'accord avec les syndicats, on propose des hausses
+      salariales ou en tout cas des fins de baisses de salaires. Et puis on organise
+      aussi la baisse du temps de travail. Là aussi, les Américains ne sont pas les
+      premiers : la France a voulu avec les RTT faire baisser le temps de travail pour
+      répondre à la crise. Les États-Unis font baisser le temps de travail, et le
+      gouvernement demande aux entreprises de faire baisser le temps de travail. C'est
+      à ce moment-là qu'on va voir la norme de la semaine de cinq jours. Oui, parce
+      que vous n'avez jamais réfléchi au fait qu'au XIXe siècle, il n'y avait que le
+      dimanche où on ne travaillait pas — le dimanche, on ne travaille pas — donc six
+      jours sur sept. Au XXe siècle, on travaille cinq jours sur sept, c'est la norme
+      aujourd'hui. Quand est-ce que cette norme est arrivée dans la société ? Elle va
+      arriver en fait dans les années 20, mais elle s'est généralisée dans les années
+      30, après la NRA, et cette norme va se propager aussi en Europe. Aujourd'hui, on
+      a un week-end de deux jours, ce n'était évidemment pas le cas au XIXe siècle.
+  - chunk_index: 79
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 294
+    text: |-
+      Cette politique de labellisation, d'entente, est inspirée des thèses
+      corporatistes. Qu'est-ce que c'est que les thèses corporatistes ? Souvenez-vous,
+      on a déjà parlé des anciennes corporations du Moyen Âge, qui étaient aussi un
+      système de limitation de la concurrence interne entre producteurs. Ces thèses
+      corporatistes ont été reprises et sont très populaires dans les années 30, parce
+      qu'elles avaient été reprises par Mussolini dans les années 20 et qu'elles sont
+      au cœur de la doctrine fasciste de l'économie. En fait, le président de la
+      National Recovery Administration, qui a été l'homme de l'année pour *Time* en
+      1933, donc une personne très influente, était très inspiré par le fascisme et
+      par Mussolini, il était un admirateur de Mussolini. Là aussi, ça vous permet de
+      voir que cet aspect qui apparaît comme un aspect social du New Deal n'est pas du
+      tout de gauche, ou en tout cas pas comme on l'entend aujourd'hui. Même s'il y a
+      une contrepartie pour les salariés, c'est surtout l'idée de limiter la
+      concurrence et de servir les intérêts du patronat.
+  - chunk_index: 80
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 291
+    text: |-
+      Voilà comment commence le New Deal. cette politique de la NRA, qui vérifie le
+      respect des accords — parce qu'il ne suffit pas juste de conclure des accords,
+      il faut ensuite des administrateurs qui vont vérifier que les entreprises
+      appliquent bien les prix négociés avec leurs concurrents — tout ça va être
+      contesté par des entrepreneurs qui disent : « moi, je veux pratiquer le prix que
+      je souhaite, on ne peut pas m'interdire de baisser les prix, c'est une atteinte
+      à mes droits fondamentaux ». Donc la Cour suprême va finalement juger cette
+      politique illégale, elle va être abandonnée. Mais pendant les deux années où
+      elle va être faite, elle va clairement avoir un impact sur le long terme en
+      termes de hausse des prix, c'est la fin de la déflation, et en termes de droits
+      sociaux. L'aigle bleu, là aussi, ce n'est pas trop de gauche comme emblème et
+      comme manière de présenter les choses. C'est d'ailleurs l'une des choses qui va
+      être reprochée à Roosevelt : ses accointances avec le fascisme. Ça ne va pas
+      durer très longtemps, mais c'était très important dans le premier New Deal.
+  - chunk_index: 81
+    heading_path: HFE - Séance 10 du 9 avril > Les politiques face à la crise
+    content_token_count: 281
+    text: |-
+      Ensuite, le New Deal va se transformer vers des politiques plus classiques,
+      notamment la création de la Sécurité sociale, avec le principe d'une retraite
+      minimum pour les plus de 65 ans : c'est le Social Security Act de 1935. Il va
+      aussi relancer des politiques de grands travaux, déjà un peu lancées par Hoover,
+      mais qui vont être accélérées. Il va mettre fin à l'étalon-or — ça, c'était
+      important — c'est-à-dire qu'on va arrêter de rembourser le dollar en or.
+      L'objectif étant de pouvoir dévaluer le dollar et de pouvoir gagner un peu en
+      exportations. Donc il va y avoir une relance de la demande, une relance de
+      l'activité, là aussi dans ces années 35-36, puis une rechute avec cette nouvelle
+      crise. Finalement, il faudra attendre 1939-1940 pour que vraiment les États-Unis
+      sortent de la crise. Et la croissance des années 50, on l'a déjà expliquée dans
+      le chapitre précédent, est en fait issue de ce nouveau compromis fordiste qui va
+      ensuite changer profondément la donne.
+  - chunk_index: 82
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 198
+    text: |-
+      Pour conclure ce chapitre, je voudrais revenir sur les explications que donne
+      Galbraith, parce que je les ai décrites mais je n'ai pas vraiment expliqué ce
+      que je voudrais faire : reprendre les explications de Galbraith, ce qu'il écrit
+      dans les années 50, et essayer de voir si ces idées correspondent ou non à la
+      crise de 2008 qu'on a connue plus récemment, et globalement à l'ensemble des
+      crises. Encore une fois, quand je dis l'ensemble des crises, je ne mets pas dans
+      le même panier la crise du coronavirus, qui est une crise tout à fait spécifique
+      et qui n'en est qu'à ses tout débuts. On verra comment ça se passera l'année
+      prochaine, j'aurai peut-être des choses à dire là-dessus.
+  - chunk_index: 83
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 82
+    text: |-
+      Pour Galbraith, qu'est-ce qui est au cœur de la crise des années 30 ? Parce
+      qu'en fait, ce n'est pas que le problème du krach boursier. Bien sûr, il y a des
+      problèmes plus fondamentaux, pour Galbraith, qui sont au cœur de la dynamique
+      capitaliste de l'époque.
+  - chunk_index: 84
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 651
+    text: |-
+      Le premier problème, nous dit Galbraith, c'est finalement une croissance
+      déséquilibrée, c'est-à-dire une croissance qui a profité à certains et pas à
+      d'autres, qui n'a pas été également répartie. Voilà ce qu'il dit : entre 1919 et
+      1929, la productivité du travail s'est accrue de 43 %, mais les salaires n'ont
+      quasiment pas augmenté. Donc la productivité du travail a beaucoup augmenté, les
+      salaires ont augmenté moins. En fait, ça veut dire qu'on ne vendait pas
+      davantage aux salariés du bas de l'échelle. Ce qui a tiré la demande pendant
+      cette période, entre 1919 et 1929, ce sont deux choses : d'abord les biens
+      durables, c'est-à-dire des biens chers qui se sont adressés à la classe moyenne
+      et supérieure, et les biens d'investissement, qui sont destinés à l'équipement
+      des entreprises. Galbraith montre ici que les biens d'équipement augmentent de
+      6,3 % par an, ce qui est considérable, et les biens durables de 1,9 % par an, ce
+      qui est considérable. Par contre, les biens destinés aux classes moyennes et
+      populaires, inférieures aux classes moyennes, inférieures et populaires, leur
+      consommation n'a augmenté que de 2,8 % par an. Autrement dit, la richesse des
+      États-Unis dans ces années 1920-1929 est allée essentiellement vers les plus
+      riches et les entreprises. Or, vous dit Galbraith, en soi ce n'est pas grave :
+      on produit de la croissance, il y a de la croissance. Le problème, c'est que ça
+      crée de l'instabilité. Pourquoi ? Parce que les biens supérieurs, les biens
+      durables, sont des signaux riches, et les biens d'investissement sont très
+      sensibles à la conjoncture économique. Ce qui s'est passé, c'est que le
+      retournement de la conjoncture, avec l'effondrement de la demande, a touché les
+      plus riches et les entreprises, et bien là ça fait s'effondrer les moteurs de la
+      croissance structurelle. Si on avait eu une croissance mieux répartie, avec plus
+      de revenus pour les plus pauvres, et bien les plus pauvres n'auraient pas baissé
+      leur consommation avec la crise de 1929, et donc l'instabilité de la demande se
+      serait moins accrue du fait de ce déséquilibre. C'est la thèse de Galbraith, je
+      ne fais que citer Galbraith.
+  - chunk_index: 85
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 487
+    text: |-
+      Maintenant, réfléchissons sur ce qui s'est passé en 2008 : est-ce qu'on a le
+      même phénomène de croissance inégalitaire ? Ce tableau, ce graphique, est issu
+      de Piketty et Saez, dans un article qui étudie l'évolution des revenus des plus
+      riches, des 10 % les plus riches, et qui montre la part des revenus avant impôts
+      des 10 % les plus riches dans l'histoire des États-Unis. Là-bas, on voit bien un
+      phénomène de croissance forte des inégalités dans un pays où les plus riches
+      voient leurs revenus augmenter beaucoup. Donc on retrouve le même phénomène que
+      chez Galbraith. Ensuite, on voit que ça baisse au moment de la crise, bien sûr.
+      On se retrouve ici à un taux, puis ensuite, pendant toute la période des Trente
+      Glorieuses, avec des revenus finalement qui vont en diminuant pour les plus
+      riches — évidemment plus que 10 %, parce que ce sont les 10 % les plus riches —
+      mais qui n'excèdent pas les 35 % : 35 % du revenu national est destiné à 10 %
+      des gens, ce qui est évidemment un signe d'inégalité, mais l'inégalité a été
+      contenue. Et à partir des années 80, on a une croissance continue des
+      inégalités, il y a l'effet du krach de 2001, puis après, jusqu'en 2006, on a
+      quasiment retrouvé un taux d'inégalité supérieur à celui de la fin des années
+      20. On peut dire que là aussi on a un même phénomène de croissance inégalitaire.
+      Ce n'est qu'un indicateur d'inégalité, il y en a bien d'autres, mais globalement
+      on sait que d'autres études trouvent la même chose : une croissance assez
+      inégalitaire depuis les années 80, qui forcément crée de l'instabilité de la
+      demande.
+  - chunk_index: 86
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 550
+    text: |-
+      Deuxième élément, nous dit Galbraith : des sociétés qui sont un peu archaïques,
+      qui sont déficientes, avec toutes ces sociétés de holdings extrêmement
+      complexes. On parle ici des sociétés d'investissement, de ce qu'elles rachètent,
+      d'autres sociétés, et de l'idée qu'en fait ces sociétés de holdings achètent des
+      entreprises et cherchent à en tirer le maximum d'argent en maximisant le cours
+      boursier et les dividendes à court terme, au lieu de se focaliser sur la
+      profitabilité à long terme. Là aussi, Galbraith explique une forme de
+      financiarisation de l'économie, c'est-à-dire qu'une entreprise financiarisée est
+      une entreprise contrôlée par un fonds d'investissement ou une société holding
+      qui va chercher à maximiser le cours de bourse. Souvenez-vous de ces sociétés
+      d'investissement dont on a parlé, qui cherchent à maximiser le cours de bourse
+      pour gagner de l'argent et qui vont le faire en pressant le citron, si vous
+      voulez, en pressant davantage l'entreprise pour qu'elle dégage le plus de
+      revenus possibles et que ces cours d'action augmentent. Le problème, c'est que
+      ce système-là n'est pas bon pour la survie à long terme des sociétés : les
+      dirigeants vont se tourner entièrement vers la maximisation des dividendes et
+      des cours boursiers au lieu de maximiser la valeur à long terme. C'est un
+      phénomène qu'on va retrouver aussi dans les années 2000, avec notamment ce qu'on
+      appelle les LBO — si vous faites une recherche, vous verrez que c'est le
+      leverage buy out. Ce sont des entreprises qui vont racheter par l'endettement
+      d'autres entreprises et chercher à rembourser leurs emprunts en maximisant les
+      profits des entreprises qu'elles ont rachetées. Évidemment, ce système est un
+      mécanisme qui va susciter chez les entreprises un excès de focalisation sur le
+      court terme et sur la rentabilité boursière, au détriment de l'investissement et
+      des prévisions à long terme. Là aussi, le parallèle est assez clair entre les
+      années 20 et les années 2000.
+  - chunk_index: 87
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 192
+    text: |-
+      Troisième élément : le système bancaire. Galbraith nous dit que le système
+      bancaire est très fragile : on a de très nombreuses petites banques, très
+      fragiles, et les unes envers les autres, et la multiplication des faillites
+      bancaires a entraîné l'effondrement du crédit bancaire et suscité davantage de
+      faillites. Il explique qu'entre 1929 et 1933, 9 000 banques disparaissent. Là
+      aussi, on peut retrouver un système bancaire assez fragile aux États-Unis dans
+      les années 2000, puisque notamment les banques ont été très impactées par la
+      financiarisation et très soumises à celle-ci. Ce qui s'est passé ensuite, c'est
+      la faillite de certaines banques.
+  - chunk_index: 88
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 369
+    text: |-
+      Enfin, nous dit Galbraith, le dernier élément qui explique la crise, c'est
+      l'État — enfin, ce n'est pas le dernier, il y en a un autre après — et la
+      balance commerciale. Les États-Unis connaissent un excédent commercial. Or avoir
+      un excédent commercial n'est pas toujours une bonne chose, parce que ça veut
+      dire que vous êtes dépendant de la demande des autres pays, et ces autres pays,
+      notamment l'Amérique latine et l'Allemagne, achètent américain parce que c'était
+      financé par le système financier américain. C'est-à-dire que les États-Unis
+      finançaient en quelque sorte l'achat de leur propre production par l'Allemagne
+      et par l'Amérique latine. Or, après la crise financière de 1929, ils ont
+      rapatrié leurs capitaux, ils ont arrêté de financer l'Allemagne et l'Amérique
+      latine. Donc en Allemagne, ça crée une crise de financement : les Allemands,
+      isolés, ne pouvaient plus se financer auprès des capitaux traditionnels des
+      Américains. Et ça crée une crise en retour de la part des industries
+      américaines, puisque les Américains ne pouvaient plus vendre en Amérique latine
+      et en Allemagne. Ils étaient donc fragilisés par l'effondrement de la demande
+      dans les marchés extérieurs, lié lui-même à cette incapacité de ces pays-là à se
+      refinancer.
+  - chunk_index: 89
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 619
+    text: |-
+      Enfin, nous dit Galbraith — c'est la dernière diapo — la raison pour laquelle il
+      y a une crise et que cette crise a été profonde, c'est qu'on ne comprenait rien
+      à l'économie. Là, il reprend : les républicains et les démocrates sont en train
+      de dire qu'il faut l'équilibre budgétaire, l'austérité, des comptes publics,
+      arrêter avec la dette. Le problème, c'est que lorsque l'État arrête de dépenser,
+      arrête de s'endetter, et bien en fait il crée moins de revenus : les dépenses de
+      l'État, ce sont les revenus des agents. Donc si l'État arrête de dépenser,
+      toutes les entreprises, tous les ménages vont arrêter d'avoir des revenus, et ça
+      va approfondir la crise. Il dit donc : ils n'ont pas compris que la question du
+      budget équilibré n'était pas du tout le problème à ce moment-là. Ils n'ont pas
+      compris aussi — ils ont mis du temps à comprendre — qu'il fallait supprimer les
+      taux d'intérêt, les taux récessifs, c'est-à-dire limiter la création monétaire
+      renchérit les taux d'intérêt, et du coup ça nourrit la spirale déflationniste.
+      Il fallait donc de l'inflation. Là aussi, c'est un truc qu'on voit aujourd'hui,
+      où on a du mal à trouver de l'inflation, on a une inflation extrêmement faible.
+      Par contre, on a compris qu'on pouvait dépenser, que l'État pouvait dépenser en
+      période de crise. Regardez ce qui s'est passé en 2020, mais on a compris en même
+      temps qu'en 2008 l'Europe a été très soft, elle n'a pas vraiment fait le
+      nécessaire, ce qu'ont fait les États-Unis ; d'ailleurs les Européens sont
+      beaucoup moins bien sortis de la crise. Et là aussi, si vous regardez les échos
+      du jour, vous verrez que Bercy, le ministère des Finances, prévoit un retour à
+      l'équilibre très rapidement, des dépenses publiques. Quand vous interrogez
+      l'homme de la rue, les gens disent que c'est mal, qu'il faut rétablir les
+      comptes publics. Mais en fait, ce n'est pas vrai, pas en temps de crise, pas
+      pour lutter contre une crise, et on n'est pas encore à la fin de cette crise-là.
+  - chunk_index: 90
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 198
+    text: |-
+      Voici ce que dit Galbraith, et je terminerai le cours là-dessus : « le rejet à
+      la fois d'une politique fiscale — impôts et dépenses — et d'une politique
+      monétaire, c'est-à-dire tout mettre en œuvre, la politique fiscale et la
+      politique monétaire, pour agir sur l'économie, qui valait au refus de toute
+      politique économique constructive de la part des gouvernements, les conseillers
+      économiques avait à la fois l'unanimité et l'autorité pour forcer les chefs de
+      parti à désavouer toutes les mesures possibles pour arrêter la déflation et la
+      crise. Dans son genre, ce fut une réussite remarquable : le triomphe du dogme
+      sur la pensée. Les conséquences en furent profondes. »
+  - chunk_index: 91
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 191
+    text: |-
+      Tout cela nous renvoie à une réflexion plus large sur l'économie, que je ne vais
+      pas faire ici parce qu'on ne va plus se voir maintenant ; en tout cas on se
+      verra peut-être à l'examen, s'ils passent l'examen en présentiel. C'est
+      l'importance et la responsabilité des économistes. Les économistes ne peuvent
+      pas considérer comme une plaisanterie une science qui est une pensée tournée
+      théoriquement vers l'action, vers le conseil de gouvernement. Lorsqu'ils croient
+      un peu trop en leur propre discipline et à l'équilibre, on va dire, ils peuvent
+      mal conseiller le gouvernement. Donc parfois il vaut mieux penser le réel plutôt
+      que de chercher à respecter les dogmes et les mantras de la pensée théorique.
+  - chunk_index: 92
+    heading_path: HFE - Séance 10 du 9 avril > Les explications de Galbraith et le parallèle avec 2008
+    content_token_count: 133
+    text: |-
+      Voilà, c'est sur ces mots que se conclut ce cours. Il est 15h28, j'ai un petit
+      peu débordé par rapport à ce que j'avais l'intention de faire, mais on reste
+      dans le cadre raisonnable. Merci à vous, et puis à bientôt peut-être à l'examen,
+      ou à bientôt peut-être dans d'autres cours l'année prochaine, voire en master,
+      peut-être l'occasion de se revoir. À bientôt et bon courage pour les révisions,
+      bon courage pour la fin de ce semestre.

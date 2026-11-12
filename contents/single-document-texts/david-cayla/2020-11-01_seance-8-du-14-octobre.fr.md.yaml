@@ -1,0 +1,1585 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-11-01_seance-8-du-14-octobre.fr.md
+  source_file_hash: sha256:5fba4af2eb6d15528ba5835b4317a25d39e026880fc821b24b94319ab5f5a02f
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 77
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-11-01_seance-8-du-14-octobre.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Séance 8 du 14 octobre
+    content_token_count: 107
+    text: |-
+      Bonjour à tous, bonjour à ceux qui viennent en ligne. Avant de commencer et de
+      reprendre le cours, je voudrais faire un point sur le TD 0, parce que j’ai reçu
+      un ensemble de mails d’étudiants paniqués qui me demandent comment faire pour
+      rendre le TD et quand il faut le rendre. C’est normal, vous êtes étudiants en
+      première année, mais je vais donc répéter à nouveau les choses.
+  - chunk_index: 1
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 183
+    text: |-
+      Le TD 0 doit être rendu lors de la première séance et vous devez aussi le rendre
+      sur Google, en format informatique, PDF ou Word, mais pas en format image. Vous
+      devez le rendre avant le 16 octobre à 20 h pour ne pas être en retard. Je vois
+      que sur 473, il n’y en a que 136 qui ont été soumis, ce qui fait quand même peu.
+      Si vous avez déjà rendu le format papier, vous devez aussi le rendre en format
+      papier à votre chargé de TD : les deux à la fois, papier imprimé à votre chargé
+      de TD et sous format numérique sur l’espace Google. Il n’y a rien de compliqué à
+      faire, mais il faut le faire au bon moment, sinon vous allez avoir des
+      pénalités.
+  - chunk_index: 2
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 229
+    text: |-
+      On m’a demandé ce qu’il faut faire du TD 0 : les instructions sont écrites sur
+      le TD 0. Il y a les fascicules et les TD 0 qui sont disponibles. Je ne vous ai
+      pas donné spécialement de conseil à part qu’il faut faire ce qui est demandé.
+      C’est aussi marqué sur le TD 0 qu’il faut le rendre en format papier à votre
+      chargé de TD dès la première séance, et aussi le 16 octobre à 20 h sur Google.
+      Si vous êtes absent lors de cette première séance, vous ne pouvez évidemment pas
+      le rendre à votre chargé de TD, mais vous le mettez avant le 16 octobre à 20 h
+      sur Google, de manière à pouvoir prouver que vous l’avez bien fait dans les
+      temps. Ce qui va faire foi pour savoir si vous êtes en retard ou non, c’est le
+      moment où vous l’avez mis sur la plateforme. Vous pouvez tous le mettre avant 20
+      h le 16 octobre.
+  - chunk_index: 3
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 223
+    text: |-
+      Si jamais vous n’avez pas fini, alertez dès aujourd’hui. Vous pouvez toujours
+      négocier avec votre chargé de TD. Je voudrais pas maintenant flancs de la
+      semaine prochaine, mais par contre je le mettrais avant le 16 octobre à 20 h sur
+      Moodle. Généralement, votre chargé de TD ne devrait pas vous pénaliser, mais
+      cela dépendra des chargés de TD, et je ne suis pas responsable de toutes les
+      décisions des chargés de TD. Si vous voulez être certain d’être dans les règles,
+      vous leur mettez le format papier au bon moment, à la première séance. Cela fait
+      quand même plus d’un mois que je vous parle de ce TD 0 ; si vous êtes à deux
+      jours près maintenant, c’est que vous êtes mal organisés dans le travail, donc
+      il fallait le faire quand même, vous avez largement le temps auparavant.
+  - chunk_index: 4
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 175
+    text: |-
+      On m’a aussi demandé si on peut le rendre sous forme manuscrite : la réponse est
+      non. Je répète : vous devez le taper sur ordinateur. C’est important, vous
+      apprenez à taper sur un ordinateur, vous êtes encore à l’université, donc il
+      faut le faire. Si vous n’avez pas d’ordinateur, il existe des ordinateurs en
+      libre accès à la bibliothèque universitaire. Renseignez-vous et tapez votre
+      texte ; cela ne vous demandera pas longtemps si vous l’avez déjà écrit sur
+      papier auparavant. Les règles sont les mêmes pour tous : il faut rendre le TD 0
+      à vos chargés de TD et le mettre sur l’espace Moodle.
+  - chunk_index: 5
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 300
+    text: |-
+      J’en profite pour vous rappeler qu’il y aura une détection de plagiat sur
+      l’espace Moodle. Si vous avez copié le TD d’un autre camarade, y compris s’il
+      n’est pas dans le même groupe que vous, cela va immédiatement ressortir comme
+      étant du plagiat à 100 %, et cela pourra être une section disciplinaire.
+      Évidemment, ce sera 0, mais en plus, ne vous amusez pas à plagier sur Internet.
+      Si vous avez vu des choses sur Internet là-dessus, ou auprès d’un de vos
+      camarades, même s’il n’est pas dans le même TD, même s’il va corriger, le
+      plagiat sera évidemment détecté. Si vous faites le malin en disant « de toute
+      façon j’ai mis mon nom », si vous ne mettez pas le nom de votre chargé de TD,
+      votre TD ne sera pas corrigé, il sera considéré comme un retard non rendu et
+      vous aurez 0. Faites le travail que vous devez faire : vous êtes ici à
+      l’université pour avoir un diplôme, et le diplôme aura la valeur que vous lui
+      apportez avec votre travail. Si vous ne travaillez pas, bien sûr, ce diplôme n’a
+      aucun intérêt.
+  - chunk_index: 6
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 86
+    text: |-
+      Le détecteur anti-plagiat se fera le 24 octobre, pas immédiatement. De toute
+      façon, vous savez si vous avez plagié ou pas. On fera tourner le détecteur de
+      plagiat à l’issue de tout le TD, dès qu’ils ont perdu à prendre pour rendre le
+      TD ; il faut le rendre assez vite.
+  - chunk_index: 7
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 52
+    text: |-
+      On m’a demandé s’il fallait valider quelque chose. Il faut valider votre envoi,
+      je ne sais pas exactement comment cela fonctionne, mais normalement cela sera
+      automatiquement validé au bout d’un certain temps.
+  - chunk_index: 8
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 307
+    text: |-
+      Pour la révision, la question est simple : il faut s’appuyer sur les questions
+      de cours, les questions qui sont posées à la fin de chaque chapitre, puisque ce
+      sont ces questions qui vous seront posées à l’examen terminal. Il faut
+      évidemment travailler ces questions, mais vous allez vite comprendre que pour
+      les travailler, il faut comprendre le cours. Cela ne change pas beaucoup par
+      rapport à d’habitude ; au moins, vous ne serez pas surpris sur les questions,
+      parce qu’elles seront issues de ces questions de fin de chapitre. Si vous avez
+      un doute sur la réponse à une question, vous venez me voir à la pause, on peut
+      discuter, mais s’il vous plaît, ne m’écrivez pas par e-mail pour me demander la
+      réponse à une question : je ne pourrais pas traiter les demandes de corrections
+      de 500 étudiants. Le TD 0 sera noté. Je crois l’avoir dit : il fait partie de
+      vos notes d’évaluation, c’est pour cette raison qu’il faut le rendre et essayer
+      de faire le mieux possible. Vous aurez trois notes en TD : cette note-là, plus
+      deux autres notes qui seront des notes de contrôle sur table. Votre chargé de TD
+      vous le rappellera lors de la première séance.
+  - chunk_index: 9
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 204
+    text: |-
+      Vous trouverez sur le site de la faculté la vidéo de la conférence d’Emmanuel
+      Todd qui est venue la semaine dernière, le 5 octobre. Je ne vous en ai pas parlé
+      parce que c’était affiché sur les écrans, mais j’ai vu que je pense qu’il n’y
+      avait pas beaucoup d’étudiants de première année à cette conférence. De toute
+      façon, on ne pouvait pas accueillir tout le monde à cause des mesures
+      sanitaires, mais sachez que c’était une conférence extrêmement intéressante.
+      Vous allez sur le site de la faculté et vous pouvez voir la vidéo. Moi, je l’ai
+      juste présentée au départ. Cette vidéo fait deux heures trente, c’est très long,
+      mais c’était un cours qui a été dispensé pour des étudiants de master en même
+      temps.
+  - chunk_index: 10
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 326
+    text: |-
+      Emmanuel Todd est un intellectuel français, sans doute un des plus brillants de
+      mon point de vue, historien et anthropologue. Il a dû évoquer la question des
+      rapports entre sociétés et individus, sous l’idée que l’économie a tendance à
+      considérer, dans la méthodologie de la pensée économique, que l’individu, les
+      comportements individuels, construisent la société. En réalité, d’un point de
+      vue anthropologique ou sociologique, c’est plutôt l’inverse : ce sont plutôt les
+      structures sociales qui influencent les comportements individuels. J’ai voulu
+      l’inviter pour qu’il discute un peu avec les étudiants de master de cette
+      conception des rapports entre individus et sociétés. Je comprends que cela
+      puisse être un peu abstrait pour vous, mais ce qui est passionnant, c’est qu’il
+      raconte comment certains pays arrivent à mieux se sortir par exemple de la crise
+      du Covid que d’autres. Pour lui, ce qui est au cœur de ces différences, quand on
+      regarde par exemple comment l’Allemagne a beaucoup moins de morts et beaucoup
+      moins de contaminations et gère manifestement beaucoup mieux l’épidémie que la
+      France, ces différences d’approche sont liées à des valeurs anthropologiques qui
+      sont différentes en France et en Allemagne.
+  - chunk_index: 11
+    heading_path: Séance 8 du 14 octobre > Rappels sur le TD 0
+    content_token_count: 410
+    text: |-
+      Son grand travail d’anthropologue essaie de comprendre pourquoi les pays sont
+      différents, et pourquoi par exemple le capitalisme allemand n’est pas le même
+      que le capitalisme français, pourquoi la gestion de l’épidémie n’est pas la même
+      en Allemagne qu’en France. C’est au cœur de sa pensée, et ce que je trouve
+      intéressant, c’est que l’on a tendance en économie à penser que toute la
+      production, toute l’économie, est le produit de comportements rationnels
+      déterminés par des individus. Ce que Todd nous explique, c’est qu’en fait les
+      individus qui paraissent libres et rationnels sont façonnés par des systèmes de
+      valeurs qu’ils ont inculqués dans l’enfance, et ces systèmes de valeurs sont
+      culturels. Pour Todd, c’est cela qui va déterminer davantage la dynamique des
+      sociétés, quelque chose qui est souvent totalement oublié par un certain nombre
+      d’économistes. Sa conférence dure une heure et demie, puis il y a une heure de
+      questions. Il ne faut pas négliger les questions, parce qu’elles ont permis
+      d’avoir une réflexion complémentaire, notamment sur le cas de la Chine ou
+      d’autres choses. Il ne va pas voir juste la France et l’Allemagne, il a écrit
+      des livres sur l’analyse des structures anthropologiques de sociétés du monde
+      entier, et à partir de là il explique la dynamique politique et économique de
+      ces pays. Je voulais vous signaler cette conférence, que j’ai trouvée
+      passionnante et qui est accessible en ligne, publiquement, donc n’importe qui
+      peut la regarder.
+  - chunk_index: 12
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 165
+    text: |-
+      Je reprends le cours, chapitre 2. Ce chapitre s’intéresse à la manière dont les
+      économistes ont analysé la croissance économique, et notamment comment ils ont
+      essayé d’inventer ce concept. On a vu que le concept n’existait pas du temps des
+      mercantilistes, qu’il apparaît avec Adam Smith véritablement sous forme
+      d’accumulation de biens et d’accumulation du capital : la croissance, c’est
+      l’augmentation de la richesse. On a vu aussi que ces économistes qui
+      concevaient, qui inventaient la croissance, avaient ensuite conçu la fin de la
+      croissance, c’est-à-dire l’état stationnaire.
+  - chunk_index: 13
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 162
+    text: |-
+      On a d’abord essayé de montrer comment Malthus considérait que l’état
+      stationnaire est la conséquence de l’état social, la conséquence de la
+      croissance démographique et du fait que plus on allait augmenter la population,
+      plus il fallait cultiver des terres et plus il fallait nourrir des gens. Le
+      problème, c’est que la production de nourriture n’augmentait pas au même rythme
+      que la multiplication de la population, puisqu’on avait une variation linéaire,
+      c’est-à-dire une droite pour l’augmentation de la nourriture, nous dit Malthus,
+      et une variation exponentielle pour la population par multiplication.
+  - chunk_index: 14
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 259
+    text: |-
+      Ensuite, on a une théorie plus raffinée que celle de Ricardo, plus raffinée
+      parce qu’elle englobe de très nombreuses réflexions autres que simplement la
+      démographie : c’est la réflexion de Ricardo, qui considère que la croissance est
+      limitée par le taux de profit et dépend en tout cas du taux de profit. Le profit
+      lui-même dépend du montant de la rente, c’est-à-dire du loyer des terres que les
+      agriculteurs doivent payer aux propriétaires fonciers. Selon Ricardo, ce qui va
+      déterminer la baisse du taux de profit, c’est l’augmentation de la rente ; ce
+      qui va déterminer l’augmentation de la rente, c’est le fait qu’on va devoir
+      mettre en culture des terres de moins en moins fertiles, et donc il faudrait que
+      le prix de marché des céréales augmente pour rentabiliser ces terres les moins
+      fertiles. Cela va entraîner une hausse de la rente et symétriquement une baisse
+      du profit.
+  - chunk_index: 15
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 164
+    text: |-
+      Pourquoi ? Parce qu’il faudra augmenter les salaires pour que les ouvriers
+      puissent se nourrir, et en augmentant les salaires, on va forcément
+      mécaniquement baisser le profit. C’est l’analyse de Ricardo, et il arrive à la
+      conclusion logique que, au fur et à mesure que la population s’accroît parce que
+      la richesse permet à la population de s’accroître, on va avoir une rente qui va
+      augmenter, un profit qui va baisser, et il va baisser jusqu’à ce qu’il arrive au
+      niveau de 0 %. Lorsque le profit arrive à zéro, nous dit Ricardo, on arrivera à
+      l’état stationnaire.
+  - chunk_index: 16
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 242
+    text: |-
+      Ricardo construit cette théorie en publiant son livre en 1817, au moment où il y
+      a un débat intense au sein de la société et de la politique britannique sur la
+      question des Corn Laws, des lois protectionnistes qui interdisent les
+      importations de céréales lorsque les prix des céréales tombent en dessous d’un
+      certain seuil. Si les prix des céréales sont trop bas, nous disent les députés,
+      il ne faut pas importer. En gros, ces lois visent à garantir un niveau minimal
+      des prix des céréales et finalement favorisent les propriétaires fonciers, mais
+      défavorisent les marchands et les industriels. Ricardo est en quelque sorte le
+      porte-parole des intérêts des industriels, des marchands et des banquiers,
+      puisque lui-même est banquier, et il va chercher à convaincre le gouvernement
+      d’abroger ces lois sur le grain, ces lois protectionnistes, en promettant le
+      libre-échange.
+  - chunk_index: 17
+    heading_path: Séance 8 du 14 octobre > Reprise du chapitre 2
+    content_token_count: 289
+    text: |-
+      L’idée derrière cette théorie de la rente, c’est de dire : vous voyez, si vous
+      interdisez les importations de céréales, vous allez maintenir les prix du blé à
+      un niveau élevé, mais du coup vous allez entraîner des hausses salariales pour
+      permettre aux ouvriers de continuer à vivre, et vous allez aussi entraîner une
+      baisse du taux de profit. Cette baisse du taux de profit va limiter la
+      croissance économique. On retrouve encore aujourd’hui des économistes dire :
+      votre objectif, gouvernement, c’est de favoriser la croissance économique pour
+      aller vers la prospérité. Attention, si vous prenez de mauvaises lois, la
+      croissance sera plus faible et vous allez vous retrouver avec des difficultés.
+      On voit que Ricardo invente en quelque sorte l’idée que les politiques publiques
+      peuvent favoriser la croissance ou la défavoriser si elles sont mauvaises.
+      Derrière l’idée de libre-échange, il y a l’idée de libéralisme : il faut laisser
+      les individus libres de commercer librement, y compris avec l’étranger.
+  - chunk_index: 18
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 462
+    text: |-
+      Maintenant, on va voir un autre économiste, Karl Marx, qui n’est pas un simple
+      économiste. Au départ, Marx est un philosophe allemand, et c’est aussi
+      aujourd’hui un activiste, un militant, qui continuait de militer toute sa vie.
+      Il cherche à comprendre le monde dans lequel il vit, et ce monde n’est plus tout
+      à fait celui de Ricardo. C’est un monde où globalement on a de très nombreuses
+      révolutions, des luttes sociales très fortes. On voit bien la dégradation de la
+      condition ouvrière depuis la fin du XVIIIe siècle, qui apparaît un peu partout
+      en Europe, et surtout un urbanisme qui s’accroît. Quand les pays, notamment le
+      Royaume-Uni, mais aussi la France et tous les pays d’Europe, amorcent la
+      révolution industrielle, la première conséquence est un premier exode rural, qui
+      en aura d’autres après, et une augmentation de la taille des villes. Cette
+      transformation socioculturelle, l’urbanisation, va évidemment favoriser à la
+      fois la dégradation des conditions de travail, parce que les logements vont être
+      très souvent insalubres. Les villes sont beaucoup moins saines que les campagnes
+      en réalité, parce qu’il y a la pollution, parce qu’on n’a pas de systèmes
+      sanitaires corrects, on n’a pas forcément de systèmes de collecte des déchets.
+      Il faut bien voir que les villes du début du XIXe siècle, c’est très malsain.
+      D’ailleurs, on constate, quand on regarde les chiffres démographiques, qu’on a
+      un taux de mortalité supérieur dans les villes que dans les campagnes :
+      globalement, les gens meurent plus, l’espérance de vie dans les villes est plus
+      faible que dans les campagnes dans la première moitié du XIXe siècle. C’est dire
+      à quel point les villes sont insalubres.
+  - chunk_index: 19
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 409
+    text: |-
+      Marx, quand il réfléchit, quand il pense, quand il milite, on est au milieu du
+      XIXe siècle. Il voit les conséquences néfastes de la révolution industrielle,
+      notamment sur les populations les plus pauvres. Les ouvriers voient leur niveau
+      de vie se dégrader au début, à la fin du XVIIIe et au début du XIXe siècle, au
+      moment de la révolution industrielle. Le niveau de vie des ouvriers va ensuite
+      progresser, mais progresser lentement, et on va dire que cela ne sera visible
+      qu’après la première moitié du XIXe siècle, à partir du milieu du XIXe siècle,
+      voire plus tard encore, dans les années 1860-1870, où on va commencer à voir des
+      classes ouvrières un peu moins démunies. N’oubliez pas que dans les années 1830,
+      on a des enfants qui travaillent dans la plupart des pays occidentaux. N’oubliez
+      pas qu’en Angleterre, le travail des enfants va être autorisé jusqu’à l’âge de
+      11 ans pendant tout le XIXe siècle. Donc on pouvait faire travailler des enfants
+      de 12 ans, des collégiens, des petits sixièmes, et même pendant très longtemps
+      les enfants de 8 ans pouvaient aussi travailler. On avait des lois sociales qui
+      étaient extrêmement réduites, et là on parle encore une fois de la fin du XIXe
+      siècle, une période où globalement on voit bien que si le travail des enfants
+      est autorisé, c’est parce que pour beaucoup de familles c’est indispensable pour
+      se nourrir. On a une situation sociale extrêmement désastreuse.
+  - chunk_index: 20
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 326
+    text: |-
+      Je vous ai parlé de cela, j’ai montré aussi qu’on avait des lois qui
+      interdisaient les syndicats en France, la loi Le Chapelier de 1791. Les
+      syndicats vont être autorisés à partir de 1864, donc là on est encore sous le
+      Second Empire, et le droit de grève lui-même va être accordé au moment de la
+      Troisième République, donc après 1870. L’instruction obligatoire en France et
+      dans beaucoup de pays d’Europe, c’est à la fin du XIXe siècle. L’instruction
+      obligatoire, c’est cela qui va concrètement terminer le travail des enfants,
+      parce qu’ils sont obligés d’être à l’école jusqu’à 12 ans au départ, puis
+      progressivement cela va augmenter, aujourd’hui jusqu’à 16 ans. Cela veut dire
+      que le travail est très difficile à faire avant cet âge-là. Sachez
+      qu’aujourd’hui on peut faire travailler les adolescents de 15 ans, il faut une
+      dérogation, mais c’est possible. Donc quand je vous dis que les deux sont liés,
+      c’est vrai. Jusqu’à 16 ans, on a l’instruction obligatoire, mais on peut
+      commencer à travailler à 15 ans, et même parfois sous forme d’apprenti dès 14
+      ans, mais c’est dans le cadre d’un apprentissage.
+  - chunk_index: 21
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 328
+    text: |-
+      Karl Marx, je vous invite à voir le film *Le jeune Karl Marx* de Raoul Peck, un
+      film qui raconte la jeunesse de Marx et qui est intéressant parce qu’il raconte
+      aussi la manière dont la politique et la défense des ouvriers se faisaient à ce
+      moment-là. On est dans les années 1840, et c’est assez amusant de voir comment,
+      par les débats de l’époque, le mouvement ouvrier s’organisait. Ce qui est aussi
+      amusant, c’est de voir que Marx s’oppose à un autre théoricien qui est son aîné,
+      qui est la personne la plus connue dans le monde ouvrier, Joseph Proudhon.
+      Proudhon lutte contre le propriétaire, contre la propriété, et on lui doit la
+      formule « la propriété, c’est le vol ». Donc ils avaient vraiment une vision
+      révolutionnaire, qui sera la même aussi que Marx. Mais la différence entre Marx
+      et Proudhon, ce que va apporter Marx au mouvement ouvrier, c’est une réflexion
+      scientifique. Marx va s’intéresser à la manière dont la bourgeoisie, qu’il
+      appelle la classe bourgeoise, légitime sa politique. Pour Marx, au cœur de
+      l’idéologie dominante de son époque, il y a l’économie politique, et notamment
+      l’économie politique de Ricardo.
+  - chunk_index: 22
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 206
+    text: |-
+      Ce que va faire Marx, c’est qu’il va s’imprégner de l’analyse ricardienne de
+      l’économie et il va chercher à retourner la théorie de Ricardo pour en faire un
+      instrument au service de la classe ouvrière. C’est clairement dans le projet de
+      Marx : il considère que Ricardo a mis la pensée scientifique économique au
+      service de la bourgeoisie, et lui dit : je vais prendre la même pensée et je
+      vais la mettre au service des travailleurs. Cela veut dire qu’il va reprendre
+      grosso modo l’essentiel de la pensée de Ricardo, mais il va la réinterpréter
+      pour montrer qu’en réalité l’opposition politique fondamentale ne se situe pas,
+      comme le disait Ricardo, entre la classe capitaliste et la classe des
+      propriétaires fonciers, mais entre la bourgeoisie et les travailleurs.
+  - chunk_index: 23
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 340
+    text: |-
+      Souvenez-vous de ce que fait Ricardo : il essaye de construire d’un point de vue
+      scientifique un débat afin de reconstruire le débat qui existe en politique à
+      l’époque, en montrant que le débat se situe entre deux classes sociales
+      dominantes, l’aristocratie foncière d’un côté et la bourgeoisie de l’autre. Marx
+      va dire : non, en fait vous vous trompez de combat. Le vrai combat se fait entre
+      la classe ouvrière, dominée et exploitée, et la classe bourgeoise. Finalement,
+      il va retirer en quelque sorte les aristocrates de la réflexion. Les
+      aristocrates, il les considère comme des conservateurs, c’est-à-dire les tenants
+      de l’ancien régime ou de la monarchie, et pour lui tout ça c’est du passé, tout
+      ça est terminé. La révolution industrielle va faire s’effondrer l’importance de
+      la classe des aristocrates et des propriétaires fonciers. Selon Marx,
+      d’ailleurs, il avait raison : concrètement, c’est ce qui s’est passé, les
+      monarchies ont progressivement disparu d’Europe au cours du XIXe siècle. Pour
+      lui, l’avenir n’est pas dans l’opposition entre la classe des propriétaires
+      fonciers et la classe des capitalistes ; l’avenir est dans l’opposition entre la
+      classe des travailleurs et celle des bourgeois.
+  - chunk_index: 24
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 264
+    text: |-
+      Pour essayer de comprendre cette dynamique, parce que Marx s’inscrit évidemment
+      dans une dynamique historique, ce qui l’intéresse, c’est comment l’histoire va
+      évoluer, comment concrètement les rapports de force qui existent au sein de la
+      société vont transformer la société. La question qui se pose pour Marx, c’est :
+      comment les sociétés évoluent, se transforment ? Quel est le sens de l’histoire
+      ? C’est cela qui le fait réfléchir, parce qu’on est aussi confronté à une
+      véritable révolution historique, sociologique et économique. La révolution
+      industrielle, ce n’est pas juste une transformation de l’économie, c’est une
+      transformation de toute la société. Marx n’est pas le seul à l’époque : beaucoup
+      de gens réfléchissent à essayer de comprendre comment cette transformation
+      économique va profondément transformer l’ensemble de la société. Il essaie de
+      concevoir ces transformations à partir d’un principe philosophique qui vient de
+      Hegel et qu’il va modifier : le matérialisme dialectique.
+  - chunk_index: 25
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 308
+    text: |-
+      Je ne vais pas en faire des tonnes sur le matérialisme dialectique parce que
+      c’est une notion qui n’est pas vraiment au cœur de ce cours, mais je pense que
+      c’est important d’en dire deux mots. On a déjà vu le matérialisme dans le
+      chapitre 2. Souvenez-vous : les penseurs matérialistes sont les penseurs qui
+      considèrent que les idéologies, la manière dont on conçoit le monde, sont en
+      fait le produit du système économique. En gros, ce qui va faire que les
+      individus vont émettre des opinions sur le monde va être essentiellement
+      déterminé par leur statut social, par leur fonction sociale, par leur classe
+      sociale, c’est-à-dire ce qu’ils voient autour d’eux. Dans le matérialisme, il y
+      a l’idée que ce ne sont pas les idées qui mènent le monde, mais ce sont les
+      structures matérielles de la société. Or, qu’est-ce que les structures
+      matérielles de la société ? C’est l’économie. On a une vision en classes
+      sociales qui sont des fonctions sociales : chacun appartient à une fonction
+      sociale, et cette fonction sociale va déterminer en quelque sorte son statut
+      social, et son statut social va en quelque sorte déterminer son idéologie.
+  - chunk_index: 26
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 501
+    text: |-
+      Je parle ici à l’échelle individuelle, mais en fait tout cela fonctionne aussi à
+      l’échelle de la société : la société va chercher à établir des idées qui
+      correspondent à l’état dans lequel elle se trouve d’un point de vue matériel.
+      Cette vision s’oppose à la vision idéaliste, qui dit que les sociétés se
+      transforment sous l’influence des idées : les idées sont premières et les idées
+      déterminent le réel en quelque sorte. Bien sûr, dans la réalité, les deux choses
+      fonctionnent : concrètement, cela ne veut pas dire que les idées ne transforment
+      pas le monde. Bien sûr que les idées transforment le monde, mais il faut aussi
+      remarquer que les idées sont le produit d’une réalité sociale, économique et
+      historique. Souvenez-vous, en introduction de ce chapitre, je vous ai dit que la
+      découverte du Nouveau Monde avait fait émerger la pensée d’un monde ouvert par
+      rapport au monde fermé du Moyen Âge. Là, j’avais une analyse plutôt matérialiste
+      : c’est parce qu’on a découvert le Nouveau Monde, parce qu’on a aussi été
+      confronté aux invasions arabes en Espagne et au conflit avec l’Empire ottoman,
+      parce que l’Europe a été confrontée à l’extérieur, qu’elle a dû s’ouvrir. Là, je
+      fais un raisonnement matérialiste : ce sont les conditions historiques qui
+      déterminent la manière dont on conçoit le monde. C’est un peu l’analyse que fait
+      Marx, c’est la raison pour laquelle il va s’intéresser à l’idéologie. Il va
+      chercher à montrer que l’idéologie est le produit des rapports de force, et que
+      ces rapports de force sont eux-mêmes le produit du système économique. C’est la
+      raison pour laquelle, pour Marx, il est important de comprendre le système
+      économique ; c’est pour cela qu’il va lire Ricardo. C’est le premier aspect de
+      la pensée de Marx.
+  - chunk_index: 27
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 350
+    text: |-
+      Le deuxième aspect, c’est la dialectique. La dialectique, c’est un principe
+      d’évolution. Dans dialectique, il y a le dialogue, c’est-à-dire la confrontation
+      de deux systèmes en quelque sorte. Le principe dialectique a été conçu, enfin
+      mis en avant, par Hegel, un philosophe allemand dont Marx a suivi avec beaucoup
+      d’intérêt les cours. Hegel considère que tout système trouve en lui des
+      contradictions qui le poussent à se transformer, à évoluer. Ce qui est au cœur
+      de la pensée dialectique, c’est le principe d’évolution. Si on veut réfléchir
+      très simplement, la première hypothèse que pose la pensée dialectique, c’est que
+      rien n’est jamais stable : tout change, tout évolue, tout se transforme.
+      Jusqu’où un objet peut-il évoluer ? Jusqu’à ce qu’il disparaisse. C’est la
+      première hypothèse de la pensée dialectique : tout objet qu’on analyse a une
+      existence, a un début au moment où il apparaît dans l’univers, puis il ne reste
+      jamais ce qu’il est, il se transforme, il se transforme jusqu’à un point où il
+      disparaît en tant qu’objet, il casse, il meurt, tout ce que vous voulez dire. Ce
+      qu’il faut comprendre, c’est que rien n’est dans l’état où il est ad vitam
+      aeternam, tout se transforme.
+  - chunk_index: 28
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 238
+    text: |-
+      J’avais un professeur qui m’expliquait : ce bureau, il bouge, il change, il a
+      l’air toujours le même chaque cours, mais en fait derrière cette apparence,
+      cette idée qu’il ne change pas, en fait il change, parce qu’il est soumis à des
+      contraintes, parce qu’il est soumis au vieillissement, et un jour ou l’autre il
+      disparaîtra en tant que meuble. Si on devait le laisser pendant des siècles et
+      des siècles dans cet amphithéâtre sans rien du tout, vous verrez qu’au bout d’un
+      moment il finirait par se décomposer et par disparaître. C’est le cas de tout
+      objet, à plus ou moins longue échéance. C’est bien sûr le cas du corps humain :
+      l’être humain naît, il se transforme, puis au bout d’un moment il vieillit, il
+      meurt. Tout est soumis à cette logique dialectique, nous dit Hegel, et Marx
+      reprend cela.
+  - chunk_index: 29
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 298
+    text: |-
+      Mais une fois qu’on a dit ça, on n’a pas dit grand-chose. On a dit : voilà, tout
+      objet, tout système évolue. Ce qui est important dans la dialectique, c’est de
+      comprendre comment ils évoluent. Pour cela, il faudra ajouter une deuxième
+      hypothèse : l’évolution d’un système est d’abord le produit de ses
+      contradictions internes. Ce sont ces forces internes qui le font changer. Cela
+      veut dire qu’un système, un objet, n’est jamais quelque chose d’entièrement
+      cohérent. Un système est toujours composé de sous-systèmes qui ont leur
+      dynamique propre. Cette dynamique existe dans le système, du fait de l’existence
+      de différents sous-systèmes dans le système. Pour le dire autrement : vous avez
+      un système avec des éléments dans le système, et ces éléments ont une dynamique
+      propre. Cette dynamique propre, au bout d’un moment, peut arriver à se
+      contredire, c’est-à-dire qu’il y a un élément qui va pousser dans un sens, un
+      autre élément qui va pousser dans l’autre sens, et au bout d’un moment les
+      contradictions vont être tellement fortes que le système va disparaître.
+  - chunk_index: 30
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 367
+    text: |-
+      Un exemple qu’on peut tout à fait comprendre, c’est l’exemple du couple. Vous
+      rencontrez quelqu’un, vous êtes amoureux, vous êtes chacun deux éléments, et
+      hop, vous faites un système, un objet : le couple. Dans ce couple-là, il y a une
+      évolution, une évolution qui est soumise à des contradictions. Ces
+      contradictions, c’est comment les deux individus du couple vont évoluer chacun
+      de leur côté. Ce qui est intéressant, c’est que le couple lui-même a évolué par
+      rapport à ses contradictions. Ces contradictions ne veulent pas dire forcément
+      qu’il y a des conflits ; c’est juste qu’il y a des éléments qui forment un
+      système. Dans un couple, ces éléments ont une existence propre. Certains auront
+      envie d’une chose, un autre élément du couple n’aura pas envie de cela. Cela va
+      faire évoluer le couple : le couple va changer progressivement, il va changer
+      sous l’influence des deux éléments du groupe, les deux personnes qui font partie
+      de ce couple. Ce couple va donc changer. Il peut d’ailleurs changer pour le
+      mieux : chacun peut apporter quelque chose de positif et cela va faire
+      progresser le couple. Et puis il peut y avoir un moment où les éléments
+      eux-mêmes vont changer, et où le couple va devoir s’adapter aux changements des
+      éléments du couple, jusqu’à ce que, si une contradiction apparaît, le couple
+      finisse par se séparer et par disparaître en tant qu’objet.
+  - chunk_index: 31
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 305
+    text: |-
+      Cette réflexion sur le couple, évidemment très simple et très simplifiée, peut
+      être reproduite à l’échelle de la société. Quand vous avez une société, cette
+      société est organisée à partir d’éléments de cette société, qui ont chacun leur
+      logique propre. Comment les économistes classiques comme Ricardo analysent la
+      société ? Assez simplement : la société en termes de classes sociales, et les
+      classes sociales sont donc les éléments qui constituent la société. À la fois,
+      elles ont besoin les unes des autres. Chez les classiques, il y a trois classes
+      sociales : les propriétaires fonciers, les capitalistes et les travailleurs.
+      Elles sont complémentaires, c’est-à-dire qu’elles ont besoin les unes des
+      autres, sinon elles n’existent pas. Donc la société est faite de classes qui ont
+      besoin les unes des autres, et en même temps elles ont des intérêts divergents.
+      Marx dit : si on veut comprendre le système capitaliste et son évolution, sa
+      dynamique interne, si on veut avoir une analyse dialectique, alors il faut
+      s’intéresser à la manière dont les classes sociales qui le composent évoluent et
+      aux contradictions qui peuvent apparaître entre les classes sociales. C’est cela
+      la dialectique.
+  - chunk_index: 32
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 391
+    text: |-
+      Si on conjugue maintenant matérialisme et dialectique, on arrive à l’idée que la
+      société est le produit de l’économie. C’est le côté matérialiste : les classes
+      sociales ne sont pas le produit des idéologies, mais des conditions réelles de
+      travail et de la fonction sociale des éléments de la classe sociale. Donc les
+      classes sociales sont une composante de l’économie, elles sont issues de
+      l’économie. C’est cela le matérialisme. Et par le principe dialectique, elles
+      ont chacune des dynamiques d’évolution tout en étant interdépendantes, et elles
+      construisent un système. Marx dit : si on veut comprendre l’évolution du système
+      capitaliste, il faut comprendre comment les rapports de classes changent le
+      système capitaliste. On va comprendre sa dynamique par cela. Et on comprendra
+      aussi sa fin, parce que dans le principe dialectique, on va jusqu’à la fin. La
+      fin, ce sera quoi ? C’est là que je vais vous expliquer la théorie, mais il faut
+      bien comprendre l’idée derrière cette théorie : la fin sera forcément un conflit
+      de classe qui va entraîner une séparation des classes les unes des autres et
+      donc une disparition du système capitaliste. Là aussi, dans le principe
+      dialectique, il y a l’idée que toute chose qui est née finit forcément par
+      mourir, parce qu’il y a un principe dialectique qui fait qu’on va se
+      transformer, on va se transformer jusqu’à ce qu’on arrive à des contradictions
+      qu’on ne pourra pas surmonter et qui vont faire disparaître le système.
+  - chunk_index: 33
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 310
+    text: |-
+      Chez Marx, il y a l’idée que ce principe d’évolution du capitalisme se retrouve
+      dans toutes les sociétés, pas seulement les sociétés capitalistes. Marx va
+      s’intéresser aux sociétés antiques, à la société du Moyen Âge, à la société de
+      l’Égypte antique, à la société chinoise. Il va montrer que dans toutes les
+      sociétés on a des classes sociales, et que ces classes sociales émergent de la
+      manière dont la société s’organise d’un point de vue économique. Ces classes
+      vont s’opposer, elles vont se contredire, et elles vont finir par transformer le
+      système jusqu’à ce que le système, ne parvenant plus à se transformer, finisse
+      par disparaître. Donc le capitalisme n’est qu’un mode de production comme les
+      autres. Voilà l’analyse marxiste du capitalisme : considérer que nous avons là
+      un mode de production, une manière économique de produire de la richesse, comme
+      les autres modes de production. Ces modes de production vont évoluer sous
+      l’influence des classes sociales qui ont chacune des intérêts parfois
+      convergent, d’ailleurs, et parfois très souvent divergents. Cette contradiction
+      interne va expliquer l’évolution du capitalisme.
+  - chunk_index: 34
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 431
+    text: |-
+      D’ailleurs, en passant, une citation très célèbre de Marx et Engels, dans le
+      *Manifeste du parti communiste*, qui se trouve sur l’espace Moodle. Le
+      *Manifeste du parti communiste* commence par la phrase : « L’histoire de toutes
+      les sociétés jusqu’à nos jours est l’histoire de la lutte des classes. » En
+      fait, toute l’histoire, nous dit Marx, avec Engels, est la conséquence des
+      luttes des classes. Cela veut dire que tous les événements historiques sont le
+      produit des contradictions internes de tous les systèmes économiques qui ont été
+      construits, constitués au fur et à mesure de l’histoire de l’humanité, et que
+      ces dynamiques contradictoires entre les classes sociales expliquent quasiment
+      tous les événements. On a là une théorie extrêmement puissante puisqu’elle tend
+      à tout expliquer à partir du concept de lutte des classes. C’est aussi
+      d’ailleurs la limite de la pensée de Marx : le problème, c’est que quand on veut
+      trop expliquer à partir d’une idée, on tombe un peu sur des choses parfois un
+      peu simples. On va considérer que toutes les guerres qui ont existé dans
+      l’histoire sont des guerres qui sont essentiellement dues à des intérêts
+      économiques et à des intérêts de classe. Quand on est matérialiste, on finit par
+      dire que tout ce qui arrive est le produit d’intérêts économiques. Cela marche
+      sans doute pour un certain nombre de guerres, mais cela ne marche pas
+      systématiquement pour toutes les guerres et tous les conflits, ou en tout cas le
+      problème, c’est qu’après on va faire rentrer dans ce conflit de classe un peu
+      tout.
+  - chunk_index: 35
+    heading_path: 'Séance 8 du 14 octobre > Karl Marx : matérialisme et dialectique'
+    content_token_count: 386
+    text: |-
+      Je ne dis pas que c’est ce que Marx se dit, mais c’est parfois un peu la manière
+      dont les marxistes interprètent les choses. Je prends un exemple tout bête : un
+      marxiste dira par exemple que les guerres du Golfe sont le produit du système
+      capitaliste pour acquérir des ressources, liées aux intérêts de classe de la
+      classe dominante, la classe bourgeoise. Il ne va considérer les guerres et les
+      conflits que sous cet angle-là. Aujourd’hui, quand vous avez entendu parler de
+      la manière dont la Chine se rigidifie, avec Hong Kong, les Ouïghours, un
+      marxiste dira que tout ça est le produit de la lutte des classes existant en
+      Chine et de la mainmise du pouvoir. Là, le marxisme dira : c’est la classe
+      bourgeoise, mais c’est aussi le parti communiste qui lui-même a une fonction
+      sociale et donc constitue une classe sociale, et qui va chercher à remettre au
+      pas une partie de sa population, les Ouïghours, Hong Kong, etc., pour maintenir
+      son pouvoir économique. En fait, on va toujours trouver des causes économiques à
+      tout changement. Évidemment, tout cela est contestable. Il n’est pas toujours
+      facile de vérifier si la cause première de tous les conflits et de tous les
+      événements historiques est véritablement la lutte des classes. Je ne dis pas que
+      c’est faux, je dis juste que parfois il faut vérifier si cela fonctionne
+      vraiment, si la théorie s’avère vraie pour expliquer les événements.
+  - chunk_index: 36
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 250
+    text: |-
+      Marx considère que le capitalisme est un mode de production. Il est
+      historiquement daté, cela veut dire qu’il a apparu dans l’histoire, qu’il est
+      né, et que d’après le principe dialectique il va disparaître. Il va être victime
+      de ses propres contradictions, il va mourir, comme ce bureau va finir par
+      disparaître, comme tout ce qui naît finit forcément par disparaître. Qu’est-ce
+      qui fait qu’il évolue ? Cela ne veut pas dire qu’il va disparaître demain, ou
+      dans dix ans, ou dans son temps ; cela peut être dans mille ans. En fait, on
+      n’en sait rien. Il s’agit juste d’un principe : comment il va évoluer ? Il va
+      évoluer en fonction de ses contradictions internes. Qu’est-ce qui détermine ses
+      contradictions internes ? L’existence de classes sociales qui ont des intérêts
+      divergents. On va donc essayer de construire, d’analyser la manière dont ce
+      système évolue.
+  - chunk_index: 37
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 299
+    text: |-
+      Premier élément : chez Ricardo, il y avait trois classes sociales ; chez Marx,
+      il n’y en a que deux. Pourquoi deux ? Parce que pour Marx, les propriétaires
+      fonciers sont une classe qui est vouée à disparaître. C’est une classe sociale
+      qui était importante dans une économie rurale, bien sûr, mais qui va tendre à
+      disparaître au fur et à mesure que l’économie va s’industrialiser. Sur ce plan,
+      on peut dire que Marx avait raison : c’est bien ce qui s’est passé globalement.
+      Aujourd’hui, les propriétaires fonciers ne sont quasiment plus une classe au
+      sens économique du terme. Bien sûr, il y a encore des terres qui appartiennent à
+      des gens, essentiellement des agriculteurs, mais ce n’est pas un moteur, ce
+      n’est pas une influence déterminante sur l’évolution de la société. Il y a
+      encore des nobles, des gens qui ont des terres, des châteaux, des choses comme
+      ça, bien sûr que cela existe encore, mais encore une fois ce n’est pas une
+      classe déterminante. Quelque part, elle n’existe plus ; cette classe-là ne
+      permet pas d’expliquer l’évolution politique et historique de la société
+      moderne.
+  - chunk_index: 38
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 473
+    text: |-
+      Donc Marx fait disparaître une classe du modèle. Il reprend le modèle de Ricardo
+      en le simplifiant : il y a deux classes. D’un côté, les propriétaires du
+      capital, qu’il appelle la bourgeoisie, en référence au fait que c’est une classe
+      urbaine. Ce sont les marchands, les manufacturiers, les banquiers, ceux qui
+      travaillent dans l’industrie, mais aussi ceux qui font du commerce, de la banque
+      et de la finance. Au cœur de leur rémunération, il y a le profit, exactement
+      comme chez Ricardo et même chez Smith. De l’autre côté, les travailleurs, la
+      même classe, mais cette fois on va intégrer tous les travailleurs, qu’il appelle
+      le prolétariat, et dont la rémunération est le salaire. Je l’ai déjà dit quand
+      j’ai parlé de Malthus, mais je le redis : il faut toujours un peu répéter. Le
+      salaire représente la rémunération de la force de travail. Attention, cela veut
+      dire que le salaire ne représente pas la rémunération du travail, mais la
+      rémunération de la force de travail. En fait, ce que le capitaliste achète,
+      c’est la force de travail, la capacité du travailleur à travailler. C’est un
+      petit amendement par rapport à la pensée de Ricardo, mais surtout ce salaire, et
+      c’est ce que je voulais dire, est conforme à ce que pensent Ricardo et Malthus :
+      ce salaire est égal au coût minimum de reproduction de la force de travail. Ce
+      coût minimum de reproduction, c’est-à-dire la subsistance du travailleur : il
+      faut qu’il survive, mais aussi sa capacité à se régénérer en tant que
+      travailleur, c’est-à-dire avoir des enfants et leur donner une forme
+      d’éducation. Il faut que le salaire paye ce qui coûte à la force de travail pour
+      se reproduire : de quoi se nourrir, de quoi se loger, de quoi avoir des enfants.
+  - chunk_index: 39
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 393
+    text: |-
+      Là aussi, chez Marx, le salaire peut varier ensuite en fonction du marché, mais
+      on a bien une théorie de la valeur du salaire : le salaire, c’est la quantité de
+      travail qu’il faut pour nourrir, loger des ouvriers, des travailleurs et leurs
+      enfants. On peut comprendre d’ailleurs en pensant à cela que les salaires
+      peuvent être différents selon les postes. Si on est ingénieur, le salaire est
+      différent parce que le coût de reproduction de la force de travail de
+      l’ingénieur est plus élevé que le coût de reproduction de la force de travail
+      d’un ouvrier. Pourquoi ? Parce qu’il faut que l’ingénieur puisse avoir des
+      enfants et les éduquer, ce qui fera que ses enfants deviennent ingénieurs.
+      Encore une fois, cela ne veut pas dire que tous les enfants d’ingénieurs vont
+      devenir ingénieurs, mais l’ingénieur doit être payé au coût de reproduction de
+      la force de travail d’un ingénieur, qui nécessite de faire des études et donc
+      d’avoir suffisamment d’argent pour pouvoir faire des études. C’est la raison
+      pour laquelle l’ingénieur sera plus payé que l’ouvrier. Bien sûr, il existe
+      aussi dans le coût du travail un mécanisme de marché, mais souvenez-vous qu’on
+      raisonne comme les classiques : le marché tourne toujours autour de la valeur
+      fondamentale. La valeur fondamentale est produite par le coût de production,
+      mais le coût de production est ici le coût de production d’un ingénieur ou d’un
+      ouvrier.
+  - chunk_index: 40
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 320
+    text: |-
+      Le profit, quant à lui, est la différence entre le coût de production des
+      marchandises et son prix de vente. C’est facile, mais souvenez-vous que chez
+      Ricardo le profit était lié au niveau de la rente, et le niveau de la rente
+      était lié au niveau des prix des céréales et du coût alimentaire, puisque plus
+      les prix étaient élevés, plus la rente allait être élevée. Marx trouve que cette
+      théorie n’est pas suffisante parce qu’elle ne dit pas de fait le conflit entre
+      propriétaires fonciers et bourgeoisie, mais elle ne dit pas d’où vient le
+      profit, comment le profit émerge. C’est une question à laquelle Ricardo n’avait
+      pas vraiment répondu. Puisque si tout a une valeur, si toutes les marchandises
+      sont produites par le travail, tout est produit du travail, comment se fait-il,
+      on peut le dire autrement, que ceux qui travaillent soient moins bien rémunérés
+      que ceux qui ne travaillent pas, c’est-à-dire la bourgeoisie, les capitalistes ?
+      Il faut essayer de comprendre d’où vient la plus-value. La plus-value,
+      c’est-à-dire : comment se fait-il que la bourgeoisie soit capable de vendre des
+      marchandises à un prix supérieur à ce que cela a coûté pour produire ?
+  - chunk_index: 41
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 262
+    text: |-
+      À l’époque, beaucoup de commentateurs, de théoriciens du monde du travail,
+      disaient qu’il y avait une exploitation, c’est-à-dire que clairement les
+      capitalistes ne payaient pas le vrai coût de la force de travail. Marx dit : en
+      fait, ce n’est pas vrai. C’est là où les choses se compliquent. Marx dit : non,
+      le capitaliste paye la force de travail à son coût de reproduction. Il n’y a pas
+      de problème par rapport à cela. La force de travail n’est pas vendue par les
+      travailleurs à un niveau inférieur à sa valeur ; elle est vendue au niveau de sa
+      valeur, parce que sa valeur, c’est bien celle-là, c’est le coût de reproduction
+      de la force de travail. Puisque la force de travail se reproduit, cela veut dire
+      que le salaire est bien payé au coût de reproduction, donc à la valeur de la
+      force de travail. En réalité, l’origine du profit, pour Marx, est la différence
+      entre la valeur de la force de travail et la valeur générée par la force de
+      travail.
+  - chunk_index: 42
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 364
+    text: |-
+      Chez les économistes classiques, on distingue la valeur d’usage et la valeur
+      d’échange. Au cœur de la théorie de la valeur, il y a la valeur d’échange, et la
+      valeur d’usage est mise de côté. Ce qui se trouve, c’est que le travail a une
+      particularité intéressante et unique : il est capable de générer par son usage
+      plus de valeur que sa propre valeur. C’est-à-dire que le fait de faire
+      travailler des gens va produire une valeur supplémentaire au coût de la force de
+      travail qui a nécessité la production de cette force de travail. On retrouve un
+      peu l’idée que la terre produit davantage que ce qu’elle a coûté pour la
+      produire. On met deux quintaux de blé, vous allez labourer, semer, et à la fin
+      on en reproduit cinq ; donc à la fin on a un surplus, un produit net. Marx dit
+      que la force de travail fonctionne un peu comme la terre dans cette analyse : la
+      force de travail va coûter 2 et le travail, lorsqu’il va être exploité, utilisé
+      par le capitaliste, va produire 5. Marx dit : ce n’est pas très compliqué si on
+      veut comprendre d’où vient le profit. Le profit vient de la différence qui
+      existe entre la valeur marchande de la force de travail, qui est son coût de
+      reproduction, et la valeur d’usage de la force de travail, qui est la valeur
+      qu’elle produit lorsqu’on l’utilise. Le profit vient de là.
+  - chunk_index: 43
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 376
+    text: |-
+      Cela veut dire que le capital, donc là où il y a exploitation, c’est dans l’idée
+      qu’on va utiliser le travail, on va récupérer la plus-value qui est produite par
+      le travail. Mais il n’y a pas, après Marx, d’erreur sur la valeur de la
+      marchandise : la force de travail a bien été payée à sa valeur, c’est-à-dire sa
+      valeur marchande. Cependant, ce que met en avant la pensée de Marx, c’est qu’il
+      existe une contradiction entre les intérêts de la bourgeoisie et ceux du
+      prolétariat. Pourquoi ? Parce que c’est la plus-value réalisée dans le travail.
+      Pourquoi est-elle captée par le capitaliste ? Pourquoi ne pas la partager entre
+      le capitaliste et le prolétaire ? C’est cela le grand conflit de classe chez
+      Marx. Il y a un conflit parce que finalement cette plus-value doit être
+      répartie. La réalité de la situation économique fait qu’elle est forcément
+      accaparée par le capitaliste parce que le capitaliste est en position de force.
+      Pourquoi ? Parce que celui qui détient les moyens de production, autrement dit,
+      souvenez-vous, ce qui empêche le travailleur de s’auto-exploiter en quelque
+      sorte et de produire lui-même une valeur par son travail supérieure à son coût
+      de reproduction, c’est qu’il n’a pas accès au capital. Le travailleur ne peut
+      pas s’auto-exploiter en quelque sorte pour gagner un peu d’argent parce qu’avec
+      l’industrialisation, le coût du capital a explosé.
+  - chunk_index: 44
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 488
+    text: |-
+      Je vous ai expliqué l’autre jour que quand vous voulez filer de la laine de
+      manière traditionnelle, vous avez un rouet, on met une fibre naturelle dans un
+      rouet qui est facile à produire et qui n’est pas très cher. Donc chaque
+      travailleur pouvait lui-même s’auto-exploiter en quelque sorte et gagner de
+      l’argent en filant de la laine ou du lin. Quand on arrive à la machine à tisser,
+      à filer, la machine à filer mécanique, alors là on a besoin d’une machine à
+      vapeur, on a une machine extrêmement coûteuse pour produire l’énergie, puis une
+      machine mécanique qui file le coton, à l’époque c’est plutôt du coton. Cela
+      demande un investissement qui est hors de portée de la plupart des personnes
+      dans les campagnes. Cela veut dire que le rouet ne va plus être efficace, le
+      rouet va disparaître parce qu’il n’est pas performant, et qu’en fait une
+      personne qui travaillait à filer la laine passerait énormément de temps pour
+      vendre un produit qui n’aurait quasiment aucune valeur, parce que le prix de
+      vente du fil s’effondre avec la mécanisation. Donc ce qui était rentable
+      auparavant à faire dans les campagnes devient totalement inutile à faire lorsque
+      le prix du fil s’effondre. Vous retrouvez des gens qui sont mis au chômage parce
+      que le rouet ne sert plus à rien et qui en même temps ne peuvent pas continuer
+      leurs activités parce qu’ils n’ont pas les moyens d’acheter une machine à vapeur
+      et une machine à filer mécanique. Que se passe-t-il ? Ils deviennent des
+      ouvriers. C’est comme ça qu’on transforme la population rurale en population
+      ouvrière. C’est cela qui est au cœur de la dynamique du capitalisme industriel :
+      le fait qu’une grande partie de la population n’a plus accès aux moyens de
+      production.
+  - chunk_index: 45
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 141
+    text: |-
+      C’est parce que les capitalistes ont accès à l’argent et ont accès aux moyens de
+      production qu’ils peuvent imposer aux salariés qui travaillent pour eux de les
+      rémunérer pour le prix de la force de travail, mais ne pas leur donner davantage
+      que cela, parce que de toute façon c’est ça ou rien, c’est ça ou crever de faim.
+      Du coup, le rapport de force est que toute la plus-value est récupérée par la
+      bourgeoisie. C’est ce que nous propose Marx. On fait une pause de dix minutes et
+      nous reprendrons tout à l’heure.
+  - chunk_index: 46
+    heading_path: Séance 8 du 14 octobre > Le capitalisme comme mode de production
+    content_token_count: 178
+    text: |-
+      Après la pause, une question est posée sur le mécanisme de la rente et la hausse
+      du prix du blé. La réflexion revient sur le fait que le prix du blé, la rente et
+      le profit sont liés : la hausse du prix du blé a pour effet à la fois de baisser
+      les profits et d’augmenter la rente, parce que le coût de production des terres
+      fertiles reste le même, mais comme le prix augmente, l’écart entre le prix et le
+      coût de production constitue la rente. On discute aussi du capitalisme
+      industriel et marchand, et du fait que le manufacturier n’a pas directement à
+      défendre la rente. Mais on reprend ensuite le cours.
+  - chunk_index: 47
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 251
+    text: |-
+      Nous avons donc un système économique, un mode de production qu’est le
+      capitalisme, fondé sur deux classes sociales qui ont des intérêts divergents. La
+      divergence d’intérêts, c’est : qui va s’accaparer la plus-value ? C’est-à-dire
+      la différence entre la valeur d’usage de la force de travail et la valeur
+      marchande estimée au coût de reproduction de cette force de travail. Marx dit
+      qu’il y a une contradiction entre les intérêts des deux classes, et là on a bien
+      un système dialectique : on a deux classes sociales qui ont besoin l’une de
+      l’autre. Le capitalisme ne peut rien faire sans l’ouvrier ; l’ouvrier ne peut
+      pas produire sans les capitalistes parce qu’il n’a pas accès au capital. Elles
+      ont besoin l’une de l’autre, elles sont dépendantes l’une de l’autre, et en même
+      temps elles ont des intérêts contradictoires. Pour Marx, c’est cela la dynamique
+      profonde de l’évolution du capitalisme : cette opposition de classes sociales.
+  - chunk_index: 48
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 503
+    text: |-
+      Pour essayer de réfléchir sur la manière dont le capitalisme fonctionne, il
+      faut, nous dit Marx, montrer quelle est la spécificité du capitalisme. Il va
+      réfléchir à cela en essayant de comprendre comment l’économie fonctionne, ce qui
+      structure l’économie capitaliste, et pour cela il compare à d’autres sociétés.
+      La première chose, c’est que dans une société traditionnelle, nous dit Marx —
+      attention, il s’agit d’une reconstruction théorique, ce n’est pas une analyse :
+      il n’est pas allé voir comment les sociétés traditionnelles fonctionnaient, il
+      n’est pas allé faire des séjours dans les tribus d’Amazonie pour voir comment
+      elles fonctionnent, c’est une reconstruction intellectuelle — donc dans une
+      société traditionnelle, si c’est une société de l’échange, c’est la marchandise
+      qui est au cœur des échanges. Comment évolue-t-elle ? On a d’abord une personne
+      qui va vendre la marchandise, donc transformer la marchandise en argent, et avec
+      cet argent il va acheter une autre marchandise. Ici on voit bien, nous dit Marx,
+      que dans ces sociétés-là, au fond, ce qui importe, c’est la marchandise. Ce
+      n’est pas l’argent ; l’argent n’est qu’un intermédiaire qui permet, qui facilite
+      les échanges et qui transforme une marchandise en une autre marchandise. C’est
+      juste pour distinguer cette deuxième marchandise de la première. Donc dans une
+      société traditionnelle, il n’y a pas ici d’idée d’accumulation. C’est très
+      important. Il y a une idée d’échange : on va s’échanger, on est un peu dans le
+      mythe du troc d’Adam Smith, qu’on retrouve aussi dans le TD 2, je crois, et
+      aussi expliqué dans le TD 5 sur la monnaie. En gros, on a l’idée que l’argent
+      est un intermédiaire de marchandises et permet de faire circuler les
+      marchandises. C’est cela la logique de l’échange.
+  - chunk_index: 49
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 509
+    text: |-
+      Mais Marx dit : en fait, cela fait bien longtemps qu’on n’est plus dans ces
+      sociétés-là. On est passé au XVIIe siècle, voire au Moyen Âge, à la fin du Moyen
+      Âge, et c’est devenu de plus en plus fort au fur et à mesure de l’évolution des
+      sociétés, une société marchande capitaliste. Dans la société marchande
+      capitaliste, on est dans la vision marchande des choses, on a une inversion :
+      l’argent n’est plus un intermédiaire entre des marchandises, l’argent est
+      l’origine et la finalité, le but. Qu’est-ce que fait un marchand ? Il commence
+      avec de l’argent, il achète une marchandise et il va la revendre plus cher, de
+      manière à avoir un argent plus important, une somme supérieure au départ. Ce qui
+      est intéressant ici, c’est qu’on a un peu la même relation, mais elle est
+      inversée dans sa logique. C’est la même parce qu’ensuite on a de nouveau de
+      l’argent, puis de nouveau des marchandises, etc. On n’a pas changé de principe,
+      on a juste changé de logique. L’idée ici, c’est bien d’accumuler, c’est-à-dire
+      que la somme finale soit supérieure à la somme initiale. Quand on continue la
+      logique, on a de l’argent qui va s’échanger contre de nouvelles marchandises,
+      qui elles-mêmes vont entraîner une seconde somme, etc. C’est-à-dire qu’on va,
+      comme ça, dans la logique marchande du Moyen Âge et de la Renaissance, chercher
+      à accumuler des quantités toujours plus importantes d’argent pour pouvoir
+      commercer toujours davantage. Cette logique-là, c’est la logique du grand
+      commerce. Je vous ai parlé de cela : c’est ce qui change la pensée économique
+      européenne, la pensée des marchands italiens, de Venise, de Gênes, à la fin du
+      Moyen Âge, et qui va s’étendre ensuite dans le reste de l’Europe à la
+      Renaissance.
+  - chunk_index: 50
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 483
+    text: |-
+      Cette pensée marchande est une pensée qui pense l’accumulation, qui pense aussi
+      que la marchandise n’est qu’un intermédiaire entre des sommes d’argent. La
+      marchandise va devenir marchandise, c’est-à-dire qu’ici c’est une marchandise
+      qui n’a pas forcément pour fonction d’être vendue. Dans la société
+      traditionnelle, la marchandise a pour fonction d’être utilisée, d’avoir une
+      valeur d’usage. Dans la société marchande capitaliste, la marchandise a pour
+      fonction première de générer du profit, et donc là on bascule de logique, et
+      surtout d’engendrer de l’accumulation. Avec l’accumulation, on a un principe de
+      croissance, déjà, mais c’est une croissance privée, ce n’est pas une croissance
+      générale. Cette société n’est pas encore industrialisée : on a ici juste un
+      marchand qui commerce. Une autre caractéristique de l’ère de la marchandise,
+      c’est qu’elle doit être standardisée. Cela veut dire qu’on se fiche que la
+      marchandise soit unique, soit belle, etc. Ce qu’on veut, c’est qu’elle soit
+      vendable, et pour qu’elle soit vendable, il faut qu’elle soit standardisée. La
+      marchandise va devenir marchandise : on avait un bien par exemple artisanal qui
+      avait ses malfaçons, ses spécificités, sa beauté, son caractère unique en
+      quelque sorte, mais pour un marchand ce n’est pas du tout intéressant d’avoir un
+      bien qui peut varier en qualité. Si le bien varie en qualité, on ne sait plus à
+      combien le vendre, et donc il est moins efficace pour trouver de l’argent. D’où
+      la standardisation, qui apparaît au Moyen Âge et qui va s’étendre de plus en
+      plus lorsque le bien va se transformer en marchandise, c’est-à-dire en biens
+      dont l’objectif premier est d’être vendus et non pas d’être utilisés.
+  - chunk_index: 51
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 399
+    text: |-
+      Puis, nous dit Marx, avec la révolution industrielle, on regarde encore la
+      logique capitaliste, mais on va l’étendre par une autre étape. On va garder
+      cette logique-là et on va rajouter une étape : la transformation de la
+      marchandise. On a de l’argent ; avec cet argent on achète des facteurs de
+      production. Ce sont du capital fixe et circulant, c’est-à-dire des matières
+      premières et des machines, et on va aussi acheter avec cet argent la force de
+      travail. On va combiner dans le processus de production cette force de travail
+      avec ce capital, et on va produire une marchandise qui va être vendue à un prix
+      supérieur. Là, qu’est-ce qu’on constate ? On constate qu’en fait la logique
+      capitaliste industrielle est la même que la logique marchande : on est bien ici
+      dans le principe de l’accumulation marchande. Mais la différence, c’est qu’au
+      lieu de commercer — ce n’est pas très efficace de commercer, parce qu’il faut
+      chercher des marchandises, on est obligé de se déplacer, de trouver des gens
+      pour nous vendre des marchandises et des acheteurs pour nous acheter plus cher —
+      l’intérêt, c’est qu’avec cette étape de transformation, on peut produire
+      nous-mêmes nos propres marchandises, on contrôle la qualité de la marchandise,
+      on contrôle le processus de production, et surtout c’est là que va apparaître le
+      profit. Le profit va apparaître dans le processus de production, c’est-à-dire
+      que c’est à ce moment-là qu’on va exploiter la force de travail.
+  - chunk_index: 52
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 437
+    text: |-
+      Donc, nous dit Marx, la société capitaliste industrielle est une société
+      marchande qui a étendu en quelque sorte son fonctionnement en introduisant une
+      part de transformation, mais c’est bien le même principe que la société
+      marchande, puisque c’est bien l’argent qui est à la fois à l’origine, le point
+      de départ, et le point d’arrivée, la conclusion. C’est bien l’argent qui est le
+      but de cette opération, et c’est bien l’accumulation d’argent qui explique tout
+      ce principe-là. Cela veut dire aussi qu’il y a trois étapes dans la réalisation
+      du profit. Premièrement, l’argent se transforme en marchandises : c’est là qu’on
+      va acheter des facteurs de production, capital et travail. Souvenez-vous que le
+      capital a deux dimensions : le fixe et le circulant. Les matières premières et
+      le capital circulant, les machines et le capital fixe. Ensuite, il y a l’étape
+      de production. Cette première étape est extrêmement facile à faire : acheter des
+      facteurs de production, ce n’est pas le truc le plus compliqué. La deuxième
+      étape va être un peu plus compliquée et délicate : c’est le processus de
+      production, c’est-à-dire la transformation des inputs en outputs. C’est là, nous
+      dit Marx, que le profit va être créé, puisque c’est dans cette étape-là que la
+      force de travail est utilisée et donc c’est là qu’elle va générer la plus-value.
+      Néanmoins, pour organiser la production, cela devient plus compliqué que pour
+      acheter des intrants, des inputs. C’est là qu’on va organiser le travail, qu’on
+      va établir l’usine, qu’on va éviter les grèves pour permettre à la production de
+      se faire dans les meilleures conditions.
+  - chunk_index: 53
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 199
+    text: |-
+      Enfin, il y a une troisième étape, qui est la vente de la marchandise produite,
+      qui va générer, qui devrait générer une somme d’argent supérieure à la somme
+      qu’on avait au départ pour acheter les marchandises. Ce n’est pas là que se crée
+      le profit, puisque le profit est créé dans le processus de production, dans la
+      force de travail, mais c’est là que le profit est réalisé. S’il n’y a pas de
+      vente, on n’aura pas de profit. Il y a donc le moment où le profit est créé, le
+      moment où il est généré en quelque sorte dans le processus de production, et
+      puis il y a le moment où le profit va être réalisé, transformé en monnaie, et là
+      il va apparaître comme un profit : c’est dans la phase de vente.
+  - chunk_index: 54
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 397
+    text: |-
+      Or, nous dit Marx, cette phase de vente pose problème. C’est sans doute des
+      trois phases la plus difficile. Pourquoi pose-t-elle problème ? Parce qu’il faut
+      des débouchés, c’est-à-dire une demande solvable. Il faut qu’il y ait des gens
+      qui veulent acheter la marchandise produite, mais aussi pas simplement qu’ils
+      veuillent, mais qu’ils aient la capacité financière d’acheter ces marchandises.
+      Ces débouchés se heurtent à une limite qui est le principe d’accumulation
+      lui-même. Si vous avez une personne qui veut chercher à toujours produire
+      davantage d’argent avec le processus industriel dans cette logique-là, et qui va
+      toujours accumuler de l’argent, c’est-à-dire qu’elle va réinvestir sa somme pour
+      ensuite acheter de nouvelles marchandises et produire davantage, dans cette
+      logique de croissance individuelle, le problème c’est qu’elle capte de plus en
+      plus d’argent dans ce processus et qu’elle réduit les débouchés, les capacités
+      des autres personnes à acheter ses propres marchandises. Si vous avez une seule
+      personne qui fait ça, ça peut fonctionner, pourquoi pas. Mais si toute
+      l’économie est tournée autour de cela, et c’est bien ça le principe du
+      capitalisme, alors vous allez vite vous retrouver dans un problème : l’argent
+      que vous accumulez et que vous réinvestissez fonctionne dans l’économie pour
+      amorcer et continuer votre logique d’accumulation, mais il va vous manquer de la
+      demande lorsqu’il faudra vendre vos marchandises.
+  - chunk_index: 55
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 523
+    text: |-
+      Donc, nous dit Marx, le problème c’est qu’on a structurellement un problème de
+      débouchés. Le capitalisme, cette logique d’accumulation des capacités de
+      production, devrait, pour être soutenable à long terme, trouver toujours en face
+      d’elle des débouchés qui ne font que s’accroître au même rythme. Mais le
+      problème, c’est que ces débouchés ne peuvent pas s’accroître au même rythme
+      parce qu’en même temps on prélève de l’argent pour investir dans ses capacités
+      de production. On se retrouve donc devant une contradiction logique, nous dit
+      Marx : ce système capitaliste industriel qui ne cesse d’augmenter ses capacités
+      de production réduit les moyens avec lesquels les gens vont pouvoir acheter la
+      production qu’il a produite. D’où des crises régulières de débouchés, d’où
+      l’incapacité de certains industriels à vendre leurs marchandises. Cela arrive
+      tout le temps : il y a toujours quelques industriels qui font faillite parce
+      qu’ils n’arrivent pas à produire un produit qui intéresse les gens. Mais le
+      problème, c’est que cette faillite est structurelle au système. L’accumulation
+      de production, l’accumulation et la production toujours grandissante de
+      marchandises n’a de sens que si on peut réaliser le profit en les vendant. Si on
+      n’a pas de débouchés, on fait faillite. Donc parfois des industriels individuels
+      feront faillite, et parfois il y aura des crises générales de débouchés qui
+      entraînent un cycle économique décroissant. Marx est en fait le premier
+      économiste, peut-on dire, à analyser les cycles économiques et à comprendre
+      qu’en réalité toute cette dynamique d’accumulation de capital, donc
+      d’accumulation de facteurs de production, se heurte à la limite des débouchés,
+      simplement parce que l’argent est toujours prélevé pour acheter de nouvelles
+      capacités de production au lieu d’être distribué à l’ensemble de la société pour
+      que les gens achètent les marchandises qu’on a produites.
+  - chunk_index: 56
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 510
+    text: |-
+      On a donc ici une première crise structurelle du capitalisme, ou plutôt une
+      crise conjoncturelle qui arrive régulièrement et qui ne met pas forcément à bas
+      le capitalisme, mais on voit ces cycles des affaires. L’idée d’une logique
+      d’accumulation infinie du capital, avec toujours davantage de facteurs de
+      production, l’argent de départ avec lequel on va acheter des machines et des
+      matières premières et du travail va augmenter, ce qui va engendrer une
+      croissance toujours plus importante de marchandises, risque d’aboutir à des
+      contradictions en raison de la faiblesse des débouchés. Pour résoudre la
+      faiblesse des débouchés, d’ailleurs, qu’est-ce qu’on peut faire ? On peut
+      baisser les prix. C’est ce qui se passe très souvent : en période de récession,
+      les industriels bradent leur production. S’ils ne trouvent pas de débouchés, ils
+      vont baisser les prix, mais en baissant les prix ils vont se retrouver devant un
+      problème : le profit qu’ils ont généré n’a pas été réalisé, parce que si on
+      brade le prix à la production, on va se retrouver avec une somme qui ne sera pas
+      supérieure au départ, et on ne pourra plus faire de profits, et parfois on fera
+      des pertes. D’ailleurs, dans les périodes de récession, en général les prix
+      baissent. Vous verrez dans le cours d’histoire des faits économiques qu’on va
+      étudier la crise des années 1930. Qu’est-ce que c’est que la crise des années
+      1930 aux États-Unis ? C’est l’effondrement de tous les prix. Pourquoi ? À cause
+      de ce problème-là, à cause du fait qu’on n’arrive pas à vendre. Donc on brade,
+      et comme on brade on trouve un peu des acheteurs, mais au bout d’un moment il
+      faut qu’on se rattrape, donc on va baisser les salaires, on va baisser soi-même
+      ce qu’on va acheter, et donc on va rentrer dans un cycle de récession.
+  - chunk_index: 57
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 226
+    text: |-
+      L’idée aussi qu’il faut bien comprendre, c’est que le profit est réalisé sur la
+      vente. Donc en fait tout le monde veut vendre sa marchandise, mais comme on
+      gagne de l’argent en achetant moins cher que ce qu’on vend, on voit bien que le
+      souci, c’est qu’on va limiter ses achats et augmenter ses ventes. Mais tout le
+      monde ne peut pas faire ça en même temps : toutes les ventes sont des achats. Au
+      bout d’un moment le système devrait s’équilibrer, or là il ne veut pas
+      s’équilibrer parce que justement il est construit sur une logique de production
+      croissante et de ventes croissantes, sans forcément qu’il y ait à côté une
+      distribution d’argent qui permette à ces ventes de se faire. C’est une crise qui
+      arrive, donc une crise conjoncturelle qui arrive très régulièrement dans le
+      capitalisme.
+  - chunk_index: 58
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 766
+    text: |-
+      Comment se résout-elle ? De plusieurs manières. D’abord, on voit bien que cette
+      croissance de la production capitaliste ne peut être résolue que si le
+      capitalisme s’étend. On est ici dans un système qui fondamentalement va créer de
+      la croissance et qui ne va pouvoir créer cette croissance que s’il parvient à
+      s’étendre. Comment s’étendre ? Déjà géographiquement, dans le cadre des
+      frontières nationales. En gros, la première phase qui va permettre au
+      capitalisme de se développer, c’est qu’il va faire disparaître toute l’activité
+      traditionnelle, et ça va aller très vite. Là aussi Marx a raison : c’est ce qui
+      se passe très vite. Les artisans, les petits commerces traditionnels
+      disparaissent. On le voit d’ailleurs : c’est cette dynamique constante dans le
+      capitalisme. Voyez comment les supermarchés ou les hypermarchés ont fait
+      disparaître les petits commerçants. Il n’y a quasiment plus d’épiceries, bien
+      qu’il en reste quelques-unes. Si vous avez une machine à remonter le temps et
+      que vous remontez dans les années 1960, vous verrez qu’à l’époque tout le monde
+      faisait ses courses sur les marchés ou dans les épiceries, il n’y avait pas de
+      supermarché. Ces supermarchés, c’est du capitalisme : on passe de l’artisanat au
+      capitalisme. Les artisans individuels, les commerçants, passent à une entreprise
+      capitaliste qui va complètement repenser le modèle avec des grands parkings, des
+      immenses surfaces, des coûts bas, et qui va repenser le modèle de consommation.
+      Tout ça va totalement éradiquer toute la production traditionnelle. Il se passe
+      pareil en agriculture : la culture paysanne, classe traditionnelle de la fin du
+      XIXe siècle, a totalement disparu avec la mécanisation et l’industrialisation de
+      la production agricole. On voit ça partout. Donc le premier élément, c’est que
+      ce système-là ne peut fonctionner que grâce à l’existence d’un système
+      productiviste arriéré qu’il va progressivement remplacer. Il va trouver des
+      débouchés dans les gens qui achetaient au secteur traditionnel et qui vont se
+      tourner vers le secteur industriel. C’est une structure tendancielle du
+      capitalisme : la disparition de l’artisanat, de la paysannerie, du travail
+      indépendant, et globalement la généralisation du salariat. Les gens vont perdre
+      leur indépendance. Ils ne vont plus produire eux-mêmes pour eux-mêmes avec leur
+      propre capital ; ils vont devoir être salariés et travailler pour une entreprise
+      capitaliste. On dit parfois que, avec la numérisation, on retrouve le
+      travailleur indépendant contre le salarié, mais malgré tous ces emplois
+      individuels permis par Internet et l’économie des plateformes, aujourd’hui on
+      reste encore dans le salariat pour l’essentiel du travail, notamment du travail
+      bien rémunéré. Le problème des contenus des plateformes, c’est que très souvent
+      le travail n’est pas vraiment rémunéré.
+  - chunk_index: 59
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 682
+    text: |-
+      Deuxième élément : une fois qu’on arrive aux frontières du pays, une fois qu’on
+      a détruit tout l’artisanat, tout le secteur d’activité traditionnel, la logique
+      d’accumulation persiste. Donc l’idée qu’il faut toujours produire davantage et
+      toujours trouver des débouchés ailleurs se heurte ici aux frontières nationales.
+      Que fait-on ? On va étendre la production dans le reste du monde. On va
+      commencer à exporter et à trouver des débouchés extérieurs. Sauf qu’en face on
+      se retrouve devant des pays qui ne veulent pas nous acheter des produits. Qu’à
+      cela ne tienne : on va envoyer notre flotte et on va ouvrir de force ces pays à
+      nos marchandises. Ça va être la colonisation. Là aussi, c’est un phénomène qui
+      apparaît dans la deuxième moitié du XIXe siècle, au moment où justement le
+      capitalisme industriel se développe en Europe, notamment dans les pays les plus
+      avancés d’Europe de l’Ouest : la France, le Royaume-Uni, la Belgique,
+      l’Allemagne ensuite, l’Allemagne arrive avec un peu de retard. Ces pays qui
+      voient leur capitalisme à maturité avoir en partie détruit une grande partie de
+      la société traditionnelle, de l’économie traditionnelle, vont se mettre à
+      chercher des débouchés en Afrique, en Asie. La France colonise l’Algérie dans
+      les années 1830, mais très vite, dans la deuxième moitié du XIXe siècle, on va
+      coloniser l’Afrique et l’Asie. Pas forcément en disant qu’on allait chercher des
+      débouchés, mais finalement c’est bien de ça qu’il s’agit : on va étendre, on va
+      utiliser ces pays à la fois comme ressource pour avoir des matières premières,
+      mais aussi pour construire des chemins de fer, pour construire tout un ensemble
+      pour implanter le capitalisme dans ces pays. On va aussi avoir la colonisation
+      de la Chine. C’est un peu particulier parce que la Chine n’est pas colonisée au
+      sens légal du terme, mais de fait elle est sous domination britannique,
+      française et européenne, puisqu’elle ne contrôle plus son commerce. Là aussi, ce
+      sont des guerres qui visent à ouvrir de force le marché chinois, au début à
+      l’opium, et en fait à toutes les autres marchandises. D’où le nom de ces
+      conflits : les guerres de l’opium. Les Anglais, les Français voulaient pouvoir
+      vendre de l’opium en Chine, et puis très vite ils vont chercher à vendre tout ce
+      qu’ils peuvent, et notamment toute leur production industrielle supplémentaire
+      en Chine.
+  - chunk_index: 60
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 737
+    text: |-
+      Troisième élément : une fois qu’on s’est étendu dans toutes les frontières
+      nationales, quand on a détruit l’artisanat et la société, l’économie
+      traditionnelle, une fois qu’on a colonisé le monde entier — parce que c’est ce
+      qui se passe au début du XXe siècle : le monde est colonisé par l’Europe,
+      quasiment, il y a encore quelques pays qui subsistent parmi les pays qui n’ont
+      pas été colonisés, il y a la Thaïlande en Asie, il y a l’Éthiopie, même si elle
+      a été un peu colonisée par les Italiens, enfin une guerre effroyable mais qui
+      n’a pas duré très longtemps ; le Maroc, c’est un peu particulier, il a été en
+      partie colonisé parce que certes il est resté un État indépendant, mais en fait
+      il était sous domination française, il y avait un mandat français sur le Maroc,
+      donc ce n’est pas la même colonisation que l’Algérie ; la colonisation peut
+      prendre différentes formes, par exemple la Chine officiellement n’a jamais été
+      colonisée, en réalité elle était sous domination très claire — bref, tout ça
+      pour dire qu’on arrive à la fin du XIXe siècle, au début du XXe siècle, à ce que
+      quasiment tous les pays du monde soient colonisés. Là aussi, dans la pensée
+      marxiste, qu’est-ce qu’on fait ? Parce que cette dynamique de croissance
+      exponentielle des capacités de production se heurte toujours au problème de
+      débouchés. Alors, nous disent les marxistes — Marx, lui, est mort bien avant —
+      eh bien on va détruire sa propre production, on va faire l’économie de guerre.
+      C’est là qu’on va voir les deux guerres mondiales. Oui, ça marche très bien,
+      l’analyse marxiste pour expliquer la dynamique du capitalisme : finalement ça
+      résout le problème de la crise de débouchés, et d’ailleurs c’est vrai, en
+      période de guerre mondiale il n’y a plus de chômage. Alors évidemment, il faut
+      aussi les destructions énormes, à la fois des gens et du capital productif. On
+      est toujours en train de vouloir reconstruire des usines qui ont été dévastées,
+      donc forcément la question de la faim et des débouchés ne se pose plus. Mais
+      l’analyse que je viens de vous faire a quand même une limite : c’est que depuis
+      la Seconde Guerre mondiale on a des phases de décolonisation. Certains diront
+      que ce n’est pas complet, ce qui est totalement faux. On a plus de conflits,
+      mais on n’a plus de guerre mondiale qui détruit l’ensemble des économies
+      capitalistes. Donc la question se pose de savoir ce qui s’est passé après la
+      Seconde Guerre mondiale pour éviter cette dynamique destructrice,
+      auto-destructrice en fait, du système capitaliste qui finit par conquérir tout.
+  - chunk_index: 61
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 506
+    text: |-
+      Là, d’après un certain nombre d’économistes, notamment les théoriciens de la
+      régulation, la contradiction profonde du capitalisme continue d’exister après la
+      Seconde Guerre mondiale, mais elle s’est résolue autrement : elle s’est résolue
+      par la consommation de masse. Ce qui a changé dans le capitalisme après la
+      Seconde Guerre mondiale, c’est l’établissement des États sociaux, qui a forcé le
+      capitalisme à redistribuer une partie du profit, une partie de la plus-value, à
+      ses propres salariés. Cela a permis de résoudre le problème de débouchés,
+      puisque finalement la hausse du niveau de vie et l’apparition des classes
+      moyennes aux yeux d’une grande partie du prolétariat a entraîné une résolution
+      du problème de la dynamique du manque de débouchés. Ça, c’est une des théories.
+      Là aussi, on arrive à une limite de cette théorie : depuis la fin des Trente
+      Glorieuses, on revient à un problème de dynamique économique. On pourra vous
+      dire que la crise débouche et se résout par une forme de destruction créatrice,
+      c’est-à-dire que le capitalisme lui-même s’est beaucoup transformé avec de
+      nouvelles technologies et se détruit lui-même. Par exemple, vous voyez la
+      disparition des disquaires, ou des ventes de DVD, tout ça est lié aux
+      plateformes qui distribuent la musique ou les films en ligne. Donc c’est le
+      capitalisme lui-même qui se renouvelle constamment et qui détruit des secteurs
+      qui auparavant étaient artisanaux et qui se font détruire par les géants du net
+      ou des choses comme ça. C’est une théorie intéressante. Je ne vais pas aller
+      jusque-là parce que j’avoue que moi-même je n’ai pas forcément de réponses à
+      toutes ces questions, et vous voyez comment l’analyse marxiste de la crise de
+      débouchés peut finalement nous permettre de réfléchir sur la dynamique du
+      capitalisme.
+  - chunk_index: 62
+    heading_path: Séance 8 du 14 octobre > Accumulation, débouchés et crises
+    content_token_count: 355
+    text: |-
+      On peut aussi considérer que les crises de surproduction réapparaissent
+      régulièrement puisque finalement la croissance économique s’est beaucoup
+      ralentie aujourd’hui. On a une croissance économique qui est quasiment égale à
+      zéro en Europe depuis 20 ans. Donc là aussi, ce qu’on peut dire, c’est qu’on
+      revient à des crises de surproduction et donc on se retrouve toujours avec ce
+      problème de l’accumulation continue des facteurs de production et de la
+      difficulté de trouver des débouchés pour cette production. Si on n’arrive pas à
+      vendre, on brade, et finalement ce qui se passe depuis les années 2000, c’est
+      globalement une inflation très faible, une inflation quasiment à zéro, une
+      difficulté à quelque part, enfin une crise des débouchés latente, qui s’explique
+      par la baisse de la hausse des salaires et donc liée à la compétitivité, à la
+      concurrence mondiale. On a en quelque sorte là aussi une crise profonde du
+      capitalisme. Un élément qui n’est pas ici évoqué, c’est bien sûr la question
+      environnementale, mais qui s’intègre totalement dans ce que je viens de dire :
+      quand on a un système qui ne fait qu’accumuler des capacités de production, il
+      se heurte aussi aux limites des ressources de la planète. Je vous renvoie à la
+      grande discussion qu’on a eue au début de chapitre.
+  - chunk_index: 63
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 261
+    text: |-
+      Un deuxième élément de crise, c’est la baisse tendancielle du taux de profit.
+      Cela n’a rien à voir avec la première crise, c’est une autre crise. La première
+      crise, c’est le problème de l’accumulation du capital, du principe
+      d’accumulation, et notamment qui implique que les ventes doivent toujours
+      augmenter alors que les capacités d’achat n’augmentent pas forcément. Mais il y
+      a une autre raison, une autre crise, qui cette fois est une crise structurelle
+      et qui est pour Marx la crise majeure du capitalisme. Cette crise est le produit
+      de la contradiction entre les deux classes sociales qu’on a vues, c’est-à-dire
+      la bourgeoisie et le prolétariat. Marx va nous expliquer que cette contradiction
+      va engendrer finalement la fin programmée du capitalisme. Cela veut dire que
+      autant les crises conjoncturelles n’entraînent pas forcément la fin du
+      capitalisme, autant cette tension sur le taux de profit va entraîner, nous dit
+      Marx, la fin du capitalisme.
+  - chunk_index: 64
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 311
+    text: |-
+      Pour essayer de comprendre la logique ici à l’œuvre, il faut réfléchir sur le
+      fait que, comme chez Ricardo, le taux de profit va déterminer le rythme
+      d’accumulation du capital. Chez Marx comme chez Ricardo, plus le profit est
+      important, plus cela va être rentable d’investir, et plus les entrepreneurs, les
+      capitalistes, vont investir et vont accumuler du capital. Lorsque le taux de
+      profit faiblit, le régime d’accumulation faiblit, et lorsque le taux de profit
+      est égal à zéro, il n’y a plus d’accumulation. C’est ce qu’on avait vu chez
+      Ricardo avec l’état stationnaire. Marx va construire une théorie d’ état
+      stationnaire, mais surtout sur un autre modèle. C’est intéressant, d’ailleurs,
+      c’est une question qui revient dans les questions du TD 2 : comment on peut
+      comparer l’analyse de Ricardo avec celle de Marx ? Dans les deux cas on a une
+      baisse du taux de profit, mais elle n’est pas liée à la même logique. Chez
+      Ricardo, la baisse des profits est liée à la hausse de la rente, elle-même liée
+      à la hausse des prix agricoles. Chez Marx, c’est une autre logique.
+  - chunk_index: 65
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 363
+    text: |-
+      Pour essayer de comprendre cette logique, il faut raisonner un peu de manière
+      mathématique en essayant de décomposer ce qui est au fond le taux de profit.
+      Tout d’abord, le taux de profit, qu’est-ce que c’est ? Attention, ce n’est pas
+      la même chose que le profit. C’est un rapport, un taux. Le profit est lié à
+      l’ensemble du profit qu’on fait sur ses ventes, et le taux de profit, c’est
+      l’ensemble du profit divisé par le capital investi, le montant qu’on a dépensé
+      au départ. Donc on peut donner cette formule : taux de profit, que l’on note r,
+      est égal au profit réalisé, que l’on note p, le profit total réalisé, divisé par
+      le capital avancé, combien on a dépensé pour réaliser la production. Vous avez
+      une dépense au départ, vous faites un profit, vous faites le rapport entre le
+      profit et la dépense. Retenez bien cette formule parce qu’on va la voir dans
+      d’autres chapitres plus tard. Cela vous pose parfois problème parce que, une
+      fois que vous avez calculé le profit, vous dites « ça s’est terminé » ; non, il
+      faut calculer le taux de profit, ce n’est pas la même chose. Un taux de profit,
+      c’est la définition qu’on trouve partout : le profit réalisé sur le capital
+      avancé. On met k pour le capital avancé, p pour les profits réalisés, et r pour
+      le taux de profit.
+  - chunk_index: 66
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 394
+    text: |-
+      Or, nous dit Marx, le capital avancé, qu’est-ce que c’est ? C’est deux choses :
+      le capital constant et le capital variable. Le capital constant, c’est ce qui ne
+      dépend pas des volumes de production, c’est plus ou moins le capital fixe chez
+      Smith. Lui appelle ça le capital constant. Cela peut troubler parce qu’on n’a
+      pas la même chose chez Smith, mais vous allez comprendre pourquoi ce capital
+      variable va être différent de Smith. Le capital constant, c’est en quelque sorte
+      ce qui ne varie pas avec la production, c’est-à-dire le capital fixe, les
+      bâtiments, les machines, les choses comme ça. Et puis le capital variable, comme
+      son nom l’indique, c’est ce qui varie avec la quantité de production,
+      c’est-à-dire les matières premières, mais aussi le travail, la force de travail,
+      le coût du travail, parce que si vous ne produisez rien, vous n’avez pas besoin
+      d’embaucher des gens. On a bien ici deux éléments du capital variable : les
+      matières premières, on va dire, et puis la force de travail qu’on a dû embaucher
+      pour réaliser la production. Le capital variable, on va le noter v. Pour Marx,
+      le capital constant, c’est ce qui est matériel : biens d’équipement, matières
+      premières. Le capital variable, c’est la force de travail. Pour les matières
+      premières, c’est discutable, mais ça ne change absolument rien au raisonnement.
+      Je vérifierai d’ici demain ou la semaine prochaine si je me trompe, mais si j’ai
+      écrit ça, c’est que j’ai dû vérifier avant.
+  - chunk_index: 67
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 487
+    text: |-
+      Donc on a le capital variable, la force de travail, et le capital constant, le
+      capital physique, matériel. Le taux de profit est égal à p sur c plus v. C’est
+      cette formule, en pourcentage selon le livre : on multiplie par 100. Le capital
+      avancé, c’est c plus v. Là aussi, pas de souci. Maintenant on va faire une
+      opération qui est de diviser le numérateur et le dénominateur par v. On se
+      retrouve avec p sur v divisé par c sur v plus v sur v, ce qui nous donne p sur v
+      divisé par c sur v plus 1. Là apparaissent deux ratios. Le ratio du profit
+      réalisé sur le capital variable, donc ici la force de travail : je reprends ce
+      qui est marqué sur la diapositive, c’est plus fiable que ma mémoire. Le capital
+      variable reprend la force de travail. Donc on a le profit divisé en quelque
+      sorte par la main-d’œuvre, la valeur de la main-d’œuvre. Et puis on a l’autre
+      ratio, qui est le capital constant divisé par le capital variable, c’est-à-dire
+      le matériel divisé par la force de travail qu’on a mise dans la production. On
+      constate que ces deux ratios sont de deux côtés de la fraction. Vous savez
+      comment fonctionne une fraction : plus le numérateur est important, plus la
+      valeur globale de la fraction va être importante ; à l’inverse, plus le
+      dénominateur sera important, plus la valeur globale de la fraction sera faible.
+      Si j’augmente c sur v, je diminue le résultat ; si j’augmente p sur v, je
+      l’augmente au total. Ce total ici, ce n’est pas rien, c’est le taux de profit.
+      Donc on va voir que le taux de profit dépend de ces deux ratios, p sur v et c
+      sur v. Il augmente quand p sur v augmente, et il baisse quand c sur v augmente.
+      C’est les maths de collège, je vous fais les maths.
+  - chunk_index: 68
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 246
+    text: |-
+      Ce qui est intéressant, c’est ce que signifient ces deux rapports. Le premier, p
+      sur v, en numérateur, c’est le profit réalisé divisé par la force de travail
+      qu’on a accumulée, qu’on a produite. C’est un ratio dont Marx se dit qu’il
+      correspond au taux d’exploitation du travail. C’est-à-dire que si vous avez dix
+      ouvriers et qu’avec dix ouvriers vous faites mille de profits, on peut dire que
+      votre capacité d’exploiter les ouvriers, c’est 1000 sur 10, donc 100. Si vous
+      licenciez un ouvrier, vous passez de 10 à 9, alors votre capacité d’exploitation
+      a augmenté : si vous faites toujours le même profit en misant sur un ouvrier,
+      vous allez avoir un taux d’exploitation qui va augmenter. En fait, c’est combien
+      de profit vous rapporte chaque ouvrier en quelque sorte. Le travail que vous
+      avez acheté, le rapport p sur v.
+  - chunk_index: 69
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 363
+    text: |-
+      L’autre ratio, c sur v, qu’est-ce qu’il exprime ? Il exprime la composition du
+      capital : est-ce que ce capital est plus matériel ou est-ce qu’il est plus
+      humain ? Est-ce qu’il correspond davantage à l’achat de main-d’œuvre ou est-ce
+      qu’il correspond à l’achat de machines et de matières premières ? C’est ce que
+      Marx appelle la composition organique du capital : le rapport entre le matériel
+      et le travail, entre capital et travail. Ce ratio c sur v est déterminé par les
+      évolutions technologiques. Plus on accumule, plus on a de croissance
+      technologique, plus les machines vont coûter cher. Au fur et à mesure que le
+      capitalisme va se développer, il va accumuler du capital matériel, il va aussi
+      investir dans des machines plus performantes. C’est la logique capitaliste. Donc
+      au bout d’un moment, nous dit Marx, c va prendre une place de plus en plus
+      importante. Cette dynamique : lorsque c augmente plus vite que v, lorsque la
+      valeur des machines augmente plus fortement que la valeur de la force de travail
+      qu’on a achetée, alors la composition organique du capital devient davantage
+      matérielle. Qu’est-ce qui se passe si c augmente plus vite que v ? On va se
+      retrouver avec c sur v qui va s’accroître. Or c sur v est au dénominateur, cela
+      veut dire que le profit va baisser. En fait, c’est ça la baisse tendancielle du
+      taux de profit.
+  - chunk_index: 70
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 319
+    text: |-
+      C’est qu’au fur et à mesure que le capitalisme va se développer, les
+      capitalistes, pour pouvoir faire davantage de profits, ont passé leur temps à
+      investir dans des machines plus performantes, et pour cela ils vont augmenter la
+      valeur des machines et diminuer la valeur de leurs ouvriers, réduire le nombre
+      d’ouvriers. Ils vont remplacer des ouvriers par des machines. Au fur et à mesure
+      qu’ils remplacent des ouvriers par des machines, la composition organique du
+      capital va se transformer et devenir plus matérielle. c sur v ne va donc faire
+      que s’accroître au cours du temps si on laisse tout inchangé. Si vous reprenez
+      l’équation, plus c sur v s’accroît, plus le profit va baisser. Or cela, c’est
+      une constante logique du capitalisme, de par l’amélioration constante du capital
+      matériel, de par l’amélioration technologique qui permet d’avoir des machines
+      plus performantes, de par la logique même qui fait qu’on va licencier des gens
+      pour acheter des machines pour les remplacer. On va avoir un c sur v qui va non
+      seulement s’accroître ; si on ne fait rien, si on ne touche pas au rapport p sur
+      v, alors le profit baisse. C’est ça la baisse tendancielle du taux de profit.
+  - chunk_index: 71
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 653
+    text: |-
+      La baisse tendancielle du taux de profit est la conséquence technique du fait
+      que le capital devient de plus en plus matériel parce qu’on remplace de plus en
+      plus les hommes par des machines, et donc on va avoir un taux de profit qui
+      baisse. Un taux de profit qui baisse, c’est très mauvais pour les capitalistes,
+      évidemment. Donc qu’est-ce qu’ils vont faire ? Ils vont essayer de compenser
+      cette baisse du taux de profit en augmentant le taux d’exploitation, en tentant
+      de produire toujours davantage de profits par travailleur recruté en quelque
+      sorte. Donc si on veut maintenir le taux de profit au niveau où il était
+      auparavant, il faut augmenter la valeur du numérateur, c’est-à-dire p sur v. Il
+      faut faire en sorte d’augmenter le taux d’exploitation du travail. Comment
+      va-t-on faire ? On va demander à ses salariés de travailler plus longtemps, on
+      va les faire travailler plus intensément, on va allonger la durée du travail, on
+      va même simplement chercher à baisser leur salaire. Là aussi, il y a des
+      limites, parce qu’encore une fois on est limité au niveau du salaire par la
+      force de reproduction de la force de travail. Mais on se retrouve finalement
+      dans un conflit qui va se radicaliser entre les propriétaires du capital et les
+      ouvriers, parce qu’au fur et à mesure que le taux de profit baisse, le
+      capitalisme cherche à le réaugmenter, et pour ça il va demander au travail de
+      s’intensifier davantage. Il va donc dire, par la voix du président de la
+      République par exemple : il faut qu’on travaille plus, ce qui veut dire
+      travailler plus sans être payé plus, avoir des semaines de travail plus longues,
+      ne plus prendre de vacances. Cela veut dire éventuellement subventionner des
+      entreprises pour leur permettre d’être plus compétitives et de maintenir le taux
+      de profit au niveau où il était auparavant. Par exemple, on va supprimer les
+      impôts de production. Évidemment, je fais référence à ce qui a été annoncé par
+      Emmanuel Macron il n’y a pas très longtemps : le gouvernement veut, dans le plan
+      de relance, baisser de 10 milliards par an les impôts de production. Qu’est-ce
+      que cela veut dire ? Cela veut dire qu’on va augmenter le taux de profit.
+      François Hollande avait fait le CICE, lui aussi une subvention aux entreprises,
+      qui avait exactement le même objectif : augmenter le taux de profit. Pourquoi ?
+      Parce que le taux de profit aurait tendance à baisser.
+  - chunk_index: 72
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 420
+    text: |-
+      Je vous fais une analyse marxiste ; je ne vous dis pas que c’est cela qui
+      fonctionne. D’ailleurs, Marx, finalement, est-ce que c’est vrai ce qu’il dit ?
+      C’est logique, mais est-ce que tous les profits baissent ? Oui, c’est vrai.
+      Est-ce que cependant les conditions de travail n’ont cessé de se dégrader depuis
+      le XIXe siècle ? Il se trouve que ce n’est pas ce qui s’est passé. Donc oui,
+      l’analyse de Marx se heurte quand même à des éléments, à des événements
+      historiques. Par contre, ce qui est vrai, c’est que si on regarde depuis dix
+      ans, depuis vingt ans, la dynamique du capitalisme français, on voit bien quand
+      même une dégradation, en tout cas depuis dix ans, des conditions de travail. On
+      voit bien une hausse de la fiscalité des ménages et une baisse de la fiscalité
+      des entreprises. Donc vous voyez, l’analyse de Marx peut marcher trente ans,
+      puis d’autres fois ne pas fonctionner. Peu importe : ce qui intéresse ici Marx,
+      c’est que cette dynamique technologique, le fait que le capital acquiert une
+      valeur de plus en plus importante, le fait que les machines sont de plus en plus
+      performantes, le fait qu’on remplace des travailleurs par des machines, tout ça
+      est inhérent à la logique du capitalisme pour maximiser le profit, mais va
+      entraîner une conséquence qui est la baisse tendancielle du taux de profit.
+      Cette baisse du taux de profit va être contrecarrée par des politiques qui vont
+      être défavorables aux travailleurs, et cela va entraîner la dégradation des
+      conditions de travail et l’exacerbation des tensions sociales.
+  - chunk_index: 73
+    heading_path: Séance 8 du 14 octobre > La baisse tendancielle du taux de profit
+    content_token_count: 436
+    text: |-
+      C’est-à-dire qu’en fait le capitalisme, dans son évolution, dans sa dynamique
+      interne, on retrouve la dialectique, va radicaliser de plus en plus ces
+      oppositions entre propriété du capital et prolétariat, jusqu’à ce que, au fur et
+      à mesure que le taux d’exploitation du travail augmente, les travailleurs soient
+      de plus en plus mécontents et qu’ils finissent par se révolter. Donc la société
+      capitaliste va disparaître à l’issue d’une révolution qui va être finalement la
+      conséquence de cette radicalisation des conflits de classe. Voyez donc on a ici
+      l’idée révolutionnaire. C’est cela qui va mettre un terme au capitalisme pour
+      Marx. Ce ne sont pas les crises de débouchés, même si celles-ci peuvent
+      déboucher sur des crises structurelles qui reviennent régulièrement et qu’on
+      essaye de résoudre d’une manière ou d’une autre, qu’on y arrive plus ou moins.
+      D’ailleurs, si cette crise des débouchés se mêle avec une baisse tendancielle du
+      profit, là on arrive à des crises majeures. Au bout d’un moment, on ne peut
+      résoudre ces crises qu’avec un État qui va chercher à défendre au maximum le
+      taux de profit des capitalistes, et puis au bout d’un moment tout ça va devenir
+      trop insupportable pour les gens, qui vont se révolter parce qu’ils sont quand
+      même beaucoup plus nombreux, les exploités, que les exploiteurs. Je prends le
+      vocabulaire marxiste. Donc à la fin le capitalisme va s’effondrer. Là on a bien
+      le principe dialectique que j’ai dit en début de cours, c’est-à-dire la
+      dynamique interne de contradiction entre des éléments d’un système.
+  - chunk_index: 74
+    heading_path: Séance 8 du 14 octobre > Conclusion du chapitre 2
+    content_token_count: 658
+    text: |-
+      Je conclus, il me reste même pas cinq minutes. Conclusion du chapitre 2. Les
+      économistes, contrairement à ce que l’on pense parfois, ont quand même eu du mal
+      au départ avec la notion de croissance. Lorsqu’ils l’ont conçue de manière
+      parfaitement intéressante et valable aujourd’hui, avec Adam Smith, ils ont conçu
+      la logique d’accumulation du capital, et même chez Smith il n’y a pas que le
+      capital qui s’accumule, il y a aussi les marchandises. Cette accumulation de
+      capital était liée elle-même au taux de profit. En même temps qu’ils ont conçu
+      cela, ils ont pensé les limites de la croissance. Ces limites de la croissance
+      sont liées à différents éléments. Pour Malthus, ce sont les contraintes
+      démographiques et naturelles qui limitent la croissance, le fait qu’on vit dans
+      un monde fini. Pour Ricardo, c’est un conflit de classe qui limite la
+      croissance, c’est-à-dire la baisse du profit qui est la conséquence de la hausse
+      des prix du blé, qui va entraîner aussi la hausse de la rente. Donc la hausse
+      des prix du blé va à la fois entraîner la hausse de la rente et la baisse du
+      taux de profit. C’est aussi en raison de contraintes naturelles et
+      démographiques, c’est toujours l’idée qu’il y a une contrainte naturelle. Pour
+      Marx, on a vu que ce ne sont pas du tout les mêmes causes : la baisse du profit
+      n’est pas liée aux limites naturelles. Chez Marx, la nature, les limites de la
+      nature, les limites des ressources, des matières premières, tout ça, ce n’est
+      pas ce qui l’intéresse. Ce qui l’intéresse, ce sont les limites sociales. Ce qui
+      va poser problème, c’est la dynamique technologique du capitalisme, qui va avoir
+      des machines de plus en plus chères, qui vont prendre une place de plus en plus
+      importante, alors même que le profit est généré par le travail. Donc plus on
+      baisse le travail et plus on augmente la machine, plus on aura du mal à prélever
+      du travail du profit. On va donc se retrouver dans un problème qui est cette
+      baisse du taux de profit. C’est cette baisse du taux de profit qui va exacerber
+      les conflits de classe, et c’est ça qui va être au cœur de la fin du capitalisme
+      : les conflits de classe vont finir par déboucher sur une révolution. Mais on a
+      aussi un autre problème, qui est la logique d’accumulation elle-même, qui va se
+      heurter à la faiblesse des débouchés.
+  - chunk_index: 75
+    heading_path: Séance 8 du 14 octobre > Conclusion du chapitre 2
+    content_token_count: 395
+    text: |-
+      Vous avez un TD sur la décroissance. Je vous ai mis dans la fiche de TD que je
+      n’ai pas abordée ici, parce que mon moment que je voulais étudier, c’était
+      l’histoire de la pensée économique jusqu’à la fin du XXe siècle. On ne pense pas
+      tellement la question des limites de la croissance au niveau environnemental.
+      Penser que c’est aujourd’hui une question très importante n’est pas
+      d’aujourd’hui au sens strict, c’est-à-dire que dès la fin des années 1960 on va
+      voir le Club de Rome. Je vous invite à regarder sur Wikipédia ce que c’est : une
+      assemblée scientifique qui va s’interroger sur les limites de la croissance. Il
+      va faire deux rapports, en 1972 et en 2012, qui sont intéressants et qui ont
+      montré qu’en raison de la faiblesse des ressources naturelles, la croissance est
+      condamnée à disparaître. Parfois on a derrière cette idée de disparition de la
+      croissance des visions apocalyptiques. On a aussi ce qu’on appelle les
+      collapsologues, qui vont dire : mais si le capitalisme se heurte à une
+      contrainte naturelle, comme c’est dans sa nature de créer de la croissance, on
+      retrouve ici la logique d’accumulation dont j’ai parlé, eh bien il va se heurter
+      à une contradiction fondamentale qui va le faire disparaître, et donc la
+      collapsologie, c’est aussi l’idée que tout le système économique peut
+      s’effondrer en raison d’une limite, et cette fois-ci exogène au capitalisme.
+  - chunk_index: 76
+    heading_path: Séance 8 du 14 octobre > Conclusion du chapitre 2
+    content_token_count: 258
+    text: |-
+      Voyez que quand on pense à la collapsologie, il n’y a pas grand-chose de nouveau
+      par rapport à ce que disait Marx, à ce que disait Malthus. Finalement, les
+      économistes n’arrivent pas à dire : super, on va vivre dans un super monde, vous
+      pouvez faire tout ce que vous voulez. Il reste quand même finalement — et moi
+      c’est plutôt ça que j’ai envie de dire — à l’inverse de ce que pensent les gens,
+      les économistes ne sont pas des fous de la croissance. Ils sont peut-être
+      terrifiés par la croissance, parce que si on dit « la croissance économique »,
+      alors cela veut dire qu’on peut faire tout ce qu’on veut, on peut consommer tout
+      ce qu’on veut, on peut avoir des hausses de salaires, on peut réduire la
+      pauvreté, et tout ça fait bien plus peur aux économistes que l’idée de
+      croissance. C’est sur cette réflexion que je termine ce chapitre 2, parce que je
+      vois que c’est l’heure.

@@ -1,0 +1,2144 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-12-03_seance-20-jeudi-3-decembre.fr.md
+  source_file_hash: sha256:7d660befc9615a6196daa27b3541cfce0b4bc1abfbd77dae662db823975552da
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 173
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-12-03_seance-20-jeudi-3-decembre.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Séance 20 jeudi 3 décembre
+    content_token_count: 36
+    text: |-
+      Bonjour à tous. Je vous propose de reprendre le cours là où on s'était arrêtés,
+      c'est-à-dire au cours du chapitre 8.
+  - chunk_index: 1
+    heading_path: Séance 20 jeudi 3 décembre > Reprise du cours et introduction
+    content_token_count: 36
+    text: |-
+      Ce chapitre 8 parle de la production. Nous en sommes à la question de savoir
+      comment concrètement la production se réalise dans l'économie.
+  - chunk_index: 2
+    heading_path: Séance 20 jeudi 3 décembre > Reprise du cours et introduction
+    content_token_count: 160
+    text: |-
+      Nous avons vu au départ les différents agents, leurs différentes fonctions. On a
+      commencé par faire un peu d'histoire et d'introduction, puis on a vu, dans le
+      cas de cours, comment on pouvait analyser la circulation réelle, c'est-à-dire
+      comment concrètement les acteurs organisés répartissent la production. Nous
+      avons ensuite regardé le rôle des différents acteurs, en commençant par la
+      question de la consommation, puis nous avons continué sur la question du marché
+      et de la valeur, comment le marché fonctionne — c'était le chapitre 5. Ensuite,
+      au chapitre 6, nous avons vu la monnaie et puis la finance.
+  - chunk_index: 3
+    heading_path: Séance 20 jeudi 3 décembre > Reprise du cours et introduction
+    content_token_count: 252
+    text: |-
+      Maintenant, si on continue un peu la réflexion, on est sur l'entreprise :
+      comment l'entreprise fonctionne et comment les entreprises produisent. N'oubliez
+      pas qu'il n'y a pas que l'entreprise qui produit de la richesse. Il y a aussi
+      l'État qui produit de la richesse, en produisant de la valeur ajoutée, en
+      embauchant des fonctionnaires, en produisant des services publics. Souvenez-vous
+      que l'État, c'est surtout sa fonction principale, c'est de produire des biens
+      non marchands. C'est absolument indispensable pour la société : les biens non
+      marchands d'abord, qui sont collectifs, bien sûr la sécurité, la justice, les
+      routes, etc., et puis des biens non marchands qui sont distribués aux individus
+      et aux ménages sous la forme de services publics. Certains sont un peu payants
+      mais pas très chers, comme l'université, d'autres sont totalement gratuits. Donc
+      on a ici une production de richesse là aussi chez l'État.
+  - chunk_index: 4
+    heading_path: Séance 20 jeudi 3 décembre > Reprise du cours et introduction
+    content_token_count: 133
+    text: |-
+      Mais on ne va pas forcément analyser l'État, d'abord parce que ce cours est
+      limité en temps — 42 heures, c'est déjà beaucoup — mais aussi parce que
+      finalement, l'État, ce qu'il fait, ça dépend du pouvoir politique, ça relève de
+      la décision politique. Ça n'est pas forcément au cœur de l'analyse d'un
+      économiste. Nous, ce qui nous intéresse ici, c'est de comprendre comment les
+      agents qui ne sont pas l'État fonctionnent et donc comment ils produisent.
+  - chunk_index: 5
+    heading_path: Séance 20 jeudi 3 décembre > Les facteurs de production et leur rémunération
+    content_token_count: 38
+    text: |-
+      Donc on a repris cette histoire de production en disant la chose suivante :
+      toute production associe deux facteurs de production que sont le capital et le
+      travail.
+  - chunk_index: 6
+    heading_path: Séance 20 jeudi 3 décembre > Les facteurs de production et leur rémunération
+    content_token_count: 137
+    text: |-
+      Le capital, qu'est-ce que c'est ? Le capital, c'est l'ensemble des machines et
+      des matières premières qui sont utilisés dans le cadre productif. Ce capital, on
+      l'a vu, il est apporté par les actionnaires. Dans le TD 8, on voit aussi qu'il
+      est apporté par les banques, qu'il est le produit du financement. Mais nous
+      allons voir tout à l'heure comment concrètement le financement se fait, comment
+      l'investissement se fait dans l'entreprise, parce que c'est cet investissement
+      qui produit du capital fixe.
+  - chunk_index: 7
+    heading_path: Séance 20 jeudi 3 décembre > Les facteurs de production et leur rémunération
+    content_token_count: 129
+    text: |-
+      Et puis nous avons également le travail, le travail qui est rémunéré cette
+      fois-ci par le salaire, alors que le capital tire du profit. Le travail dépend
+      donc des individus qui travaillent. Alors on a la question qui se pose : quelle
+      est la qualité du travail ? On mesure la qualité productive du travail en
+      mesurant la productivité du travail. Quel rapport y a-t-il ? C'est-à-dire la
+      quantité de richesses produites divisée par la quantité de facteurs de
+      production, ici le travail, qui a été nécessaire.
+  - chunk_index: 8
+    heading_path: Séance 20 jeudi 3 décembre > Les facteurs de production et leur rémunération
+    content_token_count: 89
+    text: |-
+      Je ne vais pas faire de pause. Je vais aller directement jusqu'à -10 parce que
+      je préfère ça, mais vous, vous pouvez faire une pause et reprendre après.
+      Évidemment, si vous reprenez après, vous arrivez en retard, donc ne posez pas de
+      questions parce que du coup vos questions seront en décalage par rapport à moi.
+      Bref, je reviens.
+  - chunk_index: 9
+    heading_path: Séance 20 jeudi 3 décembre > Les facteurs de production et leur rémunération
+    content_token_count: 197
+    text: |-
+      Donc la productivité du travail va dépendre de quoi ? On a vu le capital humain,
+      c'est-à-dire la compétence des individus. Elle dépend de la dotation en capital
+      de l'entreprise, c'est-à-dire de ses équipements : si on possède un certain
+      nombre d'équipements, on est plus efficace. Et puis elle dépend aussi de
+      l'organisation interne, de la manière dont l'entreprise fonctionne pour produire
+      des richesses, de la capacité qu'on a de mettre en œuvre les travailleurs entre
+      eux de manière à ce qu'ils soient efficaces. Si on a une entreprise dans
+      laquelle les gens sont mal gérés, dans laquelle les gens ne s'entendent pas ou
+      ne parviennent pas à collaborer, bien sûr l'entreprise ne sera pas tellement
+      efficace.
+  - chunk_index: 10
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 73
+    text: |-
+      Maintenant qu'on a expliqué le capital et le travail, je pense qu'il est
+      important de comprendre que ces rémunérations que sont le capital et le travail
+      sont tirées de la richesse produite par l'entreprise. Cette richesse, comment
+      l'appelle-t-on ? On l'appelle la valeur ajoutée.
+  - chunk_index: 11
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 79
+    text: |-
+      Cette partie est très complémentaire avec le TD 8, donc vous l'avez peut-être
+      fait, normalement vous l'avez fait. Je vous invite à le relire après avoir fait
+      le cours parce qu'il y a une cohérence très forte entre ce TD et le cours,
+      puisque le TD parle aussi de la répartition de la valeur ajoutée.
+  - chunk_index: 12
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 142
+    text: |-
+      Concrètement, cette valeur ajoutée, je le dis, c'est la richesse produite par
+      l'entreprise. Bien entendu, les gens qui produisent de la richesse dans le cadre
+      d'une entreprise ne la produisent pas gratuitement. Ils en produisent parce
+      qu'ils en tirent un bénéfice. Le travail, ça demande du temps, ça demande de
+      l'énergie, ça fatigue. Donc si on le fait, c'est parce que derrière on attend
+      une rétribution, quel salaire. De la même façon que le capitaliste, lui qui a
+      investi son argent, attend une rémunération derrière.
+  - chunk_index: 13
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 157
+    text: |-
+      Alors ici arrive une forme de paradoxe que j'ai envie de soulever avec vous :
+      c'est que par définition, toute rémunération est individuelle. C'est-à-dire
+      qu'on va toujours donner aux individus qui travaillent dans l'entreprise une
+      forme de rémunération. D'ailleurs tous les individus n'ont pas les mêmes
+      rémunérations dans une entreprise : il y a les salaires élevés, des salaires
+      faibles, etc. Il y a différents types de salaire, différentes façons de
+      rémunérer. On peut rémunérer par des primes, ou alors un fixe, tout ça ce n'est
+      pas toujours pareil.
+  - chunk_index: 14
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 150
+    text: |-
+      Et tout le problème est de savoir ce que chacun mérite. Parce que finalement, on
+      a l'impression que le salaire correspond à la contrepartie de ce qu'on a donné.
+      Donc on se dit : si j'ai donné beaucoup, je dois recevoir beaucoup. Si j'ai
+      donné moins, je dois recevoir moins, enfin je peux accepter de recevoir moins.
+      Et le souci, c'est que quand on a des individus qui travaillent collectivement,
+      en réalité il faut dire une chose : c'est que la richesse n'est jamais le
+      produit d'une seule personne. On a toujours besoin des autres pour produire
+      quelque chose.
+  - chunk_index: 15
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 205
+    text: |-
+      Par exemple, référence à dire : regardez-moi, on pensait que je travaille tout
+      seul, que je fais mon cours tout seul dans mon coin. Effectivement, ça donne
+      cette impression. Mais en réalité, si le cours a pu se faire, c'est parce que
+      l'équipe — on a de la scolarité, on a des gens qui ont fait les emplois du
+      temps, alors parfois je dis il y a des gens qui nettoient aussi les amphis, mais
+      là pour le coup ce n'est pas dans les amphis — mais on a tout un ensemble de
+      coûts qui sont en fait dans le cours, qui ne sont pas juste liés au salaire du
+      prof, qui sont aussi liés aux salaires des autres personnes qui accompagnent
+      l'enseignant. Donc personne en fait ne travaille individuellement, et pourtant
+      tout le monde est rémunéré individuellement.
+  - chunk_index: 16
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 120
+    text: |-
+      Donc quelque part, le souci c'est : pourquoi est-ce que par exemple la scolarité
+      qui fait les emplois du temps devrait être moins rémunérée que moi qui fais
+      cours ? Bien sûr, on pourrait dire que le cœur du travail c'est le cours, mais
+      d'un autre côté, un cours sans personne qui fasse d'emploi du temps, finalement
+      ça n'est pas possible. Vous voyez ce qui se passerait si on n'avait pas
+      quelqu'un pour organiser l'ensemble de votre formation.
+  - chunk_index: 17
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 152
+    text: |-
+      Et c'est pareil par exemple pour produire une voiture : vous avez un ouvrier qui
+      a produit la voiture, vous avez un ingénieur qui l'a conçue, vous avez un
+      commercial qui fait que cette voiture est vendue 15 000 euros. La question se
+      pose, et à mon avis elle est légitime : combien rémunère chacun ? Est-ce qu'on
+      donne 5 000 euros à chacun ? Est-ce qu'on donne 2 000 euros à l'un, 5 000 à
+      l'autre, et puis le reste, on fait pas 8 000 euros à la troisième personne ?
+      Comment concrètement répartir le travail ?
+  - chunk_index: 18
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 152
+    text: |-
+      Quelqu'un vient de poser une question intéressante : et si on est une profession
+      libérale, est-ce qu'on ne travaille pas tout seul ? Et bien là aussi, une
+      profession libérale a besoin des autres en quelque sorte. Elle a toujours besoin
+      d'abord d'avoir autour d'elle une société qui fonctionne. Par exemple, si vous
+      êtes un avocat, difficile de produire quoi que ce soit s'il n'y a pas un système
+      judiciaire qui est lui-même le produit des administrations publiques. Un avocat
+      tout seul ne produit pas de richesses, en fait il a besoin forcément d'un
+      système judiciaire autour de lui.
+  - chunk_index: 19
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 197
+    text: |-
+      Vous prenez un chanteur par exemple. Le chanteur, oui, il est riche parce qu'il
+      est tout seul et qu'il est tout seul à travailler. Mais en réalité, non, parce
+      que d'abord il a besoin de gens pour communiquer, il a besoin d'une plateforme
+      pour que l'on puisse télécharger sa musique, il a aussi besoin qu'une société
+      fonctionne pour lui acheter des disques, il a aussi besoin qu'il existe de la
+      monnaie — ce n'est pas produit par lui-même. Un chanteur extrêmement talentueux
+      qui naît dans un pays très très très pauvre, en voie de développement très
+      pauvre, il aura beaucoup moins de chance d'être connu dans le monde qu'une
+      personne du même talent qui est née dans un pays riche où il existe une
+      véritable industrie musicale.
+  - chunk_index: 20
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 188
+    text: |-
+      Donc tout ça pour vous dire une chose qui est quand même pour moi à la base de
+      l'économie et la base de la grande question économique, et la raison pour
+      laquelle l'économie est forcément une science politique : c'est que l'économie,
+      le cœur de son travail, ce qu'elle essaie de comprendre, c'est la richesse —
+      comment elle est produite et comment elle est répartie. Or le problème de la
+      répartition de la richesse, c'est que l'on répartit individuellement des choses
+      qui ont toujours été produites collectivement. Et donc ça veut dire qu'il y a
+      forcément une part d'arbitraire dans la manière dont on décide qui doit avoir
+      quoi. C'est-à-dire que ça va en dehors en quelque sorte du champ de l'économie.
+  - chunk_index: 21
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 187
+    text: |-
+      Alors bien sûr, vous allez avoir des économistes qui vont vous dire que la
+      rémunération du salarié est toujours égale à sa productivité marginale. On va en
+      parler un peu tout à l'heure. C'est un peu facile de mon point de vue,
+      c'est-à-dire qu'on se trouve devant le même problème : qu'est-ce que c'est que
+      la productivité marginale d'un salarié s'il travaille tout seul ? Il n'y a
+      aucune productivité. Et si tout le monde est tout seul, en fait personne n'a
+      quasiment la moindre productivité marginale. Donc en fait la productivité
+      marginale d'un salarié dépend aussi du contexte et des autres personnes qui
+      l'ont aidé. Elle n'existe pas par elle-même.
+  - chunk_index: 22
+    heading_path: Séance 20 jeudi 3 décembre > La valeur ajoutée et sa répartition
+    content_token_count: 54
+    text: |-
+      Bref, nous avons donc ici une véritable question au cœur de la politique et
+      aussi au cœur de l'économie : comment on organise la redistribution, enfin la
+      distribution, c'est-à-dire qui possède quoi.
+  - chunk_index: 23
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 268
+    text: |-
+      Cette réflexion est en partie résolue par le marché, puisque souvenez-vous,
+      chapitre 5, le marché a sa fonction première : c'est justement de donner du prix
+      aux choses, de dire quelle est la valeur. Donc le marché va dire la valeur de —
+      je ne sais pas — quand vous vendez votre force de travail sur le marché, eh bien
+      vous valez, je ne sais pas, 2 000 euros par mois. Donc voilà, vous savez que
+      c'est ça que vous valez. Mais là aussi il y a une dimension arbitraire, parce
+      qu'en quoi le marché est-il légitime pour déterminer la valeur des choses ? On
+      l'a vu dans les chapitres précédents, ça pose des vraies questions. La
+      valorisation par le marché du prix d'une action est très contestable et elle ne
+      repose pas sur grand-chose. Donc on a un marché qui tourne, qui mouline, qui
+      crée des prix, qui crée des valeurs, mais ces valeurs, ces prix, en fait, s'ils
+      correspondent vraiment à ce que les individus jugent socialement utiles, ce
+      n'est pas si sûr.
+  - chunk_index: 24
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 134
+    text: |-
+      Quand je réfléchis à la question de la répartition des richesses, en fait c'est
+      une question extrêmement complexe qui est très difficile à trancher comme ça.
+      Donc on a parfois tendance à la simplifier. La manière dont on va la simplifier,
+      c'est la même manière un peu que Marx : c'est-à-dire souvenez-vous, chez Marx il
+      y a deux classes sociales, deux facteurs de production, le capital et le
+      travail. Et donc on va considérer que finalement la répartition c'est une
+      question de répartition entre capital et travail.
+  - chunk_index: 25
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 222
+    text: |-
+      Alors bien sûr, cette question de répartition entre capital et travail est un
+      peu limitée. C'est celle qu'on voit dans le TD 8, c'est celle qu'on va voir
+      aussi à présent, parce que c'est intéressant quand même de la faire. Mais ce
+      qu'elle ne voit pas, bien sûr, c'est tous les écarts qui peuvent y avoir entre
+      différents salaires. C'est-à-dire qu'il ne suffit pas de dire il y a les
+      salariés d'un côté et les capitalistes de l'autre. Bien sûr c'est vrai, bien sûr
+      qu'en général ceux qui apportent le capital sont mieux rémunérés que ceux qui
+      apportent le travail, c'est vrai aussi. Mais au sein même des travailleurs, il y
+      a des inégalités extrêmement fortes. Et là aussi il y a une répartition des
+      richesses qui pose question et qui, pour le coup, n'est pas toujours facile à
+      analyser.
+  - chunk_index: 26
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 61
+    text: |-
+      Si on réfléchit sur la répartition, il y a un produit assez général sur l'écran,
+      le concept de la répartition. En économie, on a tendance à distinguer ce qu'on
+      appelle la répartition primaire de la répartition secondaire.
+  - chunk_index: 27
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 370
+    text: |-
+      La répartition primaire concerne la répartition de la richesse produite avant
+      l'intervention des administrations publiques, c'est-à-dire dans le cadre du
+      processus productif, avant toute redistribution, donc tout impôt et allocation —
+      à la fois allocations en espèces et allocations en nature. La répartition
+      primaire, on nous dit, c'est celle qui se fait au sein des entreprises entre
+      capital et travail. Si on a une approche marxiste un peu duale capital-travail,
+      mais ça c'est la base. Et la répartition primaire, ça veut dire que ce n'est pas
+      ce que les gens touchent réellement comme argent. Là aussi je vous renvoie aux
+      différentes aides et notamment au TD 17 je crois qu'ils en parlent, et puis même
+      au TD 5. On regarde les comptes, puisque ce qu'on constate c'est qu'en fait les
+      ménages touchent comme argent également de l'argent qui n'est pas issu du
+      processus productif, qui est par exemple issu des retraites, donc qui est issu
+      des allocations qu'ils peuvent recevoir. Par ailleurs ils payent des impôts.
+      Donc là on a une autre répartition qui est organisée par le pouvoir public, par
+      la puissance publique, qui est une répartition en argent, en espèces comme on
+      dit, et une répartition en nature. Et donc ça, ça s'appelle la répartition
+      secondaire, ou on l'appelle aussi la redistribution. C'est-à-dire la manière
+      dont, une fois que l'État intervient, il redistribue la richesse produite.
+  - chunk_index: 28
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 96
+    text: |-
+      Alors attention, l'État produit aussi des richesses, mais il redistribue aussi
+      ses richesses qu'il a produites lui-même, parce que les richesses des biens non
+      marchands qu'il produit, elles sont distribuées gratuitement et payées par
+      l'impôt. Voilà donc c'est le TD 5 sur les comptes qui distingue la répartition
+      primaire et la répartition secondaire.
+  - chunk_index: 29
+    heading_path: Séance 20 jeudi 3 décembre > La répartition primaire et secondaire
+    content_token_count: 327
+    text: |-
+      Alors oui, on devrait pas dire redistribution, on devrait dire distribution,
+      d'ailleurs c'est un peu une erreur ici. Alors je ne sais plus de quoi il
+      correspond déjà, bien l'oublier, on peut apporter — vous regarderez sur le TD 5.
+      Donc on a bien une distribution primaire et une redistribution secondaire.
+      L'idée de redistribution c'est évidemment — enfin, souvenez-vous d'ailleurs que
+      cette réallocation des richesses, c'est aussi ce que fait le marché. Donc on
+      peut dire qu'il y a deux formes d'allocation des richesses : la première c'est
+      le marché qui réalise les richesses à travers un processus marchand, et puis
+      ensuite il y a l'État aussi qui réalise les richesses en fonction d'un processus
+      du coup politique. Puisque finalement c'est l'État, c'est quand même le principe
+      du collectif qui se met d'accord pour dire : ben tiens, cette personne-là il
+      faut qu'elle soit un peu mieux payée ou un peu mieux rémunérée, on va lui donner
+      une allocation. Celle-ci, ça serait bien qu'elle soit un peu plus prélevée, elle
+      gagne trop, et on va lui imposer une taxe. Alors pas une personne en
+      particulier, c'est à une situation plutôt qu'on va taxer ou qu'on va attribuer
+      des allocations.
+  - chunk_index: 30
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 157
+    text: |-
+      Si on regarde la répartition primaire, on peut analyser les choses en regardant
+      la part des salaires dans le PIB. On va avoir cette analyse un peu marxiste,
+      opposition capital-travail, c'est celle aussi qui est prise dans le TD 8. C'est
+      une vision qui dépasse largement le marxisme, en fait, qui est aujourd'hui —
+      c'est comme ça qu'on évalue la répartition primaire en général dans tous les
+      pays du monde. C'est-à-dire qu'on regarde au sein du processus productif quelle
+      part de la valeur ajoutée va rémunérer toutes ses formes du capital, et quelle
+      autre part va rémunérer le travail.
+  - chunk_index: 31
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 268
+    text: |-
+      Ce qui est intéressant, c'est de voir son évolution historique. Ça aussi c'est
+      ce qu'on voit dans le TD 8, c'est-à-dire ce qu'on appelle la part salariale, la
+      part des salaires dans le PIB. Ici c'est exactement ça, donc c'est un tableau
+      qui est issu de la banque — d'Espagne ? — 2012, un peu ancien, mais on est sur
+      du très long terme, ce n'est pas très grave. Et dans lequel on va voir que les
+      différents grands pays ici — les États-Unis, France, Allemagne, Royaume-Uni — on
+      voit une évolution de la part de certains pays mais qui globalement est toujours
+      négative. C'est-à-dire qu'entre 1980 et 2010, on voit s'effriter la part des
+      salaires dans la valeur ajoutée. Ce qui veut dire que dans le cadre de la
+      répartition primaire, dans les entreprises — c'est bien au sein des entreprises
+      que se fait cette répartition primaire — et bien une partie grandissante de la
+      richesse va rémunérer le capital.
+  - chunk_index: 32
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 130
+    text: |-
+      Cette rémunération du capital peut aller sous forme d'intérêts d'emprunt, elle
+      peut aller sous forme de dividendes bien sûr, versés aux actionnaires, mais elle
+      intègre aussi l'autofinancement des entreprises, ce que les entreprises vont
+      mettre en réserve pour financer ensuite leurs futurs investissements. Tout ça
+      c'est en fait tout le profit en quelque sorte, qu'on va dire de l'activité, qui
+      correspond au profit, qui va ensuite être utilisé pour différentes choses, qui
+      va participer donc à la construction de nouveau capital.
+  - chunk_index: 33
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 195
+    text: |-
+      Ce qui est intéressant, ce chiffre qui baisse partout : en France on est passé —
+      la part salariale, là aussi selon les sources la part salariale peut être
+      calculée différemment, donc voilà une source qui calcule la part salariale de
+      cette façon-là, d'autres graphiques, enfin sur l'INSEE — ça aussi ça fait partie
+      des questions du TD 8, sur l'INSEE on va voir qu'aujourd'hui on est plutôt à 66
+      %, 65 %, plutôt qu'à 59 %. En fait tout dépend de la composition. Ce qui
+      m'intéresse ici, c'est qu'on a une source unique et qu'on a ici une évolution
+      qui permet de comparer les pays entre eux, puisque on a la même source, ce qui
+      permettra de voir un peu comment les choses évoluent.
+  - chunk_index: 34
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 153
+    text: |-
+      Ce qu'on constate, c'est qu'en France en 1981, 65,27 % du PIB rémunérait les
+      salaires, en 2010 on était à moins de 60 %. Aux États-Unis c'est un peu la même
+      chose, on était à 64,2 et on est passé à 59,8. En Allemagne on était encore plus
+      haut que partout ailleurs, 67,2, et on est passé encore plus bas que les autres
+      pays. Et puis au Royaume-Uni on était dans la moyenne — entre la France et les
+      États-Unis — et on est au plus bas en 2010.
+  - chunk_index: 35
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 109
+    text: |-
+      Concrètement, il y a eu un effondrement de la part des salaires dans le PIB.
+      C'est quelque chose qui est généralisé. Si on avait pris d'autres pays, on
+      verrait à peu près les mêmes chiffres. C'est-à-dire qu'en 30 ans — et on peut
+      dire depuis les années 80 — globalement le rapport de force a été défavorable
+      aux salariés, et du coup le capital est mieux rémunéré que le travail.
+  - chunk_index: 36
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 151
+    text: |-
+      Ce qui est intéressant aussi, c'est de voir comment l'évolution s'est faite en
+      France, c'est très particulier. Voyez que l'essentiel de la baisse s'est fait
+      entre 80 et les 90, c'est-à-dire en dix ans, alors que dans les autres pays ça a
+      été beaucoup plus progressif. On a même en 2000 une part des salaires dans la
+      valeur ajoutée qui est vraiment extrêmement faible — en France avait été encore
+      plus faible au Royaume-Uni d'ailleurs. Alors qu'elle n'était pas beaucoup plus
+      faible en Allemagne et aux États-Unis.
+  - chunk_index: 37
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 186
+    text: |-
+      Si on prend le cas de la France, on a ce court — alors vous voyez ce n'est pas
+      le même chiffre, puisque regardez, en 2000 on est à peu près, en 2010 on est à
+      plus de 106 %, alors qu'ici on était à 59 %. Donc ce n'est pas grave, c'est des
+      calculs différents, et ici c'est les comptes nationaux de l'INSEE. Donc nous
+      avons ici des évolutions de la part des salaires dans la valeur ajoutée — ici
+      c'est la société, les sociétés non financières. Donc la différence ici c'est
+      qu'on prend la part des salaires dans le PIB au total, alors qu'ici on prend la
+      part des salaires au sein du secteur des sociétés non financières.
+  - chunk_index: 38
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 246
+    text: |-
+      Quelqu'un dit : merci Reagan et Thatcher. Il n'a pas tort. Les années 80 c'est
+      vraiment les années de basculement de l'économie, ce qu'on appelle l'ère
+      néolibérale. Je ne vais pas vous en parler trop longtemps parce que c'est très
+      très long et très compliqué à comprendre, mais le monde des années 80 change
+      d'ère. Vous dites merci Reagan et Thatcher, on pourrait dire aussi merci Hayek,
+      Friedman, sont des économistes puisque Reagan avait pour conseiller Milton
+      Friedman, Thatcher avait été extrêmement influencée par Friedrich Hayek. Et ce
+      sont effectivement des économistes qui avaient une autre vision de l'action de
+      l'État, qu'on appelle aussi la vision néolibérale. Bon, si vraiment ça vous
+      intéresse, bien sûr vous devez lire le livre que je viens de sortir — il y a un
+      livre consacré au néolibéralisme, le deuxième chapitre qui fait 100 pages, vous
+      avez de quoi lire.
+  - chunk_index: 39
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 101
+    text: |-
+      Sinon concrètement, essayons de voir comment les choses se sont passées, et
+      pourquoi surtout les choses se sont passées en France. En France, on retrouve
+      ici dans ce graphique l'effondrement de la part salariale dans la valeur ajoutée
+      — voyez, on est en 80, on est ici, et en 90 on est là, donc voyez, c'est cette
+      chute-là extrêmement forte.
+  - chunk_index: 40
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 120
+    text: |-
+      Alors le paradoxe, c'est que nous ne sommes pas avec Reagan et Thatcher ici, en
+      France. C'est Mitterrand qui est président entre 81 et 88, et ensuite 95 — mais
+      ici c'est Mitterrand. Il y a un moment de gouvernement de droite quand même,
+      Chirac arrive pour une mini période entre 86 et 88, mais vous voyez, là c'est
+      vraiment quelque chose qui est extrêmement violent, extrêmement brutal, qui est
+      là, qui est assez unique.
+  - chunk_index: 41
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 198
+    text: |-
+      Puisqu'on ne voit pas d'effondrements tels que ces effondrements dans d'autres
+      pays. On a ici un bel effondrement dans les années 90 au Royaume-Uni, mais on
+      est voyez ici à un peu moins de cinq points — là on est quand même à plus de dix
+      points. Donc si on regarde ici — non, pas plus de dix points — on est quasiment
+      à 10 points, mais en tout cas beaucoup plus, 12,1. Donc c'est assez rare. Alors
+      bien sûr je ne connais pas encore tous les pays du monde, peut-être en Italie
+      des choses que j'ignore, mais voilà, on a quand même quelque chose qui est en
+      France en tout cas extrêmement violent, qui est vraiment une rupture importante
+      dans la vie politique et économique du pays.
+  - chunk_index: 42
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 150
+    text: |-
+      Reprenons un peu ce graphique historique. Ici commence en 1949, au début des
+      statistiques de l'INSEE — l'INSEE avant n'existait pas et ne faisait pas de
+      statistiques, donc les premières statistiques qu'on a sur l'économie française,
+      elles sont de 49. Et puis ensuite, voilà, on nage ici jusqu'en 2011, 2010 et
+      2011. On pourrait continuer après, il y a des choses intéressantes qui se
+      passent après, mais bon je n'ai pas remis à jour ce graphique, je le ferai
+      peut-être l'année prochaine.
+  - chunk_index: 43
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 34
+    text: |-
+      Donc la question est : comment les choses ont évolué et pourquoi elles ont
+      évolué comme ça ? Je pense que ça c'est très intéressant.
+  - chunk_index: 44
+    heading_path: Séance 20 jeudi 3 décembre > L'évolution de la part salariale
+    content_token_count: 24
+    text: |-
+      Je vais essayer de vous expliquer ce graphique en détaillant différentes phases
+      avec différentes tendances.
+  - chunk_index: 45
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Première phase : les Trente Glorieuses (1949-1973)'
+    content_token_count: 122
+    text: |-
+      La première tendance, la première courbe de tendance, c'est — on va dire — on
+      commence, alors on met un peu à part 49, c'est un peu particulier, c'est un
+      point un peu bizarre, mais sinon si on part de 1950 et qu'on regarde jusqu'au
+      début des années 70, on est dans la phase des Trente Glorieuses. C'est-à-dire
+      l'après-guerre, une phase dans laquelle la croissance économique française est
+      extrêmement forte.
+  - chunk_index: 46
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Première phase : les Trente Glorieuses (1949-1973)'
+    content_token_count: 211
+    text: |-
+      La France est sans doute un petit miracle de croissance économique dans ces
+      années-là, puisque entre 1950 et on va dire 1972-73 — déjà les premiers chocs
+      pétroliers — donc on n'a pas trente ans, on a 22 ans en réalité. Ici on a une
+      croissance moyenne de 5,4 %, ce qui est considérable. La France n'a jamais connu
+      une telle croissance dans son histoire, y compris pendant l'époque de la
+      révolution industrielle. Et on a non seulement une forte croissance de 5 %, mais
+      en plus on a globalement — quand on regarde ici la part des salaires dans la
+      valeur ajoutée — et bien — alors là aussi avec des hauts et des bas, mais
+      globalement sur la période elle augmente. Ainsi la part des salaires a un trend
+      un peu légèrement positif.
+  - chunk_index: 47
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Première phase : les Trente Glorieuses (1949-1973)'
+    content_token_count: 223
+    text: |-
+      Qu'est-ce que ça signifie concrètement ? Bien, ça signifie que si on a une
+      croissance économique de 5,24 %, on peut considérer que les sociétés — les
+      entreprises — ont aussi une croissance de leur activité de 5,24 % par an — je
+      parle ici en réel, pas en nominal, hors inflation. Et bien si les salaires
+      augmentent — c'est la part salariale qui augmente sur cette période — ça veut
+      dire que les salaires, le pouvoir d'achat des salaires augmentent en moyenne de
+      plus de 5,24 %. Donc là on a un petit trend positif, on peut considérer sans
+      doute que les salaires augmentaient à l'époque de 6 % par an en temps réel,
+      c'est-à-dire en pouvoir d'achat. Évidemment que les gens étaient contents à ce
+      moment-là : chaque année votre pouvoir d'achat augmente de 6 %.
+  - chunk_index: 48
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Première phase : les Trente Glorieuses (1949-1973)'
+    content_token_count: 111
+    text: |-
+      Concrètement, si vous avez une inflation de 3-4 %, vos salaires augmentent en
+      moyenne de 10 % par an. Si on compte une inflation — il y avait une inflation à
+      l'époque supérieure à celle qu'elle est aujourd'hui, mais peut-être 8, 9, 10 %
+      par an — vos salaires donc c'est — enfin c'est considérable. C'est ce qui
+      explique le côté un peu "voilà tout va bien".
+  - chunk_index: 49
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Première phase : les Trente Glorieuses (1949-1973)'
+    content_token_count: 206
+    text: |-
+      On avait par ailleurs aucun chômage, on était en plein emploi, ce qui d'ailleurs
+      explique aussi que les salaires augmentent, parce que les entreprises avaient du
+      mal à embaucher et il fallait verser de bons salaires si on voulait embaucher
+      des gens. C'est aussi une époque très industrielle, où on a une croissance du
+      secteur industriel qui est constante et des emplois industriels qui sont du coup
+      bien rémunérés, parce que ce sont des emplois assez difficiles, et dans lesquels
+      la productivité du travail augmente beaucoup. Ça explique aussi la hausse de la
+      croissance économique, parce que la productivité du travail c'est au cœur de la
+      croissance économique : si tous les individus sont plus productifs, ça veut dire
+      que globalement il y a une croissance économique.
+  - chunk_index: 50
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 133
+    text: |-
+      Après 1973, on a le choc pétrolier qui crée une très forte hausse des prix du
+      pétrole. Alors ça entraîne deux choses. Ça entraîne déjà une régression et
+      accompagne une moindre croissance économique — on a même une part de récession
+      en 74. Mais globalement on a une croissance économique qui, voyez, est quasiment
+      divisée par deux par rapport à la période des Trente Glorieuses. Donc là aussi
+      je suis sur la période totale, donc 2,6 %.
+  - chunk_index: 51
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 165
+    text: |-
+      Et puis on a surtout une période d'inflation. L'inflation à ces moments-là
+      commence à devenir très inquiétante : on arrive à des taux d'inflation à la fin
+      des années 70, début 80, qui sont de plus de 10 % par an. Donc ça veut dire que
+      les prix augmentent de plus de 10 % par an. Et alors les salaires, et bien ils
+      ont augmenté encore plus vite. C'est-à-dire que non seulement ils augmentent
+      pour compenser l'inflation, mais il y avait un pouvoir d'achat supplémentaire
+      qui était accordé aux salariés. Et on le voit ici très bien, parce que la part
+      salariale a augmenté.
+  - chunk_index: 52
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 134
+    text: |-
+      Alors petite réflexion : comment c'est possible que la part salariale augmente —
+      c'est-à-dire que le pouvoir de négociation des salariés en quelque sorte
+      augmente — alors que premièrement on est dans une crise — apparaît une crise en
+      tout cas — mais on a quand même beaucoup moins de croissance qu'auparavant, donc
+      pour les gens c'est la crise — et que le chômage augmente d'un autre côté ? Donc
+      comment c'est possible que les salaires voient leur part augmenter dans la
+      valeur ajoutée ?
+  - chunk_index: 53
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 208
+    text: |-
+      Tout d'abord il faut dire que le chômage augmente mais il n'est pas au niveau
+      d'aujourd'hui. On arrive à la fin à 1 million de chômeurs, ce qui était
+      considérable pour l'époque, mais ce qui aujourd'hui nous fait bien rigoler. Au
+      contraire, on aimerait bien retourner à 1 million de chômeurs. On est plus à
+      plus de 3 millions maintenant. Donc le chômage augmente, mais il est à 6 % — je
+      n'ai pas les chiffres exacts en tête — mais on n'est plus au plein emploi, mais
+      on n'est pas au chômage de masse. On est dans une période de croissance du
+      chômage — en passant c'est les années Giscard, puisqu'on en parle en ce moment,
+      vous savez qu'il est mort, Giscard d'Estaing, apparemment.
+  - chunk_index: 54
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 104
+    text: |-
+      Donc forcément, voilà, ce sont les années 70, qui ne sont pas des mauvaises
+      années du point de vue économique. On a quand même une croissance qui est
+      supérieure à la moyenne de la croissance française, mais comme elle est plus
+      faible qu'auparavant, et bien les gens ont l'impression qu'il s'agit d'une
+      crise. Et donc on a une part salariale qui augmente.
+  - chunk_index: 55
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 265
+    text: |-
+      Alors pourquoi la part salariale augmente et pourquoi les gens ne sont pas très
+      contents malgré tout ? Et bien parce qu'il faut considérer le fait que si la
+      part salariale augmente, c'est parce que les salaires continuent d'augmenter
+      très fortement. Et s'ils continuent d'augmenter, c'est parce que le rapport de
+      force au sein des entreprises industrielles en particulier reste assez favorable
+      aux travailleurs, parce qu'il y a des syndicats puissants qui avaient négocié
+      pendant la période des Trente Glorieuses d'être protégés de l'inflation. Ce qui
+      veut dire qu'on a toujours une progression salariale qui est au minimum celle de
+      l'inflation. Et à partir de cela, on va négocier des hausses salariales. Et en
+      fait ce qui se passe dans les années 70, c'est que le système de salaire est
+      tellement bien verrouillé que les salariés ont continué d'avoir des
+      augmentations — certains plus faibles qu'auparavant — mais qui étaient un peu
+      calquées sur la croissance d'avant.
+  - chunk_index: 56
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 158
+    text: |-
+      Là c'est un truc qu'on voit souvent en économie : les habitudes sont difficiles
+      à changer. Les gens avaient l'habitude d'avoir — tout à l'heure on a vu — un
+      pouvoir d'achat qui augmentait de 6 % par an. Maintenant c'est la crise,
+      difficile de leur donner un pouvoir d'achat qui n'augmente que de 2 % par an.
+      Donc on leur donne un pouvoir d'achat qui augmente de 4 % par an, ce qui est
+      plus faible qu'auparavant, mais vous voyez bien que c'est nettement supérieur
+      aux niveaux de croissance de l'activité économique.
+  - chunk_index: 57
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 144
+    text: |-
+      Donc la part des salaires dans la valeur ajoutée — ici la valeur ajoutée
+      augmente beaucoup moins, elle est divisée par deux. Les salaires eux augmentent
+      un peu moins. Donc logiquement, à une fraction — un numérateur sur dénominateur
+      — le numérateur baisse un peu, le dénominateur baisse beaucoup, forcément la
+      fraction va augmenter. Donc ce qui se passe en fait, c'est que les salaires sont
+      un peu rigides, ils ne baissent pas autant que l'activité, donc mécaniquement la
+      part des salaires dans la valeur ajoutée augmente.
+  - chunk_index: 58
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 148
+    text: |-
+      Et voyez comme ça on arrive à quelque chose qui est un peu bizarre à comprendre
+      aujourd'hui : c'est que les salariés sont moins bien lotis parce qu'ils ont plus
+      les 6 % d'augmentation d'avant, ils ont maintenant les 4 % d'augmentation. Mais
+      en même temps les entreprises sont encore moins bien loties parce que leur
+      chiffre d'affaires n'augmente pas autant que les salaires. Donc la part des
+      salaires dans la valeur ajoutée augmente, et elle augmente beaucoup. On arrive
+      jusqu'ici, voyez, jusqu'à 75 %, ce qui est vraiment considérable.
+  - chunk_index: 59
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 146
+    text: |-
+      Ce qui pose plein de problèmes aux entreprises, parce que ça veut dire qu'elles
+      n'ont plus assez de profits. Et comme elles ne font plus assez de profits, elles
+      n'arrivent plus à investir, parce que les profits, pour beaucoup, la majorité
+      des profits, sont réinvestis — les profits sont mis en réserve et réinvestis. Et
+      quand on arrive à 25 % de la valeur ajoutée qui rémunère le profit, qu'il faut
+      évidemment entretenir le capital fixe qui s'use — bien sûr donc en racheter du
+      nouveau — mais aussi investir, ça devient très compliqué.
+  - chunk_index: 60
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 186
+    text: |-
+      Et donc comme elles n'arrivent pas à investir, comme elles ont des salaires qui
+      augmentent, des coûts salariaux qui augmentent de plus en plus, qu'est-ce
+      qu'elles font ? Et bien elles augmentent leurs prix. Et la période de
+      stagflation est en grande partie liée à cela. C'est-à-dire que l'inflation, la
+      croissance importante de l'inflation, est en grande partie liée au fait que les
+      entreprises ne sont plus assez rentables et donc qu'elles organisent — il y a de
+      l'inflation qui est en quelque sorte la conséquence — elles essaient d'augmenter
+      leurs prix pour éviter de faire faillite, et tous les ans elles font ça. Donc il
+      y a là une forme d'inflation qui s'emballe.
+  - chunk_index: 61
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Deuxième phase : les chocs pétroliers et la stagflation (1973-1981)'
+    content_token_count: 62
+    text: |-
+      Alors on n'arrive pas à des moments d'hyperinflation comme on a pu connaître en
+      Allemagne dans les années début des années 20, mais quand on dépasse les 10 %
+      d'inflation, ça commence à faire un peu peur à tout le monde.
+  - chunk_index: 62
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 110
+    text: |-
+      Et donc Mitterrand arrive au pouvoir en 81. Alors il commence — il arrive au
+      pouvoir en 81 — sur le graphique voyez c'est presque cet endroit-là. Donc ils
+      commencent par faire des augmentations salariales, par une politique de gauche,
+      un petit peu de relance. Mais tout ça ne change pas grand-chose et l'inflation
+      continue d'augmenter. Et donc à un moment il est obligé de dévaluer le franc.
+  - chunk_index: 63
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 194
+    text: |-
+      Parce que le franc était attaché — il y avait le Système Monétaire Européen à
+      l'époque, ou le serpent monétaire européen, je ne sais plus — en tout cas il y
+      avait les monnaies européennes qui étaient liées les unes aux autres. Quand on a
+      une forte inflation dans un pays, eh bien on perd en compétitivité-prix, parce
+      que nos produits sont de plus en plus chers, donc on a de plus en plus de mal à
+      exporter. Quand en plus on mène une politique de relance, on a tendance à
+      augmenter les importations. Et donc la balance commerciale française était
+      déficitaire et se creusait davantage. Et l'industrie avait du mal à financer ses
+      investissements parce que le taux de profit était trop faible.
+  - chunk_index: 64
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 274
+    text: |-
+      Et donc en 83, en fait dès la fin 82, François Mitterrand décide d'arrêter de
+      faire des dévaluations monétaires pour corriger les effets de prix de
+      l'inflation, et de faire comme l'Allemagne, c'est-à-dire de mener une politique
+      qu'on a appelée à l'époque de rigueur. Et en fait cette politique de rigueur, et
+      bien elle a consisté à faire baisser les salaires pour retrouver de la
+      profitabilité pour les entreprises. Et c'est extrêmement violent, parce qu'on
+      commence à faire baisser — alors ça veut dire que vous avez à cette époque-là
+      les salaires des fonctionnaires qui augmentent moins que la croissance et même
+      moins que l'inflation à ce moment-là. On interdit aux entreprises d'indexer les
+      hausses salariales sur les prix pour casser le rythme de l'inflation. Donc les
+      entreprises commencent à voir beaucoup de chômeurs, donc du coup le rapport de
+      force aussi change : maintenant c'est les employeurs qui sont en position de
+      force, il y a des salariés qui sont beaucoup plus souvent au chômage.
+  - chunk_index: 65
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 171
+    text: |-
+      Donc voilà, c'est une phase, c'est la phase néolibérale en quelque sorte. C'est
+      la phase où on tourne un peu le dos au socialisme du point de vue du Parti
+      Socialiste qui à l'époque est au pouvoir, et qui à l'époque est vraiment
+      socialiste — il veut collectiviser les moyens de production, il a commencé par
+      nationaliser toutes les banques, donc il y a vraiment une politique très très à
+      gauche on peut dire, mais qui va durer un an et demi. Et puis après, bing, on va
+      faire une politique que la droite n'aurait sans doute pas reniée. Ce qui
+      entraîne un effondrement de la part salariale.
+  - chunk_index: 66
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 99
+    text: |-
+      Alors on va aussi libéraliser les mouvements de capitaux, ouvrir les frontières,
+      enfin signer l'Acte unique en 86 dans l'Union européenne, qui marque vraiment
+      l'entrée dans le néolibéralisme de l'Union européenne dans son ensemble. Donc si
+      vous voulez, tout change en fait. La manière dont l'économie fonctionne change
+      profondément au cours des années 80.
+  - chunk_index: 67
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Troisième phase : le tournant de la rigueur (1981-1988)'
+    content_token_count: 96
+    text: |-
+      Les conséquences sur la croissance ne sont pas évidentes, parce que globalement
+      cette politique néolibérale fait encore baisser le taux de croissance — mais le
+      taux de croissance moyen qui était de 2,6 % à 3, 3 %, on arrive ici à la fin des
+      années 80, 88-89 — et hélas en fait, dire que le processus est achevé.
+  - chunk_index: 68
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Quatrième phase : l''économie mondialisée (1988-2008)'
+    content_token_count: 234
+    text: |-
+      Et on est dans une phase IV : l'économie mondialisée. L'économie mondialisée,
+      c'est une économie ouverte. Maintenant il n'y a quasiment plus de droits de
+      douane, c'est la fin du communisme aussi, donc c'est la création de l'OMC en 95,
+      l'Organisation Mondiale du Commerce. C'est une concurrence très forte avec les
+      pays asiatiques qui eux vont se développer davantage. Et pour conséquence, tout
+      cela c'est un succès, cela a une seule conséquence : c'est une pression toujours
+      à la baisse des salaires. C'est-à-dire que concrètement il faut baisser le coût
+      du travail, il faut être plus compétitif vis-à-vis de la Chine, d'autres pays
+      émergents, ou même des pays de l'Est qui arrivent en 2004 dans l'Union
+      européenne et qui vont intensifier la concurrence interne dans l'Union
+      européenne.
+  - chunk_index: 69
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Quatrième phase : l''économie mondialisée (1988-2008)'
+    content_token_count: 84
+    text: |-
+      Et donc il est impossible d'augmenter les salaires. Donc les salaires — la part
+      salariale continue de baisser globalement sur du moyen terme, à un rythme plus
+      faible qu'avant. La croissance continue de baisser mais elle reste quand même
+      supérieure à 2 % en moyenne, ce qui n'est pas si mal que ça.
+  - chunk_index: 70
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 111
+    text: |-
+      Et puis après, qu'est-ce qui se passe ? Je n'ai pas mis — voilà j'ai pas mis
+      parce qu'il y a une cinquième phase depuis 2008, parce que là on est — on est à
+      la crise. Et là vous voyez que la part salariale remonte. Si on avait continué,
+      on aurait vu que ça aurait augmenté pas mal. Donc j'essaierai de prendre les
+      derniers chiffres l'année prochaine.
+  - chunk_index: 71
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 223
+    text: |-
+      Et cette part salariale qui augmente, en fait c'est pour une mauvaise raison.
+      Que se passe-t-il ? Ce qui se passe en 2008, c'est un effondrement de la
+      croissance économique, une croissance qui tombe à zéro. Là on a vraiment une
+      croissance quasiment égale à 0 pour la France entre 2008 et aujourd'hui. Alors
+      je ne raconte même pas ce qui va se passer entre — du moins en 2020, c'est un
+      effondrement de 10 % la croissance au minimum. Mais si on prend simplement même
+      avant 2020, on avait une croissance extrêmement faible. On n'était plus du tout
+      sur 2 % de croissance. On a eu des moments de récession en 2009, récession de —
+      je crois — plus de 2 %, une nouvelle récession faible en 2011. Bref,
+      concrètement quasiment une croissance zéro.
+  - chunk_index: 72
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 151
+    text: |-
+      Et cette croissance zéro, elle est en fait insupportable. Les salaires ne
+      peuvent pas baisser davantage, l'emploi doit quelque part augmenter. Donc
+      qu'est-ce qui se passe ? Il y a une légère augmentation de la part salariale,
+      qui est en grande partie surtout dans les moments de crise. En 2009 par exemple,
+      récession très forte, les entreprises licencient mais elles ne licencient pas
+      tout ce qu'elles pourraient licencier. Donc elles perdent — elles en profitent
+      aussi — et comme elles perdent en profit, forcément, ce qui fait que la part des
+      salaires va augmenter.
+  - chunk_index: 73
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 214
+    text: |-
+      Bon, ça vaudrait le coup dans quelques années d'analyser ce qui va se passer
+      après — parce que vraiment on rentre dans un autre monde, plein de choses
+      changent profondément. Cette crise est extrêmement importante. Concrètement on
+      arrive dans une période à partir de 2013-2014 de taux d'intérêt négatifs, ce qui
+      est un truc hallucinant quand on y pense. Grâce aux différentes politiques
+      monétaires on arrive dans une période de — voilà — de croissance zéro, là aussi
+      c'est historique, on ne sait pas trop comment gérer d'ailleurs. Et c'est la
+      France comme ça, mais c'est aussi d'autres pays. Et puis alors la crise du
+      Covid, là, ça entraîne là aussi quelque chose d'assez unique et d'assez
+      difficile en tout cas pour l'instant à analyser.
+  - chunk_index: 74
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 203
+    text: |-
+      Donc on verra. Moi en tant qu'économiste ça m'intéresse beaucoup : c'est ce qui
+      va se passer dans les dix prochaines années, parce que je pense que le monde
+      dans dix ans sera totalement différent du monde d'aujourd'hui et encore plus
+      différent du monde il y a 20 ans. Donc peut-être que cette phase IV est
+      totalement terminée et que maintenant on va rentrer sur une autre forme
+      d'économie. Peut-être même que c'est la fin de la mondialisation telle qu'on la
+      connaît, parce que ça aussi c'est quelque chose d'assez structurel : les
+      échanges mondiaux n'augmentent plus beaucoup. Peut-être que c'est aussi la fin
+      de la période néolibérale qui s'est ouverte dans les années 80. Ça c'est ce que
+      je pense aussi.
+  - chunk_index: 75
+    heading_path: 'Séance 20 jeudi 3 décembre > L''évolution de la part salariale > Cinquième phase : la crise de 2008 et après'
+    content_token_count: 50
+    text: |-
+      Voilà, mais savoir que des choses se terminent c'est une chose, savoir ce qui va
+      arriver c'en est une autre, et pour le coup je n'ai pas trop d'idées sur ce qui
+      va arriver.
+  - chunk_index: 76
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 44
+    text: |-
+      Alors ça c'était pour la répartition primaire, notamment vue comme une
+      répartition entre capital et travail. Ce qui est intéressant aussi, c'est
+      d'analyser la répartition secondaire.
+  - chunk_index: 77
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 244
+    text: |-
+      Alors excusez-moi, je réponds à la question intéressante : en quoi le Covid va
+      analyser la courbe ? Combien de fois le Covid — déjà le Covid fait s'effondrer
+      la croissance économique, donc s'effondrer la valeur ajoutée. Si on continue
+      d'avoir des salaires alors que la croissance, la valeur ajoutée s'est effondrée,
+      ça va faire augmenter la part salariale, ça c'est certain. En 2020 on a vu
+      exploser la part salariale aussi parce que les profits des entreprises vont
+      s'effondrer. Voilà. Donc chaque fois qu'il y a période de crise, il y a une
+      hausse de la part salariale qui est liée au fait que les salaires baissent moins
+      que l'activité économique. Donc déjà il y a ça. Puis après il y a d'autres
+      choses qui vont changer — les rapports de force ont changé. Enfin après je ne
+      sais pas, moi ce qui va se passer je n'ose pas le dire.
+  - chunk_index: 78
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 131
+    text: |-
+      Donc la répartition secondaire, c'est donc la manière dont les richesses sont
+      réparties différemment, ou redistribuées, par l'intermédiaire de l'État. Ici je
+      vous montre une étude, une vieille étude de 2003, mais il n'existe plus
+      d'équivalent depuis — même si dans le TD 17 vous trouverez des éléments, une
+      étude — donc cette étude de septembre 2003 que j'ai mise dans le TD 17, où il y
+      a quelques éléments qui correspondent un peu à cela.
+  - chunk_index: 79
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 118
+    text: |-
+      Cette étude montre — voilà ce petit graphique que je vais maintenant vous
+      présenter, vous expliquer. Alors souvenez-vous de quoi on parle quand on parle
+      de répartition secondaire. Et bien on parle de la manière dont l'État
+      redistribue la richesse, et la redistribue de deux manières : d'abord en
+      prélevant des impôts, ensuite en allouant des allocations en espèces, et enfin
+      en allouant des allocations en nature.
+  - chunk_index: 80
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 109
+    text: |-
+      Les allocations en espèces, c'est l'argent qu'il donne aux ménages en fonction
+      de leur situation. Bien sûr la principale allocation en espèces que reçoivent
+      les ménages, ce sont les retraites. C'est bien plus important que le RSA ou des
+      allocations familiales, la prime de rentrée scolaire — tout ça ne compte
+      quasiment rien dans les dépenses en espèces. Le gros volume, ce sont les
+      retraites.
+  - chunk_index: 81
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 179
+    text: |-
+      Les allocations en nature représentent les services publics individualisables
+      versés par les administrations publiques. Souvenez-vous, on a deux formes de
+      consommation finale des administrations publiques : les consommations finales
+      collectives, qui renvoient aux services publics collectifs — justice, armée,
+      routes, etc. — et puis les services publics individualisables, la consommation
+      finale individuelle des administrations publiques, qui correspond à ce qui est
+      versé à des individus qu'on peut identifier sous forme notamment de santé,
+      d'éducation. Globalement aujourd'hui c'est surtout la santé, l'éducation, il y a
+      aussi le logement, il y a les sports, il y a plein de petits trucs aussi comme
+      ça, mais c'est surtout la santé et l'éducation.
+  - chunk_index: 82
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 162
+    text: |-
+      Alors ce graphique maintenant — alors là où il est intéressant, c'est qu'il
+      montre, il répartit la population en 5 quintiles, c'est-à-dire en cinq tranches
+      de 20 % en fonction de leurs revenus. Donc le quintile 1, ce sont les plus
+      pauvres, les 20 % les plus pauvres. Le quintile 2, ce sont les 20 % un peu
+      supérieurs. Le quintile 3, c'est la portion du milieu. Le quintile 4, ce sont
+      les 20 % qui sont au-dessus du quintile du milieu. Et puis le quintile 5, ce
+      sont les 20 % les plus riches.
+  - chunk_index: 83
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 159
+    text: |-
+      Et donc on regarde ici dans ce graphique combien est prélevé — combien chaque
+      quintile est prélevé en pourcentage de son revenu primaire. Donc on regarde ici
+      les revenus primaires, ce qui existe avant impôts, on regarde ce qu'on a prélevé
+      en termes de prélèvements directs. Donc c'est l'impôt sur le revenu, mais ce
+      n'est pas que l'impôt sur le revenu, c'est aussi l'ensemble des cotisations
+      sociales et tous les prélèvements directs, par exemple la taxe d'habitation,
+      c'est aussi un prélèvement direct qui pèse sur les ménages.
+  - chunk_index: 84
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 176
+    text: |-
+      Donc en rouge — alors qu'est-ce qu'on constate ? Déjà, il y a une faible
+      progressivité de l'impôt, de la fiscalité directe, puisqu'il y a en fait assez
+      peu de différence entre ce qui est prélevé sur les 20 % les plus pauvres en
+      proportion de leurs revenus — bien sûr — et ce qui est prélevé en proportion de
+      leur revenu sur les 20 % les plus riches. Alors c'est un peu plus bas ici que
+      là, mais voyez, c'est presque pareil. On est entre 30 et 40 % tout le temps, et
+      même j'ai envie de dire entre 35 et 40 %. Donc ça ne fait pas beaucoup d'écart
+      entre les deux.
+  - chunk_index: 85
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 173
+    text: |-
+      Alors bien sûr, ça ne veut pas dire que les plus riches payent autant que les
+      pauvres, ça veut dire que les impôts qu'ils payent représentent la même
+      proportion de leurs revenus que les impôts que payent les catégories les plus
+      pauvres. Donc faible progressivité de l'impôt. Ça veut dire que le fait d'être
+      plus riche ne fait pas payer en proportion beaucoup plus d'impôts que le fait
+      d'être pauvre. C'est une forme d'injustice. Concrètement, on considère qu'un
+      impôt juste devrait être un impôt progressif, qui prélève davantage aux plus
+      riches en proportion de leurs revenus qu'aux plus pauvres.
+  - chunk_index: 86
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 255
+    text: |-
+      Ensuite quand on regarde ce que les administrations publiques donnent aux
+      ménages, alors là il y a une progressivité un peu supérieure, mais là aussi
+      limitée. Tout d'abord la question se pose de savoir est-ce que les prestations,
+      les transferts en espèces corrigent beaucoup les inégalités ? Alors oui, elles
+      les corrigent un peu — c'est la courbe grise, l'histogramme gris qu'on voit ici
+      — et on constate que pour les 20 % les plus pauvres, les allocations en espèces
+      représentent plus de 70 % des revenus primaires. Donc c'est important. Ça veut
+      dire que si vous avez — je ne sais pas — 100 de revenus primaires, et bien vous
+      touchez 70 en allocations en espèces. Donc si par exemple vous bénéficiez de —
+      si on vous donne 70, alors moins les 35 ici qu'on vous a prélevés — donc ça fait
+      voilà, au final vous passez de 100 à 130, donc vous avez quelque chose en plus.
+  - chunk_index: 87
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 283
+    text: |-
+      On verra d'ailleurs que c'est le seul — tous les autres, quand on regarde ce
+      qu'ils payent en impôt et ce qu'ils reçoivent en allocation, ils reçoivent moins
+      en allocation que ce qu'ils payent en impôt. Donc tout le monde paye en quelque
+      sorte, et ça c'est un peu normal, un peu plus d'impôts qu'il ne reçoit
+      d'allocations en espèces. Alors après, la progressivité des allocations en
+      espèces est moins vraie, puisque globalement — bon, ce n'est pas beaucoup de
+      différence entre ce que les uns et les autres reçoivent — même que le quintile 5
+      reçoit davantage que le quintile 4 en termes de prestations en espèces. Bon, et
+      bien ça c'est l'effet retraite. C'est-à-dire que les retraites sont
+      proportionnées au revenu, donc plus vous avez de revenus, plus vous touchez de
+      retraite. Plus vous avez eu de revenus, plus vous touchez des retraites. Et les
+      plus riches touchent davantage de retraites que les plus pauvres et même que les
+      classes moyennes.
+  - chunk_index: 88
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 125
+    text: |-
+      Donc voilà, donc on a ici des allocations en espèces qui en fait ne sont pas
+      tellement redistributives — on va dire — dans la moitié supérieure de la
+      population. Elles sont surtout redistributives — pardon — elles corrigent donc
+      beaucoup les inégalités — excusez-moi — elles corrigent donc beaucoup les
+      inégalités, surtout chez les plus pauvres en fait. Elles corrigent la grande
+      pauvreté, mais le reste ne change pas beaucoup aux inégalités.
+  - chunk_index: 89
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 228
+    text: |-
+      Et puis enfin vous avez les transferts sociaux en nature. Les transferts sociaux
+      en nature, c'est donc les services publics individualisables dont je vous ai
+      parlé tout à l'heure. Alors là c'est très intéressant, parce qu'on constate
+      qu'ils sont beaucoup plus redistributifs que tout le reste. C'est-à-dire que
+      quand vous êtes riche, ça correspond à moins 10 % de votre revenu — alors on
+      parle ici des services publics d'éducation, de santé, etc. — quand vous êtes
+      pauvre, c'est plus de 90 % de votre revenu, quasiment. C'est comme si ça
+      doublait — comme on appelle ça — le RDB, le revenu disponible brut. Quand on
+      rajoute les allocations en nature, les transferts sociaux en nature, on a le
+      revenu disponible brut ajusté. Et bien le revenu disponible brut ajusté, ils
+      doublent en quelque sorte leurs revenus primaires.
+  - chunk_index: 90
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 235
+    text: |-
+      Donc il y a énormément d'effets de transfert vers les plus pauvres. Et voyez que
+      à la fin les effets de transfert sont beaucoup plus faibles. Alors ça, cette
+      réflexion est assez intéressante, elle démontre une chose aussi : c'est que ce
+      qui explique cette forte progressivité, paradoxalement, c'est qu'on donne un peu
+      toujours la même chose à tout le monde. Si vous donnez à tout le monde, riches
+      et pauvres, je ne sais pas, 10 000 euros en prestations, et bien ceux qui ont
+      peu de revenus, ça fera beaucoup d'argent. Si vous avez 10 000 euros de revenus
+      et qu'on vous donne 10 000 euros de plus, ça fait 20 000 euros, c'est beaucoup,
+      ça double votre revenu. Si vous avez 100 000 euros de revenus et qu'on vous
+      donne 10 000 euros, et bien là ça ne rajoute que 10 % à votre revenu.
+  - chunk_index: 91
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 205
+    text: |-
+      L'une des raisons de la progressivité des transferts en nature, c'est parce que
+      l'essentiel de ces transferts en nature sont en fait fixes, c'est-à-dire qu'ils
+      dépendent des besoins. Concrètement, si vous avez beaucoup d'enfants, et bien
+      vous aurez beaucoup de transferts en termes d'éducation. Si vous n'avez pas
+      d'enfants, bien vous n'avez pas de transferts en termes d'éducation. Si vous
+      êtes malade ou vieux, vous avez plus de transferts en termes de santé. Voilà.
+      Alors il y a des petites choses qui sont spécifiques aux ménages les plus
+      pauvres, notamment le logement, les logements sociaux, ces transferts en nature
+      qui correspondent — enfin qui sont réservés aux plus pauvres — mais c'est assez
+      large quand même.
+  - chunk_index: 92
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 291
+    text: |-
+      Alors la question : est-ce que c'est toujours pareil aujourd'hui ? Oui, ça n'a
+      pas beaucoup changé. Et je vous renvoie à la lecture du TD 17, d'un texte de
+      l'INSEE, si vous l'avez à étudier, lisez-le, si vous l'avez étudié, relisez-le,
+      parce que c'est — il met aussi l'accent sur l'importance des transferts en
+      nature. Donc vous avez ici des transferts en nature qui sont très progressifs du
+      fait qu'ils sont constants et que les revenus eux augmentent. Ce qui veut dire
+      qu'ils représentent de moins en moins dans les revenus. Mais ça veut dire aussi
+      une chose qui pour moi est importante, c'est que contrairement à l'idée qu'on se
+      fait du rôle de l'État dans l'économie, ce qui corrige le plus les inégalités,
+      c'est ces transferts en nature, c'est la production non marchande. Et voyez que
+      très souvent dans les discours politiques on dit : "ah, si on veut corriger les
+      inégalités, il faut transférer des allocations". Moi je pense que si on veut
+      corriger le plus les inégalités, il faut améliorer les services publics.
+  - chunk_index: 93
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 92
+    text: |-
+      Et bien sûr je le dis parce que je suis prof et serviteur de l'État et des
+      services publics, mais je le dis aussi parce que je me repose ici — vous voyez —
+      sur une analyse objective. Voilà, après on peut dire qu'on s'en fiche de
+      corriger les inégalités, mais si on pense que c'est important, c'est beaucoup
+      plus efficace comme cela.
+  - chunk_index: 94
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 199
+    text: |-
+      Dans le TD 17 vous verrez qu'il est précisé que lorsqu'on prend en compte les
+      services publics distribués aux ménages en nature, le rapport entre le premier
+      quintile et le cinquième quintile passe de 4,4 à 3. C'est-à-dire qu'on corrige
+      beaucoup les écarts de revenus. Ce qui est terrible dans cette histoire, c'est
+      que les gens ne se rendent pas forcément compte de l'importance des services
+      publics, parce que ce sont des choses qu'ils n'achètent pas. Les gens se rendent
+      compte de l'argent qu'ils ont sur leur compte en banque, c'est quelque chose
+      qu'ils peuvent utiliser, qu'ils maîtrisent, mais ce que l'État leur fournit en
+      termes de services publics, ils ne le prennent pas beaucoup en compte.
+  - chunk_index: 95
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 192
+    text: |-
+      Et bon, si je vous dis ça, c'est parce que quand — la dernière campagne
+      présidentielle — j'entendais tout le monde, Fillon, Macron et d'autres, dire :
+      "mon objectif c'est de diminuer le nombre de fonctionnaires dans le pays". Il
+      faut bien comprendre que diminuer le nombre de fonctionnaires, ça veut dire
+      forcément dégrader les services publics. Parce que que ce soit police, justice,
+      éducation, santé et autres, on a vu comment dans les hôpitaux on a diminué les
+      postes, les hôpitaux, ça veut dire dégradation des services quoi qu'il arrive.
+      Et je pense que c'est vraiment le truc, la chose sur laquelle on a beaucoup
+      dégradé, qui engendre bien en fait finalement une croissance des inégalités.
+  - chunk_index: 96
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 67
+    text: |-
+      Alors je vais lire vos questions — vous êtes très bavards aujourd'hui. Je ne
+      peux pas lire toutes les questions trop vite et puis je peux continuer mon
+      cours. Mais ce que je ferai cette fois, une pause, et puis je lirai les
+      questions tout à l'heure.
+  - chunk_index: 97
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 150
+    text: |-
+      Bon alors voilà, donc ça reprend un peu le diapo tout à l'heure. Donc les
+      quintiles — alors voilà, on a ici les chiffres, les chiffres un peu plus précis
+      qui sont dans le rapport. D'ailleurs le rapport, je vais vous le mettre — et
+      voilà, il est là, et il est de l'INSEE. On a aussi un texte intéressant "Les
+      classes moyennes étranglées par l'impôt" qui est amusant, je vous invite à le
+      lire. Mais l'été de — enfin voilà — le lien marche encore, vous pouvez y aller.
+  - chunk_index: 98
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 398
+    text: |-
+      Alors ce qu'il dit dans cette étude, concrètement, sur les chiffres : les impôts
+      directs, les cotisations sociales — voilà, c'est très stable. Donc on est à 37 %
+      pour le premier quintile, à 41 % de gain — de plus de 40 % — pour le 5e
+      quintile. Notons que dans ces impôts directs on n'a pas la TVA, c'est-à-dire la
+      taxe sur la consommation. Or les taxes sur la consommation sont régressives,
+      c'est-à-dire qu'elles touchent davantage les pauvres que les riches.
+      Souvenez-vous, parce que la propension moyenne à consommer des pauvres est plus
+      élevée que la propension moyenne à consommer des riches. On l'a déjà vu
+      plusieurs fois. Donc ça veut dire que si vous consommez 100 % de votre revenu,
+      vous êtes taxé sur 100 % de votre revenu en termes de taxes à la consommation.
+      Alors que si vous consommez que 50 % de votre revenu, du fait vous ne pouvez
+      être taxé qu'à 50 % de votre revenu. Donc si vous avez une TVA de 20 % qui pèse
+      sur 100 % du revenu des plus pauvres, c'est-à-dire que les plus pauvres ils vont
+      payer 20 % de leurs revenus en termes de TVA. Alors que la même taxe de 20 % qui
+      va être prélevée sur la consommation des plus riches, qui correspond qu'à 50 %
+      de leurs revenus, ça veut dire qu'ils vont payer eux que 10 % de leurs revenus
+      en termes de TVA.
+  - chunk_index: 99
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 166
+    text: |-
+      Donc là on a typiquement ce qu'on appelle un impôt régressif, un impôt qui taxe
+      en proportion plus les pauvres que les riches. Et bien ce caractère régressif
+      n'est pas pris en compte dans l'étude que je viens de vous dire. Vous voyez, là
+      aussi quand on dit "on va baisser l'impôt sur le revenu et puis on va baisser
+      les impôts sur le capital, sur le revenu du capital, et en échange peut-être
+      qu'on augmentera la TVA" — vous allez voir que très bientôt on va vous dire
+      qu'il faut augmenter la TVA — on crée une politique fiscale qui en fait est
+      inégalitaire.
+  - chunk_index: 100
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 331
+    text: |-
+      Prestations en espèces : voilà, 71 %. Donc ça c'est les chiffres précis du
+      revenu des ménages les plus modestes, contre 23 % des ménages les plus aisés.
+      Alors c'est vrai qu'il s'agit de chiffres vieux — on parle ici de 2003, on est
+      en 2020, il y a 17 ans — donc ces chiffres pas besoin de connaître par cœur
+      parce qu'ils ne sont plus adaptés à l'économie telle qu'elle est aujourd'hui.
+      Mais en fait si on refaisait évaluer aujourd'hui la même chose, faire la même
+      étude aujourd'hui, ça serait pire concrètement. Parce que la fiscalité n'est pas
+      devenue plus progressive, pas du tout. Parce que les transferts en nature ont
+      baissé, la valeur des transferts en nature a baissé, notamment dans toute
+      l'éducation. Souvenez-vous, ça aussi on l'a écrit aussi dans le TD 17 et on l'a
+      vu aussi sur la consommation effective dans le TD 6. Là vous voyez les dépenses
+      d'éducation en baisse. Regardez le TD 6, vous avez la consommation effective des
+      administrations publiques et vous voyez — regardez — alors la santé a progressé,
+      mais parce que les coûts de la santé sont plus élevés, mais l'éducation ça a
+      régressé.
+  - chunk_index: 101
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 442
+    text: |-
+      Les prestations en espèces — voilà, représentent 71 % des revenus des ménages
+      contre 23 % pour les aisés. Alors c'est ce que j'ai dit, principalement sous
+      forme de retraite, ce qui est vrai. Les transferts en nature : 230 milliards
+      d'euros en 2003, soit 9 000 euros par ménage en 2003. Donc c'est il y a quelque
+      temps, aujourd'hui c'est normalement plus à cause de l'inflation etc. Et ces
+      voix-là essentiellement donc la santé — et ça a sans doute augmenté en
+      proportion maintenant — la santé, est-ce que les fonds santé ont beaucoup
+      augmenté — l'éducation 33 %, le sport et la culture 7 %. Voilà, il y a quelques
+      autres chiffres dans l'étude de l'INSEE. Et ça représente — les transferts en
+      nature représentent 43 % de la consommation effective des plus modestes. Donc
+      c'est quasiment la moitié de la consommation effective, c'est absolument
+      considérable. Et vous voyez, certes ils reçoivent un peu plus que leur part,
+      mais pas beaucoup plus. Les plus modestes reçoivent des transferts en nature
+      l'équivalent de 25 % — un quart des transferts en nature sont réservés aux 20 %
+      les plus riches. Vous voyez bien, s'ils avaient exactement leur part, puisqu'ils
+      sont 20 % de la population, ils recevraient 20 % des transferts en nature. Ils
+      reçoivent un peu plus que leur part puisqu'ils reçoivent 25 %. Ce n'est pas
+      beaucoup beaucoup plus. Donc c'est pour ça que je vous disais que le caractère
+      redistributif des transferts en nature est principalement dû au fait qu'on donne
+      quasiment à tout le monde la même chose.
+  - chunk_index: 102
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 174
+    text: |-
+      Alors ce qui fait qu'on en donne un peu plus aux pauvres, d'ailleurs, c'est
+      qu'en général les pauvres ils ont plus d'enfants. Je veux dire par là qu'on
+      calcule les quintiles par rapport au nombre de personnes dans le foyer.
+      C'est-à-dire que si vous avez deux enfants et que vous êtes tout seul, par
+      exemple, votre revenu est divisé par trois — pas par deux — divisé par trois.
+      Donc du coup vous allez forcément être dans les plus pauvres. Et comme vous avez
+      des enfants, logiquement vous avez aussi plus de transferts en nature, notamment
+      sous forme d'éducation, voire aussi un peu sous forme de santé, parce que les
+      enfants aussi tombent malades.
+  - chunk_index: 103
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 323
+    text: |-
+      Voilà, je vous ai dit à peu près tout ce que je voulais vous dire. Donc cette
+      présentation est complémentaire du TD 8 et du TD 17, du texte du TD, parce que
+      c'est — il a l'avantage d'être récent et de dire un peu la même chose que
+      celui-là, mais ils ne présentent pas comme ça. Alors voilà, je voulais aussi
+      vous montrer ça comme ça, et vous dire en conclusion que ça reste vrai
+      globalement. L'analyse de 2003 de l'économie française de 2003 reste vraie
+      aujourd'hui, malgré le temps qui a passé, parce qu'on n'a pas eu de changements
+      profonds ni dans la logique des services publics, ni dans la logique des
+      prestations sociales, ni dans la logique des prélèvements. Ça reste toujours à
+      peu près pareil. L'impôt n'est pas devenu plus progressif. On n'a pas multiplié
+      les allocations en espèces sur les salaires les plus faibles. On n'a pas diminué
+      les retraites des plus riches, pas vraiment. Et on n'a pas non plus changé les
+      distributions en nature. Et à mon avis, si ça évolue, ça a plutôt évolué dans le
+      mauvais sens, c'est-à-dire avec un peu plus d'inégalités.
+  - chunk_index: 104
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 25
+    text: |-
+      Alors écoutez, avant de faire ça je vais lire vos questions pour voir si je peux
+      y répondre.
+  - chunk_index: 105
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 119
+    text: |-
+      Alors je vous dis : je pense pas qu'entre 2000 et 2010 on a la plus faible
+      baisse, même une hausse en France, parce que vous parlez d'effondrement — c'est
+      dû à la crise. Oui, l'effondrement de la part salariale — non, non —
+      l'effondrement — la crise de 2008 a entraîné une hausse, enfin, de la part
+      salariale, c'est plutôt une baisse des profits.
+  - chunk_index: 106
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 131
+    text: |-
+      "J'aimerais poser des questions : les impôts pour toutes les classes sociales
+      sont identiques actuellement en France ?" Et bien oui, à peu près. C'est-à-dire
+      que en fait c'est ce que démontre un peu le graphique. Alors pas tout à fait,
+      puisque 41 % représente 41 % du revenu primaire pour les plus riches et 35 %
+      pour les plus pauvres, ou 37 % — par an — pour les plus pauvres, mais voilà
+      c'est la proportion, ce n'est pas tellement différent.
+  - chunk_index: 107
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 247
+    text: |-
+      Alors voilà, donc c'est toujours à peu près pareil en France. "La distribution
+      des revenus en nature inclut les transferts sociaux en nature ?" Bah oui, c'est
+      ça le principe, c'est la même chose en fait. Tout ce qui est de nature, c'est
+      que nature quoi, c'est-à-dire c'est les services publics. Est-ce que la dépense
+      de consommation individuelle des administrations publiques comprennent les
+      revenus de transferts ? Ou bien, selon un transfert nature, c'est les transferts
+      en nature. La comptabilité des dépenses de consommation individualisables des
+      administrations publiques, ce ne sont que les transferts en nature, ce n'est pas
+      du tout — là c'est dans le cadre de l'économie réelle, ce n'est pas du tout — là
+      les transferts en espèces. Il faut bien distinguer les deux. Bon, je suis
+      content que vous vous intéressiez à ça, vous posez des questions parce que c'est
+      vrai que ça fait partie des choses importantes à comprendre.
+  - chunk_index: 108
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 121
+    text: |-
+      "S'il y a une hausse importante de la part salariale pour l'ensemble des
+      salariés, des transferts sociaux vont bien diminuer ?" Non, non, non, pas du
+      tout. Parce que la part salariale peut baisser ou augmenter, ça ne veut pas
+      forcément dire que les salaires baissent ou augmentent. On le voit dans la crise
+      : les salaires n'augmentent pas en ce moment, mais la part salariale augmente
+      parce que la valeur ajoutée diminue.
+  - chunk_index: 109
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 318
+    text: |-
+      "Mais si pour chacun il y a une augmentation de 1 000 euros en transfert social,
+      l'écart n'est pas changé ?" Et bien si, parce que les inégalités se calculent en
+      pourcentage. Si on donne 1 000 euros à tout le monde, on réduit les inégalités,
+      parce que réduire les différences en fait entre les ménages — en fait l'écart
+      est plus faible. Je vous prends un exemple : vous avez quelqu'un qui a 1 000,
+      quelqu'un qui a 2 000, quelqu'un qui a 3 000, quelqu'un qui a 4 000, quelqu'un
+      qui a 5 000. En virant mille — non, en rajoutant 1 000 à tout le monde — donc le
+      5 000 il a cinq fois plus d'argent que le 1 000, d'accord ? Donc les inégalités
+      sont de 1 à 5. Maintenant vous rajoutez 2 000 à tout le monde. Le dernier a 7
+      000, le premier a 3 000. Cette fois-ci l'écart — les inégalités sont de 1 à —
+      enfin — 7/3, donc 1 à 2,33. Donc si vous donnez la même somme à tout le monde,
+      vous diminuez les inégalités.
+  - chunk_index: 110
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 201
+    text: |-
+      "Il a dit hier que la rémunération est mesurée par le risque ?" Mais non, mais
+      là ça n'a rien à voir. Ça on parlait d'ici là-dedans, la finance. Alors oui,
+      est-ce que la rémunération des salaires serait liée à ça ? Non, là on l'a — on
+      avait hier on avait un propos uniquement sur les rémunérations des actifs
+      financiers. La rémunération des individus n'est pas liée uniquement au risque,
+      sinon les métiers les plus risqués — vous savez quels sont les métiers où il y a
+      le plus d'accidents du travail ? C'est les métiers de la construction, du
+      bâtiment. Ce n'est pas les métiers les mieux payés en France. Donc ce n'est pas
+      ça qui détermine la rémunération des gens.
+  - chunk_index: 111
+    heading_path: 'Séance 20 jeudi 3 décembre > La répartition secondaire : l''étude de l''INSEE de 2003'
+    content_token_count: 120
+    text: |-
+      Ok, merci pour vos questions. Ne posez pas trop parce que c'est perturbant que
+      vous posiez, mais je vous apprécie bien aussi que vous posiez parce que ça me
+      permet aussi de savoir ce que concrètement vous comprenez et ce que vous ne
+      comprenez pas. Mais donc je vais revenir sur — continuer sur autre chose que la
+      question de la répartition des richesses. Maintenant je vais me concentrer
+      plutôt sur ce que fait l'entreprise pour produire des richesses.
+  - chunk_index: 112
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 175
+    text: |-
+      Alors on a vu qu'on produit des richesses avec du capital et avec du travail.
+      Pour augmenter la production de richesses il va donc falloir investir et
+      embaucher. Et donc pour la fin de ce chapitre — en fait pour ce chapitre, oui,
+      pour la dernière partie de ce chapitre — je vais chercher à m'intéresser à ce
+      qui détermine l'investissement de l'entreprise d'une part, deuxièmement à ce qui
+      détermine les embauches de salariés, pourquoi on embauche des salariés d'autre
+      part, et puis enfin tout à la fin je vais essayer de vous expliquer pourquoi il
+      y a du chômage et comment les économistes analysent la question du chômage.
+  - chunk_index: 113
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 162
+    text: |-
+      Alors pour revenir sur l'investissement, qu'est-ce que c'est que
+      l'investissement ? Alors dans le langage courant on va considérer que
+      l'investissement c'est le fait de renoncer à un gain immédiat pour obtenir des
+      gains futurs. Ça veut dire qu'on va dépenser maintenant pour essayer de gagner
+      de l'argent plus tard. Mais dans le cadre souvent concret, ça veut dire deux
+      choses différentes. Et là je vous invite à bien distinguer ces deux choses parce
+      qu'il y a une peur, une confusion qu'on parle d'investissements. Il faut
+      distinguer l'investissement productif et l'investissement financier.
+  - chunk_index: 114
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 487
+    text: |-
+      Quand on est dans le cadre d'un investissement financier, c'est lorsque par
+      exemple on achète une action ou une obligation, un titre financier pour gagner
+      de l'argent. Alors ça correspond bien à la définition que je viens de vous
+      donner : vous achetez une action pour toucher les dividendes. Le fait que vous
+      payez maintenant l'action veut dire que vous renoncez à utiliser cet argent,
+      donc vous renoncez à un gain immédiat, et puis vous attendez à ce que l'action
+      soit voie sa valeur augmenter, soit vous distribue des dividendes. C'est bien
+      dans l'espoir d'un gain futur. Néanmoins ça c'est vrai à votre échelle à vous,
+      mais quand vous êtes à une échelle du pays, une échelle macroéconomique, quand
+      vous achetez une action c'est que quelqu'un vous la vend. Il n'y a pas plus
+      d'action dans la société qu'auparavant. Donc ça veut dire qu'ici on est là dans
+      un cadre individuel où il s'agit bien d'un investissement personnel, mais dans
+      le cadre de la société, de l'économie dans son ensemble, il n'y a pas eu
+      d'investissement. Il y a eu juste transfert de propriété. C'est-à-dire qu'il y a
+      plus d'actions dans l'économie avant qu'après — après qu'avant — autrement dit
+      ce qu'on appelle investissements à l'échelle individuelle, l'investissement
+      financier, le fait d'acheter des actions et des obligations, on peut considérer
+      que c'est un investissement à l'échelle individuelle, c'est en réalité une
+      transaction financière. Ça veut dire que la propriété de l'action et de
+      l'obligation a changé de mains. Ce n'est pas un investissement au sens de
+      l'économie nationale. Ça n'a pas créé davantage de richesse, ça a juste réparti
+      la richesse différemment, ça a juste transféré un produit financier d'une main à
+      l'autre.
+  - chunk_index: 115
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 209
+    text: |-
+      Nous ce qui nous intéresse ici, ce qu'on va voir ici, ce qui est au cœur quand
+      même de la réflexion de l'économie, c'est la logique de l'investissement
+      productif. C'est-à-dire ce qui se passe dans l'entreprise quand l'entreprise
+      achète une nouvelle machine ou fait construire un nouveau bâtiment ou achète une
+      flotte de véhicules, c'est-à-dire lorsqu'elle augmente le stock de capital fixe.
+      C'est cela qu'on va appeler investissement dans le cadre de ce chapitre et
+      globalement dans le cas de cours. On essaie de ne pas mélanger les deux, alors
+      encore une fois ce n'est pas faux de parler d'investissement quand on parle
+      d'acheter un produit financier à l'échelle individuelle, mais on finit par
+      mélanger des choses qui n'ont plus rien à voir.
+  - chunk_index: 116
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 113
+    text: |-
+      Donc ici moi ce qui m'intéresse c'est le niveau macroéconomique, au niveau de
+      l'économie dans son ensemble. Et dans le niveau macroéconomique, si on veut
+      relancer l'activité économique, si on veut investir, il faut créer ce qu'on
+      appelle de la formation brute de capital fixe, FBCF, une donnée qu'on retrouve
+      dans l'INSEE dont on a déjà parlé. C'est ça qu'on va appeler investissement.
+  - chunk_index: 117
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 259
+    text: |-
+      Donc ça veut dire concrètement c'est des entreprises ou des ménages ou des
+      administrations publiques qui construisent, qui dépensent pour construire des
+      biens d'investissements nouveaux qui n'existaient pas auparavant. Vous
+      construisez un pont — vous êtes l'État vous construisez un pont — eh bien il y a
+      bien un bien nouveau créé et ça permettra de circuler plus rapidement et donc
+      d'être plus efficace. Ça rentrera dans la production de richesses, ça améliorera
+      la production de richesses. Vous êtes une entreprise, vous produisez une usine
+      ou un local commercial, eh bien vous investissez également. Donc c'est ça qu'on
+      va regarder, c'est cette logique productive, cette formation brute de capital
+      fixe. On ne va pas s'intéresser aux investissements financiers parce que pour le
+      coup ils ne produisent pas davantage de richesse en soi. Ils financent la
+      production de richesses d'autres mais ils ne produisent pas eux-mêmes des
+      nouvelles richesses.
+  - chunk_index: 118
+    heading_path: Séance 20 jeudi 3 décembre > L'investissement productif
+    content_token_count: 52
+    text: |-
+      Alors ça aussi c'est la question de l'analyse en économie en termes réels,
+      c'est-à-dire en termes de biens et de services concrets, et pas sous forme
+      monétaire ou financière.
+  - chunk_index: 119
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement
+    content_token_count: 105
+    text: |-
+      Alors la question qu'on va se poser c'est : quand est-ce qu'une entreprise
+      décide de produire du nouveau capital fixe ? Quand est-ce qu'une entreprise
+      décide de construire de nouvelles usines, de faire une nouvelle unité de
+      production, de s'étendre en quelque sorte en achetant des bâtiments, des
+      machines ? Et c'est bien pour plusieurs raisons. Prenons les trois raisons ici
+      indiquées.
+  - chunk_index: 120
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de renouvellement
+    content_token_count: 434
+    text: |-
+      Tout d'abord elle peut investir simplement parce que ses machines sont usées, sa
+      flotte de véhicules est vieille, donc elle va renouveler le capital usagé. Quand
+      elle fait ça, alors qu'est-ce qui va se passer au niveau de la comptabilité
+      d'entreprise ? La valeur de son capital va augmenter. Vous avez — je ne sais pas
+      — une vieille voiture, vous en achetez 10, 9 — les vieilles voitures elles ne
+      valaient pas grand-chose et avec les neuves et bien elles valent davantage
+      d'argent. Donc là vous voyez augmenter la valeur du capital disponible pour
+      l'entreprise. Mais est-ce que vous avez besoin de plus de salariés ? Est-ce que
+      vous embauchez ? Pas forcément. Est-ce que vous produisez davantage ? Pas
+      forcément. Les vieilles voitures qu'on avait sur le marché fonctionnaient. Donc
+      quand vous faites un renouvellement de capital usagé, très souvent il ne se
+      passe pas grand-chose en matière de valeur ajoutée créée. Il n'y a pas de plus
+      de richesse créée dans l'entreprise qui ajuste — voilà — un capital usagé qui
+      renouvelle sa — peu à peu amélioré. Si vous avez des voitures qui tombaient en
+      panne souvent, qui étaient immobilisées, voilà peut-être que ça peut être utile,
+      et demain vous serez un peu plus productif en renouvelant votre capital. Mais si
+      vous êtes une entreprise de taxi par exemple, vous n'allez pas forcément
+      recruter plus de chauffeurs parce que vous avez renouvelé votre voiture. Donc
+      premier déterminant de l'investissement : on va investir pour renouveler son
+      capital. Ça n'a pas beaucoup d'effet macroéconomique.
+  - chunk_index: 121
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de capacité
+    content_token_count: 384
+    text: |-
+      Deuxième façon d'investir, c'est lorsque l'entreprise décide d'augmenter sa
+      production en augmentant son capital sans changer son processus de production.
+      Vous aviez 10 voitures, vous êtes une entreprise de taxi, vous avez 10 voitures
+      avec des chauffeurs. Je ne sais pas, par exemple deux chauffeurs par taxi —
+      pourquoi pas — donc 20 chauffeurs, 10 taxis. Bon, vous voulez augmenter votre
+      activité, vous achetez de nouvelles voitures et vous recrutez donc du coup
+      quatre nouveaux chauffeurs. Là on peut dire que vous faites ce qu'on appelle un
+      investissement de capacité. Un investissement de capacité c'est un
+      investissement qui en fait vise à augmenter la capacité de production en
+      recrutant dans les mêmes proportions du capital et du travail. Les conséquences
+      de l'investissement de capacité : la capacité augmente, elle augmente dans les
+      mêmes proportions, donc le travail augmente dans les mêmes proportions et donc
+      forcément Y augmente là aussi de manière proportionnelle. Si vous augmentez le
+      capital de 20 %, vous avez augmenté L de 20 % — quelque chose égale par ailleurs
+      bien sûr — et vous allez augmenter Y aussi de 20 %. Je suis passé de 10 à 12
+      voitures, je suis passé de 20 à 24 chauffeurs, et je suis passé de tant de
+      courses par semaine à 20 % de plus a priori. Donc là on est sur une logique
+      d'une hausse globale de la production et donc des facteurs de production. C'est
+      la deuxième façon qu'on peut investir.
+  - chunk_index: 122
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 117
+    text: |-
+      Et puis on a une troisième manière d'investir, c'est ce qu'on appelle
+      l'investissement de productivité. Alors comme son nom l'indique, cet
+      investissement de productivité sert à rendre le travail plus productif.
+      Souvenez-vous tout à l'heure on a dit que le travail était productif en fonction
+      du capital qui était à disposition du travailleur. Si vous avez du capital
+      performant, vous avez des voitures performantes, et bien vous pouvez être plus
+      performant.
+  - chunk_index: 123
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 451
+    text: |-
+      Alors mettons qu'on soit ici dans une entreprise de taxi, vous avez 10 taxis
+      avec des chauffeurs, mais vous êtes un peu passionné de nouvelles technologies
+      et cette fois-ci vous avez l'ambition d'acheter des voitures sans chauffeur.
+      Alors par exemple, pouvait dire : voilà je vais acheter deux voitures sans
+      chauffeur et garder ma production identique. Maintenant vous avez donc vous
+      bazardez les deux voitures avec chauffeur — donc vous en avez plus que huit — et
+      puis vous les remplacez par deux voitures sans chauffeur. Vous n'avez maintenant
+      donc le même nombre de voitures qu'avant. Bien, vous n'avez plus besoin de
+      chauffeurs, vous avez peut-être besoin d'un mécanicien, donc vous recrutez une
+      personne pour entretenir ces deux voitures sans chauffeur. Et qu'est-ce qui se
+      passe ? Et bien vous licenciez trois personnes — quatre personnes pardon.
+      Pourquoi ? Parce que deux voitures n'ont plus besoin de chauffeurs, donc vous
+      licenciez les personnels. Donc dans ce cas-là que se passe-t-il ? Vous produisez
+      toujours pareil. Donc dans un véritable investissement de productivité pur, la
+      production de courses n'a pas changé, c'est-à-dire que vous produisez toujours
+      autant qu'avant. Y ne bouge pas. Mais en revanche évidemment la valeur du
+      capital augmente, parce que les voitures sans chauffeur ça coûte plus cher que
+      les voitures avec chauffeur. Mais surtout le niveau d'emploi diminue. Vous étiez
+      à 24 chauffeurs, vous avez viré quatre chauffeurs donc vous êtes venu à 20
+      chauffeurs, vous avez recruté un technicien, vous êtes à 21. Donc ça veut dire
+      que maintenant vous avez 21 salariés, vous produisez toujours autant qu'à 24
+      salariés.
+  - chunk_index: 124
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 135
+    text: |-
+      Quelles conséquences ? La productivité du travail a augmenté mécaniquement.
+      Puisque le travail a baissé et que Y est toujours le même, souvenez-vous
+      productivité du travail c'est Y / L. Donc là le dénominateur a baissé, Y reste
+      stable, donc la productivité elle a augmenté. C'est aussi toujours l'effet des
+      dénominateurs dont il ne faut pas oublier. Bon, donc qu'est-ce qu'on a là ? Et
+      bien on a un investissement qui se fait au détriment de l'emploi.
+  - chunk_index: 125
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 265
+    text: |-
+      Bon je vous ai donné un exemple fictif parce que pour l'instant on n'a toujours
+      pas de taxis sans chauffeur, mais ça viendra un jour. Entre parenthèses, si vous
+      voulez devenir chauffeur de taxi, oubliez, ce n'est pas un métier d'avenir
+      aujourd'hui. Donc voilà, donc bon a priori si vous êtes ici en première année
+      d'économie-gestion ce que vous voulez pas devenir chauffeur de taxi, mais c'est
+      vrai que là on va avoir beaucoup de pertes d'emploi dans ce domaine-là,
+      forcément pareil sans doute chez les camionneurs. Et c'est donc bon on n'est pas
+      encore arrivé à la mettre au point totalement cette voiture sans chauffeur, elle
+      coûte en plus quand elle sera mise au point, donc un coup, travaux, débuteraient
+      très très cher, donc ce n'est pas sûr du tout que ce soit rentable. Mais vous
+      avez bien ce que je veux en venir, là où je veux en venir, c'est que c'est un
+      phénomène assez fréquent, les investissements de productivité.
+  - chunk_index: 126
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 189
+    text: |-
+      Exemples d'investissements de productivité passés dans la vie courante, c'est
+      les caisses automatiques dans les supermarchés. Concrètement, pourquoi est-ce
+      que les supermarchés ont des caisses automatiques ? Ben parce qu'en fait on fait
+      passer plus de monde à la caisse dans des caisses automatiques avec deux, trois
+      caissières ou caissiers en moins, moins d'agents de caisse. Un seul agent permet
+      de surveiller quatre caisses. Alors chaque caisse est moins rapide parce que les
+      gens ils sont moins rapides pour passer leurs trucs — parfois des petits
+      problèmes, ça traîne un peu — mais comme il y en a quatre ou cinq ou six à la
+      fois, et bien en termes d'emplois ça veut dire au moins deux personnes.
+  - chunk_index: 127
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 332
+    text: |-
+      Donc voilà. Alors très bonne question qui avait anticipé, qui anticipe ce que je
+      voulais dire. Bien sûr, je précise, donc je ne vais pas me — bien sûr un
+      investissement — l'investissement productif en fait peut être un peu des deux,
+      peut être à la fois investissement de productivité et investissement de
+      capacité. Reprenons l'exemple des voitures sans chauffeur. Vous vous aviez 10
+      voitures avec chauffeur, vous en bazardez deux et vous recrutez — vous vous
+      achetez deux voitures sans chauffeur. Vous pouvez aussi avoir trois voitures
+      sans chauffeur. Qu'est-ce qui se passe ? Vous passez de 10 à 11. Donc vous avez
+      à la fois augmenté — un investissement de capacité puisque vous passez à 11
+      voitures — mais vous avez aussi un investissement de productivité puisque là
+      vous virez toujours les mêmes salariés. Donc Y augmentent et L diminuent, mais
+      on va dire Y augmente davantage qu'il ne diminue. Donc ça veut dire que vous
+      avez un doublé en quelque sorte d'augmentation de la productivité et de la
+      capacité. Et en réalité la plupart des investissements qui sont réalisés par des
+      entreprises sont toujours un peu des investissements de productivité et très
+      souvent un peu des investissements de capacité aussi.
+  - chunk_index: 128
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 51
+    text: |-
+      Bon alors quand on est en croissance, bien sûr ce qui va déterminer la nature de
+      l'investissement c'est les débouchés, les carnets de commandes, est-ce qu'on
+      peut acheter ou pas.
+  - chunk_index: 129
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 291
+    text: |-
+      Alors en fin de compte, qu'est-ce qui va déterminer le niveau d'investissement ?
+      Alors là maintenant je suis plus sur la nature de l'investissement — tout à
+      l'heure c'était ce que je vous disais, entre parenthèses, ce que je voulais —
+      pourquoi je vous parle de l'investissement de productivité, de capacité, de
+      renouvellement, c'est pour vous expliquer que l'investissement n'est pas
+      toujours favorable à l'emploi. L'investissement de renouvellement n'a aucun
+      effet sur l'emploi. Donc on peut très bien investir — les entreprises peuvent
+      très bien investir sans recruter du monde. L'investissement de capacité lui va
+      avoir un effet positif sur l'emploi, il va créer de nouveaux postes, il faudra
+      davantage embaucher, donc ça va faire diminuer le chômage. L'investissement de
+      productivité lui va avoir des effets négatifs sur l'emploi. Donc si je vous dis
+      ça, c'est pour que vous compreniez que l'investissement n'est pas
+      systématiquement bénéfique à l'emploi. C'est juste la petite chose qui me semble
+      importante.
+  - chunk_index: 130
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 237
+    text: |-
+      Après on peut aussi considérer que le fait que l'investissement soit négatif à
+      l'emploi fait que globalement les gens travailleront moins, et on peut
+      considérer que c'est une bonne chose parce que finalement on n'a pas tous envie
+      de passer son temps à travailler, sans doute pas. Donc peut-être que voilà la
+      question de l'investissement de productivité n'est pas forcément négative. Par
+      contre il est évident qu'une société dans laquelle tout ou presque tout le
+      travail est fait par des robots devra quand même aussi se poser la question de
+      comment je répartis ces richesses qui sont créées par des robots. C'est une
+      aussi une grande question. Par ailleurs l'investissement de productivité a aussi
+      tendance à faire baisser les prix. Ça aussi c'est parfaitement vrai et
+      mesurable. Et quand les prix baissent, et bien il y a une autre manière de —
+      voilà — notre manière de répartir les richesses.
+  - chunk_index: 131
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 310
+    text: |-
+      Bon alors maintenant je reprends sur ce qui fait qu'on va décider d'investir.
+      Pourquoi une entreprise va décider d'investir ? Alors mettons quel que soit
+      l'investissement qu'on va faire — alors écartons l'investissement de
+      renouvellement parce que là ce n'est pas vraiment un choix : voilà nos machines
+      sont vieilles, nos véhicules sont obsolètes, bon je vais les changer, ce n'est
+      pas vraiment un choix à faire, vous n'avez pas vraiment le choix, vous le
+      faites. Par contre si vous faites un investissement de capacité ou de
+      productivité, qu'est-ce qui va déterminer ces achats de nouveaux matériels ? Et
+      bien ce que vous attendez en termes de profits. C'est-à-dire que vous allez
+      regarder combien cet investissement va me rapporter de profits et combien ça va
+      me coûter en termes de coût. Et en fait ce qui va se passer — je vais vous
+      expliquer ça maintenant — c'est qu'on va comparer le taux de profit marginal
+      avec le taux d'intérêt. Finalement ce qui va être là le résumé — ça va se
+      simplifier — c'est le taux d'intérêt et le taux de profit marginal qui va
+      déterminer l'investissement.
+  - chunk_index: 132
+    heading_path: Séance 20 jeudi 3 décembre > Les déterminants de l'investissement > L'investissement de productivité
+    content_token_count: 15
+    text: Alors je vais vous montrer cela sous forme d'un graphique.
+  - chunk_index: 133
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 153
+    text: |-
+      Bon ce graphique ici représente — ça dit π, donc le taux de profit marginal.
+      Alors le taux de profit marginal c'est le profit qu'on espère avoir avec l'achat
+      de ce nouvel outil, par exemple cette nouvelle voiture ou ce nouveau camion. Si
+      je l'achète — on ne l'achète pas pour rien, on ne l'achète pas parce qu'il est
+      joli, on l'achète parce qu'il va nous rapporter des sous. Et donc on essaie de
+      calculer combien il va nous rapporter de sous. Alors combien il va nous
+      rapporter de sous, ça dépend de la valeur des courses qu'on va faire avec.
+  - chunk_index: 134
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 369
+    text: |-
+      Or il faut bien comprendre que ce taux de profit marginal il va avoir tendance à
+      baisser au fur et à mesure qu'on va racheter du nouveau capital. Alors
+      souvenez-vous on a vu dans le chapitre 5, c'est lié aux principes des rendements
+      décroissants. Alors on peut le voir aussi assez simplement en se posant la
+      question — tout à l'heure on a posé la question de la société de taxi — pourquoi
+      est-ce qu'elle arrête d'acheter des voitures et des chauffeurs de taxi ? Parce
+      qu'au bout d'un moment son marché en fait il est plein. C'est-à-dire que vous
+      êtes une société de taxi à Angers, vous avez une flotte de taxis — ça se fait,
+      ça fait beaucoup pour une ville comme Angers. Voilà, la question qui va se poser
+      : si j'achète un onzième taxi, est-ce que je vais pouvoir faire face à une
+      demande suffisante ou est-ce que mon taxi va rester à attendre à la station de
+      taxis toute la journée et finalement il ne servira à rien ? Donc c'est la clé,
+      c'est ça le calcul que vous faites : est-ce que ça vaut le coup d'investir dans
+      un nouveau taxi ? Si le chiffre d'affaires que je vais faire avec ce taxi,
+      compte tenu des coûts que ça va me coûter — donc la marge que je vais faire sur
+      ce taxi — est insuffisante, donc vous calculez la marge, enfin le taux de profit
+      sur le taxi supplémentaire.
+  - chunk_index: 135
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 317
+    text: |-
+      Quand vous avez un ou deux taxis, la marge peut être très importante parce que
+      vous répondez à une demande élevée, il n'y a pas trop de saturation de la
+      demande, les gens sont prêts à payer très cher pour les courses de taxi. Bon,
+      taxi ce n'est pas un bon exemple parce que les prix sont réglementés, mais donc
+      du coup vous voyez, toujours même prix quel que soit le nombre. Mais par exemple
+      vous êtes une société — j'avais pris ça aussi comme exemple, c'est assez
+      intéressant — vous êtes une société de transport de marchandises, vous avez des
+      camions, voilà, en restant dans les véhicules. Bon, si vous avez des clients
+      potentiels, vous transportez leurs marchandises d'une région à l'autre. Si vous
+      commencez à vouloir étendre votre zone de chalandise, vous voulez transporter
+      des marchandises qui sont de plus en plus loin, forcément ça va vous coûter de
+      plus en plus cher en fait, parce que les chauffeurs il faut qu'ils reviennent
+      chez eux etc. Et donc le fait que vous augmentiez votre nombre de camions va
+      vous obliger au bout d'un moment à trouver des clients de plus en plus éloignés
+      et votre profit va être de plus en plus faible. Et puis il peut arriver que le
+      profit soit négatif.
+  - chunk_index: 136
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 40
+    text: |-
+      Donc ici on a le taux de profit qui diminue, voilà, et au bout d'un moment qui
+      devient négatif au-delà d'un certain seuil.
+  - chunk_index: 137
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 233
+    text: |-
+      Alors qu'est-ce qui va déterminer votre niveau d'investissement ? C'est-à-dire à
+      quel niveau K doit être ? Alors on pourrait dire que K doit être à ce niveau-là,
+      c'est-à-dire que tant qu'on fait du profit, et bien on achète des nouveaux
+      camions, même si le profit est très faible. Et puis à la fin à la limite, bon
+      quand le profit est égal à zéro, là ça ne sert à rien, on ne fait plus de
+      profits, évidemment on n'achète pas un profit négatif. Mais si on raisonne comme
+      ça, on raisonne mal. Il faut comparer ce taux de profit non pas avec le fait
+      qu'il soit positif ou négatif, mais avec le taux d'intérêt r. Le taux d'intérêt
+      — mettons qu'il est là. Et bien moi je vous affirme qu'une entreprise n'a aucun
+      intérêt à acheter du capital qui produit un taux de profit inférieur à r.
+  - chunk_index: 138
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 191
+    text: |-
+      Alors essayons de raisonner. Il y a deux raisons pour lesquelles r doit être
+      pris en compte. La première raison, c'est qu'on considère que π, le taux de
+      profit, donc, est un coût — un coût direct — parce que vous devez emprunter pour
+      acheter votre camion. Et là on comprend bien que si vous empruntez pour acheter
+      votre camion à 5 % mettons, et que votre camion vous rapporte un taux de profit
+      de 4,5 %, ça ne vaut pas le coup de l'acheter parce que vous ne couvrirez même
+      pas les frais de votre emprunt. Donc on comprend bien que le taux d'intérêt il
+      doit être pris en compte si vous achetez à crédit le capital que vous voulez
+      avoir.
+  - chunk_index: 139
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 175
+    text: |-
+      Alors attention, souvenez-vous, on est là sur chaque camion. Le premier camion
+      il peut me rapporter beaucoup plus que 4,5 % de profits. Le deuxième va me
+      rapporter un peu moins. Le troisième un peu moins. Et puis voyez le quatrième,
+      bing, on tombe à un profit de 4,5 %. Donc quand on comptabilise tout — voilà on
+      arrive à capter — et bien si j'emprunte à 5 % d'intérêts, donc au final ça ne
+      vaut pas le coup. Donc si j'emprunte et que le taux d'intérêt est supérieur au
+      taux de profit marginal attendu, alors il ne faut pas emprunter et donc acheter
+      le camion.
+  - chunk_index: 140
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 162
+    text: |-
+      Mais que se passe-t-il ? Est-ce que le raisonnement est le même si je dispose
+      moi de l'argent pour acheter le camion ? Ce camion il vaut 100 000 euros, j'ai
+      l'argent, je n'ai pas besoin d'emprunter, j'ai l'argent directement sur mon
+      compte en banque. Est-ce que là il ne faut pas penser différemment ? Est-ce que
+      vu qu'on n'emprunte pas, on n'a pas de coût d'emprunt, est-ce que du coup ça
+      vaudrait le coup d'acheter ce camion qui fait un profit de 4,5 % ? Et bien je
+      vous dis non, ça ne vaut pas le coup.
+  - chunk_index: 141
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 200
+    text: |-
+      Alors là vous pouvez être un peu moins — dans les copies, quasiment jamais, je
+      pense, je pose régulièrement cette question, quasiment jamais les étudiants ne
+      me répondent correctement cette question. Soit — les déterminants —
+      l'investissement, ils disent tous "il faut faire attention aux coûts d'emprunt"
+      et moi je leur dis toujours "dans la marge, mais si vous n'empruntez pas,
+      qu'est-ce qui se passe si on n'emprunte pas ?" Alors il faut considérer que le
+      taux d'intérêt représente un coût d'opportunité. Un coût d'opportunité, ce n'est
+      pas comme un coût direct. Un coût d'opportunité, ça veut dire que vous perdez
+      l'opportunité de quelque chose de plus rentable.
+  - chunk_index: 142
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 222
+    text: |-
+      C'est — j'espère que vous voyez où je veux en venir. Quand vous êtes dans le
+      cadre de l'autofinancement — alors l'autofinancement c'est l'entreprise qui se
+      finance elle-même, qui n'a pas besoin d'emprunter, qui n'a pas besoin de
+      demander aux actionnaires, elle a l'argent et elle le dépense elle-même — si
+      vous avez le choix entre acheter un camion qui vous rapporte 4,5 % de profit
+      marginal et prêter les 100 000 euros que vous avez sur votre compte au taux
+      d'intérêt de 5 % — entre nous il n'est pas très malin, d'acheter le camion. Je
+      veux dire par là que le coût d'opportunité ici qu'on regarde, c'est l'écart
+      entre ce que va vous rapporter ce camion et ce que pourrait vous rapporter autre
+      chose, un autre placement quels qu'ils soient.
+  - chunk_index: 143
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 180
+    text: |-
+      Si les taux d'intérêt sont à 5 % — ils sont à 5 % pour celui qui emprunte et ils
+      sont aussi à 5 % pour celui qui prête, c'est logiquement ces mêmes taux —
+      pourquoi vous allez vous embêter à acheter un nouveau camion qui va vous
+      rapporter 4,5 % alors que les 100 000 euros vous pouvez les placer directement
+      sur les marchés financiers, acheter des obligations, enfin je ne sais pas quoi
+      faire en quelque sorte, un investissement financier qui vous rapportera 5 % ?
+      Aucun intérêt. Vous n'allez pas acheter un camion si le taux d'intérêt est
+      supérieur au taux de profit moyen attendu, quel que soit votre mode de
+      financement.
+  - chunk_index: 144
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 165
+    text: |-
+      Marquez ça, soulignez-le trois fois : quel que soit votre mode de financement,
+      que vous recouriez à l'emprunt ou que vous financiez vous-même avec l'argent que
+      vous avez épargné, vous devez toujours prendre en compte le taux d'intérêt. Ça,
+      les étudiants ont du mal avec cette idée, pourtant elle est extrêmement logique
+      et simple. Il est tout à fait possible de gagner de l'argent facilement en
+      prêtant de l'argent à quelqu'un. Si le profit que vous attendez sur ce capital
+      est inférieur au taux d'intérêt, vous n'allez pas — vous n'avez aucun intérêt
+      d'acheter ce capital.
+  - chunk_index: 145
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 210
+    text: |-
+      Ok. Donc on récapitule. Cette loi que je viens de vous donner, elle est valable
+      quel que soit le mode de financement. Quel que soit le mode de financement,
+      l'entrepreneur rationnel va toujours comparer le taux de profit marginal de
+      l'investissement qu'il va faire, c'est-à-dire de l'unité qu'il va acheter —
+      c'est la marge, donc c'est le premier camion, le premier camion vous rapporte
+      beaucoup d'argent, le deuxième un peu moins, c'est un lien, il y a une baisse du
+      taux de profit marginal — et donc vous allez acheter des camions jusqu'à ce que
+      le taux de profit du camion que vous achetez devienne inférieur au taux
+      d'intérêt, même si ce taux de profit est positif et même si vous n'empruntez pas
+      l'argent pour le financer.
+  - chunk_index: 146
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 222
+    text: |-
+      Bon. Alors dernière chose que je voulais dire ici — à marquer ici sur la
+      diapositive — c'est que là on est quand même sur un calcul du prochain —
+      prochaine unité de capital. C'est-à-dire qu'on est en train de se dire quel va
+      être le taux de profit de ce prochain camion que je vais acheter. Vous comprenez
+      bien ici qu'il y a un souci. On l'a vu au chapitre précédent : la rentabilité du
+      prochain camion sur 20 ans, j'en ai aucune idée. Donc je suis là en train de
+      spéculer sur l'éventuelle rentabilité de ce camion. Si un camion s'amortit en 20
+      ans, peut-être que la conjoncture aura changé et que le profit que je vais
+      calculer aujourd'hui va être totalement différent. Ça veut dire que quand on
+      investit, et bien c'est toujours une prise de risque importante.
+  - chunk_index: 147
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 302
+    text: |-
+      Et donc voilà, penser aux entreprises d'aujourd'hui qui sont en plein Covid : là
+      est-ce que vous croyez qu'elles ont vraiment envie d'investir même si c'est
+      rentable ? On ne sait pas ce qui peut se passer dans six mois. Imaginez que vous
+      dites oui maintenant — à un vaccin — tout on va être sauvé et en trois mois il
+      n'y a plus de Covid. Oui, vous avez raison. Peut-être, peut-être que la durée
+      d'efficacité d'un vaccin va durer deux mois et que ça ne servirait à rien, parce
+      que je vous signale qu'il y a déjà des gens qui ont eu comme idée — qui ont été
+      réinfectés. Moi je ne veux pas vous déprimer. On ne sait pas, on n'a pas encore
+      assez de recul historique sur la durée de l'immunité des vaccins. Donc si vous
+      êtes une entreprise — non mais rassurez-vous, ça va, j'arrête de vous déprimer.
+      Moi aussi je n'ai pas envie de faire cours comme ça l'année prochaine, sinon je
+      démissionne, je fais autre chose. Concrètement, bon oui les choses vont arriver,
+      vous allez bien, rassurez-vous.
+  - chunk_index: 148
+    heading_path: 'Séance 20 jeudi 3 décembre > Le calcul de l''investissement : taux de profit marginal et taux d''intérêt'
+    content_token_count: 224
+    text: |-
+      Mais ce que je veux dire par là, c'est que quand vous êtes une entreprise,
+      investir dans un environnement risqué, c'est très compliqué. L'incertitude est
+      quelque chose de très important et qu'il faut prendre en compte aussi dans nos
+      réflexions. Les agents ne calculent pas les taux de profits marginaux attendus
+      comme ça, bêtement, en disant "ah ben tiens j'achète un nouveau camion, j'ai
+      forcément fait tant de profits". Ça c'est dans les manuels qu'on a. Ça, dans la
+      réalité du monde réel — si je puis dire, si je peux faire du pléonasme — on ne
+      fait pas ça. On espère des voies là, on a peut-être une fourchette de taux de
+      profit, on est dans un univers incertain et on ne sait jamais quelle va être la
+      rentabilité de l'actif, de l'équipement, du capital qu'on achète.
+  - chunk_index: 149
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 37
+    text: |-
+      Alors on va quand même faire un petit exemple. Je regarde, il me reste encore un
+      peu plus de dix minutes, donc un exemple chiffré.
+  - chunk_index: 150
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 89
+    text: |-
+      Alors vous avez une entreprise qui doit investir dans un parc informatique pour
+      améliorer la productivité de ses salariés. Donc on a ici un investissement de
+      productivité. Les salariés — ils n'ont pas d'ordinateur. Mettons on est en 1981,
+      voilà, on n'a pas d'ordinateur. On achète un ordinateur.
+  - chunk_index: 151
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 108
+    text: |-
+      Alors voici le tableau. Alors je vais vous expliquer comment on calcule le
+      tableau, sachant qu'à chaque fois je me dis il faut que j'aie — chose — une
+      colonne. À chaque fois je vous prie de le faire, la colonne profit. Bon, peu
+      importe, vous allez — attention, notez bien ça pour ne pas vous bourrer dans les
+      calculs, parce que ça peut faire passer des questions que je poserai à l'examen.
+  - chunk_index: 152
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 151
+    text: |-
+      Alors nous avons ici donc le coût par an du parc informatique. Alors oui, on
+      refait un coût par an parce qu'un parc informatique ça a une durée
+      d'amortissement, mettons de cinq ans par exemple. Donc si vous achetez par
+      exemple un ordinateur à 1 000 euros qui va durer cinq ans, et bien il vous coûte
+      200 euros par an. Si vous avez cinq ordinateurs qui coûtent 200 euros, ça vous
+      fait 1 000 euros par an. Ok, donc on raisonne comme ça, on raisonne en coût
+      annuel, sinon on ne peut plus raisonner.
+  - chunk_index: 153
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 199
+    text: |-
+      Donc vous avez ici des unités — une unité d'informatique, la première — qui
+      arrive, la première coûte 1 000 euros par an, la deuxième 2 000, 3 000, 4 000, 5
+      000, 6 000. En fait on augmente son investissement et on regarde — alors ici on
+      a un effet production, pas un effet — on ne licencie pas des gens — on regarde
+      combien on produit. Donc au début on produit sans informatique, on produit 10
+      000. En fait on produit 12 000, 13 800, 15 500, 13 300 — non, 16 500 — et 17
+      000, et 17 550. Donc on voit que plus on met d'ordinateurs, plus on augmente la
+      capacité de production — la production.
+  - chunk_index: 154
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 47
+    text: |-
+      Alors on sait que les taux d'intérêt sont 10 %, ce qui est assez élevé — surtout
+      en ce moment — mais peu importe, c'est pour le calcul, pour le fun.
+  - chunk_index: 155
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 189
+    text: |-
+      Il faut — vous voyez, il faut qu'on regarde — alors moi je vous donne ça et ça
+      et ça, et je vous demande de compléter ces deux colonnes là. Donc compléter la
+      colonne production marginale et compléter la colonne — la colonne taux de profit
+      marginal. Alors en fait il aurait fallu que j'aie — j'aurais dû jouer une
+      colonne profit marginal et ensuite une colonne taux de profit marginal — ce
+      n'est pas grave, vous pouvez le faire si vous voulez, vous rajoutez entre les
+      deux une colonne. Tiens, d'ailleurs je vous invite quand même à refaire ce
+      tableau tranquillement. Voilà, vous, sur votre papier, n'oubliez pas de prendre
+      des notes, c'est très important.
+  - chunk_index: 156
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 116
+    text: |-
+      Donc vous pouvez le faire — voilà, tranquillement — vous mettez 1 000, 2 000, 3
+      000, 4 000, 5 000, vous mettez production 10 000, 12 000, 13 800, 15 500, 16
+      500, etc. Si je vais trop vite vous mettez sur pause. Vous faites ça
+      tranquillement. On va sans doute s'arrêter à l'issue de ce raisonnement ensuite.
+  - chunk_index: 157
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 90
+    text: |-
+      Donc vous mettez la production — ensuite une colonne production marginale. Vous
+      rajoutez entre les deux une colonne profit marginal et ensuite une colonne taux
+      de profit marginal et ensuite une colonne taux d'intérêt. Alors à quoi — ça nous
+      intéresse, pas compliqué, c'est toujours la même chose — ici 10 %. Donc c'est
+      facile à voir.
+  - chunk_index: 158
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 24
+    text: |-
+      Bien maintenant je vais vous donner le détail des calculs pour que vous puissiez
+      le faire tranquillement.
+  - chunk_index: 159
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 412
+    text: |-
+      Si je vous pose la question à l'examen — telle est la production marginale — et
+      bien la production marginale c'est la production de la dernière unité — de quoi
+      ? — d'unités informatiques. Donc là on a — on aurait pu des réciter mètres 0, 1,
+      2, 3, etc., peu importe — là on a une première unité informatique, 1 000 euros
+      par an, et donc on est passé d'une production de 10 000 à une production de 12
+      000. Qu'est-ce qu'a apporté la première unité informatique ? Au sens strict elle
+      a apporté 2 000 euros de richesse. Bon on continue, on est passé de 12 000 à 13
+      800, donc ça veut dire que quand on est passé de 1 000 à 2 000, et bien aux
+      nappes on augmente — et donc arrivé à la deuxième unité informatique on est
+      passé à 1 800 de plus, de 12 000 à 13 800. Ensuite on passe de 13 800 à 15 500,
+      on a augmenté de 1 700. Ensuite 15 500 à 16 500, on a augmenté à 1 200. Ensuite
+      1 000, 1 000 — voilà on augmente de 1 100, 1 050 et ensuite 550. Aucune
+      difficulté, vous savez faire, vous savez, dans le TD 8 vous savez faire —
+      trouver un coût marginal — ou ici ce n'est pas un coût marginal, c'est une
+      production marginale, mais c'est le même raisonnement, sauf que c'est la
+      production — donc c'est pareil, on fait l'écart entre les commentaires des
+      unités.
+  - chunk_index: 160
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 238
+    text: |-
+      On est ici — voilà ce que je n'ai pas mis — c'est 1, 2, 3, on ne peut pas
+      diviser les coupes, à faire 500. Bon, alors du coup je vous invite maintenant à
+      remplir la colonne qui est juste après la production marginale et juste avant le
+      taux de profit marginal. Donc vous l'appelez cette colonne, vous l'appelez
+      profit marginal. Vous avez une production marginale et un profit marginal. Ça
+      veut dire le profit que va rapporter l'unité d'informatique que vous avez
+      achetée. Combien elle coûte, une unité informatique ? Un coût — toujours 1 000.
+      Celle-ci coûte 1 000, celle-ci coûte 1 000, celle-ci coûte 1 000, d'accord ?
+      Elles coûtent toujours 1 000. Bien, l'augmentation c'est juste l'augmentation du
+      nombre d'unités, mais elles coûtent toujours 1 000.
+  - chunk_index: 161
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 168
+    text: |-
+      Combien leur apporte en profit ? Celle-ci vous a rapporté 2 000 et elle va
+      coûter 1 000, le profit marginal c'est donc 2 000 − 1 000. Celle-ci elle vous
+      rapporte 1 800 de production marginale, elle vous coûte toujours 1 000, donc on
+      est à 800 de profit marginal. Ici on est à 500. Ici on a 200. Ici — par 1 050
+      moins 1 000 ça fait 50. Et ici par contre on fait une perte, parce qu'on a payé
+      1 000 des ordinateurs qui nous rapportent que 550 de production supplémentaire,
+      donc ça nous rapporte moins 450.
+  - chunk_index: 162
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 60
+    text: |-
+      Ok, alors je vous laisse deux minutes pour noter ça, si vous avez les chiffres
+      sous les yeux, c'est vraiment pas très compliqué. On prend la production
+      marginale − 1 000, on fait — voilà on arrive ici au profit marginal.
+  - chunk_index: 163
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 395
+    text: |-
+      Une fois qu'on a le profit marginal, comment on calcule le taux de profit
+      marginal ? Le taux de profit, c'est le profit / le capital avancé. La formule
+      d'un taux de profit, vous l'avez retrouvée dans le chapitre 2, dans la partie
+      sur Marx, mais je n'en ai pas reparlé depuis. Maintenant je vous en reparle,
+      vous pouvez me faire confiance. La formule de profit, c'est π / K, ça veut dire
+      que le taux de profit c'est le profit / le capital avancé. Qu'est-ce qu'on
+      avance — comme capital ici on avance à chaque fois 1 000, puisque c'est toujours
+      le capital — c'est 1 000 à chaque fois, il rajoute 1 000. Donc ici le taux de
+      profit — de — excusez-moi, je vais déjà donner la réponse. Le taux de profit ici
+      c'est 1 000, ton profit marginal c'est 1 000, le profit / 1 000, le capital
+      avancé, ça veut dire un. On va mettre — c'est un pourcentage — ce qu'on va
+      comparer aux taux d'intérêts qui lui aussi est en pourcentage. 1 pour 1, bon,
+      pourcentage, ça fait 100 %. Donc ici c'est 800 / 1 000, 0,8, fois 100, 80 %. 500
+      / 1 000, ça fait 0,5, fois 100, 50 %. 200 / 1 000, 20 %. 50 / 1 000, 5 %. Et −
+      450 / 1 000, − 45 %. On fait des pertes, là — mais pas du tout profit.
+  - chunk_index: 164
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 13
+    text: Bon, voilà, vous savez calculer ça.
+  - chunk_index: 165
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 136
+    text: |-
+      Maintenant et bien écoutez, ce que je vous propose, c'est de raisonner — voilà
+      profit marginal, production marginale moins coût marginal, c'est ça, c'est ça
+      rend le coût de l'unité, c'est ça. On peut dire ça comme ça. "Vous avez raison,
+      c'est très, une très bonne formule." Je n'ai pas parlé de coût marginal, mais je
+      ne voulais pas vous perturber, je voulais vous dire que ça coûtait 1 000 à
+      chaque fois, mais c'est vrai que c'est le coût marginal.
+  - chunk_index: 166
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 160
+    text: |-
+      Donc qu'est-ce qu'il faut faire maintenant ? Combien il faut acheter de parc
+      informatique ? Il faut en acheter 4. Pourquoi ? Parce que le cinquième il n'est
+      pas rentable. Certes il est rentable au sens strict — certes, il y a un profit —
+      mais le profit qu'on fait est trop faible par rapport à ce qu'on pourrait gagner
+      si on investissait — si on prêtait cet argent. Donc l'intérêt d'acheter le
+      cinquième poste informatique est finalement nul. Donc on ne va pas acheter le
+      cinquième, on va rester sur le 4e, parce que là il y a un vrai profit.
+  - chunk_index: 167
+    heading_path: 'Séance 20 jeudi 3 décembre > Exemple chiffré : investissement dans un parc informatique'
+    content_token_count: 162
+    text: |-
+      Alors pensez aussi si vous prenez en compte l'incertitude, c'est encore pire. Le
+      fait que le profit marginal vous n'êtes pas certain de le récupérer, parce que
+      ça va dépendre — voilà — du contexte, des ventes. Et c'est donc une forme
+      d'incertitude qui fait qu'en général si on a un taux de profit de marché
+      marginal égal aux taux d'intérêt, on ne va pas investir, et même s'il est un peu
+      supérieur on va dire c'est trop risqué. Donc voilà, donc là on ne peut pas, même
+      si c'est rentable, acheter le cinquième élément d'informatique.
+  - chunk_index: 168
+    heading_path: Séance 20 jeudi 3 décembre > Conclusion et informations pour l'examen
+    content_token_count: 183
+    text: |-
+      Voilà. Alors du coup j'avais dit que j'arrêtais à -10. Bon il est moins 13, j'ai
+      encore toute la partie en quoi faire — parce que c'est ça — déterminant du
+      chômage et de l'emploi et du chômage. Donc on verra ça, mais vous verrez, ce
+      n'est pas très long, on verra ça pour la dernière séance. Et si on arrive à
+      faire ça en une seule heure, et bien on pourra terminer vite fait en une heure
+      ou en 50 minutes le chapitre 9, qui est un chapitre assez court. Voilà, j'ai mis
+      — je gémis — le chapitre — ce chapitre-là je l'ai mis en PDF sur Moodle, dont
+      vous le retrouverez.
+  - chunk_index: 169
+    heading_path: Séance 20 jeudi 3 décembre > Conclusion et informations pour l'examen
+    content_token_count: 90
+    text: |-
+      Et puis voilà, je vous souhaite de passer un excellent week-end, bien réviser
+      pour le contrôle continu de la semaine prochaine. Donc vous avez reçu des
+      consignes — je vérifie — le secrétariat m'a dit que vous avez aimé les émissions
+      sur Moodle, les consignes sanitaires. Alors je répète les consignes sanitaires.
+  - chunk_index: 170
+    heading_path: Séance 20 jeudi 3 décembre > Conclusion et informations pour l'examen
+    content_token_count: 275
+    text: |-
+      Il faut venir une demi-heure avant, très important. Il faut passer aux jeunes —
+      vos mains — au gel hydroalcoolique. Ensuite il faut aller directement à l'amphi,
+      il faut attendre l'amphi et on va vous distribuer des sujets et vous apporter
+      aussi une feuille pour noter — enfin en gros vous n'aurez pas les feuilles — on
+      vous fournit juste les feuilles de brouillon. Il n'y aura pas besoin — alors je
+      ne sais pas, demandez à votre enseignant s'il a besoin de calculatrice. Pour
+      ceux qui sont avec moi, il n'y a pas besoin de calculatrice, donc n'apportez pas
+      votre calculatrice. De toute façon vous avez besoin de calculatrice —
+      normalement les calculatrices coûtent — sont fournies par l'université. Donc
+      quoi qu'il arrive, vous n'apportez pas votre calculatrice, vous éteignez vos
+      téléphones. Voilà, vous ne les importez pas d'ailleurs, si — si vous aussi vous
+      pouvez vous en passer, ce n'est pas si mal. Voilà, et puis je ne sais plus quoi
+      encore. On verra après.
+  - chunk_index: 171
+    heading_path: Séance 20 jeudi 3 décembre > Conclusion et informations pour l'examen
+    content_token_count: 270
+    text: |-
+      Un mois ou six — avaient une première — une évaluation confinement — j'espère
+      que ça va bien se passer. On apprend — alors moi j'ai prévu un examen d'une
+      heure et quart mais certains sur les aider ont pu prévoir un peu moins. On verra
+      bien. Voilà, normalement ça va bien se passer. Si jamais vous ne pouvez
+      absolument pas venir pour plein de raisons — vous êtes malade, vous êtes trop
+      loin, vous êtes — vous dites — il n'y aura pas d'évolution de rattrapage. Donc
+      ça veut dire que vous serez noté en examen terminal uniquement par le contrôle
+      continu — par le CT — non. Voilà, moi je vous conseille si vous pouvez venir, de
+      venir quand même, parce que ça peut vous rapporter des points de faire
+      l'évaluation de TD, en général les notes de TD sont aux alentours de 10, elles
+      sont souvent supérieures aux notes de l'examen terminal. Si vous pouvez venir,
+      venez. Si vous ne pouvez pas venir, ce n'est pas un drame, mais il va falloir
+      que vous réussissiez bien l'examen terminal.
+  - chunk_index: 172
+    heading_path: Séance 20 jeudi 3 décembre > Conclusion et informations pour l'examen
+    content_token_count: 53
+    text: |-
+      Voilà, écoutez, bonne fin de journée à tous, et puis voilà, à la semaine
+      prochaine pour les évaluations, et à la semaine prochaine aussi pour le cours
+      qui aura lieu mercredi.

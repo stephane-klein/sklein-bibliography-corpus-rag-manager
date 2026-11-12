@@ -1,0 +1,1561 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2023-04-05_la-mmt-et-le-dilemme-des-banques-centrales-face-a-l-inflation.fr.md
+  source_file_hash: sha256:e5fc54c90502a669a1359a5fba8a28c19fb66d8aa55c6692f3d7b0dde8754945
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 78
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2023-04-05_la-mmt-et-le-dilemme-des-banques-centrales-face-a-l-inflation.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 133
+    text: |-
+      Alors, bonsoir à tous et à toutes. Nous allons donc reprendre cette dernière
+      séance du cycle sur la monnaie, la dette et les crises. Dans cette dernière
+      séance, je vais reprendre directement là où on s'était arrêté la dernière fois,
+      c'est-à-dire à la question des contestations monétaires, de l'ouverture du champ
+      de réflexion sur la monnaie qu'a entraînée la crise de 2008 et toutes les
+      conséquences qu'il y a eues sur les politiques monétaires.
+  - chunk_index: 1
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 183
+    text: |-
+      Pour faire un petit rappel, jusqu'à 2008, les politiques monétaires étaient
+      dites monétaristes. On a vu le monétarisme dans la deuxième session. C'est une
+      doctrine qui repose sur l'idée qu'il faut dépolitiser la gestion de la monnaie.
+      C'est-à-dire que la banque centrale doit être indépendante du pouvoir politique.
+      Elle doit être concentrée sur la question de la stabilité des prix. C'est
+      d'ailleurs ce qui détermine le mandat de la Banque centrale européenne, mais
+      également en grande partie le mandat de la Réserve fédérale et de toutes les
+      grandes banques centrales : elles ont un objectif de limiter la hausse des prix,
+      de limiter l'inflation.
+  - chunk_index: 2
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 177
+    text: |-
+      Cette doctrine monétariste s'est construite dans les années 70, au moment où de
+      fait l'inflation avait dérapé : on était passé à des taux d'inflation supérieurs
+      à 10 % dans la plupart des pays développés. Les monétaristes disaient que cette
+      inflation était due à des causes monétaires, c'est-à-dire à une création
+      monétaire trop importante qui avait entraîné un surcroît de monnaie par rapport
+      à la richesse achetable et qui avait donc fait augmenter les prix. C'est ce
+      qu'on appelle la théorie quantitative de la monnaie. Cette théorie monétariste a
+      été mise en œuvre dans les années 80 et elle est devenue dominante jusqu'à 2008.
+  - chunk_index: 3
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 234
+    text: |-
+      Là aussi, dans d'autres séances, on a vu que la crise de 2008 était une crise
+      systémique, une crise qui menaçait de faire s'effondrer l'ensemble du système
+      bancaire américain et mondial. Pour faire face à cette crise, les banques
+      centrales ont dû sortir de leur dogme monétariste. D'une part, elles ont baissé
+      fortement les taux d'intérêt pour aider les banques, diminuer le coût de
+      l'argent pour les banques et accompagner leur reprise. D'autre part, dans le
+      cadre de la Réserve fédérale américaine, elles ont dû racheter des titres
+      risqués qui n'avaient plus de valeur pour leur redonner un prix. Ensuite, dans
+      un deuxième temps, à partir du début 2009, elles ont racheté des obligations
+      publiques pour faire baisser les taux d'intérêt longs.
+  - chunk_index: 4
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 248
+    text: |-
+      Souvenez-vous : si on veut qu'il y ait une reprise économique, il faut des taux
+      d'intérêt faibles pour que les agents économiques, comme les entreprises et les
+      ménages, puissent facilement emprunter, puisqu'on sait que l'emprunt est le
+      moteur de la consommation et de l'investissement des entreprises. En même temps,
+      en rachetant des obligations publiques, on aide aussi l'État à se refinancer, à
+      se financer. Ce qui était au cœur du débat aux États-Unis en 2009, c'était le
+      plan Obama, qui visait quand même à injecter 787 milliards de dollars dans
+      l'économie américaine et aussi à sauver General Motors, qui était à l'époque
+      quasiment en faillite. Il y a donc eu ces dépenses publiques pour résoudre la
+      crise, qu'a accompagnées la Réserve fédérale, et très vite les autres banques
+      centrales se sont mises à mener ces mêmes politiques.
+  - chunk_index: 5
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 236
+    text: |-
+      Ces politiques de rachat des obligations publiques, qui sont en quelque sorte
+      des politiques de manipulation des marchés financiers pour faire baisser les
+      taux d'intérêt, se sont étendues à la Banque d'Angleterre, puis dans un deuxième
+      temps à la Banque centrale européenne, qui n'a pas trouvé d'autres moyens pour
+      résoudre la crise de l'euro des années 2011-2015. En Europe, on a une crise
+      spécifique : un certain nombre de pays n'ont plus pu se financer auprès des
+      marchés financiers en raison de taux d'intérêt trop importants et du fait que
+      leurs obligations publiques, plus personne n'en voulait. Qu'a fait la Banque
+      centrale européenne ? Elle a racheté ces obligations publiques de la Grèce,
+      etc., et puis, comme elle ne peut pas mener des politiques différentes selon les
+      pays, elle a commencé à racheter les obligations publiques de tous les pays.
+  - chunk_index: 6
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 176
+    text: |-
+      Ces nouvelles politiques monétaires ont fait réfléchir les économistes. Ils se
+      sont dit : finalement, la banque centrale fait des choses qu'elle n'est pas
+      censée faire, mais le monde ne s'écroule pas, il n'y a pas d'inflation, parce
+      qu'à l'époque, jusqu'en 2021, il y avait une inflation très faible. Pendant 12
+      ou 13 ans, entre 2008 et 2021, on a mené des politiques dites de quantitative
+      easing, donc de rachat d'actifs par les banques centrales, qui n'ont pas eu
+      d'effet sur le niveau d'inflation, contrairement à ce que postulait la théorie
+      monétariste.
+  - chunk_index: 7
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 277
+    text: |-
+      On sait pourquoi ça n'a pas eu d'effet : le quantitative easing ne constitue pas
+      en soi de la création monétaire. Souvenez-vous, ça ne fait que faire circuler,
+      que transformer des actifs financiers détenus par les banques en liquidité
+      détenue par les banques. Ça ne rajoute pas de la monnaie aux agents économiques
+      réels. Donc il n'y a pas davantage d'argent à dépenser. Par contre, ce que ça
+      permet de faire, c'est d'inciter les agents à emprunter. Mais on n'a pas eu non
+      plus d'explosion des emprunts à ce moment-là. On n'a même pas eu d'explosion du
+      marché immobilier, comme j'ai essayé de vous le montrer la semaine dernière. En
+      fin de compte, l'objectif était d'éviter la dépression, d'éviter l'effondrement
+      du crédit bancaire et l'effondrement de l'activité économique, mais il n'y a pas
+      eu d'effet de spéculation, d'augmentation des dettes, malgré le très faible
+      niveau des taux d'intérêt.
+  - chunk_index: 8
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 307
+    text: |-
+      Ça aussi c'est particulier, parce que ça ne correspond pas à la théorie
+      économique. Normalement, quand les taux d'intérêt deviennent très faibles, voire
+      négatifs — on rappelle que le taux d'intérêt négatif, c'est lorsque le taux
+      d'intérêt nominal est inférieur au taux d'inflation : on va payer un intérêt
+      contractuel de 2 % par exemple, mais si l'inflation est à 3 %, c'est comme si le
+      taux d'intérêt réel était négatif — malgré des taux d'intérêt réels négatifs
+      jusqu'à récemment, et qui le sont encore, il n'y a pas eu d'explosion de
+      l'emprunt. On peut se demander pourquoi, quand l'argent est gratuit, les gens
+      n'empruntent pas tous. Parce qu'il y a des raisons pour lesquelles on ne veut
+      pas ou on ne peut pas emprunter : même si on emprunte à un taux négatif, il faut
+      quand même rembourser son emprunt. Il faut avoir des projets d'investissement ou
+      des projets d'achat. Or, en situation d'incertitude économique, les gens n'ont
+      pas forcément envie d'emprunter.
+  - chunk_index: 9
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 259
+    text: |-
+      Souvenez-vous aussi, c'est un truc que j'ai dit : contrairement à ce que
+      beaucoup de gens disent, ce n'est pas la banque qui crée la monnaie, c'est le
+      crédit bancaire. Dire cela, ce n'est quand même pas tout à fait la même chose.
+      Bien sûr, s'il n'y a pas de banque qui prête, il n'y a pas de crédit bancaire,
+      donc il n'y a pas de création monétaire. Mais s'il n'y a pas d'agent économique
+      qui emprunte, il n'y a pas plus de crédit bancaire. La création monétaire se
+      fait toujours dans cette relation entre la banque et ses clients qui empruntent.
+      Ce qui s'est passé après 2008-2009, c'est que malgré la très forte baisse des
+      taux d'intérêt, il n'y a pas eu une très forte hausse des envies d'emprunter de
+      la part des agents économiques, et donc la baisse n'a pas eu d'effet réel sur
+      l'explosion de la création monétaire et du crédit.
+  - chunk_index: 10
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 265
+    text: |-
+      Quand on regarde les chiffres de la dette globale aux États-Unis par rapport au
+      PIB — on essaie de comparer le niveau de dette et le PIB, qui correspond à
+      l'ensemble des revenus ; pour avoir une idée de la soutenabilité d'une dette, on
+      compare le stock de dette avec les revenus moyens de l'économie, et les revenus
+      moyens de l'économie, c'est le PIB — on voit que l'endettement par rapport au
+      PIB aux États-Unis a atteint un pic en 2006-2007 au moment de la crise, puis
+      qu'après il a un peu baissé. À l'époque, c'était 3,6 fois le PIB. Ensuite il a
+      un peu baissé, puis il est resté constant. C'est-à-dire qu'il n'y a pas eu
+      d'augmentation globale de l'endettement. Même si les États eux-mêmes se sont
+      plus endettés, il y a eu des agents qui ont baissé leur endettement, ce qui fait
+      que tout ça s'est compensé.
+  - chunk_index: 11
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 241
+    text: |-
+      Je ne dis pas que l'État n'a pas plus de dettes aujourd'hui qu'en 2008. Bien sûr
+      que les États, tous les États, ont augmenté leur dette ; quand il y a eu la
+      crise du Covid, la dette publique a encore augmenté partout. Mais c'est normal :
+      l'État s'est substitué aux agents économiques pour éviter que l'économie
+      s'effondre. Cette hausse de la dette publique depuis 2008, manifeste dans tous
+      les pays développés, a compensé une baisse de l'endettement d'autres agents
+      économiques, notamment le secteur financier, qui a dû réduire son niveau
+      d'endettement parce que la crise financière a conduit à changer un peu quelques
+      pratiques. En fin de compte, le niveau d'endettement global n'a pas vraiment
+      baissé, il n'a pas vraiment augmenté, malgré les taux d'intérêt très faibles.
+      C'est un peu un rappel de ce qu'on a vu auparavant.
+  - chunk_index: 12
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 97
+    text: |-
+      Cette réflexion sur les nouvelles politiques monétaires et le fait que la Banque
+      centrale européenne est tout d'un coup devenue un agent très puissant, qui a
+      commencé à faire plein de choses que normalement les banques centrales n'étaient
+      pas censées faire, a conduit certains économistes à proposer de nouvelles
+      théories monétaires. On les a un peu vues l'année dernière.
+  - chunk_index: 13
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 327
+    text: |-
+      D'abord, il y a tous ceux qui voulaient que les banques centrales reviennent à
+      leur théorie d'avance, c'est-à-dire tous les monétaristes un peu frustrés qui
+      disent : « Regardez, si vous continuez à faire du quantitative easing, ça va
+      faire exploser la spéculation, c'est de la manipulation de la monnaie, c'est
+      mauvais, ça a créé de l'inflation. » On a eu évidemment beaucoup de Cassandres
+      qui ont expliqué, beaucoup sur les réseaux sociaux et ailleurs, que ces
+      politiques de quantitative easing, ces politiques dites non conventionnelles,
+      allaient forcément engendrer une catastrophe. Mais ils ont dit ça en 2009-2010,
+      et la catastrophe n'est pas venue. Ils ont continué de le dire en 2012, etc.
+      Puis, au bout d'un moment, la catastrophe n'est jamais venue. L'inflation n'est
+      jamais venue. Après, il y a eu l'inflation en 2021. « Regardez, je vous l'avais
+      dit », mais on comprend que l'inflation de 2021-2022 peut difficilement être la
+      cause directe d'une politique commencée en 2008-2009 et qui s'est prolongée
+      pendant tout ce temps. Nous verrons d'ailleurs qu'il y a encore des questions
+      sur les causes de cette inflation.
+  - chunk_index: 14
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 341
+    text: |-
+      Deuxième théorie qui a commencé à émerger du fait de cette ouverture, c'est que
+      l'abandon de la doctrine monétaire a entraîné de nouvelles doctrines à
+      apparaître, puisqu'il faut bien trouver d'autres choses. La deuxième approche,
+      ce sont ceux qui ont dit : « Annulons les dettes. Annulons les dettes détenues
+      par les banques centrales. Réinjectons de la monnaie dans le système pour
+      financer la transition écologique. » Je vous ai dit ce que j'en pensais. Je
+      pense que c'est une théorie qui pose question, parce que l'annulation des
+      dettes, ce n'est pas si simple, et puis la création de nouvelles dettes, de
+      nouvelle monnaie par la banque centrale, c'est aussi une opération qui, à mon
+      avis, n'est pas très pertinente, parce que, comme je l'ai dit, la banque
+      centrale ne crée pas de monnaie en fait, et donc il faut toujours qu'il y ait
+      des gens qui ont des investissements. Par ailleurs, la question qui se posait,
+      c'est : est-ce que la banque centrale peut être un agent budgétaire ?
+      C'est-à-dire quelqu'un qui, alors qu'il n'est pas responsable devant les
+      représentants du peuple, peut décider comme ça de financer certains
+      investissements et pas d'autres. Ça pose des problèmes démocratiques.
+  - chunk_index: 15
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 240
+    text: |-
+      Troisième approche : la critique de ce qu'on appelle l'hélicoptère monnaie, la
+      monnaie hélicoptère. L'idée que la banque centrale pourrait maintenant
+      directement — c'est un peu lié à la première, mais cette fois-ci directement —
+      proposer, donner de l'argent aux ménages, aux entreprises et à l'État. Là aussi,
+      je vous ai dit que ça posait le même problème que la précédente : faire de la
+      banque centrale un agent qui va faire plus que simplement garantir la valeur de
+      la monnaie et organiser le système bancaire, mais qui va aller jusqu'à donner de
+      l'argent à des gens. Du coup, se pose la question : à qui on donne, combien on
+      donne, qui décide de donner ? Si c'est la banque centrale qui le fait
+      souverainement, ça pose quand même des questions démocratiques. Et puis
+      finalement, est-ce bien nécessaire ? C'est la même question pour la deuxième
+      théorie.
+  - chunk_index: 16
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 161
+    text: |-
+      Maintenant, je voudrais terminer ce panorama des grandes théories hétérodoxes
+      par la théorie monétaire moderne, qu'on appelle en français également MMT. Mais
+      MMT, c'est l'acronyme de l'anglais Modern Monetary Theory. Donc on devrait dire
+      TMM en français, mais les gens disent MMT. C'est une théorie très intéressante,
+      qui n'est en fait pas très nouvelle, qui existe depuis le début du XXe siècle,
+      depuis Keynes et depuis Abba Lerner, qui sont des économistes du XXe siècle qui
+      ont essayé de comprendre la théorie de la monnaie, la théorie monétaire sous un
+      angle différent.
+  - chunk_index: 17
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 256
+    text: |-
+      L'angle choisi, c'est celui qui consiste à dire qu'en fait la monnaie n'est
+      qu'une convention sociale. Si elle n'est pas rattachée à un objet extérieur et
+      si elle est endogène, c'est-à-dire qu'elle est produite par la société
+      elle-même, alors on ne peut pas tomber en manque de monnaie. J'ai envie de dire
+      que c'est un peu l'évidence. S'il y a des gens qui n'ont pas assez de monnaie,
+      ce n'est pas qu'ils n'ont pas assez de monnaie parce qu'on peut tout à fait en
+      quelque sorte imprimer de la monnaie nouvelle et puis donner de la monnaie à
+      tout le monde. Qu'est-ce qui empêche finalement un État d'émettre autant de
+      monnaie qu'il le souhaite jusqu'à ce qu'il comble ses besoins ? Cette question,
+      au départ, est une question philosophique, et puis ça devient assez vite une
+      question pratique. Si la monnaie n'est pas rattachée, alors on est totalement
+      libre d'en faire ce qu'on veut.
+  - chunk_index: 18
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 212
+    text: |-
+      Évidemment, pourquoi je dis ça ? Parce que si elle est rattachée à l'or, on ne
+      peut pas faire tout ce qu'on veut. Une monnaie rattachée à l'or, c'est une
+      monnaie convertible en or, en argent ou en n'importe quel métal précieux. Si
+      elle est convertible, ça veut dire que quand on émet de la monnaie, à tout
+      moment, la personne qui détient le billet de banque doit pouvoir — ou qui a un
+      compte en monnaie dans une banque a le droit — le transférer, le convertir en
+      or, cette monnaie qu'il détient. Donc si on permet aux gens de convertir leur
+      monnaie en or, il faut qu'on ait des stocks d'or, et donc on est limité dans sa
+      capacité de créer de la monnaie par les stocks d'or qu'on possède.
+  - chunk_index: 19
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 269
+    text: |-
+      Il faut savoir quand même que la monnaie a très longtemps été convertible en or.
+      Le principe de l'étalon-or s'est imposé au XIXe siècle dans tous les pays
+      développés. Même après la Seconde Guerre mondiale, on avait un système d'étalon
+      à deux niveaux où le dollar était convertible en or, et c'était vrai jusqu'en
+      1971, et les monnaies européennes par exemple étaient convertibles en dollars,
+      donc indirectement elles étaient convertibles en or également. Donc jusqu'en
+      1971, jusqu'à ce que Nixon suspende et arrête définitivement la convertibilité
+      du dollar en or, les pays occidentaux capitalistes n'étaient pas libres de faire
+      ce qu'ils voulaient avec leur monnaie, puisqu'il y avait toujours ce
+      rattachement à l'or qui les empêchait de créer autant de monnaie qu'ils
+      voulaient. Ils devaient avoir un système bancaire qui reposait sur des réserves
+      soit en or directement, soit en devises, c'est-à-dire en monnaie convertible en
+      or. Ça a été local jusqu'en 1971.
+  - chunk_index: 20
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 119
+    text: |-
+      Mais à partir du moment où il n'y a plus cette obligation d'assurer la
+      conversion de la monnaie en or, on est libre d'émettre autant de monnaie qu'on
+      veut. C'est cette question-là qui est la base de la théorie moderne de la
+      monnaie. En poussant cette logique jusqu'au bout, on doit admettre que l'État ne
+      peut pas avoir de problèmes de financement puisqu'il peut toujours se financer
+      par la création monétaire.
+  - chunk_index: 21
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 456
+    text: |-
+      Cette thèse a été exprimée par de nombreux économistes depuis très longtemps. Ce
+      n'est pas une théorie nouvelle au sens strict puisque, en fait, c'est juste une
+      définition de la monnaie qui est à peu près reconnue. C'est plutôt une doctrine
+      différente, c'est-à-dire : qu'est-ce qu'on peut faire maintenant qu'on contrôle
+      la puissance de création monétaire ? Est-ce qu'on ne peut pas faire un peu plus
+      ce qu'on veut ? Cette théorie qui n'est pas une théorie, qui est une doctrine,
+      qui est plutôt un regard spécifique porté sur la monnaie par les économistes, a
+      été exprimée très clairement il n'y a pas très longtemps dans un livre. C'est ce
+      livre-là qui est pour moi la référence, même s'il y a beaucoup d'autres ouvrages
+      — je n'ai pas tout lu, j'ai lu celui-là, il est récent et il parle très
+      clairement de cette théorie. C'est l'ouvrage de Stéphanie Kelton, publié en
+      français en 2021, sous le titre Le mythe du déficit, aux liens qui libèrent.
+      C'est un livre accessible au grand public, pas un livre très compliqué, qui est
+      aussi fait pour les économistes, parce que les économistes l'ont lu. Il explique
+      exactement ça : si la monnaie n'est pas convertible en or et si l'État est
+      souverain monétairement, alors il ne peut y avoir aucun problème de financement
+      de l'État. C'est la raison pour laquelle le livre s'intitule Le mythe du
+      déficit. Le mythe du déficit, ça veut dire : il n'y a jamais de déficit. En
+      fait, cette histoire de déficit est une construction théorique idéologique. Tout
+      État souverain monétairement peut se financer autant qu'il le souhaite.
+  - chunk_index: 22
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 255
+    text: |-
+      Évidemment, quand on dit les choses comme ça, ça surprend, parce que ce que dit
+      Stéphanie Kelton, mais que disent aussi les économistes, c'est que quand on
+      réfléchit à partir de l'État, quand on réfléchit à l'État, aux finances
+      publiques, à partir d'une représentation qui est l'entreprise ou le ménage, on
+      se trompe complètement. L'État n'est pas un ménage, n'est pas une entreprise.
+      Pourquoi ? Parce qu'il crée la monnaie. Et donc comme il crée la monnaie — au
+      sens là aussi ce n'est pas tout à fait vrai parce qu'on a dit que la monnaie est
+      créée dans le cadre du crédit bancaire, etc. — mais il a un pouvoir de décider
+      de sa propre monnaie et donc il ne peut pas tomber à court de financement
+      puisqu'il contrôle la banque centrale qui émet la monnaie et qui elle-même
+      contrôle indirectement, bien sûr, la création monétaire.
+  - chunk_index: 23
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 260
+    text: |-
+      On a dit aussi que la banque centrale ne crée pas de monnaie parce que la banque
+      centrale ne prête pas directement aux agents économiques. Mais ça n'a pas
+      toujours été le cas. On a eu des moments dans l'histoire où les banques
+      centrales prêtaient aux États directement, et donc dans ce cas-là elles
+      prêtaient directement de la monnaie. Parce que quand la banque centrale prête de
+      la monnaie, prête un crédit à l'État, comme elle est un produit de l'État, c'est
+      comme si l'État se prêtait à lui-même. Et donc quelque part on a bien un
+      processus de création monétaire totalement autonome que l'État peut tout à fait
+      faire. Aujourd'hui, c'est interdit. Les banques centrales ne peuvent pas prêter
+      aux États, mais ça a déjà été autorisé et c'est tout à fait possible d'envisager
+      que l'État crée sa propre monnaie, en se prêtant à lui-même en quelque sorte.
+  - chunk_index: 24
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 266
+    text: |-
+      Alors, si on dit les choses comme ça, plein de questions se posent. La première
+      question, c'est : dans ce cas-là, pourquoi avons-nous une fiscalité ? Pourquoi
+      payons-nous des impôts ? Pourquoi payons-nous des impôts alors qu'il suffirait
+      de créer de la nouvelle monnaie pour financer toutes nos dépenses ? Stéphanie
+      Kelton dit : attention, parce que même s'il n'existe pas de limite financière
+      aux dépenses publiques, il existe une contrainte réelle. Qu'est-ce que c'est que
+      la contrainte réelle ? Vous comprenez bien que quand vous voulez payer quelque
+      chose — l'État veut payer quelque chose — cette chose, ça veut dire que vous
+      payez des salaires par exemple et vous achetez des choses à des entreprises.
+      Vous payez en créant la monnaie. Vous pouvez créer autant de monnaie que vous
+      voulez, mais le fait est que ce que vous avez payé, ce sont des ressources
+      réelles que vous vous accaparez et qui du coup ne seront pas utilisables dans le
+      reste de l'activité économique.
+  - chunk_index: 25
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 365
+    text: |-
+      Autrement dit, l'État, simplifions les choses, disons que l'État produit des
+      services non marchands. C'est essentiellement ça qu'il fait. Par exemple, vous
+      n'avez pas payé pour venir à cette conférence et c'est très bien, mais moi j'ai
+      été payé pour la faire. Ça veut dire que l'État m'a embauché, il m'a donné de
+      l'argent, mais il n'a pas pris de l'argent dans vos poches, il a pris dans les
+      poches du contribuable. Si on avait un système sans contribuable, alors on
+      dirait : très bien, l'État crée de la monnaie et il me paye, et vous, vous venez
+      à un service gratuit, génial. Sauf que moi, du coup, j'ai consacré du temps et
+      on a consacré des ressources pour faire cette conférence. Il faut quand même
+      payer l'électricité, il faut quand même payer le montage, il faut quand même —
+      en quelque sorte, le paiement implique une utilisation des ressources qui sont
+      distraites dans l'économie. Si vous embauchez des gens, ces gens ne pourront pas
+      faire autre chose. Donc d'une manière ou d'une autre, le fait que vous
+      détourniez des ressources réelles, c'est-à-dire des heures de travail, des
+      ressources énergétiques ou matérielles, au profit de la sphère non marchande
+      fait que ces ressources ne seront plus disponibles au profit de la sphère
+      marchande.
+  - chunk_index: 26
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 291
+    text: |-
+      Mettons maintenant que vous n'avez pas de fiscalité et que vous organisez
+      l'expansion de la sphère non marchande en finançant par l'État le développement
+      d'activités non marchandes. De fait, vous allez raréfier les ressources du
+      secteur marchand. C'est ça, la contrainte. Et si les gens ont toujours autant
+      d'argent qu'avant et qu'il y a moins de produits marchands qui sont proposés,
+      que va-t-il se passer ? Il va y avoir soit des pénuries, soit, dans un système
+      marchand classique, de l'inflation. Donc l'inflation va payer, c'est comme la
+      fiscalité en quelque sorte, elle va payer le fait que vous avez extrait des
+      ressources de la sphère marchande vers la sphère non marchande en diminuant ce
+      qui est disponible pour les gens qui veulent acheter. Donc si vous créez
+      toujours davantage de monnaie dans l'économie mais que vous n'augmentez pas dans
+      la même proportion les ressources de la sphère marchande, la sphère marchande va
+      se retrouver contrainte et elle ne pourra plus produire ce que les gens
+      attendent, et donc ça va faire augmenter les prix.
+  - chunk_index: 27
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 191
+    text: |-
+      Donc Stéphanie Kelton nous dit en fait que la fiscalité ne sert pas à financer
+      l'État, elle sert à éviter l'inflation, elle sert à organiser l'appauvrissement
+      des gens pour que, la sphère marchande se réduisant, les revenus des gens se
+      réduisent de manière symétrique. Dans ce cas-là, il n'y a plus de problème
+      d'inflation. Du coup, voilà, il faut quand même de la fiscalité. En fait, ce qui
+      est intéressant dans la vision de la MMT, c'est que ça dit des choses tout à
+      fait classiques, mais d'une autre manière. On change de logique mais on ne
+      change pas les fondamentaux. Mais vous allez voir, ça va changer des choses très
+      précises.
+  - chunk_index: 28
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 144
+    text: |-
+      La fiscalité sert donc en fait à quoi ? À appauvrir les gens pour éviter
+      l'inflation. Voilà ce que ça veut dire du point de vue de la MMT. Plus on va
+      augmenter les dépenses publiques, plus il faudra appauvrir les gens. Donc on a
+      bien ici une symétrie entre la fiscalité et les dépenses publiques. Donc en
+      fait, on retombe exactement sur nos pattes, mais pas de la même façon. Vous
+      allez voir, ça va avoir son importance après parce qu'il y a quand même des
+      choses intéressantes que dit la MMT.
+  - chunk_index: 29
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 237
+    text: |-
+      Pourquoi la fiscalité peut être nécessaire ? Pour deux autres raisons, cette
+      fois-ci plus faciles à comprendre. Première raison : réduire les inégalités,
+      parce que vous savez que la fiscalité ne touche pas de la même façon les gens.
+      D'ailleurs en France, on a un système fiscal qui n'est pas très progressif parce
+      que l'impôt sur le revenu est faible dans la fiscalité. L'essentiel de la
+      fiscalité, c'est la TVA par exemple, ou les cotisations sociales si on prend une
+      fiscalité au sens large, et ce n'est pas proportionnel au revenu. Parfois même,
+      ce sont plus les gens qui consomment qui payent plus en proportion de leur
+      revenu. Mais on peut tout à fait envisager que la fiscalité ait un but de
+      progressivité et un but quelque part de rétablir l'équilibre. Donc la fiscalité
+      est aussi utile pour ça, elle permet de compenser, de réduire les inégalités.
+  - chunk_index: 30
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 238
+    text: |-
+      Deuxième raison pour laquelle il faut de la fiscalité, troisième raison : c'est
+      un mécanisme incitatif. Vous pouvez augmenter la fiscalité sur le tabac et
+      l'alcool, c'est ce qu'on fait d'ailleurs, de manière à ce que les gens fument
+      moins et boivent moins. En même temps, pour des produits de première nécessité,
+      vous allez avoir des fiscalités plus faibles. Vous pouvez même avoir des
+      subventions pour certaines productions utiles et des taxes très élevées pour
+      d'autres productions inutiles. Donc la fiscalité, en quelque sorte, est
+      nécessaire d'un point de vue macroéconomique pour réduire les dépenses des gens,
+      pour éviter l'inflation. C'est aussi utile pour réduire les inégalités, et enfin
+      c'est utile pour inciter les comportements des gens : avec la fiscalité, on fait
+      plein de choses, on fait des crédits d'impôt pour rénover vos maisons, des
+      choses comme ça.
+  - chunk_index: 31
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 340
+    text: |-
+      Voilà, donc ça c'est la théorie. La conclusion qu'on en tire, c'est quoi ? Je
+      l'ai dit tout à l'heure : la limite des dépenses publiques n'est pas financière,
+      elle est réelle. On va voir un indicateur qui va nous permettre de comprendre
+      quand on arrive à la limite de la dépense publique. Cet indicateur, c'est
+      l'inflation. Quand vous arrivez à de l'inflation, c'est que vous avez trop
+      prélevé sur les ressources de la sphère marchande. Dans ce cas-là, vous avez
+      deux solutions. Soit vous augmentez la fiscalité : ça va faire baisser les
+      revenus des ménages, donc ça va faire diminuer leur consommation, donc ça va
+      faire baisser l'inflation. Soit vous baissez les dépenses publiques : ça
+      redonnera des ressources à la sphère privée, qui pourra répondre à la demande
+      des agents. Donc vous voyez, on a aussi cette politique d'austérité possible
+      dans la MMT. Austérité étant ici une baisse des dépenses publiques pour
+      augmenter les ressources disponibles à la sphère marchande et permettre du coup
+      à la sphère marchande de rétablir l'équilibre entre l'offre et la demande, parce
+      que c'est ça l'inflation : c'est quand l'offre est insuffisante par rapport à la
+      demande.
+  - chunk_index: 32
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 286
+    text: |-
+      Mais cette réflexion, cette manière de voir les choses, ouvre donc une
+      opportunité. L'opportunité, c'est laquelle ? C'est ce qui se passe quand
+      l'inflation est faible et quand le taux de chômage est élevé. Ce n'est pas pour
+      rien que cette MMT était très populaire à la fin des années 2010, parce que
+      l'inflation dans tous les pays occidentaux était devenue très faible, quasiment
+      zéro, et en même temps le chômage n'était pas très faible. Que signifie une
+      situation dans laquelle on a une inflation très faible et un taux de chômage
+      élevé ? Ça signifie qu'il y a des ressources disponibles dans l'économie réelle
+      qui ne sont pas utilisées. La sphère marchande n'a pas besoin de travailleurs.
+      Elle a suffisamment embauché de travailleurs. En plus, il y a suffisamment de
+      production pour toute la demande qu'il y a. Il n'y a pas besoin d'augmenter la
+      production. C'est la raison pour laquelle l'inflation est faible. En gros, les
+      entreprises cherchent des consommateurs, elles n'en trouvent pas.
+  - chunk_index: 33
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 694
+    text: |-
+      Donc là, on est dans une situation où la MMT va nous dire la chose suivante : si
+      vous avez un chômage élevé et une inflation quasiment égale à zéro, ça veut dire
+      qu'il y a des ressources qui ne sont pas utilisées. Il faut donc que l'État
+      commence à dépenser de l'argent et il n'y aura pas de risque qu'il y ait un
+      problème inflationniste, en tout cas dans l'immédiat. Donc augmenter les
+      dépenses publiques sans cette fois augmenter la fiscalité, parce qu'il y a des
+      ressources non utilisées. Concrètement, qu'est-ce que ça signifie ? C'est là que
+      Stéphanie Kelton et les théoriciens de la MMT disent qu'il faut créer des
+      emplois publics, et elle propose de créer ce qu'elle appelle la garantie
+      fédérale de l'emploi. Tant qu'il y a des chômeurs qui sont prêts à travailler,
+      il faut les embaucher, surtout s'il n'y a pas d'inflation. Et alors qu'est-ce
+      qu'on va leur faire à ces gens ? On va leur apporter un emploi au pays au SMIC,
+      qui pourrait être utile parce qu'en fait il y a plein de besoins non satisfaits
+      dans la société, notamment dans ce qu'on appelle le care, c'est-à-dire les
+      emplois d'accompagnement, les emplois de santé, les secteurs de la santé, les
+      emplois sociaux. Il y a plein de gens qui sont prêts à faire ça : par exemple,
+      l'aide aux personnes âgées, des personnes qui pourraient travailler à l'hôpital.
+      Alors pas des personnels forcément qualifiés, parce que les chômeurs ne sont pas
+      tous qualifiés, mais on peut trouver des aides-soignants, qui sont des métiers
+      qualifiés. Je dis ça parce que comme je suis enregistré et peut-être vu par des
+      soignants, si je dis que ce n'est pas qualifié, ils ne vont pas être contents,
+      mais on peut donner une qualification suffisante pour accompagner, aider les
+      personnels hospitaliers plus expérimentés ou plus qualifiés. Et puis on peut
+      faire plein de travail d'accompagnement des jeunes, de travaux sociaux. Donc en
+      fait c'est ce qu'on appelle le CARE, ce sont des emplois dits relationnels, qui
+      sont dans la relation avec l'autre. Et les besoins sont immenses. On n'a jamais
+      assez besoin d'emplois relationnels dans une société, et ça peut donner du
+      travail aux gens. Comme ce sont des gens qui de toute façon sont au chômage, ça
+      veut dire que le secteur marchand ne leur trouve pas d'utilité. Plutôt que de
+      leur payer des indemnités chômage et de les laisser chez eux sans rien faire,
+      c'est beaucoup plus intéressant de les recruter.
+  - chunk_index: 34
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 322
+    text: |-
+      Alors comment on finance ça ? On ne finance pas ça en fait. On finance par la
+      création monétaire, par la dépense publique qui s'autofinance de fait par le
+      mécanisme que décrit la MMT. Cette théorie vise à refaire de l'État un acteur de
+      la régulation réelle, en embauchant des gens qui sont au chômage quand il y a du
+      chômage qui apparaît. Et éventuellement — c'est ça qui est nécessaire pour
+      boucler le système — quand tout d'un coup le secteur marchand a besoin de
+      nouveaux travailleurs, là il va falloir quand même que l'État diminue ses
+      emplois qu'il a créés, pour éviter justement que l'inflation apparaisse dans le
+      secteur marchand. L'État ferait en sorte qu'il n'y ait jamais de chômage dans
+      l'économie, puisqu'il embauchera les chômeurs quand il y aura des chômeurs, et
+      puis quand il y aura des besoins de créer des emplois dans le secteur marchand,
+      il va devoir pouvoir licencier des gens et redonner des ressources au secteur
+      marchand. En quelque sorte, il va réguler d'un point de vue macroéconomique le
+      besoin d'emploi entre les deux sphères, marchande et non marchande.
+  - chunk_index: 35
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 151
+    text: |-
+      Comme le dit Stéphanie Kelton, tant que la monnaie elle-même peut être émise de
+      la même façon que les obligations publiques peuvent être émises, elle dit que
+      c'est comme une obligation sans intérêt. Il n'y aurait même pas de problème pour
+      financer ces déficits extérieurs, nous dit-elle. Parce que quand on est
+      souverain monétairement, quand on a un pays qui peut créer sa propre monnaie,
+      tant que les autres pays continuent de vouloir acheter notre monnaie, on n'a pas
+      à s'occuper d'une limite à l'émission et à la création de nouvelle monnaie.
+  - chunk_index: 36
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 550
+    text: |-
+      C'est là qu'on arrive quand même à quelques critiques, à la fois sur le
+      mécanisme de la garantie fédérale de l'emploi. Elle parle des États-Unis
+      essentiellement, c'est pour ça que je parle de garantie fédérale de l'emploi,
+      parce que c'est au niveau de l'État fédéral que s'organiserait cette chose. La
+      première limite, c'est que ce n'est pas si facile de mettre des gens au travail.
+      Il faut des compétences, il faut une appétence aussi pour le travail. Alors bien
+      sûr, l'idée n'est pas d'obliger les chômeurs à trouver du travail, c'est de
+      proposer un travail à tout chômeur. Mais si les gens ne veulent pas travailler,
+      on ne va pas les obliger. Par contre, évidemment, ils ne gagneront pas le SMIC,
+      ils gagneront leurs allocations chômage, et s'ils sont en fin de droits, ils ne
+      gagneront plus rien. Mais le problème, c'est que l'adéquation des besoins d'une
+      société n'est pas toujours ce que les chômeurs veulent faire. Si on dit : il y a
+      des emplois dans les hôpitaux pour accompagner les aides-soignants, ou des
+      emplois qui vont faire de l'aide aux devoirs aux enfants, etc., et si les
+      chômeurs ne veulent pas faire ça, s'ils n'ont pas les compétences ou même
+      l'appétence, on ne pourra pas les embaucher. Et puis il y a une question de
+      formation derrière : évidemment, il y a toujours un minimum de formation. S'ils
+      ne veulent pas se faire former, on ne peut pas les embaucher non plus. On ne
+      peut pas mettre n'importe qui dans un hôpital par exemple, ou auprès d'enfants,
+      ou dans n'importe quel emploi relationnel auprès de personnes âgées, parce qu'il
+      y a aussi beaucoup d'emplois du care qui sont dans le domaine des personnes
+      âgées. Donc là, il y a l'idée un peu mécanique qu'on peut toujours trouver la
+      personne qu'il faut pour l'emploi dont on a besoin. Ça marche en théorie sur le
+      papier, ça ne marche pas toujours en réalité.
+  - chunk_index: 37
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 453
+    text: |-
+      Première critique. Une deuxième critique, un peu liée à la première : quand il y
+      a des besoins d'emploi dans la sphère marchande, il faut que l'État licencie les
+      personnels qu'il a recrutés. Là, ça pose deux problèmes. D'abord, ces gens qui
+      finalement font de l'accompagnement des personnes âgées et trouvaient ça très
+      bien, on va leur dire : maintenant, vous allez être ouvrier chez Renault ou dans
+      une entreprise d'automobile, ou vous allez faire de la logistique chez Amazon.
+      Peut-être que cette personne ne sera pas du tout contente de partir. Alors
+      comment on fait ? Et puis l'autre problème, c'est la personne âgée qui était
+      accompagnée : du coup, on lui enlève l'accompagnant. Là se trouve un problème
+      qui n'est jamais posé par la MMT : si on fait de l'emploi public une variable
+      d'ajustement des besoins de la sphère marchande, bien sûr qu'il y a des
+      chômeurs, c'est facile de recruter — encore, ce n'est pas si facile que ça comme
+      je l'ai dit, mais au moins on peut l'imaginer. Mais l'opération inverse, quand
+      il y a des besoins d'emploi dans le secteur privé, il faut qu'on licencie des
+      gens. Surtout si ce sont des emplois du care, c'est-à-dire des emplois qui sont
+      là pour aider, accompagner d'autres personnes, je ne vois pas comment on va
+      pouvoir se passer de ces gens-là. En fait, une fois qu'on a créé le besoin et
+      qu'on a créé la fonction, ça on le voit tout le temps, et puis aussi bien chez
+      la personne qui devra changer d'emploi que chez la personne qu'elle aidait, qui
+      n'existera plus, ça pose énormément de problèmes.
+  - chunk_index: 38
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 488
+    text: |-
+      Ça aussi, ce n'est pas toujours vu par les partisans de la garantie de l'emploi,
+      la garantie publique de l'emploi. On appelle ça aussi parfois l'État employeur
+      en dernier ressort. C'est pas mal aussi. Il emploie quand personne ne trouve du
+      travail. Alors ça marche très bien quand on a du chômage, mais quand on n'a plus
+      de chômage — et c'est le but — alors c'est ça le paradoxe : le but, c'est
+      supprimer le chômage. Mais une fois que vous n'avez plus de chômage, si le
+      secteur privé marchand veut se développer, il n'a plus personne à recruter
+      puisque l'État a tout recruté. Alors comment on fait ? C'est là d'ailleurs qu'on
+      voit que le système capitaliste a besoin de chômeurs. On ne le dit pas assez,
+      mais en réalité le chômage est la fonction naturelle du capitalisme. C'est parce
+      qu'il y a du chômage qu'on peut voir des secteurs se développer, parce que s'il
+      n'y a pas de chômeurs et qu'on veut se développer, on ne peut pas trouver de
+      personnes. Aujourd'hui, on a des gens qui disent qu'ils ont du mal à recruter.
+      Vous avez entendu ça partout, alors qu'on a quand même encore beaucoup de
+      chômeurs. Donc en fait, il faudrait qu'ils payent mieux les gens et qu'ils
+      améliorent les conditions de travail, et là bien sûr ils trouveront à recruter.
+      Mais le jour où on sera à 2 % de chômage, les gens qui diront qu'ils ne trouvent
+      personne à recruter, là ils n'auront peut-être pas complètement tort, parce que
+      quand il n'y a pas de personne à recruter, quand vous faites une offre d'emploi
+      et qu'il n'y a personne qui vient, vous êtes quand même un peu embêté. Bref,
+      cette question de la garantie publique d'emploi pose plein de questions
+      concrètes.
+  - chunk_index: 39
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 276
+    text: |-
+      Alors, d'autres choses : que faire si on a de l'inflation et du chômage ?
+      D'ailleurs, regardez, c'est ce qui se passe aujourd'hui. La MMT n'a pas du tout
+      prévu ce cas de figure. Or c'est déjà arrivé dans les années 70, et ça arrive à
+      la fin des années 70 au début des années 80 : on avait beaucoup de chômeurs en
+      France et on avait une forte inflation, et c'est encore le cas aujourd'hui. On a
+      une inflation à 6-7 % en France et on ne peut pas dire qu'on soit en plein
+      emploi. Donc là, comment on fait ? La MMT dit : il faut recruter quand
+      l'inflation est faible. Oui, mais l'inflation est forte et il faudrait arrêter
+      de recruter jusqu'à ce qu'il n'y ait plus de chômeurs. Oui, mais là il y en a
+      plein, des chômeurs. Donc comment fait-on ? Il n'y a pas de réponse. C'est pour
+      ça que c'est une théorie qui était très populaire à la fin des années 2010, mais
+      qui, depuis le retour de l'inflation, pose question.
+  - chunk_index: 40
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 464
+    text: |-
+      Un exemple aussi, et je vais terminer par ça. Le problème de la MMT, c'est
+      qu'elle pose deux principes. L'un qui ne pose pas de problème : la monnaie n'est
+      plus indexée sur l'or. On est d'accord, on peut créer autant de monnaie qu'on
+      veut sur le papier, c'est vrai. Mais elle pose aussi une autre question : il
+      faut que l'État soit souverain monétairement. Qu'est-ce que ça veut dire, un
+      État souverain monétairement ? On comprend ce que ça veut dire : un État qui
+      peut créer souverainement la monnaie qu'il veut. Et on comprend que si l'État
+      peut créer souverainement la monnaie qu'il veut, forcément, il n'y a plus de
+      problème de financement. Mais il existe des cas où l'État n'est pas souverain
+      monétairement. Il n'est pas souverain monétairement déjà quand il est dans une
+      zone monétaire avec d'autres États. C'est le cas de la France, qui est membre de
+      la zone euro. Là, il y a un problème parce que les besoins en termes de
+      financement de la fonction publique française par exemple ne peuvent pas être
+      payés par les Allemands. On partage une même monnaie. Donc là, ça pose la
+      question : où est-ce qu'on va créer des emplois publics ? Est-ce qu'ils vont les
+      créer en France, en Allemagne, en Italie, au Portugal, ailleurs ? Donc là, il y
+      a un problème, qui pourrait être résolu par le fait de créer des fonctionnaires
+      européens par exemple. On retrouverait une forme de souveraineté monétaire. Mais
+      ça veut dire aussi avoir une politique démocratique européenne, accessible
+      partout. Enfin, ce sont des choses qui ne sont pas si simples. Mais en fait, il
+      y a une autre condition.
+  - chunk_index: 41
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 567
+    text: |-
+      La souveraineté monétaire, c'est aussi la capacité à faire accepter sa monnaie à
+      ses partenaires d'échange. Et ça, ce n'est pas si simple. Le problème, c'est
+      qu'une économie aujourd'hui ne fonctionne pas en vase clos. Même les États-Unis
+      ont besoin d'importer de la part d'autres pays des matières premières, des
+      produits finis qui sont produits ailleurs. Or comment on paye ces produits ? On
+      paye en émettant de la dette ou en échangeant. Mais c'est toujours payé par de
+      la monnaie ou par des actifs financiers qu'on possède, par des promesses de
+      payer. Et là se pose la question de savoir : si votre monnaie, plus personne
+      n'en veut, comment allez-vous faire pour payer vos importations ? Alors bien
+      sûr, si on a une balance commerciale équilibrée, j'ai envie de dire qu'on paye
+      en réel en quelque sorte. On fait en sorte d'acheter des produits à un pays et
+      puis on vend à ce même pays des produits d'une valeur similaire. Là, il n'y a
+      pas de souci. Mais en fait, il y a quand même la moitié des pays qui sont en
+      déficit commercial et la moitié des pays qui sont en excédent commercial.
+      Forcément, dans un monde fermé, à l'échelle du monde, vous avez autant de pays
+      en excédent commercial que de pays en déficit commercial. Si vous êtes en
+      déficit commercial, alors vous payez en titres financiers. Et ces titres
+      financiers, bien sûr, ils sont libellés dans votre monnaie. Et si vos
+      partenaires commerciaux ne veulent pas de votre monnaie, et bien en fait vous
+      avez un problème. Vous ne pouvez plus acheter ce qui est nécessaire à votre
+      économie. Donc être souverain monétairement, ça ne veut pas simplement dire : je
+      crée la monnaie quand j'ai envie. Ça veut aussi dire : je dois compter avec le
+      problème de la balance extérieure, c'est-à-dire que je dois être capable de
+      trouver des gens, si je suis en déficit commercial, qui acceptent ma monnaie ou
+      mes titres financiers libellés dans ma monnaie en guise de paiement. Et ça, ce
+      n'est pas du tout évident.
+  - chunk_index: 42
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 341
+    text: |-
+      C'est tellement pas évident qu'on a déjà connu des pays qui ont connu des crises
+      financières. Par exemple, le Royaume-Uni en 1976 a dû faire appel au FMI parce
+      que le Royaume-Uni, ce n'est quand même pas une petite économie. Ce n'est pas un
+      pays en développement, c'est la City, et à l'époque c'était quand même une
+      économie importante. Mais les partenaires commerciaux du Royaume-Uni ne
+      voulaient plus de titres financiers, ils ne voulaient plus de la livre sterling.
+      Ils n'avaient plus confiance dans la livre sterling, et donc le Royaume-Uni ne
+      pouvait plus payer ses importations. C'est ça, la crise de 1976. Du coup, il a
+      dû demander un prêt au Fonds monétaire international. C'était le premier pays
+      développé à être mis sous ajustement structurel par le FMI, et ça a été une
+      grave crise d'ailleurs. C'est ça qui a entraîné ensuite l'émergence et
+      l'élection de Margaret Thatcher trois ans plus tard. C'est la faillite des
+      travaillistes, qui n'arrivaient pas à régler ces problèmes financiers. Donc le
+      Royaume-Uni finalement n'était pas souverain monétairement en 1976, et donc il
+      ne pouvait pas mener cette politique de la MMT.
+  - chunk_index: 43
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 688
+    text: |-
+      Et en fait, si on réfléchit, il n'y a pas beaucoup de pays souverains
+      monétairement. Les pays européens, si on devait retrouver chacun notre monnaie,
+      par exemple, si on démantèle l'euro, si la France retrouve le franc, l'Allemagne
+      le deutsche Mark, etc., est-ce qu'on serait pour autant souverain monétairement
+      ? Et bien ce n'est pas du tout évident. Pourquoi ? Parce que tous les pays
+      européens sont des économies très ouvertes. En France, par exemple, le taux
+      d'ouverture de l'économie, c'est 30 %, plus de 30 %. Ça veut dire que 30 % du
+      PIB est échangé avec d'autres pays. Ça veut dire que si les autres pays n'ont
+      pas confiance en notre monnaie, ils arrêtent de nous exporter des biens, et du
+      coup toute notre chaîne de production s'arrête. C'est-à-dire que si on ne peut
+      pas importer le composant qu'on a besoin d'intégrer dans notre industrie, on ne
+      peut plus rien produire. Souvenez-vous, c'est ce qui s'est passé pendant le
+      Covid, où il y a eu des ruptures d'approvisionnement. Au tout début du Covid, il
+      y avait de la farine mais il n'y avait plus de sachets pour mettre la farine
+      dedans. Je ne sais pas si vous vous souvenez de cet épisode. On produit de la
+      farine en France, on n'a aucun problème. On produit du blé, on moud le blé, on a
+      de la farine, mais on n'avait plus de sacs pour conditionner la farine. Vous
+      avez peut-être oublié, mais je vous invite à regarder sur internet, vous verrez,
+      parce que c'était en mars 2020. Il se passait tellement de choses qu'on avait
+      forcément oublié des petits détails. Au printemps 2020, au moment du premier
+      confinement, il y avait des pénuries de farine, et on nous expliquait que la
+      pénurie de farine, ce n'était pas la farine, c'était le papier, enfin les sacs
+      dans lesquels on met la farine, qui manquaient parce que c'était importé et
+      qu'on n'arrivait plus à les produire parce que les importations étaient devenues
+      très difficiles. Je ne parle même pas des masques, où là on les a importés de
+      Chine en masse. Je parle juste d'un produit de base dont on pense qu'on ne
+      manque pas. Et bien si, en fait, il y a plein de choses : si on ne peut pas les
+      acheter aux étrangers, on ne peut pas produire une usine immédiatement qui va
+      produire les systèmes de conditionnement de la farine. Ça, c'est qu'un exemple.
+  - chunk_index: 44
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 188
+    text: |-
+      Donc en fait, si on démantèle l'euro, la France ne serait pas souveraine
+      monétairement parce qu'elle est trop dépendante des importations. Pour être
+      souverain monétairement, il faut avoir un taux d'ouverture de son économie assez
+      faible. Il faut être capable à tout moment de substituer des importations aux
+      exportations. Je ne dis pas qu'il faut arrêter d'échanger, c'est juste que si
+      jamais nos partenaires commerciaux n'acceptent plus notre propre monnaie, il
+      faut qu'on ait une solution de rechange, et ça c'est compliqué. Surtout, on n'a
+      pas de pétrole en France, on n'a pas de mine de fer, voilà, il y a plein de
+      choses dont on manque.
+  - chunk_index: 45
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 994
+    text: |-
+      Une question dans la salle demande : c'est combien le taux minimum ? Alors, quel
+      est le taux minimum pour être souverain monétairement ? Je n'en sais rien. Il
+      faudrait faire des calculs. Mais à mon avis, ça dépend en fait. On ne peut pas
+      raisonner juste globalement parce que ça dépend de ce qu'on importe aussi. Si on
+      importe des choses qu'on peut soi-même produire, il n'y a pas tellement de
+      problèmes. Mais si on importe des choses qu'on ne peut pas soi-même produire,
+      alors après, bien sûr, si on exporte des choses que les gens qui nous importent
+      veulent, il n'y aura pas de problème. Tout le problème, c'est quand on arrive en
+      déficit commercial. Donc un pays qui est en excédent commercial n'a a priori pas
+      trop de problèmes pour se financer. Mais le problème, c'est que l'excédent
+      commercial peut d'une année sur l'autre changer, évoluer. Donc cette capacité —
+      parce que le problème, c'est que quand on émet de la monnaie, quand on crée la
+      monnaie, on augmente les revenus des gens, et si on augmente les revenus des
+      gens, ils vont acheter. Mais souvenez-vous, je dis un problème d'inflation, mais
+      ça c'est quand on raisonne en économie fermée. Mais on est dans des économies
+      ouvertes, ils vont acheter à l'étranger, et c'est là que la valeur de la monnaie
+      peut diminuer parce que du coup ça fait augmenter les importations et notre
+      balance commerciale, qui était excédentaire, tout d'un coup devient déficitaire.
+      C'est-à-dire que ce mécanisme décrit par la MMT est valable en économie fermée ;
+      en économie ouverte, il est beaucoup moins valable. D'où le fait qu'il faut
+      avoir un taux de fermeture, enfin un taux d'ouverture faible, pour que la MMT
+      fonctionne. Et ça, malheureusement, Stéphanie Kelton ne le dit jamais. Et les
+      conditions de la souveraineté, elle ne les étudie pas. Elle part du principe que
+      l'économie doit être souveraine monétairement sans dire ce que ça veut dire
+      concrètement être souverain monétairement. Et elle part du principe que les
+      États-Unis sont souverains monétairement. Mais même ça, ce n'est même pas sûr,
+      parce que les États-Unis, même si c'est une économie qui est globalement
+      beaucoup plus fermée que la France parce que c'est une économie beaucoup plus
+      vaste — le taux d'ouverture dépend aussi de la taille de l'économie : plus on
+      est gros, moins on a besoin d'acheter à l'étranger. On a des matières premières,
+      on a toute une industrie diversifiée aux États-Unis, donc ils ont moins besoin
+      de l'étranger. Encore qu'ils importent beaucoup de choses, comme les smartphones
+      ou l'électronique, des choses comme ça. Mais imaginons même que les États-Unis
+      soient souverains monétairement. Et bien ce n'est pas tout à fait certain qu'ils
+      puissent faire tout ce qu'ils veulent, c'est-à-dire qu'ils soient réellement
+      souverains monétairement. Parce qu'on l'a vu, si les coûts des importations
+      augmentent pour certains produits qu'ils ne produisent pas, alors leur balance
+      commerciale va être déficitaire. Même si tout le monde est encore d'accord pour
+      avoir des dollars, il peut tout à fait se passer des problèmes, par exemple où
+      l'inflation augmente et le chômage augmente, et la MMT est incapable de dire
+      pourquoi l'inflation augmente. Parce que le coût des importations augmente par
+      exemple, c'est ce qui s'est passé dans les années 70 : le coût des matières
+      premières et de l'énergie, du pétrole, a beaucoup augmenté. Les États-Unis se
+      retrouvaient dans une situation où les politiques traditionnelles ne
+      fonctionnaient plus.
+  - chunk_index: 46
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 320
+    text: |-
+      Bref, il n'est même pas certain que pour les États-Unis, la MMT puisse vraiment
+      fonctionner, parce qu'ils ont aussi des besoins d'importation de certaines
+      matières premières ou de certains produits finis, et que si jamais on mettait en
+      place cette politique qui consiste à créer la monnaie dès qu'on veut dépenser
+      quelque chose, et bien si ça se trouve on aurait un problème d'approvisionnement
+      ou de confiance dans notre propre monnaie. Le dollar, certes, c'est la monnaie
+      de référence pour le commerce international, et il n'y a pas de limite au fait
+      que les gens veulent des dollars. Les Américains ont la capacité, contrairement
+      à tous les autres pays, d'exporter leur monnaie où ils veulent. Mais la valeur
+      du dollar fluctue. Et on a vu que parfois le dollar a baissé dans l'histoire, et
+      que quand le dollar baisse, on a moins les moyens d'acheter à d'autres. Donc
+      même les Américains, qui contrôlent la monnaie la plus puissante au monde, ne
+      sont pas complètement souverains monétairement. C'est ça que je voulais dire.
+      Alors si eux ne sont pas complètement souverains monétairement, qui l'est
+      vraiment ? Personne.
+  - chunk_index: 47
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 255
+    text: |-
+      Vous voyez donc le problème de la MMT : elle ne dit pas des choses idiotes.
+      C'est une vraie théorie — enfin je ne sais pas si c'est une théorie — mais on a
+      bien renversé le monétarisme, on a bien montré des choses très intéressantes sur
+      le fait que la sphère non marchande pouvait absorber les ressources non
+      utilisées par la sphère marchande, notamment les chômeurs, et tout ça est
+      parfaitement vrai. On a sans doute plus de capacité d'action de l'État que ce
+      qu'on dit. Le déficit est sans doute beaucoup moins important — le déficit
+      public est sans doute beaucoup moins important que ce qu'on dit. La dette
+      publique n'est sans doute pas si grave. D'ailleurs on le voit, parce que la
+      dette publique n'a cessé d'augmenter et finalement les économies ne se sont pas
+      écroulées. Donc il y a plein de choses vraies qui sont dites par la MMT. En même
+      temps, ce n'est pas une solution magique.
+  - chunk_index: 48
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 240
+    text: |-
+      C'est un peu ça : avant de venir à ce qui se passe aujourd'hui, c'est un peu ça
+      que je voulais conclure sur les approches alternatives de la monnaie. Les
+      limites de ces approches alternatives, c'est que la monnaie, ce n'est pas toute
+      l'économie, ce n'est qu'un instrument. Comprendre la monnaie, jouer sur la
+      monnaie, c'est bien, mais en fait l'économie est bien plus vaste que simplement
+      les questions monétaires. Par exemple, les questions d'équilibres commerciaux
+      vis-à-vis du reste du monde sont des questions qu'on ne peut pas limiter à la
+      question monétaire. La question de comment on fait pour réduire les inégalités,
+      quelles conséquences peut avoir le choix de certains investissements par rapport
+      à d'autres, ce ne sont pas des questions qui peuvent être résolues par
+      simplement « j'apporte de l'argent aux gens ». L'économie est plus vaste que la
+      seule question monétaire.
+  - chunk_index: 49
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 416
+    text: |-
+      L'une des raisons pour lesquelles le monétarisme s'est imposé — même si le
+      monétarisme, nous sommes d'accord, et je pense qu'on peut le dire maintenant,
+      est une théorie qui ne fonctionne plus, une théorie dépassée — on se dit :
+      supprimons le monétarisme et faisons la MMT. La MMT, c'est génial, l'État peut
+      tout faire, alors que dans le monétarisme, je vous rappelle, l'État ne peut rien
+      faire. Mais pourquoi ça ne marche pas ? Parce que le monétarisme est une
+      doctrine qui est englobée dans une doctrine plus large, qui est le
+      néolibéralisme. Et le néolibéralisme a sa cohérence. Par exemple, c'est un peu
+      l'objet de mon bouquin, j'y reviendrai. Le néolibéralisme, c'est une théorie,
+      une doctrine qui dit que pour calculer la valeur des choses, il faut passer par
+      le marché. C'est-à-dire que c'est une théorie qui met le marché au cœur de la
+      quantification de la valeur. Et quand on est néolibéral, on comprend qu'il ne
+      faut pas jouer avec la valeur de la monnaie, parce que la monnaie, c'est
+      l'étalon qui permet de mesurer la valeur. Donc les monétaristes sont cohérents
+      avec la pensée néolibérale. C'est ça qui fait sa force. La force d'une doctrine,
+      ce n'est pas toujours si elle est vraie ou pas. La force d'une doctrine, c'est
+      qu'elle s'intègre dans un système institutionnel plus large avec lequel elle est
+      cohérente. Ce système institutionnel, c'est cette vision selon laquelle le
+      marché doit quantifier la valeur.
+  - chunk_index: 50
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 338
+    text: |-
+      Maintenant, abandonnons le monétarisme et reprenons la MMT. Qu'est-ce qu'elle
+      dit sur la quantification de la valeur ? Elle ne dit rien, parce que ce n'est
+      pas son but. Comment peut-on intégrer la MMT dans une théorie globale qui dit
+      que c'est le marché qui détermine la valeur ? Ça ne marche plus du tout. Voyez,
+      en quelque sorte, le monétarisme, c'est un engrenage dans une machine plus
+      grande qui est le néolibéralisme. L'engrenage disfonctionne. Vous l'enlevez et
+      vous le remplacez par un autre engrenage qui fonctionne mieux. Mais cet
+      engrenage, vous l'avez créé sans penser à la machine entière. Ça ne va pas mieux
+      marcher. Vous ne pouvez pas changer l'engrenage sans penser la reconfiguration
+      complète de la machine. Et malheureusement, c'est un peu trop ce qu'on fait : on
+      veut changer la monnaie sans changer le marché ou les institutions telles
+      qu'elles fonctionnent dans l'économie. On veut changer la monnaie mais on ne se
+      pose pas la question du commerce international, de la mondialisation
+      néolibérale, des rapports de force institutionnels, de plein de choses qui sont
+      au cœur de l'activité économique, du capitalisme même on pourrait dire au sens
+      général. Et donc ça ne marche pas.
+  - chunk_index: 51
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 446
+    text: |-
+      La MMT ne pourrait être mise en œuvre que si l'ensemble de la machine changeait,
+      c'est-à-dire si on réfléchissait sur le rôle de l'État, sur comment on fait pour
+      faire un calcul économique de la valeur qui ne soit pas fondé sur le marché.
+      Mais donc sur quoi le fonder alors ? Si on limite le pouvoir du marché en tant
+      que système de quantification de la valeur, il faut bien remplacer par un autre
+      système qui quantifie la valeur, et lequel ? Toutes ces questions, la MMT n'y
+      répond pas. Ce que je veux dire ici, c'est que la réflexion profonde à laquelle
+      la MMT et l'ensemble des théories hétérodoxes que j'ai présentées répondent ne
+      répond que partiellement : quel doit être le rôle économique de l'État en
+      général ? Ici, on a bien la MMT qui voit l'État comme un outil de régulation de
+      la sphère marchande en quelque sorte. Donc ça, c'est vrai, c'est intéressant.
+      Mais quelles sont les limites à son intervention ? Ce n'est pas très clair. Et
+      est-ce que ces interventions doivent aller au-delà de ça ? Ça non plus, ce n'est
+      pas très clair. Alors la place de l'État et du marché dans l'organisation
+      économique, c'est une grande question, et à mon avis c'est la question centrale
+      qu'il faut commencer à poser. Je ne vais pas la poser malheureusement. Je l'ai
+      fait un peu dans le livre, mais je voudrais aborder dans la demi-heure qui nous
+      reste l'actualité économique et ce qui se passe aujourd'hui en termes de
+      politique monétaire. Je vais terminer sur ça et je reviendrai à la fin sur les
+      éléments en plus que je n'ai pas pu aborder si ça vous intéresse.
+  - chunk_index: 52
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 569
+    text: |-
+      Vous avez compris que depuis 2021, les choses ont changé. Après la crise Covid,
+      quand on a commencé à trouver des vaccins et qu'on a allégé puis supprimé les
+      confinements — en anglais on appelle ça les lockdowns, les enfermements, on
+      ferme les choses. Qu'est-ce qu'on fermait ? On fermait les commerces, les lieux
+      de vie. C'est ça qu'on faisait. Dans la plupart des pays, on n'empêchait pas les
+      gens de sortir de chez eux, mais on supprimait tout intérêt de sortir de chez
+      soi parce qu'on refermait tout. Ça revenait un peu au même. On avait quand même
+      non pas des confinements, mais des fermetures, des fermetures administratives de
+      tout commerce. Quand on a eu ces fermetures, bien sûr, on a voulu compenser :
+      l'État a compensé en donnant des subventions aux entreprises qui étaient fermées
+      administrativement, en donnant un peu aux gens de l'argent pour éviter qu'ils se
+      retrouvent sans rien. Et puis, quand on a supprimé, quand on a réouvert
+      l'économie, on l'a réouverte partout en même temps, et ça a créé mécaniquement,
+      j'ai envie de dire, une demande qui tout d'un coup s'est propagée dans la sphère
+      marchande. Les gens ont commencé à vouloir dépenser l'argent qu'ils n'avaient
+      pas pu dépenser pendant les périodes de confinement. Alors tout le monde n'est
+      pas égal : il y a des gens qui ont beaucoup épargné, puis d'autres qui n'ont pas
+      du tout épargné pendant les périodes de confinement. Mais ceux qui ont beaucoup
+      épargné ont eu envie d'acheter. Et ceux qui ont été licenciés ou qui ont perdu
+      leur emploi à cause des confinements ne sont pas directement retournés au
+      travail. Donc on s'est retrouvé à un moment où il y avait une très forte demande
+      avec une capacité de production qui, elle, était faible. C'est ça qui, au
+      départ, a désorganisé l'économie et créé de l'inflation. Tout le monde a
+      commencé à vouloir acheter en même temps alors que tout le monde n'arrivait pas
+      à produire et que les entreprises n'arrivaient pas à produire.
+  - chunk_index: 53
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 374
+    text: |-
+      En plus, on a un autre phénomène : la désorganisation des chaînes de production,
+      parce qu'aujourd'hui le système économique est fondé sur des chaînes de
+      production mondiales. Qu'est-ce que j'appelle une chaîne de production ? Il y a
+      un endroit où on crée les matières premières, un autre endroit où on les
+      transforme, on crée de l'acier, ensuite on va utiliser l'acier pour produire un
+      composant, ensuite on va assembler ces composants. Le problème, c'est qu'on ne
+      fait pas tout ça dans le même pays. Or vous savez qu'il y a des pays qui n'ont
+      pas beaucoup vacciné. Par exemple la Chine, ils ont vacciné mais avec des
+      vaccins chinois qui n'étaient pas très efficaces. La Chine a été en confinement
+      jusqu'au début 2022, jusqu'à il n'y a pas très longtemps. Et donc eux n'ont pas
+      pu reprendre alors qu'ils étaient un élément essentiel de la chaîne de
+      production. Ça veut dire qu'on a voulu reprendre la production en Europe et aux
+      États-Unis alors qu'en Chine, eux, ils fermaient tout encore à certains moments.
+      Et donc forcément, les composants qu'on voulait assembler n'arrivaient pas. On
+      s'est retrouvé avec un problème de puces informatiques au moment où on a voulu
+      reprendre, parce que les usines étaient fermées. C'est d'énormes usines et on ne
+      les remet pas en route comme ça, aussi facilement.
+  - chunk_index: 54
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 431
+    text: |-
+      Donc ce qui a causé l'inflation, c'est le surcroît de demande au moment des
+      déconfinements, des déconfinements partout dans le monde en même temps, la
+      désorganisation des chaînes de production. Et puis quand tout le monde a voulu
+      produire en même temps, tout d'un coup ça a entraîné une hausse du prix de
+      l'énergie, et ça a contribué à alimenter l'inflation. Souvenez-vous : pendant le
+      premier confinement, tout d'un coup les prix du pétrole sont devenus négatifs.
+      Est-ce que ça aussi vous vous en souvenez ? Parce qu'il y avait des pétroliers
+      qui naviguaient, qui ne trouvaient plus d'acheteurs, et les gens qui achetaient
+      le pétrole devaient le stocker, il n'y avait plus de système de stockage. Donc
+      ils étaient prêts à payer des personnes pour récupérer les cargaisons de pétrole
+      de manière à trouver du stock. On a eu des prix du pétrole négatifs pendant
+      quelque temps. Pourquoi ? Parce que tous les gens ont arrêté d'utiliser leur
+      voiture et de prendre l'avion. Et donc on s'est retrouvé avec des stocks de
+      pétrole à ne plus savoir quoi en faire. C'est ça, les prix négatifs. Évidemment,
+      vous comprenez que l'effet inverse s'est produit au moment de la reprise : là
+      tout le monde a voulu consommer du pétrole, et du coup on avait arrêté la
+      production pendant quelque temps. Donc les prix de l'énergie ont commencé à
+      augmenter. Puis, vous savez ce qui s'est passé, la guerre en Ukraine, et là
+      aussi ça a fait augmenter encore les prix du gaz et du pétrole.
+  - chunk_index: 55
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 735
+    text: |-
+      Et puis il y avait aussi une indisponibilité de la main-d'œuvre parce que dans
+      beaucoup de pays, les confinements entraînaient des licenciements. En France, on
+      a créé le chômage partiel pour éviter ça, mais tous les gens qui étaient en
+      intérim, en CDD, n'ont pas bénéficié du chômage partiel. Et puis aux États-Unis,
+      ils ont licencié directement les gens. Donc quand les entreprises ont voulu
+      recommencer à produire, elles ne trouvaient pas les personnels pour produire. Et
+      ça aussi, ça a créé de l'inflation et ça a créé une désorganisation du système
+      productif. Bref, cette inflation qui est arrivée en 2021 n'était pas totalement
+      prévisible. Personne ne l'a prévue. J'aurais dû le faire, j'aurais été célèbre.
+      Mais en fait, on avait tellement pas l'habitude de l'inflation et puis on savait
+      tellement pas dans quoi on rentrait avec ces confinements que c'était quand même
+      compliqué de faire une prévision. Moi, j'ai fait une prévision, j'ai dit qu'il y
+      aurait un choc de faillite des entreprises après le déconfinement. Je n'ai pas
+      complètement eu tort, mais je n'ai pas non plus complètement eu raison. Je n'ai
+      pas eu raison parce que le choc de faillite ne s'est pas produit tout de suite
+      après les déconfinements. Là, il arrive maintenant. Mais comme il est assez
+      étalé, ça ne va pas faire un énorme choc. Là, en ce moment, on reprend les
+      faillites d'avant. En fait, c'est très simple : j'avais regardé qu'en 2019, il y
+      avait eu tant de faillites tous les mois, tous les trimestres. Puis tout d'un
+      coup, le nombre de faillites s'est réduit. Forcément, on a mis sous cloche en
+      quelque sorte les entreprises, on leur a donné des subventions. Donc celles qui
+      auraient dû faire faillite n'ont pas fait faillite. On comprend que quand il n'y
+      a pas de faillite pendant des mois, au moment où on va reprendre, tout d'un coup
+      les faillites vont apparaître. Mais comme il y a eu les PGE, les prêts garantis
+      par l'État, des apports de trésorerie, des subventions qui ont été quand même
+      assez largement distribués, finalement les faillites se sont assez étalées. On a
+      aujourd'hui retrouvé un niveau de faillite supérieur à ce qu'il était en 2019,
+      mais comme ça s'est étalé, il n'y a pas eu de choc de faillite. Donc vous voyez,
+      j'avais à la fois un peu raison — il y a bien eu le retour des faillites — et en
+      même temps j'avais quand même tort parce que le choc n'est pas arrivé. On fait
+      des prévisions puis on se trompe, c'est normal.
+  - chunk_index: 56
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 167
+    text: |-
+      Personne n'a prévu, en tout cas je n'ai pas vu ça, peut-être que des gens ont
+      prévu qu'il y aurait de l'inflation, une forte inflation à 10 % quasiment dans
+      certains pays au moment de la reprise économique. Pourtant, quand on y
+      réfléchit, ça aurait pu être prévisible. Parce qu'en fait, c'était logique. Nous
+      les économistes, on est capables de prévoir le passé très bien, surtout quand il
+      est logique. On a toujours de bonnes théories pour comprendre les choses qui
+      sont déjà passées, et c'est plus compliqué pour l'avenir. Bref, donc cette
+      situation a complètement changé.
+  - chunk_index: 57
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 370
+    text: |-
+      Alors quoi ? Que fait-on quand l'inflation commence à dépasser les 7-8 % ? Parce
+      que c'est ça qui s'est passé. En France, on n'a pas dépassé les 7 %, mais dans
+      beaucoup de pays ils ont dépassé les 7 %. La première chose qui s'est passée,
+      c'est que les monétaristes sont revenus par la fenêtre et ont dit : voyez, il
+      faut d'abord arrêter les politiques d'assouplissement quantitatif, donc les
+      politiques de rachat des banques centrales. On a des gens qui ont parlé dans la
+      presse dès 2021. En juillet 2021, on a eu Mervyn King, l'ancien gouverneur de la
+      Banque d'Angleterre, qui a fait un rapport pour dire qu'il faut sortir de
+      l'addiction au quantitative easing, au rachat d'actifs par la banque centrale.
+      Ça va augmenter l'inflation, et là on est en période d'inflation. Alors été
+      2021, ça commençait à peine, l'inflation, mais voilà, déjà les monétaristes sont
+      sortis à ce moment-là. En mars 2022, on a Larry Summers, un économiste très très
+      célèbre, un des plus célèbres des États-Unis, un des plus influents aux
+      États-Unis, qui dit : maintenant il faut remonter les taux d'intérêt, revenir
+      sur les politiques monétaires sérieuses, type politique monétariste.
+  - chunk_index: 58
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 440
+    text: |-
+      Alors les banques centrales n'ont pas fait ça tout de suite. Les banques
+      centrales ont continué. En Europe, la BCE a continué à relancer un plan de
+      quantitative easing en décembre 2021 en disant : on fera du quantitative easing
+      tant que ce sera nécessaire. C'est le mot qu'elle a employé. Alors qu'on était
+      déjà avec une inflation qui commençait largement à dépasser les 2 %. En décembre
+      2021 — je l'écris dans le livre — à l'échelle de la zone euro, on était à 2,8 %
+      d'inflation. Aujourd'hui on serait content d'être à 2,8 %, c'était juste le
+      début, mais 2,8 % c'est supérieur à la cible de 2 %. Souvenez-vous, les banques
+      centrales sont censées arriver à 2 % de taux d'inflation. Or là on avait calculé
+      une inflation à 2,8 % et la BCE dit : on continue le quantitative easing. Or le
+      quantitative easing, c'est censé faire augmenter l'inflation, enfin d'après les
+      monétaristes. C'est bizarre de dire ça. Voyez, comme quoi les banques centrales
+      ont été très prudentes dans la restriction monétaire, même au-dessus de la cible
+      d'inflation, la BCE a continué d'assouplir, d'avoir une politique très
+      accommodante, et la Réserve fédérale pareille. Alors bien sûr, au bout d'un
+      moment, la BCE a supprimé le quantitative easing, donc on était en juillet 2022.
+      Là, l'inflation commence à être bien plus élevée, et la Réserve fédérale a
+      commencé elle aussi, à la même époque en 2022, à réaugmenter ses taux d'intérêt.
+  - chunk_index: 59
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 185
+    text: |-
+      C'est ça le principe. Quand les banques centrales ont commencé à dire qu'elles
+      allaient augmenter les taux d'intérêt, elles ont repris, sans quasiment le
+      changer, le discours monétariste des années 2000. Elles ont dit : voilà,
+      l'inflation arrive, mon rôle c'est de lutter contre l'inflation. Donc je
+      restreins la politique monétaire en faisant baisser le crédit bancaire, et pour
+      faire baisser le crédit bancaire, il faut augmenter les taux d'intérêt. Alors du
+      coup tout le monde était content, on était revenu au monde d'avant. Mais le
+      monde d'avant, c'était quoi exactement ? Revenons au monde d'avant.
+  - chunk_index: 60
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 716
+    text: |-
+      À la fin des années 70, comme je vous le disais, l'inflation aux États-Unis et
+      dans la plupart des pays européens dépassait les 10 %. Peut-être certains
+      d'entre vous ici s'en souviennent. C'était beaucoup parce que dans les années
+      50-60, on n'avait pas un taux d'inflation aussi élevé. C'était la conséquence du
+      choc pétrolier, de plein de choses, et puis d'une désorganisation du système
+      productif aussi. On ne savait plus comment lutter contre l'inflation. Aux
+      États-Unis, Jimmy Carter décide de nommer un nouveau président de la Réserve
+      fédérale, qui s'appelle Paul Volcker. Paul Volcker, c'est un démocrate mais il
+      est comme beaucoup de gens à l'époque très influencé par les idées monétaristes.
+      Les idées monétaristes à l'époque sont très en vogue parce que Hayek a eu le
+      prix Nobel en 1974 et Friedman l'a eu en 1976. Eux disent : si vous voulez
+      lutter contre l'inflation, il faut restreindre la masse monétaire, et pour
+      restreindre la masse monétaire, il faut augmenter les taux d'intérêt. Donc en
+      1979, Volcker, tout démocrate qu'il est, augmente les taux d'intérêt pour lutter
+      contre l'inflation à 10 %. À combien met-il le taux d'intérêt ? Ici on parle du
+      taux de refinancement bancaire, c'est-à-dire le taux auquel les banques
+      empruntent, pas le taux auquel les ménages empruntent, qui est forcément
+      supérieur au taux auquel les banques empruntent. Est-ce que vous vous souvenez ?
+      Et bien avec une inflation à 10 %, Volcker a mis les taux d'intérêt au début de
+      1980, taux de refinancement bancaire, à 20 %. Ça, c'est du monétarisme, du vrai
+      monétarisme pur et dur. C'est-à-dire qu'il a mis des taux d'intérêt à un niveau
+      deux fois supérieur au niveau d'inflation pour avoir des taux d'intérêt réels
+      très élevés. Alors là, on restreint bien le crédit bancaire. Le crédit bancaire
+      s'est arrêté complètement. Et d'ailleurs, il y a eu une crise économique. On l'a
+      appelée la crise Volcker parce que c'est lui qui a fait la crise. En faisant une
+      crise économique, on réduit les revenus des gens, donc les gens achètent moins.
+      Ça évidemment ça limite l'inflation. Ça a tellement fait une crise économique
+      que du coup Carter n'a pas été réélu, et c'est Reagan qui a été réélu et qui a
+      renommé Volcker après tout, il avait bien servi. Bon, ça c'est du monétarisme.
+  - chunk_index: 61
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 604
+    text: |-
+      Mais alors ce n'est pas du tout ça qu'on a aujourd'hui. Je vous rappelle qu'on a
+      une inflation aujourd'hui aux États-Unis à 6 % et que la banque centrale
+      américaine a des taux d'intérêt directeurs, donc de taux de refinancement, à 5
+      %. Donc pas du tout le double des 6 % de taux d'inflation. Très très loin de ça.
+      On n'a pas augmenté les taux d'intérêt comme on l'a fait du temps du
+      monétarisme. Alors pourquoi on ne l'a pas fait ? Parce qu'il s'est passé
+      d'autres choses en 1980 quand Volcker a commencé à mettre les taux d'intérêt à
+      20 %. Vous comprenez bien que quand les taux d'intérêt augmentent, forcément les
+      banques... alors il y a eu deux effets. Premier effet : ça a rendu les actifs en
+      dollar bien plus rémunérés. Du coup les gens ont commencé à acheter des actifs
+      libellés en dollars. Ça a fait augmenter le cours du dollar. Alors c'est
+      intéressant du point de vue de la désinflation parce que ça veut dire qu'on
+      achète moins cher ce qu'on importe, donc les prix de nos importations diminuent,
+      et donc ça permet de lutter contre l'inflation. Mais ça a aussi des conséquences
+      : ça exporte l'inflation auprès d'autres pays parce que les autres pays qui
+      achètent en dollars, et bien ça leur coûte très cher, donc ça fait augmenter les
+      prix dans les autres pays. Donc les autres pays européens, notamment
+      l'Allemagne, ont commencé à eux aussi augmenter leurs taux d'intérêt pour
+      soutenir le deutsche Mark et pour compenser ce qu'avait fait Volcker. D'ailleurs
+      on a eu cette période où le dollar était à 10 francs, je parle aux vieux qui se
+      souviennent des francs, dont je fais partie, parce que moi aussi je me rappelle
+      du dollar à 10 francs, enfin je l'ai étudié dans les années 80 justement.
+      Ensuite le dollar a beaucoup baissé, à 4 francs. Voyez, le dollar faisait du
+      yoyo et ça dépendait des taux d'intérêt de la banque centrale et de la
+      rémunération des actifs en dollar. Du coup, les autres pays ont dû tous
+      augmenter les taux d'intérêt, à tel point qu'au début des années 80 le
+      monétarisme s'est étendu dans le monde entier.
+  - chunk_index: 62
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 436
+    text: |-
+      Et ça, ça a entraîné la hausse du dollar, et la hausse des taux d'intérêt a
+      entraîné une conséquence au Mexique et dans les pays d'Amérique latine et dans
+      quasiment tous les pays en développement. Parce que les pays d'Amérique latine
+      et le Mexique en particulier, ce sont des pays en voie de développement. Ils ont
+      besoin de s'équiper en machines, en outils, en plein de choses, et ça, ce n'est
+      pas eux qui le produisent. Ils doivent donc les importer. Et pour ça, ils ont dû
+      s'endetter, acheter des machines-outils aux pays occidentaux pour se développer.
+      Le problème, c'est qu'ils remboursent cette dette en dollars. Tout d'un coup, le
+      dollar a doublé. Ça veut dire que la dette qu'ils ont vis-à-vis des banques
+      américaines a doublé. Et en même temps, qu'est-ce qu'on fait quand on a une
+      dette trop importante ? On essaie de renégocier, on essaie de rallonger, de
+      réemprunter. Mais cette fois-ci on ne va pas emprunter à 5 ou 6 %, on emprunte à
+      20 % maintenant. Et encore, c'est plus que ça parce que les taux d'intérêt, même
+      pour les États, sont supérieurs. Et bien on a eu la crise — je ne sais plus
+      comment ça s'appelait — enfin bref, l'effondrement du Mexique face à sa dette.
+      Et donc quand le Mexique a fait défaut sur sa dette, plein de pays ont fait
+      défaut aussi parce qu'ils étaient tous dans une situation similaire, et le FMI a
+      dû venir en Amérique latine dans les années 80 pour restructurer toutes les
+      économies des pays en voie de développement.
+  - chunk_index: 63
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 342
+    text: |-
+      Bref, le problème que pose la hausse des taux d'intérêt à ces niveaux-là, à plus
+      de 20 %, c'est que tous les endettés risquent la faillite. Les États — ici
+      c'était le Mexique — mais ça peut être aussi une entreprise privée qui a besoin
+      de se refinancer. Parce que bien sûr, soit on a des taux fixes, dans ce cas-là
+      on est tranquille, mais on est tranquille jusqu'à ce qu'on doive rembourser et
+      réemprunter, parce que le problème c'est que très souvent les entreprises, les
+      ménages, font parfois rouler leur dette. Les ménages pas trop, mais les
+      entreprises peuvent faire ça. Les États le font systématiquement : ils
+      réempruntent à l'échéance de leur premier emprunt. Mais si on a emprunté à 5 %
+      et qu'on réemprunte à 20 %, là on est pris à la gorge. Donc tous ceux qui sont
+      endettés font face à une hausse très brutale des taux d'intérêt. Évidemment,
+      quand on est endetté à taux variable, la charge de la dette augmente
+      immédiatement. Quand on a un taux fixe, il faut attendre l'échéance, mais on
+      finit par y arriver aussi. Et donc ça crée des faillites, des défauts et des
+      défauts souverains.
+  - chunk_index: 64
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 366
+    text: |-
+      C'est la raison pour laquelle les banques centrales n'ont pas augmenté les taux
+      d'intérêt au niveau de ce que faisait Volcker dans les années 1979-1980. Elles
+      ne l'ont pas fait parce qu'elles se sont rendu compte que le système financier
+      était beaucoup trop fragile pour supporter une telle hausse des taux d'intérêt.
+      Pour l'expliquer, je vais vous donner un chiffre. Je vous ai dit d'ailleurs, je
+      vais vous redonner le chiffre que je vous ai donné tout à l'heure. Je vous ai
+      dit que depuis la crise Covid, mais même en fait avant, au moment de la crise
+      des subprimes, on avait un taux d'endettement global de l'économie américaine
+      qui était de 3,6 fois le PIB. En 1979, au moment où Volcker augmente très
+      fortement les taux d'intérêt, l'endettement global aux États-Unis, c'était 1,5
+      fois le PIB. Autrement dit, ce qui s'est passé, la différence entre l'économie
+      d'aujourd'hui et l'économie des années 80, c'est la hausse spectaculaire de
+      l'endettement de tous les agents économiques : l'État, les banques, les
+      entreprises réelles, les ménages pour acheter leur appartement. On est
+      aujourd'hui à 3,6 fois le PIB en termes d'endettement global aux États-Unis, et
+      c'est à peu près pareil en Europe.
+  - chunk_index: 65
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 235
+    text: |-
+      Et donc si on se met à faire du Volcker, que va-t-il se passer ? Ça va être la
+      faillite systémique. Et les banques, elles n'ont plus du tout envie d'avoir une
+      faillite systémique. Elles ont déjà vécu ça — je parle des banques centrales —
+      elles ont déjà vécu ça en 2008-2009 et sont vaccinées contre le risque
+      systémique. Elles savent que risque systémique égal, on est obligé de faire tout
+      pour éviter l'effondrement du système bancaire. Donc elles ont augmenté leurs
+      taux d'intérêt à des niveaux bien plus faibles, progressivement. Contrairement à
+      ce qu'on dit, la politique monétaire aujourd'hui n'est pas restrictive. Elle
+      n'est pas restrictive parce que les taux d'intérêt, les taux de refinancement,
+      sont inférieurs au taux d'inflation, y compris aux États-Unis.
+  - chunk_index: 66
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 945
+    text: |-
+      Et même, la réalité, c'est que les taux longs aux États-Unis — j'ai regardé ça
+      ce matin, en février, on n'a pas les chiffres pour mars, mais en février — le
+      taux d'intérêt long, donc le taux à 10 ans auquel l'État emprunte, c'est 3,75 %.
+      Ça veut dire qu'en fait, avec une inflation en février aussi qui était de 6 %,
+      et des taux d'intérêt auxquels l'État emprunte qui sont de 3,75 %, on peut tout
+      à fait dire : oui, les taux ont augmenté, ils étaient à zéro il y a quelque
+      temps. Oui, à 3,75 %, c'est plus que zéro, mais l'inflation elle a encore plus
+      augmenté. Et quand vous empruntez à 10 ans en payant un taux d'intérêt de 3,75 %
+      et que sur ces 10 ans — alors ce n'est pas sûr qu'il y aurait 6 % encore pendant
+      10 ans, mais de fait si l'inflation est celle-ci — et bien en fait vous gagnez
+      de l'argent. Vous remboursez une somme qui a moins de valeur. On ne le dit
+      jamais ça, et le gouvernement ne le dit jamais. Évidemment, c'est pour nous
+      faire comprendre qu'il faut se serrer la ceinture. Mais l'État gagne beaucoup
+      avec l'inflation, parce qui dit inflation dit hausse des prix, donc hausse des
+      recettes de la TVA. Qui dit inflation dit baisse de la valeur de la dette
+      accumulée par l'État. C'est très bon pour les endettés d'avoir l'inflation.
+      C'est-à-dire si vous avez emprunté pour acheter votre maison, l'avantage c'est
+      que vos salaires vont augmenter plus vite que la traite que vous payez, parce
+      que si vous avez emprunté à taux fixe, vous payez toujours la même traite mais
+      votre revenu augmente. Donc la part dans vos revenus de la traite va diminuer.
+      Donc toute personne, toute entreprise, tout État qui est endetté gagne avec
+      l'inflation. Il gagne parce que la dette... les recettes augmentent à cause de
+      l'inflation, parce que les revenus augmentent pour tout le monde. Parce qu'il
+      faut bien comprendre que la hausse des prix, c'est la hausse des revenus de ceux
+      qui vendent. Je vous l'avais dit, souvenez-vous. Il n'y a pas d'effet : une
+      hausse des prix globalement ne change rien sur l'économie. Alors ça change quand
+      on augmente les prix des importations. Quand le prix du pétrole augmente, ça
+      pèse bien sûr sur le pouvoir d'achat, sur les revenus de l'ensemble des
+      Français. Mais si on évacue la question de l'inflation importée et qu'on regarde
+      juste l'inflation interne, si les prix augmentent pour tout le monde, ça ne
+      baisse pas le pouvoir d'achat des Français en moyenne, parce que ça augmente les
+      revenus dans la même proportion que les recettes. Donc l'État en fait n'a pas à
+      craindre l'inflation. Et donc la hausse des taux d'intérêt, lorsqu'elle est
+      supérieure au niveau d'inflation, bien ça ne fait pas... ça n'est pas un coût
+      pour l'État lorsqu'elle est inférieure. Excusez-moi : la hausse des taux
+      d'intérêt auxquels l'État emprunte, qui est inférieure au taux d'inflation. En
+      fait, l'État gagne à ça. C'est-à-dire que quand vous avez des taux d'intérêt qui
+      sont passés de 0 à 3,75 % et un taux d'inflation qui lui est passé de 0 à 6 %,
+      c'est au final positif pour les finances publiques.
+  - chunk_index: 67
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 259
+    text: |-
+      Donc méfiez-vous de ceux qui vous disent : les taux d'intérêt augmentent et il
+      faut faire des économies sur les retraites par exemple. Parce que s'ils ne
+      comparent pas avec le taux d'inflation, ils ne vous donnent que la moitié de la
+      question. Et si on compare au taux d'inflation, en fait, on devrait dire : les
+      taux d'intérêt réels pour l'État, ils sont négatifs. Et donc il n'y a pas de
+      souci. Alors, ce n'est pas complètement vrai ce que je vous dis, parce que le
+      taux d'intérêt aujourd'hui est décidé pour 10 ans. Quand on emprunte à 10 ans,
+      on va avoir le même taux d'intérêt pendant 10 ans. Et l'inflation de l'année
+      prochaine, on ne la connaît pas encore. Et du coup, se pose une autre question.
+      Je vois qu'il va être l'heure, mais c'est la question la plus intéressante de
+      tout. Encore 5 minutes de réflexion et d'attention.
+  - chunk_index: 68
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 675
+    text: |-
+      On comprend bien que cette question des finances publiques est au cœur de toutes
+      les préoccupations. Je vous l'ai dit, le taux d'intérêt de l'État détermine
+      ensuite le taux d'intérêt des ménages quand ils empruntent pour un bien
+      immobilier, des entreprises lorsqu'elles financent un investissement. Est-ce
+      qu'on peut faire augmenter le taux d'intérêt de l'État à un niveau nettement
+      supérieur à l'inflation alors que tout le monde est endetté ? Ce n'est pas sûr.
+      Mais inversement, maintenant que les taux d'intérêt sont à 3-4 % — alors je n'ai
+      pas regardé les taux d'intérêt de la France, j'ai juste regardé les États-Unis.
+      J'ai vu que c'était à 3,75 %, mais la France doit être à 2,5 %, un truc comme
+      ça. Donc moins élevé. Mettons qu'aux États-Unis, les taux d'intérêt à 10 ans
+      sont à 3,75 %. Le taux d'inflation est à 6 %. Aujourd'hui donc les États-Unis
+      n'ont pas de problème de financement puisque, j'ai dit, ils gagnent à ça.
+      Maintenant faisons baisser le taux d'inflation à 2 %. Le taux d'intérêt à 3,75 %
+      va commencer à coûter cher. Ça va faire un taux d'intérêt réel à 1,75 %. Mais si
+      l'inflation est à 1 % ou à 0 %, là ça va commencer à coûter très cher pour les
+      États-Unis. Or, je le dis, tous les États sont très endettés. Est-ce que les
+      banques centrales peuvent se permettre d'avoir des taux d'inflation qui
+      diminuent vraiment ? Et bien ce n'est pas sûr. Et en fait, est-ce que le
+      discours des banques centrales qui dit qu'il faut baisser l'inflation est
+      sincère ? Parce que si on baisse trop l'inflation, ce n'est pas que l'État qui
+      va être en situation d'insolvabilité, c'est surtout les agents privés, ceux qui
+      ont emprunté pour acheter leurs biens immobiliers par exemple. En fait, tous les
+      endettés ont besoin d'inflation élevée. Alors bien sûr, une inflation à 10 ou à
+      8 %, c'est trop important. Mais moi, ce que je constate, c'est que les banques
+      centrales ont tout fait en sorte que le taux d'intérêt de refinancement et le
+      taux d'intérêt long... Si l'inflation baisse, est-ce qu'elles vont continuer
+      d'augmenter leurs taux ? Et bien moi, je n'en suis plus tout sûr, parce que le
+      risque financier est trop important.
+  - chunk_index: 69
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 720
+    text: |-
+      Et là, je viens à ce qui s'est passé dernièrement : la faillite de la Silicon
+      Valley Bank, les difficultés et la quasi-faillite du Crédit Suisse, les
+      difficultés de la Deutsche Bank. D'où viennent ces difficultés ? Elles viennent
+      justement de la politique monétaire. En fait, la politique monétaire a un effet
+      pour les banques direct. Je vous l'ai dit, les banques détiennent dans leur
+      bilan des actifs financiers qui sont en général des prêts qu'elles ont accordés.
+      Alors bien sûr des prêts aux entreprises, aux ménages, et elles ont aussi des
+      obligations publiques, des prêts à l'État. Tous ces taux d'intérêt ont été
+      fondés sur les taux sans risque de l'État. Au moment où les prix des obligations
+      étaient très élevés, elles ont dû racheter des créances qui sont indexées sur
+      les obligations. Pour le dire simplement, elles ont prêté à des taux d'intérêt
+      qui à l'époque étaient faibles. Or, vous vous souvenez que quand les taux
+      d'intérêt augmentent sur les obligations publiques, ça signifie que la valeur
+      des obligations baisse, et inversement. Je vous rappelle, je vous ai dit de me
+      faire confiance parce que je ne voulais pas le démontrer, mais on a une relation
+      inverse entre les taux d'intérêt des obligations publiques et la valeur de ces
+      obligations. Quand les taux d'intérêt baissent, la valeur des obligations
+      augmente. Quand le taux d'intérêt augmente, la valeur des obligations baisse.
+      Mais en fait, c'est vrai pour tous les crédits, le titre obligataire qu'on
+      possède, y compris des entreprises, et globalement toutes les créances. Quand
+      vous avez prêté à l'époque où les taux d'intérêt étaient faibles, vous avez donc
+      des valeurs des obligations qui étaient élevées. Et puis tout d'un coup les
+      banques centrales commencent à augmenter leurs taux. Alors mécaniquement, ça
+      fait baisser la valeur de vos actifs financiers. C'est-à-dire que dans la
+      comptabilité, vous subissez des pertes. Alors ces pertes, elles sont pour
+      l'instant que potentielles parce qu'elles sont réalisées quand vous vendez
+      l'obligation. Mais souvenez-vous du principe de comptabilité juste au marché, au
+      prix de marché : quand vous vous retrouvez avec des obligations en stock dans
+      vos comptes qui ont perdu 10 % de leur valeur et que vous en avez beaucoup
+      d'obligations, ça fait que vos actifs perdent en valeur. Et c'est exactement ce
+      qui s'est passé pour la Silicon Valley Bank : elle possédait beaucoup d'actifs,
+      beaucoup d'obligations publiques, et avec la hausse des taux d'intérêt, ça a
+      fait baisser la valeur des obligations. Et ça pèse dans le bilan des banques.
+  - chunk_index: 70
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 263
+    text: |-
+      Alors bien sûr, les taux d'intérêt ont aussi un effet positif pour les banques,
+      parce que les banques, quand elles prêtent plus cher, à un taux d'intérêt plus
+      élevé, elles gagnent plus d'argent. Mais il y a un problème de temporalité dans
+      cette histoire, puisque il faut comprendre que la banque, c'est un stock et des
+      flux. C'est-à-dire que quand les taux baissent, les stocks, c'est-à-dire les
+      prêts qu'elles ont accordés les années précédentes, perdent en valeur. Donc elle
+      fait des pertes. En même temps, quand les taux d'intérêt augmentent, les flux
+      augmentent en valeur parce qu'elles vont pouvoir prêter à des prix plus élevés.
+      Mais vous voyez le souci : si on augmente trop vite les taux d'intérêt, la perte
+      des stocks va être plus rapide que les gains liés aux flux, les nouveaux crédits
+      qu'on va accorder à des taux plus chers. Et là se pose un problème de
+      solvabilité des banques.
+  - chunk_index: 71
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 138
+    text: |-
+      Et donc qu'est-ce qu'elles font, les banques centrales ? Quand elles voient
+      qu'il y a des banques qui commencent à faire faillite, elles vont arrêter
+      d'augmenter leurs taux. Alors peut-être pas immédiatement, mais elles vont être
+      un peu plus mesurées dans les hausses de taux parce que ça veut dire que le
+      système est en train de craquer. Donc moi, ce dont je suis certain — alors
+      maintenant je termine là-dessus. Non, excusez-moi, je vais dire une autre chose
+      avant.
+  - chunk_index: 72
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 295
+    text: |-
+      Ce que je voudrais vous raconter, c'est ce que les banquiers centraux disent. En
+      gros, ils disent une chose. D'abord, ils sont attachés quand même à la théorie
+      monétariste, à la doctrine. Ils disent : bon, l'inflation est de retour, il faut
+      diminuer, il faut éviter la surchauffe, il faut diminuer la demande, il faut
+      diminuer la création monétaire, il faut diminuer le crédit bancaire. Donc on va
+      pratiquer une politique restrictive. Et ça, ils sont très contents de pouvoir le
+      faire parce que, on va dire, c'est ce qu'ils ont appris en cours, c'est la doxa.
+      Voilà, ils veulent le faire. En même temps, ils ont aussi appris autre chose en
+      2008 : c'est que parfois il y a des crises systémiques et on est obligé de venir
+      à la rescousse des banques pour éviter que tout s'effondre. Donc ils ont cherché
+      un compromis entre la doctrine et la situation réelle d'endettement, de
+      surendettement de tous les agents économiques. Qu'est-ce qu'ils ont fait ? Ils
+      ont augmenté les taux mais en faisant un peu attention.
+  - chunk_index: 73
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 366
+    text: |-
+      Il y a une autre manière d'appréhender les choses, qui n'a pas été celle des
+      banquiers centraux, qui est de dire : mais en fait pourquoi est-ce que vous
+      augmentez les taux d'intérêt ? Parce que cette inflation qu'on connaît n'a rien
+      à voir avec la création monétaire. Elle a à voir avec la reprise post-Covid,
+      avec la hausse du coût de l'énergie, avec la désorganisation des chaînes de
+      production. Vous voyez bien qu'il y a des chômeurs, vous voyez bien que les gens
+      ne sont pas trop riches et que ce n'est pas à cause d'une surchauffe qu'il y a
+      de l'inflation, c'est à cause des difficultés qu'a le système productif à
+      pouvoir produire suffisamment de richesse pour les achats des gens. Donc il
+      faudrait avoir des taux d'intérêt faibles. Pourquoi ? Pour accompagner les
+      entreprises dans la reprise, pour permettre les investissements dans l'offre,
+      augmenter l'offre, et puis vous allez voir, l'inflation va baisser. Les
+      hétérodoxes ont une approche très proche en fait finalement plus proche de la
+      MMT en quelque sorte. Ils disent : l'inflation n'est pas d'origine monétaire.
+      L'inflation, c'est simplement la conséquence d'une désorganisation de l'offre,
+      et donc augmenter les taux d'intérêt ça ne sert à rien. Et ils n'ont pas
+      complètement tort.
+  - chunk_index: 74
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 263
+    text: |-
+      Et donc maintenant la question qui se pose, c'est : dans quelle situation
+      sommes-nous ? La réalité, c'est que les banques ont beau avoir un discours
+      monétariste, elles ne mènent pas une politique monétariste, elles ne mettent pas
+      les taux d'intérêt à 15 ou 16 %, ce qui devrait être la réponse d'un monétariste
+      au niveau d'inflation. Donc ce qu'elles essaient de faire, c'est finalement
+      d'accompagner la reprise de l'inflation en diminuant l'écart entre l'inflation
+      et les taux d'intérêt nominaux pour maintenir finalement des taux d'intérêt
+      réels négatifs. Parce que quand vous prêtez à 5 % mais que l'inflation est à 7
+      %, ou que vous prêtez à 4 % et que l'inflation est à 6 %, c'est plutôt ça comme
+      ça qu'on est, et bien vous avez un taux d'intérêt réel négatif. C'est-à-dire
+      qu'en fait vous prêtez à un taux très faible.
+  - chunk_index: 75
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 619
+    text: |-
+      Et puis plus fondamentalement, et c'est ça que je voulais dire pour conclure,
+      les banques centrales n'ont pas totalement abandonné l'idée qu'elles vont devoir
+      peut-être à nouveau recourir à des politiques d'assouplissement quantitatif, de
+      quantitative easing. Et pour vous le prouver, je vous invite à lire la note qu'a
+      publiée Patrick Artus. Est-ce que vous connaissez Patrick Artus ? C'est un
+      économiste de banque, chef économiste de Natixis, qui publie régulièrement des
+      flash infos sur la situation des banques, du système bancaire. Dans sa
+      publication de cette semaine, il a dit la chose suivante : « Il est possible que
+      les banques centrales continuent d'avoir des taux d'intérêt élevés pour éviter
+      la surchauffe. » Bon, il a ce petit côté monétarisme banquier normal. Donc ça
+      évite aussi trop de crédit bancaire à court terme d'avoir des taux d'intérêt
+      élevés. Ça pousse les banques à éviter de trop prêter de l'argent. Mais d'un
+      autre côté, le même Patrick Artus dit : par contre, il y a un souci avec
+      l'investissement et avec la capacité de financement des États. Il faut quand
+      même maintenir les taux d'intérêt longs, cette fois-ci, à un niveau faible,
+      c'est-à-dire faire en sorte que les États puissent emprunter sans trop de coût.
+      Et donc Patrick Artus dit la chose qui paraît absolument hallucinante et très
+      hétérodoxe, y compris chez les hétérodoxes : maintenons les taux d'intérêt
+      courts hauts et faisons du quantitative easing, c'est-à-dire continuons la
+      politique de rachat des obligations publiques par la banque centrale pour
+      baisser les taux longs, quitte à ce qu'ils soient nettement inférieurs au taux
+      d'intérêt court. Ça permettra aux États de trouver un financement et ça
+      sécurisera les entreprises et les ménages quand ils vont investir à long terme.
+      Et il dit qu'il est tout à fait possible qu'on maintienne les politiques
+      hétérodoxes, donc non conventionnelles, de rachat d'actifs par les banques
+      centrales, et en même temps qu'on fasse du monétarisme au niveau des taux à
+      court terme. Bon, alors vous voyez qu'on est dans une situation qui défie tous
+      les modèles économiques et toutes les théories.
+  - chunk_index: 76
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 824
+    text: |-
+      Alors conclusion, parions sur l'avenir, faisons une prévision, c'est filmé. Ma
+      prévision, c'est que l'inflation ne va pas baisser très fortement. Elle va
+      baisser mais elle ne va pas baisser à moins de 2 %. On ne peut pas se permettre
+      d'avoir une inflation inférieure à 2 % avec les taux d'intérêt qui maintenant
+      sont supérieurs à 2 %, avec le fait que ça fait 15 ans que nos systèmes
+      économiques sont fondés sur des taux d'intérêt quasiment égaux à zéro ; basculer
+      dans un régime de taux d'intérêt positifs, ça devient très compliqué. Et donc le
+      premier pari que je fais, c'est que l'inflation ne va pas diminuer dans les
+      prochaines années. Enfin, excusez-moi, ne va pas diminuer jusqu'à 2 %, parce
+      qu'elle va diminuer forcément. On est à 6 %. À mon avis, on va arriver à 5, 4,
+      peut-être 3, mais en dessous de 3, ça va commencer à être difficile de diminuer
+      l'inflation à nouveau. Ça risque d'entraîner de trop nombreuses faillites.
+      Deuxième pari : les taux d'intérêt à court terme ne vont pas beaucoup augmenter,
+      et même il est possible qu'ils diminuent si l'inflation commence à diminuer.
+      C'est-à-dire que l'écart entre les taux d'intérêt de refinancement et
+      l'inflation va rester dans la fourchette -1, +1. C'est-à-dire qu'on n'aura
+      jamais un écart comme on a eu du temps de Volcker, avec 20 % de taux d'intérêt
+      et puis 10 % d'inflation, c'est-à-dire un écart de +10. On va plus certainement
+      — d'ailleurs les banques centrales vont sans doute plutôt chercher à avoir des
+      taux d'intérêt légèrement négatifs plutôt que positifs. Alors après je dis ça,
+      et en même temps ce n'est pas simple parce qu'en Europe par exemple les taux
+      d'inflation sont très différents d'un pays à l'autre. Donc avoir une politique
+      monétaire unique avec des taux d'inflation très différents, ce n'est pas simple
+      à gérer du tout. Même aux États-Unis, l'inflation n'est pas la même dans
+      différents États américains. Mais globalement, première prévision : l'inflation
+      ne va pas baisser en dessous de 2 % avant plusieurs années, et je ne sais pas
+      quand, mais très longtemps. Et deuxièmement, les taux d'intérêt resteront autour
+      du niveau d'inflation, voire légèrement inférieurs à l'inflation. Ce qui veut
+      dire qu'il est très possible que dans un an, on verra si l'inflation s'est
+      réduite à 3 %, et bien le taux d'intérêt soit à 2 %, c'est-à-dire qu'il soit
+      plus faible qu'aujourd'hui. Voilà, continuez d'acheter des maisons. Faites en
+      sorte de dépenser votre argent parce que l'inflation ne va pas baisser. Oui,
+      parce que quand il y a de l'inflation, il faut dépenser, parce que ça sera plus
+      cher demain. Donc il vaut mieux dépenser aujourd'hui. Voilà. Merci pour votre
+      écoute.
+  - chunk_index: 77
+    heading_path: La MMT et le dilemme des banques centrales face à l'inflation
+    content_token_count: 7
+    text: '[Applaudissements]'

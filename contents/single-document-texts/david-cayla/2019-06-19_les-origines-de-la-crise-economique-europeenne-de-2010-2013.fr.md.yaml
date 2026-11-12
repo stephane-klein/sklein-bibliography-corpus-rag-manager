@@ -1,0 +1,239 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2019-06-19_les-origines-de-la-crise-economique-europeenne-de-2010-2013.fr.md
+  source_file_hash: sha256:fb42ae7be1f4f7ea1237a8fb53dc30931f7e1ad778e7b7d7dfe449461a6260ce
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 13
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2019-06-19_les-origines-de-la-crise-economique-europeenne-de-2010-2013.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 35
+    text: |-
+      Bonjour, dans cette vidéo nous allons nous interroger sur les dysfonctionnements
+      de l'union européenne et la crise de l'euro.
+  - chunk_index: 1
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 125
+    text: |-
+      Le premier constat qu'on peut faire est celui d'une sous-performance économique
+      de la zone euro comparée aux économies américaine et britannique. Depuis
+      l'introduction de l'euro en 1999, non seulement la croissance de la zone euro
+      apparaît plus faible que celle des économies anglo-saxonnes, mais on remarque
+      aussi qu'elle a davantage subi la crise de 2008-2009, puisque leur reprise a été
+      à la fois plus tardive et moins forte à partir de 2011.
+  - chunk_index: 2
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 269
+    text: |-
+      Une des explications généralement avancées pour expliquer cette sous-performance
+      est que les politiques économiques menées en réponse à la crise ont été très
+      différentes des deux côtés de l'Atlantique. Alors que les États-Unis ont
+      massivement utilisé l'arme budgétaire en engageant très tôt un plan de relance
+      massif, les Européens ont, pour leur part, choisi de privilégier les équilibres
+      budgétaires en menant dès 2011 une politique d'austérité dans la plupart des
+      pays de la zone euro. Cette politique a été consacrée par la signature en 2012
+      du TSCG, le pacte budgétaire, qui renforce la surveillance et le contrôle des
+      déficits publics en Europe. Ainsi, alors que les déficits publics américains ont
+      dépassé les 10% du PIB pendant trois ans, de 2009 à 2011, les Européens ont eux
+      très fortement réduit leur déficit, ce qui a étouffé la reprise de la croissance
+      et de l'emploi.
+  - chunk_index: 3
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 242
+    text: |-
+      Mais cette explication est-elle la seule qui vaille ? N'y a-t-il pas d'autres
+      causes plus fondamentales à la crise européenne ? Je voudrais ici m'intéresser à
+      une crise plus spécifique, et notamment aux déséquilibres internes à la zone
+      euro. En effet, lorsque nous nous intéressons au déroulé de la crise de l'euro
+      qui s'ouvre en 2011, une chose en particulier saute aux yeux : la plupart des
+      pays touchés se situent en périphérie de la zone euro, principalement sur ses
+      frontières ouest et sud. Cette impression est renforcée lorsque l'on observe le
+      taux de chômage en 2013. Au plus fort de la crise, les régions qui se situent au
+      centre de la zone euro sont relativement épargnées par le chômage, à l'inverse
+      des régions périphériques où les taux de chômage dépassent les 10% et parfois
+      même les 20%.
+  - chunk_index: 4
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 284
+    text: |-
+      Pour essayer de comprendre ce qui différencie les pays touchés par la crise de
+      ceux qui ont été épargnés, je vous propose de regarder de plus près les
+      caractéristiques économiques de huit des principaux pays européens dans l'année
+      qui précède la crise, c'est-à-dire en 2007. En observant les quatre pays touchés
+      par la crise, on constate qu'ils ont des caractéristiques communes. La première
+      chose qui saute aux yeux est que la question des déficits ou de l'endettement
+      public n'est pas la question centrale. Des pays comme l'Espagne ou l'Irlande
+      bénéficiaient d'une faible dette publique et d'excédents budgétaires. Ils seront
+      pourtant emportés par la crise de l'euro. À l'inverse, l'Italie ou la France,
+      dont les comptes publics sont déficitaires, seront relativement épargnées par la
+      crise. Les chiffres de la balance commerciale, une manière de mesurer la
+      compétitivité des économies, apparaissent davantage prédictifs, à l'exception
+      toutefois de l'Irlande.
+  - chunk_index: 5
+    heading_path: Les origines de la crise économique européenne de 2010-2013.
+    content_token_count: 438
+    text: |-
+      En réalité, si l'on veut comprendre pourquoi certains pays ont résisté et
+      d'autres ont sombré dans la crise en 2011-2013, il faut observer un autre
+      indicateur : celui de la balance courante. La balance courante est un indicateur
+      très précieux en macroéconomie. Elle mesure les besoins de financement d'une
+      économie, c'est-à-dire la différence entre les dépenses et les revenus de
+      l'ensemble de ses agents : les ménages, les entreprises, les administrations
+      publiques. Concrètement, un pays peut se retrouver en situation d'excédent, ce
+      qui signifie qu'il reçoit plus de revenus qu'il ne réalise de dépenses, soit en
+      situation de déficit, lorsque ces agents dépensent davantage qu'ils ne disposent
+      de revenus. On dit alors que les pays qui connaissent un déficit de la balance
+      courante ont des besoins de financement, c'est-à-dire s'endettent sur le reste
+      du monde, tandis que les pays qui ont un excédent de leur balance courante
+      dégagent de l'épargne, cette épargne étant recyclée dans les pays en déficit. Si
+      l'on reporte sur une carte cet indicateur de la balance courante en prenant la
+      moyenne des trois années qui précèdent la crise, de 2005 à 2007, on constate que
+      cette organisation géographique de l'Union européenne est particulièrement
+      visible. Tous les pays qui se situent au centre dégagent des excédents, alors
+      que les pays en périphérie se retrouvent tous en déficit, c'est-à-dire en besoin
+      de financement. Il apparaît d'ailleurs que plus on s'éloigne du cœur de l'Union
+      européenne, plus les déficits s'accroissent.
+  - chunk_index: 6
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > L'explication par la désindustrialisation et la puissance industrielle
+    content_token_count: 322
+    text: |-
+      Comment peut-on expliquer économiquement cette organisation géographique ? Il
+      faut pour cela s'intéresser à l'une des composantes principales de la balance
+      courante : la balance commerciale, l'écart entre les exportations et les
+      importations. Pour la plupart des pays, c'est en effet l'état de la balance
+      commerciale qui détermine le niveau de la balance courante. Ainsi, plus un pays
+      dégage des excédents commerciaux, plus il génère de l'épargne, tandis que
+      lorsque sa balance commerciale est déséquilibrée, il s'endette. Comment alors
+      expliquer les excédents et les déficits commerciaux ? C'est simple : la
+      puissance industrielle est déterminante. En effet, alors que dans un pays comme
+      la France l'industrie, c'est-à-dire l'activité manufacturière, ne représente
+      qu'environ 12% du PIB, elle représente 75% des exportations françaises. Le cas
+      est similaire dans tous les pays. Malgré la désindustrialisation des économies
+      européennes, les flux industriels représentent plus des trois quarts des flux
+      commerciaux, ce qui implique qu'un pays qui se désindustrialise ne peut plus
+      exporter. Sa balance commerciale se dégrade alors, ce qui entraîne un déficit de
+      sa balance courante.
+  - chunk_index: 7
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > L'explication par la désindustrialisation et la puissance industrielle
+    content_token_count: 275
+    text: |-
+      Cette carte montre l'évolution de l'emploi industriel dans l'Union européenne
+      entre 2000 et 2015. On constate la même opposition centre-périphérie que dans la
+      carte précédente. Les pays qui ont le plus perdu d'emplois industriels sont ceux
+      qui sont le plus éloignés géographiquement du cœur industriel de l'Europe. Ils
+      perdent leur capacité à exporter et se retrouvent logiquement en situation de
+      besoin de financement. On remarque également que les pays d'Europe orientale
+      limitrophes de l'Allemagne, comme la Pologne ou la République tchèque, ont peu
+      perdu d'emplois industriels, les industriels allemands ayant choisi de
+      délocaliser une partie de leur production dans ces pays pour profiter des
+      faibles coûts de la main-d'œuvre. On assiste ainsi à un phénomène
+      d'agglomération qui conduit à une polarisation industrielle de l'Europe. Les
+      pays les plus industrialisés voient leur industrie se renforcer, alors que les
+      pays qui ont une industrie fragile voient leur industrie disparaître peu à peu.
+  - chunk_index: 8
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > Le rôle du marché unique et des facteurs de production territoriaux
+    content_token_count: 311
+    text: |-
+      Comment l'expliquer ? La cause principale de ce phénomène se trouve dans la
+      réorganisation économique européenne consécutive à la création du marché unique.
+      Le marché unique est la conséquence de l'Acte unique, signé en 1986 et entré
+      progressivement en vigueur dans les années 90. Le principe de l'Acte unique est
+      d'élargir le marché européen. On adopte le régime des quatre libertés. À la
+      liberté des mouvements de marchandises consacrée par le marché commun, on ajoute
+      la liberté d'installation, la liberté des mouvements de capitaux et la libre
+      circulation des personnes, du travail. Les règles de la libre concurrence sont
+      alors renforcées, interdisant aux États d'avantager leurs entreprises nationales
+      au détriment des entreprises étrangères. En somme, si le marché commun
+      consacrait la libre circulation des marchandises, le marché unique consacre la
+      libre circulation des secteurs de production que sont le capital et le travail.
+      L'épargne et l'investissement peuvent alors librement circuler partout en
+      Europe, en particulier dans la zone euro où la création de la monnaie unique en
+      1999 a abattu les dernières cloisons monétaires qui existaient encore entre les
+      différents pays.
+  - chunk_index: 9
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > Le rôle du marché unique et des facteurs de production territoriaux
+    content_token_count: 433
+    text: |-
+      Or, tous les pays ne se trouvent pas à égalité pour attirer les capitaux
+      industriels. En effet, pour s'épanouir, l'activité manufacturière a besoin de
+      deux sortes de facteurs de production : des facteurs qui sont mobiles et qui
+      peuvent facilement passer d'un pays à l'autre, comme le capital et le travail,
+      et des facteurs territoriaux, qui sont ancrés dans la géographie et qu'on ne
+      peut déplacer. Ainsi, en créant le marché unique, on a libéralisé les facteurs
+      mobiles alors même que les facteurs territoriaux étaient inégalement répartis
+      sur le territoire européen. Qu'est-ce qu'un facteur territorial ? C'est par
+      exemple une infrastructure portuaire. Un industriel doit en effet faire face à
+      d'importants coûts logistiques : plus il est proche géographiquement d'import,
+      plus ses coûts diminuent, à la fois pour importer ses matières premières et pour
+      vendre sa production. Or, la qualité des infrastructures portuaires dépend du
+      volume de marchandises qu'elles traitent. Seuls les plus grands ports peuvent
+      accueillir les plus grands porte-conteneurs. Un industriel qui se situe près
+      d'un grand port bénéficie d'un avantage géographique conséquent. De même, s'il
+      se situe près d'un fleuve navigable qui débouche sur un grand port. Or, les
+      quatre premiers ports européens, Rotterdam, Anvers, Hambourg et Amsterdam, se
+      situent tous sur la mer du Nord, sur une bande côtière qui fait environ 500 km.
+      Le volume total de marchandises transportées par ces quatre ports est supérieur
+      au volume total de marchandises transportées par les seize ports qui suivent
+      dans la liste des plus grands ports européens.
+  - chunk_index: 10
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > Le rôle du marché unique et des facteurs de production territoriaux
+    content_token_count: 330
+    text: |-
+      Autre avantage géographique : la densité industrielle du territoire. En effet,
+      toute production industrielle a besoin de collaborer avec des sous-traitants qui
+      produisent les composants dont un industriel a besoin. Lorsque celui-ci dispose
+      d'un réseau de sous-traitants à proximité, il bénéficie d'un avantage sur
+      l'industriel qui lui est géographiquement éloigné de ses sous-traitants. C'est
+      l'effet d'agglomération. Plus un territoire est riche en entreprises
+      industrielles, plus il est rentable pour un industriel de s'installer sur ce
+      territoire. Inversement, moins un territoire possède d'usines, plus il est
+      coûteux de s'y installer. C'est ainsi que l'Allemagne, qui cumule les facteurs
+      de production territoriaux, en vient à attirer les facteurs mobiles. À
+      l'inverse, on comprend que les territoires géo-périphériques tels que la Grèce
+      ou le Portugal, éloignés du cœur industriel de l'Europe, cumulent les
+      désavantages dans un ensemble économique où les capitaux sont libres de circuler
+      et où il est interdit aux États d'intervenir. Les forces du marché conduisent
+      mécaniquement à avantager les territoires qui sont déjà les plus performants.
+  - chunk_index: 11
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > Migrations du facteur travail
+    content_token_count: 443
+    text: |-
+      Pour conclure, interrogeons-nous sur les migrations du facteur travail. Quels
+      sont les pays dont la population émigre et quels sont les pays qui attirent la
+      main-d'œuvre ? Jusqu'en 2008, des mouvements de population en Europe divergent
+      du dynamisme industriel. L'Europe du Sud et l'Europe de l'Ouest connaissent un
+      dynamisme économique qui attire de nombreux travailleurs qui viennent, pour la
+      plupart, d'Europe centrale et orientale. Ici, l'Allemagne n'apparaît pas comme
+      un pays de forte immigration, à la différence de l'Espagne ou de l'Irlande, qui
+      attirent de la main-d'œuvre dans les services ou la construction, malgré leur
+      affaiblissement industriel. La situation change radicalement dans les années
+      d'après crise. Victimes de l'explosion du chômage, les pays du Sud et de l'Ouest
+      de l'Europe passent soudainement du statut de pays d'accueil au statut de pays
+      de départ. Notons cependant l'exception italienne, qui bénéficie d'une forte
+      immigration extra-européenne en raison de la crise des réfugiés. Notons
+      également que l'Allemagne voit son solde migratoire exploser, passant d'environ
+      130 000 personnes en 2011 à 406 100 à partir de 2012, puis 1,1 million en 2015
+      suite à l'accueil de centaines de milliers de réfugiés. Au total, l'Allemagne a
+      accueilli en moyenne 500 000 personnes par an entre 2012 et 2015, soit davantage
+      que le nombre de naissances annuelles dans le pays. Il est à noter que la
+      majorité de ces migrants sont originaires de l'Union européenne.
+  - chunk_index: 12
+    heading_path: Les origines de la crise économique européenne de 2010-2013. > Migrations du facteur travail
+    content_token_count: 103
+    text: |-
+      Alors, si vous voulez compléter cette réflexion, je vous invite à lire ces deux
+      livres et, en particulier, vous pouvez regarder le petit article sur l'Irlande
+      que j'ai écrit dans le blog de Libération en janvier dernier, en janvier 2007,
+      puisqu'il explique un peu les paradoxes de l'économie irlandaise. Cette vidéo
+      est à présent terminée. Je vous remercie pour votre attention.

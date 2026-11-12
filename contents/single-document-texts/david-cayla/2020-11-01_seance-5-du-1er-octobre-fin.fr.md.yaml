@@ -1,0 +1,875 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-11-01_seance-5-du-1er-octobre-fin.fr.md
+  source_file_hash: sha256:871f3c9e6d3f14df68eeb6fded4c9a32edbd2c334c08281a993326770bcad00a
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 56
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-11-01_seance-5-du-1er-octobre-fin.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: 'Séance 5 du 1er octobre (fin) > Reprise : le lien entre la France et le mercantilisme'
+    content_token_count: 87
+    text: |-
+      Bien, nous allons reprendre le cours. Un étudiant est venu me voir à la pause
+      pour poser une question très intelligente : il disait que ce que j’avais raconté
+      sur la France était intéressant, mais qu’on ne comprenait pas le lien avec le
+      mercantilisme. Il avait raison, je ne l’avais pas suffisamment souligné.
+  - chunk_index: 1
+    heading_path: 'Séance 5 du 1er octobre (fin) > Reprise : le lien entre la France et le mercantilisme'
+    content_token_count: 341
+    text: |-
+      Le mercantilisme, je le répète, a pour objectif de trouver les moyens de
+      financer l’État pour qu’il ait une armée puissante. Pour cela, il faut de l’or.
+      On va donc avoir des stratégies qui tournent toutes autour de la question :
+      comment récupère-t-on de l’or ? Pour l’Espagne, on garde l’or parce qu’on a les
+      mines ; on essaie donc de le conserver, avec une politique bullioniste. Pour
+      l’Angleterre et les Provinces-Unies, on a accès à des ressources qu’on peut
+      échanger contre de l’or ; on va donc chercher à avoir une politique
+      protectionniste favorable aux échanges, pour dégager un excédent commercial.
+      Pour la France, c’est cela que je n’avais pas dit : on va chercher à se
+      développer en utilisant sa main-d’œuvre pas très chère et nombreuse. On va
+      développer des manufactures pour à la fois se substituer aux importations —
+      c’est-à-dire éviter d’importer de l’étranger — et exporter les productions de
+      ces manufactures, de manière à dégager également un excédent commercial, et donc
+      trouver des financements pour l’armée et pour l’État. C’est bien une stratégie
+      mercantiliste, seulement on utilise là les ressources de la France, qui sont sa
+      population nombreuse et pas très bien payée.
+  - chunk_index: 2
+    heading_path: 'Séance 5 du 1er octobre (fin) > Reprise : le lien entre la France et le mercantilisme'
+    content_token_count: 71
+    text: |-
+      Oui, c’est du protectionnisme, c’est marqué ici : protectionnisme et
+      interventionnisme. C’est là la différence avec l’Angleterre. On va vraiment
+      chercher à trouver des commandes, à donner des commandes aux manufactures
+      françaises pour qu’elles se développent.
+  - chunk_index: 3
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates
+    content_token_count: 219
+    text: |-
+      Revenons maintenant à la doctrine des physiocrates. C’est une approche qui est
+      en réalité plus scientifique que l’approche mercantiliste, parce qu’elle ne
+      cherche pas juste à répondre à un besoin particulier, mais plutôt à essayer de
+      comprendre le fonctionnement de l’économie. Pour comprendre le fonctionnement de
+      l’économie, on va adopter une démarche qui est celle de la science de l’époque :
+      on va commencer par catégoriser ce qu’on veut étudier. Par exemple, en biologie,
+      à l’époque, qu’est-ce qu’on fait ? On catégorise l’ensemble des animaux,
+      l’ensemble des plantes, pour essayer de comprendre le fonctionnement des
+      espèces. Le grand travail des biologistes de l’époque était de catégoriser
+      l’ensemble des espèces, de les regrouper par famille. C’est comme cela que
+      fonctionne la science.
+  - chunk_index: 4
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates
+    content_token_count: 179
+    text: |-
+      Donc qu’est-ce qu’on fait en économie ? On va aussi chercher à comprendre le
+      système économique à partir d’une forme de catégorisation. Cette catégorisation
+      repose sur des classes sociales. Aujourd’hui, quand on parle de classe sociale,
+      on a tendance à parler des riches et des pauvres, mais ce n’est pas ainsi que le
+      concept de classe sociale a été inventé. Il ne s’agit pas juste de diviser la
+      société en riches et en pauvres ; il s’agit surtout de trouver les fonctions
+      sociales des gens. Une classe sociale, c’est un regroupement de personnes, une
+      catégorisation du peuple en fonction de leur fonction sociale, c’est-à-dire de
+      ce à quoi ils servent dans la société.
+  - chunk_index: 5
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates
+    content_token_count: 265
+    text: |-
+      En France, à l’époque, on avait déjà des classes sociales institutionnelles : la
+      noblesse, le clergé et le tiers état. Trois groupes fonctionnels ; c’était
+      finalement comme cela que les gens se représentaient la société. Il n’est donc
+      pas étonnant que, lorsqu’on cherche à comprendre la société et l’économie, on
+      regroupe aussi en trois grandes classes. Mais on ne peut pas utiliser les
+      classes que je viens de citer — noblesse, clergé, tiers état — parce que, par
+      exemple, si on veut faire une analyse économique, il va être difficile de
+      trouver des distinctions importantes entre ces trois classes. Notamment, que
+      fait le clergé d’un point de vue économique ? Est-ce que c’est profondément
+      différent de ce que fait la noblesse ? Tout cela n’est pas très clair, et ce
+      n’est pas vraiment la question que se posent les physiocrates. Ils vont donc
+      établir aussi trois classes sociales, mais avec des catégories plus
+      intéressantes, plus pertinentes que les catégories politiques de l’époque.
+  - chunk_index: 6
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 70
+    text: |-
+      Ces trois classes, ils vont les appeler : la classe productive, la classe des
+      propriétaires et la classe stérile. Chacune de ces classes a une fonction
+      particulière, et cette fonction est relative à l’usage qu’ils ont de la terre.
+      On est dans une société agricole.
+  - chunk_index: 7
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 298
+    text: |-
+      Pour François Quesnay, le fondateur de cette pensée physiocratique — né en 1694,
+      mort en 1774 —, c’est d’abord un médecin, le médecin du roi Louis XV. Il est
+      donc à la cour, c’est quelqu’un d’important dans la cour de Louis XV. À la fin
+      de sa vie, il s’amuse à essayer de dépasser la médecine et donc à comprendre non
+      plus le corps humain, mais le corps social : comment la société fonctionne.
+      François Quesnay a aussi conscience que, à l’époque, la richesse c’est
+      essentiellement la nourriture. Si on devait calculer le PIB de l’époque — bien
+      sûr on ne sait pas le faire, parce qu’on n’a pas les instruments statistiques
+      suffisants —, sans doute qu’on verrait que 70 % ou 80 % du PIB relève de
+      l’agriculture, et que les services et l’industrie ne sont qu’une part marginale
+      de l’activité économique. Finalement, comme la richesse essentielle est la
+      richesse de l’agriculture, on va regarder comment la société fonctionne par
+      rapport à son rapport à la terre.
+  - chunk_index: 8
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 109
+    text: |-
+      C’est là qu’on introduit les trois classes. La classe productive, pour Quesnay,
+      ce sont les agriculteurs, c’est-à-dire ceux qui produisent la nourriture, qui va
+      ensuite être dispatchée dans la société. C’est une classe productive parce que
+      c’est elle qui est réellement productive. Je viendrai tout à l’heure expliquer
+      pourquoi il considère qu’elle est productive. Son travail, c’est d’exploiter la
+      terre.
+  - chunk_index: 9
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 187
+    text: |-
+      Toujours quand on regarde le rapport à la terre, la classe des propriétaires,
+      c’est la classe des gens qui possèdent la terre. Bien sûr, la classe des
+      propriétaires peut aussi — on peut avoir des gens qui sont à la fois
+      propriétaires et qui exploitent —, on peut avoir des agriculteurs qui possèdent
+      leur propre terre. Compris, à l’époque toute la terre n’est pas détenue par la
+      noblesse. Dans ce cas-là, on peut avoir quelqu’un qui appartient aux deux
+      catégories. Ce n’est pas un problème du point de vue de la pensée économique :
+      on catégorise en fonction de la fonction sociale, mais une personne peut tout à
+      fait être à la fois propriétaire et avoir une activité productive, au sens
+      travailler la terre.
+  - chunk_index: 10
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 155
+    text: |-
+      La troisième classe sociale — et une personne peut tout à fait être sur
+      plusieurs classes à la fois — c’est la classe stérile. On va voir tout à l’heure
+      pourquoi elle est dite stérile : parce qu’elle ne produit pas de produit net. En
+      fait, son rapport à la terre, c’est justement qu’elle n’a aucun rapport à la
+      terre. Ce sont les urbains, les gens qui vivent dans les villes, qui ne sont ni
+      propriétaires de terre ni ne l’exploitent. Ce sont les artisans, les
+      commerçants, les industriels, toutes les personnes qui ne sont pas liées
+      directement au travail agricole.
+  - chunk_index: 11
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les trois classes physiocratiques
+    content_token_count: 67
+    text: |-
+      Cette représentation de la société vise à comprendre les fonctions économiques
+      de chaque classe. Elle survalorise l’agriculture — mais c’est aussi le principe
+      de la société de l’époque —, néanmoins elle est fondée sur un certain nombre de
+      réflexions.
+  - chunk_index: 12
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 241
+    text: |-
+      Première chose : pourquoi la classe productive est-elle productive ? Parce que —
+      vous allez avoir l’occasion de le voir dans le TD1, qui analysera un peu plus
+      profondément les physiocrates — elle crée un produit net, c’est-à-dire qu’elle
+      crée un surplus. On pourrait dire en gros qu’un agriculteur sème une quantité de
+      blé X et qu’à la fin des moissons il va se retrouver avec une quantité de blé X
+      x 5 ou X x 10. Il va en quelque sorte produire davantage de blé qu’il n’a
+      utilisé de blé pour semer. Il y a un effet multiplicateur. Et en gros, nous dit
+      Quesnay, c’est cela le principe de la nature : c’est la croissance des blés, la
+      croissance naturelle des plantes, qui n’est pas le fruit du travail mais le
+      fruit de la nature, et qui explique que c’est dans l’agriculture qu’on va
+      produire davantage que ce qu’on a dépensé.
+  - chunk_index: 13
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 177
+    text: |-
+      Il y a donc l’idée d’un surplus produit par les bienfaits de la nature. C’est ce
+      qu’on appelle le produit net. Et ce produit net est le résultat du fait que la
+      production est supérieure aux avances qui ont été nécessaires pour la produire.
+      Les avances, c’est le blé qu’on a semé, c’est aussi le blé qu’on a mangé pour
+      pouvoir semer, donc c’est tout l’ensemble des coûts de production.
+      L’agriculture, nous dit Quesnay, c’est un domaine très particulier : c’est le
+      seul domaine productif, parce que c’est le seul domaine où finalement ce qui est
+      rapporté par l’activité est supérieur à ce que ça a coûté.
+  - chunk_index: 14
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 291
+    text: |-
+      Cela permet aussi de comprendre que la classe stérile est stérile en ce sens
+      qu’elle ne produit pas, elle ne travaille pas dans la culture, elle ne bénéficie
+      donc pas de ce que Quesnay appelle le don gratuit de la nature. C’est-à-dire que
+      tout ce qu’elle produit est égal globalement à ce que ça lui coûte ; du fait,
+      elle ne génère pas de surplus, pas de produit net, et donc elle est considérée
+      comme stérile du point de vue de la production de richesse. Elle transforme de
+      la richesse, elle ne produit pas de la richesse. C’est un peu comme ça qu’il
+      l’analyse : en gros, le commerçant transporte des marchandises d’un endroit à
+      l’autre, l’artisan transforme les matières premières en produits finis, mais en
+      fait ça leur coûte aussi cher que la valeur de ce qu’ils produisent. Si on
+      produit un service par un transport, on va faire payer le transport à peu près
+      le coût de production du transport ; donc il n’y a pas derrière cela de surplus,
+      à la différence de l’agriculture, qui est une activité qui permet de dégager un
+      véritable surplus social.
+  - chunk_index: 15
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 195
+    text: |-
+      À qui va ce surplus social, ce produit net ? Comme c’est un produit qui est
+      engendré par la nature, donc par la terre, il ne va pas à la classe productive,
+      à celui qui exploite la terre ; il va au propriétaire de la terre. C’est donc la
+      classe des propriétaires, les propriétaires fonciers, ceux qui possèdent les
+      terres et qui prélèvent le produit net de la terre à partir des loyers qu’ils
+      font payer aux agriculteurs. C’est eux qui bénéficient du produit net payé par
+      les agriculteurs sous forme de rente, sous forme de loyer de la terre, et qui
+      vont ensuite faire circuler ce produit net par leurs dépenses de consommation.
+      Et c’est ces dépenses de consommation qui vont permettre de nourrir la classe
+      stérile en quelque sorte.
+  - chunk_index: 16
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 144
+    text: |-
+      On a donc aussi cette présentation : classe productive, classe des
+      propriétaires, classe stérile. Parce que c’est aussi un aspect logique : on
+      génère le produit net dans la production agricole, ce produit net va ensuite aux
+      propriétaires, qui vont le dépenser et réaliser les revenus de la classe
+      stérile. La classe stérile va également être utile à la classe productive,
+      puisque, par exemple, elle va réparer les outils des paysans et donc faire en
+      sorte que le travail agricole pourra se poursuivre. Il a une vision très
+      circulaire de l’économie.
+  - chunk_index: 17
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Le produit net
+    content_token_count: 326
+    text: |-
+      Mais ce qui est intéressant, c’est finalement le postulat des physiocrates : la
+      richesse n’est pas créée par le travail, elle est créée par la terre, et la
+      terre c’est la nature. On a donc une vision où toute richesse vient de la
+      nature. Ce n’est pas forcément une vision absurde. Aujourd’hui, on est quelque
+      part les héritiers d’Adam Smith, pour lequel la richesse venait du travail, de
+      l’activité humaine. Mais quand on pense à certaines conceptions écologiques, et
+      quand on pense aussi, peut-être de manière plus large, que toute activité
+      économique repose sur des ressources naturelles, et que ces ressources
+      naturelles, ce n’est pas nous qui les avons créées, ce n’est pas notre travail
+      qui les a créées, elles sont là, on pourrait tout à fait raisonner comme un
+      physiocrate en disant que la richesse de notre société, c’est notre capacité à
+      exploiter les richesses naturelles, à bénéficier de l’énergie qui vient de la
+      nature, des biens miniers qui viennent de la nature également. Donc cette pensée
+      de Quesnay, cette pensée physiocratique, n’est pas forcément absurde a priori.
+      Bien sûr, elle aura des conséquences idéologiques dont on parlera tout à
+      l’heure.
+  - chunk_index: 18
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 89
+    text: |-
+      Dernière chose que je voulais voir sur la diapo : cette notion d’avance. Le
+      produit net, tout à l’heure je vous l’ai dit, c’est la différence entre la
+      valeur de la production et les avances nécessaires à réaliser cette production.
+      Ces avances, quelles sont-elles ? Chez les physiocrates, il y en a trois formes.
+  - chunk_index: 19
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 106
+    text: |-
+      D’abord, il y a les avances foncières. Les avances foncières, c’est la mise en
+      culture sur des terres : comment on a transformé des terres non cultivables en
+      terres cultivables. Cela a demandé un certain travail, mais ce travail, une fois
+      qu’il est fait, n’a plus à être fait. C’est la mise en culture des terres qui
+      date de très très longtemps et qui est amortie depuis longtemps.
+  - chunk_index: 20
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 107
+    text: |-
+      Ensuite, il y a une autre avance qu’il faut mettre en avant, justement :
+      l’avance primitive. C’est ce qui permet les bâtiments, les outils qui permettent
+      l’agriculture. On peut aussi mettre dans l’avance primitive, par exemple, les
+      troupeaux, quand on est un éleveur, puisqu’il a bien fallu constituer un cheptel
+      pour pouvoir avoir un troupeau de vaches ou de moutons.
+  - chunk_index: 21
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 346
+    text: |-
+      Et puis ensuite, on a les avances annuelles, qui sont les avances qui se
+      renouvellent chaque année, qui disparaissent chaque année. C’est la subsistance
+      de l’agriculteur et les semences, si on est aussi dans l’agriculture au sens
+      semer du blé. En fait, quand on compare l’avance primitive et l’avance annuelle,
+      l’avance foncière ne se dégrade pas, elle reste constante, donc il n’y a plus de
+      question à se poser. Mais l’avance primitive se détériore chaque année à un
+      rythme faible, et l’avance annuelle disparaît chaque année, donc à un rythme
+      très élevé. Quand on veut comprendre avec les mots d’aujourd’hui, on dira —
+      notez-le, on aura l’occasion de le revoir — que les avances primitives
+      correspondent à du capital fixe, alors que les avances annuelles correspondent à
+      du capital circulant. Puisque finalement les avances primitives, c’est
+      l’investissement qu’il faut renouveler, qui se détériore, qu’il faut renouveler
+      au fur et à mesure du temps, mais qui va perdurer. Alors que les avances
+      annuelles, c’est les dépenses qu’on a besoin de faire pour produire, les
+      semences, mais qui vont disparaître quand on va semer. On a aussi bien sûr la
+      subsistance de l’agriculteur dans les avances annuelles.
+  - chunk_index: 22
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 334
+    text: |-
+      Voilà donc finalement le grand schéma de représentation de l’économie. Vous
+      voyez, là on est dans la description, on n’est pas dans le normatif.
+      Souvenez-vous du chapitre 1 : on est en train de concevoir une théorie pour
+      décrire la réalité. Cette théorie est tout à fait contestable. Pourquoi trois
+      classes ? On pourra avoir des différences, par exemple, dans la classe stérile,
+      entre ceux qui produisent et ceux qui vendent, les marchands, les industriels ;
+      ce ne sont pas tout à fait les mêmes activités. En fait, tout ça est arbitraire.
+      L’intérêt d’une théorie, ce n’est pas forcément de décrire la réalité au plus
+      précis, parce que si on décrit la réalité au plus précis, chaque personne
+      individuellement a des fonctions différentes. Si on commence à entrer là-dedans,
+      on n’a plus de modèle, on a 40 millions d’actifs en France. Comment voulez-vous
+      raisonner à partir de 40 millions de personnes qui font des choses différentes ?
+      On est obligé de catégoriser. Alors est-ce qu’on prend deux catégories, trois
+      catégories, cinq catégories ? Plus on va prendre de catégories, plus notre
+      modèle sera complexe et moins ça sera facile de produire une théorie. Donc là,
+      voilà, on a un choix qui est trois classes sociales.
+  - chunk_index: 23
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 81
+    text: |-
+      Par contre, ce qu’il faut, c’est que ça soit cohérent. Cohérent comment ? C’est
+      que chaque fois c’est le rapport à la terre qui détermine la place dans la
+      classe sociale : est-ce qu’on exploite la terre, est-ce qu’on la possède, ou
+      est-ce qu’on n’a aucune relation avec la terre ?
+  - chunk_index: 24
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Les avances
+    content_token_count: 219
+    text: |-
+      Donc voilà cette idée ici, qui est que nous avons une doctrine qui vise quand
+      même à essayer de comprendre la société et son fonctionnement, et en plus qui
+      cherche à avoir une réflexion réaliste sur le fonctionnement de la société.
+      C’est que François Quesnay va chercher à produire des statistiques. Là aussi
+      c’est la première fois qu’on essaie de faire ça. Ces statistiques sont très
+      approximatives, il n’a pas l’outil statistique qui permet de voir, mais il
+      essaie de comprendre l’économie française, du royaume de France à l’époque, en
+      regardant combien de tonnes de blé sont produites chaque année, où ce blé va,
+      comment il circule. Il cherche à trouver des chiffres réalistes, en unité
+      monétaire d’ailleurs, pour voir comment globalement l’argent circule, comment
+      les richesses elles-mêmes circulent.
+  - chunk_index: 25
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 304
+    text: |-
+      Du point de vue de la pensée économique, je l’ai dit tout à l’heure et je le
+      redis : les avances, c’est un concept extrêmement important. C’est finalement le
+      capital, c’est-à-dire la richesse qui sert à produire de la richesse.
+      Souvenez-vous, c’est bien ça. On a donc là vraiment une innovation d’un point de
+      vue de la pensée économique. Le mot capital existe depuis bien longtemps, mais
+      qu’est-ce qu’il représente ? Il parle du capital d’un prêt en général.
+      Souvenez-vous des *Fables de La Fontaine*, « capital et intérêt », la fourmi et
+      Cie. Donc le mot capital existe, mais il n’est pas conçu ici de la même façon.
+      Ici, Quesnay va reprendre ce mot — pas ce mot d’ailleurs, il va prendre le mot «
+      avance » — il va utiliser le mot avance pour évoquer ce que nous appelons
+      capital, c’est-à-dire cette richesse qui est productive. On va donc avoir le
+      capital fixe, qui est alors les avances primitives, les avances foncières aussi,
+      même si c’est un capital fixe au sens où il ne va pas se détériorer, et le
+      capital circulant, qui lui est avance annuelle.
+  - chunk_index: 26
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 114
+    text: |-
+      Vous verrez dans le TD numéro 2, je crois, le moment où Smith définit le capital
+      fixe et le capital circulant. Vous verrez que la définition de Smith du capital
+      fixe et du capital circulant est très proche de celle qu’on a aujourd’hui. En
+      fait, on n’a pas inventé grand-chose depuis Smith par rapport à cela. Donc là il
+      ne parle pas de capital, il parle d’avance, mais c’est bien exactement la même
+      notion.
+  - chunk_index: 27
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 304
+    text: |-
+      Deuxième élément : on a une théorie de la valeur. C’est très important. On n’a
+      pas de pensée économique sans une forme de théorie de la valeur, c’est-à-dire
+      une théorie qui explique pourquoi, d’où vient la richesse, qu’est-ce qui fait
+      que quelque chose a de la valeur ou non. Et là, il répond à la question de la
+      richesse en considérant que c’est la terre qui crée le produit net. Toute la
+      richesse vient finalement de la terre. En gros, il y a un don gratuit de la
+      nature : c’est le fait que les terres soient fertiles, que, en semant du blé, on
+      récupère — c’est ce principe multiplicateur de la nature — et c’est là-dedans
+      que tout fonctionne, que tout repose. S’il n’y a plus de terre, il n’y a plus de
+      vie, plus de société, plus d’économie. À partir de là, on regarde comment le
+      produit net circule dans l’économie, et ensuite il va se transformer, parce que
+      quand on donne du blé à un artisan, il produit quelque chose, il se nourrit,
+      mais avec ça il va produire des biens manufacturés. Donc c’est une forme de
+      transformation du produit net.
+  - chunk_index: 28
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 252
+    text: |-
+      Troisième élément qui fait que la pensée de Quesnay est une pensée moderne, on
+      va dire, d’économie, c’est qu’on a une notion de circuit économique et
+      d’interdépendance. Là aussi c’est au cœur de la pensée économique encore
+      aujourd’hui. Vous verrez au cours du chapitre 3, du chapitre qui suivra ce
+      chapitre-là, je vous montrerai des circuits économiques : pour comprendre
+      l’économie d’aujourd’hui, on est obligé de penser circuit. Et là aussi on le
+      voit, le circuit : je vous ai parlé tout à l’heure de la manière dont le produit
+      net circule dans l’économie, généré par la classe productive à partir du don
+      gratuit de la nature, ensuite reversé à la classe des propriétaires, ensuite
+      dépensé par la classe des propriétaires auprès de la classe stérile, qui va
+      ainsi produire des richesses y compris pour la classe productive. Donc on a la
+      boucle bouclée.
+  - chunk_index: 29
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 453
+    text: |-
+      Autre chose qui là aussi est très intéressante, parce que là aussi ça continue
+      d’être un des principes de la pensée d’aujourd’hui, c’est la distinction entre
+      la circulation réelle et la circulation monétaire. C’est-à-dire que chez les
+      physiocrates on a bien une théorie de la richesse distincte de la théorie de la
+      monnaie. Contrairement aux bullionistes, qui confondent richesse et monnaie, et
+      notamment richesse et métaux précieux, pour Quesnay la richesse ce n’est pas la
+      monnaie. D’où le fait que dans son tableau on va voir des tableaux qui montrent
+      la circulation de la monnaie et des tableaux qui montrent la circulation de la
+      richesse en général. D’ailleurs les deux flux vont en sens inverse. Quand vous
+      achetez à un vendeur un produit, la monnaie va de chez vous vers le vendeur,
+      mais la marchandise va du vendeur à chez vous. Donc vous avez deux flux. C’est
+      très important de comprendre ces mécanismes-là pour poser les bases d’une
+      représentation crédible de l’économie. C’est la raison pour laquelle nous
+      verrons au chapitre 3 la circulation réelle. D’ailleurs, cela permet aussi de
+      comprendre — vous verrez dans le TD1 — que très souvent l’analyse en termes de
+      circuit réel est plus pertinente, plus intéressante que l’analyse en termes de
+      circuit monétaire, parce qu’en fin de compte, comme je vous le dis, la richesse
+      c’est le réel, la monnaie finalement c’est un artefact qui va permettre de faire
+      circuler la richesse réelle. Donc si on veut comprendre la richesse, il vaut
+      beaucoup mieux regarder non pas la monnaie, les flux monétaires, mais les flux
+      réels.
+  - chunk_index: 30
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Théorie de la valeur, circuit et circulation
+    content_token_count: 163
+    text: |-
+      Dans la pensée moderne, qui n’est pas présente ici chez François Quesnay, il y a
+      aussi la circulation financière, qui est distincte de la circulation monétaire.
+      Ça aussi on le verra dans le chapitre — je ne sais plus combien de ce cours,
+      j’ai oublié, je crois que c’est le chapitre 7, mais je ne suis pas sûr —, la
+      circulation financière. Donc ça, c’est une base très importante : être capable
+      d’avoir une représentation de l’économie qui distingue les flux monétaires, les
+      flux réels, et aussi, aujourd’hui, ce que ne fait pas François Quesnay, les flux
+      financiers.
+  - chunk_index: 31
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Croissance et circulation de la richesse
+    content_token_count: 278
+    text: |-
+      Dernier élément : est-ce qu’on a une croissance économique ? Parce que
+      finalement c’est la question qu’on cherche à répondre : comment les économistes
+      voient la croissance ? Est-ce que là on a une réflexion sur la croissance
+      économique ? Alors j’ai envie de dire oui et non. Non a priori, parce que ce que
+      nous propose François Quesnay dans son modèle, que vous allez voir dans le TD1,
+      c’est plutôt un raisonnement en circuit fermé. Tout se reproduit à l’identique.
+      Vous avez de la richesse — revenez là aussi au schéma : produit net généré par
+      les agriculteurs, transmis aux propriétaires, puis ensuite dépensé auprès de la
+      classe stérile, et puis à la fin retour à la case départ, nouvelle saison,
+      nouvelle récolte, etc. Donc on a l’impression d’un système qui s’auto-reproduit
+      à l’identique, d’un circuit fermé. Et un circuit fermé ne permet pas forcément,
+      a priori, de comprendre la croissance économique, puisque au contraire un
+      circuit fermé se reproduit à l’identique.
+  - chunk_index: 32
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Croissance et circulation de la richesse
+    content_token_count: 576
+    text: |-
+      Alors c’est vrai, et en même temps on a dans ce schéma, comme on a une théorie
+      de la valeur, comme on sait d’où vient la richesse, on peut aussi penser la
+      croissance. C’est-à-dire que l’idée que toute source de richesse vient de la
+      terre implique que toute nouvelle terre mise en culture va créer de la
+      croissance, ou que toute amélioration des qualités de la terre — par exemple
+      avec des systèmes d’irrigation — va créer de la croissance. À l’époque, au
+      XVIIIe siècle, on pense notamment à ce qu’on pourrait faire des Landes. Les
+      Landes, c’est le département des Landes aujourd’hui. À l’époque, ce n’était pas
+      une forêt, c’était un vaste marécage qui ne servait à rien. Alors certes il y
+      avait un peu d’agriculture, mais si vous allez au musée — au musée du Marcaire ?
+      — vous verrez comment les gens vivaient avant le XIXe siècle, avant qu’on
+      assèche les Landes : ils étaient sur des échasses, parce qu’on avait des
+      marécages partout. Bon, d’après la théorie des physiocrates, il y a là un
+      potentiel de croissance : on peut assécher ces Landes, faire de ces terrains
+      marécageux stériles une forêt qui va être exploitée, qui va créer du produit
+      net. Et finalement c’est ce qui va se passer : on va assécher les Landes en
+      plantant des pins partout, et aujourd’hui on a la plus grande forêt de France.
+      Attention, c’est une forêt totalement artificielle, bien sûr, ça se voit
+      d’ailleurs quand on y va. Pourquoi on a planté des pins ? Parce qu’il n’y a pas
+      beaucoup d’arbres qui pouvaient vivre sur cette terre qui était très pauvre.
+      Mais finalement on a pu exploiter ensuite toute la richesse de ces arbres,
+      évidemment aujourd’hui le bois, et aussi on a exploité la résine des pins
+      pendant très longtemps ; ça a été une source de richesse de la région. Donc
+      voilà, vous voyez une conclusion empirique qui permet de dire que la croissance,
+      c’est exploiter, améliorer les terres ; c’est améliorer la croissance et
+      l’activité économique, et rendre les gens plus riches.
+  - chunk_index: 33
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Croissance et circulation de la richesse
+    content_token_count: 202
+    text: |-
+      Et puis il y a une autre chose qui transparaît dans cette réflexion sur le
+      circuit : c’est qu’il faut que l’argent circule et que la richesse circule. Il
+      faut faciliter la circulation de la richesse. Cela veut dire que non seulement
+      la richesse doit être créée dans la terre — donc il faut améliorer les terres,
+      ça on est d’accord —, mais en plus le drame serait si la richesse ne circule
+      pas. Par exemple, si les propriétaires fonciers ne dépensent pas leur argent,
+      alors là il peut y avoir des trous dans le circuit. Donc il faut vérifier que le
+      circuit fonctionne bien, que l’argent est bien dépensé et revient ensuite aux
+      différents acteurs. De la même façon, il faut bien que le produit net circule,
+      et donc il faut favoriser la circulation.
+  - chunk_index: 34
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Croissance et circulation de la richesse
+    content_token_count: 241
+    text: |-
+      Derrière ça, il y a des préconisations très fortes de la part des physiocrates,
+      qui sont par exemple d’interdire les douanes internes. À l’époque, au XVIIIe
+      siècle, en France, il y a des péages sur quasiment tous les ponts. Il y a aussi
+      des douanes internes : entre une province et une autre, on peut avoir des droits
+      de douane. On n’a pas un pays unifié d’un point de vue économique en France, et
+      ça, du point de vue de l’État français et de la façon de concevoir les choses
+      des physiocrates, c’est très inefficace. Il faut laisser circuler le produit
+      net. D’où d’ailleurs le slogan « laisser passer ». Alors ça s’adressait en
+      partie bien sûr au droit de douane extérieur — on va voir une théorie, je vais
+      le dire tout à l’heure, plutôt libre-échangiste —, mais ça s’adressait surtout
+      aux droits de douane intérieurs.
+  - chunk_index: 35
+    heading_path: Séance 5 du 1er octobre (fin) > La doctrine des physiocrates > Croissance et circulation de la richesse
+    content_token_count: 365
+    text: |-
+      Pourquoi c’était si compliqué de supprimer les droits de douane intérieurs ?
+      Parce qu’il y avait derrière des ressources pour les provinces et pour les
+      monarques, enfin pour les seigneurs des provinces, et ce n’était pas toujours
+      facile de supprimer ces droits de douane. En passant, l’un des physiocrates les
+      plus connus après François Quesnay, c’est Turgot. Turgot, qui était contrôleur
+      général des finances sous Louis XV, je crois — je ne suis plus sûr si c’est à la
+      fin de sa vie ou au milieu, je crois que c’est Louis XV —, a cherché justement à
+      mettre en application les théories physiocratiques, et notamment à permettre de
+      faire circuler au maximum le produit net, à supprimer les droits de douane. Mais
+      il se heurtait à des oppositions farouches, et finalement il a dû démissionner.
+      Je crois à la fin, en tout cas il n’a pas vraiment réussi à développer
+      l’économie comme il l’entendait, parce qu’il y avait évidemment beaucoup de
+      contestation. Ceux qui contestaient, c’était souvent la cour, les nobles, ceux
+      qui avaient des intérêts et qui, en fait, empêchaient en quelque sorte la
+      modernisation de l’État. D’où d’ailleurs, au bout d’un moment, le blocage
+      complet, puis la Révolution française, la convocation des États généraux et la
+      Révolution.
+  - chunk_index: 36
+    heading_path: Séance 5 du 1er octobre (fin) > Les préconisations des physiocrates
+    content_token_count: 162
+    text: |-
+      Là aussi, si on est sur l’aspect normatif, quelles sont les conclusions, quelles
+      sont les préconisations des physiocrates ? Beaucoup de préconisations sont
+      celles des libéraux contemporains, des gens d’aujourd’hui qui sont libéraux.
+      C’est-à-dire qu’ils vont considérer qu’il existe déjà un ordre naturel. J’en
+      parlais tout à l’heure, c’est un concept important chez les physiocrates : la
+      nature produit la richesse, donc ce ne sont pas les êtres humains qui produisent
+      la richesse. Donc il faut faire attention à ne pas trop perturber le
+      fonctionnement naturel de l’économie.
+  - chunk_index: 37
+    heading_path: Séance 5 du 1er octobre (fin) > Les préconisations des physiocrates
+    content_token_count: 295
+    text: |-
+      C’est là que je vous mets *Candide* de Voltaire. Souvenez-vous, faites penser au
+      docteur Pangloss. Moi je me souviens, quand j’étais au lycée, je l’avais lu dans
+      le cadre du lycée ; je ne sais pas s’il est toujours au programme, mais sinon
+      vous pouvez le lire, parce que c’est un petit livre très sympathique à lire.
+      C’est Voltaire, il était très vieux, c’est le dernier livre qu’il a écrit. C’est
+      un livre qui est pourtant très vivant et qui raconte l’histoire de Candide, donc
+      de quelqu’un, Candide, qui croit que tout est meilleur dans le monde, dans le
+      meilleur des mondes possibles, et qui, suivant les conseils, les préceptes du
+      docteur Pangloss, va aller de désillusions en désillusions, parce qu’en fait
+      tout n’est pas le meilleur, le mieux possible dans le meilleur des mondes
+      possibles. Et donc il se moque un peu de cette vision optimiste des
+      physiocrates, qui peut ressembler aujourd’hui à ce que disent les libéraux :
+      laisser le marché faire, vous verrez, le bonheur sera derrière la mondialisation
+      libre et le marché libre.
+  - chunk_index: 38
+    heading_path: Séance 5 du 1er octobre (fin) > Les préconisations des physiocrates
+    content_token_count: 437
+    text: |-
+      Du coup, on va avoir les mêmes préconisations que les libéraux, c’est-à-dire
+      l’idée de « laisser passer » et de « laisser faire ». Laisser passer : supprimer
+      des douanes. Donc là une véritable théorie du libre-échange, droit de douane
+      interne mais aussi droit externe. Donc là on va rompre avec le protectionnisme.
+      Là encore Turgot va chercher à le faire ; il ne va pas forcément réussir, la
+      France ne va pas devenir libre-échangiste au XVIIIe siècle, mais disons qu’il va
+      chercher à atténuer et à limiter les droits de douane. Et surtout, c’est une
+      grande rupture à partir des mercantilistes : le but n’est plus d’avoir un
+      excédent de la balance commerciale. Ça, ce n’est plus considéré comme pertinent
+      par les physiocrates. Ce qu’il faut, c’est avoir la richesse. On est bien ici
+      sur l’idée que maintenant c’est bien la richesse de la nation, la richesse du
+      peuple, qui va déterminer la richesse de l’État. Et donc il faut que le peuple
+      s’enrichisse, et pour ça il faut laisser les individus faire ce qu’ils sont
+      capables de faire. Donc il faut aussi laisser faire. On va là aussi diminuer un
+      peu l’interventionnisme. Là encore, sans revenir complètement à la politique de
+      Colbert, on va juste ne pas mettre surtout l’accent là-dessus. Il y a des choses
+      qui disent par exemple qu’il faut laisser absolument les agriculteurs décider de
+      ce qu’ils cultivent. Voilà : laisser, c’est eux qui savent le mieux. Il y a des
+      passages comme ça dans l’œuvre de Quesnay qui sont assez intéressants.
+  - chunk_index: 39
+    heading_path: Séance 5 du 1er octobre (fin) > Les préconisations des physiocrates
+    content_token_count: 191
+    text: |-
+      Troisième élément, là aussi proche des libéraux contemporains : il faut garantir
+      la propriété privée, notamment la propriété privée des terres, parce que c’est
+      parce que les terres sont exploitées efficacement qu’elles sont productives.
+      Mais si vous voulez que les terres soient exploitées efficacement, il faut que
+      celui qui récolte soit le même que celui qui sème. Parce que sinon, si vous
+      produisez des produits agricoles mais que ces produits agricoles sont finalement
+      récupérés par quelqu’un d’autre, vous n’allez évidemment pas être incité à
+      refaire, à ressemer l’année prochaine. Donc garantie de la propriété privée,
+      notamment de la terre, pour que le système fonctionne.
+  - chunk_index: 40
+    heading_path: Séance 5 du 1er octobre (fin) > Les préconisations des physiocrates
+    content_token_count: 458
+    text: |-
+      Et puis ils vont avoir des préconisations qu’on rangerait aujourd’hui plutôt du
+      côté des keynésiens, donc qui ne sont pas des libéraux classiques, qui ne
+      croient pas vraiment à l’ordre naturel. Là aussi on viendra sur la théorie
+      keynésienne dans la suite du cours : favoriser la consommation et lutter contre
+      l’épargne. Toujours pour cette idée de circuit qui est au cœur de la pensée
+      physiocratique, il faut que l’épargne circule, il ne faut pas que l’argent
+      s’arrête dans les coffres, notamment des riches. D’ailleurs, il va y avoir
+      quelques penseurs qui vont dire à la fin du siècle — parce que c’est une pensée
+      qui va évoluer aussi au fur et à mesure — qui vont dire : peut-être que si on
+      veut que l’épargne circule davantage, il faudrait peut-être taxer davantage les
+      riches, parce que c’est les riches qui épargnent, qui laissent leur argent dans
+      les coffres. Donc si on les taxe, on refait circuler, on donne de l’argent aux
+      pauvres, et bien on va faire circuler davantage cet argent. Je ne sais plus qui
+      avait écrit — alors je ne crois pas que ce soit Smith ; d’ailleurs Smith, qui
+      connaissait des physiocrates, qui avait fait un séjour en France et qui
+      connaissait la théorie des physiocrates — mais je ne sais plus si c’est lui ou
+      quelqu’un d’autre qui disait qu’un écu entre les mains — ça doit être dans le
+      TD1 peut-être — qu’un écu dans les mains d’un pauvre est trois fois plus dépensé
+      qu’un écu dans les mains d’un riche. C’est-à-dire que quand donc ça crée plus de
+      dépenses, ça crée plus de circulation du produit net, donc c’est bon.
+  - chunk_index: 41
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 281
+    text: |-
+      Cette théorie n’est pas neutre d’un point de vue politique. Souvenez-vous, je
+      vous ai dit : aucune théorie n’est neutre. Une théorie économique, pourquoi ?
+      Parce qu’en préconisant des politiques économiques, on va favoriser ou
+      défavoriser les intérêts de classe de certains. Et clairement la théorie des
+      physiocrates est une théorie qui tend de fait à défendre l’Ancien Régime. Et
+      peut-être que si elle défend autant l’Ancien Régime, c’est que l’Ancien Régime
+      est contesté pendant le siècle des Lumières. On a quand même des contestations
+      très fortes de la part de l’État un peu totalitaire de la France de l’époque :
+      c’est la monarchie absolue, donc le roi décide de tout. Cela est contesté
+      d’autant plus que d’autres pays se libéralisent, comme les Pays-Bas,
+      l’Angleterre ou certaines cités italiennes. Donc il y a une contestation du
+      pouvoir monarchique, et cette théorie va tendre plutôt à rétablir l’autorité de
+      ce pouvoir monarchique.
+  - chunk_index: 42
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 222
+    text: |-
+      Déjà parce que sa conception de la richesse est une conception du don gratuit de
+      la nature. C’est-à-dire que la richesse ne vient pas des hommes, elle vient de
+      la nature. Or derrière la nature il y a Dieu. Autrement dit, celui qui nous
+      apporte la richesse, c’est Dieu. Et donc on va valoriser la religion. Mais en
+      valorisant la religion, on valorise le pouvoir monarchique, parce que le roi est
+      roi de droit divin, encore jusqu’à la Révolution française. Il y a bien une
+      alliance entre la monarchie et la religion. Louis XVI est roi parce que Dieu en
+      a décidé ainsi. Donc cette vision que la richesse vient de l’ordre de la nature,
+      d’un don gratuit de la nature, est une vision qui, sans le dire explicitement,
+      implicitement tend à valoriser la croyance en Dieu et la croyance en un ordre
+      naturel qui émane de Dieu.
+  - chunk_index: 43
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 303
+    text: |-
+      De la même façon, quand on explique dans sa théorie que celui qui doit
+      bénéficier de ce don gratuit de la nature, c’est le propriétaire de la terre, on
+      valorise la classe des gens qui possèdent des terres, qui sont essentiellement
+      la noblesse. C’est bien la noblesse, les aristocrates, qui possèdent
+      l’essentiel, une grande partie des terres. Alors pas toutes, hein : d’autres
+      sont possédées par le clergé, puis d’autres sont possédées par des agriculteurs
+      ou même des bourgeois qui peuvent avoir des terres aussi. Mais globalement la
+      classe sociale qui est la plus riche en terre, c’est les propriétaires fonciers.
+      Donc ça veut dire que ces gens-là, qui sont très riches, sont riches parce
+      qu’ils possèdent des terres, et que les terres, comme ils les possèdent, doivent
+      donner leurs produits aux gens qui les possèdent. Si toute la richesse vient de
+      la terre, il est donc naturel que le pouvoir politique soit exercé par les
+      propriétaires de la terre, que sont la noblesse. Et donc là aussi on légitime,
+      on légitimise le pouvoir de l’époque, qui est concentré aux mains de la
+      noblesse.
+  - chunk_index: 44
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 169
+    text: |-
+      À l’inverse, la classe stérile, la classe des artisans et des marchands, qui est
+      la classe bourgeoise, celle qui vit dans les bourgs, participe bien sûr au
+      circuit économique, elle est essentielle, mais ce n’est pas à elle que revient
+      le produit net. C’est une classe stérile. Le mot lui-même est dur, d’ailleurs il
+      a été contesté, compris par certains physiocrates, mais tout de même ça veut
+      bien dire : ils n’ont pas vocation à diriger le monde, parce que c’est de la
+      terre que vient la richesse, et ceux qui possèdent la terre doivent diriger la
+      France, et pas ceux qui ne sont pas source de richesse.
+  - chunk_index: 45
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 615
+    text: |-
+      Alors c’est intéressant, cette réflexion sur la terre comme source de toute
+      richesse : donc les propriétaires de la terre, donc la noblesse, doivent avoir
+      le pouvoir politique. Parce que justement, tout le XVIIIe siècle en France, en
+      Angleterre, et disons dans l’Europe occidentale, est articulé autour d’un
+      conflit latent entre d’une part les propriétaires fonciers et d’autre part les
+      industriels et les marchands. Pensez à la pièce de Molière, *Le Bourgeois
+      gentilhomme*. De quoi ça parle ? Ça parle d’un bourgeois qui veut devenir
+      gentilhomme. Gentilhomme, ça veut dire noble, avoir un titre de noblesse, ça
+      veut dire aussi posséder des terres. Pourquoi il veut devenir noble ? Parce
+      qu’il est riche mais ne possède pas de pouvoir politique. Il ne possède pas non
+      plus la culture de ce monde-là, ce n’est pas son monde, ce n’est pas sa classe
+      sociale. C’est vrai que Molière se moque un peu du bourgeois qui veut devenir
+      noble, mais il montre aussi cette opposition structurelle de la vie politique du
+      XVIIIe siècle en France, qui est finalement l’opposition entre les riches de la
+      noblesse, qui sont riches de leur terre, qui sont encore des agriculteurs en
+      quelque sorte, et une nouvelle classe sociale qui apparaît, le produit du
+      mercantilisme, le produit de l’exploitation des richesses et des colonies, qui
+      est les marchands, les industriels, qui eux s’enrichissent de plus en plus au
+      fur et à mesure que les pays d’Europe occidentale colonisent et organisent les
+      transactions marchandes. C’est-à-dire que le pouvoir des marchands augmente
+      structurellement. Le pouvoir économique des marchands augmente structurellement
+      en France. Avant même cela d’ailleurs, dès le Moyen-Âge, il va commencer à
+      devenir important, mais il va s’étendre au fur et à mesure des conquêtes, des
+      colonisations. Et quelque part le pouvoir politique de la noblesse est en
+      quelque sorte concurrencé par le pouvoir économique de la bourgeoisie, des
+      habitants des villes, qui n’ont pas de rapport avec la terre mais qui peuvent
+      être très très riches. Donc on a une forme d’opposition entre propriétaire
+      foncier et marchand, qui est un peu au cœur des conflits politiques au XVIIIe
+      siècle et même, j’ai envie de dire, jusqu’au début du XIXe siècle.
+  - chunk_index: 46
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 206
+    text: |-
+      Et puis très vite, qu’est-ce qui va se passer ? C’est que la classe bourgeoise
+      va prendre le pouvoir. C’est ça le XIXe siècle, c’est le siècle des révolutions.
+      Alors la première c’est la Révolution française, et puis il y aura d’autres
+      révolutions dans d’autres pays, où on va voir progressivement la prise du
+      pouvoir politique par les bourgeois au détriment de la noblesse. Aujourd’hui en
+      Angleterre il y a toujours une noblesse, il y a toujours une reine d’Angleterre,
+      toujours une monarchie, mais concrètement le pouvoir politique n’est plus du
+      tout entre les mains de la monarchie. Ce basculement s’est fait au cours du
+      XVIIIe et du XIXe siècle en Angleterre, et il s’est fait en France à travers une
+      série de révolutions.
+  - chunk_index: 47
+    heading_path: Séance 5 du 1er octobre (fin) > Une théorie politique au service de l’Ancien Régime
+    content_token_count: 333
+    text: |-
+      Tout le problème que pose la Révolution industrielle, c’est : qui est légitime à
+      gouverner le pays ? Est-ce que c’est toujours les propriétaires fonciers comme
+      au Moyen-Âge, ou est-ce que ça devient les marchands, les industriels ? Et vous
+      voyez bien qu’aujourd’hui ce n’est plus l’agriculture qui domine l’économie,
+      c’est le capital. Et donc ceux qui dominent politiquement, ce sont plutôt les
+      capitalistes, c’est-à-dire ceux qui travaillent à partir de facteurs de
+      production artificiels, on peut dire, pas la nature. Vous verrez ça quand vous
+      lirez les textes de Smith et de Ricardo : il y a toujours ce conflit latent
+      entre les propriétaires fonciers — donc la noblesse — et les marchands,
+      partisans, industriels. Alors ce conflit va progressivement disparaître, il va
+      être résolu. Et ensuite, avec les marxistes, nous verrons apparaître un autre
+      conflit : le conflit entre les capitalistes, c’est-à-dire les bourgeois dont on
+      vient de parler, et le prolétariat, c’est-à-dire les ouvriers et les
+      travailleurs. Ce conflit va structurer la vie politique jusque, j’ai envie de
+      dire, quasiment jusqu’à présent, même si aujourd’hui les choses sont encore un
+      peu plus compliquées.
+  - chunk_index: 48
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 168
+    text: |-
+      Bon, il nous reste cinq ou dix minutes, même pas. Commençons quand même la
+      section 4. C’est là qu’on va voir la partie la plus longue. Je vous ai présenté
+      — je reviens sur la frise — donc les mercantilistes : c’est plus de 200 ans,
+      mais c’est des théories un peu disparates, ce n’est pas vraiment des théories
+      économiques au sens où on l’entend, même s’il y a des idées intéressantes.
+      Ensuite on a la première théorie, celle des physiocrates. Puis maintenant on va
+      voir la pensée économique moderne, celle dont nous sommes encore les héritiers
+      sur nombre de principes : c’est l’école classique.
+  - chunk_index: 49
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 100
+    text: |-
+      Alors il y a beaucoup d’auteurs ici que j’ai marqués ; je pourrais en marquer
+      bien d’autres, bien sûr. Quelque part Marx aussi est un auteur classique. Je
+      l’ai mis un peu en rouge comme les classiques parce qu’en fait c’est aussi un
+      peu un classique : il reprend la valeur travail, etc., des conceptions qu’il va
+      reprendre d’ailleurs de Ricardo.
+  - chunk_index: 50
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 219
+    text: |-
+      Cette pensée économique classique naît avec un auteur que vous connaissez sans
+      doute, que vous allez lire en TD2 et TD3 : Adam Smith, né en 1723, mort en 1790,
+      juste après la Révolution française. Vraiment on peut dire que c’est lui qui va
+      faire un travail à la fois de synthèse de la pensée de son époque — il va
+      beaucoup utiliser d’autres penseurs — et, en faisant cette synthèse, introduire
+      des idées, des concepts nouveaux qui vont irriguer la pensée pendant des
+      siècles, et encore aujourd’hui. On fait référence — tout à l’heure je vous
+      parlais de la définition du capital fixe et du capital circulant qu’on retrouve
+      chez Smith, que vous lirez dans le TD2 — elle est quasiment la même aujourd’hui.
+      Vous verrez qu’il y a quelques petites différences, mais ça vous verrez en TD.
+  - chunk_index: 51
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 344
+    text: |-
+      Adam Smith, c’est un enseignant, un universitaire. On pourrait dire aujourd’hui
+      que c’est un enseignant-chercheur. Il possède une chaire à l’Université de
+      Glasgow, en Écosse. Il est philosophe, il n’est pas économiste. Il n’y a pas
+      vraiment de chaire d’économie en Angleterre à l’époque, et le mot même —
+      souvenez-vous, je l’ai dit — a été inventé en France pour parler des
+      physiocrates. Bon, il n’y a pas vraiment d’économistes à titre de pensée
+      véritablement économique à titre conçu comme cela en Angleterre à l’époque.
+      Alors ça ne veut pas dire qu’il n’y a pas des penseurs qui pensent l’économie,
+      mais on va dire que la discipline économie n’existe pas. Et donc c’est en tant
+      que philosophe qu’il va écrire un livre d’économie. Clairement, quand on lit *La
+      Richesse des nations*, c’est un livre d’économie, ce n’est pas un livre de
+      philosophie, même s’il y a de nombreuses réflexions sur le comportement humain.
+      C’est vraiment un livre qui cherche à décrire et à comprendre le système
+      économique, et qui va poser, un peu comme chez François Quesnay, une réflexion
+      sur le fonctionnement du monde économique et sur les outils qui permettraient
+      d’améliorer ce fonctionnement.
+  - chunk_index: 52
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 360
+    text: |-
+      Le titre, *Enquête sur la nature et les causes de la richesse des nations*,
+      c’est déjà un projet : ça veut dire pourquoi certaines nations sont riches et
+      pourquoi d’autres sont pauvres. C’est une réflexion extrêmement intéressante et
+      nécessaire. Ce livre est écrit — il est sorti en 1776, bien sûr il a été écrit
+      en plusieurs années — donc il représente en quelque sorte le constat de la fin
+      du XVIIIe siècle. On est à peine au début de la Révolution industrielle. L’idée
+      de croissance à l’époque n’est pas du tout évidente : les Anglais des années
+      1770 ne vivent pas forcément mieux en moyenne que ceux du Moyen-Âge. Là aussi je
+      peux revenir sur le graphique. Voilà, vous voyez, on est en 1770, on est là.
+      Bon, il n’y a pas de revenu réel de l’Anglais moyen ; il n’est pas meilleur que
+      celui de 1400, même il est sans doute plus faible que celui de 1450. Donc les
+      résultats de la Révolution industrielle ne sont absolument pas visibles. C’est
+      pour ça que ce livre est intéressant : il anticipe tout un ensemble de choses
+      qui vont vraiment être visibles qu’au XIXe siècle. L’idée de croissance, qui va
+      être au cœur de la pensée de Smith, n’est pas du tout évidente au moment où il
+      écrit *La Richesse des nations*.
+  - chunk_index: 53
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 319
+    text: |-
+      Donc Smith est un philosophe, il est spécialisé dans la philosophie morale.
+      C’est-à-dire qu’il essaie de comprendre le comportement humain et d’avoir un
+      avis, une réflexion sur ce comportement humain. Au départ, ce n’est pas vraiment
+      un économiste. Il enseigne : son activité principale, c’est d’enseigner,
+      d’enseigner à des étudiants à l’université. Et il écrit des livres qui
+      reprennent en fait ses cours. Donc il fait ses cours, puis il essaie de les
+      remettre après par écrit, de manière accessible. C’est un homme assez discret.
+      Il ne va pas aller à la cour de Londres pour essayer de faire valoir ses idées,
+      il ne va pas faire de politique du tout. Il ne s’est jamais marié. Il a une vie
+      plutôt de quelqu’un de discret. Moi je le vois un peu comme un rat de
+      bibliothèque : il passe son temps à lire des livres et à essayer d’écrire. Parce
+      que son œuvre est énorme, je dois dire. C’est un livre extrêmement vaste, *La
+      Richesse des nations*. Vous avez parfois des versions résumées, où on coupe des
+      passages ; vous pouvez tout à fait lire ce genre de version si vous voulez, mais
+      le livre en entier est beaucoup plus long.
+  - chunk_index: 54
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 127
+    text: |-
+      Il écrit deux grandes œuvres : *La Richesse des nations* et *La Théorie des
+      sentiments moraux*. Le premier étant *La Théorie des sentiments moraux* :
+      c’était vraiment son cours, c’est vraiment ça qu’il enseignait. *La Richesse des
+      nations*, c’est une forme d’extension en quelque sorte. Donc lui pensait que son
+      œuvre principale était *La Théorie des sentiments moraux*, et en fin de compte
+      ce qu’on retient de Smith, c’est surtout *La Richesse des nations*.
+  - chunk_index: 55
+    heading_path: Séance 5 du 1er octobre (fin) > L’école classique et Adam Smith
+    content_token_count: 44
+    text: |-
+      Bon, je vous propose — moi j’ai cours dans cinq minutes — de nous arrêter là.
+      Nous verrons la pensée de Smith et la pensée des classiques la semaine
+      prochaine.

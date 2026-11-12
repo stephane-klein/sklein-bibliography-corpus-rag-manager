@@ -1,0 +1,277 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/science-4-all/2017-04-17_le-principe-fondamental-de-la-politique-democratie-8.fr.md
+  source_file_hash: sha256:5193d42d1b6e32714eb1bd93798cbbf58900fc669472ea8a7e86c610a96e1c00
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 20
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2017-04-17_le-principe-fondamental-de-la-politique-democratie-8.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 182
+    text: |-
+      En sciences, quand une théorie est à la fois simple et claire, et qu'elle fait
+      des prédictions plus justes que n'importe quelle autre théorie – y compris notre
+      intuition –, alors il faut avoir davantage confiance en la théorie en question
+      plutôt qu'en les autres théories que notre intuition pourrait imaginer. Et ce,
+      même si la théorie en question est super contre-intuitive. Sur Science4All, on
+      en a vu des théories contre-intuitives : de la géométrie hyperbolique où le
+      théorème de Pythagore est faux, au principe d'équivalence d'Einstein qui dit que
+      le sol accélère vers le haut, en passant par la logique intuitionniste où
+      certains ensembles ne sont ni finis ni infinis.
+  - chunk_index: 1
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 288
+    text: |-
+      Aujourd'hui, ce dont on va parler, c'est de la meilleure théorie dont les
+      sciences disposent pour la politique. Cette théorie est si performante que le
+      professeur Bruce Bueno de Mesquita s'est appuyé dessus pour écrire un algorithme
+      qui prend en compte des données fournies par des experts pour effectuer des
+      prédictions régulièrement achetées par les PDG des grandes entreprises et les
+      agences de sécurité type NSA. De façon stupéfiante, l'algorithme fait de
+      meilleures prédictions que les experts qui en ont fourni les données. Et ça, ça
+      montre bien que le modèle de Mesquita n'exploite pas des données que les experts
+      n'ont pas. Si le modèle de la politique selon Mesquita est plus performant pour
+      faire des prédictions, c'est uniquement parce que sa logique et ses postulats
+      sont plus valides que la manière dont même les experts pensent la politique. Dit
+      autrement, le principe fondamental de la politique selon Mesquita est
+      scientifiquement beaucoup plus fiable que ce que chacun d'entre nous pourrait
+      penser comprendre de la politique. Et ce, peu importe à quel point ce principe
+      fondamental est contre-intuitif.
+  - chunk_index: 2
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 187
+    text: |-
+      Alors, ce principe fondamental, c'est quoi ? Eh bien, pour le comprendre, je
+      vous propose de parler de l'un des personnages les plus mystérieux de l'histoire
+      de l'humanité : le roi Leopold II de Belgique. Le bon vieux roi Leopold II de
+      Belgique : roi aimé de tous, il construit tellement de trucs BG qu'on le
+      surnomme le roi bâtisseur. Il met en place l'éducation gratuite obligatoire,
+      autorise les ouvriers à se réunir en syndicats, a interdit le travail pour les
+      enfants de moins de 12 ans et instaure le vote au suffrage universel. Leopold II
+      est donc très certainement un des meilleurs rois de l'histoire. Les Belges
+      l'adorent.
+  - chunk_index: 3
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 204
+    text: |-
+      Sauf que, pendant ce temps, Leopold II était aussi le roi du Congo. Au Congo, ce
+      fut un carnage. Les militaires maltraitaient la population et y régnaient en
+      maîtres absolus. Le bilan de tout ça ? Environ 10 millions de morts, à
+      confirmer. Soit autant, voire plus, que durant l'holocauste 40 ans plus tard.
+      Oui, vous l'avez bien compris : le meilleur roi de l'histoire de la Belgique est
+      aussi l'auteur d'un génocide comparable à l'extermination des juifs par Hitler
+      pendant la Seconde Guerre Mondiale. Comment un même individu peut-il avoir été
+      autant adulé et détesté ? Comment une même personne a pu être si philanthropique
+      et criminelle ? Comment un homme a pu être si bienfaiteur et démoniaque ?
+  - chunk_index: 4
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 256
+    text: |-
+      Pour Mesquita, toutes ces questions sont à côté de la plaque. Selon son principe
+      fondamental de la politique, un homme au pouvoir n'est ni gentil ni méchant, il
+      n'est ni bienveillant ni malveillant, il n'est ni charitable ni machiavélique.
+      Pour Mesquita, tout ce qu'un homme politique souhaite, c'est être et rester au
+      pouvoir. Qu'il soit mère Thérésa ou la tête pensante d'une organisation
+      terroriste extrêmiste, qu'il soit le dictateur d'un régime autoritaire ou le
+      président d'une république démocratique, qu'il soit le chef d'une institution
+      publique ou le PDG d'une firme multinationale, les désirs, convictions,
+      religions, cultures et volontés importent peu. Ce qui importe, c'est accéder au
+      pouvoir et y rester durablement. Tel est le principe fondamental de la politique
+      selon Mesquita, et ce n'est pas le politicien Jim Manley, interviewé par John
+      Oliver, qui contredira ce principe fondamental.
+  - chunk_index: 5
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 216
+    text: |-
+      Mais pourquoi donc ? Pourquoi les hommes politiques seraient-ils si obsédés par
+      le pouvoir ? Est-ce parce que les hommes politiques ont tous suivi le même
+      conditionnement... euh, je voulais dire... la même éducation ? Ça joue sans
+      doute. Mais il y a une explication beaucoup plus simple : la politique est un
+      jeu entre politiciens. Et les politiciens qui passent beaucoup de temps à
+      étudier les sciences pour ensuite améliorer les conditions de vie du peuple ont
+      plusieurs longueurs de retard sur ceux qui veulent juste gagner au Game of
+      Thrones. Quand le trône attise la convoitise, la compétition est rude, et les
+      politiciens qui accéderont et resteront au pouvoir seront ceux qui auront fait
+      ce qu'il fallait pour y accéder et qui font ce qu'il faut pour y rester. Tel est
+      le grand jeu de la politique.
+  - chunk_index: 6
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 238
+    text: |-
+      Et si le roi Leopold II a marqué l'Histoire en restant au pouvoir aussi
+      longtemps en Belgique et au Congo, c'est parce qu'il avait parfaitement compris
+      les règles du jeu de la politique. Au Congo, les forces militaires étaient une
+      source de pouvoir majeure. Pour ne pas se faire renverser par ses forces armées,
+      le roi Leopold II devait instituer un système qui les enrichisse. Par chance
+      pour Leopold, le Congo disposait d'une richesse naturelle : le caoutchouc. À une
+      époque où l'industrie des bicyclettes et des voitures était en train d'émerger
+      grâce à cette matière première, Leopold II savait que récolter ce caoutchouc le
+      rendrait riche. L'argent du caoutchouc pourrait ensuite être partiellement
+      redistribué à ses généraux militaires, ce qui les satisferait et leur donnerait
+      une bonne raison de ne pas tenter de coup d'État.
+  - chunk_index: 7
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 223
+    text: |-
+      Mais pour assurer un flot permanent de richesse pour ses généraux, Leopold
+      devait forcer son peuple à exploiter les ressources naturelles de leur pays et
+      s'assurer que ce peuple reverserait la quasi-totalité de ces ressources à
+      Leopold lui-même. Pour garantir la taxation quasi-totale de son peuple, Leopold
+      se devait d'être dur avec lui. Il devait encourager les militaires à exterminer
+      tous ceux qui pourraient être réfractaires à la taxation drastique de Leopold
+      II. Pour être et rester au pouvoir, Leopold devait violemment oppresser,
+      torturer et exterminer le peuple congolais. Et Leopold a violemment oppressé,
+      torturé et exterminé le peuple congolais. Au Congo, Leopold fut un des rois les
+      plus criminels et les plus meurtriers de l'Histoire.
+  - chunk_index: 8
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 438
+    text: |-
+      Mais en Belgique ? En Belgique, la démocratisation des technologies et de la
+      richesse a remis en question son autorité. Pour rester au pouvoir, Leopold II se
+      devait d'anticiper l'émancipation inéluctable de son peuple et lui céder ainsi
+      du pouvoir avant que celui-ci ne le renverse. Mieux encore, à une époque où les
+      industries lourdes naissantes nécessitaient une main-d'œuvre qualifiée, la
+      majeure partie de la richesse du pays s'était transférée des ressources
+      naturelles au capital humain. Pour produire plus, pour produire mieux et pour
+      avoir plus de richesses à redistribuer aux autres individus et institutions
+      gouvernant la Belgique, Leopold II avait tout intérêt à investir dans le capital
+      humain. Il avait tout intérêt à investir dans une éducation gratuite et
+      obligatoire pour tous les enfants belges. Il avait tout intérêt à autoriser les
+      ouvriers des entreprises à se réunir en syndicats pour éviter toute émeute de
+      leur part. Il avait même intérêt à instaurer un vote au suffrage universel,
+      parce que des citoyens plus éduqués, plus organisés et plus impliqués
+      politiquement étaient des citoyens plus entreprenants, plus productifs et
+      produisant plus de richesse que Leopold pourra réinvestir dans des biens publics
+      pour davantage gagner le cœur de ceux qu'il gouverne et les amener à le préférer
+      à de potentiels présidents et ministres élus pour gouverner la Belgique à sa
+      place. Pour être et rester au pouvoir, Leopold avait tout intérêt à améliorer
+      les conditions de vie de son peuple belge. Et Leopold a amélioré les conditions
+      de vie de son peuple belge.
+  - chunk_index: 9
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 328
+    text: |-
+      Un homme politique n'est pas bon ou mauvais. Un homme politique analyse toutes
+      ses options et choisit celle(s) qui maximise(nt) ses chances d'être et de rester
+      au pouvoir. Du coup, ce qui fait que l'homme politique fera quelque chose de bon
+      ou de mauvais, ce n'est pas l'homme politique lui-même. Ce qui fait qu'un homme
+      politique fera quelque chose de bon ou de mauvais, ce sont les incitatifs (ou
+      *incentives*) qui lui sont donnés. En particulier, si la richesse d'un pays
+      dépend essentiellement de l'exploitation d'une ressource naturelle, alors les
+      dirigeants de ce pays oppresseront le peuple. Et ce ne sera pas alors parce que
+      les hommes au pouvoir seront des psychopathes corrompus par le pouvoir, ce sera
+      parce que, pour ne pas se faire renverser par leurs rivaux, les hommes au
+      pouvoir devront agir en dictateurs autoritaires et devront opprimer leur peuple.
+      Si c'est en faisant le mal qu'un homme politique pourra être et rester au
+      pouvoir, alors il fera le mal. Mais à l'inverse, si, étant donné le contexte
+      socio-économique et les positions idéologiques de ses supporteurs, un homme
+      politique devra faire le bien pour être et rester au pouvoir, alors il fera le
+      bien.
+  - chunk_index: 10
+    heading_path: Le principe fondamental de la politique | Démocratie 8
+    content_token_count: 189
+    text: |-
+      Tel est le principe fondamental de la politique selon Mesquita : tout homme
+      politique veut être et rester au pouvoir. Et je le répète : ce principe
+      fondamental est au fondement de la meilleure théorie scientifique que l'on a de
+      la politique, et les prédictions de cette théorie sont plus justes que les
+      prédictions des experts. Elles seront donc forcément beaucoup plus fiables que
+      chacun de mes avis personnels et que chacun de vos avis. En bons scientifiques,
+      il nous faut préférer penser selon la logique de ce modèle de la politique
+      plutôt que selon notre intuition et nos avis. Et ça, ça veut dire qu'en
+      particulier, il faut prendre très aux sérieux les conséquences très
+      contre-intuitives de ce principe fondamental de la politique.
+  - chunk_index: 11
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 1. Ce que les hommes politiques pensent vraiment importe peu
+    content_token_count: 122
+    text: C'est pour ça que je censure vos messages sur les hommes politiques. Certes, les hommes politiques diffèrent dans les réseaux d'influence qu'ils possèdent et subissent, et dans leur capacité à convaincre d'autres à se rallier à leur cause, mais ce qu'ils pensent vraiment n'importe pas. Ce qui importe, ce sont les autres politiciens, les lobbys et les électeurs envers lesquels ils sont redevables et sans lesquels ils ne pourront pas être et rester au pouvoir.
+  - chunk_index: 12
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 2. Les concepts de mérite et de responsabilité des hommes politiques sont inutiles
+    content_token_count: 227
+    text: Les hommes politiques ne réagissent pas à la responsabilité ou au mérite, ils réagissent uniquement aux *incentives*, c'est-à-dire à ce qui pourrait remettre en cause leur stratégie pour être et rester au pouvoir. Alors ça ne veut pas dire que ça ne sert à rien de critiquer leurs positions idéologiques. Après tout, notamment en démocratie, si le peuple menace le pouvoir d'un homme politique parce qu'il dit de lui qu'il ne mérite pas son poste ou qu'il est irresponsable, alors, pour être et rester au pouvoir, l'homme politique pourrait avoir intérêt à davantage suivre l'avis du peuple plutôt que celui des lobbys. Mais du coup, ce qui importe là, c'est davantage la perception du mérite et de la responsabilité des hommes politiques selon le peuple, et en tout cas ce n'est pas la perception du mérite et de la responsabilité selon les politiciens, ni d'ailleurs selon moi.
+  - chunk_index: 13
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 3. Les hommes politiques ne sont pas stupides
+    content_token_count: 245
+    text: S'ils étaient stupides, ils auraient perdu au jeu de la politique et on n'aurait jamais entendu parler d'eux. Bien entendu, ils ne sont pas omniscients non plus. Après tout, le modèle de la politique selon Mesquita surpasse les capacités cognitives de même les experts de la politique et nécessite des calculs par ordinateur. Mais ce que je veux dire par là, c'est que les politiciens sont bien plus malins que ce que l'on dit si souvent d'eux. Si on en vient à croire qu'ils sont stupides, c'est parce qu'on en a une vision stigmatisée, exagérée et caricaturée et parce que l'on comprend mal les *incentives* qui leur sont imposés. Et ce n'est pas surprenant que l'on comprenne mal leurs *incentives*. Après tout, il arrive souvent qu'il soit dans l'intérêt des hommes politiques de garder secrètes et confidentielles les alliances politiques qui les lient à d'autres hommes politiques ou à d'autres organismes.
+  - chunk_index: 14
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 4. Avoir raison ne sert à rien en politique
+    content_token_count: 166
+    text: Il me semble que trop souvent, quand on parle de politique, on se demande qui a raison. Mais avoir raison, les hommes politiques s'en moquent complètement ! Ce n'est pas en ayant raison qu'ils accéderont au pouvoir et y resteront. Ce qui importe pour le politicien, c'est que les autres hommes politiques, les industriels et l'électorat leur donnent raison. Et ça, c'est vraiment pas la même chose. Pour gagner une élection, les politiciens ont bien plus intérêt à concevoir, diffuser et défendre des convictions semblables à celles dont on a parlé dans l'épisode précédent qu'à se fonder sur des théories empiriques et des données axiomatiques.
+  - chunk_index: 15
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 5. Avant de vous lancer en politique pour changer le monde, réfléchissez-y à 2 fois
+    content_token_count: 130
+    text: Certes, sans pouvoir vous ne pourrez rien changer. Mais l'accession au pouvoir exigera certainement de vous que vous abandonniez certaines de vos convictions. Non pas parce que vos idées sont mauvaises, mais parce qu'il y a de bonnes chances que les autres politiciens, les personnes d'influence et l'électorat ne vous donnent pas raison. En particulier, les politiciens n'ont pas besoin d'idées nouvelles. Les politiciens ont besoin d'idées qui plaisent aux autres politiciens, aux personnes d'influence et à l'électorat.
+  - chunk_index: 16
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 6. Quand vous irez voter dimanche, ne vous demandez pas pour "qui" vous voulez voter
+    content_token_count: 147
+    text: Demandez-vous plutôt quels sont les *incentives* que vous voulez imposer au futur président de la république. Demandez-vous si, pour être et rester au pouvoir, l'homme politique en question aura intérêt à appliquer le programme qu'il a promis et s'il y a des choses qu'il n'a pas promis de faire mais qu'il aura intérêt à faire une fois au pouvoir. En particulier, ne votez pas pour des personnes. Ne votez pas pour des valeurs non plus. Ne votez pas pour des idées. Votez pour les *incentives* qui incomberont à notre prochain président de la République.
+  - chunk_index: 17
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 6. Quand vous irez voter dimanche, ne vous demandez pas pour "qui" vous voulez voter
+    content_token_count: 236
+    text: |-
+      La dernière fois, on a parlé des convictions, et TheAnat001 sent qu'il y avait
+      une influence de CGP Grey dans la vidéo précédente. Tout à fait. En fait, le
+      fond de la vidéo précédente est ultra inspiré de la vidéo "This video will make
+      you angry", et la forme a été aussi largement inspirée de "Rules for Rulers",
+      qui est la vidéo de CGP Grey qui parle de Bruce Bueno de Mesquita. Je recommande
+      ultra vivement cette vidéo. Pour moi, la politique n'a de sens que si l'on
+      réfléchit dans des modèles à la Mesquita, et c'est ce que présente très bien CGP
+      Grey. Cette vidéo, je vous conseille vraiment de la voir, de la revoir et de la
+      re-revoir. Personnellement, j'ai dû la voir une dizaine de fois, et j'ai
+      l'impression que chaque fois que je la regarde, j'apprends encore un peu mieux à
+      penser selon la logique du modèle de Mesquita.
+  - chunk_index: 18
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 6. Quand vous irez voter dimanche, ne vous demandez pas pour "qui" vous voulez voter
+    content_token_count: 303
+    text: |-
+      Nicola Larroque semble avoir apprécié le fond de la vidéo précédente mais
+      critique la forme. Et vu le nombre de likes qu'a ce commentaire, je pense qu'il
+      y en a pas mal parmi vous qui ont été mal à l'aise vis-à-vis du ton, de la
+      musique que j'ai employés dans la vidéo précédente. Si vous n'avez pas aimé, je
+      m'en excuse. J'explore aussi différents styles. Je dois bien dire que
+      personnellement, ça m'a fait ultra triper de faire une vidéo dans ce genre, de
+      me tester sur un autre style, de voir que je pouvais avoir un truc qui
+      ressemblait un tout petit peu, au moins à CGP Grey. Je pense que sous-jacent à
+      ce commentaire et à d'autres commentaires de la vidéo précédente, il semblerait
+      que j'ai donné l'impression dans la vidéo précédente que les convictions c'était
+      forcément quelque chose de mal ou de pas souhaitable. C'est pas du tout
+      l'objectif de la vidéo précédente. L'objectif de la vidéo précédente était
+      uniquement descriptif : j'essayais de décrire quelles étaient les conséquences,
+      notamment des nouvelles technologies, sur la manière dont les convictions se
+      forment, se propagent ou se diffusent.
+  - chunk_index: 19
+    heading_path: Le principe fondamental de la politique | Démocratie 8 > 6. Quand vous irez voter dimanche, ne vous demandez pas pour "qui" vous voulez voter
+    content_token_count: 421
+    text: |-
+      Et je pense aussi que la diffusion des sciences et du savoir doit s'adapter à la
+      manière dont les convictions se propagent à travers internet. Et je ne pense pas
+      que ce soit une mauvaise chose. Je pense que les mathématiques sont vivantes une
+      fois qu'on leur attribue des émotions. Moi personnellement, j'ai été atterré par
+      le théorème de l'impensabilité d'Arrow, je suis intrigué par les ordinateurs
+      quantiques, le fait qu'ils sont capables de casser la cryptographie qu'on
+      utilise aujourd'hui, et j'ai été absolument heureux quand j'ai découvert le
+      scrutin de Condorcet randomisé. Et c'est pour ça que j'adore les mathématiques.
+      C'est pas parce que ça rend rationnel, ça aide à réfléchir et tout ça – ça, j'ai
+      envie de dire que c'est un effet secondaire, une espèce de side-effect, du fait
+      d'apprendre les mathématiques, qui est souhaitable. Mais ce n'est pas la raison
+      première pour laquelle je trouve les mathématiques fascinantes, et c'est pas la
+      raison pour laquelle je passe autant de temps à lire, à penser et si possible
+      créer des mathématiques. Et je pense que c'est quelque chose qui manque
+      énormément dans la communication des sciences en général et des mathématiques en
+      particulier : cet aspect émotif, et notamment la fascination que les
+      mathématiques peuvent provoquer. Parce qu'à la réponse : "Comment fait-on pour
+      lutter contre les mauvaises convictions ?" bah, j'ai envie de dire que la seule
+      solution, c'est de développer un esprit critique. Et cet esprit critique, il
+      faut vouloir le développer.

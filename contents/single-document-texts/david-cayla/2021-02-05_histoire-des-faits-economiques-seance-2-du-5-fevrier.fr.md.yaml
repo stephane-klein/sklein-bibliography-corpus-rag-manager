@@ -1,0 +1,1405 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2021-02-05_histoire-des-faits-economiques-seance-2-du-5-fevrier.fr.md
+  source_file_hash: sha256:972c95b62a4d402cb5247647b845d57f2be277516d2f3708d6d08dc0fc2b0231
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 58
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2021-02-05_histoire-des-faits-economiques-seance-2-du-5-fevrier.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Histoire des faits économiques - séance 2 du 5 février
+    content_token_count: 205
+    text: |-
+      Alors, est-ce que ça fonctionne ? Je ne sais pas si le cours s’enregistre sur
+      l’espace Moodle d’histoire des faits économiques. Normalement, ça devrait le
+      faire. J’attends de voir s’il y a des auditeurs. Je vois qu’il y a quand même
+      des gens qui sont là. Pouvez-vous me rassurer, étudiants, et me dire si tout
+      fonctionne bien, si le son est bon, et notamment si vous avez pu accéder à ce
+      cours en ligne par l’espace Moodle d’histoire des faits économiques, pas
+      l’espace Moodle d’introduction à l’analyse économique ? Est-ce que tout le monde
+      est là ? Est-ce que quelqu’un pourrait me répondre ? En attendant, je vois quand
+      même des gens qui sont là. C’est bien, c’est le bon espace. Merci, parfait.
+  - chunk_index: 1
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Informations sur l’examen
+    content_token_count: 124
+    text: |-
+      Comme vous arrivez, je vais commencer par dire un mot sur l’examen, parce que je
+      viens de terminer la correction, il y a quelques jours. Normalement, on aurait
+      dû avoir un jury hier, mais il a été reporté parce qu’on n’avait pas toutes les
+      notes. Les personnels de la scolarité ont une personne malade, donc on a pris du
+      retard sur la constitution des jurys. Le jury aura lieu jeudi prochain. A
+      priori, on vérifie si toutes les notes sont rentrées.
+  - chunk_index: 2
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Informations sur l’examen
+    content_token_count: 347
+    text: |-
+      D’abord un mot sur cet examen. Globalement, je suis quand même très content de
+      vous. La moyenne est à 7 sur 20. Ça peut vous faire un peu peur, mais c’est
+      meilleur que l’année dernière et bien meilleur qu’il y a deux ans, puisqu’on
+      était à 5,5 sur 20. L’année dernière, on était à 6 ou 6,3, quelque chose comme
+      ça. Donc c’est un peu mieux. Je parle ici des L1 économie-gestion et double
+      licence. C’est nettement meilleur. Évidemment, ça fait partie du décor :
+      l’examen le plus difficile. Il y a aussi énormément d’étudiants qui ont de très
+      mauvaises notes en D2 ou D1, donc ça va beaucoup baisser la moyenne. La plupart
+      de ceux qui ont travaillé ont, à mon avis, pour beaucoup des notes au-dessus de
+      10. Si vous avez plus de 8, si vous n’êtes pas très loin, vous pouvez rattraper
+      avec le cours d’été. Donc globalement, c’est bien, c’est un peu mieux que les
+      années précédentes. Je ne dirai pas que le confinement vous fait du bien, mais
+      tout de même, vous n’êtes pas pris de retard. Les deux raisonnements sont bien
+      maîtrisés, bien connus, peut-être pas par la majorité, mais par un bon tiers
+      d’entre vous, ce qui est quand même très rassurant.
+  - chunk_index: 3
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Informations sur l’examen
+    content_token_count: 466
+    text: |-
+      Deuxième chose sur les corrections de copies. Je vais essayer d’organiser dans
+      des amphis, sans doute en fin de journée, des séances de remise des copies, de
+      consultation des copies, de correction. Je ferai d’abord une correction,
+      peut-être simplement sous forme d’une vidéo, et ensuite je vous permettrai de
+      regarder vos copies. Sauf que je ne vais pas pouvoir inviter tout le monde : il
+      faudra sans doute vous inscrire, parce qu’on est limité à 50 étudiants. On
+      organisera peut-être deux séances. Vous pourrez consulter votre copie, les
+      relire, voir notamment les annotations, parce que je corrige toujours en faisant
+      des annotations. En ayant la correction, vous comprendrez, j’espère, vos
+      erreurs. Ça vous sert, même si vous avez une mauvaise note, et même si vous avez
+      une bonne note : tout le monde fait des erreurs, puisqu’il n’y a pas de note
+      au-dessus de 18,5, je crois, c’est la meilleure note. Donc même les meilleurs
+      auraient pu s’améliorer. Je pense que c’est bien pour ceux qui passeront la
+      seconde session. C’est utile aussi de voir un peu comment vous pouvez
+      progresser. Souvent, vous pouvez progresser dans l’expression écrite, dans la
+      clarté de votre expression écrite, parce que parfois vous avez une idée en tête
+      et vous en écrivez une autre. J’étais assez souple, par exemple, sur les
+      définitions : je ne vous demandais pas d’avoir une définition parfaite. Quand
+      vous donniez l’essentiel de l’idée, je mettais les points qu’il fallait. Là où
+      ça devient plus compliqué, c’est lorsqu’il faut faire des raisonnements. Et bien
+      sûr, il y a des étudiants qui ne connaissaient pas le cours, donc forcément ça a
+      posé problème.
+  - chunk_index: 4
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Informations sur l’examen
+    content_token_count: 800
+    text: |-
+      Une dernière remarque sur cet examen, sur la question de la monnaie, de la
+      création monétaire et de la manière dont la banque centrale contrôle la création
+      monétaire. J’ai été parfois surpris de retrouver dans vos copies des concepts
+      que je n’ai pas vus, que je n’ai pas dits. Je ne les ai pas dits pour une raison
+      simple : ce sont des concepts très idéologiques, qui pour moi sont faux
+      aujourd’hui dans la pensée économique. Parmi ces concepts, il y a l’idée et
+      l’image fausse de la planche à billets. Je n’en ai pas parlé. Je n’ai pas dit
+      que la banque centrale crée de la monnaie fiduciaire ; j’ai dit qu’elle émettait
+      la monnaie fiduciaire, et ce n’est pas tout à fait la même chose. J’ai aussi vu
+      des expressions très idéologiques, notamment l’idée de système de
+      dépôts-crédits. Je n’ai jamais employé cette expression, et pour cause : ce
+      n’est pas comme ça. Les crédits ne sont pas créés à partir de dépôts. J’ai aussi
+      vu « système de réserves fractionnaires », expression que je n’ai jamais
+      employée. En fait, j’ai souvent vu « planches à billets », « réserves
+      fractionnaires », « système dépôts-crédits » dans les mêmes réponses. J’en
+      déduis que beaucoup d’entre vous, notamment en double licence droit-économie,
+      avez vu soit une vidéo, soit un document qui expliquait la création monétaire,
+      et que vous vous êtes appuyés là-dessus plutôt que sur mon cours pour décrire la
+      création monétaire. Je ne vous ai pas mis zéro, bien sûr : il y a des choses
+      justes dans ce que vous avez vu. Mais il faut bien comprendre que ces questions
+      sont des questions sur lesquelles les économistes ne sont pas tous d’accord.
+      Vous avez tout à fait le droit, et c’est même très bien, d’aller voir d’autres
+      analyses sur la monnaie et de compléter le cours par des documents extérieurs.
+      Mais faites attention à ce que ce qui est dit dans le cours et ce qui est dit
+      dans le document ou la vidéo soit la même chose. Parce que le problème, c’est
+      que vous allez me dire des choses qui, de mon point de vue, ne sont pas exactes,
+      et vous ne dites pas des choses que moi j’ai dites. Notamment, ce que j’ai
+      utilisé pour expliquer la création monétaire, c’est que ce sont plutôt les
+      crédits qui font les dépôts, plutôt que les dépôts qui font les crédits. C’est
+      une analyse. Quand vous dites l’un, vous ne dites pas l’autre, donc il y a des
+      choses contradictoires. Je reviendrai sur ces choses-là. Clairement, sur la
+      monnaie, il y a un document qui a circulé en droit, en éco et aussi en licence
+      classique, et beaucoup d’étudiants se sont focalisés sur ce document en oubliant
+      un peu le cours. C’est dommage, d’autant plus que les cours sont enregistrés.
+      J’arrête là sur l’examen. Je vois que vous êtes 56, et pas mal : ça fait quand
+      même pas beaucoup. J’imagine que les autres regarderont en différé.
+  - chunk_index: 5
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Retour sur l’analyse marxiste de l’histoire
+    content_token_count: 850
+    text: |-
+      Je reprends le cours. Nous avions terminé, dans l’introduction, l’analyse
+      marxiste de l’histoire. Pourquoi je vous parle de l’analyse marxiste de
+      l’histoire ? Parce que c’est une analyse assez intéressante, qui décrit les
+      ruptures et les évolutions des systèmes économiques, et qui montre bien — c’est
+      son intérêt à mon avis — quelque chose qu’il faut toujours garder en tête : il y
+      a toujours un lien entre le système économique d’un côté et le système politique
+      institutionnel de l’autre. Ce lien est double : c’est l’infrastructure
+      économique qui, en quelque sorte, engendre des classes sociales, et ces classes
+      sociales engendrent un système institutionnel qui va les organiser
+      politiquement, gérer non plus le rapport entre les hommes et la nature, mais le
+      rapport des hommes entre eux. On voit aussi chez Marx cette espèce de
+      dialectique, c’est-à-dire ce mouvement contradictoire entre le système
+      politique, qui finit par devenir un peu autonome, qui finit par s’organiser
+      selon ses propres valeurs, et le système d’infrastructures économiques, qui lui
+      aussi évolue par l’intermédiaire des technologies. Le problème, c’est que ces
+      deux systèmes — l’infrastructure en dessous, la superstructure au-dessus —
+      évoluent de manière à la fois autonome et dépendante. Il y a une dépendance des
+      deux. Donc quelque part, on va parfois se retrouver face à une contradiction
+      entre l’infrastructure et la superstructure, contradiction qui va entraîner des
+      révolutions. C’est ça qui est intéressant dans l’analyse de Marx : il a une
+      vision dynamique des transformations des systèmes économiques, et pas une vision
+      statique où on dirait « l’économie, c’est ça, point barre », puis « les lois de
+      l’économie sont ainsi, elles se perpétuent et existent indépendamment des
+      institutions sociales, politiques et juridiques ». Clairement, ce n’est pas le
+      cas. Le marché, on va le voir, est un des éléments très importants du deuxième
+      chapitre : le marché n’est pas un système naturel, c’est un système organisé,
+      coordonné par les institutions politiques, par les lois, par les règles, etc.
+      Créer une économie de marché, par exemple, ça ne vient pas spontanément ; ça
+      vient par des institutions. Une chose qui a permis de le voir, c’est lorsque les
+      systèmes communistes se sont effondrés et qu’il a fallu passer au capitalisme :
+      toute une phase de transition a été très brutale pour les gens, parce que toutes
+      les anciennes règles ne valaient plus et qu’il fallait en trouver d’autres. Cela
+      a entraîné aussi un effondrement économique avant une reprise. Il y a eu dix à
+      quinze ans d’effondrement entre 1990 et 2000, un effondrement qui a duré plus de
+      trois ans, puis une lente reprise. Mais le nouveau système capitaliste a mis du
+      temps à se mettre en place. Tout cela démontre que l’économie de marché n’est
+      pas un système naturel, c’est un système institutionnalisé. Il faut comprendre
+      cette idée : il y a une forme de corrélation entre le système économique et le
+      système politique. Il n’y a pas une économie autonome d’un côté et un système
+      politique autonome de l’autre. C’est ça qu’il faut bien comprendre.
+  - chunk_index: 6
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Retour sur l’analyse marxiste de l’histoire
+    content_token_count: 275
+    text: |-
+      Pourquoi je veux parler de cette analyse ? Aussi parce que j’ai trouvé cela
+      intéressant quand j’ai eu ce cours en première année, puisque c’était mon
+      enseignant. Je vous montre le bouquin : Jean-Pierre Dozon, *Histoire des faits
+      économiques et sociaux*. C’est un bouquin que j’avais acheté parce que j’avais
+      adoré le cours. J’avais adoré ce prof. J’ai acheté le livre d’occasion, et en
+      fait j’avais préféré son cours à son livre. Son livre est assez petit, mais il
+      donne les bases de l’analyse marxiste de l’histoire. Ce n’est pas ça qui nous
+      concerne ici, on ne va pas refaire l’analyse marxiste de l’histoire, mais je
+      voulais quand même vous en parler un peu, par sentiment personnel. En 1994, je
+      suis rentrée en première année, donc ça fait un bout de temps. J’avais beaucoup
+      aimé les cours de ce prof, qui s’appelait — je ne sais plus exactement — et
+      c’était un cours d’histoire des faits économiques et sociaux.
+  - chunk_index: 7
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 414
+    text: |-
+      On a vu l’analyse marxiste, mais je vous propose de voir maintenant l’approche
+      libérale de l’histoire. Cette approche est très bien représentée par un
+      chercheur, politologue — ce n’est pas un économiste —, analyste et aussi
+      historien : Francis Fukuyama. Il est né en 1952 et, à la fin des années 80, il
+      publie un certain nombre d’articles puis un livre qui s’intitule *La fin de
+      l’histoire*. Sa thèse est assez simple. Il constate à la fin des années 80 un
+      basculement dans un certain nombre de pays, notamment des pays d’Amérique latine
+      qui étaient souvent des dictatures militaires pour beaucoup d’entre eux — le
+      Brésil, l’Argentine, le Chili, etc. — et qui progressivement changent leur
+      modèle et arrivent vers la démocratie. Puis, en 1989-1990, il y a la chute du
+      mur de Berlin et la transition des pays communistes. Il en déduit une loi :
+      finalement, l’histoire aura été pendant très longtemps la recherche du meilleur
+      système politique et économique. On est passés par des empires, de petites
+      communautés autonomes de chasseurs-cueilleurs, des royaumes, des États-nations,
+      des systèmes communistes, fascistes, corporatistes, etc. Et Fukuyama nous dit
+      qu’on a fini par arriver à un système qui est le plus stable : le système de la
+      démocratie libérale. En gros, l’idée de Fukuyama, c’est que les systèmes
+      politiques ont été plein dans l’histoire, mais qu’ils ont tendance à converger
+      vers un système unique, celui de la démocratie libérale.
+  - chunk_index: 8
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 460
+    text: |-
+      C’est évidemment une thèse très forte, très contestée et très contestable, parce
+      que ça voudrait dire que tous les peuples du monde finiront un jour ou l’autre
+      par arriver à la démocratie libérale. Pour appuyer sa thèse, Fukuyama dit la
+      chose suivante : la raison pour laquelle tout converge vers la démocratie
+      libérale, c’est que c’est le système le plus stable. C’est-à-dire qu’une fois
+      qu’un pays se trouve dans une situation de démocratie libérale, il reste dans ce
+      système. Une fois que la démocratie est complètement instituée, il n’y a jamais
+      de retour en arrière. Alors que le système communiste s’effondre, les dictatures
+      militaires, fascistes, s’effondrent, les royaumes périclitent, les empires
+      s’effondrent, mais la démocratie libérale, non. Il en conclut une idée assez
+      simple : tous ces changements, ces révolutions, ces changements de système
+      politique sont instables, et quand on arrive à des démocraties libérales, elles
+      deviennent stables. Donc, une fois qu’elles deviennent stables, elles restent
+      telles qu’elles sont, et on ne revient plus en arrière vers de nouveaux royaumes
+      ou d’autres choses. Cette « fin de l’histoire » que professe Fukuyama ne veut
+      pas dire la fin des événements historiques : plus de pandémies, plus de guerres
+      — puisqu’il y a des guerres entre démocraties libérales. Ça veut simplement dire
+      qu’il y aura une convergence, que ça prend du temps, mais qu’au final il y aura
+      convergence vers des formes de démocratie, qui pourront être différentes d’un
+      pays à l’autre, mais qui auront toutes l’aspect de la démocratie libérale
+      capitaliste.
+  - chunk_index: 9
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 301
+    text: |-
+      Évidemment, il s’appuie sur l’idée qu’il n’y a aucune démocratie libérale
+      instituée qui a finalement renoncé à son système de démocratie libérale. C’est
+      ça, la thèse qu’il défend : une fois qu’on arrive à un système de démocratie
+      libérale, c’est un régime tellement stable qu’il se perpétue, qu’il ne change
+      pas. Mais cette thèse n’est pas toujours vraie. C’est vrai que, surtout écrit en
+      1990, on avait du mal à l’époque à voir l’exemple d’une démocratie libérale qui,
+      sous des coups, aurait sombré dans le nazisme ou le fascisme. Bien sûr, on a des
+      exemples : la république de Weimar en Allemagne, qui va sombrer dans le nazisme,
+      ou la monarchie constitutionnelle italienne, qui va sombrer dans le fascisme.
+      Mais Fukuyama dirait qu’on n’avait pas encore une démocratie vraiment établie,
+      que ce n’étaient pas des régimes et des institutions suffisamment solides, et
+      que c’est la raison pour laquelle elles ont été perverties en fascisme. Donc,
+      pour Fukuyama, il faut des institutions établies.
+  - chunk_index: 10
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 922
+    text: |-
+      Il y a cependant un contre-exemple très connu. Je vous interroge : avez-vous une
+      idée d’un pays qui a été pendant des décennies une démocratie libérale stable et
+      qui a sombré dans une dictature, ou dont le système s’est effondré ? En général,
+      les étudiants cherchent et ne trouvent pas. C’est vrai qu’on n’a pas un recul
+      énorme sur les démocraties libérales. Les toutes premières démocraties
+      libérales, ce sont vraiment les États-Unis d’Amérique, avec la Constitution — je
+      ne sais plus quand elle est faite, à ne pas confondre avec la Déclaration
+      d’indépendance de 1776. C’est la plus ancienne et la plus stable démocratie
+      libérale au monde. On sait aussi qu’il y a le Royaume-Uni, mais il n’était pas
+      dans une véritable démocratie à la fin du XVIIIe siècle : il a fallu supprimer
+      le suffrage censitaire, etc. Et puis il y en a une qui a existé pendant des
+      décennies et qui s’est effondrée. C’est la France. La France, de 1870, à la
+      suite du second Empire, de la défaite contre les Prussiens, etc., établit la
+      Troisième République. Cette Troisième République va durer près de soixante-dix
+      ans. C’est un régime politique extrêmement stable, évidemment contesté par des
+      ligues fascistes dans les années 30, mais qui va s’effondrer après la défaite
+      contre l’Allemagne en 1940, avec les pleins pouvoirs à Pétain et un régime qui
+      ne devient plus du tout libéral, et plus du tout démocratique : un régime
+      fasciste en réalité, même s’il y a différentes formes de fascisme. Le régime de
+      Pétain, de Vichy, c’est bien de cela qu’il s’agit. Donc là, on a quand même un
+      exemple de démocratie instaurée depuis longtemps, depuis plus d’une génération,
+      où beaucoup de gens sont dans un système républicain, et qui s’autodétruit en
+      quelque sorte. On pourra dire : oui, mais ce n’est pas elle qui s’est détruite
+      toute seule, c’est à cause de l’invasion allemande. Mais déjà en 1990, quand
+      Fukuyama sort son bouquin, on pouvait voir qu’il y avait eu des contre-exemples,
+      et qu’en réalité des régimes de démocratie libérale stables et durables dans le
+      temps, il n’y en a pas eu tant que ça. Si on a déjà un contre-exemple alors
+      qu’on n’a qu’une poignée de pays qui ont vraiment eu des démocraties libérales,
+      c’est peut-être que la thèse n’est pas complètement vraie. Aujourd’hui, on voit
+      bien que les choses sont plus compliquées. Par exemple, si vous prenez la
+      Turquie : ça a été quand même une république pendant longtemps. Était-ce une
+      démocratie libérale stable ? On peut discuter du caractère très libéral et très
+      démocratique de la Turquie, mais on voit bien un durcissement du régime. On peut
+      le voir aussi peut-être dans d’autres pays, une forme de durcissement. Il y a un
+      classement des démocraties dans le monde par *The Economist* ; la France a
+      rétrogradé : elle était une démocratie parfaite, elle devient une démocratie
+      imparfaite. Donc l’idée qu’une démocratie libérale est forcément stable et ne
+      change jamais, qu’elle est en quelque sorte l’aboutissement de l’histoire des
+      systèmes sociaux et politiques, est une idée assez contestable et contestée.
+  - chunk_index: 11
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 850
+    text: |-
+      J’ai vu qu’il y avait une remarque, je vais voir ce que c’est. Oui, bien sûr, on
+      a eu après la Révolution française un passage à une démocratie, puis un retour à
+      la monarchie. Oui, mais attention : encore une fois, on parle de démocratie
+      stable. Lorsqu’on est en pleine période révolutionnaire, on a eu la Première
+      République, la Deuxième République, etc. On n’est pas dans une démocratie
+      instituée. C’est ça qu’il faut bien comprendre. C’est pour ça qu’on a du mal à
+      trouver des exemples : en fait, les démocraties libérales instituées, on peut
+      dire que l’Europe, en tout cas l’Europe occidentale, est une démocratie durable
+      et instituée. Pensez par exemple que pour l’Europe de l’Est, ce n’est pas le
+      cas, parce qu’ils sont démocratiques depuis 30 ans. Donc on n’a pas un énorme
+      recul. Mais l’Allemagne, on peut dire qu’aujourd’hui c’est une démocratie
+      instituée. Si l’Allemagne devait retomber dans une autre forme de système
+      politique, clairement ça serait un contre-exemple. Mais même la Hongrie
+      aujourd’hui, qui ne respecte pas totalement l’État de droit, on pourrait dire :
+      oui, mais finalement cette démocratie n’est pas si ancienne que ça et pas si
+      instaurée. C’est vrai qu’ils n’ont que trente ans de démocratie. Il faut penser
+      à l’échelle en termes de générations : quand vous avez des gens qui ont vécu
+      dans une démocratie, qui sont construits politiquement dans une démocratie, en
+      général, nous dit Fukuyama, ils ne reviennent pas en arrière, ils ne soutiennent
+      pas des monarchies, des empires, des fascismes, etc. Mais ce n’est pas si bref.
+      C’est ça que je veux dire : cette thèse n’est pas vérifiée, elle est débattue,
+      et elle est aujourd’hui très critiquée. Pensez par exemple à ce qui s’est passé
+      avec l’invasion du Capitole il y a quelques semaines. Ce n’est pas une
+      démocratie qui fait rêver : le peuple qui se révolte, qui va envahir le
+      parlement américain. Bien sûr, les États-Unis ne sont pas sombrés dans le
+      fascisme après cet épisode, mais on voit bien que la démocratie n’est pas si
+      solide, qu’elle peut avoir des fragilités. Donc l’idée qu’un jour on puisse
+      revenir en arrière sur un autre type de régime n’est pas totalement aberrante.
+      Le problème de Fukuyama, c’est cette espèce de fin de l’histoire, cette forme
+      d’optimisme — optimisme pessimiste, je ne sais pas, parce que tout le monde
+      n’est pas forcément satisfait d’une forme de démocratie libérale de qualité
+      telle qu’elle existe. Mais il y a l’idée qu’on va tous converger vers un même
+      modèle, et que ce modèle sera en fait l’aboutissement de l’évolution
+      socioculturelle de l’humanité. C’est un peu simple. En tout cas, c’est une thèse
+      dont je vous parle parce que c’est le contrepoint de la thèse marxiste, et puis
+      en même temps ça fait partie de la culture générale qu’il faut avoir quand on
+      veut réfléchir et analyser un peu l’histoire.
+  - chunk_index: 12
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > L’approche libérale de l’histoire : Francis Fukuyama'
+    content_token_count: 188
+    text: |-
+      Dans ce cours, je ne vais pas vous déterminer des lois de l’histoire. Je vais
+      quand même, de temps en temps, vous donner quelques lois, maintenir quelques
+      principes qui expliquent des éléments de l’histoire, mais je vais beaucoup plus
+      me focaliser sur les faits économiques. Je vais plutôt montrer les évolutions
+      sans forcément expliquer le pourquoi de ces évolutions. C’est ça qui m’importe :
+      plutôt le comment, le qu’est-ce qui s’est passé. Et je vais mettre en avant —
+      parce que je pense que c’est très important — les ruptures historiques. Je vous
+      en ai donné une : le néolithique, la révolution industrielle, les grandes étapes
+      où différents systèmes économiques vont engendrer différents systèmes
+      politiques.
+  - chunk_index: 13
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Références bibliographiques
+    content_token_count: 320
+    text: |-
+      Pour terminer ce chapitre d’introduction, quelques références. Évidemment, je
+      sais bien que vous n’allez pas tout lire, mais si vous vous ennuyez le week-end
+      parce que c’est le confinement ou parce que vous n’avez pas le droit de voir vos
+      amis, je vous invite à lire des livres qui vont vous apprendre beaucoup. Le tout
+      premier, c’est *Victoires et déboires* de Paul Bairoch. C’est un livre un peu
+      ancien, publié en 1996 je crois, mais c’est quand même une référence de
+      l’histoire économique. Il y a d’autres livres qui sont des classiques d’histoire
+      économique, mais celui-ci, vraiment, pour moi, est passionnant. Je pense qu’il
+      n’est pas trop daté, et par ailleurs il est assez mesuré dans ses propos. J’ai
+      beaucoup utilisé ce livre pour faire ce cours. Je vous ai mis ici le tome 1, qui
+      est le plus petit — désolé, ça fait d’autant plus gros. Donc tout le tome 1,
+      vous avez un résumé dans ce cours, et je vais même jusqu’à une partie du tome 2.
+      Je n’ai pas utilisé ce livre pour toute l’histoire économique du XXe siècle que
+      j’aborde, parce que finalement c’est des choses que vous pouvez voir.
+  - chunk_index: 14
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Références bibliographiques
+    content_token_count: 200
+    text: |-
+      Un autre livre que je vous conseille, du même Paul Bairoch : *Mythes et
+      paradoxes de l’histoire économique*. C’est un livre très simple, très connu, un
+      grand classique, où il détruit un certain nombre de mythes de l’histoire. Un
+      autre livre que j’ai aussi ici, ce n’est pas un livre de Paul Bairoch, ce n’est
+      pas du tout une référence, mais moi c’est un livre que j’ai trouvé très sympa à
+      lire : *Une riche histoire de la société marchande*. C’est un essai publié par
+      une économiste agricole, je crois. Il me semble qu’elle a écrit deux romans,
+      puis changé de secteur. Moi j’ai beaucoup aimé ce livre : il analyse l’histoire
+      marchande et contient énormément de références et de ressources.
+  - chunk_index: 15
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Références bibliographiques
+    content_token_count: 145
+    text: |-
+      Ensuite, pour la crise des années 30, je m’appuie beaucoup sur le livre de John
+      Kenneth Galbraith, *La crise économique de 1929*. Il raconte en détail la crise
+      de 1929 et la crise boursière. C’est très amusant, et c’est un grand économiste
+      qui a presque fait une analyse des raisons pour lesquelles cette crise est
+      arrivée. On en reparlera dans le cours : on va terminer en fait ce cours sur la
+      crise des années 30, c’est pour ça qu’on ne va pas avoir beaucoup le XXe siècle.
+  - chunk_index: 16
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Références bibliographiques
+    content_token_count: 245
+    text: |-
+      Moi j’ai lu aussi, et j’ai adoré, *Sapiens* de Yuval Noah Harari. Je vous en
+      parlerai un petit peu. Ce n’est pas un livre d’histoire économique, c’est
+      l’histoire de l’humanité. J’avoue qu’au début je me suis dit : comment on peut
+      écrire un seul livre sur l’histoire de l’humanité ? Il faut avouer que ce type
+      écrit extrêmement bien, que c’est extrêmement agréable à lire. Il y a des idées
+      très intéressantes. Après, son analyse historique est aussi contestée par des
+      gens, ce n’est pas assez scientifique, c’est très grand public, il y a sans
+      doute des raccourcis importants dedans, mais il y a des choses extrêmement
+      intéressantes. Donc si vous avez l’occasion, lisez-le : c’est vraiment comme un
+      roman, c’est très facile à lire, c’est très agréable. C’est une course, mais
+      bon, c’est 50.
+  - chunk_index: 17
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Références bibliographiques
+    content_token_count: 240
+    text: |-
+      Et puis là aussi, pareil, un petit livre à lire : *Économix*, c’est une bande
+      dessinée qui fait l’histoire économique. Là aussi il y a des raccourcis et des
+      simplifications, je ne suis pas d’accord avec tout, mais c’est quand même
+      vachement bien fichu. Vraiment, vous apprendrez plein de trucs. Donc il faut
+      toujours prendre du recul avec ce qu’on lit, mais il faut toujours confronter et
+      diversifier ses lectures, je pense que c’est ce qu’il y a de mieux. Donc
+      *Économix*, c’est une bande dessinée. Ça vous prendra du temps à lire, ce n’est
+      pas forcément facile, mais c’est très bien. C’est une BD américaine. Voilà
+      quelques choses que vous pouvez lire. Évidemment, je les ai tous lus, c’est pour
+      ça que je vous les présente. J’en ai vu d’autres, mais voilà ce que je
+      conseille.
+  - chunk_index: 18
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 232
+    text: |-
+      Je vous propose de commencer le chapitre 2. On a bien fait une heure
+      cinquante-deux, donc une demi-heure déjà. Chapitre 2 : fonctionnement et
+      évolution des sociétés préindustrielles. Oui, parce que l’économie ne commence
+      pas avec la révolution industrielle. L’économie ne commence pas avec Adam Smith,
+      *La richesse des nations*. Toute société humaine a une dimension économique.
+      Toute société humaine produit de l’économie, même sans le savoir. Le concept, la
+      connaissance de la pensée économique, qu’est-ce que c’est ? L’économie, c’est
+      l’organisation de la production de richesses — j’en ai déjà parlé au chapitre
+      précédent — et sa distribution. Toute société nécessite de produire de la
+      richesse, donc toute société fait de l’économie, même si on n’en a pas forcément
+      conscience. Donc l’économie existe dans les sociétés préindustrielles.
+  - chunk_index: 19
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 115
+    text: |-
+      On va voir dans ce chapitre, et on va prendre un peu de temps parce que je pense
+      que c’est important de comprendre comment fonctionnaient ces sociétés. Parce que
+      ça permet aussi, quelque part, de se regarder soi-même dans ce miroir un peu
+      étrange qu’est l’analyse des sociétés très différentes de la nôtre. Il y a des
+      choses qui sont très similaires et des choses qui sont très différentes, et
+      c’est ça qui m’intéresse.
+  - chunk_index: 20
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 436
+    text: |-
+      Jusqu’à la révolution industrielle, qu’est-ce qui va caractériser les sociétés ?
+      Moi je vous la caractérise de deux manières, et du coup ce chapitre va être
+      divisé en deux parties. La première, c’est l’agriculture : en fait, on a des
+      sociétés qui sont essentiellement agraires, c’est-à-dire dont le cœur de
+      l’activité économique est l’agriculture. Comme c’est la rupture, les progrès
+      sociaux vont être déterminés par des progrès dans l’agriculture. Il y a d’autres
+      progrès à côté, mais l’essentiel est là. D’ailleurs, c’est les progrès de
+      l’agriculture qui vont permettre la révolution industrielle. On va basculer
+      ensuite dans un autre type de société, industrialisée. On va voir les taux
+      d’urbanisation augmenter énormément, la croissance monter, des changements
+      extrêmement forts dans l’humanité à cause de la révolution industrielle. La
+      révolution industrielle, c’est la plus grande révolution de l’histoire de
+      l’humanité après le néolithique. Le néolithique, c’est le passage de la rupture
+      — on va en parler —, et ensuite le passage à l’économie industrielle, à la
+      société industrielle. Ça, c’est un changement profond qui fait qu’on va
+      multiplier l’espérance de vie, tout va changer dans les sociétés. Tout va
+      changer avec la révolution industrielle. Mais parce qu’en amont, il y a eu des
+      progrès dans l’agriculture : s’il n’y avait pas eu ces progrès dans
+      l’agriculture, il n’y aurait pas eu de révolution industrielle. C’est ça que je
+      vais vous faire comprendre.
+  - chunk_index: 21
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 149
+    text: |-
+      Finalement, on a des sociétés préindustrielles qui sont caractérisées par un
+      niveau de développement qui va dépendre de leurs capacités à se nourrir et à se
+      perpétuer, à répondre à leurs besoins physiologiques, leurs besoins vitaux. Une
+      fois qu’elles ont répondu à ces besoins vitaux, elles vont pouvoir faire autre
+      chose. Donc plus on va répondre efficacement à ces besoins de s’alimenter, plus
+      on va pouvoir développer de nouveaux aspects de notre économie, c’est-à-dire
+      d’autres types de biens que simplement les questions alimentaires.
+  - chunk_index: 22
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 615
+    text: |-
+      Il y a une autre chose que je voudrais voir dans ce chapitre, peut-être que je
+      verrai un peu moins longtemps, mais je trouve ça intéressant : une autre
+      histoire, qui est l’histoire de notre rapport aux marchands, à la société de
+      marché, aux marchés. Le rapport marchand, c’est-à-dire comment on commerce et
+      comment on appréhende d’un point de vue culturel cette fois-ci le commerce.
+      Pourquoi ? Parce que le capitalisme industriel, qui apparaît au XVIIIe siècle en
+      Europe, en Angleterre très précisément, ce capitalisme industriel est le produit
+      à la fois d’une technologie agricole — puisque c’est la base, une capacité à
+      nourrir les gens suffisamment suffisante pour qu’on puisse avoir des gens qui se
+      déploient dans l’industrie — et il est aussi fondé sur une logique marchande. Le
+      capitalisme d’ailleurs, en tant que système d’organisation de la production,
+      existait avant la révolution industrielle. Le capitalisme, l’idéologie
+      capitaliste, l’idée d’accumulation privée de capital, précède la révolution
+      industrielle. Donc on a la conjonction de deux phénomènes qui vont se rejoindre
+      : l’industrialisation d’un côté, et le mode d’organisation de cette
+      industrialisation, qui est le capitalisme, de l’autre. On va voir émerger le
+      capitalisme industriel. Ce qui m’intéresse ici, c’est justement de comprendre
+      comment cette forme de réflexion sur le rapport au marché va se transformer
+      depuis le paléolithique jusqu’à l’aube de la révolution industrielle. Donc vous
+      voyez, c’est pour ça que je vous raconte en fait deux histoires : la première,
+      c’est l’histoire de l’amélioration, des progrès dans l’agriculture ; la
+      deuxième, c’est une autre histoire, l’histoire du rapport au monde, au marché,
+      aux marchands, au capital, qui va lui aussi progresser dans l’humanité. Pas dans
+      toute l’humanité, parce que ce qui m’intéresse, ce sont les sociétés
+      européennes, puisque c’est là que va émerger le capitalisme industriel. Je vais
+      donc me centrer beaucoup plus sur l’Europe, aussi parce que je ne veux pas tout
+      faire et parce que je ne connais pas tout. Je ne suis pas un historien de
+      l’histoire globale. Donc je vais plutôt prendre un prisme européen pour essayer
+      d’expliquer ces deux évolutions.
+  - chunk_index: 23
+    heading_path: 'Histoire des faits économiques - séance 2 du 5 février > Chapitre 2 : fonctionnement et évolution des sociétés préindustrielles'
+    content_token_count: 46
+    text: |-
+      Je vais commencer par une courte introduction, et maintenant je vous propose de
+      commencer directement par l’analyse des sociétés agricoles, l’histoire des
+      sociétés agricoles.
+  - chunk_index: 24
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’écriture et le début de l’histoire
+    content_token_count: 465
+    text: |-
+      Tout d’abord, il faut dire une chose : quand on parle d’histoire en général, on
+      fait référence à l’écriture. On considère souvent que l’histoire commence au
+      moment où on écrit, puisque c’est là qu’on peut avoir des témoignages directs de
+      gens de l’époque. Mais bien sûr, l’histoire entendue non pas au sens de
+      l’analyse des écrits des anciens existe depuis bien longtemps. La société
+      humaine a évolué avant même l’invention de l’écriture. Et il faut dire une chose
+      aussi importante : l’écriture émerge dans des sociétés qui sont déjà extrêmement
+      évoluées. Pour avoir déjà inventé l’écriture, il faut avoir des besoins
+      d’écriture. Très souvent, ça commence par la comptabilité, et la comptabilité
+      est nécessaire parce qu’on a déjà une société organisée, et notamment très
+      souvent un impôt, puisque ce qui est au cœur de la comptabilité, souvent, c’est
+      la fiscalité. Donc on a un État qui lève l’impôt et qui a besoin de savoir qui a
+      payé quoi, et qui doit le marquer sur des tablettes d’argile, sur des
+      parchemins, sur des papiers, sur des supports écrits, pour être capable de
+      comptabiliser ce que l’on lui a donné et savoir qui doit lui donner des choses.
+      Donc en fait l’écriture apparaît à cause de ce besoin-là, de cette organisation
+      d’État. L’écriture apparaît dans des sociétés qui sont déjà des sociétés
+      évoluées, qui s’organisent sous la forme d’un État. Mais avant cela, bien sûr,
+      il y a eu des choses : la société humaine a évolué. Avant, dans des sociétés
+      préhistoriques, donc avant l’histoire, il y avait des choses, notamment des
+      technologies qui ont évolué.
+  - chunk_index: 25
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > La révolution cognitive selon Yuval Noah Harari
+    content_token_count: 524
+    text: |-
+      Il y a un événement — vous voyez, je vous parle du livre *Sapiens* de Yuval Noah
+      Harari — qui est au cœur de son livre : ce qu’il appelle la révolution
+      cognitive. Cette révolution cognitive, pour Harari, expliquerait comment *Homo
+      sapiens*, parmi toutes les espèces ou sous-espèces humaines qui existaient à
+      l’époque — parce que 170 000 ans avant Jésus-Christ, il y avait aussi l’homme de
+      Néandertal qui occupait l’Europe, et d’autres populations humaines —, comment
+      *Homo sapiens* a conquis le monde entier à partir de 70 000 ans avant
+      Jésus-Christ. Harari se pose la question de savoir ce qui s’est passé pour que
+      *Homo sapiens* supplante les autres espèces humaines. Très souvent, on a
+      tendance à penser que c’est parce qu’il était plus intelligent, plus évolué,
+      etc. Mais ce que démontrent les recherches récentes sur l’homme de Néandertal ou
+      d’autres espèces, c’est qu’en fait l’homme de Néandertal n’avait pas un cerveau
+      plus petit qu’*Homo sapiens* ; il était même plutôt plus gros. Il savait
+      communiquer, il savait parler, et a priori il n’y a pas de différences
+      physiologiques importantes entre l’homme de Néandertal et *Homo sapiens*. Donc,
+      nous dit Harari, il existe un mystère : pourquoi *Homo sapiens*, tout d’un coup,
+      en très peu de temps — quelques dizaines de milliers d’années, ce qui est très
+      rapide — a supplanté les autres ? *Homo sapiens* apparaît il y a 250 000 ou 300
+      000 ans avant Jésus-Christ. Pendant 200 000 ans, il ne s’est rien passé : il est
+      resté en Afrique, sur le continent africain, mais il n’a jamais pu supplanter
+      Néandertal. Puis tout à coup, 70 000 ans avant Jésus-Christ, *Homo sapiens* sort
+      d’Afrique et conquiert le monde.
+  - chunk_index: 26
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > La révolution cognitive selon Yuval Noah Harari
+    content_token_count: 960
+    text: |-
+      Pourquoi ? Harari dit la chose suivante : il y a eu une révolution cognitive
+      dans un groupe d’*Homo sapiens*. Cette révolution conduit, dit Harari, à
+      l’acquisition de l’abstraction. Voici sa thèse. Je vous la livre, puis vous
+      verrez, vous lirez son livre si ça vous intéresse, c’est très intéressant. C’est
+      une thèse qui n’est pas démontrable, parce qu’on ne saura jamais comment les
+      choses se sont passées réellement : on n’a pas de supports écrits, pas de
+      preuves tangibles. Pourquoi dit-il cela ? En fait, il y a quelque chose qui
+      s’est passé : les capacités du cerveau n’ont pas changé, mais on est passé de
+      l’état animal à l’état humain. Qu’est-ce que la différence entre l’état animal
+      et l’état humain ? C’est la capacité d’abstraction. L’abstraction, on la voit
+      par l’apparition de peintures, d’objets qui sont plus figuratifs ou qui vont
+      au-delà du figuratif, qui sont des représentations de choses et d’idées. Harari
+      dit que les sociétés humaines primitives, qui avaient exactement les mêmes gènes
+      que nous — pas plus bêtes, pas plus intelligentes —, communiquaient avec des
+      semblables qui se connaissaient et s’organisaient autour de quelques dizaines
+      d’individus qui pouvaient entretenir des relations suivies les uns avec les
+      autres. Au-delà de quelques centaines, on ne se connaît plus, on ne peut plus
+      faire confiance, donc on ne peut plus collaborer. Donc les tribus humaines,
+      c’est quelques dizaines, quelques douzaines, mettons cent personnes maximum, qui
+      collaborent parce qu’ils se connaissent directement. Mais quand on a cette
+      révolution cognitive — Harari dit que c’est 10 000 ans avant Jésus-Christ ? Non,
+      il parle de quelque chose qui se passe avant — on va retrouver effectivement des
+      éléments d’abstraction. On va collaborer avec nos semblables non pas sur le
+      rapport humain personnel qu’on a avec eux, mais par rapport à un mythe qu’on
+      construit et qui nous rassemble. Qu’est-ce que c’est que ce mythe ? C’est une
+      idée : on existe, on partage quelque chose qui n’est pas les relations vécues,
+      quelque chose de tangible, mais quelque chose d’abstrait. Par exemple : on est
+      la tribu des Français, en France. Donc même si on arrive à collaborer tous dans
+      ce pays qu’est la France, parce que tous on s’identifie, on se représente des
+      communes, alors même qu’on n’a pas de lien les uns avec les autres. Harari prend
+      un exemple encore plus amusant : l’entreprise Peugeot. C’est une construction
+      abstraite. L’entreprise Peugeot rassemble des dizaines de milliers de
+      travailleurs qui sont obligés de collaborer. Pourquoi les gens collaborent-ils à
+      une entité abstraite qui est Peugeot ? L’entreprise Peugeot rassemble des gens
+      et les oblige à se coordonner. C’est une abstraction, de la même façon que la
+      France est une abstraction, que l’université est une abstraction. C’est une
+      idée. Bien sûr, cette idée engendre des faits réels, des comportements réels,
+      mais c’est une idée. On croit à Peugeot comme on croit à la France, comme on
+      croit à l’université. Ce passage de la relation personnelle — qui permet la
+      collaboration parce qu’on se connaît, donc on s’estime, donc on travaille
+      ensemble — à une relation abstraite — on ne se connaît pas, mais on va tous se
+      retrouver à l’université pour organiser des cours —, c’est ce qu’il appelle la
+      révolution cognitive. Cela nécessite, nous dit Harari, un changement profond
+      dans l’architecture de notre pensée, donc dans l’architecture du cerveau.
+  - chunk_index: 27
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > La révolution cognitive selon Yuval Noah Harari
+    content_token_count: 253
+    text: |-
+      Cela nécessite, nous dit Harari, un changement profond
+      dans l’architecture de notre pensée, donc dans l’architecture du cerveau. Et
+      donc il nous dit que c’est la raison pour laquelle *Homo sapiens* a supplanté
+      les autres sous-espèces humaines : cette révolution cognitive a permis de créer
+      des mythes abstraits qui ont permis de rassembler et de faire collaborer non pas
+      quelques dizaines d’individus, mais des centaines, des milliers, des dizaines de
+      milliers de personnes. On a pu voir apparaître des formes de nation, d’États,
+      des systèmes qui regroupent beaucoup plus que quelques dizaines de personnes. Du
+      coup, ces communautés humaines de milliers de personnes avaient une capacité à
+      collaborer bien plus efficace que les petits groupes d’humains qui collaboraient
+      uniquement en se reposant sur des relations personnelles. Donc *Homo sapiens* a
+      pu supplanter les autres espèces humaines grâce à sa capacité à collaborer.
+  - chunk_index: 28
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > La révolution cognitive selon Yuval Noah Harari
+    content_token_count: 268
+    text: |-
+      La thèse de Harari n’est pas forcément à connaître. Je vous en parle parce que
+      ça me plaît, mais ce n’est pas le cœur du cours. Par contre, il faut connaître
+      cette révolution cognitive. Voilà la définition : la révolution cognitive, c’est
+      l’acquisition de la capacité d’abstraction qui permet aux êtres humains de
+      collaborer. À ne pas confondre avec la révolution cognitiviste — vous tomberez
+      sur Wikipédia, ça n’a rien à voir. On parle ici de révolution cognitive :
+      l’acquisition par les êtres humains d’une capacité d’abstraction qui leur permet
+      de collaborer à partir de l’invention abstraite qu’est par exemple une identité
+      nationale, culturelle ou religieuse, ou l’idée qu’il existe une entreprise, une
+      chose comme ça. Bref, l’humain acquiert l’abstraction, en quelque sorte. Il
+      passe la frontière, et du coup il peut collaborer. C’est ça, la thèse de Harari
+      : supplanter les autres espèces et coloniser le monde entier.
+  - chunk_index: 29
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’invention de l’écriture
+    content_token_count: 448
+    text: |-
+      La deuxième chose qui va apparaître, c’est l’écriture. J’en ai déjà parlé.
+      L’écriture apparaît il y a à peu près 5 000 ans, un peu plus de 5 000 ans, en
+      Mésopotamie et en Égypte. En Chine, on ne sait pas trop quand ça apparaît, mais
+      on est sûrs que ça apparaît : vers 1 200 ans avant Jésus-Christ, on trouve les
+      premiers supports réellement écrits, 1 200 ans avant Jésus-Christ. Donc bien
+      plus tard. Et puis on voit l’écriture apparaître aussi en Amérique centrale et
+      du Sud, chez les Mayas, etc. On va avoir tous ces systèmes d’écriture. En
+      Europe, nous sommes les héritiers de l’écriture cunéiforme, de l’écriture
+      phénicienne, de l’écriture grecque, romaine, avec des transformations. Mais on a
+      bien à chaque fois une écriture alphabétique, alors que pour l’Égypte il s’agit
+      d’une écriture de type idéogrammes. Ces sociétés qui connaissent l’écriture sont
+      bien sûr des sociétés évoluées. Pourquoi ont-elles évolué ? Parce qu’elles sont
+      organisées en État, elles ont besoin d’organiser un système de fiscalité et de
+      comptabilité. C’est ça qui va permettre l’écriture. Pourquoi ont-elles besoin
+      d’organiser un système de comptabilité et de fiscalité ? Parce qu’il existe des
+      États. Pourquoi existe-t-il des États ? Parce qu’il existe des villes. Pourquoi
+      existe-t-il des villes ? Parce qu’on a découvert l’agriculture. C’est ce qu’on
+      appelle la révolution néolithique.
+  - chunk_index: 30
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 579
+    text: |-
+      Le néolithique, c’est le passage — ça veut dire « l’âge de la nouvelle pierre »
+      — mais ça signifie en réalité l’invention de la culture. Je vais vous expliquer
+      pourquoi le rapport de l’homme à la nature implique une nouvelle pierre. Tout
+      d’abord, il faut dire qu’avant le néolithique, qui commence en 9000 avant
+      Jésus-Christ, on a d’abord, à la fin du paléolithique, des chasseurs-cueilleurs.
+      L’humanité n’est composée que de chasseurs-cueilleurs. Ils chassent et
+      cueillent. Ils ont une nourriture d’abord de bonne qualité, très carnée,
+      beaucoup de viande, et ça nourrit bien. Ils mangent aussi des végétaux très
+      divers et variés, contrairement au néolithique où on va manger surtout du blé,
+      du riz ou du maïs selon les endroits. Donc on va avoir un régime appauvri au
+      néolithique, alors qu’au paléolithique on a un régime assez riche. Harari en
+      parle, c’est très amusant : il explique que finalement les gens du paléolithique
+      étaient bien mieux nourris que les gens du néolithique. On le voit dans les
+      squelettes. L’homme de Cro-Magnon, par exemple, un homme du paléolithique, avait
+      des squelettes d’environ un mètre quatre-vingts. Ils mouraient jeunes, ce
+      n’était pas rose, mais ils étaient mieux nourris, ils avaient moins de maladies
+      que les gens du néolithique. Parce que quand on est sédentaire, on a une
+      nourriture assez pauvre, on est plus exposé aux maladies, parce qu’on se
+      concentre davantage, donc on propage mieux les maladies. Quand on a une petite
+      tribu nomade, on ne propage pas les maladies de la même façon. Et puis il y a le
+      bétail, qui propage des maladies : la grippe, les virus viennent souvent du
+      passage d’une espèce à l’autre. L’agriculture, parce qu’elle utilise beaucoup la
+      domestication animale et que ces animaux sont élevés dans des conditions
+      d’hygiène pas géniales — à l’époque on ne sait pas trop l’hygiène —, fait que
+      les animaux sont vecteurs de maladies pour les hommes.
+  - chunk_index: 31
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 613
+    text: |-
+      Bref, que se passe-t-il à la fin du paléolithique ? Il y a une période
+      intermédiaire qui s’appelle le mésolithique, l’âge de la pierre moyenne. C’est
+      un terme qui ne veut pas dire grand-chose, parce que ce n’est pas forcément une
+      pierre « moyenne », mais il y a d’autres choses qui apparaissent. Ce qu’on
+      constate dans ces périodes, notamment en Europe, en tout cas dans l’hémisphère
+      nord, c’est qu’il existe un réchauffement climatique. On est à la fin de l’ère
+      glaciaire, la dernière glaciation était il y a 20 000 ou 25 000 ans avant
+      Jésus-Christ, et progressivement, à partir de 15 000 avant Jésus-Christ, le
+      climat se réchauffe. L’hémisphère nord se couvre de flore, et donc ça va
+      entraîner la population humaine à pouvoir se développer un peu mieux. Il va y
+      avoir des innovations technologiques importantes, comme l’usage de l’arc. L’arc
+      est bien plus efficace. Et puis on va voir apparaître, à ce moment-là, dans la
+      période du mésolithique, un début de culture d’espèces sauvages. C’est-à-dire
+      qu’on va faire de l’agriculture, mais on n’appelle pas ça la culture, parce que
+      pour qu’il y ait culture, il faut qu’on cultive et qu’on élève des espèces
+      domestiques. L’agriculture implique la domestication. Ici, on prend des plantes
+      sauvages, on les met dans la terre, elles poussent, et on recueille les fruits.
+      On pourrait penser que c’est la culture, mais il manque une étape importante :
+      la sélection des semences et donc la domestication de ces semences. Pareil, on
+      va domestiquer le chien. On transforme le loup en chien pour la chasse, parce
+      qu’on avait besoin de chasser. Mais on ne va pas forcément domestiquer le
+      mouflon, le mouton sauvage, et on ne va pas les faire reproduire entre eux pour
+      les sélectionner afin qu’ils donnent plus de lait ou qu’ils soient plus gras.
+      Donc c’est ça, la différence entre la culture d’espèces sauvages qu’on trouve
+      parfois au paléolithique et l’agriculture : un véritable système de production
+      et de sélection des espèces animales et végétales pour les besoins de l’homme.
+  - chunk_index: 32
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 373
+    text: |-
+      Une autre chose qu’on va voir apparaître au mésolithique, c’est l’industrie
+      céramique : la poterie. On dit « industrie céramique » parce qu’on va trouver
+      beaucoup de poterie dans cette période. La poterie est nécessaire à la culture,
+      parce que c’est un élément qui permet de conserver les aliments de manière
+      efficace. Quand on produit du blé, par exemple, il faut bien l’entreposer
+      quelque part, parce que les récoltes arrivent une fois par an. Il faut éviter
+      qu’elles soient mangées par les rats, les hôtes, etc. Il faut le sécher
+      complètement et le mettre dans une amphore. C’est un peu la boîte de conserve de
+      l’époque. Qu’est-ce qu’une amphore ? Un objet de terre cuite. Donc la rupture
+      néolithique ne peut se produire que si on a déjà l’habitude de cultiver des
+      espèces sauvages, si on a de la céramique, parce qu’on a besoin d’entreposer, de
+      garder des stocks de nourriture. À partir de là, on va voir apparaître le
+      néolithique, caractérisé par une nouvelle pierre, dont je vais parler, mais
+      aussi surtout par l’invention de la culture : à la fois la culture d’espèces de
+      plantes et la sélection et la domestication de ces plantes et de ces animaux, ce
+      qui inclut toute la question de l’élevage. Il y a deux dimensions : la culture
+      des végétaux et l’élevage.
+  - chunk_index: 33
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 412
+    text: |-
+      Le néolithique apparaît parce qu’on va voir des sites de fouilles et l’on
+      s’aperçoit qu’on passe de la pierre taillée à la pierre polie. La pierre
+      taillée, c’est un silex qu’on a cassé avec un autre silex, très souvent, et on a
+      débité un peu pour en faire un outil tranchant qui peut servir à couper la
+      viande ou, très souvent, à faire des pointes de flèches. L’industrie de la
+      pierre taillée est typiquement du paléolithique : des flèches, des lances, des
+      outils pour découper la viande. On les produit en masse, parce qu’on va tirer
+      beaucoup de flèches, donc on les produit vite, de manière efficace. Lorsqu’on
+      passe au néolithique, on va avoir besoin d’autres types d’outils : des haches
+      pour défricher, des outils beaucoup plus imposants, beaucoup plus solides, qui
+      ne vont pas forcément se casser ou se balancer comme ça contre les animaux. Donc
+      on va avoir moins d’outils, mais plus efficaces, plus tranchants, mieux faits.
+      C’est pour ça qu’on parle de pierre polie. Typiquement, une lance, on va casser
+      les pierres à force de s’attaquer aux animaux avec, mais une hache, on a besoin
+      d’une pierre au bout d’un bâton qui soit très efficace, et on ne va pas la
+      perdre. On va chercher à la polir, à la réparer. Donc on a des outils plus
+      effilés, plus tranchants, plus efficaces, mais moins nombreux. On produit moins,
+      mais des outils de qualité.
+  - chunk_index: 34
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 679
+    text: |-
+      Autre chose qui caractérise les sites néolithiques : l’apparition de céramique
+      nombreuse, pour les raisons que j’ai dites, c’est-à-dire qu’on a besoin
+      d’entreposer. On a besoin de beaucoup de poterie pour vivre. On a aussi besoin
+      de maîtriser la production du feu. Attention : le feu, deux éléments, l’usage et
+      la production. On connaît le feu depuis 500 000 ans, avant même l’apparition de
+      l’espèce *Homo sapiens*. *Homo sapiens* est né d’une espèce qui cuisait sa
+      viande, donc ça fait complètement partie de notre ADN, si je puis dire. Mais
+      parfois on ne savait pas forcément le produire ou correctement. Là, il faut
+      absolument qu’on produise du feu, qu’on sache qu’on ait des systèmes de
+      production de feu qui soient efficaces, parce que le feu est nécessaire
+      notamment pour la céramique et plein de choses. Le quatrième élément important,
+      c’est la domestication de plantes vivrières et d’animaux d’élevage. On parle
+      bien ici d’animaux d’élevage, c’est-à-dire d’animaux élevés pour leur viande. On
+      a des animaux domestiques : le loup, dont on fait des chiens. On domestique
+      aussi le chat à ce moment-là du néolithique, parce que le chat va être très
+      utile pour attraper les souris, les mulots qui vont manger nos céréales. On
+      domestique le chat pour des besoins de la culture, alors qu’on domestique le
+      chien pour les besoins de la chasse. Et puis il va y avoir une sédentarisation
+      progressive des populations, puisque on ne suit plus les troupeaux, on peut
+      rester au même endroit à cultiver les mêmes choses, les mêmes parcelles année
+      après année, donc on n’a plus besoin de bouger. Attention : cette
+      sédentarisation n’apparaît pas systématiquement dans le néolithique. On peut
+      avoir des systèmes d’agriculture sur brûlis : on défriche, on brûle des
+      parcelles de terre pour cultiver dessus. Ça implique qu’on bouge, donc des
+      villages mobiles. Donc la sédentarisation n’est pas systématique et pas pour
+      tout le monde. Il y a des gens qui vont se sédentariser, notamment tous ceux qui
+      vont vivre du travail des autres, les États, les châteaux, etc. Mais parfois la
+      population n’est pas tout à fait sédentaire. On a encore aujourd’hui au Laos,
+      par exemple, des systèmes de brûlis avec des villages nomades qui changent
+      d’endroit, qui vont cultiver sur un rythme de tous les dix ou vingt ans.
+  - chunk_index: 35
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 404
+    text: |-
+      Puis, quelques milliers d’années plus tard, on va changer de technologie : on va
+      passer aux gros seins ? Non, au bronze. L’âge du bronze commence en 3000 avant
+      Jésus-Christ, voire avant Jésus-Christ. Là, on a vraiment les premières vraies
+      civilisations de l’âge du bronze, qui permettent d’avoir des outils plus
+      efficaces. Le bronze implique aussi une organisation sociale bien plus
+      importante. Ces foyers du néolithique apparaissent de manière indépendante dans
+      différents coins du monde. On va voir qu’on ne domestique pas les mêmes plantes,
+      pas les mêmes animaux. En 9000 avant Jésus-Christ, le premier foyer, c’est ce
+      qu’on appelle le Croissant fertile : la Mésopotamie, donc l’Irak globalement,
+      les fleuves Tigre et Euphrate, l’Égypte. Qu’est-ce qu’il y a de particulier dans
+      ces endroits ? On a des fleuves extrêmement fertiles. Le Nil, par exemple, crée
+      des inondations chaque année qui fertilisent avec le limon apporté par le
+      fleuve, mais aussi avec l’eau qui fertilise les berges du fleuve. Ensuite on
+      peut cultiver de manière extrêmement efficace, puisque le climat est toujours
+      beau, quasiment désertique. Pareil en Irak. C’est peut-être là que la culture
+      est le plus facile à faire : au bord de ces fleuves désertiques qui sont battus
+      par des crues régulières. Donc c’est logique que l’agriculture commence à ces
+      endroits-là.
+  - chunk_index: 36
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 306
+    text: |-
+      Qu’est-ce qu’on va cultiver ? En Mésopotamie et en Égypte, on va d’abord
+      domestiquer le bœuf, la chèvre, le mouton, le porc. On cultive du blé, de
+      l’orge, des légumineuses. C’est la base de notre culture européenne, parce que
+      concrètement cette agriculture s’est étendue ensuite dans le bassin
+      méditerranéen, puis partout en Europe de l’Ouest. Cette agriculture comprend des
+      espèces sauvages qu’on sélectionne, qu’on améliore par la sélection, qu’on
+      cultive, qu’on nourrit, et on se nourrit de cela. Il faut bien comprendre que
+      cette agriculture est extrêmement efficace au bord des fleuves, du Tigre, de
+      l’Euphrate, du Nil, etc. Elle est beaucoup moins efficace ailleurs. Le blé
+      devient beaucoup plus difficile à cultiver une fois qu’on part de là : on a
+      moins d’accès à l’eau, des terres moins riches. Ce qui est intéressant, c’est
+      que cette agriculture va être inventée parce qu’elle est très efficace à un
+      endroit, mais elle va se propager malgré le fait qu’elle ne soit pas forcément
+      aussi efficace ailleurs.
+  - chunk_index: 37
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 408
+    text: |-
+      En Chine, on a un peu le même phénomène : un foyer néolithique qui apparaît à
+      peu près au même moment, avec d’autres plantes. On a le porc aussi, donc le même
+      animal : le sanglier au départ. Sans doute qu’on chassait le sanglier très
+      largement au paléolithique, et du coup c’est un élément de nourriture qu’on a
+      gardé dans le futur et qu’on a domestiqué. On domestique le riz. Ce n’est pas
+      pour rien que le riz est en Asie : c’est là qu’on l’a sélectionné et cultivé en
+      premier. Le millet, etc. En Inde, la volaille, les poulets, le bœuf, le buffle.
+      En Amérique, pareil, au même moment ou pas toujours au même moment : il y a
+      trois mille à quatre mille ans d’écart entre certains foyers. Il y a des foyers
+      qui vont rester au paléolithique pendant des siècles, des millénaires. Il y
+      avait encore, au début du XXe siècle, de nombreux foyers du paléolithique, des
+      chasseurs-cueilleurs. Ça existait encore. Il y a encore des sociétés qui sont
+      fondées un peu sur le nomadisme. Ce n’était pas une nécessité de passer à la
+      culture. Tous les êtres humains ne sont pas passés à la culture spontanément. Il
+      y en a qui sont passés directement du paléolithique à la société industrielle,
+      en Amazonie ou dans d’autres endroits du monde. On expliquera d’ailleurs
+      pourquoi ils ne passent pas à la culture : parce que pour eux ce n’est pas
+      forcément efficace.
+  - chunk_index: 38
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > Du paléolithique au néolithique
+    content_token_count: 205
+    text: |-
+      En Amérique, on a le haricot, la pomme de terre, le maïs, les cochons d’Inde.
+      Les cochons d’Inde étaient élevés pour leur viande. Je sais que certains d’entre
+      vous ont des cochons d’Inde chez eux et n’ont pas envie de les manger, donc ce
+      n’est pas tout à fait les mêmes espèces. En Amérique centrale, c’était des
+      cochons d’Inde bien plus gras, plus gros, qu’on avait élevés et domestiqués à
+      partir de l’espèce sauvage, le cobaye. Et puis les camélidés : les lamas, etc.
+      Le dindon aussi. À chaque fois qu’on a un foyer agricole, on a des espèces
+      différentes, ou parfois similaires, qu’on va cultiver ou élever.
+  - chunk_index: 39
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 339
+    text: |-
+      Évidemment, le passage au néolithique va s’accompagner d’une chose extrêmement
+      importante : l’apparition des villes. Qui dit apparition de ville dit apparition
+      de civilisation, c’est-à-dire d’un pouvoir centralisé qui va exister quelque
+      part et qui va pouvoir contrôler son arrière-pays. Au paléolithique, on n’avait
+      pas de ville. On n’avait pas de ville pour deux raisons. La première,
+      évidemment, c’est que les tribus étaient nomades. Mais le nomadisme n’empêche
+      pas forcément les villes, parce qu’on peut tout à fait avoir des peuples qui
+      vont chercher la nourriture sur un territoire plus ou moins grand et qui vont
+      rapporter une partie des surplus à des endroits, à des personnes qui ne vont pas
+      chercher la nourriture et qui vont en profiter. C’est ce qui se passe d’ailleurs
+      dans les sociétés du néolithique : il y a une partie de la population qui
+      nourrit l’autre, et la partie qui est nourrie fait autre chose. Le problème, au
+      paléolithique, c’est qu’on n’est pas assez efficace en termes de production de
+      nourriture par rapport à la surface qu’on exploite, ce qui ne permet pas, avec
+      les technologies des transports de l’époque, d’alimenter une ville, même une
+      petite ville de mille habitants.
+  - chunk_index: 40
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 347
+    text: |-
+      Paul Bairoch fait un calcul que je trouve assez amusant et que je vais refaire
+      ici. N’oubliez pas qu’une ville, ça regroupe des gens qui ne produisent pas de
+      biens alimentaires. Ils sont nourris par les autres, qui produisent des biens
+      alimentaires. Si on est dans une société paléolithique, une société de
+      chasseurs-cueilleurs, pour qu’il y ait une ville, la question se pose de savoir
+      combien il faut de personnes, combien il faut de surface pour produire
+      suffisamment à manger pour ceux qui vont vivre en ville, quelle est la part du
+      surplus vivrier stockable et transportable qu’on peut amener à la population
+      urbaine pour la nourrir. Voilà le calcul que fait Paul Bairoch. Il dit la chose
+      suivante : dans une société paléolithique de chasseurs-cueilleurs, un kilomètre
+      carré peut nourrir, selon le climat, soit 2,3 habitants, soit 0,1 habitant dans
+      les régions tempérées, soit 0,20 et 0,03 habitants dans les régions arctiques.
+      C’est-à-dire qu’en fonction du climat, un kilomètre carré, si on fait la chasse
+      et la cueillette, pourra nourrir un nombre limité de personnes. Plus le climat
+      est favorable, plus il y a de gens, mais on ne va pas accéder à plus de trois
+      habitants.
+  - chunk_index: 41
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 479
+    text: |-
+      Si on se met maintenant dans une situation type européenne, donc intermédiaire,
+      régions tempérées, pour nourrir mille habitants, combien faudrait-il de surface
+      ? Paul Bairoch part d’une hypothèse forte : on va compter un surplus de 10 %,
+      c’est-à-dire que chaque personne qui chasse va, en moyenne, en comptant sa
+      famille, avoir un surplus à la fin de 10 % qui serait possiblement transporté
+      pour nourrir la ville. Si on tient compte des coûts de transport, on considère
+      qu’à la moitié, en fait, de ce surplus peut vraiment nourrir des gens de la
+      ville ; l’autre moitié va alimenter les gens qui transportent la nourriture. On
+      peut faire ce calcul simple. Pour nourrir mille habitants, combien faut-il de
+      surface ? Premièrement, si on dégage 10 % de surplus et si chaque kilomètre
+      carré ne nourrit que 0,2 habitant, ça veut dire qu’il faut déjà 10 kilomètres
+      carrés pour nourrir un habitant, 100 kilomètres carrés pour avoir 10 % de
+      surplus, pour avoir suffisamment de quoi nourrir un urbain. Et comme on compte
+      les coûts de transport, il faut donc non pas 100 mais 200 km² pour nourrir un
+      urbain. Si on considère qu’il faut 1 000 personnes, on arrive à 200 000
+      kilomètres carrés. C’est la taille de la Grande-Bretagne. Donc en fait, il est
+      totalement impossible, dans les régions tempérées — et c’est vrai aussi dans les
+      zones tropicales — d’organiser une société sur un territoire aussi vaste avec
+      les moyens technologiques de l’époque : la marche à pied pour transporter les
+      choses. En raison de la difficulté à nourrir beaucoup de gens avec peu de terre
+      lorsqu’elle est exploitée sous forme de chasse et de cueillette, il est
+      impossible d’avoir une ville.
+  - chunk_index: 42
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 424
+    text: |-
+      C’est le calcul que fait Paul Bairoch. Par contre, une fois qu’on passe au
+      néolithique, une fois qu’on passe à l’agriculture, Paul Bairoch dit qu’on
+      multiplie les rendements par 100. Cela veut dire qu’un kilomètre carré peut
+      nourrir 100 fois plus : une personne par mètre carré ? Non, mais avec la
+      technologie la plus sommaire de la culture, dans les régions type Europe, un
+      kilomètre carré peut nourrir 10 personnes. Du coup, combien faut-il maintenant
+      de kilomètres carrés pour une ville de mille habitants ? Faites le calcul, c’est
+      pas très compliqué. Vous avez toujours le surplus de 10 %, vous avez toujours le
+      coût de transport qui double. Cela veut dire que maintenant vous avez un
+      rendement multiplié par 100, donc vous divisez par 10 : 2 000 kilomètres carrés.
+      2 000 kilomètres carrés, c’est environ 40 à 50 kilomètres de rayon. Je vous fais
+      50 km dans une direction à partir d’Angers, vous sortez de l’Anjou. 50 km, 40
+      km, ça se fait en une journée à pied, c’est possible. Donc cela veut dire que
+      vous avez des territoires, avec l’agriculture, qui sont beaucoup plus faciles à
+      contrôler. D’où l’idée de Bairoch : pour créer des villes, pour créer une
+      population de 1 000 habitants nourrie par l’ensemble du travail des autres, il
+      faut passer à la culture, parce qu’on divise par 10 la surface nécessaire pour
+      produire de la nourriture pour les urbains. Dès qu’on a de quoi nourrir les
+      urbains, on a de quoi créer une société.
+  - chunk_index: 43
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 320
+    text: |-
+      Donc l’agriculture, le néolithique, permet l’apparition d’une population urbaine
+      sédentaire, c’est-à-dire d’une population qui peut exploiter en quelque sorte
+      les gens qui produisent de la nourriture, les agriculteurs. Et donc on peut voir
+      à ce moment-là une hiérarchie sociale : une classe de personnes qui va devenir
+      militaire et protéger militairement les autres, une classe religieuse, une
+      classe qui construit des bâtiments, et une autre classe, évidemment la grande
+      majorité, qui va nourrir la première. Bairoch considère que si on a 10 habitants
+      au kilomètre carré et qu’on a une ville, ça peut faire 20 000 personnes dans
+      l’Anjou. On a donc une société politique primitive de plus de 20 000 personnes.
+      Aujourd’hui, l’Anjou compte 800 000 personnes, dont 1 000 seraient l’élite
+      urbaine et 19 000 produiraient la nourriture pour l’élite urbaine, religieuse,
+      militaire, administrative. Donc là on a une société, on va avoir un État. C’est
+      ça que je veux dire : on n’a plus que des tribus éparses, on a un système de
+      contrôle de la population qui peut s’exercer depuis la ville.
+  - chunk_index: 44
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 405
+    text: |-
+      Il reste cependant un mystère : est-ce que cette société est la meilleure ? On
+      voit déjà que c’est une société qui peut permettre l’oppression, puisqu’il y a
+      des classes sociales qui peuvent s’imposer. Et puis on a aussi le problème de
+      savoir si cette société est une société où les gens travaillent autant, moins,
+      vivent mieux ou pas. Tout à l’heure, je vous ai dit d’abord que les gens qui ont
+      des idées politiques, les gens qui sont dans la culture, ne vivent pas forcément
+      mieux que les chasseurs-cueilleurs, parce qu’ils sont moins bien alimentés,
+      parce qu’ils sont plus soumis aux maladies. On le voit dans les squelettes : ils
+      sont plus rachitiques. Deuxièmement, ils sont plus facilement contrôlables,
+      parce qu’ils sont soumis à une domination d’un pôle urbain, militaire et
+      religieux qui va leur imposer des choses. Troisièmement, on y travaille plus. Là
+      il y a une forme de paradoxe qu’il faut bien comprendre : l’agriculture augmente
+      les rendements de la terre. La terre produit, par kilomètre carré, 100 fois
+      plus. Il y a une hausse considérable du rendement de la terre. Mais en matière
+      d’heures de travail, on a une régression de la productivité du travail : il faut
+      plus de travail pour nourrir une personne avec l’agriculture que pour nourrir
+      une personne avec la chasse et la cueillette. Pourquoi ? Parce que cultiver,
+      c’est entretenir la terre, c’est faire des outils, etc., et ça demande plus de
+      travail.
+  - chunk_index: 45
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 494
+    text: |-
+      Selon Mark Cohen — la référence ici, c’est *The Food Crisis in Prehistory:
+      Overpopulation and the Origins of Agriculture*, 1977 —, le passage du
+      paléolithique au néolithique a été une régression au niveau économique, dans le
+      sens où il fallait 800 à 1 000 heures de travail par an pour nourrir une
+      personne dans les sociétés préagricoles, alors qu’il faut 1 000 à 1 300 heures
+      pour nourrir une population agricole. Aujourd’hui, on travaille encore plus
+      d’ailleurs, en passant. Enfin, en moyenne, on ne travaille pas plus, parce que
+      collectivement on travaille beaucoup moins : on ne travaille pas quand on est
+      vieux, on a beaucoup de gens au chômage, mais si vous prenez un actif salarié,
+      il travaille quand même plus que 1 300 heures par an, plutôt genre 1 600. On
+      n’est pas très loin. Bref, tout ça pour dire que Cohen se pose la question de
+      savoir pourquoi on est passés à l’agriculture dans ce cas-là. Pourquoi les
+      sociétés humaines ont-elles choisi un système qui en fait les oppresse
+      davantage, qui les fait plus travailler et qui les nourrit moins bien ? Certes,
+      les sociétés agricoles vont avoir un avantage que n’ont pas les sociétés du
+      paléolithique : c’est là qu’on a pu progresser. Il y avait des progrès dans la
+      chasse, j’ai parlé de l’arc tout à l’heure, mais on va dire que la culture
+      permet de développer et de multiplier les occasions de progrès, et du coup
+      d’arriver à une société où aujourd’hui on se trouve peut-être mieux que si on
+      était des chasseurs-cueilleurs du paléolithique — encore que tout cela se
+      discute. C’est difficile de dire ce qui est mieux pour l’être humain. Mais
+      concrètement, il y a clairement une régression à tous les points lorsque l’on
+      passe du paléolithique au néolithique.
+  - chunk_index: 46
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 379
+    text: |-
+      L’analyse de Cohen, c’est de dire que cette régression est due à la
+      surpopulation : il a fallu nourrir le monde, donc on est passés à la culture,
+      même si elle a demandé plus de travail. C’est une analyse un peu simpliste, je
+      ne pense pas la partager. Comme je l’ai dit tout à l’heure, la culture est née à
+      des endroits où elle est extrêmement efficace. Donc là aussi il faut faire
+      attention aux biais qu’on peut avoir. Être chasseur-cueilleur au bord du Nil,
+      c’est peut-être idiot ; en Europe, dans les forêts européennes, c’est
+      complètement idiot au bord du Nil, alors que le fleuve nous apporte de quoi
+      faire une agriculture de manière extrêmement efficace et avec peu de travail.
+      Par contre, ce qui va se passer, c’est qu’une fois qu’on a une société agricole,
+      on a une société avec une armée, on a une ville avec un pouvoir politique et
+      religieux qui va être capable de dominer les régions alentour, et donc une
+      civilisation. Ce qu’on peut penser plutôt, moi en tout cas, c’est l’idée que je
+      m’en fais : ce n’est pas spontanément que les gens se sont mis à faire de
+      l’agriculture parce qu’ils en avaient envie ; c’est parce que les sociétés non
+      agricoles ont fini par être dominées politiquement et militairement par des
+      sociétés agricoles, qui du coup ont imposé leur système de production. J’aurais
+      plutôt tendance à penser ça.
+  - chunk_index: 47
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 637
+    text: |-
+      Il y a un autre livre : Marshall Sahlins, *Âge de pierre, âge d’abondance*,
+      1972. C’est une thèse là aussi critiquée mais intéressante, selon laquelle
+      finalement l’âge de l’abondance, l’âge où les gens pouvaient ne pas travailler,
+      le paradis terrestre, c’était l’âge du paléolithique. Harari dit la même chose
+      dans *Sapiens* : quand on a inventé la culture, c’était une régression totale au
+      niveau du niveau de vie. Bien sûr, la culture a engendré aussi l’écriture,
+      l’argent, la civilisation, l’État, et peut-être qu’il y a aussi des choses à
+      garder et que tout n’a pas été négatif. C’est toujours des thèses un peu
+      surprenantes. En passant, ça explique aussi que tous les peuples n’ont pas eu à
+      passer à la culture : seuls ceux qui ont été dominés militairement par les
+      autres sont passés à l’agriculture. Pensez aux chasseurs-cueilleurs d’Amazonie,
+      ou même à certaines tribus d’Indiens d’Amérique du Nord. En Amérique du Nord, il
+      y avait de la culture. Il y avait des sociétés, des tribus villageoises
+      sédentarisées qui pratiquaient la culture, mais on avait aussi des peuples
+      indiens qui étaient encore sur des modèles de chasse, et qui ont été réduits.
+      Difficile de savoir, parce qu’on n’a pas de textes écrits pour raconter ces
+      histoires. Mais les Sioux, les Apaches, je ne sais pas, ne voulaient pas se
+      contenter d’être chasseurs-cueilleurs, préféraient se déplacer en suivant les
+      bisons plutôt que de faire de la culture. C’est peut-être aussi parce qu’ils
+      faisaient mieux comme ça. Donc le fait qu’ils n’aient pas eu des mécanismes
+      automatiques de passage de la chasse et de la cueillette à la culture peut-être
+      s’explique aussi parce que spontanément les peuples humains n’ont pas forcément
+      envie de le faire, sauf si vraiment les conditions font que c’est utile, par
+      exemple au bord du Nil. S’ils ne le font pas, ils le font quand ils sont sous
+      l’emprise politique et militaire d’une société agricole qui les met sur les
+      champs, libre à la maison ou d’aller travailler. C’est d’ailleurs souvent comme
+      ça : ce sont souvent les esclaves dans les sociétés antiques qui travaillent la
+      terre.
+  - chunk_index: 48
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 670
+    text: |-
+      J’ai vu qu’il y avait une question, je vais la lire. « Est-ce que le blé nous a
+      domestiqués ? » Oui, voilà, quelqu’un a lu apparemment Yuval Noah Harari.
+      Excusez-moi. Alors cependant il y a une chose qu’il faut noter : l’apparition et
+      la généralisation progressive, très progressive, du néolithique. D’ailleurs, ce
+      n’est pas pour rien qu’en Afrique, en Amazonie, en Indonésie, dans les régions
+      équatoriales, on ne passe pas au néolithique. C’est parce que finalement c’est
+      encore moins utile. Quand vous avez des saisons claires avec des hivers, vous
+      voyez bien qu’en hiver il n’y a plus beaucoup de choses à chasser, il fait
+      froid, vous avez besoin de plus de calories pour l’hiver, et l’environnement est
+      plus hostile. La culture permet de sécuriser un ensemble de choses. Quand on est
+      en Amazonie, dans une région équatoriale, et que la nature est florissante,
+      pourquoi s’embêter à passer à l’agriculture ? Donc là aussi le climat explique
+      en partie pourquoi certaines populations ne passent pas à l’agriculture : parce
+      qu’en fait pour elles ce n’est pas franchement utile. Par contre, ce qui est
+      sûr, c’est que quand on passe à la culture, même si la productivité du travail
+      régresse — c’est-à-dire qu’il faut plus d’heures de travail pour produire la
+      même quantité de nourriture —, il n’empêche que le fait que les rendements de la
+      terre augmentent… Je ne sais pas si vous venez de le noter, je vais vous le
+      redire : il faut distinguer dans la culture l’amélioration des rendements et la
+      notion de productivité. En agriculture, on a deux facteurs de production
+      essentiels. Le premier, c’est la terre. Le second, c’est le travail. Quand vous
+      augmentez les rendements de la terre, vous multipliez la nourriture par surface
+      agricole. C’est un progrès, mais ce progrès ne veut pas forcément dire que vous
+      multipliez de la même façon la productivité du travail. Au contraire, vous
+      pouvez tout à fait avoir une hausse du rendement de la terre et une baisse de la
+      productivité du travail. Le deuxième élément, c’est la productivité du travail :
+      c’est le nombre d’aliments que vous allez produire par heure travaillée. La
+      rupture, c’est le passage du paléolithique au néolithique : c’est le passage
+      d’une hausse considérable du rendement de la terre — fois 100 — et d’une
+      diminution légère mais notable de la productivité du travail.
+  - chunk_index: 49
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 273
+    text: |-
+      Pour l’individu, le rendement de la terre et son fils ? Ce qui compte, c’est le
+      travail. Pour le bien-être social, la baisse de la productivité du travail
+      produit évidemment du mal. Par contre, la multiplication par cent du rendement
+      fait que sur une même surface vous pouvez avoir beaucoup plus de gens. Donc
+      potentiellement, si le rendement augmente de 100, la population pourra elle
+      aussi être multipliée par cent. Donc vous avez une loi fondamentale que je vais
+      vous faire écrire, on la reverra en conclusion, mais autant l’avoir dès
+      maintenant : toute hausse du rendement de la terre engendre une hausse
+      démographique. Dans la culture, vous avez le rendement de la terre qui augmente,
+      alors la population globale augmente. Première loi. Elle est vérifiée au passage
+      du paléolithique au néolithique, mais elle va être vraie après : c’est-à-dire
+      que l’agriculture va faire des progrès au fur et à mesure de son histoire, et
+      plus elle va augmenter les rendements, plus on va voir une population augmenter.
+  - chunk_index: 50
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 935
+    text: |-
+      Deuxième loi fondamentale de l’agriculture : plus vous faites des progrès de
+      productivité du travail, moins vous avez besoin de main-d’œuvre pour produire
+      votre nourriture. Donc plus le taux d’urbanisation de la société va se
+      développer. Je répète : plus vous augmentez la productivité du travail, moins
+      vous avez besoin de main-d’œuvre pour produire de la nourriture. Et donc si vous
+      avez moins de main-d’œuvre pour produire la nourriture, cette main-d’œuvre, elle
+      va aller où ? Elle ne sert à rien dans la campagne ; elle va aller là où il y a
+      une activité non agricole, dans les villes. Donc vous allez avoir votre taux
+      d’urbanisation de la société qui va augmenter. S’il y a plus de gens dans les
+      villes, il y a plus de produits non agricoles, et donc on va avoir plus de plein
+      d’autres choses que des produits alimentaires. C’est ça qui va être la base de
+      nos sociétés actuelles, c’est ça qui va permettre l’industrialisation. On verra
+      que l’industrialisation est possible que si vous avez une main-d’œuvre embauchée
+      dans l’industrie, c’est-à-dire des gens qui ne produisent pas la nourriture.
+      Donc il va falloir des progrès dans l’agriculture au niveau de la productivité
+      du travail. Par contre, si vous augmentez, si vous multipliez les rendements
+      agricoles, vous augmentez la masse globale de la population, mais vous
+      n’augmentez pas forcément la taille des villes. Elle va augmenter en proportion
+      de la taille de la population. Le taux d’urbanisation, lui, va augmenter par
+      lui-même. Donc ces deux progrès extrêmement importants dans la culture — la
+      hausse des rendements et la hausse de la productivité — il ne faut pas les
+      confondre. Ils n’ont pas du tout les mêmes effets socialement. C’est la raison
+      pour laquelle il faut absolument les distinguer. On le fera : on s’amusera à
+      regarder, pour chaque innovation, est-ce qu’elle augmente les rendements ou
+      est-ce qu’elle augmente la productivité du travail ? Est-ce qu’elle va augmenter
+      la taille de la population ou est-ce qu’elle va augmenter la structure de cette
+      population entre urbains et ruraux ? Aujourd’hui, la majorité des gens vivent en
+      ville, y compris dans une petite ville — on dit que 1 000 habitants c’est une
+      ville. Vous voyez bien que la majorité des gens ne travaillent plus la terre. Il
+      y en a encore, mais la plupart vivent en ville. Même les agriculteurs peuvent,
+      avec les moyens de transport actuels, aller cultiver à dix kilomètres de là.
+      Donc ce que je veux dire, c’est que le premier fait notable de la culture, c’est
+      que certes elle baisse la productivité, mais elle augmente considérablement les
+      rendements, donc elle va augmenter la population. La population mondiale passe
+      de 15 millions d’habitants en 8 000 avant Jésus-Christ, au moment du passage au
+      néolithique, à 200 ou 350 millions d’habitants en l’an 1. On n’a pas vécu par
+      100, mais la population a beaucoup augmenté. Le taux de croissance de la
+      population au paléolithique était de 0,004 %, ce qui ne veut pas dire
+      grand-chose : ça veut dire quasiment zéro, surtout une forme de régression en
+      cas de variation climatique. À 0,20 ou 0,4 %, ça reste faible, mais c’est quand
+      même dix fois plus élevé que le précédent. Cela explique qu’on soit passé de 15
+      millions à 200 ou 350 millions.
+  - chunk_index: 51
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 406
+    text: |-
+      Quand on a des villes, on a forcément une population qui se sédentarise de
+      manière définitive : celle qui habite en ville. Beaucoup d’agriculteurs aussi
+      vont se sédentariser, mais pas tous, j’y reviendrai. Ce qui est bien, c’est que
+      quand on a une population sédentaire, on peut organiser des réseaux de
+      communication, on sait où les gens se trouvent, et donc on peut créer du
+      commerce et des échanges. Le commerce, les échanges, c’est une
+      institutionnalisation de l’échange, c’est une manière d’organiser des rapports
+      commerciaux. C’est très facilité par la sédentarisation d’une partie des gens.
+      Dans les tribus de chasseurs-cueilleurs, on peut aussi avoir des formes de
+      commerce, mais il faut qu’on se rencontre, qu’on sache où on est. On peut avoir,
+      y compris chez certains chasseurs-cueilleurs, des moments de rassemblement,
+      notamment religieux, où il peut y avoir du commerce. Mais ce qui est sûr, c’est
+      que quand on commence à voir des villes — encore une fois, je ne parle pas des
+      gigantesques villes —, on a un système organisé, une structuration d’un État. La
+      ville a besoin d’être alimentée en nourriture, donc forcément elle a besoin
+      d’envoyer ses troupes pour collecter l’impôt. On a bien un système d’oppression
+      de la ville vers la campagne : c’est bien ça qui caractérise une société
+      étatique, une civilisation. Et c’est là qu’ils vont pouvoir inventer l’écriture,
+      et c’est là que l’histoire va commencer.
+  - chunk_index: 52
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 369
+    text: |-
+      On considère qu’en l’an 1, 90 % de la population mondiale vit dans une région
+      soumise à une influence urbaine, c’est-à-dire dans une civilisation. Attention :
+      quand je vous dis 90 % de la population vit dans une région soumise à
+      l’influence urbaine, je ne dis pas 90 % de la population mondiale vit dans des
+      villes. En fait, il y a peut-être 5 % de la population mondiale qui vit dans une
+      ville. L’essentiel de la population mondiale est soumise à l’influence d’une
+      ville parce qu’il y a quelqu’un de la ville qui vient collecter l’impôt, qui
+      vient lui prélever la part de nourriture pour alimenter la ville. C’est ça que
+      je veux dire. Et vous avez aussi donc 10 % de la population qui ne vit pas dans
+      une influence urbaine. C’est une minorité, mais qui vit là où il n’y a pas de
+      personnes pour collecter l’impôt. C’est une population de chasseurs-cueilleurs
+      d’Amazonie, des choses comme ça, des populations qui sont en dehors de ce cadre
+      historique civilisé. À cette époque se pose la question : est-ce que les peuples
+      primitifs ne sont pas civilisés ? Ils ont une culture, ils ont une identité, ils
+      ont une langue, ils ont plein de choses, mais ils ne sont pas organisés autour
+      d’une ville, donc ils n’ont pas une structure administrative, ils n’ont pas tout
+      ça, et ils n’ont pas d’écriture en général.
+  - chunk_index: 53
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 880
+    text: |-
+      Mais ces civilisations, sur quoi reposent-elles ? Elles reposent sur plein de
+      modalités différentes. Ces civilisations vont être dépendantes de la nature de
+      leur agriculture. C’est-à-dire que — je reviens un peu à l’analyse marxiste,
+      infrastructure/superstructure — je dirais qu’en fonction des modalités dans
+      lesquelles l’agriculture va se faire, on va voir des sociétés qui vont être un
+      peu différentes. Les premières formes d’agriculture — là aussi ce n’est pas tout
+      à fait vrai, puisque le Nil c’est la première forme d’agriculture, mais c’est
+      tout à fait spécifique — quand on va commencer à voir la culture se développer
+      sur des terrains moins favorables, très souvent elle va prendre la forme, au
+      début en particulier, de la culture sur brûlis. La culture sur brûlis, j’en ai
+      parlé tout à l’heure, est un type de culture assez efficace du point de vue de
+      la productivité du travail, pas très efficace du point de vue des rendements
+      agricoles, qui consiste à défricher une parcelle de terre, à la brûler et à
+      cultiver sur ce qui reste, sur ce qui a brûlé, parce que là on a des rendements
+      de fin d’été, des rendements sur la surface du brûlis qui sont extrêmement
+      forts. Le problème, là où les rendements ne sont pas très forts, c’est
+      qu’évidemment il faut attendre ensuite dix ans ou vingt ans que la forêt
+      repousse et qu’on ait encore quelque chose à brûler. Donc c’est un système qui
+      n’est pas très efficace au sens où il faut quand même multiplier les
+      défrichages. Le fait de brûler des parcelles tous les ans est une culture qui
+      est encore pratiquée aujourd’hui. Il y a au Laos des peuples qui utilisent
+      encore cette forme d’agriculture. Si vous allez du côté de Luang Prabang, au
+      nord du Laos, vous verrez les phares, dans des régions tropicales. Vous verrez
+      la fumée qui vient de la culture sur brûlis. Le gouvernement essaie de
+      l’empêcher, parce qu’évidemment ce n’est pas très écologique, ça peut mettre des
+      feux de forêt, etc. C’est compliqué, parce qu’en plus ce sont des ethnies
+      minoritaires. Donc ils ont un mode de vie qui implique cela. Le gouvernement
+      laotien essaie — ce n’est pas une grande démocratie, le Laos est encore un pays
+      communiste, dirigé par un parti communiste, avec Cuba, la Corée du Nord, le
+      Vietnam aussi, et la Chine — mais voilà, il y a plein d’ethnies différentes, des
+      régions montagneuses, et le gouvernement là-haut essaie d’apprendre à ces
+      populations à ne plus faire de brûlis, mais d’autres choses. C’est difficile de
+      changer les cultures, surtout quand il s’agit de minorités ethniques. On peut
+      mettre les gens en prison, mais ce n’est pas toujours simple. On a aussi en
+      Indonésie ce type de culture, avec là aussi des feux régulièrement, et parfois
+      le feu se propage. Ce type d’agriculture implique une rotation des terres
+      cultivées tous les vingt ans environ — j’avais dit dix ans, en fait c’est vingt
+      ans —, mais elle est suffisamment efficace tout de même pour avoir une
+      population assez importante, en tout cas plus importante que la chasse et la
+      cueillette, et permettre de voir apparaître une population urbaine, puisqu’on
+      peut avoir des villes à ce moment-là.
+  - chunk_index: 54
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 766
+    text: |-
+      Une société qui va fonctionner selon ce modèle de la culture sur brûlis, c’est
+      la société mycénienne. On est à l’âge du bronze, vers 1500-1600 avant
+      Jésus-Christ, en Grèce. Regardez, voilà les palais de la civilisation
+      mycénienne, que j’ai trouvés sur Wikipédia ou ailleurs. Vous reconnaissez la
+      Grèce, et vous connaissez plein de sites archéologiques qui sont des palais. Les
+      palais, c’est le centre administratif du pouvoir politique et militaire. C’est
+      en quelque sorte le royaume : un tout petit royaume qui contrôle un territoire
+      autour de lui, avec une population qu’il taxe pour se nourrir. Il utilise cette
+      taxe pour recruter des soldats et armer des soldats. Ces soldats permettent de
+      contrôler le territoire autour, et le système fonctionne comme ça. La culture
+      sur brûlis, dans le bassin méditerranéen, on cultive traditionnellement du blé
+      ou de l’orge, des céréales. Ce n’est pas pour la vigne ou l’olivier : la vigne
+      et l’olivier se cultivent plutôt autour du palais, donc ce sont des cultures
+      nobles pour les nobles, mais qui ne vont pas alimenter les gens de la ville. Le
+      vin, c’est pour les nobles. Mais la base de l’agriculture, c’est le blé, qui est
+      ponctionné sur les paysans qu’on contrôle. C’est une société militaire, qui peut
+      aussi avoir des côtés religieux, et dont la puissance va dépendre de la
+      profondeur territoriale qu’on contrôle. Du coup, les Mycéniens dansent et font
+      la guerre. Parfois, ils ont des soucis, parce que c’est une agriculture qui est
+      aussi très fragile : si vous n’avez pas de pluie, il n’y a pas de système
+      d’irrigation, donc vous pouvez ne pas avoir les récoltes qu’il faut. L’État peut
+      alors connaître une guerre civile. Ce sont quand même des sociétés assez
+      fragiles. L’âge du bronze en Grèce, c’est l’âge de l’*Iliade* et de l’*Odyssée*.
+      L’*Iliade* et l’*Odyssée*, les textes fondateurs de la civilisation grecque,
+      font référence aux temps anciens, pré-âge du fer, en fait à l’âge du bronze, et
+      c’est typiquement la situation mycénienne. Donc l’histoire de la belle Hélène,
+      de Pâris et tout ça, se passe dans ce moment-là. On a des petits royaumes qui se
+      font la guerre et qui contrôlent une population paysanne qui n’est pas
+      sédentaire, ou pas totalement, puisqu’elle va cultiver des parcelles différentes
+      chaque année. Donc les paysans vont sans doute se déplacer. Vous pouvez imaginer
+      que les logements n’étaient pas luxueux, et vous pouvez aussi imaginer que ce
+      n’est pas facile pour le palais de contrôler toutes ces populations paysannes
+      qui bougent un peu.
+  - chunk_index: 55
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 850
+    text: |-
+      Cette agriculture va laisser sa place ensuite à un autre type de culture, qui
+      est la culture de la Grèce de l’âge du fer. La spécialité de la Grèce, la
+      transition entre la civilisation mycénienne et la civilisation grecque, c’est
+      une rupture de civilisation : elle maîtrise le fer. L’âge du fer est considéré
+      dans l’histoire comme un tournant socio-économique important, parce que le fer
+      est compliqué à acquérir et à manier, et qu’en plus il produit des armes
+      extrêmement puissantes. Par ailleurs, il est beaucoup plus abondant que le
+      bronze, qui est un alliage de cuivre et d’étain et qui est plus difficile à
+      trouver. Le fer est beaucoup plus fréquent. Donc des civilisations qui trouvent
+      le fer sont plus puissantes militairement, plus efficaces économiquement, et ont
+      un niveau technologique plus élevé. Le problème du fer, c’est d’être capable de
+      transformer le minerai brut en minerai de fer, puis en fer, et ensuite de faire
+      des armes ou des choses comme ça. La température de fusion du fer est tellement
+      élevée — on parle de 1500 degrés — que c’est très difficile à produire. Je vais
+      vous montrer une petite vidéo après, puis on va terminer le cours sur cette
+      structure. Le problème de la production métallurgique, c’est que dans la nature
+      le fer pur n’existe pas, sauf dans les météorites. Ça arrive parfois, mais en
+      général vous trouvez toujours du fer mélangé à plein de choses. C’est en fait
+      une roche métallurgique, un minerai : une roche avec des éléments de fer. Si
+      vous voulez dissocier le fer de la roche, comment faites-vous ? Vous faites
+      chauffer jusqu’à atteindre la température de fusion du fer. La partie qui a
+      passé le fer va s’écouler. Parfois une partie de la roche aussi va fondre. Si
+      vous arrivez à une terre, quelque chose de très fin, toutes les choses qui vont
+      brûler, tout le minerai est composé de plein de choses différentes, mais le fer
+      va être plus dense, donc il va tomber au fond. Donc tout le problème de la
+      sidérurgie, la métallurgie du fer, c’est d’être capable d’atteindre la
+      température de fusion du fer, qui est de plus de 1500 degrés. C’est très
+      difficile à faire. Comment fait-on ? On va construire un four spécial, qui est
+      isolé — souvent fait en briques, en terre —, pour garder la chaleur. On va le
+      faire quasiment totalement et l’alimenter par le bas jusqu’à ce que les flammes
+      montent, en mettant beaucoup de bois. On n’a pas d’autre choix à ce moment-là.
+      Jusqu’à atteindre une température de plus de 1500 degrés, qui permet de faire
+      fondre le fer et donc de dissocier la roche du fer. Parce qu’en fait le fer va
+      être en bas : il va s’écouler parce qu’il est plus dense. On aura la paix après
+      avoir nettoyé. Ce four qu’on va faire, on ne va pas pouvoir l’utiliser plusieurs
+      fois : on va le faire, mais complètement. Le fer sera dedans. Ensuite, on le
+      casse, et on récolte le minerai, maintenant le fer purifié. Jamais totalement
+      purifié, mais suffisamment purifié pour pouvoir faire des armes.
+  - chunk_index: 56
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 749
+    text: |-
+      Maintenant je vais vous montrer une petite vidéo. C’est une vidéo japonaise qui
+      montre comment on fabrique un katana, donc un sabre japonais, à partir justement
+      de minerai de fer. Ils vont construire un four, mettre le minerai de fer, le
+      faire chauffer, puis récupérer le fer. Ensuite vous allez voir. Il nous reste
+      cinq à dix minutes, donc je vous laisserai voir la vidéo, et puis après vous
+      pourrez voir le katana. On va aller jusqu’au bout parce que c’est rigolo. J’ai
+      trouvé ça sur YouTube. On fait le four avec des briques, on l’isole avec de
+      l’argile. On met du bois et on fait chauffer, ça chauffe, ça chauffe. Ensuite on
+      prend le minerai de fer — ils l’ont acheté, ce n’est pas forcément comme ça — et
+      on met le minerai de fer dans ce four extrêmement chaud pour atteindre la
+      température de 1500 degrés. On fait chauffer encore jusqu’à ce que le métal
+      aille au fond. Maintenant on casse : on a là le morceau de fer, il faut enlever
+      tout ce qui est autour. Maintenant il faut réussir à produire une arme. On va
+      battre le fer quand il est chaud. Concrètement, on le refroidit, on le bat.
+      C’est très très dur, parce que là aussi ça fond à 1500 degrés, donc en fait on
+      n’arrive pas à atteindre cette température dans une forge. On atteint une
+      température proche où le fer est mou, et comme il est mou on arrive à le
+      façonner. Mais voyez comme c’est compliqué. Il n’est pas à 1500 degrés, il est
+      beaucoup plus bas. Donc ça demande une main-d’œuvre extrêmement nombreuse et
+      âpre. On commence à voir le sabre, on le fond, on le refroidit, on le polit.
+      Ensuite il fabrique le manche. C’est un katana, c’est trop beau. Il renforce la
+      lame en fait. C’est fait de fer et d’acier. On le chauffe puis on le trempe.
+      Ensuite on fait des petites caisses. Il faut des heures de travail pour faire
+      ça. Donc on comprend que si on veut avoir une société de ce type, il va falloir
+      qu’on nourrisse ces gens, donc il faut qu’on ait une agriculture efficace. C’est
+      un peu ça. C’est beau. Ça, c’est le fourreau, je crois. Tout ça, c’est fait.
+      Certes, le minerai, ils l’ont acheté, ils ne l’ont pas fait eux-mêmes, mais
+      enfin le bois, ils l’ont récupéré quelque part. C’est énormément de travail.
+      Bien sûr, aujourd’hui on ne produit plus le fer comme ça : on a des hauts
+      fourneaux. Là on parle de bas fourneaux, de fours traditionnels, mais les fours
+      traditionnels produisent aussi un fer et un acier d’extrêmement bonne qualité.
+      Et donc vous avez un magnifique katana, sans doute dangereux. Je pense que ça
+      vaut cher.
+  - chunk_index: 57
+    heading_path: Histoire des faits économiques - séance 2 du 5 février > L’apparition des villes et des civilisations
+    content_token_count: 120
+    text: |-
+      Voilà, écoutez, je vous propose donc d’arrêter la vidéo à 15h15. On reparlera
+      après. Je ne vais pas commencer l’agriculture attelée, qui va caractériser la
+      société grecque, et puis on continuera la semaine prochaine sur la culture du
+      Moyen Âge et jusqu’à la révolution industrielle. Voilà, chers étudiants, il est
+      15h15, on continuera plus tard. À bientôt.

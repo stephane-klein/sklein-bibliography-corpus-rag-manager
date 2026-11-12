@@ -1,0 +1,18 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-11-18_seance-15-du-18-novembre.fr.md
+  source_file_hash: sha256:004d2660ad97ec6c7adb8b29f5dd216317b685a30d88800a0e2f25e59d52c1f6
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 0
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-11-18_seance-15-du-18-novembre.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks: []

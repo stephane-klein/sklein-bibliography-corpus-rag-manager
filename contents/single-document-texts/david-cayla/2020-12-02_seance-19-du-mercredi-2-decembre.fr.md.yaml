@@ -1,0 +1,1957 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/david-cayla/2020-12-02_seance-19-du-mercredi-2-decembre.fr.md
+  source_file_hash: sha256:848e93b87e90ee89ddb8d2cb33d0f4fb1edf30dfa66ad98816ff494dd15c2fd6
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 103
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2020-12-02_seance-19-du-mercredi-2-decembre.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 56
+    text: |-
+      Bonjour à tous. J’attends que quelques-uns d’entre vous se connectent, mais il y
+      en a déjà quelques-uns, donc je vous propose que nous commencions sans trop
+      tarder. J’espère que vous allez bien.
+  - chunk_index: 1
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 279
+    text: |-
+      J’ai regardé : il ne nous reste plus beaucoup de séances. Il reste cette séance,
+      celle de demain, puis une dernière séance qui aura lieu la semaine prochaine.
+      Ensuite, c’est terminé. Vous aurez un examen en présentiel au mois de janvier,
+      bien entendu, qui portera sur les questions qui sont en fin de chapitre. Toutes
+      les questions seront celles que vous avez en fin de chapitre. C’est différent
+      des examens ou des évaluations de TD, qui sont décidés par vos enseignants. Si
+      vous voulez avoir des informations sur le type de contrôle que vous pourrez
+      avoir la semaine prochaine, n’hésitez pas à leur demander, par exemple les
+      sujets de l’année dernière ou le type de sujet qu’ils posent. A priori, ils vont
+      vous poser des questions, vous demander de faire des exercices que vous avez vus
+      en cours de TD. Il n’y aura normalement pas beaucoup de surprise. Chaque chargé
+      de TD fera son cours, enfin fera sa question, par rapport à ce que lui-même a
+      vu, puisque les programmes peuvent être un peu différents d’un chargé de TD à
+      l’autre.
+  - chunk_index: 2
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 274
+    text: |-
+      En passant : les cours de TD de la semaine prochaine sont annulés. Il n’y a pas
+      de cours de TD. Je ne sais pas pourquoi cela reste dans l’emploi du temps, mais
+      ils sont bien remplacés par la séance d’évaluation que vous aurez en présentiel.
+      Certains s’inquiètent : je vais essayer de me renseigner, parce que je n’ai
+      toujours pas, moi non plus, les modalités ni les protocoles sanitaires. Je vais
+      quand même demander qu’ils nous le disent, parce que je ne sais même pas par où
+      vous entrerez, par exemple, des choses comme ça. Je vais écrire à la scolarité.
+      Je sais qu’ils sont un peu débordés parce qu’ils sont aussi en train d’essayer
+      d’organiser les évaluations et les examens. Ils sont chargés de toute la licence
+      et de tous les examens et évaluations de licence, donc cela fait beaucoup de
+      travail dans des conditions pas très faciles. Mais je vais quand même demander à
+      ce qu’ils vous envoient cette semaine le protocole sanitaire, et à ce que moi
+      aussi je l’aie.
+  - chunk_index: 3
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 256
+    text: |-
+      Ce protocole sanitaire, ce mail que vous allez recevoir, vous servira de
+      justificatif. Concrètement, pour les déplacements, vous vous mettez en
+      justification sur votre attestation de déplacement, motif numéro 1, parce que
+      c’est bien de cela qu’il s’agit : vous allez à un examen, une évaluation de la
+      fac. Normalement, vous allez donc recevoir le protocole sanitaire. Vous pourrez
+      le montrer si jamais on vous interroge, pour expliquer pourquoi vous avez un
+      examen. Vous montrerez cela, et ils verront que vous avez reçu un mail qui dit
+      que vous avez un examen à faire. Et puis, bien sûr, vous avez votre carte
+      d’étudiant qui démontre que vous êtes bien étudiant à l’université. Donc il n’y
+      aura aucun souci pour les déplacements. Même si vous venez d’une autre région,
+      vous avez tout à fait le droit de vous déplacer pour un examen : cela fait
+      partie des choses qui sont autorisées. Il n’y aura aucun souci par rapport à
+      cela.
+  - chunk_index: 4
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 298
+    text: |-
+      Par contre, évidemment, j’aimerais bien qu’ils nous envoient le protocole, parce
+      que plus on l’aura tôt, mieux ce sera. A priori, vous devrez venir avec vos
+      feuilles. Normalement, d’après ce que j’ai compris, l’université vous apportera
+      aussi des feuilles de brouillon, elle vous fournira des feuilles de brouillon.
+      C’est ce qu’ils m’ont dit, mais au cas où, prenez plusieurs feuilles, on ne sait
+      jamais. Moi, je m’occuperai de faire des sujets : je vais faire le sujet, puis
+      je vais l’imprimer, et vous aurez chacun un sujet. Il n’y aura aucun souci. La
+      durée d’évaluation durera 1 h 15. On a 1 h 15, donc 1 h 30 ? Non, 1 h 15. Donc
+      ça devrait tout à fait être possible. C’est pour ceux qui sont avec moi. Pour
+      les autres, cela peut différer : on peut faire des évaluations d’une heure. A
+      priori, il n’y aura pas d’évaluation d’une heure et demie sur 1 h 30 ? Non, 1 h
+      30, ce serait beaucoup trop compliqué.
+  - chunk_index: 5
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 127
+    text: |-
+      Sachez aussi que vous avez des tiers temps. Vous avez le droit à un tiers temps,
+      y compris pour les évaluations de TD. J’imagine que tout le monde est là. Je
+      vais regarder : vous êtes 136. Alors ce n’est pas tout le monde, hein, 136, ça
+      fait quand même pas tant de monde que ça. Je sais malheureusement qu’il y a un
+      peu de perte, je sais aussi que certains d’entre vous se regardent… enfin voilà,
+      après, pas directement, mais ensuite.
+  - chunk_index: 6
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 308
+    text: |-
+      Je ne sais pas ce que votre chargé de TD vous a dit par rapport au TD que vous
+      devez faire, mais normalement la semaine prochaine il y a évaluation, et c’est
+      ça qu’il faut faire. Normalement, il n’y a pas de TD. Là aussi, sur la
+      calculatrice, vous demandez aux enseignants. Moi, pour ceux qui sont avec moi,
+      il n’y aura pas de calculatrice. Il n’y a pas besoin de calculatrice : soit les
+      calculs seront très faciles, soit il n’y aura pas de calcul. Bon, je verrai, je
+      n’ai pas encore composé le sujet, mais vous demandez au chargé de TD si vous
+      avez besoin d’amener une calculatrice. C’est à lui de vous le dire, parce que
+      c’est lui qui fait le sujet. Pour mon cours, pour ce qui est de mon cours, vous
+      ne vous préparez pas : la semaine prochaine il n’y a pas de TD, donc vous ne
+      préparez pas les TD. Pour la semaine suivante, il y aura TD, dernière séance de
+      TD, et pour ce qui me concerne, vous devez faire le TD 11. Mais cela dépend des
+      enseignants. Ce n’est pas moi qui décide du programme de votre chargé de TD : je
+      leur donne un panel de TD et ils choisissent par rapport à ça.
+  - chunk_index: 7
+    heading_path: Séance 19 du mercredi 2 décembre > Annonces administratives
+    content_token_count: 18
+    text: Je pense que maintenant il est l’heure de commencer le cours magistral.
+  - chunk_index: 8
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière
+    content_token_count: 324
+    text: |-
+      Nous sommes sur la circulation financière. Nous avons vu la dernière fois que la
+      circulation financière est d’abord une composante importante de l’économie,
+      puisqu’elle permet d’organiser, de coordonner les besoins des uns et des autres,
+      en particulier de deux types d’agents : les agents qui ont des capacités de
+      financement, donc de l’épargne, et qui n’ont pas d’usage de cette épargne ; ils
+      ont de l’argent en trop, ils ne savent pas quoi en faire, ils ne le consomment
+      pas, donc ils l’épargnent. Très souvent, ces agents sont des ménages. De l’autre
+      côté, on a les producteurs. Qui dit producteur dit nécessité d’investir dans du
+      capital fixe, donc de trouver des sources de financement. Ces acteurs, ces
+      agents, ont besoin d’utiliser l’argent qu’ont épargné les ménages. Ce qu’on
+      constate, c’est que le système financier permet en quelque sorte de coordonner
+      les besoins des uns et des autres : il va collecter l’épargne des agents à
+      capacité de financement, essentiellement des ménages, et il va utiliser,
+      financer grâce à cette épargne les besoins de financement des producteurs qui,
+      comme sont producteurs, ont une activité d’investissement à long terme.
+  - chunk_index: 9
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière
+    content_token_count: 24
+    text: |-
+      Nous avions terminé le cours là-dessus, sur les trois modalités d’organisation
+      de la finance.
+  - chunk_index: 10
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance intermédiée
+    content_token_count: 341
+    text: |-
+      Tout premièrement, ce qu’on appelle la finance intermédiée. Cela n’est pas dans
+      le diaporama, mais vous pouvez l’écrire. La finance intermédiée, cela veut dire
+      qu’il existe un intermédiaire bancaire. Cela veut dire que nous avons ici un
+      mécanisme qui permet de créer la monnaie. Souvenez-vous, on l’a vu au chapitre
+      précédent. Ce sont les ménages qui déposent de l’argent dans la banque, et en
+      déposant cet argent, la banque va utiliser cet argent, on l’a vu, pour accorder
+      des crédits aux entreprises et à l’État, aux administrations publiques. Dans ce
+      cadre-là, il va y avoir création monétaire. Sachant que cela permet aussi
+      d’expliquer que ce ne sont pas forcément les dépôts des ménages au sens strict
+      qui sont utilisés : il y a comme une part de création monétaire, on l’a vu aussi
+      dans le chapitre précédent. Ce sont les crédits qui font les dépôts, mais ce
+      sont aussi les crédits qui font les dépôts ; il y a une forme de relation
+      circulaire dans cette relation. C’est-à-dire que la banque n’est jamais en
+      manque de dépôt, en fait, parce que tous les crédits qu’elle accorde finissent
+      d’une manière ou d’une autre par se retrouver dans des dépôts.
+  - chunk_index: 11
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance intermédiée
+    content_token_count: 128
+    text: |-
+      Mais ce qu’il faut comprendre, c’est que grâce à ce système-là, il y a ce qu’on
+      appelle une opération de transformation. Je ne vais pas y revenir, mais c’est en
+      gros : les ménages ont des liquidités qu’ils peuvent réutiliser à tout moment,
+      et les entreprises ont un crédit qu’elles ne peuvent rembourser qu’à l’échéance.
+      Donc il y a une forme de sécurisation du crédit des entreprises et une
+      sécurisation, de l’autre côté, des dépôts des ménages.
+  - chunk_index: 12
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance semi-directe
+    content_token_count: 390
+    text: |-
+      Ensuite, nous avons vu qu’il y avait une forme semi-directe. Elle passe par ce
+      qu’on appelle des investisseurs institutionnels. On les appelle aussi parfois,
+      dans le jargon, des « zinzins ». Ces investisseurs institutionnels sont
+      essentiellement les assureurs, les fonds de pension. Eux récoltent des
+      cotisations des ménages : les ménages achètent un service d’assurance. Avec cet
+      argent, le fonds va placer cet argent sur les marchés financiers et ainsi
+      financer les besoins des entreprises et des administrations publiques en
+      achetant des titres. Donc des titres de placement : il peut acheter des actions
+      d’entreprise, donc devenir copropriétaire des entreprises. On a d’ailleurs
+      beaucoup d’entreprises, notamment des PME industrielles, qui peuvent être
+      possédées par des fonds d’investissement, qui sont soit co-possédées, soit
+      possédées directement. Les fonds de pension gèrent les retraites des gens. Comme
+      ils ont une échéance très longue, parce qu’entre le moment où vous cotisez et le
+      moment où vous recevez la retraite il peut se passer beaucoup de temps, ils font
+      fructifier l’argent en achetant sur les marchés financiers donc des actions
+      d’entreprise, qu’ils peuvent parfois co-gérer, et puis évidemment des
+      obligations d’État ou des obligations d’entreprise, qui sont les titres de
+      dette. Contrairement à la banque, il n’y a pas ici de création monétaire. Il n’y
+      a pas de crédit derrière cela directement.
+  - chunk_index: 13
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 106
+    text: |-
+      Enfin, et je m’en étais arrêté là, les ménages peuvent acheter directement sur
+      les marchés financiers. Soit tout seuls : ils vont se connecter sur un site
+      spécialisé, ils vont acheter des actions, des obligations ou n’importe quoi.
+      Mais ils peuvent aussi, non pas eux-mêmes directement acheter, passer par des
+      OPCVM, c’est-à-dire des organismes de placement collectif en valeurs mobilières.
+  - chunk_index: 14
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 327
+    text: |-
+      Je vais vous expliquer un peu ce que cela signifie. Nous avons bien ici un
+      organisme, donc quelque chose qui est une institution. « Placement collectif »
+      veut dire qu’on va placer de l’argent, donc c’est bien un mécanisme d’épargne,
+      on rend service à l’épargnant. « Collectif » veut dire ensemble : on va avoir un
+      pool de personnes, en gros on va collecter l’épargne de beaucoup de personnes
+      pour créer une masse financière suffisante pour, on va le voir, diversifier,
+      etc. Je vais vous en parler. Et les valeurs mobilières : ce qu’on appelle
+      valeurs mobilières, c’est quelque chose qui n’est pas immobilier. Donc qui est
+      en fait très souvent ce qu’on appelle des titres, des titres financiers. Il va
+      placer essentiellement sous forme de titres financiers. C’est-à-dire qu’il ne va
+      pas placer ni dans l’immobilier, dans le logement, les bâtiments, etc., ni dans
+      les entreprises, le capital fixe directement. Donc il ne va pas investir dans la
+      production, dans l’investissement, la formation de capital fixe, mais il va
+      investir dans la finance, c’est-à-dire dans racheter des choses qui peuvent
+      s’échanger facilement : ce sont les titres de dette ou de propriété que sont les
+      obligations et les actions.
+  - chunk_index: 15
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 45
+    text: |-
+      Donc c’est cela qu’on appelle un OPCVM : c’est un fonds de placement en titres
+      financiers, qui sont les actions et les obligations qu’on a vues par ailleurs.
+  - chunk_index: 16
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 403
+    text: |-
+      Je voudrais qu’on revienne sur les OPCVM, du coup, que je vous explique, parce
+      que sans doute qu’à votre âge vous n’avez pas encore beaucoup de stratégies,
+      beaucoup d’épargne qui vous permettent de placer de l’argent, vos économies,
+      dans les OPCVM. Mais un jour ça viendra. Souvent à 50 ans, on commence à avoir
+      beaucoup d’épargne, on prépare sa retraite, on ne sait pas quoi en faire, et on
+      ne peut pas évidemment la laisser uniquement dans un livret A, d’abord parce que
+      c’est plafonné, ensuite parce que la rémunération n’est pas très importante.
+      Donc parfois on va voir son banquier, on dit : voilà, j’ai beaucoup d’épargne,
+      qu’est-ce que vous me proposez ? En général, le banquier vous propose des OPCVM.
+      En fait, en tant que banquier, c’est un peu son rôle aussi : il va collecter
+      votre épargne. Vous allez dire : je vais mettre 1 000 €, 10 000 €, 50 000 €,
+      cela peut être des sommes très importantes, parce que cela n’a pas de sens de
+      mettre 100 € dans ce genre de choses. Et il va donc placer pour vous cet argent
+      en mutualisant les parts d’autres personnes. Ce n’est pas vous qui gérez les
+      placements, c’est un trader qui va le faire, donc un employé de la banque, qui
+      va choisir, à partir de l’ensemble de l’argent qu’il possède, où placer cet
+      argent pour le faire fructifier au mieux, et vous rendre les bénéfices de ce
+      placement, avec bien sûr une commission derrière.
+  - chunk_index: 17
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 174
+    text: |-
+      Pourquoi placer son argent dans un OPCVM, pourquoi ne pas placer son argent
+      directement ? Parce qu’en fait, malgré le fait qu’il existe des coûts de gestion
+      — c’est marqué ici comme un inconvénient : coûts de gestion —, parfois il peut y
+      avoir des coûts d’entrée, vous devez cotiser à quelque chose pour ensuite
+      pouvoir placer l’argent. Coût de gestion, cela veut dire que le trader va être
+      rémunéré, il va être rémunéré par le profit qu’il va faire, donc vous n’aurez
+      pas tout le profit de ces placements. Mais malgré tout, cela peut être
+      intéressant de le faire parce que cela va permettre de faciliter la
+      diversification.
+  - chunk_index: 18
+    heading_path: Séance 19 du mercredi 2 décembre > La circulation financière > La finance directe et les OPCVM
+    content_token_count: 57
+    text: |-
+      Ici je vous demande de noter, parce que c’est un mot en rouge déjà, et c’est un
+      concept extrêmement important en finance, que vous aurez l’occasion de revoir
+      plus tard, mais pourquoi pas commencer maintenant dès la première année.
+  - chunk_index: 19
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 458
+    text: |-
+      Concrètement, quand on achète, quand on place de l’argent sur les marchés
+      financiers, l’objectif évidemment c’est de perdre le moins possible,
+      c’est-à-dire d’éviter que les actions, les actifs qu’on achète perdent en
+      valeur. Cela est possible : vous pouvez acheter les actions d’une entreprise,
+      l’entreprise fait faillite — ça arrive régulièrement —, votre action ne vaudra
+      plus rien, donc vous serez propriétaire de plus rien. Vous allez acheter 20 €
+      l’action et elle va à zéro : vous pouvez perdre 20 €. Au contraire, le cours de
+      l’action peut augmenter, on va voir cela tout à l’heure, comment cela se passe
+      dans les marchés financiers, et dans ce cas-là vous gagnez de l’argent. Mais en
+      fait vous ne gagnez pas uniquement de l’argent en pari sur l’évolution du cours
+      du titre que vous achetez ; vous gagnez aussi simplement de l’argent parce que,
+      souvenez-vous, les actions vous permettent d’obtenir un dividende : tous les
+      ans, l’entreprise rémunère ses actionnaires. De la même façon, si vous achetez
+      des titres de dette, des obligations, vous touchez un intérêt. C’est surtout
+      cela qui est intéressant aussi dans le placement. Mais comme je l’ai dit tout à
+      l’heure, il y a des risques : la faillite d’entreprise, le fait que l’entreprise
+      vous a promis un dividende élevé et finalement il n’y aura pas de dividende
+      cette année parce qu’elle n’a pas fait assez de profit, voire a fait des pertes.
+      Le cours de l’action peut donc varier ; le cours de l’obligation peut varier
+      aussi. Vous avez une obligation d’entreprise qui fait faillite : pareil, vous
+      perdez la valeur de l’obligation.
+  - chunk_index: 20
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 209
+    text: |-
+      Donc quand vous placez de l’argent sur les marchés financiers, il y a ce qu’on
+      appelle un arbitrage, un choix à faire entre le risque que vous prenez et les
+      gains que vous obtenez. Il faut gérer les deux, parce que si on vous promet
+      beaucoup, beaucoup de gains mais avec de forts risques de faillite, évidemment
+      c’est moins intéressant que si on vous promet peu de gain mais certains. C’est
+      tout le talent et le travail d’un trader et d’un analyste financier : essayer
+      d’évaluer les risques et donc de vous aider à placer cet argent. Bien sûr, quand
+      vous êtes tout seul à devoir choisir comment placer votre argent, vous avez du
+      mal à le faire parce que vous n’avez pas forcément les connaissances. Mais il y
+      a aussi une autre chose qu’il faut voir : justement cet aspect de
+      diversification.
+  - chunk_index: 21
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 521
+    text: |-
+      Comme tout placement est risqué, vous êtes rémunéré en fonction du risque. On
+      peut dire par exemple que plus un placement est risqué, plus il va vous
+      permettre d’avoir des gains élevés, parce qu’il faut compenser le risque pour
+      attirer des investisseurs. On peut considérer premièrement qu’il y a une
+      première loi de la finance, si je peux dire une première règle de base : plus le
+      risque est élevé, plus la rémunération sera importante. C’est ce qu’on appelle
+      la prime de risque. C’est-à-dire que lorsque vous prêtez à l’Allemagne, par
+      exemple, vous avez quasiment aucun risque, donc la rémunération sera très très
+      faible. Aucun risque de non-remboursement : le seul risque qui peut y avoir,
+      c’est le non-remboursement, donc le taux d’intérêt sera très faible. Il peut
+      même être à zéro, voire négatif. En ce moment, on a des taux d’intérêt négatifs.
+      Pourquoi ? Parce que les chances, entre guillemets, ou le risque que l’Allemagne
+      fasse faillite et ne rembourse pas sa dette est très très faible. D’ailleurs, en
+      passant, c’est le même cas de la France : la France est considérée comme un
+      emprunt sans risque. Prêter à la France, ce n’est pas prendre de risque. Par
+      contre, vous achetez des actions d’une start-up qui vient de rentrer en bourse,
+      qui a un modèle économique intéressant, mais on ne sait pas trop ce qui va se
+      passer : là vous prenez un risque. Vous investissez dans le secteur automobile
+      et tout d’un coup les gens arrêtent d’acheter des voitures : là vous avez un
+      risque. Vous achetez les actions d’une entreprise pharmaceutique qui développe
+      un médicament prometteur et finalement on s’aperçoit que ce vaccin n’est pas
+      efficace ou n’a pas été accepté : là aussi vous prenez un risque. Donc vous
+      prenez des risques plus ou moins importants dès le départ.
+  - chunk_index: 22
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 400
+    text: |-
+      Mais il y a une manière de contourner ce risque : c’est d’investir dans des
+      secteurs qui ne sont pas soumis au même risque. Par exemple, on l’a vu dans les
+      chapitres précédents : en cas de récession, l’industrie automobile va être
+      directement affectée, parce que l’automobile c’est un bien durable, et quand les
+      agents économiques perdent confiance, ou les consommateurs perdent confiance
+      dans le revenu futur, dans l’état de l’économie, ils ont tendance à renoncer ou
+      à reporter des achats durables. Donc dès qu’il y a une crise économique, le
+      secteur automobile s’effondre. Mais quand il y a une crise économique, et
+      notamment quand il y a une crise sanitaire comme celle que l’on connaît, qui va
+      profiter de la crise ? Les entreprises qui vendent des médicaments, ou par
+      exemple les biens non durables, par exemple les grandes surfaces : elles vont
+      davantage résister, notamment sur la vente de produits alimentaires, que les
+      vendeurs d’automobile. Donc un même événement peut entraîner des pertes dans
+      certains secteurs et des gains dans un autre secteur. Quand vous êtes un
+      investisseur un peu intelligent, vous avez tout intérêt à acheter des actions
+      risquées, donc qui sont mieux rémunérées, mais en acheter suffisamment dans des
+      secteurs différents, qui ne sont pas soumis au même risque. Dans ce cas-là, quoi
+      qu’il se passe demain, vous ne perdrez pas tout. C’est en quelque sorte le
+      principe : ne pas mettre tous ses œufs dans le même panier.
+  - chunk_index: 23
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 342
+    text: |-
+      Non seulement on peut aller dans certains secteurs qui ne sont pas soumis au
+      même risque — l’automobile par exemple et la grande distribution ou
+      l’agroalimentaire ne sont pas du tout soumis au même risque —, mais vous pouvez
+      aussi diversifier dans d’autres pays : pays de la zone euro, pays hors zone
+      euro. Par exemple, si l’euro s’effondre, ou au contraire si l’euro commence à
+      monter sur le marché des changes, les entreprises qui sont en zone euro vont
+      avoir plus de mal à exporter, donc cela va poser problème aux entreprises en
+      zone euro. Mais si vous avez des actions en zone dollar, elles vont être
+      avantagées. Donc vous pouvez acheter dans différents pays de la zone euro, dans
+      des pays qui ne sont pas de la zone euro, dans des pays en développement — là il
+      y a parfois plus de risque, mais aussi plus de gains potentiels — en Asie, en
+      Afrique, en Amérique latine. Donc quand on veut gagner beaucoup d’argent en
+      bourse, il faut être capable d’acheter dans différents secteurs d’activité, dans
+      différents pays, dans différents types de pays, acheter des grandes entreprises,
+      des PME. Il faut pratiquer ce qu’on appelle la diversification. Plus on pratique
+      la diversification, plus les gains sont élevés et les rendements stables,
+      c’est-à-dire qu’on fait diminuer le risque et on augmente le rendement.
+  - chunk_index: 24
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 203
+    text: |-
+      Je ne vais pas vous faire la démonstration mathématique, parce que quand j’étais
+      en master on l’a faite, j’ai trouvé cela absolument magnifique. C’est une
+      magnifique démonstration. J’étais un peu sceptique, je me disais : est-ce qu’on
+      ne prend pas le risque aussi d’avoir moins de rémunération à la fin ? Je vous
+      livre quand même la réponse mathématique : c’est que non, il y a toujours un
+      gain à la diversification. C’est la base de tout métier de trader et de toute
+      personne qui veut investir dans les marchés financiers. La règle numéro 1, c’est
+      diversifier. Là aussi, je suis sûr que si vous cherchez sur Internet, vous allez
+      trouver plein de gens qui vont vous dire cela : diversifier. C’est la base du
+      succès.
+  - chunk_index: 25
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 250
+    text: |-
+      Mais évidemment se pose un problème : si vous voulez vous diversifier, il faut
+      avoir beaucoup d’argent. Si vous avez 10 000 € à placer, vous n’allez pas
+      pouvoir acheter suffisamment de titres pour avoir un véritable panier
+      diversifié. Si vous voulez réussir à vous diversifier, il va falloir acheter
+      beaucoup, beaucoup de titres dans beaucoup de pays différents, dans beaucoup de
+      secteurs différents. Donc cela veut dire qu’il va falloir avoir beaucoup
+      d’argent. Et c’est cela que permettent les OPCVM. Les OPCVM ne collectent pas
+      uniquement l’épargne de deux ou trois personnes, ils vont collecter l’épargne de
+      milliers de personnes, c’est-à-dire qu’ils vont avoir une force de frappe qui ne
+      sera pas de quelques dizaines de milliers d’euros, mais de plusieurs millions
+      d’euros, voire plusieurs dizaines de millions d’euros. Et quand on commence à
+      avoir suffisamment d’argent, on est capable de gagner beaucoup plus.
+  - chunk_index: 26
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 690
+    text: |-
+      Entre parenthèses, ce phénomène a été démontré par Thomas Piketty dans le livre
+      *Le Capital au XXIe siècle*. Je ne sais plus dans quel chapitre, je crois que
+      c’est à la fin du livre, à un moment il essaie de réfléchir sur : est-ce que les
+      gros fonds d’investissement sont plus rentables que les petits fonds
+      d’investissement ? Pour faire ce calcul, il va regarder les fonds des
+      universités américaines, parce qu’en fait les universités américaines ont des
+      donations, elles ont des fondations qui leur permettent de se financer. Elles
+      vont placer elles aussi, ce sont des « zinzins », mais un type de « zinzins »
+      qui n’est pas des assureurs, ce sont des fonds d’université. Elles placent cet
+      argent. On a les chiffres parce que c’est très transparent : les gains, le
+      montant total de ce qu’ils possèdent. L’objectif c’est que ces fonds rapportent
+      des revenus, et ces revenus participent au financement des universités. C’est
+      très important aux États-Unis : il y a beaucoup de legs, les gens qui meurent et
+      qui mettent une partie de leur argent, qui lèguent une partie de leur argent à
+      leur décès à leurs universités. Évidemment les universités les plus influentes,
+      les plus importantes, gagnent davantage d’argent que les plus faibles. Thomas
+      Piketty a pu démontrer que plus le fonds était important, plus il gérait
+      beaucoup d’argent, plus il était rentable. Cela vient à cette question : c’est
+      sans doute lié à la diversification, c’est aussi lié peut-être à d’autres
+      phénomènes, donc ils ne sont pas vraiment analysés dans Piketty parce que
+      finalement on ne les comprend pas trop. Mais ce qui est vrai, c’est que quand on
+      va gérer 100 000 €, on sera moins rentable sur le long terme que quand on va
+      gérer 1 million d’euros, et on sera moins rentable à 1 million d’euros qu’à 100
+      millions d’euros, etc. Donc vous comprenez bien que si vous voulez finalement
+      gagner de l’argent, vous pouvez placer vos 1 000 € sur le marché financier, mais
+      vous n’arriverez jamais, pour des raisons purement techniques, à avoir autant de
+      rentabilité à long terme que quelqu’un qui place non pas 1 000 € mais 100
+      millions d’euros, voire plusieurs milliards quand il s’agit de fonds d’État, par
+      exemple, aussi des fonds d’État, des fonds souverains. Par exemple la Norvège a
+      un fonds souverain : ce sont les revenus du pétrole qui sont placés sur les
+      marchés financiers et qui rapportent beaucoup d’argent. La Norvège, donc.
+  - chunk_index: 27
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 151
+    text: |-
+      Tout cela pour vous expliquer le principe de la diversification. Je répète :
+      c’est une technique de placement qui vise à multiplier les sortes de placements
+      différents, qui sont soumis à des risques différents, dans des pays différents,
+      dans des secteurs différents, de manière à maximiser les revenus tout en
+      minimisant les risques. Parce qu’on minimise les risques quand on diversifie ses
+      placements. C’est expliqué ici : tourisme, pharmacie, automobile, plusieurs
+      continents. C’est cela qui permet de diversifier. Et donc pour diversifier, je
+      me répète, il faut avoir beaucoup d’argent à la base.
+  - chunk_index: 28
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 207
+    text: |-
+      Donc il existe un inconvénient : le coût d’entrée, le coût de gestion. Il faut
+      rémunérer un trader, bien sûr, et parfois il est très bien rémunéré. Mais très
+      souvent on peut considérer que le coût est inférieur à l’intérêt. Puisque, à la
+      limite, si vous avez besoin de placer 10 millions d’euros vous-même, peut-être
+      que vous pouvez vous éparpiller, mais cela va quand même être compliqué, parce
+      qu’il y a aussi des techniques pour placer, des coûts d’achat et de vente. Tout
+      achat sur la bourse entraîne des coûts de transaction, puisque vous passez
+      forcément par un courtier, vous ne pouvez pas vous-même acheter. Donc très
+      souvent cela peut être plus intéressant de confier cet argent à un organisme, un
+      OPCVM.
+  - chunk_index: 29
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 446
+    text: |-
+      Les OPCVM gèrent de l’argent, de l’épargne des ménages, donc ils sont très
+      encadrés. Pour avoir le droit de récolter l’argent, il faut que votre société,
+      ou votre fonds, soit agréé par l’Autorité des marchés financiers. C’est
+      l’Autorité des marchés financiers qui vous permet cela. Parce que bien sûr il y
+      a des escroqueries : il y a des individus qui vont vous dire « donnez-moi
+      l’argent, je le place et je vous rapporte », mais ils font cela, c’est illégal
+      de le faire en dehors de, sans avoir l’autorisation de l’AMF. L’AMF vérifie
+      aussi que vous êtes bien informé. Cela est très intéressant : l’information.
+      Quand vous placez de l’argent, vous avez différents types de fonds. Vous pouvez
+      avoir des fonds qui vont plutôt acheter des actions à l’étranger, qui seront des
+      fonds plus risqués mais plus rentables bien sûr. Vous avez aussi des fonds qui
+      vont plutôt acheter ce qu’on appelle des valeurs monétaires, c’est-à-dire des
+      prêts à court terme avec des taux d’intérêt très faibles, d’ailleurs souvent
+      négatifs. L’idée c’est de vous garantir de ne pas perdre, donc de vous garantir
+      la sécurité sans vous donner de rendement. Donc vous, en tant qu’investisseur,
+      vous avez le choix : soit vous allez vers les hauts rendements, mais il y aura
+      un risque ; soit vous allez vers des bas rendements, mais sans risque. C’est un
+      arbitrage, un choix qui vous est laissé, qui n’est pas simple à faire. L’AMF
+      vérifie que vous êtes bien informé sur les risques que vous prenez, et cela
+      évidemment est extrêmement important.
+  - chunk_index: 30
+    heading_path: Séance 19 du mercredi 2 décembre > La diversification
+    content_token_count: 469
+    text: |-
+      Il y a eu des scandales. L’un des scandales, c’est les Caisses d’épargne qui
+      avaient créé Hétix, une banque d’affaires, une banque de placement, qui avait…
+      Les agents de la Caisse d’épargne, je crois des Banques populaires également,
+      avaient incité leurs clients à investir dans Hétix, et puis c’était en 2006,
+      2007, et après il y a eu la crise, ils ont perdu beaucoup d’argent, et ils ont
+      eu l’impression de se faire arnaquer. Parce que malgré le fait que l’AMF vous
+      donne un prospectus, parfois le discours du chargé de, enfin, de votre
+      responsable, de votre banquier, peut être exagérément rassurant, même si c’est
+      marqué en petits caractères : attention, il y a un risque. Donc il faut faire
+      attention aussi à cela. Tout rendement qui vous donne aujourd’hui, qui vous
+      rapporte de l’argent, sera forcément risqué. Et il y a des arnaques tout le
+      temps. J’ai encore un article du *Monde* que j’ai vu il y a quelques jours qui
+      montre une opération sur le Bitcoin, mais en fait il y a énormément d’arnaques
+      qui vous expliquent : vous allez gagner 5 %, 10 %, vous placez l’argent
+      maintenant et vous en gagnerez le double dans deux ou trois ans. C’est forcément
+      des arnaques. Il n’y a pas de manière de gagner de l’argent sans risque. C’est
+      cela aussi qu’il faut comprendre. Même dans le Bitcoin, même dans la blockchain,
+      même dans je ne sais pas quoi, on vous explique des technologies nouvelles pour
+      gagner plus d’argent : cela ne marche jamais, c’est toujours quelque chose qui
+      est risqué s’il y a des rendements. Donc soyez pas trop naïfs sur cette
+      question, sinon tout le monde le ferait.
+  - chunk_index: 31
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 42
+    text: |-
+      Il y a deux formes d’OPCVM et je voulais terminer là-dessus, sur cette question,
+      qui fonctionnent pas du tout pareil et qui sont assez intéressantes.
+  - chunk_index: 32
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 443
+    text: |-
+      La première, c’est la SICAV. Je ne sais pas si vous avez déjà entendu parler des
+      SICAV : ce sont des sociétés d’investissement à capital variable. La
+      caractéristique d’une SICAV, c’est qu’il s’agit d’une société, c’est-à-dire
+      d’une véritable entreprise autonome. Ce n’est pas forcément la banque qui la
+      produit, cela peut l’être mais pas forcément. Vous pouvez avoir des particuliers
+      par exemple qui créent une société d’investissement. Donc c’est une société
+      d’investissement qui a la forme d’une société anonyme, c’est-à-dire qu’elle émet
+      des actions. Concrètement, vous achetez les actions de cette SICAV, donc vous
+      êtes actionnaire, vous êtes copropriétaire du fonds de placement, et vous êtes
+      rémunéré par rapport aux profits qui sont réalisés dans ce fonds. Concrètement,
+      vous achetez l’action de la SICAV. En achetant l’action — la SICAV a émis une
+      action —, vous mettez par exemple 100 € l’action. Vous achetez je ne sais pas 50
+      actions de 100 €, donc vous placez 5 000 € dans la SICAV. Après, ce qu’elle
+      fait, c’est que la société utilise 5 000 € pour acheter des actions, des
+      obligations. Et à tout moment — c’est pour cela que c’est à capital variable —
+      vous pouvez vous faire rembourser, vous pouvez récupérer vos parts auprès de
+      l’entreprise en demandant à l’entreprise de vous rembourser. Donc vous pouvez
+      retirer votre argent et vous êtes remboursé de la valeur du moment, c’est-à-dire
+      on divise par le nombre d’actions et vous touchez la valeur du patrimoine de
+      l’entreprise à ce moment-là.
+  - chunk_index: 33
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 420
+    text: |-
+      L’intérêt de la SICAV, c’est que comme vous êtes un actionnaire, vous êtes
+      copropriétaire de l’entreprise, vous participez à l’assemblée générale des
+      actionnaires, vous touchez un dividende qui correspond au profit de la société
+      financière. Ce qu’il faut bien comprendre, c’est que cette société financière
+      possède des actions d’autres sociétés. Donc en fait elle ne produit pas de
+      richesse au sens strict, elle ne produit pas de richesse réelle, elle achète les
+      actions ou les titres d’entreprises, ou d’autres entreprises qui, elles,
+      produisent de la richesse réelle. Donc il faut bien comprendre que c’est une
+      société de sociétés en quelque sorte. On peut même avoir des systèmes — on verra
+      dans le cours d’histoire des faits économiques si vous suivez ce cours-là au
+      prochain semestre — dans la crise de 29, ce qui était intéressant, c’est qu’on
+      avait des SICAV qui avaient des actions de SICAV. Vous voyez, on est déjà sur le
+      troisième degré, et on pourrait même multiplier ainsi des SICAV qui ont acheté
+      des actions de SICAV qui elles-mêmes ont acheté des actions de SICAV. Évidemment
+      tout cela finit finalement par créer de l’argent parce que derrière il y a une
+      entreprise réelle qui crée de la richesse. Mais parfois on a tendance à
+      l’oublier un peu, on est un peu dans une phase de forme de bulle financière.
+      D’ailleurs c’est l’une des raisons pour lesquelles il y a eu le krach financier
+      de 1929, parce que tous ces systèmes-là étaient déjà connus dans les années 20.
+  - chunk_index: 34
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 139
+    text: |-
+      Les SICAV ont donc un capital variable, parce que, je l’ai dit tout à l’heure,
+      vous pouvez vous faire rembourser. Cela veut dire qu’elles peuvent augmenter ou
+      abaisser leur capital. On parle de capital mobilier, mais c’est un peu comme les
+      OPCVM en valeurs mobilières : c’est une autre manière de parler des actifs
+      financiers qui peuvent s’acheter et se vendre et circuler librement, d’où leur
+      caractère mobilier, c’est-à-dire mobile, qui peut facilement s’acheter et se
+      vendre.
+  - chunk_index: 35
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 471
+    text: |-
+      Ce qui est plus courant, ce ne sont pas les SICAV. Les SICAV, vous pouvez
+      acheter des actions de SICAV. Si cela vous intéresse, vous pouvez aller regarder
+      dans le journal *Les Échos* : à la fin, vous avez tous les taux d’intérêt, les
+      prix d’achat des actions. Bien sûr, vous avez toujours un résumé de l’évolution
+      des cours de bourse tous les jours de chaque entreprise du CAC 40, mais vous
+      avez aussi les SICAV. Et puis vous avez les fonds communs de placement. Les
+      fonds communs de placement, c’est forcément émis par une banque, donc une
+      société commerciale, une société de gestion, une banque. En fait, il s’agit
+      beaucoup plus d’un… typiquement, ce n’est pas vous qui gérez, vous n’êtes pas
+      copropriétaire. Vous confiez votre argent à un fonds qui est géré par une
+      banque, très souvent donc la société de gestion, et qui va placer pour vous
+      l’argent. Le FCP est donc une copropriété de valeurs mobilières qui émet des
+      parts, mais ces parts ne vous donnent pas le droit de participer aux décisions.
+      Vous n’avez pas vraiment de droit politique. La seule chose que vous avez le
+      droit, c’est d’exiger de la part du gestionnaire du fonds qu’il prenne des
+      décisions en fonction de votre intérêt. Cela est très important : il gère votre
+      épargne dans votre intérêt exclusif. Je ne sais pas si c’est marqué ici. Oui,
+      c’est ça : la société commerciale, dite société de gestion, agit au nom des
+      porteurs de parts. Cela veut dire que vous êtes copropriétaire de l’actif et
+      dans leur intérêt exclusif, donc dans votre intérêt à vous. Mais vous ne pouvez
+      pas virer par exemple le gestionnaire, puisque c’est la société commerciale qui
+      est censée gérer tout cela pour vous.
+  - chunk_index: 36
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 325
+    text: |-
+      Donc la différence entre une SICAV et un FCP, c’est que dans une SICAV vous avez
+      les véritables droits d’un actionnaire, parce que vous ne les avez pas dans le
+      FCP. Très souvent le banquier, c’est cela qu’il va vous proposer : il va vous
+      proposer un FCP, parce que c’est sa banque qui le propose. Pareil, dans une
+      banque, n’importe quelle banque, il y a plein de FCP différents, parce qu’il y a
+      des FCP qui ont une gestion risquée et fortement rémunératrice, et puis d’autres
+      qui ont une gestion moins risquée et donc moins rémunératrice. On peut aussi
+      voir des FCP de ce qu’on appelle la finance éthique, qui sont spécialisés dans
+      le financement d’entreprises, de projets qui sont écolos ou sociaux. Là aussi,
+      parfois cela gagne beaucoup d’argent. Donc on a des FCP qui peuvent être
+      vraiment très variés, qui vont dépendre de ce que vous attendez, où vous voulez
+      que votre argent aille, où vous ne voulez pas qu’il aille. On a aussi la finance
+      islamique, qui est très importante dans le monde, qui interdit certains types de
+      financement d’entreprise et qui en autorise d’autres, et qui représente une part
+      importante des fonds d’investissement.
+  - chunk_index: 37
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 348
+    text: |-
+      Donc vous voyez, quand vous avez de l’épargne, vous pouvez décider où votre
+      argent va financer en allant souscrire à un FCP ou à une SICAV, parce que là
+      aussi elles peuvent être spécialisées, qui va placer votre argent par rapport à
+      des critères que vous avez et qui correspondent aux critères du FCP. Ce qu’il
+      faut bien comprendre, c’est que l’OPCVM, donc le fonds, doit toujours vous
+      renseigner sur sa stratégie. C’est l’obligation. Une fois que vous connaissez la
+      stratégie, vous pouvez décider. Donc vous avez plein de FCP là aussi très
+      différents. Quand vous aurez des sous un jour, vous aurez trop d’argent, vous ne
+      saurez pas quoi en faire, vous serez le vrai ménage épargnant à capacité de
+      financement. Si cela vous intéresse, bien sûr, il n’y a aucune obligation. Vous
+      pouvez soit placer vous-même l’argent — et je vous ai dit qu’en fait à long
+      terme vous ne gagnerez pas forcément grand-chose, après cela peut vous amuser de
+      le faire, mais c’est moins rémunérateur —, par contre vous participez à un fonds
+      qui a une énorme force de frappe, qui a beaucoup d’argent, et là vous pouvez
+      gagner davantage, y compris en déduisant les coûts de gestion et les frais du
+      trader.
+  - chunk_index: 38
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 211
+    text: |-
+      Avant de passer sur les crises financières, parce que c’est la dernière partie
+      de ce chapitre, je vous montre ici — c’est un peu ancien — quels sont les droits
+      d’un actionnaire qu’on n’a pas en FCP. On pose la question. L’actionnaire, vous
+      pouvez virer le dirigeant, vous êtes copropriétaire et vous assistez à
+      l’assemblée générale des actionnaires. Tout à l’heure quelqu’un disait : est-ce
+      qu’on mange des petits fours ? Bien sûr, on va avoir des petits fours. Non, il
+      n’y a pas forcément. En fait dans les grandes entreprises oui, mais pas dans
+      toutes bien sûr. Mais quand vous êtes actionnaire, vous pouvez élire ou démettre
+      le directeur général. C’est à cela que sert d’être actionnaire, ce que vous ne
+      pouvez pas faire quand vous êtes dans un FCP.
+  - chunk_index: 39
+    heading_path: 'Séance 19 du mercredi 2 décembre > Les deux formes d’OPCVM : SICAV et FCP'
+    content_token_count: 752
+    text: |-
+      Alors, à l’heure actuelle, vous me conseillez de placer où ? Moi je ne donne pas
+      de conseil, je ne suis pas banquier. Vous vous débrouillez avec votre argent, je
+      ne ferai pas ça. Ce que je peux vous dire, c’est que quand j’étais étudiant en
+      2e année, j’avais un cours de monnaie-finance qui était passionnant, j’adorais
+      ça. Un jour je suis allé voir mon prof et je lui ai demandé — non pas ce qu’il
+      fallait que je fasse, parce que j’allais être sûr qu’il allait me répondre ce
+      que je viens de vous répondre : vous vous débrouillez, c’est votre argent, je
+      n’ai pas de responsabilité là-dedans, je ne suis pas banquier, je ne suis pas
+      conseiller fiscal et bancaire et financier. Par contre, du coup, j’ai essayé
+      d’être malin et je lui ai dit : vous, quand vous avez de l’épargne, vous en
+      faites quoi ? Et il m’a fait une réponse que je vais vous faire parce que c’est
+      exactement la même réponse. Il m’a dit : moi, quand j’ai de l’épargne,
+      j’agrandis ma maison. Et je vous répondrai la même chose : moi, quand j’ai de
+      l’épargne, je recrute des artisans qui vont me changer ma chaudière, qui vont
+      m’améliorer mon jardin, qui vont me rehausser mon toit. Bref, moi ce qui
+      m’intéresse, c’est la maison dans laquelle je vis, ce n’est pas de gagner plus
+      d’argent après en jouant, en spéculant. Parce que cela ne m’intéresse pas, tout
+      simplement. Bien connaître la théorie ne veut pas dire qu’on aime la pratique.
+      Cela dit, il y a des économistes qui ont beaucoup spéculé, qui se sont beaucoup
+      amusés avec ça, et l’économiste qui s’est le plus amusé en spéculant, qui a
+      beaucoup gagné et en même temps qui a beaucoup perdu, c’est Keynes, John Maynard
+      Keynes, qu’on a déjà vu et qu’on va voir tout à l’heure, parce que lui il a
+      placé, et lui il a une théorie de la finance qui est intéressante, à la fois une
+      théorie d’économiste théoricien mais aussi une théorie de praticien. Voilà. Donc
+      en ce qui me concerne, je peux vous le dire, et je sais que ça va beaucoup vous
+      décevoir, je n’ai jamais acheté une action de ma vie, même pas pour assister à
+      l’assemblée générale. Je ne dis pas que je ne le ferai jamais, mais pour
+      l’instant ma priorité c’est d’agrandir, de refaire tout mon jardin, et c’est
+      cela que je vais faire quand j’aurai un peu d’argent plutôt que d’acheter des
+      actions. Parce que de toute façon c’est l’endroit où je vis qui m’intéresse.
+      Oui, il faut être joueur, mais je ne vous interdis pas d’être joueur. Moi je
+      joue d’autres choses, d’autres manières.
+  - chunk_index: 40
+    heading_path: Séance 19 du mercredi 2 décembre > La structure de la finance
+    content_token_count: 207
+    text: |-
+      Ici je voulais vous montrer quelque chose. J’avais fait cela pour un article de
+      recherche. J’avais calculé, j’avais essayé de regarder comment étaient réparties
+      la finance, quelle masse cela représentait dans la zone euro et aussi aux
+      États-Unis. J’avais fait une comparaison dans cet article entre la zone euro —
+      donc ce sont des chiffres un peu anciens, parce que je n’ai pas remis à jour
+      depuis, ils sont très compliqués à trouver, ces chiffres-là, mais ce n’est pas
+      grave qu’ils soient anciens, il faut comprendre un peu comment ça fonctionne,
+      c’est pour une question pédagogique — et donc voyez ici vous avez la finance. La
+      finance est présentée en termes de pourcentage du PIB. On regarde le stock de
+      finance dans la zone euro en proportion du PIB.
+  - chunk_index: 41
+    heading_path: Séance 19 du mercredi 2 décembre > La structure de la finance
+    content_token_count: 268
+    text: |-
+      Vous voyez ici cette espèce de marron, brun, je ne sais pas trop quelle couleur
+      c’est : cela représente le stock des actions. Donc voyez, les actions c’est tout
+      petit dans la finance, cela ne représente pas tant que ça. Voyez ici les effets
+      de la crise de 2008 : c’est l’effondrement du cours, et bien évidemment là on a
+      beaucoup moins de valeur, parce que c’est exprimé en valeur, en pourcentage du
+      PIB. Cela veut dire quoi ? Je ne sais pas combien ça fait, ça fait peut-être 40
+      % du PIB, donc ce n’est pas rien, ça fait beaucoup de milliards d’euros, mais
+      c’était beaucoup plus important ici, où on avait quasiment — pas 100 % mais
+      peut-être 80 % du PIB. Donc on voit bien ici la chute des cours entre 2007 et
+      2008, et puis après ça regagne. Depuis, ça a réaugmenté beaucoup, même à cause
+      de la crise du Covid, les marchés financiers, les marchés boursiers pardon, sont
+      très élevés.
+  - chunk_index: 42
+    heading_path: Séance 19 du mercredi 2 décembre > La structure de la finance
+    content_token_count: 394
+    text: |-
+      Ensuite on a ici les créances bancaires. Les créances bancaires, ce ne sont pas
+      des titres financiers. Donc là c’est la finance bancaire de base, c’est-à-dire
+      ce ne sont pas des choses qui s’échangent sur les marchés financiers, c’est la
+      banque qui accorde des crédits aux ménages, aux entreprises, aux administrations
+      publiques. Vous voyez, cela a représenté — c’est difficile à voir ici parce que
+      malheureusement je n’ai pas remis l’échelle à droite, j’aurais dû le faire —
+      mais globalement on voit qu’on était à 250, 150, donc ici c’est plus de 100 % du
+      PIB, c’est peut-être 120 % du PIB, et puis ça augmente globalement. Ensuite on a
+      cette partie-là : ce sont les obligations, titre obligataire public, titre
+      obligataire privé, et créance immobilière. Ah non, excusez-moi, ça c’est aussi
+      le crédit bancaire immobilier, donc vert plus jaune, c’est le crédit bancaire,
+      crédit, créance immobilière de plus d’un an. Donc cela veut dire des crédits.
+      C’est intéressant de regarder cela parce qu’on a vu que la hausse des prix
+      immobiliers a pu faire augmenter les créances immobilières. Donc on est en fait
+      à 150 % du PIB en 2000, et sans doute plus ici en 2012, en termes de stock de
+      créances bancaires. Donc les créances bancaires, voyez, c’est très important,
+      c’est peut-être le plus important de la finance.
+  - chunk_index: 43
+    heading_path: Séance 19 du mercredi 2 décembre > La structure de la finance
+    content_token_count: 410
+    text: |-
+      Et puis ensuite on a les titres obligataires privés et publics. Les titres
+      obligataires publics, c’est les obligations d’État, donc cela représentait
+      quasiment 20 %, c’est l’essentiel de l’endettement public, donc c’est quasiment
+      20 % en 2012 du PIB. Et les titres obligataires privés, alors c’est d’une part —
+      mais c’est une part minoritaire — les obligations émises par les entreprises qui
+      se financent comme cela. En fait beaucoup d’entreprises se financent plutôt par
+      le crédit bancaire classique, sauf certaines très grandes entreprises qui
+      peuvent se financer par l’émission d’obligations. Mais très souvent,
+      l’essentiel, la très grande majorité de ces titres obligataires privés, ce sont
+      des obligations monétaires. Souvenez-vous, c’est le marché interbancaire : c’est
+      les banques qui se prêtent entre elles, et elles se prêtent entre elles en
+      émettant des obligations sur le marché interbancaire. Et cela, c’est on va dire
+      la grande majorité des titres obligataires privés. Donc si je devais regarder
+      là-dedans — alors je n’avais pas les chiffres de la BCE, je n’avais pas les
+      différentes formes de titres obligataires, je n’ai pas regardé — mais on va dire
+      tous ceux qui sont à moins d’un an, c’est le marché monétaire. Cela
+      correspondait à la très grande majorité, à peu près les trois quarts, le reste
+      étant des titres obligataires à plus d’un an, qui en général sont émis par les
+      entreprises. Donc c’est cela, la structure financière.
+  - chunk_index: 44
+    heading_path: Séance 19 du mercredi 2 décembre > La structure de la finance
+    content_token_count: 408
+    text: |-
+      Pourquoi j’ai fait ce graphique ? Parce que ce qui m’intéressait, c’était de
+      voir la croissance continue de l’endettement globalement. Si on enlève les
+      actions ici, on a une croissance de l’endettement qui passe de 250 % en 2000 à,
+      au moment de la crise en 2010, ici, au maximum on est voyez à plus de 350 %.
+      Donc on a une croissance forte de l’endettement global. C’est-à-dire que tout le
+      monde s’est endetté : les banques — ici c’est plutôt les banques — se sont
+      endettées, l’État s’est finalement peu endetté dans cette période-là, il va
+      s’endetter plutôt après, à partir de la crise, et aussi les créances bancaires
+      ont augmenté. Donc cela vous permet de voir que la finance, ce n’est pas la
+      bourse. La bourse, c’est l’échange d’actions cotées en bourse. Ici, ce n’est pas
+      grand-chose en fait dans la finance, même si ça évolue beaucoup. Il y a des
+      krachs, ici on a une bulle aussi au début des années 2000, une bulle boursière,
+      puis ensuite un krach, puis ensuite à nouveau une bulle et puis un krach, etc.
+      Voyez, ça fait du yoyo, les actions. Mais l’essentiel aujourd’hui de la finance,
+      c’est quand même les prêts, les dettes privées et dettes publiques : ici 80-20,
+      et les dettes privées sont très importantes. Parmi les dettes privées, on a le
+      crédit bancaire classique, et puis on a aussi la dette des banques entre elles.
+  - chunk_index: 45
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 141
+    text: |-
+      Maintenant, ce que je vous propose, c’est de nous intéresser aux crises, aux
+      crises boursières, à ce qui se passe ici sur les actions cotées. Je vais essayer
+      de répondre à une question. La question générale, c’est : pourquoi les marchés
+      financiers sont-ils instables ? Mais ce que je vais traiter ici, ce sont les
+      marchés boursiers. En passant, les marchés financiers, c’est l’ensemble des
+      titres financiers qui circulent, donc les obligations et les actions. Les
+      marchés boursiers, c’est seulement la circulation des actions.
+  - chunk_index: 46
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 585
+    text: |-
+      Pourquoi c’est important de poser cette question ? Parce qu’on constate souvent
+      des krachs boursiers, parfois on peut aussi avoir des krachs obligataires dans
+      le marché obligataire, mais beaucoup plus souvent des krachs boursiers, donc des
+      actions cotées en bourse. Les plus célèbres, bien sûr, c’est 1929, le premier
+      grand krach boursier qui a vraiment entraîné une très grave crise économique. Le
+      tout dernier, on peut dire que c’est 2008. Il y a eu un mini-krach au moment de
+      la crise du Covid, mais en fait il n’a pas duré très longtemps, donc il n’a pas
+      marqué beaucoup les esprits. Donc 2008, et 2001 aussi : là c’était beaucoup sur
+      les valeurs internet, mais cela a aussi entraîné d’autres entreprises. Donc le
+      plus grave, c’est 1929, ensuite on va dire 2008, ensuite 2001. Et puis en fait
+      le krach boursier le plus bizarre de cette histoire, c’est celui de 87, où on
+      voit la plus forte chute de la Bourse de New York historiquement. Je crois que
+      même le récent krach qu’il y a eu pendant la crise du Covid n’a pas été aussi
+      important. D’ailleurs c’est à ce moment-là qu’on a décidé de suspendre des
+      cotations pour éviter l’effondrement des cours, et en fait il n’y a eu aucune
+      conséquence économique. Donc comme quoi, parfois, comme en 1929 ou en 2008, les
+      krachs boursiers entraînent une crise économique ; parfois, comme en 87, il y a
+      un effondrement de la Bourse, une perte de valeur, mais aucune conséquence, ou
+      très peu de conséquences, sur l’activité économique. Cela veut dire qu’il peut y
+      avoir une forme de déconnexion entre le marché financier et l’économie réelle.
+      Bien sûr, les marchés financiers, ce qui détermine la valeur des actifs
+      financiers, c’est bien le fait que les entreprises font des profits, puisque à
+      la fin les actions vaudront de l’argent parce que l’entreprise va verser des
+      dividendes. Mais parfois il peut y avoir un lien pas très clair, et parfois ce
+      qu’on constate aussi, c’est qu’un effondrement de la bourse peut entraîner des
+      effets sur l’économie réelle.
+  - chunk_index: 47
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 426
+    text: |-
+      Je ne vais pas rentrer dans les mécanismes parce que c’est un peu compliqué et
+      ce n’est pas le but ici. La question à laquelle je vais essayer de répondre
+      aujourd’hui, c’est : pourquoi il est très difficile de gagner de l’argent en
+      bourse, enfin très difficile, pourquoi il est très difficile plus précisément de
+      gagner plus d’argent que la moyenne en bourse ? C’est-à-dire que bien sûr qu’on
+      gagne de l’argent en bourse parce qu’on touche des dividendes, mais comme vous
+      le savez, si on veut spéculer en bourse, c’est-à-dire jouer sur la variation des
+      cours des actions, c’est difficile. C’est très difficile de prévoir quel sera le
+      cours de l’action du lendemain. Je vais essayer dans cette dernière partie de ce
+      chapitre de vous expliquer pourquoi, en reprenant une idée importante, en
+      particulier l’analyse de John Maynard Keynes, cet économiste britannique qui
+      écrit en 1936 la *Théorie générale*, qui est quand même son œuvre majeure, que
+      vous pouvez trouver sur Internet très facilement parce qu’elle est libre de
+      droit maintenant. Dans la *Théorie générale*, je vous invite à lire le chapitre
+      12, qui est un des chapitres les plus connus de ce livre, qui n’est pas très
+      difficile à comprendre, mais qui vous explique pourquoi les marchés financiers
+      sont instables, pourquoi spéculer en bourse c’est quelque chose de compliqué,
+      pourquoi c’est compliqué et en même temps quasiment impossible pour un trader ou
+      pour un agent de gagner à long terme sur la bourse, et qui explique aussi
+      pourquoi la Bourse est instable, pourquoi il y a des krachs boursiers.
+  - chunk_index: 48
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 175
+    text: |-
+      Je vais en fait simplement dans cette partie du cours vous faire un résumé de la
+      pensée de Keynes. Je me souviens avoir écouté il y a quelques années Robert
+      Boyer, un économiste français, nous expliquer dans un séminaire de recherche
+      quelle était la théorie aujourd’hui des krachs boursiers. En fait, bien sûr,
+      dans les détails il y a des différences, mais sur le fond on reste sur la pensée
+      de Keynes. De mon point de vue, je ne sais pas si c’est lui-même qui a découvert
+      tout ça, mais il a synthétisé une réflexion qui est valide aujourd’hui aussi
+      bien qu’elle était valide en 36, et qui est quand même au cœur des mécanismes de
+      la finance.
+  - chunk_index: 49
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 355
+    text: |-
+      Pour essayer de vous faire comprendre ce raisonnement de Keynes, je vais
+      commencer par ce que dit Keynes lui-même au début : quand on est dans une
+      activité de spéculation, on doit chercher à comprendre quelle est la valeur
+      fondamentale de l’action qu’on achète. Donc là je me place vraiment sur le
+      marché boursier ; on peut étendre ensuite au marché financier, mais là ce qui
+      m’intéresse c’est les actions. Donc vous achetez une action, je ne sais pas,
+      l’action Total, l’action France Télécom, l’action d’une entreprise américaine
+      Tesla par exemple, qui fait beaucoup parler parce que Tesla a vu son cours de
+      bourse exploser ces derniers mois. La question qui se pose, c’est : est-ce que
+      cette action que j’achète, je l’achète cher ou pas ? Est-ce que je me fais
+      arnaquer ? Est-ce qu’elle est trop cher par rapport à ce qu’elle vaut ? Ou
+      est-ce qu’au contraire c’est une bonne affaire, elle est moins chère par rapport
+      à ce qu’elle vaut ? Évidemment, quand on réfléchit comme ça, se pose la question
+      de savoir : mais combien elle vaut en vrai, au fond ? Et là c’est là que se pose
+      le problème. Si vous voulez savoir si vous faites une bonne affaire en achetant
+      une action, ou au contraire une mauvaise affaire, il faudrait savoir quelle est
+      ce qu’on appelle sa valeur fondamentale.
+  - chunk_index: 50
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 367
+    text: |-
+      Qu’est-ce que c’est que la valeur fondamentale d’une action ? C’est les
+      capacités de l’entreprise à faire des profits, non pas des profits l’année
+      prochaine, mais des profits à long terme, puisque une action vous donne des
+      dividendes sur une période infinie de temps. Évidemment, les dividendes que vous
+      allez éventuellement recevoir dans 150 ans, vous vous en fichez complètement,
+      ils ne valent rien pour vous. Ce qui vous intéresse, c’est les dividendes de
+      l’année prochaine, puis les dividendes de l’année suivante, etc. Mais plus vous
+      vous reculez dans le temps, moins ça vous intéresse. Donc en fait c’est ce qu’on
+      appelle la valeur actualisée des dividendes. En théorie, c’est la valeur d’une
+      action. En fait, s’il y a une action qui vaut 10 € par exemple, et dont vous
+      pensez qu’elle va vous rapporter 1 € par an en termes de dividende, donc elle a
+      un rendement de 10 %, vous pouvez dire : c’est 10 %, on va dire c’est la norme.
+      Cela veut dire que je vais toucher 1 € l’année prochaine, puis encore 1 €
+      l’année suivante, etc. Mais au fur et à mesure, comme ces euros auront de moins
+      en moins de valeur parce qu’ils sont de plus en plus repoussés dans le temps,
+      vous pouvez considérer que l’ensemble de tous ces revenus futurs de l’action
+      vaut 10 €.
+  - chunk_index: 51
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 348
+    text: |-
+      Évidemment, le problème est : est-ce que vraiment l’entreprise va vous verser 1
+      € par an ? Cela, vous n’en savez rien, parce que chaque année l’entreprise peut
+      changer son dividende. D’abord elle peut faire faillite : dans ce cas-là elle ne
+      vous versera plus rien, donc votre action vaudra plus rien. Mais même sans faire
+      faillite, elle peut décider que finalement l’année prochaine, bon, la situation
+      est en calvaire, peut-être qu’on va vous donner que 50 centimes, ou au contraire
+      elle peut dire : on vous donnera 2 € par dividende. Donc vous comprenez bien que
+      si les gens font le calcul que les dividendes versés vont être non pas de 1 €
+      mais de 2 €, alors 10 € l’action aujourd’hui, ce n’est pas cher. Concrètement,
+      elle vaudrait peut-être plutôt 20 € si on pense à un taux de rentabilité de 10 %
+      comme étant la norme. Si elle vous rapporte 2 €, cela veut dire que l’action que
+      vous achetez 10 € est une très bonne affaire. Par contre, si vous pensez que
+      cette entreprise risque de faire faillite, donc de disparaître, que son
+      dividende sera au mieux de 50 centimes, alors là 10 €, ça fait cher. Donc le
+      problème est : qu’est-ce que vous pensez que vaut l’action ?
+  - chunk_index: 52
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 342
+    text: |-
+      Or, justement, pour savoir si une action vaut de l’argent, il faut être capable
+      de calculer quelle est la vraie valeur de l’entreprise, quelle est sa
+      rentabilité de long terme. Or, nous dit Keynes, c’est très très difficile à
+      évaluer. Il est impossible aujourd’hui d’estimer la capacité qu’a une entreprise
+      de réaliser du profit, la capacité qu’a un investissement de réaliser du profit.
+      Exemple concret : imaginons que vous financez avec votre action la création
+      d’une voie de chemin de fer, je ne sais pas par exemple entre Cholet et Angers.
+      Imaginons qu’il n’y a pas de chemin de fer déjà entre Cholet et Angers, et vous
+      financez. Là on est dans l’univers privé, ce n’est pas l’État qui possède les
+      rails, les actifs, c’est comme ça que ça fonctionnait au 19e siècle : c’était
+      des entrepreneurs privés. Ce qui est intéressant, c’est que beaucoup de krachs
+      boursiers sont liés justement à ces questions de chemin de fer, donc ce n’est
+      pas pour rien que je prends cet exemple. Une voie de chemin de fer, ça coûte
+      très cher à produire : il faut beaucoup d’acier, beaucoup de travail, beaucoup
+      de travail de terrassement, etc. Angers-Cholet, je ne sais pas, c’est à peu près
+      50 km. On comprend que ça va coûter cher à construire.
+  - chunk_index: 53
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 364
+    text: |-
+      Après, quelle est votre rentabilité ? Votre rentabilité, c’est les péages que
+      les compagnies — alors là on est dans un monde privé, donc il y a différentes
+      compagnies — vont vous verser pour faire la liaison Angers-Cholet en train.
+      Combien pouvez-vous anticiper de péage ? Déjà, cette question n’est pas claire,
+      parce que certes aujourd’hui il y a beaucoup de gens qui prennent le train pour
+      aller d’Angers à Cholet, d’Angers à Cholet, mais est-ce que dans 10 ans il y
+      aura autant de personnes ? Est-ce que dans 20 ans il y aura autant de personnes
+      ? Il faut bien comprendre qu’une voie de chemin de fer, comme elle est très
+      coûteuse, elle va se rentabiliser sur de nombreuses années. Mettons que les
+      compagnies ferroviaires sont prêtes à vous payer — je dis n’importe quoi, je
+      n’ai aucune idée des prix — pour faire passer son train Angers-Cholet, une fois
+      par semaine pendant six mois. Bon, là aussi je dis n’importe quoi, peu importe.
+      Vous saurez que vous avez cette voie, ce rail, cette voie ferrée, qui vous
+      rapporte 50 000 €. S’il y en a d’autres qui veulent aussi créer des liaisons,
+      vous allez récupérer un peu d’argent. Mais la compagnie ferroviaire peut aussi
+      décider de supprimer sa ligne, et du coup plus personne ne prendra le train, et
+      du coup vous allez perdre tout l’argent.
+  - chunk_index: 54
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 404
+    text: |-
+      Pensez qu’à la fin du 19e siècle on a eu beaucoup, beaucoup d’entreprises
+      privées qui ont financé comme ça des chemins de fer, leur calcul était bon.
+      Qu’est-ce qui détermine le fait que les gens ont envie de voyager ? Bien sûr le
+      coût du voyage, mais surtout l’intérêt pour les déplacements. L’activité
+      économique, la population, la démographie vont déterminer cela. Par exemple,
+      entre Angers et Cholet, si une usine s’ouvre à Cholet, une nouvelle usine, il va
+      y avoir plus de gens qui vont arriver à Cholet, donc plus de déplacements
+      forcément entre Angers et Cholet. Donc forcément ça va déterminer la demande.
+      Donc l’activité économique, le dynamisme économique, la démographie, tout cela
+      détermine les besoins de transport des gens. Mais il y a aussi d’autres choses :
+      les moyens alternatifs de se déplacer. À la fin du 19e siècle, le seul moyen de
+      transport pratique qui permettait de relier une ville à une autre, c’était le
+      chemin de fer. Donc là il y avait une forme de monopole du chemin de fer sur le
+      déplacement des gens. Bien sûr on pouvait y aller à pied, à cheval, etc., mais
+      c’était beaucoup plus long, beaucoup plus coûteux, pas toujours pratique. Donc
+      finalement la voie de chemin de fer à la fin du 19e siècle, c’était quasiment le
+      seul moyen qu’on avait de se déplacer d’une ville à une autre qui était pratique
+      et fiable. Donc évidemment plein de lignes de chemin de fer étaient rentables.
+  - chunk_index: 55
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 232
+    text: |-
+      Et puis vous savez ce qui s’est passé à la fin du 19e siècle : on a inventé
+      l’automobile, le moteur à explosion, et puis ça a commencé à se développer, et
+      puis ensuite on a inventé l’avion. Donc on a pu relier des villes par avion.
+      Cela a pris un peu de temps, mais pensez que vous êtes sur un investissement de
+      20, 30 ans. Vous faites cet investissement en 1890, le moteur à explosion vient
+      à peine d’être inventé. Vous calculez votre rentabilité par rapport au fait que
+      vous vous dites : les gens n’ont pas tellement le choix, ils prennent la voie,
+      ils prennent le train pour se déplacer entre Angers et Cholet. Et puis 20 ans
+      plus tard, tout le monde prend la voiture, et donc votre ligne ne tire plus,
+      n’attire plus vraiment les gens, les gens n’utilisent pas le chemin de fer pour
+      se déplacer.
+  - chunk_index: 56
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 216
+    text: |-
+      Ce que je suis en train de vous dire, c’est que la rentabilité de n’importe quel
+      actif est soumise à plein, plein de choses qui peuvent être totalement
+      imprévisibles, comme l’invention de la voiture par exemple, ou de l’avion, ou du
+      moteur à explosion, et l’usage et différents usages. Mettons que vous faites un
+      hôtel par exemple dans une région touristique, et au hasard à Fukushima, belle
+      région touristique, et tout d’un coup vous avez un accident nucléaire : votre
+      région n’est plus du tout touristique maintenant, et donc votre hôtel ne vaut
+      plus rien parce que personne ne va venir dans cet hôtel parce que c’est à côté
+      de Fukushima. Voyez, il y a plein de choses qui peuvent être comme ça
+      imprévisibles, qui fait qu’il est quasiment impossible de savoir quelle va être
+      votre rentabilité réelle.
+  - chunk_index: 57
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 303
+    text: |-
+      Et puis par ailleurs il y a aussi le coût. Quand vous investissez pour
+      construire la voie de chemin de fer, vous calculez un coût, mais ensuite quand
+      vous êtes en train de la faire, la voie de chemin de fer, vous vous apercevez
+      qu’il y avait plein de coûts que vous n’avez pas vus. Typiquement, c’est ce qui
+      s’est passé pour Eurotunnel. Eurotunnel, bon, ça avait tout l’air d’être une
+      entreprise rentable, sauf qu’en fait le coût de construction a été beaucoup plus
+      élevé que prévu, donc du coup le calcul de rentabilité était devenu faux. En
+      fait c’est ça, la base du problème. La base du problème, c’est que pour savoir
+      la valeur d’une action, il faut être capable de connaître la valeur d’un
+      investissement, qui est la contrepartie réelle de l’action. Et la valeur d’un
+      investissement ne se mesure pas à l’instant t, elle se mesure dans l’avenir,
+      c’est-à-dire dans les 10, 20, 30 prochaines années. Or l’avenir, personne ne
+      sait de quoi il va être fait. Donc il est quasiment impossible de savoir si cet
+      investissement est rentable ou non.
+  - chunk_index: 58
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 496
+    text: |-
+      Il y a encore une autre chose que Keynes nous dit : comment les actionnaires
+      peuvent-ils savoir s’ils font une bonne affaire ou non en achetant une action,
+      alors même qu’ils n’ont qu’une vision très vague de ce que fait vraiment
+      l’entreprise ? On demande aux actionnaires d’être capables de savoir si ce
+      qu’ils achètent comme action, c’est une bonne affaire ou une mauvaise affaire,
+      et en même temps ce n’est pas eux qui gèrent l’entreprise. Keynes nous dit la
+      chose suivante : dans l’entreprise d’avant, on va dire du début du 19e siècle,
+      c’était souvent des petites entreprises ; celui qui finançait, c’était souvent
+      celui qui travaillait dans l’entreprise, c’est-à-dire le directeur de
+      l’entreprise, parfois il avait quelques associés, mais qui participaient aux
+      décisions de l’entreprise. Aujourd’hui, avec la société anonyme, qui émet des
+      actions, n’importe qui peut acheter des actions, y compris des gens qui n’ont
+      qu’une connaissance très très vague de ce que fait vraiment l’entreprise. C’est
+      ce qu’on appelle la séparation entre la propriété et la gestion du capital. Ceux
+      qui gèrent le capital, c’est le directeur général de l’entreprise, ce sont
+      l’ensemble des directeurs de l’entreprise, les ingénieurs éventuellement qui
+      travaillent dans l’entreprise. Tous ces gens-là ont une activité, c’est leur
+      métier, en fait, de travailler dans cette entreprise. Donc eux ils connaissent
+      très bien l’entreprise, ils en connaissent les avantages et les inconvénients.
+      Par contre, celui qui possède l’entreprise, l’actionnaire, lui très souvent n’a
+      qu’une vision très très éloignée de ce qui se passe vraiment dans l’entreprise.
+      Donc quand vous êtes un actionnaire, vous n’êtes pas forcément un gestionnaire,
+      et donc comment voulez-vous évaluer la valeur de cette entreprise si vous ne la
+      connaissez pas ? Cela pose des problèmes.
+  - chunk_index: 59
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 594
+    text: |-
+      Donc il y a deux limites : premièrement, le fait que fondamentalement c’est
+      impossible de prévoir l’avenir et donc de prévoir la rentabilité d’un
+      investissement ; deuxièmement, l’accès à l’information. Quand vous êtes
+      actionnaire, vous n’avez accès qu’à une information publique, vous ne savez pas
+      forcément comment fonctionne l’entreprise de l’intérieur, donc c’est difficile
+      pour vous d’évaluer la valeur de l’entreprise. Et malgré cela, nous dit Keynes,
+      malgré cela, à tout moment on est capable d’évaluer très précisément — je
+      regarderai les questions tout à l’heure quand j’aurai fini le cours — malgré
+      cela, les marchés d’actions sont capables d’évaluer très précisément le cours de
+      chaque action qui est sur le marché. C’est-à-dire qu’aujourd’hui le marché vous
+      dit : l’action Total elle vaut, je dis n’importe quoi, 142,53. Cela veut dire
+      que la valeur totale — c’est la valeur de l’action multipliée par le nombre
+      d’actions, là aussi je ne sais pas, un million d’actions — et bien ça fait 143
+      millions, c’est la valeur de l’entreprise Total. Et demain cette valeur va
+      changer : ça va être peut-être un peu moins parce que l’action va baisser de 5
+      %, ou de 2 %, ou un peu plus, elle va augmenter de 2 %. En fait à chaque
+      instant, plusieurs fois par jour, les marchés financiers parviennent à évaluer
+      précisément la valeur de chaque action et donc la valeur de toutes les
+      entreprises. Donc les marchés financiers sont capables de vous donner la valeur
+      de tous les investissements réalisés dans le cadre du secteur privé et qui sont
+      financés par les actions. C’est vertigineux : comment une information que
+      personne ne peut avoir, que personne ne peut comprendre, que personne ne peut
+      connaître — parce qu’en fait c’est impossible — et puis par ailleurs ceux qui
+      évaluent n’ont pas de connaissance précise de l’entreprise, comment il est
+      possible que collectivement on arrive à connaître la valeur précise de chaque
+      entreprise et savoir qu’aujourd’hui elle vaut 142, demain vaudra 141,
+      après-demain peut-être 143, etc., et puis peut-être qu’elle ne vaudra plus que
+      80 dans un mois ? Comment c’est possible de se mettre d’accord là-dessus ?
+  - chunk_index: 60
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 468
+    text: |-
+      Keynes nous dit la chose suivante : ne croyez pas cette évaluation, cette
+      évaluation ne repose sur rien. Cette évaluation des marchés n’est rien d’autre
+      qu’une convention. Cela veut dire quoi ? Cela veut dire que c’est une opinion
+      collective qui permet de nouer des transactions. Le prix de marché est
+      conventionnel. Souvenez-vous, j’en ai parlé dans le chapitre 5. Qu’est-ce que je
+      vous ai dit dans le chapitre 5 ? Je vous ai dit qu’en fait le prix de marché
+      permet de résoudre le problème de l’indétermination de l’échange. Nous ne savons
+      pas — et c’est ça le cœur du problème de l’échange — quelle est la valeur des
+      choses que nous échangeons, mais il faut bien se mettre d’accord sur une valeur.
+      Et comment on fait ? Et bien on regarde qui veut acheter à tel prix, qui ne veut
+      pas acheter à tel prix. En fait chacun s’observe : ah, lui il a acheté ça à 10
+      €, ah bah ça doit valoir 10 €. Et donc c’est ça, le mécanisme pervers des
+      marchés financiers : c’est qu’à tout moment ils arrivent à vous créer une valeur
+      avec des gens qui ignorent tout de la manière dont l’investissement va être ou
+      non rentable. D’où le caractère conventionnel des prix de marché, nous dit
+      Keynes, qui est valable de mon point de vue sur les marchés financiers,
+      évidemment, mais qui est valable en fait sur beaucoup d’autres marchés, puisque
+      le principe même du marché c’est de générer des prix. Mais quand on dit ça, on
+      ne sait pas comment ce marché fait pour générer des prix. Et la réalité, c’est
+      que les marchés financiers génèrent des prix qui n’ont pas de sous-bassement,
+      qui ne permettent pas de comprendre réellement comment ils le font, et qui
+      surtout ne reposent pas sur une évaluation fiable.
+  - chunk_index: 61
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 353
+    text: |-
+      N’importe qui peut participer à l’évaluation d’une action en achetant ou en
+      vendant cette action. N’importe qui, même quelqu’un qui n’a aucune connaissance
+      sur rien, même vous qui êtes en première année d’économie, vous avez autant de
+      possibilités que moi — alors même plus, parce que moi je n’achète jamais sur les
+      marchés financiers — mais vous, vous pouvez décider d’acheter et de vendre sur
+      les marchés financiers des actions, et dans ce cas-là vous, avec vos faibles
+      connaissances, vous allez participer à l’évaluation du prix des actifs. Vous
+      comprenez bien la blague : ce que je suis en train de vous expliquer, c’est que
+      ces prix ne veulent rien dire. Ces prix ne sont que le produit d’une convention.
+      On est tous d’accord pour dire que… on est tous en train de se regarder :
+      comment est-ce que lui fait, combien est-ce qu’il a acheté l’action ? Ah bah il
+      a acheté 10, et bien s’il a acheté 10 c’est peut-être bien 10 la valeur. Alors
+      que personne ne sait rien. Et c’est à ça que sert le prix en fait : il sert à
+      rassurer les gens, à trouver un prix, en fait quelque chose qui dit : ça c’est
+      la norme. Mais cette norme, justement, comme elle repose sur pas grand-chose,
+      elle est fragile. Cette convention des prix est extrêmement fragile.
+  - chunk_index: 62
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 418
+    text: |-
+      Tout repose, quelqu’un le disait, tout repose sur le comportement grégaire des
+      actionnaires, mais je vais l’expliquer, parce qu’il faut développer davantage.
+      En fait, nous dit Keynes, cette convention est fragile parce que justement elle
+      repose sur un comportement moutonnier. Qu’est-ce que j’appelle le comportement
+      moutonnier ? C’est ce comportement grégaire dont l’étudiant a parlé tout à
+      l’heure, c’est-à-dire le fait que, comme on ne sait pas soi-même ce que vaut
+      l’action, le titre qui nous est proposé, on regarde ce que font les autres.
+      Est-ce que les autres nous disent que c’est bien d’acheter, ou est-ce qu’ils
+      nous disent que ce n’est pas bien d’acheter ? S’ils nous disent que c’est bien,
+      on va penser qu’eux ils en savent peut-être plus que nous, donc on va acheter.
+      On va regarder l’évolution de la convention : est-ce que la plupart des gens
+      majoritairement disent que c’est bien de l’acheter ? Dans ce cas-là, peut-être
+      que c’est bien de l’acheter. Donc quand on est dans un état d’incertitude, on ne
+      sait pas soi-même comment évaluer une action, puisque pour les raisons que je
+      viens de dire c’est impossible, et deuxièmement on n’a pas les éléments : quand
+      on est actionnaire, on ne sait pas comment fonctionne la boîte directement. Bon,
+      alors on regarde ce que font les autres. Ce mécanisme qui permet d’observer le
+      comportement des autres pour se faire son propre opinion, c’est ce qu’on appelle
+      la cascade d’information.
+  - chunk_index: 63
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 875
+    text: |-
+      Je vais l’expliquer. Là aussi vous trouverez ça sur Google très facilement :
+      cascade d’information, c’est très amusant. Pour essayer de comprendre la cascade
+      d’information, il faut imaginer la situation suivante. Vous êtes confronté à des
+      personnes qui sont en état d’incertitude, en fait elles manquent d’information,
+      c’est ça le principe. Elles manquent d’information, ne savent pas si elles
+      peuvent faire confiance à l’information qu’elles ont déjà, et par ailleurs il
+      leur manque vraiment des informations. Exemple de cascade d’information, exemple
+      de situation concrète pour essayer de parler de quelque chose de concret : vous
+      êtes dans une ville inconnue, vous n’avez pas de smartphone, vous devez — voilà,
+      vous êtes avec votre amoureux, votre amoureuse, vous avez envie de passer une
+      bonne soirée, vous voulez aller au restaurant, mais vous ne connaissez pas les
+      restaurants de cette ville et vous n’avez aucune idée de la qualité des
+      restaurants. Donc qu’est-ce que vous faites ? Et bien vous observez les
+      restaurants de l’extérieur, bien sûr, parce que dès que vous rentrez il va
+      falloir vous asseoir. Comment vous faites pour savoir ? Bien sûr vous pouvez
+      regarder la carte, regarder les prix, on a quelques informations, mais ça ne
+      nous renseigne pas complètement. Alors quand on est dans l’incertitude,
+      aujourd’hui on va voir sur TripAdvisor ou je ne sais quoi, et puis on va voir
+      les notations des gens, mais même ça, vous savez, ce n’est pas toujours fiable,
+      parce que parfois ces notations peuvent être faites par les gens qui travaillent
+      dans le restaurant. Bref, mais imaginons ici que vous n’avez même pas accès à
+      cela. Donc qu’est-ce que vous faites ? Il est 19 h, 19 h 30. L’une des choses
+      que vous pouvez faire, c’est regarder s’il y a du monde dans ce restaurant, avec
+      l’idée suivante : si des gens vont dans ce restaurant, et notamment si vous êtes
+      en couple, bon, il faut regarder s’il y a des couples par exemple. Donc vous
+      vous dites : eux c’est des couples, moi je suis un couple. S’il y a beaucoup de
+      gens dans ce restaurant, beaucoup de couples dans ce restaurant en particulier,
+      c’est peut-être un bon restaurant pour les couples. Donc en fait, ce que vous
+      faites quand vous faites ce raisonnement — qui n’est pas un raisonnement
+      absurde, qui est même tout à fait rationnel, évidemment — vous vous reposez sur
+      l’information qu’est le comportement des autres. Vous regardez le comportement
+      des autres, et en fonction du comportement des autres vous allez choisir votre
+      propre comportement. Et en faisant ça, vous allez vous-même vous comporter d’une
+      certaine façon, vous allez vous-même rentrer dans le restaurant, et le couple
+      suivant qui se balade dans la même rue vérifiera qu’il y a un couple de plus
+      dans ce restaurant, et donc ça l’incitera encore plus à venir dans ce
+      restaurant. Et c’est là le paradoxe de la cascade d’information : c’est-à-dire
+      que plus il y a de gens — si vous raisonnez comme ça — plus il y a de gens qui
+      font quelque chose, plus vous êtes incité à le faire, parce que vous dites :
+      cette personne, elle n’a pas fait ça pour rien, elle a fait ça parce qu’elle
+      avait une information particulière que je n’ai pas, moi. Donc elle sait que ce
+      restaurant est bon, et donc je vais y aller parce qu’il doit être bon.
+  - chunk_index: 64
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 344
+    text: |-
+      Et la cascade d’information, c’est ça : elle explique en fait le comportement
+      moutonnier. C’est-à-dire que ce n’est pas le comportement moutonnier ou grégaire
+      des gens, c’est-à-dire le fait qu’ils vont s’imiter les uns les autres, ce n’est
+      pas le produit d’une forme de bêtise ou d’un manque de rationalité. C’est
+      précisément l’inverse : c’est parce que les gens sont rationnels mais en état
+      d’incertitude qu’ils vont observer le comportement des autres, et en fonction de
+      ce comportement ils vont choisir leur propre comportement. Mais évidemment ça
+      conduit à un phénomène qui est que tout le monde va faire la même chose à la
+      fin, d’où le comportement moutonnier. Imaginez la même situation : tous les
+      restaurants sont vides, et là le patron de ce restaurant dit : tiens, toi
+      serveur, toi serveuse, mettez-vous devant la porte du restaurant et puis faites
+      comme si vous étiez en train de déjeuner en amoureux. Et là vous avez un premier
+      couple : il voit tout le restaurant vide sauf celui-là avec un couple. Ah bah
+      tiens, allons-y. Et ensuite, et bien voilà, comme ça on va voir ce restaurant
+      peut-être en fait très mauvais, mais tout le monde aura fait confiance au
+      comportement des autres pour prendre sa propre décision.
+  - chunk_index: 65
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 295
+    text: |-
+      Parfois je donne aussi l’exemple du QCM. Vous avez un QCM, bon un examen QCM.
+      Vous choisissez A, B, C, D. Vous dites : bon, c’est peut-être B, c’est peut-être
+      C, je ne sais pas trop, j’hésite un peu entre les deux. Quand vous êtes en
+      situation comme ça, qu’est-ce que vous faites ? Faut regarder un peu comment il
+      fait, lui : est-ce qu’il a fait B ou C ? Bon, bah lui il a fait B. Ah bah tiens,
+      je vais faire B dans ce cas-là. Bon ben lui a fait B, mais pourquoi il a fait B
+      ? Il était en incertitude, bah il a regardé sur la copie de son voisin. Ah bah
+      lui il a fait B, etc. Et en fait on peut se trouver comme ça : peut-être qu’une
+      personne avait fait B totalement par hasard et que tout le monde va faire la
+      même chose parce qu’ils vont regarder que les autres vont faire ça. C’est aussi
+      une forme de cascade d’information. Bien sûr c’est un exemple théorique :
+      trichez jamais en QCM. Et par ailleurs dans mon cours il n’y aura pas de QCM,
+      donc vous ne pourrez pas tricher comme ça.
+  - chunk_index: 66
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 123
+    text: |-
+      Donc première raison : la convention est fragile parce qu’elle repose en fait
+      sur ce comportement moutonnier, parce qu’elle repose en fait sur l’observation
+      du comportement des autres. Il suffit donc que le comportement des autres change
+      pour que du coup on change aussi son propre comportement. Donc l’effet
+      moutonnier peut aller dans les deux sens : il peut aller dans le fait de faire
+      progresser le prix d’une action et en même temps dans le fait de faire
+      s’effondrer le prix d’une action.
+  - chunk_index: 67
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 177
+    text: |-
+      Deuxième raison, nous dit Keynes, pour laquelle cette convention est fragile :
+      c’est qu’elle est soumise toujours aux aléas des événements. Donc c’est un peu
+      la conséquence du premier, c’est-à-dire que tout d’un coup un événement imprévu
+      apparaît, alors tout le monde va changer d’opinion d’un coup, parce que tout le
+      monde va du coup observer que les gens changent, et donc ils vont changer pour
+      les mêmes raisons que tout à l’heure. Donc nous dit Keynes, comme cette
+      convention est fragile, comme les marchés financiers produisent une évaluation
+      de la valeur des actifs qui repose sur des bases extrêmement fragiles, et bien
+      les marchés sont instables.
+  - chunk_index: 68
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 486
+    text: |-
+      Et donc Keynes nous explique à la fin qu’il va déterminer quatre grandes causes
+      d’instabilité financière. Vous pouvez relire, enfin lire, le chapitre 12, vous
+      verrez que c’est bien ça qui est marqué. Alors la première des causes, nous dit
+      Keynes, c’est qu’en fait la plupart des investisseurs financiers ne sont pas
+      compétents pour évaluer la rentabilité de leurs actifs. Cela peut se comprendre
+      de deux manières différentes. La première, c’est dire : ils ne sont pas
+      compétents parce qu’ils ne sont pas spécialistes d’économie ou de quoi que ce
+      soit, ce qui est vrai. Mais on peut aussi comprendre cela comme étant : de toute
+      façon ils ne peuvent pas être compétents parce que c’est impossible de prévoir
+      l’avenir. Personne n’est devin, personne n’a des visions de l’avenir. Donc ils
+      ne sont pas compétents pour cette autre raison : c’est-à-dire que même s’ils
+      étaient compétents au sens où ils connaissent très très bien l’économie — ils
+      sont John Maynard Keynes par exemple — et bien ça ne suffirait pas, parce que
+      pour connaître la valeur d’un actif il faut être capable de prévoir le futur. Et
+      encore une fois je vous l’ai dit : Keynes a gagné beaucoup d’argent en bourse,
+      mais il a aussi beaucoup perdu, et pourtant c’est considéré comme l’un des
+      meilleurs économistes du 20e siècle. Il avait une pratique évidemment très très
+      intelligente de la finance, ce n’est pas quelqu’un qui spéculait n’importe
+      comment. Donc cela veut dire que premièrement les marchés financiers sont
+      instables parce qu’on n’est pas compétent. Puis, souvenez-vous aussi, on n’est
+      pas aussi compétent parce que l’actionnaire n’est parfois pas le gestionnaire,
+      la plupart du temps n’est pas le gestionnaire de l’entreprise, donc il ne
+      connaît pas le fonctionnement réel de l’entreprise.
+  - chunk_index: 69
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 428
+    text: |-
+      Deuxième raison, nous dit Keynes : les marchés financiers et boursiers en
+      particulier sont instables parce qu’on va parfois être influencé par des
+      événements tout à fait prévisibles. Par exemple, c’est le mois de juillet, il y
+      a une canicule. Bon, ben voilà, c’est un mois de juillet, c’est normal, un mois
+      d’août, il y a une canicule, il fait chaud l’été. Ok, super. Mais pourtant, même
+      quand il fait chaud l’été, on va voir apparaître des phénomènes boursiers : on
+      va prendre en compte ces phénomènes qui ne sont pourtant pas du tout rationnels
+      à priori. Exemple : Nestlé, qui vend des bouteilles d’eau et des glaces.
+      Canicule, et hop, le cours de Nestlé va augmenter parce qu’on va se dire : les
+      gens vont plus acheter de bouteilles d’eau et de glaces, de crème glacée. Est-ce
+      que ça a du sens ? Bah non, parce que de toute façon le chiffre d’affaires de
+      Nestlé il doit être calculé sur l’année entière. Bien sûr qu’à un moment l’été
+      arrive, et bien sûr qu’il n’y a pas de raison que s’il fait chaud l’été, ça
+      entraîne un changement dans la rentabilité réelle de Nestlé sur l’année. Mais en
+      fait ce qui se passe, nous dit Keynes, c’est que bien que ça apparaisse
+      totalement irrationnel, les investisseurs peuvent attendre du fait que les
+      autres vont croire que le fait qu’il fasse chaud, qu’il y ait une canicule, va
+      influencer la valeur de Nestlé. Et donc en quelque sorte anticiper
+      l’anticipation des autres.
+  - chunk_index: 70
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 827
+    text: |-
+      Pour vous expliquer, je vais prendre là aussi un autre exemple. Pendant une
+      période, on avait une théorie qui essayait d’expliquer les cycles économiques.
+      Vous savez qu’en économie il y a des cycles, des cycles d’affaires. Au début du
+      20e siècle on se pose la question de savoir d’où viennent ces cycles, pourquoi
+      il y a tout d’un coup des croissances, des décroissances de l’activité
+      économique, pourquoi on voit des récessions régulièrement et des phases de boom
+      d’autre part. Certains économistes ont émis l’hypothèse que ça pouvait avoir un
+      lien avec l’activité solaire. L’hypothèse n’était pas totalement absurde : nous
+      savons que l’activité solaire suit des cycles, on regarde les taches solaires
+      qui se multiplient tous les 11 ans et qui disparaissent, et on peut penser que
+      peut-être l’activité solaire peut avoir une influence sur l’agriculture, qui
+      elle-même pourrait avoir une influence sur l’ensemble de l’économie, puisque au
+      début du 20e siècle les économies étaient beaucoup plus agricoles. Donc des
+      économistes tout à fait sérieusement ont commencé à regarder s’il pouvait y
+      avoir une corrélation entre les cycles solaires qu’on regarde par les taches
+      solaires et les cycles économiques. Cette idée a été très populaire à une
+      certaine époque, et donc les gens se sont appuyés sur cette théorie pour
+      anticiper les cours de variation des bourses. Donc quand il y avait la
+      multiplication de taches solaires, et bien c’était que l’on était dans un
+      certain cycle, donc il fallait par exemple acheter ou vendre. J’avoue que je ne
+      connais pas la théorie, donc peu importe. Et donc on pouvait voir que selon
+      l’activité solaire, il y avait des variations de bourse qui représentaient en
+      fait l’idée, la croyance sur laquelle ces cycles solaires pouvaient avoir une
+      influence sur l’économie. Évidemment cette théorie était fausse. On a regardé,
+      on a observé le cours des affaires, on a observé les cycles solaires, on a vu
+      qu’il n’y avait pas de corrélation, que les crises pouvaient apparaître
+      n’importe quand, qu’elles n’étaient pas corrélées avec l’activité solaire. Mais
+      les gens ont continué d’acheter et de vendre des actions, de spéculer en
+      fonction des taches solaires. Là on peut se dire : autant c’était compréhensible
+      que les gens spéculent en fonction des taches solaires quand la théorie n’avait
+      pas été invalidée, parce qu’elle pouvait tout à fait être valide, autant, quand
+      la théorie était invalidée, pourquoi est-ce que ça continue d’avoir des effets
+      sur l’action ? Parce que les gens se sont dit : ok, cette théorie est fausse,
+      mais peut-être que les autres, eux, ne le savent pas. Donc si les gens ne savent
+      pas que cette théorie est fausse, et bien ils vont continuer d’acheter et de
+      vendre en fonction de cette théorie, et donc ça va avoir un effet sur les
+      variations de cours. Et donc moi, en tant qu’investisseur, il faut que j’intègre
+      cela dans mon calcul.
+  - chunk_index: 71
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 398
+    text: |-
+      On peut retrouver par exemple d’autres théories fausses, par exemple
+      l’astrologie. Il y a des gens qui font l’astrologie des entreprises : elle est
+      née à tel moment, bon ben l’entreprise elle est verseau ou capricorne ou je ne
+      sais quoi, et ben donc on regarde l’horoscope, et puis on dit : tiens, ah ben
+      l’horoscope, vous êtes en forme, ah ben tiens l’entreprise va monter. Et ben ça
+      marche parfois, ça marche alors que ça n’a aucune base scientifique. Pourquoi ça
+      fonctionne ? Parce qu’il y a des gens qui croient. Il suffit qu’il y ait une
+      certaine proportion de gens qui croient pour que ça ait une influence sur les
+      cours de marché. Et donc ça peut du coup entraîner des gens qui vont investir
+      par rapport à ça. Donc ce que Keynes nous dit, c’est que les variations à court
+      terme, à très court terme, des cours des bourses sont parfois appuyées sur des
+      choses complètement bizarres, donc des choses qui auraient tout à fait pu être
+      évidentes comme : il fait chaud, il fait chaud l’été, qui ne devrait pas avoir
+      d’effet sur la valeur réelle de l’actif à long terme, mais qui vont rentrer en
+      compte et être prises en compte dans les variations de court terme. Ce qui veut
+      dire que le titre, la valeur du titre qu’on a, ce n’est pas une véritable valeur
+      de long terme, c’est en fait juste une forme de spéculation. Évidemment tout
+      cela explique la fragilité, l’instabilité des marchés boursiers.
+  - chunk_index: 72
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 486
+    text: |-
+      Bon, évidemment, et je viens de le dire tout à l’heure, les comportements
+      moutonniers sont même un facteur de crise, parce que là il y a des retournements
+      brutaux qui peuvent se faire, des retournements de convention. Je ne vais pas
+      revenir parce que j’ai déjà expliqué tout à l’heure. Et puis, nous dit Keynes,
+      et c’est ça qui est intéressant, en fait c’est le seul vrai argument, c’est le
+      dernier. Quand on comprend tout cela, quand on comprend que ce qui détermine le
+      cours des bourses, ce n’est pas la réalité de l’économie mais c’est la réalité
+      du comportement des autres actionnaires, c’est-à-dire le fait que les autres
+      achètent ou vendent, alors il faut comprendre que le mécanisme même de la
+      spéculation est au cœur de l’activité boursière, de la valeur des titres.
+      C’est-à-dire que contrairement à ce qu’on pourrait croire, ce qui détermine le
+      prix d’une action à l’instant, ce n’est pas la vraie valeur de l’entreprise dont
+      est tirée l’action. Ce qui détermine le cours du titre à l’instant, le cours
+      d’une action à l’instant, c’est la valeur que les gens ont dans la tête.
+      C’est-à-dire que ce qui est au cœur de la valeur d’un titre financier, c’est la
+      psychologie des acteurs. Et cette psychologie peut se reposer sur des choses
+      totalement fausses comme les horoscopes ou les taches solaires, sur des choses
+      vraies mais sans importance comme il fait beau l’été, et aussi sur peut-être des
+      choses vraies qui sont importantes. Par exemple, Tesla a trouvé à inventer une
+      nouvelle batterie qui va faire en sorte de réduire les coûts par deux, la
+      production de batterie. Bon, là ça peut être quelque chose — je dis n’importe
+      quoi, je n’en sais rien — qui peut effectivement entraîner une valorisation de
+      l’action Tesla.
+  - chunk_index: 73
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 153
+    text: |-
+      Donc si on considère que la manière dont l’action se vaut est la conséquence de
+      cette psychologie des acteurs, alors quand on est un acteur rationnel, il faut
+      qu’on intègre tout ça dans sa gestion de l’actif. C’est-à-dire que le fait de
+      spéculer va vous inciter à anticiper la psychologie des autres. Autrement dit,
+      même les investisseurs les plus rationnels et les plus compétents doivent suivre
+      les conventions du marché et non leur propre jugement. Cela veut dire que le
+      marché a toujours raison, même si le marché est géré par des gens totalement
+      incompétents.
+  - chunk_index: 74
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 513
+    text: |-
+      Je vais essayer de vous expliquer ça avec un exemple simple. Mettons que Tesla
+      aujourd’hui — Tesla, c’est ce matin, c’est pour ça que je vous en parle — la
+      valeur de Tesla, c’est plus que tous les constructeurs européens réunis, alors
+      qu’elle vend beaucoup moins de voitures. On pourrait se dire : l’action Tesla
+      c’est n’importe quoi, elle est beaucoup beaucoup trop cher par rapport à sa
+      vraie valeur, jamais l’entreprise ne permettra de distribuer des dividendes
+      suffisants pour justifier la valeur extrêmement élevée de l’entreprise, de
+      l’action Tesla. Vous, vous êtes un analyste financier, vous êtes compétent, vous
+      êtes rationnel, vous savez que 500 balles pour acheter une action Tesla c’est
+      beaucoup trop cher, parce que même si elle est très utile, même si l’entreprise
+      va avoir beaucoup de succès, elle n’arrivera jamais à vous verser 50 € de
+      dividende par an pour justifier la valeur, surtout à long terme. Donc vous savez
+      ça. Mais d’un autre côté, vous regardez les autres autour de vous : tout le
+      monde a envie d’acheter l’action Tesla. Donc vous regardez les magazines
+      financiers, tout le monde dit : l’action Tesla c’est génial, Elon Musk c’est le
+      meilleur patron de tous les temps, il a envoyé des hommes dans l’espace avec
+      SpaceX, il a même envoyé une voiture décapotable dans l’espace chanter *Life on
+      Mars* de David Bowie. Bon, voilà, c’est un entrepreneur très médiatique. Vous
+      pouvez dire : en fait tout le monde a envie d’être actionnaire de Tesla, et même
+      si ce n’est pas rationnel, manifestement les gens achètent encore. Donc le cours
+      aujourd’hui il est de 500 €, mais vu ce que je vois autour de moi, c’est clair
+      que demain il sera de 600 €. Mais vous, vous savez, parce que vous êtes
+      quelqu’un de compétent, qu’en fait l’action Tesla vaut 200 € maximum, elle ne
+      vaut pas 500 ni 600.
+  - chunk_index: 75
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 659
+    text: |-
+      Question : qu’est-ce que vous devez faire si vous êtes un spéculateur ? Est-ce
+      que vous devez vendre l’action parce que vous savez que sa vraie valeur
+      fondamentale est de 200, ou est-ce que vous devez l’acheter parce que vous
+      soupçonnez autour de vous que tout le monde va l’acheter jusqu’à ce qu’elle
+      vaille au moins 600 ? La bonne stratégie, ce n’est pas de vendre aujourd’hui,
+      parce que certes vous gagnerez 300 € si vous vendez maintenant à 500 et que la
+      vraie valeur fondamentale c’est 200, et un jour bien sûr, peut-être dans deux
+      ans, dans trois ans, l’action Tesla vaudra 200. Vous savez qu’à long terme c’est
+      ça sa vraie valeur : c’est 200, aujourd’hui 500. Donc si je reprends le
+      raisonnement que j’ai fait au tout début, je pourrais tout à fait penser que si
+      la valeur fondamentale c’est 200 et si la valeur de marché c’est 500, c’est
+      beaucoup trop cher d’acheter maintenant, donc il faut vendre. Mais d’un autre
+      côté, vous voyez qu’autour de vous tout le monde veut acheter, et sans doute que
+      l’action va monter jusqu’à 600. Ça aussi vous êtes suffisamment intelligent pour
+      le savoir. Si vous vendez maintenant à 500, vous allez vous retrouver dans deux
+      ans, quand l’action vaudra plus que 200, avoir gagné 300 €, c’est bien. Mais si
+      vous achetez au lieu de vendre à 500, et que dans six mois l’action vaut bien
+      600, tel que vous l’avez prévu, vous gagnerez 100 €. Et là, à 600, vous
+      revendrez, et ensuite ça va baisser à 200, et vous allez gagner 400 €. Autrement
+      dit, en vous positionnant aujourd’hui non pas en tant que vendeur — ce qui
+      serait la stratégie de base à priori — mais en tant qu’acheteur à 500, alors
+      vous gagnez 100 parce que le cours va monter jusqu’à 600, et puis quand ce sera
+      600 vous revendrez, et là vous gagnerez 400 de plus. Donc au total vous gagnerez
+      500 en deux ans, alors que si vous êtes juste vendeur aujourd’hui vous ne gagnez
+      que 300. Autrement dit, dans le calcul de la personne compétente, il n’y a pas
+      que la valeur fondamentale qui compte : il y a ce que les autres pensent, votre
+      capacité à sentir la psychologie des foules. Et un vrai spéculateur ne doit pas
+      agir en fonction de la vraie valeur, mais en fonction de ce qu’il sent de ce que
+      les autres vont faire.
+  - chunk_index: 76
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 385
+    text: |-
+      Là se pose un problème, parce que ça veut dire que concrètement votre
+      comportement ira à l’inverse de votre connaissance. Si on devait raisonner
+      uniquement avec votre connaissance fondamentale, votre connaissance fondamentale
+      c’est la chose suivante : cette action nous est aujourd’hui proposée à 500, or
+      sa valeur fondamentale c’est 200, donc elle est complètement surévaluée. Donc à
+      priori le comportement que vous devriez avoir c’est vendre l’action à 500 pour
+      gagner 300, l’écart avec ce qui se passera quand dans deux ans l’action vaudra
+      200. Mais ce que vous faites, c’est l’inverse : vous achetez parce que vous
+      savez que ça va augmenter et qu’ensuite ça baissera, et comme ça vous gagnerez
+      500 au lieu de gagner 300. Donc d’un point de vue un peu paradoxal, vous savez
+      que cette action est surévaluée et vous l’achetez quand même. Pourquoi ? Parce
+      que vous faites attention à la psychologie des foules. Mais si ça se trouve,
+      autour de vous tout le monde fait ça. Si ça se trouve, tous les gens qui
+      achètent savent très bien, pertinemment, que l’action est surévaluée, mais ils
+      achètent quand même parce qu’ils font le même raisonnement que vous. Et vous
+      avez quelque chose ici d’absolument hallucinant : tout le monde sait qu’il fait
+      une mauvaise affaire, et tout le monde l’achète parce que tout le monde pense
+      qu’il va comme ça gagner davantage.
+  - chunk_index: 77
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 114
+    text: |-
+      Je récapitule, parce que Keynes nous explique cela très bien par une métaphore
+      extrêmement célèbre, qui est la métaphore du concours de beauté. Je vais vous
+      l’expliquer, puis ensuite on terminera le chapitre ici. C’est une métaphore
+      qu’il faut que vous soyez capables, vous aussi, de m’expliquer en examen. Ça
+      fait partie des questions de ce chapitre, parce que c’est quand même la base du
+      raisonnement économique.
+  - chunk_index: 78
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 997
+    text: |-
+      Keynes nous dit la chose suivante : il existe dans certains journaux des
+      concours qui sont proposés aux lecteurs. Ces concours, c’est simplement : on
+      vous donne une série de photos de visages, des photos de visages en noir et
+      blanc à l’époque, et vous devez choisir les visages qui sont les plus beaux. Le
+      gagnant du concours, le lecteur qui sera gagnant, ce n’est pas les personnes qui
+      sont sur photo qui gagnent le concours de beauté. Ceux qui gagnent le concours,
+      ce sont les lecteurs qui auront choisi, parmi les visages qui leur sont
+      proposés, ceux qui auront reçu le plus de suffrages des autres lecteurs.
+      Autrement dit, les gagnants sont ceux qui se sont approchés le plus des critères
+      de beauté des autres. Si vous raisonnez comme ça, la question se pose très vite
+      à vous, en tant que lecteur qui participez au concours : quel visage allez-vous
+      choisir ? Est-ce que vous allez choisir le visage qui vous plaît à vous
+      personnellement le plus, ou est-ce que vous allez choisir le visage qui
+      trouvera, selon vous, le plus de votes ? Évidemment, pour gagner ce concours de
+      beauté, il ne faut pas choisir selon ses propres préférences, il faut choisir
+      selon les préférences des autres. Mais quelles sont les préférences des autres ?
+      Est-ce que par exemple vous allez choisir la blonde à forte poitrine ou la brune
+      un peu plus normale ? Vous pouvez préférer la brune, mais vous dites : comment
+      les autres raisonnent avec leur cerveau reptilien ? Comment toutes ces masses
+      vont choisir ? Est-ce qu’ils ne vont pas choisir la blonde à forte poitrine
+      plutôt que la brune ? D’ailleurs, beauté, c’est plutôt homme, plutôt femme ? En
+      réalité c’est les deux, on est d’accord. Et puis la préférence des uns et des
+      autres… Mais vous, vous n’êtes pas en train de réfléchir sur la vraie beauté,
+      vous êtes en train de choisir sur les canons de beauté. Donc vous allez sans
+      doute choisir le truc qui semble beau pour les autres, mais qui ne vous semble
+      pas forcément beau pour vous. Le paradoxe, c’est que tout le monde peut faire le
+      même calcul. C’est-à-dire qu’en fin de compte, dans le concours de beauté, ce
+      qui va être choisi comme visage, ce sera la blonde aux yeux bleus, à forte
+      poitrine, pas forcément la personne que les gens trouveront la plus belle.
+      Pourquoi ils vont choisir ça ? Parce qu’ils vont considérer que les autres vont
+      penser comme ça, parce qu’ils sont un peu bêtes. En fait c’est ça, le paradoxe :
+      on pense que tout le monde est bête, c’est toujours l’autre. Et donc on va
+      choisir le critère de beauté qui peut-être ne plaira pas aux individus comme
+      critère de beauté. Et c’est ça qu’on parle quand on parle de convention :
+      c’est-à-dire qu’en fait ce qui intéresse dans le concours de beauté, c’est de
+      choisir selon la convention de beauté. De la même façon que dans les actions,
+      quand on cherche à acheter telle ou telle action, on va choisir l’action qui est
+      le plus dans les critères de la convention. Pourquoi aujourd’hui l’action Tesla
+      elle monte ? Ah bah parce que c’est la voiture électrique, parce que la voiture
+      électrique c’est le monde d’après, c’est l’écologie, c’est bon pour la planète,
+      et puis en même temps c’est la technologie, donc c’est l’avenir. Donc on va se
+      dire : ben tiens, super, tout le monde achète ça parce que finalement c’est ça
+      qui va être l’avenir, parce qu’Elon Musk il envoie des gens dans l’espace, parce
+      que tout ça. Donc quelque part derrière le calcul d’achat de l’action Tesla il y
+      a le même mécanisme que derrière le calcul du concours de beauté que je viens de
+      vous dire.
+  - chunk_index: 79
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 243
+    text: |-
+      Donc quelque part derrière le calcul d’achat de l’action Tesla il y
+      a le même mécanisme que derrière le calcul du concours de beauté que je viens de
+      vous dire. C’est-à-dire qu’on ne va pas chercher ce que nous on préfère comme
+      action, ce que nous on pense être l’action la plus rentable à long terme : on va
+      choisir selon ce qu’on pense de ce que les autres vont choisir. Et le paradoxe
+      de tout ça, c’est que si ça se trouve tout le monde va faire pareil et personne
+      n’y croira. Tout le monde va choisir la blonde, mais personne ne va penser que
+      cette blonde est si belle que ça. En fait, c’est tout le paradoxe de ce concours
+      de beauté : c’est qu’en réalité il émerge de ce concours de beauté un prix, une
+      valeur, qui correspond peut-être à ce que personne ne croit comme étant la
+      valeur fondamentale. D’où bien sûr l’instabilité des marchés financiers.
+  - chunk_index: 80
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 213
+    text: |-
+      En gros, ce que je suis en train de vous expliquer, c’est que les marchés
+      financiers ne produisent en réalité aucune information fiable. Ils produisent
+      une convention qui ne repose pas sur grand-chose, si ce n’est la manière dont
+      les individus spéculent en bourse. Alors parfois ils vont prendre en compte des
+      informations réelles : on va voir par exemple une entreprise annoncer qu’elle va
+      faire plus de profit que d’habitude, ou plus de profit qu’attendu, donc son
+      cours va monter. Mais il y a plein de choses aussi qui sont totalement absurdes
+      et qui peuvent être prises en compte dans les marchés financiers. Et en fin de
+      compte, ce n’est pas parce que le cours monte que la valeur qui est créée par le
+      marché financier a une signification réelle. D’où évidemment les krachs.
+  - chunk_index: 81
+    heading_path: Séance 19 du mercredi 2 décembre > Pourquoi les marchés financiers sont instables
+    content_token_count: 373
+    text: |-
+      Donc je reviens sur la question : pourquoi y a-t-il instabilité financière ?
+      Parce qu’en fait la plupart des acteurs qui spéculent en bourse savent très bien
+      que derrière le prix affiché par la bourse il y a beaucoup de vent, beaucoup de
+      spéculation, beaucoup de choses qui sont incalculables par les uns et les autres
+      et qui sont impossibles à calculer, et donc que ce prix ne veut pas dire
+      grand-chose. Et que d’ailleurs il veut d’autant moins dire grand-chose que
+      demain il va changer, et que ça se trouve après-demain il va s’effondrer, et
+      puis encore après-demain peut-être il va remonter. Tout dépend de la psychologie
+      des acteurs. Alors bien sûr il y a une forme de stabilité, parce que Tesla ne va
+      pas tout d’un coup perdre toute sa valeur parce que tout le monde aura décidé
+      ensemble de vendre du Tesla, parce que simplement la psychologie des foules ne
+      change pas si vite. Donc on va parfois voir une forme de stabilité, et puis un
+      jour un événement va arriver, tout le monde va commencer à vendre, le cours va
+      baisser, tout le monde va se ruer vers la vente, et puis tout d’un coup le truc
+      va baisser, parfois inférieur, de manière inférieure à sa valeur fondamentale.
+      Bref, vous savez maintenant pourquoi les marchés financiers sont instables. Si
+      vous voulez avoir un peu plus de précision, je vous invite à lire le chapitre 12
+      de Keynes.
+  - chunk_index: 82
+    heading_path: Séance 19 du mercredi 2 décembre > Questions et réponses
+    content_token_count: 46
+    text: |-
+      Il nous reste quelques minutes. Je vais d’abord lire les questions, parce que je
+      n’ai pas pu lire toutes les questions que vous m’avez posées, et je vais donc y
+      répondre.
+  - chunk_index: 83
+    heading_path: Séance 19 du mercredi 2 décembre > Questions et réponses
+    content_token_count: 188
+    text: |-
+      Alors : dividende Tesla. Voilà. Il n’y a pas beaucoup de questions vraiment. Il
+      faudrait donc privilégier selon Keynes investir à court terme ou à long terme ?
+      En fait, ce que je suis en train de vous dire, c’est qu’il faut toujours
+      préférer le court terme. Pour Keynes, concrètement, ce qui compte en spéculation
+      c’est plutôt le prix de demain que le prix dans 10 ans. C’est ce que je vous ai
+      montré par rapport à l’action Tesla : si le prix monte dans six mois à 600 €, et
+      bien il faut acheter même si dans deux ans le prix sera 200 €. Oui, le cycle
+      Juglar, mais peu importe. Effectivement, c’est le cycle des affaires, c’est ça
+      dont on parle.
+  - chunk_index: 84
+    heading_path: Séance 19 du mercredi 2 décembre > Questions et réponses
+    content_token_count: 128
+    text: |-
+      Je vais regarder s’il y a d’autres questions. Pourquoi y a-t-il instabilité
+      financière ? Et bien parce que la valeur, les prix, les cours des bourses, des
+      actions reposent sur une évaluation conventionnelle qui est en fait très
+      instable, parce qu’elle repose essentiellement sur la psychologie des gens et
+      non pas sur des réalités économiques tangibles. En quoi… Je ne vais pas vous
+      répondre ça, je viens d’y répondre. La métaphore du concours de beauté, bon ben
+      voilà.
+  - chunk_index: 85
+    heading_path: Séance 19 du mercredi 2 décembre > Questions et réponses
+    content_token_count: 243
+    text: |-
+      Alors les questions qui vous seront posées. Je termine ça. Les questions qui
+      vous seront posées, voilà, c’est les questions de définition : que permet la
+      circulation financière ? Elle permet de coordonner les besoins des agents à
+      capacité de financement et des agents à besoin de financement. Attendez, il y a
+      une question là qui est venue : est-ce que les actions d’entreprise déterminent
+      leur valeur ? Mais oui. Mais les actions, c’est le prix de l’action, c’est la
+      valeur de l’entreprise. Ce n’est pas qu’elles déterminent la valeur, c’est
+      qu’elles sont la valeur. Vous avez une entreprise qui a 10 000 actions, chaque
+      action vaut 10 €, alors l’entreprise vaut 100 000 €. Voilà, c’est aussi simple
+      que ça. La valeur d’une entreprise, il faut bien la comptabiliser : c’est la
+      valeur de ses actions, cumuler le nombre d’actions multiplié par la valeur de
+      chaque action individuelle.
+  - chunk_index: 86
+    heading_path: Séance 19 du mercredi 2 décembre > Questions et réponses
+    content_token_count: 454
+    text: |-
+      Expliquez pourquoi dans une entreprise ouverte l’égalité I = S n’est pas
+      toujours vérifiée. Bon, ça c’est facile : c’est parce qu’il y a des échanges
+      avec l’extérieur, notamment la balance commerciale. C’est là que vous dites…
+      Cela peut-être que je vais rajouter une question, je verrai. Non, je ne vais pas
+      le faire, peu importe, on ne va pas s’embêter avec ça. Sur I - S, I = X - M, ça
+      il faut le savoir pour vous, pour plus tard. Expliquez pourquoi les déficits
+      publics et commerciaux d’une économie peuvent être… Voilà, c’est ça. Alors non,
+      ce n’est pas ça. Ça, c’est on considère que I = S, et après il reste… C’est une
+      question un peu difficile, mais G - T = X - M, ainsi si on a une balance
+      financière qui est équilibrée, ça c’est la question des déficits jumeaux des
+      États-Unis dans les années 80. Quelles sont les trois formes de circulation
+      financière ? Bon ben c’est super facile, on les a vues tout à l’heure. Quels
+      sont les différents types d’OPCVM ? Donc FCP, SICAV, les avantages et
+      inconvénients dans un OPCVM, je viens de les dire. Pour John Maynard Keynes,
+      qu’est-ce qui explique l’instabilité des marchés financiers ? Bon ben voilà, je
+      viens de le dire. Alors évidemment je ne vous poserai pas à la fois la question
+      7 et la question 8 parce qu’elles sont redondantes. En quoi la métaphore du
+      concours de beauté permet-elle d’expliquer la logique des marchés financiers ?
+      Bon ben je viens de vous le faire. Voilà. Je n’ai pas besoin de reposer la
+      question, je viens de vous le faire.
+  - chunk_index: 87
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 118
+    text: |-
+      Écoutez, il nous reste encore 10 minutes. On va aborder le chapitre 8, parce que
+      c’est le dernier, enfin c’est l’avant-dernier chapitre ; après il y en a un très
+      court, mais il ne nous reste pas tant de temps que ça. Je voudrais quand même
+      qu’on avance. C’est un chapitre très important : production, répartition des
+      richesses. Parce qu’on n’a pas encore vraiment parlé de la production d’un point
+      de vue économique.
+  - chunk_index: 88
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 222
+    text: |-
+      La production, qu’est-ce que c’est d’un point de vue économique ? C’est la
+      transformation d’inputs en outputs. C’est-à-dire : j’ai des intrants, j’ai des
+      matières premières, du capital en quelque sorte, j’ai du travail, et je produis
+      avec ça de la richesse. On peut le définir un peu comme cela. Vous avez les
+      inputs ici : K, capital. Dans le capital, il y a le capital fixe, mais il y a
+      aussi le capital circulant, il y a les matières premières — capital circulant —
+      et puis il y a les machines — capital fixe. Et puis il y a le travail. Voyez,
+      j’ai mis le capital en bleu et le travail en rouge, évidemment un bon petit code
+      couleur. Tout cela nous fait du violet, qui est la production, les outputs.
+      Voilà. Nous avons ici la production telle qu’elle est conçue par les
+      économistes.
+  - chunk_index: 89
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 255
+    text: |-
+      Les économistes aujourd’hui n’ont que deux facteurs de production : le capital
+      et le travail. C’est un peu différent des économistes du 18e, 19e siècle,
+      notamment Smith et Ricardo, qui eux avaient trois facteurs de production parce
+      qu’ils rajoutaient la terre. Mais nous, dans une économie industrielle, avec le
+      poids de l’agriculture qui est beaucoup plus faible, finalement on considère que
+      la terre c’est du capital, on a intégré la terre dans le capital ici. Donc le
+      capital, on va le redire, mais c’est des révisions, donc c’est facile, tout ça
+      vous l’avez vu. Le capital, on appelle ça K — passé parce que c’est une
+      convention là aussi internationale, ça vient évidemment de Marx, *Das Kapital* —
+      et puis c’est bien parce que chez nous ça fait K, donc c’est le début de
+      capital. Le capital, c’est toutes les marchandises qui sont nécessaires à la
+      production. Donc toute la richesse réelle. On est ici dans une vision réelle du
+      capital.
+  - chunk_index: 90
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 291
+    text: |-
+      Qu’est-ce qu’on a ? J’ai dit : on a le capital circulant. Donc ce sont les
+      actifs qui sont détruits dans le processus de production : matières premières,
+      biens intermédiaires. Alors matières premières, c’est vraiment détruit, surtout
+      l’essence, l’électricité, etc., ça disparaît vraiment. Les biens intermédiaires,
+      ils ne sont pas directement détruits mais ils sont intégrés dans le produit
+      final. Tout ça, c’est ce qu’on appelle la consommation intermédiaire. Et donc la
+      valeur ajoutée, c’est égal — c’est-à-dire ce qui est vraiment produit comme
+      richesse — c’est égal à la valeur de la production moins le coût de la
+      consommation intermédiaire, ou qu’on appelle aussi le capital circulant. Alors
+      ça aussi ce n’est pas clair dans votre tête : capital circulant égale
+      consommation intermédiaire, c’est la même chose. D’accord. Il arrive qu’en
+      économie on ait deux mots qui disent la même chose, et ici c’est exactement la
+      même chose : consommation intermédiaire, c’est le capital circulant.
+  - chunk_index: 91
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 241
+    text: |-
+      Et puis on a le capital fixe, qui représente tous les actifs qui ne sont pas
+      détruits dans le processus de production. Alors il est matériel : les immeubles,
+      les machines, les véhicules, etc. Il peut être immatériel : le brevet, la
+      marque. Voilà. Vous êtes Coca-Cola, vous créez une nouvelle boisson, et bien
+      elle aura beaucoup plus de valeur que si vous êtes Artempon et que vous créez
+      une nouvelle boisson. Donc la marque, ça participe de la création de valeur et
+      donc de richesse. Et c’est du capital fixe puisque ça ne disparaît pas, ça ne se
+      détruit pas en étant utilisé. En même temps, on peut user une marque aussi : si
+      on produit que des mauvais produits, au bout d’un moment la marque vaudra pas la
+      même chose qu’au départ. Vous voyez comment Canal+ détruit sa propre marque en
+      transformant complètement la ligne éditoriale de la chaîne.
+  - chunk_index: 92
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 272
+    text: |-
+      Alors les propriétaires du capital apportent du capital, donc ils sont rémunérés
+      par une part du profit. Lorsque ce capital est divisé en forme d’actions — ce
+      qui n’est pas le cas de toutes les entreprises, toutes les entreprises ne sont
+      pas des sociétés anonymes par actions — mais lorsque c’est le cas, la part de
+      profit distribuée va s’appeler les dividendes. Mais sinon, bien sûr, on a
+      d’autres manières de distribuer des profits. Quoi qu’il arrive, le capital est
+      rémunéré par le profit, ou plutôt par une part du profit, parce que l’autre part
+      du profit très souvent elle est réinvestie dans l’entreprise. Je vous renvoie au
+      TD 8, où justement tout cela est expliqué : on a différentes formes de
+      rémunération du capital. Donc on a le profit distribué, mais on a aussi le
+      profit qui reste dans l’entreprise et qui va être amené à financer les besoins
+      d’investissement. Voilà. Donc tout ça normalement vous devez plus ou moins
+      l’avoir appris depuis le début du semestre ; ce sont essentiellement des
+      révisions.
+  - chunk_index: 93
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 77
+    text: |-
+      Alors, quelques questions, je vais quand même regarder s’il y a des questions
+      intéressantes. Non, mais là vous êtes plutôt encore sur la finance. Arrêtez de
+      propager des questions sur le chapitre précédent : on a changé de chapitre. Si
+      vous voulez discuter entre vous, utilisez d’autres choses.
+  - chunk_index: 94
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 186
+    text: |-
+      Deuxième input : le travail. Le travail, qu’est-ce que c’est ? Ce n’est pas très
+      compliqué : le travail c’est du temps qu’on consacre à une activité productive.
+      Donc pour travailler… Comment mesure-t-on ce travail ? Essentiellement par du
+      temps. Et comment mesure-t-on la qualité du travail ? Et bien par un indicateur
+      qui est la productivité du travail. La productivité du travail, pour la mesurer,
+      on va prendre la valeur ajoutée créée et on va diviser ça par le travail. Alors
+      le travail, on va le comptabiliser soit en nombre d’employés, mais en réalité
+      c’est beaucoup plus intéressant de le comptabiliser en heures de travail. Donc
+      la productivité du travail, c’est la richesse créée par heure de travail.
+  - chunk_index: 95
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 168
+    text: |-
+      Ce qu’il faut bien comprendre, c’est que la productivité du travail n’est pas
+      toujours identique. D’ailleurs, ce qui permet la croissance économique d’une
+      société, c’est l’amélioration de la productivité du travail. Plus une société
+      est riche, plus l’heure de travail est efficace et produit beaucoup de richesse.
+      Aujourd’hui, si la France est plus riche qu’il y a 100 ans, c’est parce qu’en
+      moyenne les travailleurs, l’heure de travail, produit beaucoup plus de richesse
+      qu’auparavant. Pourquoi l’heure de travail aujourd’hui est-elle plus efficace
+      qu’il y a 100 ans ? Pour plein de raisons.
+  - chunk_index: 96
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 271
+    text: |-
+      Premièrement, parce que nous sommes plus compétents. La productivité du travail
+      dépend effectivement du capital humain. Souvenez-vous du texte de Smith, TD 3 :
+      si vous ne l’avez pas lu, vous pourrez le lire, ça en parle. Les individus sont
+      mieux formés, ils maîtrisent un peu mieux certains concepts, ils savent un peu
+      mieux ce qu’ils font. Par exemple, on soigne mieux les gens aujourd’hui parce
+      que les médecins sont beaucoup mieux formés aujourd’hui, ils ont bien plus de
+      connaissances aujourd’hui qu’il y a 100 ans, parce qu’il y a plein de
+      découvertes scientifiques entre-temps, pas parce qu’ils sont plus bêtes. Même
+      chose en économie : on peut penser que dans la gestion d’entreprise on a
+      quelques compétences supplémentaires, dans la vente on sait un peu mieux vendre.
+      Donc il y a plein de choses qui font qu’aujourd’hui on peut être plus efficace
+      parce qu’on a davantage de compétences, de connaissances, et que les individus
+      sont mieux formés et plus qualifiés.
+  - chunk_index: 97
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 452
+    text: |-
+      Évidemment, ça ne suffit pas. La grande chose qui va déterminer la productivité
+      du travail, c’est aussi beaucoup les outils qu’on a à disposition. Est-ce que
+      les individus creusent des trous avec des petites cuillères, avec des pelles,
+      avec des tractopelles ? On voit bien que la capacité à produire du trou — on va
+      dire — de la part d’un individu va dépendre de ce qu’on lui donne pour creuser
+      son trou. Donc la dotation en capital va déterminer la productivité du travail.
+      Par exemple, il y a 100 ans, vous vouliez transporter des marchandises de
+      Marseille à Paris, en 1920 : vous comprenez bien que c’était beaucoup plus
+      compliqué qu’aujourd’hui. Pourquoi ? Parce que les camions étaient beaucoup
+      moins performants, les routes étaient sans doute beaucoup moins bien faites, il
+      y avait plein de routes qui manquaient. Donc on voit bien ici que sans doute —
+      je n’ai pas de chiffres — un transporteur qui faisait Paris-Marseille il y a 100
+      ans mettait deux jours, peut-être trois jours, donc il était beaucoup moins
+      performant qu’un travailleur d’aujourd’hui qui prend l’autoroute tout le long,
+      un camion d’aujourd’hui qui prend l’autoroute tout le long de Paris à Marseille
+      et qui peut faire le trajet en une demi-journée ou en une journée. Donc
+      concrètement, la productivité du conducteur de camion, du camionneur, va être
+      bien plus élevée : elle peut être multipliée par trois ou quatre aujourd’hui par
+      rapport à il y a 100 ans, pas parce que le camionneur a plus de compétences,
+      mais parce que simplement les infrastructures routières et le camion lui-même
+      sont bien plus performants aujourd’hui. Donc ça explique la productivité du
+      travail.
+  - chunk_index: 98
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 259
+    text: |-
+      Et puis enfin, la productivité du travail, ça, vous allez l’apprendre notamment
+      dans les cours de gestion, elle dépend de l’efficacité de l’organisation du
+      travail. Vous l’avez appris en cours de gestion, puis vous l’avez vu aussi dans
+      le chapitre 1 de Smith, dans le TD 2 qu’on a vu : c’est la division du travail.
+      Si on veut être plus efficace au travail, non seulement il faut avoir des gens
+      compétents bien sûr, non seulement il faut avoir des outils performants donc du
+      capital, mais aussi il faut être capable d’organiser le travail correctement.
+      Smith nous disait : si on veut organiser le travail correctement, qu’est-ce
+      qu’il faut ? Il faut diviser le travail. Ça, ce n’est qu’une seule méthode, mais
+      il y a plein de méthodes de management qui doivent permettre de rendre les
+      travailleurs plus performants, ou pas d’ailleurs, parce qu’il existe bien sûr
+      des mauvais managers qui entraînent une production, une capacité de productivité
+      du travail qui peut être plus faible.
+  - chunk_index: 99
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 523
+    text: |-
+      Et je terminerai le cours là-dessus : le capital humain. Ce n’est pas du capital
+      au sens où on l’entend, nous, en économie. Je me permets de dire cela parce que
+      c’est une notion qui est inventée — alors qui est inventée par Adam Smith dès le
+      départ, mais qui a été popularisée ensuite par Gary Becker — qui donne
+      l’impression qu’on peut mettre dans l’être humain des objets, des choses, pour
+      le rendre plus performant. En fait, ce dont il parle quand il parle de capital
+      humain, ce n’est pas de capital au sens strict, c’est de formation, c’est
+      d’investissement réalisé dans la performance et dans les compétences des
+      individus. Ça peut être aussi des investissements liés à la santé, parce que là
+      aussi si les gens vivent plus longtemps et sont en meilleure santé, ils sont
+      plus productifs. L’idée du capital humain, c’est l’idée d’avoir un
+      investissement dans l’être humain, dans l’individu, pour le rendre plus
+      productif. Donc c’est là qu’on a un aspect capital : il y a deux aspects qui
+      relèvent du capital. Le premier aspect, c’est que ça coûte de l’argent, donc
+      c’est coûteux d’éduquer une personne. Le deuxième aspect, c’est que ça produit
+      de la richesse, ça améliore la productivité du travail. Mais nous, on ne va pas
+      considérer le capital humain comme du capital parce que ce n’est pas quelque
+      chose qui se vend et qui s’achète. Enfin, une fois qu’il est produit,
+      concrètement vous avez la connaissance, elle est intégrée dans votre corps, vous
+      ne pouvez pas la sortir et puis la revendre à quelqu’un d’autre. Alors que le
+      principe du capital, c’est qu’il y a une possibilité d’approprier ce capital :
+      une fois qu’il a été construit, on peut le changer de main. Celui-là, on ne
+      pourra jamais le changer de main puisqu’il est intégré dans la personne
+      elle-même, et que l’esclavage est interdit. On ne peut pas acheter les gens ni
+      leur capital.
+  - chunk_index: 100
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 318
+    text: |-
+      Voilà. Je pense que voilà. Excusez-moi, dernier élément : tout à l’heure je
+      parlais du profit qui rémunère le capital. Voilà, c’est ça. La rémunération du
+      travail, évidemment, c’est le salaire, qu’on va noter ici W, comme *wage*. Là
+      aussi c’est international : en anglais, en allemand, on met W, de même façon
+      qu’en K, K c’est international. Alors le profit, moi je le note pi. Je ne l’ai
+      pas dit tout à l’heure, mais normalement je crois que là aussi… Alors il y a
+      différentes formes : on peut mettre le *return on investment*, mais très
+      souvent, parce que le problème de R c’est que ça peut vouloir dire plusieurs
+      choses, moi j’aime bien mettre pi comme profit. Ça aussi on est plusieurs à le
+      faire, je ne suis pas le seul. Donc voilà. Le salaire, c’est la rémunération du
+      travail. En général ça dépend des heures de travail qu’on a faites, bien sûr, et
+      les salaires — on va le voir — ne sont pas tous identiques, bien sûr, ils vont
+      dépendre là aussi de la productivité du travail, de la performance de
+      l’entreprise et de plein d’autres choses.
+  - chunk_index: 101
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 77
+    text: |-
+      Donc nous allons voir à partir de demain comment globalement la production se
+      fait dans l’entreprise, et qu’est-ce qui détermine à la fois l’emploi,
+      c’est-à-dire le niveau d’emploi de l’entreprise, et l’investissement, le niveau
+      de capital. Et puis on va terminer ce chapitre.
+  - chunk_index: 102
+    heading_path: 'Séance 19 du mercredi 2 décembre > Chapitre 8 : production et répartition des richesses'
+    content_token_count: 118
+    text: |-
+      Écoutez, il est 12 h 55, je vous propose d’arrêter là. Vous êtes 176 à écouter
+      ce cours, ce qui n’est quand même pas beaucoup sur les 400 étudiants que vous
+      êtes censés être. Donc voilà, j’espère que ça se passera bien, vos révisions à
+      tous, et à demain pour la suite de ce chapitre, et puis à la semaine prochaine
+      pour le dernier cours. Voilà, à bientôt.

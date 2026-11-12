@@ -1,0 +1,1 @@
+{"format":"float32le","format_version":1,"provider":"voyage","model":"voyage-4","dimension":1024,"chunk_count":0,"source_file_hash":"sha256:004d2660ad97ec6c7adb8b29f5dd216317b685a30d88800a0e2f25e59d52c1f6","input_format":"heading_path_text_v1","input_type":"document","strategy":"standard","cost":null}

@@ -1,0 +1,142 @@
+manifest:
+  type: manifest
+  schema_version: 1
+  source_file: single-document-texts/science-4-all/2017-07-24_partager-un-gateau-c-est-pas-du-gateau-democratie-22.fr.md
+  source_file_hash: sha256:d1cce871fc0b55686b60db7c077684f6434406c8170bb3e63ffe83c13c03fad3
+  tokenizer: cl100k_base
+  max_chunk_tokens: 1000
+  splitter: sentences
+  chunk_count: 14
+  embedding_provider: voyage
+  embedding_model: voyage-4
+  dimension: 1024
+  embedding_file: 2017-07-24_partager-un-gateau-c-est-pas-du-gateau-democratie-22.fr.md.embeddings.bin
+  embedding_format: float32le
+  embedding_input_format: heading_path_text_v1
+  embedding_input_type: document
+  embedding_strategy: standard
+chunks:
+  - chunk_index: 0
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22
+    content_token_count: 75
+    text: |-
+      Le jour de sa thèse, la collègue du narrateur lui a préparé un magnifique gâteau
+      illustrant son travail. Ce gâteau peu usuel était un tiers chocolat, un tiers
+      vanille et un tiers Red Velvet. Cette composition complique le partage, car les
+      préférences varient.
+  - chunk_index: 1
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22
+    content_token_count: 74
+    text: |-
+      Comment partager un gâteau pour que chacun soit content de sa part ? On pourrait
+      penser au paradoxe de Banach-Tarski, qui permet de découper un gâteau en parts
+      non mesurables pour en obtenir le double. Cependant, cette méthode est non
+      constructive et irréalisable en pratique.
+  - chunk_index: 2
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Le principe « Je coupe, tu choisis »
+    content_token_count: 116
+    text: |-
+      Dans le cas de deux invités, une méthode bien connue existe : « Je coupe, tu
+      choisis ». Cette méthode n'est pas procéduralement égalitaire, car le coupeur et
+      le sélectionneur n'ont pas les mêmes rôles et ne sont donc pas à égalité devant
+      la loi. Cependant, à condition que le découpeur sépare deux parts qui, selon
+      lui, ont la même valeur, le partage obtenu sera proportionnellement juste et
+      sans jalousie.
+  - chunk_index: 3
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Le principe « Je coupe, tu choisis »
+    content_token_count: 132
+    text: |-
+      En effet, le découpeur recevra une part qu'il estime valoir au moins la moitié
+      du gâteau. Le sélectionneur, quant à lui, peut choisir entre ces deux parts et
+      en choisira une qu'il valorisera au moins à la moitié du gâteau. Chacun a donc
+      au moins la moitié du gâteau pour lui. Le partage est sans jalousie car le
+      découpeur est indifférent entre les deux parts, tandis que le sélectionneur a
+      choisi la part qu'il préférait.
+  - chunk_index: 4
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Au-delà de deux invités
+    content_token_count: 107
+    text: |-
+      Le problème du partage pour plus de deux personnes a longtemps été une question
+      ouverte. En 2016, les informaticiens Aziz et MacKenzie ont trouvé une procédure
+      garantissant un partage sans jalousie pour n invités. Mais cette méthode est
+      d'une complexité extrême, nécessitant un nombre d'étapes colossal, bien
+      supérieur au nombre d'atomes dans le gâteau, la rendant donc complètement
+      impraticable.
+  - chunk_index: 5
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Méthodes pratiques pour n invités
+    content_token_count: 99
+    text: |-
+      **La méthode du couteau qui bouge** : Un couteau se déplace lentement au-dessus
+      du gâteau. Dès qu'un invité dit « stop », il récupère la part située à gauche du
+      couteau. On continue ainsi. Le dernier invité récupère tout le reste. Si les
+      individus sont honnêtes, le partage est proportionnellement juste, mais pas
+      forcément sans jalousie.
+  - chunk_index: 6
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Méthodes pratiques pour n invités
+    content_token_count: 105
+    text: |-
+      **La méthode du dernier réducteur** : Chacun indique où il serait prêt à couper
+      pour prendre la part de gauche. Un invité peut placer un couteau pour indiquer
+      qu'il est prêt à réduire cette part, devenant alors le dernier réducteur. Quand
+      plus personne ne veut réduire la part, le dernier réducteur la prend. La
+      procédure se répète pour le restant du gâteau.
+  - chunk_index: 7
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Méthodes pratiques pour n invités
+    content_token_count: 127
+    text: |-
+      **La méthode des marqueurs** : Chaque invité place n-1 marqueurs sur le gâteau,
+      divisant ce dernier en n parts qu'il estime équivalentes. On prend le marqueur
+      le plus à gauche, on coupe la part correspondante et on la donne à son
+      propriétaire. On retire les marqueurs de cet invité et le marqueur de numéro 1,
+      puis on recommence avec le marqueur le plus à gauche restant. Cette méthode
+      garantit un partage proportionnellement juste, mais pas nécessairement sans
+      jalousie.
+  - chunk_index: 8
+    heading_path: 'Partager un gâteau, c''est pas du gâteau ! Démocratie 22 > Introduction de l''argent : la méthode des enchères cachées avec redistribution du surplus'
+    content_token_count: 96
+    text: |-
+      Cette méthode suppose des parts insécables. Chaque invité écrit en secret ce
+      qu'il est prêt à payer pour chaque part. Les enveloppes sont ouvertes, et chaque
+      bien est attribué à la personne qui lui attribue la plus haute valeur. Les
+      participants qui reçoivent plus que leur part proportionnelle juste doivent
+      payer la différence. L'argent collecté est ensuite redistribué égalitairement à
+      tous.
+  - chunk_index: 9
+    heading_path: 'Partager un gâteau, c''est pas du gâteau ! Démocratie 22 > Introduction de l''argent : la méthode des enchères cachées avec redistribution du surplus'
+    content_token_count: 80
+    text: |-
+      Cette procédure aboutit à un partage socialement optimal, où chaque bien va à la
+      personne qui le valorise le plus, et garantit un partage strictement
+      proportionnellement juste. Cependant, elle n'est pas « incentive compatible »,
+      car les participants ont intérêt à deviner ce que les autres sont prêts à payer.
+  - chunk_index: 10
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Réflexions sur la justice et l'équité
+    content_token_count: 103
+    text: |-
+      Les commentateurs ont débattu de la justice de divers partages. Les
+      mathématiques permettent de formaliser des concepts comme le « sans jalousie »
+      ou l'optimalité de Pareto (un partage est Pareto optimal si on ne peut pas
+      améliorer la condition de quelqu'un sans détériorer celle d'un autre). Un
+      partage peut être sans jalousie et Pareto optimal, ce qui le rend souhaitable.
+  - chunk_index: 11
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Réflexions sur la justice et l'équité
+    content_token_count: 111
+    text: |-
+      La procédure du partage peut aussi être analysée en termes d'égalité procédurale
+      (égalité devant la loi avant un événement aléatoire). Le « je coupe, tu choisis
+      » peut devenir procéduralement égalitaire si un tirage au sort détermine les
+      rôles. Cependant, une égalité procédurale n'est pas toujours souhaitable, comme
+      le montre l'exemple des places prioritaires dans les bus.
+  - chunk_index: 12
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Réflexions sur la justice et l'équité
+    content_token_count: 53
+    text: |-
+      Finalement, l'article 1 de la Déclaration des droits de l'homme et du citoyen et
+      le principe d'égalitarisme procédural ne sont peut-être pas aussi simples ou
+      justes qu'on le croit.
+  - chunk_index: 13
+    heading_path: Partager un gâteau, c'est pas du gâteau ! Démocratie 22 > Réflexions sur la justice et l'équité
+    content_token_count: 37
+    text: |-
+      La prochaine vidéo portera sur la méritocratie et la redistribution juste des
+      biens produits, en évoquant notamment le « dilemme du dictateur ».
