@@ -1,12 +1,13 @@
 #!/usr/bin/env node
 import { createHash } from "node:crypto";
-import { readdir, readFile, stat } from "node:fs/promises";
-import { basename, join, relative, resolve, sep } from "node:path";
+import { stat } from "node:fs/promises";
+import { join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import * as yaml from "js-yaml";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
+import { discoverBooks, loadBook } from "#lib/server/book-loader.js";
 import { buildBookTree } from "#lib/server/book-tree.js";
+import { buildChunkSyncPayload, hasEmbeddingSidecar, readEmbeddingSidecar } from "#lib/server/embedding-import.js";
 import { logger } from "./lib/server/logger.js";
 
 const PROJECT_ROOT = fileURLToPath(new URL("..", import.meta.url));
@@ -35,6 +36,16 @@ const argv = yargs(hideBin(process.argv))
         type: "boolean",
         default: false,
         description: "Delete book nodes whose slug is no longer in the imported tree",
+    })
+    .option("skip-embeddings", {
+        type: "boolean",
+        default: false,
+        description: "Import book nodes only, without their chunk embeddings",
+    })
+    .option("require-embeddings", {
+        type: "boolean",
+        default: false,
+        description: "Fail when a book section has no embedding sidecar",
     })
     .parse();
 
@@ -66,6 +77,11 @@ if (!ADMIN_TOKEN || ADMIN_TOKEN.length < 32) {
     process.exit(1);
 }
 
+if (argv.skipEmbeddings && argv.requireEmbeddings) {
+    logger.error("--skip-embeddings and --require-embeddings are mutually exclusive");
+    process.exit(1);
+}
+
 const books = await discoverBooks(importTarget);
 
 logger.info({ path: argv.path, books: books.length }, "Discovered books");
@@ -77,11 +93,15 @@ const counts = {
     updated: 0,
     unchanged: 0,
     deleted: 0,
+    embeddingsImported: 0,
+    embeddingsUnchanged: 0,
+    embeddingsMissing: 0,
+    chunks: 0,
 };
 
 try {
     for (const bookDir of books) {
-        const { config, nodes, result } = await importBook(bookDir);
+        const { config, nodes, result, embeddings } = await importBook(bookDir);
 
         counts.books += 1;
         counts.nodes += nodes.length;
@@ -89,6 +109,10 @@ try {
         counts.updated += result.updated;
         counts.unchanged += result.unchanged;
         counts.deleted += result.deleted;
+        counts.embeddingsImported += embeddings.imported;
+        counts.embeddingsUnchanged += embeddings.unchanged;
+        counts.embeddingsMissing += embeddings.missing;
+        counts.chunks += embeddings.chunks;
 
         logger.info(
             {
@@ -100,6 +124,10 @@ try {
                 unchanged: result.unchanged,
                 deleted: result.deleted,
                 deleted_slugs: result.deleted_slugs,
+                embeddings_imported: embeddings.imported,
+                embeddings_unchanged: embeddings.unchanged,
+                embeddings_missing: embeddings.missing,
+                chunks: embeddings.chunks,
             },
             "Imported book",
         );
@@ -132,37 +160,14 @@ logger.info(
         updated: counts.updated,
         unchanged: counts.unchanged,
         deleted: counts.deleted,
+        embeddings_imported: counts.embeddingsImported,
+        embeddings_unchanged: counts.embeddingsUnchanged,
+        embeddings_missing: counts.embeddingsMissing,
+        chunks: counts.chunks,
         reindexed: reindex !== null,
     },
     "Book import done",
 );
-
-async function discoverBooks(target) {
-    if (await pathExists(join(target, "toc.yaml"))) {
-        return [target];
-    }
-
-    const entries = await readdir(target, { withFileTypes: true });
-    const discovered = [];
-
-    for (const entry of entries) {
-        if (!entry.isDirectory()) {
-            continue;
-        }
-
-        const bookDir = join(target, entry.name);
-
-        if (await pathExists(join(bookDir, "toc.yaml"))) {
-            discovered.push(bookDir);
-        }
-    }
-
-    if (discovered.length === 0) {
-        throw new Error(`No book with a toc.yaml found under ${relative(PROJECT_ROOT, target)}`);
-    }
-
-    return discovered.sort();
-}
 
 async function importBook(bookDir) {
     const { config, toc, filesByPath, bookDirName } = await loadBook(bookDir);
@@ -187,41 +192,60 @@ async function importBook(bookDir) {
     }
 
     const result = await sendSyncRequest("/api/v1/admin/hierarchical-content-nodes/sync", payload);
+    const embeddings = await importBookEmbeddings({ nodes, bookDir, bookDirName });
 
-    return { config, nodes, result };
+    return { config, nodes, result, embeddings };
 }
 
-async function loadBook(bookDir) {
-    const configPath = join(bookDir, "config.yaml");
-    const tocPath = join(bookDir, "toc.yaml");
+async function importBookEmbeddings({ nodes, bookDir, bookDirName }) {
+    const counts = { imported: 0, unchanged: 0, missing: 0, chunks: 0 };
 
-    const config = (await pathExists(configPath)) ? (yaml.load(await readFile(configPath, "utf8")) ?? {}) : {};
-    const toc = yaml.load(await readFile(tocPath, "utf8"));
-
-    if (!toc || typeof toc !== "object" || Array.isArray(toc)) {
-        throw new Error(`Invalid toc.yaml: ${relative(PROJECT_ROOT, tocPath)}`);
+    if (argv.skipEmbeddings) {
+        return counts;
     }
 
-    const markdownDir = join(bookDir, "markdown");
-    const fileNames = (await readdir(markdownDir, { recursive: true }))
-        .filter((fileName) => fileName.endsWith(".md"))
-        .sort();
-    const filesByPath = new Map();
+    for (const node of nodes.filter((node) => node.file)) {
+        const sourceFile = `books/${bookDirName}/markdown/${node.file.relativePath}`;
+        const absolutePath = join(bookDir, "markdown", node.file.relativePath);
 
-    for (const fileName of fileNames) {
-        const absolutePath = join(markdownDir, fileName);
-        const raw = await readFile(absolutePath);
-        const { frontmatter, body } = parseMarkdown(raw.toString("utf8"));
-        const relativePath = fileName.split(sep).join("/");
-        const tocPathKey =
-            typeof frontmatter.path === "string" && frontmatter.path.trim()
-                ? frontmatter.path.trim()
-                : relativePath.replace(/\.md$/, "");
+        if (!(await hasEmbeddingSidecar(absolutePath))) {
+            if (argv.requireEmbeddings) {
+                throw new Error(
+                    `Embeddings sidecar is missing for ${sourceFile}; run generate-sidecars and generate-embeddings first`,
+                );
+            }
 
-        filesByPath.set(tocPathKey, { relativePath, raw, frontmatter, body });
+            counts.missing += 1;
+            logger.warn({ file: sourceFile }, "Embeddings sidecar missing");
+            continue;
+        }
+
+        const sourceFileHash = `sha256:${createHash("sha256").update(node.file.raw).digest("hex")}`;
+        const { manifest, chunks, embeddings } = await readEmbeddingSidecar(absolutePath, sourceFile, sourceFileHash);
+
+        if (argv.dryRun) {
+            counts.imported += 1;
+            counts.chunks += chunks.length;
+            logger.info({ file: sourceFile, chunks: chunks.length }, "Book chunks would be imported");
+            continue;
+        }
+
+        const result = await sendSyncRequest(
+            "/api/v1/admin/hierarchical-content-chunks/sync",
+            buildChunkSyncPayload({ manifest, chunks, embeddings, dryRun: false }),
+        );
+
+        if (result.unchanged) {
+            counts.unchanged += 1;
+        } else {
+            counts.imported += 1;
+            counts.chunks += result.inserted;
+        }
+
+        logger.info({ file: sourceFile, chunks: chunks.length, unchanged: result.unchanged }, "Imported book chunks");
     }
 
-    return { config, toc, filesByPath, bookDirName: basename(bookDir) };
+    return counts;
 }
 
 function toApiDocument({ node, config, bookDirName }) {
@@ -245,15 +269,6 @@ function toApiDocument({ node, config, bookDirName }) {
         markdown_source_file_estimate_token_count: file ? Math.ceil(file.body.length / 4) : 0,
         metadata: node.metadata,
     };
-}
-
-async function pathExists(path) {
-    try {
-        await stat(path);
-        return true;
-    } catch {
-        return false;
-    }
 }
 
 async function sendSyncRequest(path, payload) {
@@ -287,19 +302,6 @@ async function reindexIndex() {
     }
 
     return result.data;
-}
-
-function parseMarkdown(text) {
-    const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
-
-    if (!match) {
-        return { frontmatter: {}, body: text };
-    }
-
-    const parsed = yaml.load(match[1]);
-    const frontmatter = parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
-
-    return { frontmatter, body: text.slice(match[0].length) };
 }
 
 function normalizeAuthors(value) {

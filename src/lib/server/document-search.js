@@ -41,20 +41,44 @@ export async function searchDocuments({ q, authorWords, titleWords, semantic, re
             SELECT n.nanoid, n.title, n.authors, n.original_published_date, n.source_url,
                    n.source_kind,
                    CASE WHEN n.markdown_source_file IS NULL THEN 'book' ELSE 'document' END AS kind,
-                   COALESCE(chunks.total, 0) AS chunk_count,
-                   COALESCE(chunks.ready, 0) AS ready_chunk_count,
-                   COALESCE(chunks.embedded, 0) AS embedded_chunk_count
+                   COALESCE(chunks.chapter_count, 0) AS chapter_count,
+                   COALESCE(chunks.ready_chapter_count, 0) AS ready_chapter_count,
+                   COALESCE(chunks.chunk_count, 0) AS chunk_count,
+                   COALESCE(chunks.ready_chunk_count, 0) AS ready_chunk_count,
+                   COALESCE(chunks.embedded_chunk_count, 0) AS embedded_chunk_count
               FROM hierarchical_content_nodes n
               LEFT JOIN LATERAL (
-                  SELECT count(*)::int AS total,
+                  WITH RECURSIVE subtree AS (
+                      SELECT id, markdown_source_file
+                        FROM hierarchical_content_nodes
+                       WHERE id = n.id
+                      UNION ALL
+                      SELECT child.id, child.markdown_source_file
+                        FROM hierarchical_content_nodes child
+                        JOIN subtree ON child.parent_id = subtree.id
+                  ),
+                  chapter_stats AS (
+                      SELECT subtree.id,
+                             count(c.id)::int AS chunk_count,
+                             count(c.id) FILTER (
+                                 WHERE c.embedding IS NOT NULL
+                                   AND c.embedding_model = ${embeddingModel}
+                                   AND c.embedding_strategy = 'standard'
+                             )::int AS ready_chunk_count,
+                             count(c.id) FILTER (WHERE c.embedding IS NOT NULL)::int AS embedded_chunk_count
+                        FROM subtree
+                        LEFT JOIN content_chunks c ON c.content_node_id = subtree.id
+                       WHERE subtree.markdown_source_file IS NOT NULL
+                       GROUP BY subtree.id
+                  )
+                  SELECT count(*)::int AS chapter_count,
                          count(*) FILTER (
-                             WHERE c.embedding IS NOT NULL
-                               AND c.embedding_model = ${embeddingModel}
-                               AND c.embedding_strategy = 'standard'
-                         )::int AS ready,
-                         count(*) FILTER (WHERE c.embedding IS NOT NULL)::int AS embedded
-                    FROM content_chunks c
-                   WHERE c.content_node_id = n.id
+                             WHERE chunk_count > 0 AND ready_chunk_count = chunk_count
+                         )::int AS ready_chapter_count,
+                         COALESCE(sum(chunk_count), 0)::int AS chunk_count,
+                         COALESCE(sum(ready_chunk_count), 0)::int AS ready_chunk_count,
+                         COALESCE(sum(embedded_chunk_count), 0)::int AS embedded_chunk_count
+                    FROM chapter_stats
               ) chunks ON true
               ${whereClause([sql`n.parent_id IS NULL`, ...filterConditions])}
              ORDER BY n.original_published_date DESC NULLS LAST, n.id DESC
@@ -421,14 +445,23 @@ async function attachSnippets(documents, q) {
 // indicator means "the semantic search can use this document" and not merely
 // "a vector exists".
 function vectorizationState(row) {
+    const chapters = row.chapter_count;
+    const readyChapters = row.ready_chapter_count;
     const chunks = row.chunk_count;
     const ready = row.ready_chunk_count;
 
-    if (chunks === 0) {
+    // A single document with no chunks keeps the old "—" state. A book with
+    // chapters but no chunks is reported as pending, so a missing sidecar is
+    // visible instead of being hidden by an empty denominator.
+    if (row.kind === "document" && chunks === 0) {
         return "none";
     }
 
-    if (ready === chunks) {
+    if (chapters === 0) {
+        return "none";
+    }
+
+    if (readyChapters === chapters && ready === chunks) {
         return "ready";
     }
 
@@ -440,7 +473,16 @@ function vectorizationState(row) {
 }
 
 function attachVectorization(documents) {
-    return documents.map((document) => ({ ...document, vectorization: vectorizationState(document) }));
+    return documents.map((document) => ({
+        ...document,
+        vectorization: vectorizationState(document),
+        vectorizationStats: {
+            chapterCount: document.chapter_count,
+            readyChapterCount: document.ready_chapter_count,
+            chunkCount: document.chunk_count,
+            readyChunkCount: document.ready_chunk_count,
+        },
+    }));
 }
 
 function pageWindow(total, requestedPage, pageSize = PAGE_SIZE) {

@@ -7,11 +7,14 @@ import { countTokens } from "gpt-tokenizer/encoding/cl100k_base";
 import * as yaml from "js-yaml";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
+import { discoverBooks, loadBook, pathExists } from "#lib/server/book-loader.js";
+import { buildBookTree } from "#lib/server/book-tree.js";
 import { logger } from "./lib/server/logger.js";
 
 const PROJECT_ROOT = fileURLToPath(new URL("..", import.meta.url));
 const CONTENTS_ROOT = join(PROJECT_ROOT, "contents");
-const ALLOWED_ROOT = join(CONTENTS_ROOT, "single-document-texts");
+const SINGLE_DOCUMENTS_ROOT = join(CONTENTS_ROOT, "single-document-texts");
+const BOOKS_ROOT = join(CONTENTS_ROOT, "books");
 const DEFAULT_PATH = "contents/single-document-texts";
 const SCHEMA_VERSION = 1;
 const TOKENIZER = "cl100k_base";
@@ -23,7 +26,7 @@ const argv = yargs(hideBin(process.argv))
     .option("path", {
         type: "string",
         default: DEFAULT_PATH,
-        description: "Markdown file or directory under contents/single-document-texts",
+        description: "Markdown file or directory under contents/single-document-texts or contents/books",
     })
     .option("dry-run", {
         type: "boolean",
@@ -38,12 +41,11 @@ const argv = yargs(hideBin(process.argv))
     .parse();
 
 const importTarget = resolve(PROJECT_ROOT, argv.path);
-const relativeToAllowed = relative(ALLOWED_ROOT, importTarget);
-const outsideAllowedRoot =
-    relativeToAllowed === ".." || relativeToAllowed.startsWith(`..${sep}`) || isAbsolute(relativeToAllowed);
+const inBooks = isInside(BOOKS_ROOT, importTarget);
+const inSingleDocuments = isInside(SINGLE_DOCUMENTS_ROOT, importTarget);
 
-if (outsideAllowedRoot) {
-    logger.error({ path: argv.path }, "Path must be inside contents/single-document-texts");
+if (!inBooks && !inSingleDocuments) {
+    logger.error({ path: argv.path }, "Path must be inside contents/single-document-texts or contents/books");
     process.exit(1);
 }
 
@@ -68,70 +70,14 @@ if (!isDirectory && (!importTarget.endsWith(".md") || importTarget.endsWith(".di
     process.exit(1);
 }
 
-const directoryRoot = isDirectory ? importTarget : dirname(importTarget);
-const fileNames = isDirectory
-    ? (await readdir(directoryRoot, { recursive: true }))
-          .filter((fileName) => fileName.endsWith(".md") && !fileName.endsWith(".dialogue.md"))
-          .sort()
-    : [basename(importTarget)];
-
-if (fileNames.length === 0) {
-    logger.error({ path: argv.path }, "No Markdown files found");
-    process.exit(1);
-}
-
-logger.info(
-    { path: argv.path, kind: isDirectory ? "directory" : "file", files: fileNames.length },
-    "Found Markdown files",
-);
-
+const collection = inBooks ? "book" : "single-document";
 const counts = { written: 0, skipped: 0, chunks: 0 };
 
 try {
-    for (const fileName of fileNames) {
-        const absolutePath = join(directoryRoot, fileName);
-        const relativeToContents = relative(CONTENTS_ROOT, absolutePath).split(sep).join("/");
-        const sidecarPath = `${absolutePath}.yaml`;
-        const raw = await readFile(absolutePath);
-        const manifest = {
-            type: "manifest",
-            schema_version: SCHEMA_VERSION,
-            source_file: relativeToContents,
-            source_file_hash: `sha256:${createHash("sha256").update(raw).digest("hex")}`,
-            tokenizer: TOKENIZER,
-            max_chunk_tokens: MAX_CHUNK_TOKENS,
-            splitter: SPLITTER,
-        };
-        const existing = argv.force ? null : await readSidecar(sidecarPath);
-
-        if (isUnchangedManifest(manifest, existing)) {
-            counts.skipped += 1;
-            logger.info({ file: relativeToContents, chunks: existing.manifest.chunk_count }, "Sidecar unchanged");
-            continue;
-        }
-
-        const { frontmatter, body } = parseMarkdown(raw.toString("utf8"));
-        const title = titleOf(frontmatter, body, basename(absolutePath, ".md"));
-        const chunks = chunkMarkdown(body, title);
-        manifest.chunk_count = chunks.length;
-
-        if (argv.dryRun) {
-            counts.written += 1;
-            counts.chunks += chunks.length;
-            logger.info(
-                { file: relativeToContents, chunks: chunks.length, forced: argv.force },
-                "Sidecar would be written",
-            );
-            continue;
-        }
-
-        await writeSidecar(sidecarPath, manifest, chunks);
-        counts.written += 1;
-        counts.chunks += chunks.length;
-        logger.info(
-            { file: relativeToContents, sidecar: `${relativeToContents}.yaml`, chunks: chunks.length },
-            "Sidecar generated",
-        );
+    if (inBooks) {
+        await generateBookSidecars();
+    } else {
+        await generateSingleDocumentSidecars();
     }
 } catch (error) {
     logger.error({ err: error }, "Sidecar generation failed");
@@ -142,7 +88,8 @@ logger.info(
     {
         path: argv.path,
         kind: isDirectory ? "directory" : "file",
-        files: fileNames.length,
+        collection,
+        files: counts.written + counts.skipped,
         written: counts.written,
         skipped: counts.skipped,
         chunks: counts.chunks,
@@ -151,6 +98,201 @@ logger.info(
     },
     "Sidecar generation done",
 );
+
+async function generateSingleDocumentSidecars() {
+    const directoryRoot = isDirectory ? importTarget : dirname(importTarget);
+    const fileNames = isDirectory
+        ? (await readdir(directoryRoot, { recursive: true }))
+              .filter((fileName) => fileName.endsWith(".md") && !fileName.endsWith(".dialogue.md"))
+              .sort()
+        : [basename(importTarget)];
+
+    if (fileNames.length === 0) {
+        logger.error({ path: argv.path }, "No Markdown files found");
+        process.exit(1);
+    }
+
+    logger.info(
+        { path: argv.path, kind: isDirectory ? "directory" : "file", collection, files: fileNames.length },
+        "Found Markdown files",
+    );
+
+    for (const fileName of fileNames) {
+        const absolutePath = join(directoryRoot, fileName);
+        const sourceFile = relative(CONTENTS_ROOT, absolutePath).split(sep).join("/");
+        const raw = await readFile(absolutePath);
+        const { frontmatter, body } = parseMarkdown(raw.toString("utf8"));
+        const rootTitle = titleOf(frontmatter, body, basename(absolutePath, ".md"));
+
+        await generateSidecar({ absolutePath, sourceFile, rootTitle, raw, body });
+    }
+}
+
+async function generateBookSidecars() {
+    const bookDirs = await resolveBookDirs();
+    let processedFiles = 0;
+
+    for (const bookDir of bookDirs) {
+        const { config, toc, filesByPath, bookDirName } = await loadBook(bookDir);
+        const nodes = buildBookTree({ toc, config, filesByPath });
+        const fileNodes = nodes.filter((node) => node.file);
+        const targetedNodes = fileNodes.filter((node) => isTargeted(join(bookDir, "markdown", node.file.relativePath)));
+
+        warnAboutOrphanFiles({ bookDirName, config, filesByPath, fileNodes });
+
+        if (targetedNodes.length === 0) {
+            logger.warn({ book: relative(PROJECT_ROOT, bookDir) }, "No Markdown files to process in this book");
+            continue;
+        }
+
+        logger.info(
+            {
+                book: relative(PROJECT_ROOT, bookDir),
+                files: targetedNodes.length,
+            },
+            "Found book Markdown files",
+        );
+
+        for (const node of targetedNodes) {
+            const absolutePath = join(bookDir, "markdown", node.file.relativePath);
+            const sourceFile = `books/${bookDirName}/markdown/${node.file.relativePath}`;
+            const rootTitle = node.metadata.breadcrumb.join(" > ");
+
+            await generateSidecar({
+                absolutePath,
+                sourceFile,
+                rootTitle,
+                raw: node.file.raw,
+                body: node.file.body,
+            });
+            processedFiles += 1;
+        }
+    }
+
+    if (processedFiles === 0) {
+        logger.error({ path: argv.path }, "No Markdown files found");
+        process.exit(1);
+    }
+}
+
+async function generateSidecar({ absolutePath, sourceFile, rootTitle, raw, body }) {
+    const sidecarPath = `${absolutePath}.yaml`;
+    const manifest = {
+        type: "manifest",
+        schema_version: SCHEMA_VERSION,
+        source_file: sourceFile,
+        source_file_hash: `sha256:${createHash("sha256").update(raw).digest("hex")}`,
+        tokenizer: TOKENIZER,
+        max_chunk_tokens: MAX_CHUNK_TOKENS,
+        splitter: SPLITTER,
+    };
+    const existing = argv.force ? null : await readSidecar(sidecarPath);
+
+    if (isUnchangedManifest(manifest, existing)) {
+        counts.skipped += 1;
+        logger.info({ file: sourceFile, chunks: existing.manifest.chunk_count }, "Sidecar unchanged");
+        return;
+    }
+
+    const chunks = chunkMarkdown(body, rootTitle);
+    manifest.chunk_count = chunks.length;
+
+    if (argv.dryRun) {
+        counts.written += 1;
+        counts.chunks += chunks.length;
+        logger.info({ file: sourceFile, chunks: chunks.length, forced: argv.force }, "Sidecar would be written");
+        return;
+    }
+
+    await writeSidecar(sidecarPath, manifest, chunks);
+    counts.written += 1;
+    counts.chunks += chunks.length;
+    logger.info({ file: sourceFile, sidecar: `${sourceFile}.yaml`, chunks: chunks.length }, "Sidecar generated");
+}
+
+async function resolveBookDirs() {
+    const start = isDirectory ? importTarget : dirname(importTarget);
+    const bookDir = await findBookDir(start);
+
+    if (bookDir !== null) {
+        return [bookDir];
+    }
+
+    if (!isDirectory) {
+        logger.error({ path: argv.path }, "File is not inside a book directory with a toc.yaml");
+        process.exit(1);
+    }
+
+    try {
+        return await discoverBooks(importTarget);
+    } catch (error) {
+        logger.error({ err: error }, "No book found");
+        process.exit(1);
+    }
+}
+
+async function findBookDir(target) {
+    let current = resolve(target);
+
+    while (isInside(BOOKS_ROOT, current)) {
+        if (await pathExists(join(current, "toc.yaml"))) {
+            return current;
+        }
+
+        const parent = dirname(current);
+
+        if (parent === current) {
+            break;
+        }
+
+        current = parent;
+    }
+
+    return null;
+}
+
+function warnAboutOrphanFiles({ bookDirName, config, filesByPath, fileNodes }) {
+    const knownFiles = new Set(fileNodes.map((node) => node.file.relativePath));
+    const excludedFiles = new Set();
+
+    for (const entry of config.exclude ?? []) {
+        excludedFiles.add(entry.endsWith(".md") ? entry : `${entry}.md`);
+
+        const file = filesByPath.get(entry) ?? filesByPath.get(entry.replace(/\.md$/, ""));
+
+        if (file) {
+            excludedFiles.add(file.relativePath);
+        }
+    }
+
+    for (const file of filesByPath.values()) {
+        if (knownFiles.has(file.relativePath) || excludedFiles.has(file.relativePath)) {
+            continue;
+        }
+
+        logger.warn(
+            { file: `books/${bookDirName}/markdown/${file.relativePath}` },
+            "Markdown file is not part of the book tree",
+        );
+    }
+}
+
+function isTargeted(absolutePath) {
+    if (!isDirectory) {
+        return absolutePath === importTarget;
+    }
+
+    return absolutePath === importTarget || absolutePath.startsWith(`${importTarget}${sep}`);
+}
+
+function isInside(root, target) {
+    const relativePath = relative(root, target);
+
+    return (
+        relativePath === "" ||
+        (relativePath !== ".." && !relativePath.startsWith(`..${sep}`) && !isAbsolute(relativePath))
+    );
+}
 
 function chunkMarkdown(body, title) {
     return parseBlocks(body, title)

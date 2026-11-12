@@ -72,28 +72,30 @@ flag "--require-embeddings" help="Fail when a document has no embedding sidecar"
 run = './scripts/import-single-documents.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}{% if usage.skip_embeddings %} --skip-embeddings{% endif %}{% if usage.require_embeddings %} --require-embeddings{% endif %}'
 
 [tasks.import-books]
-description = "Import books from contents/books, with their work, part and chapter hierarchy"
+description = "Import books from contents/books, with their hierarchy and chunk embeddings"
 usage = '''
 arg "[path]" help="Book directory or parent directory" default="contents/books"
 flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
 flag "--dry-run" help="Report changes without writing to the database"
 flag "--prune" help="Delete book nodes no longer present in the imported tree"
+flag "--skip-embeddings" help="Import book nodes only, without their chunk embeddings"
+flag "--require-embeddings" help="Fail when a book section has no embedding sidecar"
 '''
-run = './scripts/import-books.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}'
+run = './scripts/import-books.sh --path "{{ usage.path }}" --url "{{ usage.url }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.prune %} --prune{% endif %}{% if usage.skip_embeddings %} --skip-embeddings{% endif %}{% if usage.require_embeddings %} --require-embeddings{% endif %}'
 
 [tasks.generate-sidecars]
-description = "Generate one .md.yaml sidecar per Markdown document in contents/single-document-texts"
+description = "Generate one .md.yaml sidecar per Markdown document in contents/single-document-texts or contents/books"
 usage = '''
-arg "[path]" help="Markdown file or directory under contents/single-document-texts" default="contents/single-document-texts"
+arg "[path]" help="Markdown file or directory under contents/single-document-texts or contents/books" default="contents/single-document-texts"
 flag "--dry-run" help="Report what would be written without writing"
 flag "--force" help="Regenerate sidecars even when the manifest matches"
 '''
 run = './scripts/generate-sidecars.sh --path "{{ usage.path }}"{% if usage.dry_run %} --dry-run{% endif %}{% if usage.force %} --force{% endif %}'
 
 [tasks.generate-embeddings]
-description = "Generate .md.embeddings.bin files for the YAML sidecars"
+description = "Generate .md.embeddings.bin files for the YAML sidecars in contents/single-document-texts or contents/books"
 usage = '''
-arg "[path]" help="Markdown file or directory under contents/single-document-texts" default="contents/single-document-texts"
+arg "[path]" help="Markdown file or directory under contents/single-document-texts or contents/books" default="contents/single-document-texts"
 flag "--url <url>" help="Base URL of the webapp" env="SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_API_URL" default="http://localhost:5173"
 flag "--dry-run" help="Report what would be embedded without generating vectors"
 flag "--force" help="Regenerate embeddings even when they match"

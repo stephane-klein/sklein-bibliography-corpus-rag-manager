@@ -64,12 +64,15 @@ $ mise run import-single-documents contents/single-document-texts/mr-phi --dry-r
 
 `mise run import-books` imports the books under `contents/books/`. It reads
 each book's `config.yaml` (slug, bibliography, excluded files) and `toc.yaml`,
-builds the work/part/chapter tree, and sends it to the same sync endpoint. The
-book import does not import chunks or embeddings yet:
+builds the work/part/chapter tree, and sends it to the same sync endpoint. When
+a section has a `.md.yaml` sidecar and its `.md.embeddings.bin`, the task also
+imports its chunks:
 
 ```bash
 $ mise run import-books
 $ mise run import-books contents/books/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-by-smith-and-garnier --dry-run
+$ mise run import-books --skip-embeddings
+$ mise run import-books --require-embeddings
 ```
 
 The webapp must be running with the migrations applied. The CLI sends each
@@ -93,14 +96,15 @@ unavailable.
 ### Generating sidecars
 
 `mise run generate-sidecars` writes one `.md.yaml` sidecar next to each Markdown
-document under `contents/single-document-texts`. The task accepts a directory or
-a single Markdown file:
+document under `contents/single-document-texts` or `contents/books`. The task
+accepts a directory or a single Markdown file:
 
 ```bash
 $ mise run generate-sidecars
 $ mise run generate-sidecars contents/single-document-texts/mr-phi
 $ mise run generate-sidecars contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md
-$ mise run generate-sidecars --dry-run
+$ mise run generate-sidecars contents/books
+$ mise run generate-sidecars contents/books/principales-of-political-economy-by-john-stuart-mill --dry-run
 $ mise run generate-sidecars --force
 ```
 
@@ -108,6 +112,8 @@ The command does not vectorize anything. It splits each document into
 paragraphs, counts tokens with the `cl100k_base` tokenizer, and stores the
 result in `source.md.yaml` next to `source.md`. The file contains a `manifest`
 section and a `chunks` list; each chunk has its heading path and token count.
+For a book section, the heading path starts with the book breadcrumb from
+`toc.yaml`, for example `Book I. Production. > Chapter III. Of Capital. > § 1. ...`.
 
 By default, the command skips a sidecar when its manifest has the same source
 hash, schema version, tokenizer, threshold and splitter, and when the number of
@@ -122,8 +128,9 @@ $ yq '.chunks[] | [.chunk_index, .content_token_count, .heading_path] | @tsv' co
 $ yq -o=json '.' contents/single-document-texts/mr-phi/2017-05-24_le-principe-de-condorcet-1-2-une-norme-democratique-grain-de-philo-9.fr.md.yaml | jq .
 ```
 
-The scope is limited to `contents/single-document-texts`. Books under
-`contents/books/` need hierarchy fields and will be handled later.
+The command respects each book's `config.exclude` list. A Markdown file that
+does not belong to the `toc.yaml` tree gets a warning and no sidecar, because
+the node import would not create a node for it.
 
 ### Generating embeddings
 
@@ -143,6 +150,8 @@ Generate the sidecars first, then the embeddings:
 $ mise run generate-sidecars
 $ mise run generate-embeddings
 $ mise run generate-embeddings contents/single-document-texts/mr-phi
+$ mise run generate-sidecars contents/books
+$ mise run generate-embeddings contents/books
 $ mise run generate-embeddings --dry-run
 $ mise run generate-embeddings --force
 ```

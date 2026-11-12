@@ -10,6 +10,14 @@
         return new Intl.NumberFormat(getLocale(), { maximumFractionDigits: 2 }).format(costUsd * 1_000_000);
     }
 
+    function formatNumber(value) {
+        return new Intl.NumberFormat(getLocale()).format(value);
+    }
+
+    function chapterPercent(stats) {
+        return stats.chapterCount === 0 ? 0 : Math.round((stats.readyChapterCount / stats.chapterCount) * 100);
+    }
+
     function vectorizationLabel(state) {
         if (state === "ready") {
             return m.documents_vectorized_yes();
@@ -27,8 +35,17 @@
     }
 
     // The hint says why a document is not available to the semantic search:
-    // no vector yet, or vectors from another model.
-    function vectorizationHint(state) {
+    // no vector yet, or vectors from another model. For a book, it also gives
+    // the chapter ratio and the chunk coverage behind that ratio.
+    function vectorizationHint(document) {
+        if (document.kind === "book") {
+            return bookVectorizationHint(document);
+        }
+
+        return documentVectorizationHint(document.vectorization);
+    }
+
+    function documentVectorizationHint(state) {
         if (state === "none") {
             return m.documents_vectorized_hint_none();
         }
@@ -46,6 +63,38 @@
         }
 
         return m.documents_vectorized_hint_stale({ model: data.embeddingModel });
+    }
+
+    function bookVectorizationHint(document) {
+        const stats = document.vectorizationStats;
+
+        if (document.vectorization === "none") {
+            return m.documents_vectorized_book_hint_none();
+        }
+
+        if (document.vectorization === "ready") {
+            return m.documents_vectorized_book_hint_ready({
+                chunks: formatNumber(stats.readyChunkCount),
+                model: data.embeddingModel,
+            });
+        }
+
+        if (document.vectorization === "partial") {
+            return m.documents_vectorized_book_hint_partial({
+                ready: formatNumber(stats.readyChapterCount),
+                total: formatNumber(stats.chapterCount),
+                percent: chapterPercent(stats),
+                readyChunks: formatNumber(stats.readyChunkCount),
+                chunks: formatNumber(stats.chunkCount),
+                model: data.embeddingModel,
+            });
+        }
+
+        if (document.vectorization === "pending") {
+            return m.documents_vectorized_book_hint_pending();
+        }
+
+        return m.documents_vectorized_book_hint_stale({ model: data.embeddingModel });
     }
 
     function searchQuery(overrides = {}) {
@@ -480,11 +529,17 @@
                             </td>
                             <td
                                 class="py-1.5 pr-2 border-b border-gray-200 align-top whitespace-nowrap text-[11px] text-gray-600"
-                                title={vectorizationHint(doc.vectorization)}
+                                title={vectorizationHint(doc)}
                             >
-                                {vectorizationLabel(doc.vectorization)}
-                                {#if doc.vectorization === "none"}
-                                    <span class="sr-only">{m.documents_vectorized_hint_none()}</span>
+                                {#if doc.kind === "book" && doc.vectorizationStats?.chapterCount > 0}
+                                    {formatNumber(doc.vectorizationStats.readyChapterCount)} / {formatNumber(
+                                        doc.vectorizationStats.chapterCount,
+                                    )}
+                                {:else}
+                                    {vectorizationLabel(doc.vectorization)}
+                                {/if}
+                                {#if doc.vectorization === "none" || doc.kind === "book"}
+                                    <span class="sr-only">{vectorizationHint(doc)}</span>
                                 {/if}
                             </td>
                             <td class="py-1.5 border-b border-gray-200 align-top text-right whitespace-nowrap">

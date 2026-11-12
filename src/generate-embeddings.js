@@ -11,7 +11,7 @@ import { logger } from "./lib/server/logger.js";
 
 const PROJECT_ROOT = fileURLToPath(new URL("..", import.meta.url));
 const CONTENTS_ROOT = join(PROJECT_ROOT, "contents");
-const ALLOWED_ROOT = join(CONTENTS_ROOT, "single-document-texts");
+const ALLOWED_ROOTS = [join(CONTENTS_ROOT, "single-document-texts"), join(CONTENTS_ROOT, "books")];
 const DEFAULT_PATH = "contents/single-document-texts";
 const ADMIN_TOKEN = process.env.SKLEIN_BIBLIOGRAPHY_CORPUS_RAG_MANAGER_ADMIN_TOKEN;
 const EMBEDDING_INPUT_FORMAT = "heading_path_text_v1";
@@ -27,7 +27,7 @@ const argv = yargs(hideBin(process.argv))
     .option("path", {
         type: "string",
         default: DEFAULT_PATH,
-        description: "Markdown file or directory under contents/single-document-texts",
+        description: "Markdown file or directory under contents/single-document-texts or contents/books",
     })
     .option("url", {
         type: "string",
@@ -48,12 +48,17 @@ const argv = yargs(hideBin(process.argv))
 
 const apiUrl = argv.url.replace(/\/+$/, "");
 const importTarget = resolve(PROJECT_ROOT, argv.path);
-const relativeToAllowed = relative(ALLOWED_ROOT, importTarget);
-const outsideAllowedRoot =
-    relativeToAllowed === ".." || relativeToAllowed.startsWith(`..${sep}`) || isAbsolute(relativeToAllowed);
+const insideAllowedRoot = ALLOWED_ROOTS.some((root) => {
+    const relativeToRoot = relative(root, importTarget);
 
-if (outsideAllowedRoot) {
-    logger.error({ path: argv.path }, "Path must be inside contents/single-document-texts");
+    return (
+        relativeToRoot === "" ||
+        (relativeToRoot !== ".." && !relativeToRoot.startsWith(`..${sep}`) && !isAbsolute(relativeToRoot))
+    );
+});
+
+if (!insideAllowedRoot) {
+    logger.error({ path: argv.path }, "Path must be inside contents/single-document-texts or contents/books");
     process.exit(1);
 }
 
