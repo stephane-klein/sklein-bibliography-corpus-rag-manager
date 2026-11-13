@@ -1,18 +1,23 @@
 <script>
-    import { untrack } from "svelte";
+    import { getContext, untrack } from "svelte";
     import { m } from "#lib/paraglide/messages.js";
     import { getLocale } from "#lib/paraglide/runtime.js";
+    import { DOCUMENTS_DENSITY_CONTEXT } from "#lib/shared/documents-density.js";
     import Svelecte from "svelecte";
 
     let { data } = $props();
+
+    // The header renders the switch and owns the value; the page only reads it.
+    const density = getContext(DOCUMENTS_DENSITY_CONTEXT);
 
     let query = $state(untrack(() => data.q));
     let title = $state(untrack(() => data.title));
     let semantic = $state(untrack(() => data.semantic));
     let authors = $state(untrack(() => [...data.authors]));
 
-    // The fields hold editable drafts. Resync them when navigation changes the
-    // applied search.
+    // The fields hold editable drafts: they must survive a density switch,
+    // which rebuilds the controller markup. Resync them when navigation
+    // changes the applied search.
     $effect(() => {
         query = data.q;
         title = data.title;
@@ -285,7 +290,7 @@
             name="semantic"
             value="1"
             bind:checked={semantic}
-            aria-describedby="search-help"
+            aria-describedby={density.dense ? undefined : "search-help"}
             class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:outline-2 focus:outline-blue-600"
         />
         {m.documents_semantic_label()}
@@ -335,51 +340,82 @@
         method="GET"
         action="/documents/"
     >
-        <div class="mb-4">
-            <label
-                for="q"
-                class="block text-sm font-semibold mb-1"
-                >{data.filtered
-                    ? m.documents_search_label_filtered({ count: data.selectionTotal })
-                    : m.documents_search_label({ count: data.selectionTotal })}</label
-            >
-            <div class="flex flex-wrap items-end gap-2">
-                <div class="grow min-w-0">{@render contentInput()}</div>
-                {@render searchButton()}
-            </div>
-            <p
-                id="search-help"
-                class="text-xs text-gray-500 mt-1"
-            >
-                {m.documents_search_help()}
-            </p>
-            {@render semanticCheckbox("mt-2")}
-        </div>
-
-        <div class="pt-3.5 border-t border-gray-200 mb-1">
-            <span class="block text-sm font-semibold mb-1"
-                >{m.documents_filters_label()}
-                <span class="font-normal text-gray-500">{m.documents_filters_optional()}</span></span
-            >
-            <div class="grid grid-cols-[1fr_auto] items-end gap-x-3 gap-y-3">
-                <div class="col-start-1 row-start-1 min-w-0">
+        {#if density.dense}
+            <div class="dense-form">
+                <div class="dense-row">
+                    <label
+                        for="q"
+                        class="dense-label">{m.documents_filter_content()}</label
+                    >
+                    <div class="dense-control">{@render contentInput()}</div>
+                    <div class="dense-actions">
+                        {@render semanticCheckbox("")}
+                        {@render searchButton()}
+                    </div>
+                </div>
+                <div class="dense-fields">
                     <label
                         for="authors"
-                        class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_authors()}</label
+                        class="dense-label">{m.documents_filter_authors()}</label
                     >
-                    {@render authorsControl()}
-                </div>
-                <div class="col-start-1 row-start-2 min-w-0">
+                    <div class="dense-control">{@render authorsControl()}</div>
+                    <div></div>
+
                     <label
                         for="title"
-                        class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_title()}</label
+                        class="dense-label">{m.documents_filter_title()}</label
                     >
-                    {@render titleInput()}
+                    <div class="dense-control">{@render titleInput()}</div>
+                    <div class="dense-actions">{@render filterButton()}</div>
                 </div>
-                <div class="col-start-2 row-start-2">{@render filterButton()}</div>
             </div>
-            <p class="text-xs text-gray-500 mt-1">{m.documents_filters_help()}</p>
-        </div>
+        {:else}
+            <div class="mb-4">
+                <label
+                    for="q"
+                    class="block text-sm font-semibold mb-1"
+                    >{data.filtered
+                        ? m.documents_search_label_filtered({ count: data.selectionTotal })
+                        : m.documents_search_label({ count: data.selectionTotal })}</label
+                >
+                <div class="flex flex-wrap items-end gap-2">
+                    <div class="grow min-w-0">{@render contentInput()}</div>
+                    {@render searchButton()}
+                </div>
+                <p
+                    id="search-help"
+                    class="text-xs text-gray-500 mt-1"
+                >
+                    {m.documents_search_help()}
+                </p>
+                {@render semanticCheckbox("mt-2")}
+            </div>
+
+            <div class="pt-3.5 border-t border-gray-200 mb-1">
+                <span class="block text-sm font-semibold mb-1"
+                    >{m.documents_filters_label()}
+                    <span class="font-normal text-gray-500">{m.documents_filters_optional()}</span></span
+                >
+                <div class="grid grid-cols-[1fr_auto] items-end gap-x-3 gap-y-3">
+                    <div class="col-start-1 row-start-1 min-w-0">
+                        <label
+                            for="authors"
+                            class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_authors()}</label
+                        >
+                        {@render authorsControl()}
+                    </div>
+                    <div class="col-start-1 row-start-2 min-w-0">
+                        <label
+                            for="title"
+                            class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_title()}</label
+                        >
+                        {@render titleInput()}
+                    </div>
+                    <div class="col-start-2 row-start-2">{@render filterButton()}</div>
+                </div>
+                <p class="text-xs text-gray-500 mt-1">{m.documents_filters_help()}</p>
+            </div>
+        {/if}
     </form>
 
     {#if data.hasQuery}
@@ -696,5 +732,66 @@
         outline: 2px solid #2563eb;
         outline-offset: -1px;
         border-color: #2563eb;
+    }
+
+    .dense-form {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .dense-row {
+        display: grid;
+        grid-template-columns: 7rem minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    /* Auteurs and Titre share one grid: the picker then ends where the title
+       input ends, before the action column sized by the Filter button. */
+    .dense-fields {
+        display: grid;
+        grid-template-columns: 7rem minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 0.5rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid #e5e7eb;
+    }
+
+    .dense-label {
+        font-size: 14px;
+        font-weight: 600;
+        color: #111827;
+    }
+
+    .dense-control {
+        min-width: 0;
+    }
+
+    .dense-actions {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 0.5rem;
+    }
+
+    @media (max-width: 768px) {
+        .dense-row,
+        .dense-fields {
+            grid-template-columns: minmax(0, 1fr);
+        }
+
+        .dense-fields > div:empty {
+            display: none;
+        }
+
+        .dense-label {
+            margin-bottom: 0.125rem;
+        }
+
+        .dense-actions {
+            justify-content: flex-start;
+        }
     }
 </style>

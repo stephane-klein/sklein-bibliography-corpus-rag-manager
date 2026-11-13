@@ -62,6 +62,9 @@
   "nav_tokens": "Tokens",
   "nav_mcp_log": "MCP log",
   "nav_sign_out": "Sign out",
+  "interface_density_label": "Interface",
+  "interface_density_dense": "dense",
+  "interface_density_detailed": "detailed",
   "documents_title": "Documents",
   "documents_count": [
     {

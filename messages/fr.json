@@ -62,6 +62,9 @@
   "nav_tokens": "Jetons",
   "nav_mcp_log": "Journal MCP",
   "nav_sign_out": "Déconnexion",
+  "interface_density_label": "Interface",
+  "interface_density_dense": "dense",
+  "interface_density_detailed": "détaillée",
   "documents_title": "Documents",
   "documents_count": [
     {
