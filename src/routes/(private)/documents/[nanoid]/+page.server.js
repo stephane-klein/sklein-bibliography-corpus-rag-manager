@@ -1,6 +1,8 @@
 import { error } from "@sveltejs/kit";
 import { renderMarkdown } from "#lib/server/markdown.js";
 import { sql } from "#lib/server/pg.js";
+import { loadOutline } from "#lib/server/book-outline.js";
+import { getEmbeddingModel } from "#lib/server/embedding.js";
 
 export async function load({ params }) {
     const [contentNode] = await sql`
@@ -14,14 +16,9 @@ export async function load({ params }) {
         error(404, "Document not found");
     }
 
-    const children = contentNode.is_container
-        ? await sql`
-              SELECT nanoid, title, markdown_source_file IS NULL AS is_container
-                FROM hierarchical_content_nodes
-               WHERE parent_id = ${contentNode.id}
-               ORDER BY position, id
-          `
-        : [];
+    // A container has no text of its own: its page is the table of contents of
+    // everything below it, in one query instead of one per level.
+    const outline = contentNode.is_container ? await loadOutline(contentNode.id) : null;
 
     // The raw Markdown does not reach the browser: only its rendering does.
     const { content, ...node } = contentNode;
@@ -32,7 +29,8 @@ export async function load({ params }) {
 
     return {
         contentNode: node,
-        children,
+        outline,
+        embeddingModel: getEmbeddingModel(),
         contentHtml: node.is_container ? "" : renderMarkdown(body),
     };
 }

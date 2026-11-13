@@ -3,6 +3,7 @@ import { embedTexts, getEmbeddingInfo, getEmbeddingModel } from "#lib/server/emb
 import { logger } from "#lib/server/logger.js";
 import { buildQueryEmbeddingKey, readQueryEmbedding, writeQueryEmbedding } from "#lib/server/query-embedding-cache.js";
 import { classifySemanticError } from "#lib/server/search-diagnostics.js";
+import { sectionVectorizationState } from "#lib/server/vectorization.js";
 
 const PAGE_SIZE = 15;
 const CANDIDATE_LIMIT = 200;
@@ -450,13 +451,19 @@ function vectorizationState(row) {
     const chunks = row.chunk_count;
     const ready = row.ready_chunk_count;
 
-    // A single document with no chunks keeps the old "—" state. A book with
-    // chapters but no chunks is reported as pending, so a missing sidecar is
-    // visible instead of being hidden by an empty denominator.
-    if (row.kind === "document" && chunks === 0) {
-        return "none";
+    // A single document is one section, so its own chunk counts decide. A
+    // section with no chunk reports "none" instead of "pending", which keeps
+    // the old "—" of the list.
+    if (row.kind === "document") {
+        return sectionVectorizationState({
+            chunkCount: chunks,
+            readyChunkCount: ready,
+            embeddedChunkCount: row.embedded_chunk_count,
+        });
     }
 
+    // A book with chapters but no chunks is reported as pending, so a missing
+    // sidecar is visible instead of being hidden by an empty denominator.
     if (chapters === 0) {
         return "none";
     }

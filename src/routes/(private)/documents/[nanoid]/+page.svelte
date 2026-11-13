@@ -1,12 +1,77 @@
 <script>
     import { m } from "#lib/paraglide/messages.js";
+    import { getLocale } from "#lib/paraglide/runtime.js";
 
     let { data } = $props();
+
+    function formatNumber(value) {
+        return new Intl.NumberFormat(getLocale()).format(value);
+    }
+
+    function readyHint() {
+        return m.documents_outline_ready_hint({ model: data.embeddingModel });
+    }
+
+    function staleHint() {
+        return m.documents_outline_stale_hint({ model: data.embeddingModel });
+    }
 </script>
 
 <svelte:head>
     <title>{data.contentNode.title} — {m.app_name()}</title>
 </svelte:head>
+
+{#snippet stateCell(node)}
+    {#if node.state === "ready"}
+        <span
+            class="font-semibold text-green-600"
+            title={readyHint()}>✓</span
+        >
+    {:else if node.state === "none"}
+        <span
+            class="inline-block rounded-sm border border-amber-200 bg-amber-50 px-1.5 py-0.5 text-[11px] font-semibold text-amber-700"
+            title={m.documents_outline_none_hint()}>{m.documents_outline_none()}</span
+        >
+    {:else if node.state === "stale"}
+        <span
+            class="inline-block rounded-sm border border-amber-200 bg-amber-50 px-1.5 py-0.5 text-[11px] font-semibold text-amber-700"
+            title={staleHint()}>{m.documents_outline_stale()}</span
+        >
+    {:else if node.state === "partial"}
+        <span
+            class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold text-gray-600"
+            title={m.documents_outline_partial_hint({ model: data.embeddingModel })}
+            >{m.documents_outline_partial()}</span
+        >
+    {:else if node.state === "pending"}
+        <span
+            class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold text-gray-600"
+            >{m.documents_outline_pending()}</span
+        >
+    {/if}
+{/snippet}
+
+{#snippet outlineRows(nodes, depth)}
+    {#each nodes as node (node.id)}
+        <tr class="border-b border-gray-200 hover:bg-gray-100">
+            <th
+                scope="row"
+                class="py-1.5 pr-2 text-left align-top font-normal"
+                style={`padding-left: ${1.25 + depth * 1.25}rem`}
+            >
+                <a
+                    href="/documents/{node.nanoid}/"
+                    class="text-blue-600 no-underline hover:underline">{node.title}</a
+                >
+            </th>
+            <td class="py-1.5 pr-2 text-right tabular-nums whitespace-nowrap align-top text-gray-700"
+                >{formatNumber(node.tokens)}</td
+            >
+            <td class="py-1.5 pr-2 text-center align-top whitespace-nowrap">{@render stateCell(node)}</td>
+        </tr>
+        {@render outlineRows(node.children, depth + 1)}
+    {/each}
+{/snippet}
 
 <main class="page px-5 pt-7 pb-16">
     <div class="mx-auto max-w-[46rem]">
@@ -42,20 +107,76 @@
             </dd>
         </dl>
 
-        {#if data.contentNode.is_container}
+        {#if data.outline}
             <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">
-                {m.documents_detail_sections()}
+                {m.documents_outline_title()}
+                <span class="ml-2 font-normal normal-case tracking-normal text-gray-500">
+                    {m.documents_outline_summary({
+                        sections: formatNumber(data.outline.sectionCount),
+                        tokens: formatNumber(data.outline.totalTokens),
+                    })}
+                </span>
             </h2>
-            <ol class="list-none m-0 p-0">
-                {#each data.children as child (child.nanoid)}
-                    <li class="py-2 border-b border-gray-200">
-                        <a
-                            href="/documents/{child.nanoid}/"
-                            class="text-blue-600 no-underline hover:underline">{child.title}</a
-                        >
-                    </li>
-                {/each}
-            </ol>
+
+            {#if data.outline.children.length === 0}
+                <p class="text-sm text-gray-500 italic">{m.documents_outline_empty()}</p>
+            {:else}
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm border-collapse">
+                        <colgroup>
+                            <col />
+                            <col class="w-28" />
+                            <col class="w-24" />
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th
+                                    scope="col"
+                                    class="text-left text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                                    >{m.documents_column_title()}</th
+                                >
+                                <th
+                                    scope="col"
+                                    class="text-right text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                                    >{m.documents_outline_tokens()}</th
+                                >
+                                <th
+                                    scope="col"
+                                    class="text-center text-xs font-bold uppercase tracking-wider text-gray-500 pb-1.5 pr-2 border-b-2 border-gray-300"
+                                    >{m.documents_outline_vectorized()}</th
+                                >
+                            </tr>
+                        </thead>
+                        {#each data.outline.children as group (group.id)}
+                            <tbody>
+                                <tr class="bg-blue-50 border-b border-gray-200">
+                                    <th
+                                        scope={group.children.length > 0 ? "rowgroup" : "row"}
+                                        class="py-2 pr-2 text-left align-top font-semibold text-gray-900"
+                                    >
+                                        {#if group.isFile}
+                                            <a
+                                                href="/documents/{group.nanoid}/"
+                                                class="no-underline text-inherit hover:underline">{group.title}</a
+                                            >
+                                        {:else}
+                                            {group.title}
+                                        {/if}
+                                    </th>
+                                    <td
+                                        class="py-2 pr-2 text-right tabular-nums whitespace-nowrap align-top font-semibold text-gray-700"
+                                        >{formatNumber(group.totalTokens)}</td
+                                    >
+                                    <td class="py-2 pr-2 text-center align-top whitespace-nowrap">
+                                        {@render stateCell(group)}
+                                    </td>
+                                </tr>
+                                {@render outlineRows(group.children, 1)}
+                            </tbody>
+                        {/each}
+                    </table>
+                </div>
+            {/if}
         {:else}
             <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">
                 {m.documents_detail_content()}
