@@ -1,6 +1,4 @@
 #:schema https://pitchfork.jdx.dev/schema.json
-namespace = "sklein-bibliography-corpus-rag-manager"
-
 [settings.general]
 mise = true
 
