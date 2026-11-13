@@ -1,4 +1,5 @@
 import { error } from "@sveltejs/kit";
+import { renderMarkdown } from "#lib/server/markdown.js";
 import { sql } from "#lib/server/pg.js";
 
 export async function load({ params }) {
@@ -22,8 +23,16 @@ export async function load({ params }) {
           `
         : [];
 
+    // The raw Markdown does not reach the browser: only its rendering does.
+    const { content, ...node } = contentNode;
+
+    // The page already shows the title as its heading, and every leaf starts
+    // with the same heading again.
+    const body = (content ?? "").replace(/^\s*#\s+[^\n]*\r?\n/, "");
+
     return {
-        contentNode,
+        contentNode: node,
         children,
+        contentHtml: node.is_container ? "" : renderMarkdown(body),
     };
 }
