@@ -11,10 +11,19 @@ const RRF_K = 60;
 const QUERY_TIMEOUT_MS = 3_000;
 const BEST_CHUNK_CHARS = 400;
 
-export async function searchDocuments({ q, authorWords, titleWords, semantic, requestedPage, pageSize = PAGE_SIZE }) {
+export async function searchDocuments({
+    q,
+    authorWords = [],
+    authorNames = [],
+    titleWords,
+    semantic,
+    requestedPage,
+    pageSize = PAGE_SIZE,
+}) {
     const effectivePageSize = Number.isInteger(pageSize) && pageSize > 0 ? pageSize : PAGE_SIZE;
     const filterConditions = [
         authorWords.length > 0 ? allWords(sql`immutable_unaccent(immutable_authors_text(authors))`, authorWords) : null,
+        authorNames.length > 0 ? anyAuthorCondition(authorNames) : null,
         titleWords.length > 0 ? allWords(sql`immutable_unaccent(title)`, titleWords) : null,
     ].filter((condition) => condition !== null);
     const filtered = filterConditions.length > 0;
@@ -165,6 +174,23 @@ export async function getQueryEmbedding(query) {
     await writeQueryEmbedding(key, embeddings[0]);
 
     return { embedding: embeddings[0], source: "provider", usage };
+}
+
+// Authors of the documents the page lists, so the picker offers names that
+// actually match a root node. Chapter authors repeat the book authors, so they
+// would add no choice here.
+export async function listDocumentAuthors() {
+    const rows = await sql`
+        SELECT a AS name
+          FROM hierarchical_content_nodes
+          CROSS JOIN LATERAL unnest(authors) AS a
+         WHERE parent_id IS NULL
+           AND a <> ''
+         GROUP BY a
+         ORDER BY immutable_unaccent(a), a
+    `;
+
+    return rows.map((row) => row.name);
 }
 
 async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corpusTotal, selectionTotal, filtered }) {
@@ -501,6 +527,21 @@ function pageWindow(total, requestedPage, pageSize = PAGE_SIZE) {
 
 function allWords(column, words) {
     return words.map((word) => ilikeCondition(column, word)).reduce((acc, condition) => sql`${acc} AND ${condition}`);
+}
+
+// The picker sends full author names. A document matches when one of its
+// authors equals one of them, ignoring case and accents; the selected authors
+// are alternatives, not requirements.
+function anyAuthorCondition(names) {
+    return names
+        .map(
+            (name) => sql`EXISTS (
+                SELECT 1
+                  FROM unnest(authors) AS author
+                 WHERE lower(immutable_unaccent(author)) = lower(immutable_unaccent(${name}))
+            )`,
+        )
+        .reduce((acc, condition) => sql`${acc} OR ${condition}`);
 }
 
 function ilikeCondition(column, word) {

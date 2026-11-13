@@ -1,8 +1,46 @@
 <script>
+    import { untrack } from "svelte";
     import { m } from "#lib/paraglide/messages.js";
     import { getLocale } from "#lib/paraglide/runtime.js";
+    import Svelecte from "svelecte";
 
     let { data } = $props();
+
+    let query = $state(untrack(() => data.q));
+    let title = $state(untrack(() => data.title));
+    let semantic = $state(untrack(() => data.semantic));
+    let authors = $state(untrack(() => [...data.authors]));
+
+    // The fields hold editable drafts. Resync them when navigation changes the
+    // applied search.
+    $effect(() => {
+        query = data.q;
+        title = data.title;
+        semantic = data.semantic;
+        authors = [...data.authors];
+    });
+
+    const authorPickerOptions = $derived(data.authorOptions.map((author) => ({ value: author, label: author })));
+
+    // Svelecte announces its selection and its dropdown in a live region. These
+    // messages keep that text in the page language instead of the library
+    // defaults.
+    function authorPickerI18n() {
+        return {
+            aria_label: m.documents_filter_authors(),
+            empty: m.documents_filter_authors_nomatch(),
+            nomatch: m.documents_filter_authors_nomatch(),
+            aria_selected: (authors) =>
+                authors.length === 0
+                    ? ""
+                    : m.documents_filter_authors_selected({ names: authors.join(", "), count: authors.length }),
+            aria_listActive: (author, labelField, count) =>
+                m.documents_filter_authors_list_active({ name: author[labelField], count }),
+            aria_inputFocused: () => m.documents_filter_authors_input_focused(),
+            aria_removeItemLabel: (author, labelField) =>
+                m.documents_filter_authors_remove({ name: author[labelField] }),
+        };
+    }
 
     // Query embeddings cost a fraction of a cent, so the table shows millionths
     // of a US dollar instead of a long run of leading zeros.
@@ -100,7 +138,7 @@
     function searchQuery(overrides = {}) {
         const values = {
             q: data.q,
-            author: data.author,
+            author: data.authors,
             title: data.title,
             semantic: data.semantic ? "1" : "",
             page: data.page,
@@ -108,8 +146,11 @@
         };
 
         return Object.entries(values)
-            .filter(([, value]) => value !== "" && value !== null && value !== undefined)
-            .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(String(value))}`)
+            .flatMap(([key, value]) =>
+                (Array.isArray(value) ? value : [value])
+                    .filter((entry) => entry !== "" && entry !== null && entry !== undefined)
+                    .map((entry) => `${encodeURIComponent(key)}=${encodeURIComponent(String(entry))}`),
+            )
             .join("&");
     }
 
@@ -123,7 +164,7 @@
     }
 
     function authorHref(author) {
-        return documentsHref({ author, page: "" });
+        return documentsHref({ author: [author], page: "" });
     }
 
     // pdb.snippets() returns plain text with <mark> tags around the matches.
@@ -169,7 +210,7 @@
     <p class="text-sm text-gray-500 italic mt-5">{m.documents_no_filter_results()}</p>
     <p class="text-sm mt-2">
         <a
-            href={documentsHref({ author: "", title: "", page: "" })}
+            href={documentsHref({ author: [], title: "", page: "" })}
             class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
         >
         {#if data.hasQuery}
@@ -187,7 +228,7 @@
     {#if data.filtered}
         <p class="text-sm mt-2">
             <a
-                href={documentsHref({ author: "", title: "", page: "" })}
+                href={documentsHref({ author: [], title: "", page: "" })}
                 class="text-blue-600 hover:underline">{m.documents_search_all_corpus()}</a
             >
             <span class="text-gray-300 mx-1">|</span>
@@ -211,9 +252,80 @@
     {m.documents_count({ count: data.selectionTotal })}
     {m.documents_selection_suffix()} ·
     <a
-        href={documentsHref({ author: "", title: "", page: "" })}
+        href={documentsHref({ author: [], title: "", page: "" })}
         class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
     >
+{/snippet}
+
+{#snippet contentInput()}
+    <input
+        type="search"
+        id="q"
+        name="q"
+        bind:value={query}
+        placeholder={m.documents_search_placeholder()}
+        autocomplete="off"
+        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
+    />
+{/snippet}
+
+{#snippet searchButton()}
+    <button
+        type="submit"
+        class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 hover:border-blue-700"
+    >
+        {m.documents_search_submit()}
+    </button>
+{/snippet}
+
+{#snippet semanticCheckbox(extraClass)}
+    <label class="flex items-center gap-2 text-sm text-gray-700 {extraClass}">
+        <input
+            type="checkbox"
+            name="semantic"
+            value="1"
+            bind:checked={semantic}
+            aria-describedby="search-help"
+            class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:outline-2 focus:outline-blue-600"
+        />
+        {m.documents_semantic_label()}
+    </label>
+{/snippet}
+
+{#snippet authorsControl()}
+    <div class="author-picker">
+        <Svelecte
+            name="author"
+            inputId="authors"
+            options={authorPickerOptions}
+            bind:value={authors}
+            multiple
+            clearable
+            strictMode={false}
+            placeholder={m.documents_filter_authors_placeholder()}
+            i18n={authorPickerI18n()}
+        />
+    </div>
+{/snippet}
+
+{#snippet titleInput()}
+    <input
+        type="text"
+        id="title"
+        name="title"
+        bind:value={title}
+        autocomplete="off"
+        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
+    />
+{/snippet}
+
+{#snippet filterButton()}
+    <button
+        type="submit"
+        class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-white text-blue-600 hover:bg-blue-50"
+    >
+        {m.documents_filter_submit()}
+    </button>
 {/snippet}
 
 <main class="page px-5 pt-5 pb-10">
@@ -232,23 +344,8 @@
                     : m.documents_search_label({ count: data.selectionTotal })}</label
             >
             <div class="flex flex-wrap items-end gap-2">
-                <div class="grow">
-                    <input
-                        type="search"
-                        id="q"
-                        name="q"
-                        value={data.q}
-                        placeholder={m.documents_search_placeholder()}
-                        autocomplete="off"
-                        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
-                    />
-                </div>
-                <button
-                    type="submit"
-                    class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 hover:border-blue-700"
-                >
-                    {m.documents_search_submit()}
-                </button>
+                <div class="grow min-w-0">{@render contentInput()}</div>
+                {@render searchButton()}
             </div>
             <p
                 id="search-help"
@@ -256,17 +353,7 @@
             >
                 {m.documents_search_help()}
             </p>
-            <label class="flex items-center gap-2 text-sm text-gray-700 mt-2">
-                <input
-                    type="checkbox"
-                    name="semantic"
-                    value="1"
-                    checked={data.semantic}
-                    aria-describedby="search-help"
-                    class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:outline-2 focus:outline-blue-600"
-                />
-                {m.documents_semantic_label()}
-            </label>
+            {@render semanticCheckbox("mt-2")}
         </div>
 
         <div class="pt-3.5 border-t border-gray-200 mb-1">
@@ -274,41 +361,22 @@
                 >{m.documents_filters_label()}
                 <span class="font-normal text-gray-500">{m.documents_filters_optional()}</span></span
             >
-            <div class="flex flex-wrap items-end gap-3">
-                <div class="w-56 shrink-0">
+            <div class="grid grid-cols-[1fr_auto] items-end gap-x-3 gap-y-3">
+                <div class="col-start-1 row-start-1 min-w-0">
                     <label
-                        for="author"
-                        class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_author()}</label
+                        for="authors"
+                        class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_authors()}</label
                     >
-                    <input
-                        type="text"
-                        id="author"
-                        name="author"
-                        value={data.author}
-                        autocomplete="off"
-                        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
-                    />
+                    {@render authorsControl()}
                 </div>
-                <div class="grow min-w-0">
+                <div class="col-start-1 row-start-2 min-w-0">
                     <label
                         for="title"
                         class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_title()}</label
                     >
-                    <input
-                        type="text"
-                        id="title"
-                        name="title"
-                        value={data.title}
-                        autocomplete="off"
-                        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
-                    />
+                    {@render titleInput()}
                 </div>
-                <button
-                    type="submit"
-                    class="px-4 py-1.5 rounded-sm text-sm font-semibold cursor-pointer border border-blue-600 bg-white text-blue-600 hover:bg-blue-50"
-                >
-                    {m.documents_filter_submit()}
-                </button>
+                <div class="col-start-2 row-start-2">{@render filterButton()}</div>
             </div>
             <p class="text-xs text-gray-500 mt-1">{m.documents_filters_help()}</p>
         </div>
@@ -358,7 +426,7 @@
                 <span class="ml-auto text-[13px] text-gray-500">
                     {#if data.filtered}
                         <a
-                            href={documentsHref({ author: "", title: "", page: "" })}
+                            href={documentsHref({ author: [], title: "", page: "" })}
                             class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
                         >
                         ·
@@ -605,5 +673,28 @@
         background: #fef08a;
         color: inherit;
         padding: 0 1px;
+    }
+
+    .author-picker {
+        --sv-min-height: 32px;
+        --sv-border: 1px solid #d1d5db;
+        --sv-border-radius: 3px;
+        --sv-bg: #fff;
+        --sv-control-bg: #fff;
+        --sv-placeholder-color: #9ca3af;
+        --sv-item-selected-bg: #f3f4f6;
+        --sv-item-btn-bg: #f3f4f6;
+        --sv-item-btn-bg-hover: #e5e7eb;
+        --sv-dropdown-border: 1px solid #d1d5db;
+        --sv-dropdown-shadow: none;
+        --sv-dropdown-active-bg: #eff6ff;
+        --sv-dropdown-selected-bg: #eff6ff;
+        font-size: 14px;
+    }
+
+    .author-picker :global(.svelecte.is-focused .sv-control) {
+        outline: 2px solid #2563eb;
+        outline-offset: -1px;
+        border-color: #2563eb;
     }
 </style>

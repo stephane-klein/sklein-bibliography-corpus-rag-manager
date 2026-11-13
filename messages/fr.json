@@ -175,10 +175,35 @@
   "documents_search_clear": "Effacer la recherche",
   "documents_filters_label": "Restreindre la recherche à une sélection de documents",
   "documents_filters_optional": "(optionnel)",
-  "documents_filter_author": "Auteur",
+  "documents_filter_authors": "Auteurs",
+  "documents_filter_content": "Contenu",
+  "documents_filter_authors_placeholder": "Tous les auteurs",
+  "documents_filter_authors_nomatch": "Aucun auteur correspondant",
+  "documents_filter_authors_remove": "Retirer {name}",
+  "documents_filter_authors_input_focused": "Saisissez un nom pour chercher parmi les auteurs, puis utilisez les flèches pour parcourir la liste.",
+  "documents_filter_authors_selected": [
+    {
+      "declarations": ["input names", "input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "{names} sélectionné.",
+        "countPlural=other": "{names} sélectionnés."
+      }
+    }
+  ],
+  "documents_filter_authors_list_active": [
+    {
+      "declarations": ["input name", "input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Option {name}. {count} résultat disponible.",
+        "countPlural=other": "Option {name}. {count} résultats disponibles."
+      }
+    }
+  ],
   "documents_filter_title": "Titre",
   "documents_filter_submit": "Filtrer",
-  "documents_filters_help": "Les champs Auteur et Titre définissent la sélection. Correspondance partielle, accents ignorés. Tous les mots doivent correspondre.",
+  "documents_filters_help": "Le sélecteur Auteurs et le champ Titre définissent la sélection. Un document correspond s'il a l'un des auteurs sélectionnés et si son titre contient tous les mots du filtre, accents ignorés.",
   "documents_selection_suffix": "dans la sélection",
   "documents_results_selection_suffix": "sur {selection}",
   "documents_sorted_relevance": [
@@ -197,7 +222,7 @@
   "documents_view_selection": "Voir la sélection",
   "documents_no_filter_results": "Aucun document ne correspond à ces filtres.",
   "documents_no_content_results": "Aucun passage ne correspond à « {query} ».",
-  "documents_try_title_author": "Un titre ou un auteur ? Utilisez les champs Titre et Auteur.",
+  "documents_try_title_author": "Un titre ou un auteur ? Utilisez le sélecteur Auteurs ou le champ Titre.",
   "my_password_title": "Changer le mot de passe",
   "my_password_section": "Mot de passe",
   "my_password_updated": "Mot de passe mis à jour.",

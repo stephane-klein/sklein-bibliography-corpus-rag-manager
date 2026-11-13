@@ -47,6 +47,7 @@
     "pino-pretty": "~13.2.0",
     "postgres": "~3.4.9",
     "postgres-shift": "~1.0.2",
+    "svelecte": "~5.4.0",
     "valibot": "~1.5.0",
     "voyage-ai-provider": "~5.0.0",
     "yargs": "~18.2.0"

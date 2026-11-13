@@ -175,10 +175,35 @@
   "documents_search_clear": "Clear search",
   "documents_filters_label": "Restrict the search to a selection of documents",
   "documents_filters_optional": "(optional)",
-  "documents_filter_author": "Author",
+  "documents_filter_authors": "Authors",
+  "documents_filter_content": "Content",
+  "documents_filter_authors_placeholder": "All authors",
+  "documents_filter_authors_nomatch": "No matching author",
+  "documents_filter_authors_remove": "Remove {name}",
+  "documents_filter_authors_input_focused": "Type to search the authors, then use the arrow keys to browse the list.",
+  "documents_filter_authors_selected": [
+    {
+      "declarations": ["input names", "input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "{names} selected.",
+        "countPlural=other": "{names} selected."
+      }
+    }
+  ],
+  "documents_filter_authors_list_active": [
+    {
+      "declarations": ["input name", "input count", "local countPlural = count: plural"],
+      "selectors": ["countPlural"],
+      "match": {
+        "countPlural=one": "Option {name}. {count} result available.",
+        "countPlural=other": "Option {name}. {count} results available."
+      }
+    }
+  ],
   "documents_filter_title": "Title",
   "documents_filter_submit": "Filter",
-  "documents_filters_help": "The Author and Title fields define the selection. Partial match, accents ignored. All words must match.",
+  "documents_filters_help": "The Authors picker and the Title field define the selection. A document matches if it has one of the selected authors, and its title contains every title word; accents are ignored.",
   "documents_selection_suffix": "in the selection",
   "documents_results_selection_suffix": "out of {selection}",
   "documents_sorted_relevance": [
@@ -197,7 +222,7 @@
   "documents_view_selection": "View the selection",
   "documents_no_filter_results": "No document matches these filters.",
   "documents_no_content_results": "No passage matches \"{query}\".",
-  "documents_try_title_author": "A title or an author? Use the Title and Author fields.",
+  "documents_try_title_author": "A title or an author? Use the Authors picker or the Title field.",
   "my_password_title": "Change password",
   "my_password_section": "Password",
   "my_password_updated": "Password updated.",
