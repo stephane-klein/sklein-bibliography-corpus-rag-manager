@@ -201,6 +201,13 @@ internationalization.
 Key naming convention: use prefix per page/section (e.g., `login_title`,
 `login_email_label`, `dashboard_welcome`).
 
+**Documentation exception**: long-form documentation pages may keep their prose
+in locale-specific Svelte components colocated with the route (for example
+`page.fr.svelte` and `page.en.svelte`) instead of Paraglide messages. The route
+`+page.svelte` selects the component with `getLocale()`. Paraglide still handles
+the surrounding UI: navigation, footer and locale switcher. This keeps
+paragraphs, inline code and links readable in one file per language.
+
 **Implementation details** (cookie management, AsyncLocalStorage nesting, httpOnly
 pitfall, email templates, login flows): see `docs/agents/i18n.md`.
 

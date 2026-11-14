@@ -148,7 +148,7 @@
         <span class="text-gray-300">·</span>
         <a
             href="/mcp/"
-            class="text-blue-600 hover:underline">{m.mcp_page_title()}</a
+            class="text-blue-600 hover:underline">{m.mcp_doc_link()}</a
         >
     </p>
 

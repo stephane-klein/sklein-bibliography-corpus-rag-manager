@@ -110,7 +110,7 @@ succeeds and is logged as successful.
 
 ## The `vectorize()` rewrite
 
-The tool accepts a virtual `vectorize('...')` call. The rewrite lives in
+`readOnlySqlQuery` accepts a virtual `vectorize('...')` call. The rewrite lives in
 `src/lib/server/mcp/vectorize-sql.js` and uses `pgsql-parser` / `pgsql-deparser`
 (the real PostgreSQL 18 parser, MIT).
 
