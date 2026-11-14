@@ -32,6 +32,11 @@
                     href="/api/reference"
                     class="text-gray-500 no-underline hover:underline">{m.footer_api()}</a
                 >
+                |
+                <a
+                    href="/mcp"
+                    class="text-gray-500 no-underline hover:underline">{m.footer_mcp()}</a
+                >
             </nav>
 
             <nav class="flex text-sm">
