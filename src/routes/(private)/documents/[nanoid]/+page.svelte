@@ -4,8 +4,26 @@
 
     let { data } = $props();
 
+    const navigation = $derived(data.navigation);
+
     function formatNumber(value) {
         return new Intl.NumberFormat(getLocale()).format(value);
+    }
+
+    function documentTitle() {
+        const book = navigation ? ` — ${navigation.book.title}` : "";
+
+        return `${data.contentNode.title}${book} — ${m.app_name()}`;
+    }
+
+    // The band stands in for the metadata list on a nested page, so it shows
+    // the same bibliographic facts without the empty placeholders.
+    function bookMetaParts() {
+        return [
+            data.contentNode.authors.join(", "),
+            data.contentNode.original_published_date,
+            data.contentNode.source_url === null ? (data.contentNode.source_kind?.toUpperCase() ?? null) : null,
+        ].filter((part) => part);
     }
 
     function readyHint() {
@@ -18,7 +36,7 @@
 </script>
 
 <svelte:head>
-    <title>{data.contentNode.title} — {m.app_name()}</title>
+    <title>{documentTitle()}</title>
 </svelte:head>
 
 {#snippet stateCell(node)}
@@ -73,6 +91,104 @@
     {/each}
 {/snippet}
 
+{#snippet bookBand()}
+    <div class="mt-4 rounded-sm border border-gray-200 bg-gray-50 px-4 py-3">
+        <p class="text-[11px] font-bold uppercase tracking-wider text-gray-500">
+            {m.documents_book_label()}
+        </p>
+        <p class="mt-1">
+            <a
+                href="/documents/{navigation.book.nanoid}/"
+                class="book-band-title font-semibold text-gray-900 no-underline hover:underline"
+                title={navigation.book.title}>{navigation.book.title}</a
+            >
+        </p>
+        {#if bookMetaParts().length > 0}
+            <p class="mt-1 text-sm text-gray-500">{bookMetaParts().join(" · ")}</p>
+        {/if}
+        {#if data.contentNode.source_url}
+            <p class="mt-1 text-sm">
+                <a
+                    href={data.contentNode.source_url}
+                    class="text-blue-600 break-all no-underline hover:underline">{data.contentNode.source_url}</a
+                >
+            </p>
+        {/if}
+        {#if navigation.ancestors.length > 0}
+            <nav
+                class="mt-1 text-sm"
+                aria-label={m.documents_breadcrumb_label()}
+            >
+                <ol class="flex flex-wrap items-center gap-x-2 text-gray-500">
+                    {#each navigation.ancestors as ancestor, index (ancestor.id)}
+                        <li class="flex items-center gap-x-2">
+                            {#if index > 0}
+                                <span
+                                    class="text-gray-400"
+                                    aria-hidden="true">›</span
+                                >
+                            {/if}
+                            <a
+                                href="/documents/{ancestor.nanoid}/"
+                                class="text-gray-600 no-underline hover:text-blue-600 hover:underline"
+                                >{ancestor.title}</a
+                            >
+                        </li>
+                    {/each}
+                </ol>
+            </nav>
+        {/if}
+    </div>
+{/snippet}
+
+{#snippet bookPager(extraClass)}
+    <nav
+        class={extraClass}
+        aria-label={m.documents_nav_label()}
+    >
+        <div class="grid grid-cols-1 gap-2 sm:grid-cols-3">
+            {#if navigation.previous}
+                <a
+                    href="/documents/{navigation.previous.nanoid}/"
+                    rel="prev"
+                    class="book-pager-card"
+                    aria-label={m.documents_nav_previous_aria({ title: navigation.previous.title })}
+                >
+                    <span class="book-pager-label">← {m.documents_nav_previous()}</span>
+                    <span class="book-pager-title">{navigation.previous.title}</span>
+                </a>
+            {:else}
+                <span class="book-pager-empty">← {m.documents_nav_start()}</span>
+            {/if}
+
+            {#if navigation.parent}
+                <a
+                    href="/documents/{navigation.parent.nanoid}/"
+                    class="book-pager-card"
+                    aria-label={m.documents_nav_parent_aria({ title: navigation.parent.title })}
+                >
+                    <span class="book-pager-label">↑ {m.documents_nav_parent()}</span>
+                    <span class="book-pager-title">{navigation.parent.title}</span>
+                </a>
+            {/if}
+
+            {#if navigation.next}
+                <a
+                    href="/documents/{navigation.next.nanoid}/"
+                    rel="next"
+                    class="book-pager-card"
+                    aria-label={m.documents_nav_next_aria({ title: navigation.next.title })}
+                >
+                    <span class="book-pager-label">{m.documents_nav_next()} →</span>
+                    <span class="book-pager-title">{navigation.next.title}</span>
+                </a>
+            {:else}
+                <span class="book-pager-empty">{m.documents_nav_end()} →</span>
+            {/if}
+        </div>
+    </nav>
+{/snippet}
+
 <main class="page px-5 pt-7 pb-16">
     <div class="mx-auto max-w-[46rem]">
         <a
@@ -80,32 +196,41 @@
             class="text-sm text-blue-600 no-underline hover:underline">{m.documents_back()}</a
         >
 
+        {#if navigation}
+            {@render bookBand()}
+        {/if}
+
         <h1 class="text-xl font-bold mt-4 mb-5">{data.contentNode.title}</h1>
 
-        <dl class="grid grid-cols-[max-content_1fr] gap-x-6 gap-y-2 text-sm mb-8">
-            <dt class="text-gray-500">{m.documents_column_authors()}</dt>
-            <dd>{data.contentNode.authors.length > 0 ? data.contentNode.authors.join(", ") : "—"}</dd>
+        {#if navigation}
+            {@render bookPager("mt-5 mb-8")}
+        {:else}
+            <dl class="grid grid-cols-[max-content_1fr] gap-x-6 gap-y-2 text-sm mb-8">
+                <dt class="text-gray-500">{m.documents_column_authors()}</dt>
+                <dd>{data.contentNode.authors.length > 0 ? data.contentNode.authors.join(", ") : "—"}</dd>
 
-            <dt class="text-gray-500">{m.documents_column_original_date()}</dt>
-            <dd>{data.contentNode.original_published_date ?? "—"}</dd>
+                <dt class="text-gray-500">{m.documents_column_original_date()}</dt>
+                <dd>{data.contentNode.original_published_date ?? "—"}</dd>
 
-            <dt class="text-gray-500">{m.documents_detail_source_label()}</dt>
-            <dd>
-                {#if data.contentNode.source_url}
-                    <a
-                        href={data.contentNode.source_url}
-                        class="text-blue-600 break-all no-underline hover:underline">{data.contentNode.source_url}</a
-                    >
-                {:else if data.contentNode.source_kind === "epub"}
-                    <span
-                        class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"
-                        >{m.documents_source_epub()}</span
-                    >
-                {:else}
-                    —
-                {/if}
-            </dd>
-        </dl>
+                <dt class="text-gray-500">{m.documents_detail_source_label()}</dt>
+                <dd>
+                    {#if data.contentNode.source_url}
+                        <a
+                            href={data.contentNode.source_url}
+                            class="text-blue-600 break-all no-underline hover:underline"
+                            >{data.contentNode.source_url}</a
+                        >
+                    {:else if data.contentNode.source_kind === "epub"}
+                        <span
+                            class="inline-block rounded-sm border border-gray-200 bg-gray-100 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-gray-600"
+                            >{m.documents_source_epub()}</span
+                        >
+                    {:else}
+                        —
+                    {/if}
+                </dd>
+            </dl>
+        {/if}
 
         {#if data.outline}
             <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-2">
@@ -186,6 +311,10 @@
                 <!-- eslint-disable-next-line svelte/no-at-html-tags -->
                 {@html data.contentHtml}
             </article>
+        {/if}
+
+        {#if navigation}
+            {@render bookPager("mt-10")}
         {/if}
     </div>
 </main>
@@ -322,5 +451,59 @@
     .markdown-body :global(.footnote-backref) {
         margin-left: 0.3em;
         text-decoration: none;
+    }
+
+    .book-band-title {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .book-pager-card,
+    .book-pager-empty {
+        display: block;
+        min-height: 3.5rem;
+        padding: 0.5rem 0.75rem;
+        border: 1px solid #e5e7eb;
+        border-radius: 3px;
+        text-decoration: none;
+    }
+
+    .book-pager-card:hover {
+        border-color: #bfdbfe;
+        background: #eff6ff;
+    }
+
+    .book-pager-card:focus-visible {
+        outline: 2px solid #2563eb;
+        outline-offset: 2px;
+    }
+
+    .book-pager-label {
+        display: block;
+        font-size: 0.6875rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #6b7280;
+    }
+
+    .book-pager-title {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-top: 0.15rem;
+        font-size: 0.875rem;
+        font-weight: 600;
+        line-height: 1.35;
+        color: #111827;
+    }
+
+    .book-pager-empty {
+        border-style: dashed;
+        font-size: 0.875rem;
+        color: #9ca3af;
     }
 </style>
