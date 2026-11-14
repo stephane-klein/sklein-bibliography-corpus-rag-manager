@@ -11,6 +11,10 @@ const RRF_K = 60;
 const QUERY_TIMEOUT_MS = 3_000;
 const BEST_CHUNK_CHARS = 400;
 
+// The type filter accepts only these values; the page validates the URL with
+// the same list before it reaches searchDocuments().
+export const DOCUMENT_KINDS = ["book", "document"];
+
 export async function searchDocuments({
     q,
     authorWords = [],
@@ -18,6 +22,7 @@ export async function searchDocuments({
     titleWords,
     semantic,
     requestedPage,
+    kind = "",
     pageSize = PAGE_SIZE,
 }) {
     const effectivePageSize = Number.isInteger(pageSize) && pageSize > 0 ? pageSize : PAGE_SIZE;
@@ -25,6 +30,7 @@ export async function searchDocuments({
         authorWords.length > 0 ? allWords(sql`immutable_unaccent(immutable_authors_text(authors))`, authorWords) : null,
         authorNames.length > 0 ? anyAuthorCondition(authorNames) : null,
         titleWords.length > 0 ? allWords(sql`immutable_unaccent(title)`, titleWords) : null,
+        DOCUMENT_KINDS.includes(kind) ? documentKindCondition(kind) : null,
     ].filter((condition) => condition !== null);
     const filtered = filterConditions.length > 0;
 
@@ -36,8 +42,8 @@ export async function searchDocuments({
     const selectionCounts = filtered
         ? await sql`
               SELECT count(*)::int AS total,
-                     count(*) FILTER (WHERE parent_id IS NULL)::int AS roots
-                FROM hierarchical_content_nodes
+                     count(*) FILTER (WHERE n.parent_id IS NULL)::int AS roots
+                FROM hierarchical_content_nodes n
                 ${whereClause(filterConditions)}
           `
         : [{ total: corpusTotal, roots: rootTotal }];
@@ -208,10 +214,10 @@ async function hybridSearch({ q, filterConditions, requestedPage, pageSize, corp
 
     const [bm25Docs, vectorRows] = await Promise.all([
         sql`
-            SELECT id, nanoid, title, authors, original_published_date, source_url, source_kind
-              FROM hierarchical_content_nodes
+            SELECT n.id, n.nanoid, n.title, n.authors, n.original_published_date, n.source_url, n.source_kind
+              FROM hierarchical_content_nodes n
               ${whereClause([bm25Condition(q), ...filterConditions])}
-             ORDER BY pdb.score(id) DESC, id ASC
+             ORDER BY pdb.score(n.id) DESC, n.id ASC
              LIMIT ${CANDIDATE_LIMIT}
         `,
         sql`
@@ -304,7 +310,7 @@ async function bm25Search({
     const matchConditions = [bm25Condition(q), ...filterConditions];
     const [{ total }] = await sql`
         SELECT count(*)::int AS total
-          FROM hierarchical_content_nodes
+          FROM hierarchical_content_nodes n
           ${whereClause(matchConditions)}
     `;
     const { page, totalPages, offset } = pageWindow(total, requestedPage, pageSize);
@@ -331,9 +337,9 @@ async function bm25Search({
                        end_tag => '</mark>',
                        "limit" => 3
                    ) AS snippets_en
-              FROM hierarchical_content_nodes
+              FROM hierarchical_content_nodes n
               ${whereClause(matchConditions)}
-             ORDER BY pdb.score(id) DESC, id ASC
+             ORDER BY pdb.score(n.id) DESC, n.id ASC
              LIMIT ${pageSize} OFFSET ${offset}
         `
     ).map(({ snippets_fr, snippets_en, ...document }, index) => ({
@@ -542,6 +548,27 @@ function anyAuthorCondition(names) {
             )`,
         )
         .reduce((acc, condition) => sql`${acc} OR ${condition}`);
+}
+
+// A work is a book when its root node has no Markdown file, and a document when
+// it has one. A chapter takes the type of its root, so a content search keeps
+// matching the chapters of a book. The condition walks up to that root and
+// therefore needs the node alias n: every query that applies filterConditions
+// aliases hierarchical_content_nodes as n.
+function documentKindCondition(kind) {
+    return sql`(WITH RECURSIVE ancestors AS (
+            SELECT id, parent_id, markdown_source_file
+              FROM hierarchical_content_nodes
+             WHERE id = n.id
+            UNION ALL
+            SELECT parent.id, parent.parent_id, parent.markdown_source_file
+              FROM hierarchical_content_nodes parent
+              JOIN ancestors ON ancestors.parent_id = parent.id
+        )
+        SELECT CASE WHEN markdown_source_file IS NULL THEN 'book' ELSE 'document' END
+          FROM ancestors
+         WHERE parent_id IS NULL
+    ) = ${kind}`;
 }
 
 function ilikeCondition(column, word) {

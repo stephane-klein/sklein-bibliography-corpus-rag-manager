@@ -12,6 +12,7 @@
 
     let query = $state(untrack(() => data.q));
     let title = $state(untrack(() => data.title));
+    let kind = $state(untrack(() => data.kind));
     let semantic = $state(untrack(() => data.semantic));
     let authors = $state(untrack(() => [...data.authors]));
 
@@ -21,6 +22,7 @@
     $effect(() => {
         query = data.q;
         title = data.title;
+        kind = data.kind;
         semantic = data.semantic;
         authors = [...data.authors];
     });
@@ -145,6 +147,7 @@
             q: data.q,
             author: data.authors,
             title: data.title,
+            kind: data.kind,
             semantic: data.semantic ? "1" : "",
             page: data.page,
             ...overrides,
@@ -215,7 +218,7 @@
     <p class="text-sm text-gray-500 italic mt-5">{m.documents_no_filter_results()}</p>
     <p class="text-sm mt-2">
         <a
-            href={documentsHref({ author: [], title: "", page: "" })}
+            href={documentsHref({ author: [], title: "", kind: "", page: "" })}
             class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
         >
         {#if data.hasQuery}
@@ -233,7 +236,7 @@
     {#if data.filtered}
         <p class="text-sm mt-2">
             <a
-                href={documentsHref({ author: [], title: "", page: "" })}
+                href={documentsHref({ author: [], title: "", kind: "", page: "" })}
                 class="text-blue-600 hover:underline">{m.documents_search_all_corpus()}</a
             >
             <span class="text-gray-300 mx-1">|</span>
@@ -257,7 +260,7 @@
     {m.documents_count({ count: data.selectionTotal })}
     {m.documents_selection_suffix()} ·
     <a
-        href={documentsHref({ author: [], title: "", page: "" })}
+        href={documentsHref({ author: [], title: "", kind: "", page: "" })}
         class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
     >
 {/snippet}
@@ -324,6 +327,19 @@
     />
 {/snippet}
 
+{#snippet typeSelect()}
+    <select
+        id="kind"
+        name="kind"
+        bind:value={kind}
+        class="w-full px-2 py-1.5 border border-gray-300 rounded-sm text-sm text-gray-900 bg-white focus:outline-2 focus:outline-blue-600 focus:border-blue-600"
+    >
+        <option value="">{m.documents_filter_type_all()}</option>
+        <option value="book">{m.documents_type_book()}</option>
+        <option value="document">{m.documents_type_document()}</option>
+    </select>
+{/snippet}
+
 {#snippet filterButton()}
     <button
         type="submit"
@@ -354,6 +370,13 @@
                     </div>
                 </div>
                 <div class="dense-fields">
+                    <label
+                        for="kind"
+                        class="dense-label">{m.documents_filter_type()}</label
+                    >
+                    <div class="dense-control">{@render typeSelect()}</div>
+                    <div></div>
+
                     <label
                         for="authors"
                         class="dense-label">{m.documents_filter_authors()}</label
@@ -396,22 +419,29 @@
                     >{m.documents_filters_label()}
                     <span class="font-normal text-gray-500">{m.documents_filters_optional()}</span></span
                 >
-                <div class="grid grid-cols-[1fr_auto] items-end gap-x-3 gap-y-3">
-                    <div class="col-start-1 row-start-1 min-w-0">
+                <div class="filter-fields">
+                    <div class="filter-type">
+                        <label
+                            for="kind"
+                            class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_type()}</label
+                        >
+                        {@render typeSelect()}
+                    </div>
+                    <div class="filter-authors">
                         <label
                             for="authors"
                             class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_authors()}</label
                         >
                         {@render authorsControl()}
                     </div>
-                    <div class="col-start-1 row-start-2 min-w-0">
+                    <div class="filter-title">
                         <label
                             for="title"
                             class="block text-xs font-semibold mb-1 text-gray-700">{m.documents_filter_title()}</label
                         >
                         {@render titleInput()}
                     </div>
-                    <div class="col-start-2 row-start-2">{@render filterButton()}</div>
+                    <div class="filter-submit">{@render filterButton()}</div>
                 </div>
                 <p class="text-xs text-gray-500 mt-1">{m.documents_filters_help()}</p>
             </div>
@@ -462,7 +492,7 @@
                 <span class="ml-auto text-[13px] text-gray-500">
                     {#if data.filtered}
                         <a
-                            href={documentsHref({ author: [], title: "", page: "" })}
+                            href={documentsHref({ author: [], title: "", kind: "", page: "" })}
                             class="text-blue-600 hover:underline">{m.documents_clear_filters()}</a
                         >
                         ·
@@ -732,6 +762,52 @@
         outline: 2px solid #2563eb;
         outline-offset: -1px;
         border-color: #2563eb;
+    }
+
+    /* One field per line, in the order Type, Authors, Title. The second column
+       reserves the width of the Filter button, so the Authors picker ends where
+       the Title input ends. */
+    .filter-fields {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: end;
+        gap: 0.75rem;
+    }
+
+    .filter-fields > div {
+        min-width: 0;
+    }
+
+    .filter-type {
+        grid-column: 1;
+        grid-row: 1;
+        max-width: 12rem;
+    }
+
+    .filter-authors {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .filter-title {
+        grid-column: 1;
+        grid-row: 3;
+    }
+
+    .filter-submit {
+        grid-column: 2;
+        grid-row: 3;
+    }
+
+    @media (max-width: 768px) {
+        .filter-fields {
+            grid-template-columns: minmax(0, 1fr);
+        }
+
+        .filter-submit {
+            grid-column: 1;
+            grid-row: 4;
+        }
     }
 
     .dense-form {

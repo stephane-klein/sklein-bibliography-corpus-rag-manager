@@ -1,4 +1,4 @@
-import { listDocumentAuthors, searchDocuments } from "#lib/server/document-search.js";
+import { DOCUMENT_KINDS, listDocumentAuthors, searchDocuments } from "#lib/server/document-search.js";
 
 const MAX_QUERY_LENGTH = 200;
 const MAX_FILTER_LENGTH = 200;
@@ -6,6 +6,14 @@ const MAX_AUTHORS = 20;
 
 function readParam(value, maxLength) {
     return (value ?? "").replaceAll("\u0000", "").trim().slice(0, maxLength);
+}
+
+// An unknown type means no type filter, so a hand written URL cannot reach the
+// SQL condition with an unexpected value.
+function readKind(searchParams) {
+    const kind = readParam(searchParams.get("kind"), MAX_FILTER_LENGTH);
+
+    return DOCUMENT_KINDS.includes(kind) ? kind : "";
 }
 
 // The picker repeats the author parameter once per selected author. Keep the
@@ -38,6 +46,7 @@ export async function load(event) {
     const q = readParam(event.url.searchParams.get("q"), MAX_QUERY_LENGTH);
     const authors = readAuthors(event.url.searchParams);
     const title = readParam(event.url.searchParams.get("title"), MAX_FILTER_LENGTH);
+    const kind = readKind(event.url.searchParams);
     const semantic = event.url.searchParams.get("semantic") === "1";
     const requestedPage = Number.parseInt(event.url.searchParams.get("page") ?? "1", 10);
 
@@ -47,10 +56,11 @@ export async function load(event) {
             authorNames: authors,
             titleWords: filterWords(title),
             semantic,
+            kind,
             requestedPage,
         }),
         listDocumentAuthors(),
     ]);
 
-    return { ...data, authorOptions, q, authors, title };
+    return { ...data, authorOptions, q, authors, title, kind };
 }

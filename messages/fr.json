@@ -205,9 +205,11 @@
       }
     }
   ],
+  "documents_filter_type": "Type",
+  "documents_filter_type_all": "Tous les types",
   "documents_filter_title": "Titre",
   "documents_filter_submit": "Filtrer",
-  "documents_filters_help": "Le sélecteur Auteurs et le champ Titre définissent la sélection. Un document correspond s'il a l'un des auteurs sélectionnés et si son titre contient tous les mots du filtre, accents ignorés.",
+  "documents_filters_help": "Le sélecteur Auteurs, le champ Titre et le sélecteur Type définissent la sélection. Un document correspond s'il a l'un des auteurs sélectionnés, si son titre contient tous les mots du filtre et si son type est celui choisi ; un chapitre compte comme faisant partie de son livre. Les accents sont ignorés.",
   "documents_selection_suffix": "dans la sélection",
   "documents_results_selection_suffix": "sur {selection}",
   "documents_sorted_relevance": [

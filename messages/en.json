@@ -205,9 +205,11 @@
       }
     }
   ],
+  "documents_filter_type": "Type",
+  "documents_filter_type_all": "All types",
   "documents_filter_title": "Title",
   "documents_filter_submit": "Filter",
-  "documents_filters_help": "The Authors picker and the Title field define the selection. A document matches if it has one of the selected authors, and its title contains every title word; accents are ignored.",
+  "documents_filters_help": "The Authors picker, the Title field and the Type picker define the selection. A document matches if it has one of the selected authors, its title contains every title word, and its type is the selected one; a chapter counts as part of its book. Accents are ignored.",
   "documents_selection_suffix": "in the selection",
   "documents_results_selection_suffix": "out of {selection}",
   "documents_sorted_relevance": [
