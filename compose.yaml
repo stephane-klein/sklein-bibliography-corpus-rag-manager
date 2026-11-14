@@ -4,7 +4,7 @@ services:
     # Built from:
     # https://github.com/paradedb/paradedb/blob/0d55a93132b2a78e3480ec81afe1f30104e54c41/docker/Dockerfile.paradedb-18
     image: paradedb/paradedb:0.26.6-pg18
-    restart: unless-stopped
+    restart: "no"
     ports:
       - 5432
     environment:
